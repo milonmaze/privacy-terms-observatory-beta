@@ -53,7 +53,6 @@ Use of info
 Sharing
 Protection
 Important info
-Expand
 Contents
 
 This page was copied from the Wikimedia Foundation website for localization purposes. For the official, binding version of this document, please see the English language original.
@@ -106,12 +105,10 @@ What This Privacy Policy Does & Doesn't Cover
 
 Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of any of the Wikimedia Sites. This Policy also applies to information that we receive from our partners or other third parties. To understand more about what this Privacy Policy covers, please see below.
 
-Expand
 Examples of What This Privacy Policy Covers
 
 This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the Wikimedia Shop) or sites or services run by third parties (such as third-party developer projects on Wikimedia Cloud Services). To understand more about what this Privacy Policy does not cover, please see below.
 
-Expand
 More on what this Privacy Policy doesn’t cover
 
 Where community policies govern information, such as the CheckUser policy, the relevant community may add to the rules and obligations set out in this Policy. However, they are not permitted to create new exceptions or otherwise reduce the protections offered by this Policy.
@@ -126,7 +123,6 @@ Whatever you post on Wikimedia Sites can be seen and used by everyone.
 
 When you make a contribution to any Wikimedia Site, including on user or discussion pages, you are creating a permanent, public record of every piece of content added, removed, or altered by you. The page history will show when your contribution or deletion was made, as well as your username (if you are signed in) or your IP address (if you are not signed in). We may use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used.
 
-Expand
 Publicly Visible Information
 Back to top 
 
@@ -144,7 +140,6 @@ You are not required to create an account to read or contribute to a Wikimedia S
 
 If you want to create a standard account, in most cases we require only a username and a password.
 
-Expand
 More on Usernames
 
 To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you don't want to, you don't have to—it's as simple as that.
@@ -203,7 +198,6 @@ Depending on which technology we use, locally stored data can be anything from t
 
 We use this information to make your experience with the Wikimedia Sites safer and better, to gain a greater understanding of user preferences and their interaction with the Wikimedia Sites, and to generally improve our services. We will never use third-party cookies, unless we get your permission to do so. If you ever come across a third-party data collection tool that has not been authorized by you (such as one that may have been mistakenly placed by another user or administrator), please report it to us at privacy@wikimedia.org.
 
-Expand
 More on Locally Stored Data
 
 Want to know even more? You can read more about some of the specific cookies we use, when they expire, and what we use them for in our FAQ.
@@ -218,15 +212,10 @@ How We Use Information We Receive From You
 
 We and our service providers use your information for the legitimate purpose of pursuing our charitable mission, including:
 
-Expand
 Operating the Wikimedia Sites, sharing your contributions and administering our Services.
-Expand
 Providing customized Services.
-Expand
 Sending emails with news updates, surveys and communications about items we believe may be of interest to you.
-Expand
 Sending optional surveys and requesting feedback.
-Expand
 Improving the Wikimedia Sites and making your user experience safer and better.
 Back to top 
 
@@ -451,7 +440,6 @@ Permanent link
 Page information
 Cite this page
 Wikidata item
-Link by ID
 Print/export
 Create a book
 Download as PDF
@@ -463,16 +451,75 @@ Wikipedia
 Wikiversity
 Wikivoyage
 In other languages
+Alemannisch
+Aragonés
+العربية
+مصرى
+Asturianu
+Azərbaycanca
+Boarisch
+Беларуская (тарашкевіца)‎
+Български
+বাংলা
+Bosanski
+Català
+Chavacano de Zamboanga
+کوردی
+Cymraeg
 Deutsch
+Ελληνικά
 English
+Esperanto
 Español
+Euskara
+فارسی
+Suomi
+Føroyskt
 Français
+Galego
+עברית
+हिन्दी
+Fiji Hindi
+Hrvatski
+Hornjoserbsce
+Magyar
+Հայերեն
+Interlingua
+Igbo
+Ilokano
 Italiano
+日本語
+ქართული
+Kongo
+ಕನ್ನಡ
 한국어
+Ripoarisch
+Lietuvių
+Latviešu
+Māori
+Монгол
+မြန်မာဘာသာ
+Nedersaksies
+नेपाली
+Nederlands
+Norsk nynorsk
+Português
+Tarandíne
 Русский
+Sardu
+Sicilianu
+Simple English
+Soomaaliga
+Српски / srpski
+Sesotho
+Svenska
+Türkmençe
 Tagalog
+Türkçe
+Удмурт
 Tiếng Việt
-60 more
+ייִדיש
+IsiZulu
 Edit links
 This page was last edited on 17 October 2020, at 04:58.
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. See Terms of Use for details.
