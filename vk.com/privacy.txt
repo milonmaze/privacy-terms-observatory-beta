@@ -1,0 +1,140 @@
+Search
+sign up
+Phone or email
+Password
+Log in
+Sign up
+Forgot your password?
+VK.com Privacy Policy
+
+
+1. General
+1.1. These Rules are an official document of LLC "V Kontakte" with the address at: prem. 1-N, bld. 12-14, Lit. A, Khersonskaya st., St. Petersburg, Russia, 191024 (hereinafter the Site Administration) and determine the method of processing and protecting information on the individuals using http://vk.com/web-site (hereinafter the Site) and its services (hereinafter the Users).
+1.2. The purpose of these Rules is to ensure due protection of the user information, including personal data, from unauthorized access and disclosure.
+1.3. The relations connected with the collection, storage, distribution and protection of the Site users information are governed by these Rules, other official documents of the Site Administration and effective Russian legislation.
+1.4. The current version of the Rules, which are a public document, is available to any Internet user by clicking http://vk.com/privacy. The Site Administration has the right to modify these Rules. In case changes are made to these Rules, the Site Administration shall notify the users by posting the new version of the Rules on the Site permanently at http://vk.com/privacy not later than 10 days before such changes become effective. The previous versions of the Rules are stored in the Site Administration’s documentation archive.
+1.5. These Rules have been developed and are used in accordance with the Site Use Rules available at http://vk.com/terms. In case of contradictions between these Rules and other official documents of the Site Administration, these Rules will prevail.
+1.6. By registering and using the Site the User agrees with the conditions of these Rules.
+1.7. In case the User disagrees with the conditions of these Rules, the use of the Site and its services must be stopped immediately.
+
+2. Terms and conditions
+2.1. By making available the Site and its services (hereinafter the Site Services), the Site Administration, acting reasonably and in good faith, believes that the User:
+has all necessary rights to register on and use this Site;
+provides true information about himself (herself) to the extent necessary for use of the Site Services;
+understands that the personal information posted by the User may become available to other Site Users and Internet users, be copied and disseminated by such users;
+understands that some types of information transferred by him / her to other Users cannot be deleted by the User himself / herself;
+is aware of and accepts these Rules and assumes the rights and obligations provided by these Rules.
+2.2. The Site Administration does not check the user information received (collected), except where such check is necessary in order for the Site Administration to fulfill its obligations to the User.
+
+
+
+3. Purposes of information processing
+The Site Administration processes information on the Users, including their personal data, in order to fulfill the Site Administration’s obligations to the Users regarding use of the Site and its services.
+
+
+
+4. User information
+4.1. Users’ personal data
+The Users’ personal data include:
+4.1.1. data that are provided by the Users and are minimally necessary for registering on the Site: name, surname, sex, mobile phone number and/or email;
+4.1.2. data that are provided by the Users using the edit section for their Site pages http://vk.com/edit (including family status, date of birth, native city, family relations, home address, education details);
+4.1.3. data that are provided by the Users additionally at the Site Administration’s request to enable the Site Administration to fulfill its obligations to the Users under the Site Service contract (e.g., in case the User requests restoration of his / her page that is not linked to a mobile phone number). Among other things, the Site Administration has the right to request that the User produce a copy of the identity document or another document containing the User’s name, surname, photograph as well as other additional information which, at the discretion of the Site Administration, is necessary and sufficient to identify such User and prevent abuses and infringements of third parties’ rights.
+4.2. Other User information processed by the Site Administration
+The Site Administration may also process other User information including:
+4.2.1. additional data received while accessing the Site, including information regarding technical devices, technical interaction with the Site (as for a host IP-address, user's operating system, type of a browser, geographic position, the Internet provider, contacts, data obtained accessing the camera, microphone and similar devices) and further Users' actions on the Site. Information containing the Site activity history is available for User in "Settings / Security";
+4.2.2. information that is automatically received at the time of access to the Site with the use of cookies;
+4.2.3. information that is created by the users on the Site outside the page edit section http://vk.com/edit (including statuses, entries in the microblog (“Wall”), pictures, audio recordings, video recordings, comments, entries in the group discussions);
+4.2.4. information that is received as the result of the User’s actions on the Site (in particular, joining / leaving a group, adding other Users to the friends list, posting pictures, participation / refusal to participate in meetings, adding video recordings). This User information can be available to all of the User's friends in the My News section in accordance with the User's settings;
+4.2.5. information that is received as the result of other Users’ actions on the Site (in particular, notes made on the video recordings and pictures by other Users).
+5. Processing of the user information
+5.1. The personal data are processed according to the following principles:
+a) lawful purposes and methods of personal data processing;
+b) good faith;
+c) the purposes of personal data processing meet the purposes determined in advance and declared at the time of personal data collection as well as to the Site Administration’s powers;
+d) the scope and nature of the personal data being processed and the methods of personal data processing meet the purposes of personal data processing;
+e) it is unacceptable to unify personal data bases created for incompatible purposes.
+5.1.1. Conditions and purposes of personal data processing
+The Site Administration processes the User’s personal data for the purpose of performance of the contract between the Site Administration and the User for the Site Services (clause 2.2 of the VK.com Terms of Service http://vk.com/terms). By virtue of Article 6 of Federal Law “On Personal Data” No. 152-FZ of July 27, 2006, no separate consent of the User for the processing of his / her personal data is required. By virtue of sub-clause 2, clause 2, Article 22 of this Law, the Site Administration has the right to process personal data without notifying the authorized body in charge of personal data protection.
+5.1.2. Personal data collection
+The User’s personal data are collected on the Site at the time of registration and also subsequently as the User enters additional information about himself / herself on his / her own initiative, using the Site tools.
+The personal data mentioned in clause 4.1.1 hereof are provided by the User and are minimally necessary for registration.
+The personal data mentioned in clause 4.1.2 hereof are provided by the User additionally on his / her own initiative using the Edit tab in the My Page section.
+5.1.3. Storage and use of personal data
+The Users’ personal data are stored only on electronic media and are processed with the use of automated systems, except where a non-automated processing of personal data is necessary in connection with legal requirements.
+5.1.4. Personal data transfer
+The personal data of the Users are not transferred to any third parties, with the exception of cases expressly provided for by these Rules.
+If the User specifies or with the consent of the User, it is possible to transfer the personal data of the User to third parties as counterparties of the Website Administration subject to the assumption by such counterparties of obligations to ensure the confidentiality of information received, in particular when using applications.
+Applications used by users on the Website are hosted and supported by third parties (developers) who act independently of the Website Administration and do not act on behalf or at the direction of the Website Administration. In this case, the data is transmitted with the consent of the User, provided in the form of an implicative action when the application is run and/or used for the first time (in particular, by pressing the corresponding button (if any). Users are required to independently familiarize themselves with the Services Provision Rules and the Privacy Policy of such third parties (developers) before using the relevant applications.
+Actions of such third parties (developers) are governed by the official document of the Website Administration “Application Publishing Terms.”
+Provision of personal data of the Users at the request of state bodies (local authorities) is performed in the manner prescribed by legislation.
+In order to fulfill the agreement between the User and the Website Administration and provide the User with access to the use of the Website functionality, the Website Administration develops the services and products that will be provided, develops and implements new services and products, optimizes the quality of services and products, improves the available functionality of the Website and services. To ensure the implementation of these goals, the User agrees that the Website Administration, in compliance with the applicable legislation, can send them transactional messages for receiving feedback (including surveys) through the services of the Website Administration and/or third-party services as follows: electronic messages, SMS and other types of mailings, and that the Website Administration can also collect, store, accumulate, systematize, extract, compare, use, fill (clarify) of their data, as well as receive and transfer to affiliates and partners the results of automated processing of such data using various models for evaluating information, in the form of integer and/or text values and identifiers that correspond to the evaluation criteria specified in the requests, for data processing by the Website Administration and/or the persons specified in this clause.
+VKontakte Website is a Service contained in the VK Ecosystem. Registration and/or authorization on the Website using the VK Connect tool means acceptance of the VK Ecosystem Rules, which are publicly available at: https://vk.com/vk_ecosystem_terms, as well as the VK Connect User Agreement, which is publicly available at: https://connect.vk.com/terms, and the VK Connect User Information Protection Rules, which are publicly available at: https://connect.vk.com/privacy.
+In order to use the VK Connect and provide services and/or provide rights and possibility of using the Services and tools contained in the VK Ecosystem, the User hereby agrees and instructs the Website Administration to transfer and receive personal data and other information about the User to/from the Services that contained in the VK Ecosystem, for the subsequent collection, storage, accumulation, systematization, extraction, comparison, use of such data, and filling with such data of the Services contained in the VK Ecosystem, in the scope indicated in the VK Connect personal account.
+5.1.5. Deletion of personal data
+The User’s personal data are deleted in case:
+– the User himself / herself removes data from his / her personal page;
+– the User himself / herself removes his / her personal page, using the Remove My Page functionality available to the User in the My Settings section;
+– the Site Administration removes the information posted by the User as well as the User’s Page as provided by the VK.com Terms of Servicehttp://vk.com/terms (sub-clauses 7.2.2 and 8.6).
+In case of the personal page removal, the Site Administration stores the User’s personal data on its electronic media for the time period needed and established by the current legislation of the Russian Federation. In case the User himself / herself removes his / her personal page, the User has the right to restore his / her personal page within 210 days after the personal page is removed in settings [https://vk.com/settings|https://vk.com/settings.
+5.2. Publishing any content on his / her own personal page including personal information the User understands and accepts that this information may be available to other Internet users taking into account the architecture and functionality of the Site. The User determines on his / her own the confidentiality mode and conditions of access to the information mentioned in sub-clauses 4.2.3 – 4.2.5 hereof by means of appropriate settings. The Site Administration takes technical and organizational measures to ensure that the appropriate Site tools are functional.
+6. User's rights and obligations
+6.1. The User has the right to:
+6.1.1. access their information without restrictions and free of charge by loading his / her personal page on the Site with the use of login and password;
+6.1.2. establish, using the Site tools, the desired confidentiality level for his / her information (conditions of access to information) in accordance with clause 6.3 hereof;
+6.1.3. independently make changes and corrections to his / her information on the User’s personal page on the Site, provided that such changes and corrections contain up-to-date and true information;
+6.1.4. remove his / her information from his / her personal page on the Site;
+6.1.5. request that the Site Administration update, block or delete his / her personal data, if such data are incomplete, outdated, untrue, unlawfully received or are not necessary for the declared purpose of processing or if the actions specified in sub-clauses 6.1.3 and 6.1.4 hereof cannot be implemented independently;
+6.1.6.request information from the Site Administration regarding the processing of his / her personal data.
+6.2. As the Site is an all-in-one means of communication and search for people and the key function of the Site is to restore and maintain contacts with old and new acquaintances, the following information on the registered User is always available to any registered Site User:
+6.2.1. User’s surname and name;
+6.2.2. date of birth, profile photograph, city, name of the higher educational institution the User currently attends or has graduated from, year (planned year) of graduation from the higher educational institution, name of the university department the User currently attends or has graduated from, and the User’s entries in the microblog (“Wall”), if the User has posted this information on the Site in the My Page section;
+6.2.3. information on the User’s subscriptions and subscribers;
+6.2.4. list of the User’s friends, except the limited list of friends the User preferred to hide.
+6.3. User’s adjustment of the confidentiality level for his / her information
+6.3.1. The User may, subject to the limitations under clause 6.2 hereof, set one of the following confidentiality levels for his / her personal data (clause 4.1 hereof) as well as for the information mentioned in sub-clause 4.2.3 hereof:
+a) information available to all of the Site Users;
+b) information available to all of the Site Users, except specific Users;
+c) information available to the persons having the status of the User’s friends on the Site as well as to the persons having the status of their friends;
+d) information available only to the persons having the status of the User’s friends on the Site;
+e) information available only to some persons having the status of the User’s friends on the Site;
+f) information available to some lists of friends (in case the User has created at least one list of friends using the Create List tool in the My Friends section);
+g) information available only to the User.
+6.3.2. For the information mentioned in clause 6.2 hereof, the User may set one of the following confidentiality levels:
+a) information available to all Internet users and indexed by the search systems;
+b) information available only to the Site Users;
+c) information available to all Internet users but not indexed by the search systems.
+
+6.3.3. The Site Administration bears no liability for the disclosure of the User’s personal data by other Site Users who have accessed such data in accordance with the confidentiality level selected by the User.
+6.3.4. In case of personal data (other user information) removal from the User’s personal page or removal of the User’s personal page from the Site, the User’s information copied by other Users or stored on other Users’ pages is preserved.
+6.3.5. To make sure that the selected confidentiality level is correct, the User may, using the Site tools, watch his / her personal page being viewed by other Users.
+
+
+
+7. Users' information protection measures
+7.1. The Site Administration takes technical, organizational and legal measures to ensure that the User’s personal data are protected from unauthorized or accidental access, deletion, modification, blocking, copying, dissemination as well as from other unauthorized actions.
+7.2. Access to the Site is authorized using the User’s login (email address or mobile phone number) and password. The User is responsible for keeping this information confidential. The User may not transfer his / her login and password to third parties and is also obliged to take measures for keeping them confidential.
+7.3. To improve the Users' information protection, the Site Administration uses a system that links the page to the mobile phone number. To implement this system, the User must provide the Site Administration with his / her mobile phone number. Under the system that links the page to the mobile phone number, in case of loss of the login or password the User can restore access to the page using the restoration code contained in the SMS message that the User receives on his / her mobile phone. To reduce the probability of third parties using the Users' logins and passwords to send spam in their name, in case the User’s login and password are entered from a server unusual for the User (in particular, from a server located in a foreign country), the Site Administration blocks entry to the User’s personal page by a message requiring to provide certain digits of the User's mobile phone number. After three unsuccessful attempts to enter the digits, access to the personal page from that server is blocked for 4 hours.
+The Site Administration also has the right to call the User’s phone number for the purpose of registration, authorization, confirmation of the phone number linked to the User’s personal page (verification), and restoring access to the User’s personal page using flash call verification. After receiving the flash call, the User must enter a code consisting of the last 4 digits of the incoming phone number in the corresponding window. Depending on the operating system of the User’s mobile device, the code could be automatically entered into the corresponding window, but only after the User gives permission for their call history on their mobile device to be accessed. This permission is given by clicking the “Allow” button or a similar button. Access to the User’s call history on their mobile device is used for the purpose of automating code entry and protecting against spam and mass registration.
+7.4. The User has the right to receive information as to at what time and from what devices the access to his / her personal page was authorized, using the Show activity history link in the My Settings / Security.
+
+
+
+8. Limitation of the Rules applicability
+These Rules do not apply to the actions and Internet resources of third parties.
+
+The Site Administration bears no liability for the actions of third parties which as the result of using the Internet or the Site Services obtained access to the User information in accordance with the confidentiality level selected by the User, for the consequences of use of the information which, due to the Site nature, is available to any Internet user. The Site Administration recommends that the Users take a responsible approach to the scope of their information posted on the Site.
+
+
+
+9. Users' inquiries
+9.1. The Users have the right to send their inquiries to the Site Administration, including inquiries regarding the use of the personal data under clause 6.1.6 hereof, in writing to: prem. 1-N, bld. 12-14, Lit. A, Khersonskaya st., St. Petersburg, Russia, 191024, or to support@vk.com in the form of an electronic document bearing a qualified electronic signature in accordance with Russian legislation.
+9.2. The User’s inquiry must contain the following information:
+number of the principal identity document of the User or his / her representative;
+date of issue of the above document and the issuing authority;
+information confirming the User’s participation in relations with the operator (in particular, the number of the User’s id or the short (sub-domain) name substituting the id number);
+signature of the User or his / her representative.
+9.3. The Site Administration undertakes to consider and respond to the User’s inquiry within 30 days after it is received.
+9.4. All correspondence received by the Site Administration from the Users (written or electronic inquiries) is classified as restricted-access information and may not be disclosed without the User’s written consent. The personal data and other information on the User who sent the inquiry may not be used without the User’s special consent for any purpose other than for response to the inquiry, except as expressly provided by law.
+VK © 2006–2021
+About VK Terms Developers
+EnglishРусскийУкраїнськаall languages »

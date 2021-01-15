@@ -451,6 +451,7 @@ Permanent link
 Page information
 Cite this page
 Wikidata item
+Link by ID
 Print/export
 Create a book
 Download as PDF
