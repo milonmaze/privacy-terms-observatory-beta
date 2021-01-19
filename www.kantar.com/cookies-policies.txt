@@ -335,9 +335,10 @@ PropertyBagID	kantarmarketplace.com	Pending	1 year	HTTP Cookie
 timezoneOffset	Workday	Pending	Session	HTTP Cookie
 wday_vps_cookie	Workday	Pending	Session	HTTP Cookie
 WorkdayLB_UICLIENT	Workday	Pending	Session	HTTP Cookie
-Nearest Office
-25 Metro Dr Suite 210,
-San Jose CA 95110
+Global Office
+6 More London Place,
+London SE1 2QY
+T +44 (0)20 7656 5700
 Follow Kantar
 Expertise
 Industries
