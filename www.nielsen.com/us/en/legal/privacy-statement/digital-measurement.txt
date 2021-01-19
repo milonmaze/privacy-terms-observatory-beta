@@ -1,0 +1,207 @@
+Skip to main content
+Enable Keyboard Navigation
+Enable accessibility for
+visually impaired
+Open the accessibility
+menu
+Digital Measurement Privacy Statement – Nielsen
+United States
+Client Login
+INSIGHTS
+SOLUTIONS
+ABOUT
+NEWS CENTER
+PRIVACY
+DIGITAL MEASUREMENT PRIVACY STATEMENT
+
+Nielsen uses its proprietary software and products to provide digital measurement services, which measure and analyze how consumers engage with media across online, mobile and emerging technologies, and enable Nielsen to offer research insights into consumer behavior. The practices described in this Privacy Statement are undertaken by Nielsen companies providing digital measurement services around the world. Learn more about Nielsen’s family of companies or contact Nielsen’s Privacy Department for more information (see the “Contact Us” section below for our contact details).
+
+This Digital Measurement Privacy Statement reflects Nielsen’s general digital measurement practices. However, we provide our digital measurement services to clients around the globe, and our contracts with our clients may place additional limits on what we can or cannot do with data collected when we provide such digital measurement services to them. In some cases, we may not be permitted to use and share data in all of the ways described in this Privacy Statement. When our contract with a client only permits us to process data to provide the client with services, we typically do so as a “data processor” or “service provider.” When our contract with a client permits us to process data for purposes other than providing services to the client, we may do so as a “data controller” or ”business.”
+
+Please review the privacy statements of website publishers and other parties whose websites and applications you use to obtain specific information about data collected on those websites and applications, and how they use and process data collected, including through their use of Nielsen’s digital measurement services. We require our clients to: let their users know about the use of measurement products and software (although they may not always identify Nielsen by name); ensure they have obtained appropriate permissions to collect, use, and disclose to us information collected as a result of their use of the Nielsen digital measurement services; and ensure users are given appropriate choices with respect to the collection and use of their information.
+
+Data Collection
+Data Use
+Data Sharing
+Basis for Processing Personal Data
+Data Retention and Security
+Choices
+Your Rights
+Changes to This Privacy Statement
+Contact Us
+About Us
+DATA COLLECTION
+
+Nielsen works with various companies, including data providers, advertisers and publishers, to measure the effectiveness and reach of content viewed or listened to, no matter what kind of device people use to consume it. For example, we help advertisers better understand campaign performances across TV, computer and mobile device audiences.
+
+How Data is Collected: Participating companies include Nielsen’s proprietary measurement software in their content on their chosen sites, ads, mobile apps, video players, and other internet-connected devices (such as smart TVs) or they may provide us data directly through connections to their servers and various secure data transfer methods. In this Privacy Statement the word “content” refers to audio, video, advertisements and any other media users might encounter or engage with. Nielsen’s measurement software is embedded in the content or via the devices that you use in order to gather information that helps us understand what content users are exposed to and interact with, and which advertising campaigns are effective.
+
+The specific information collected depends on how our clients use our measurement software; a general description of the types of information we collect and how it is used is provided below. We generally do not (and cannot) identify, or attempt to identify, the individuals about whom we collect content measurement data. However, if you are a member of a Nielsen panel, we can associate measurement data collected via our measurement software with you as described below in the “What data is collected” and “Data Use” sections of this Privacy Statement, as well as in your Panelist Membership Agreement.
+
+What data is collected: Depending on the service, Nielsen’s proprietary measurement software collects:
+
+information about the content that was viewed – such as the ad campaign, program or episode that was viewed;
+information about where the content was viewed – such as the website or the app; and
+general information about the browser or device on which the content was viewed – such as whether the user viewed content on a tablet or smartphone, unique
+semi-persistent device identifiers which may include mobile device advertising identifier, IP address, and/or cookie identifier, and the operating system in use.
+
+We do not track or collect information about users’ activities across sites or applications.  Data we collect may be  matched with data from Nielsen panelists or other companies that recognize their own users or that collect data about consumers generally, such as social media companies or ecommerce companies. These other companies provide Nielsen with aggregated or de-identified audience statistics (such as age and gender make-up of an audience). We do not tell these third parties what content users have viewed, and Nielsen never learns the identities of other companies’ users.
+
+Data from these other sources is also used to enhance or calibrate the data collected from our measurement software, and to enable more robust research and analyses. 
+
+In some cases, we collect information directly from individuals. Occasionally, Nielsen presents short surveys to users who may or may not have been exposed to our clients’ content.
+
+Responses are voluntary, and the surveys do not ask for or collect any directly identifiable data.
+
+DATA USE
+
+We process personal data to provide our digital measurement services, which measure and analyze how consumers engage with media across online, mobile and emerging technologies. This enables the creation of research insights, reports, and analyses of consumer behaviors, including the composition of the audience that viewed certain content or about the effectiveness of an advertising campaign, such as an audience measurement report finding that an ad campaign was viewed by “70,000 females between the ages 24-30 in the U.S., Pacific Northwest region.”
+
+We use tools and methods to make sure that there is no reasonable possibility of identifying users from the reports and insights we create and provide to our clients. The data we collect from users is combined with the data collected from other sources to produce aggregated reports from which users cannot be uniquely identified; if it is not aggregated, we take steps to make sure there is no reasonable possibility of re-identification.
+
+In addition to processing personal data for our digital measurement services and research purposes as described above, we process personal data to:
+
+Operate and manage our IT and security systems, including to monitor such systems and identify and respond to security events;
+Detect and prevent fraud;
+Conduct research for quality assurance and product, service, and business development purposes, including research and development. This includes data analysis, audits, developing new products, producing predictive models, improving our services, identifying usage trends, and determining the effectiveness of our communications.
+Facilitate the day-to-day operations and financial management of the Nielsen group of companies and any corporate transactions (e.g., re-organization, merger, sale, joint venture, assignment, transfer, etc);
+Protect the rights, safety, property, or operations of one or more Nielsen entities, you, or others;
+Comply with applicable laws and regulations and establish, exercise, and/or defend the legal rights of one or more Nielsen entities; and
+Respond to requests and communications from law enforcement authorities or other government officials.
+DATA SHARING
+
+In connection with one or more of the data use purposes described above, we may share information, including personal data, with the following recipients.
+
+We employ or work with other companies or individuals to perform certain functions on our behalf. These service providers are granted access to the personal data needed to perform their functions, but are prohibited from using personal data for any other purpose.
+We may disclose personal data to third parties if necessary to complete any transaction you requested or authorized, or to third parties such as other market research companies and our clients in accordance with market research industry ethical guidelines.
+We may disclose data to third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets, or stock.
+We may disclose data to third parties when disclosure is required by law or needed to exercise or preserve our legal rights, or to take action regarding potentially illegal activities,
+
+In each case, we will take reasonable steps to ensure that the data is protected as described in this Statement.
+
+We do not and will not sell any personal data to third parties for their own commercial use.
+
+BASIS FOR PROCESSING PERSONAL DATA
+
+Applicable law in certain jurisdictions requires us to set out in this Privacy Statement the legal basis upon which we rely when we collect and process personal data as a data controller (i.e., data collected for our own purposes). When we collect and process personal data via the use of our measurement software on behalf of our clients (i.e., where we are only permitted to process data collected on behalf of our clients), we are typically acting as a data processor and rely on the client’s legal basis for processing.
+
+For personal data collected about users in the European Union (“EU”)/European Economic Area (“EEA”) as a data controller we rely on one of the legal bases below in order to process such data.
+
+Legitimate Interests: We rely on our legitimate interests to process users’ personal
+data, provided that such interests are not overridden by the user’s interests, fundamental rights, or freedoms. In particular, we process users’ personal data in
+reliance on a legitimate interest in the effective and lawful operation of our business, on our and our clients’ interests in accurately measuring and analyzing audiences, the effective delivery and improvement of our products, services, and websites, information security operations, compliance with laws and regulations, compliance with requests for disclosure to law enforcement, courts, and regulatory bodies, and to prevent and detect fraud (or suspected fraud).
+Compliance with legal obligations: We may process users’ personal data if necessary for us to comply with a legal obligation arising under applicable law.
+Consent: We may rely on the consent that we or our publishers obtain from users in order to perform our digital measurement services.
+DATA RETENTION AND SECURITY
+
+Nielsen uses reasonable organizational, technical and administrative measures to protect the security and confidentiality of data within our control.
+
+We store personal data for as long as needed to provide our digital measurement services to clients, for our research and analyses purposes as described in this Privacy Statement, and in accordance with law. We may process and store data in users’ home countries or we may transfer data to another country. Wherever we maintain data, we will apply the terms of this Privacy Statement and any applicable law.
+
+For personal data collected about users in the EU/EEA, where there is a need to transfer
+
+personal data to a party based in a non-EU country that has not been recognized by the European Commission as providing an adequate level of data protection, we do so on the basis of EU Standard Contractual Clauses (SCCs), a set of contractual terms and conditions issued by the European Commission that parties can agree to in order to transfer data in compliance with data protection laws and regulations, or pursuant to other safeguards deemed appropriate under applicable laws and regulations. Further details relating to the transfers described above and the safeguards used with respect to such transfers can be requested by contacting us at privacy.department@nielsen.com.
+
+CHOICES
+
+Nielsen believes that you should have a choice about whether to contribute to our research and insights with your data. If you do not wish to participate in Nielsen’s digital measurement research, you may opt out. 
+
+If you choose to be excluded from the Nielsen measurement, Nielsen will only collect aggregated counts of how many times and for how long a piece of content (e.g. a video or an advertising) has been viewed.
+
+You may opt-out in the following ways:
+
+Browser:  Where measurement of user activity on browsers is based on the use of cookies, you can opt out by clicking here.  
+
+When you opt out, our opt-out mechanism replaces our unique measurement cookie with an “Opt_Out” cookie. However, if you delete all of your regular cookies, this will include your Nielsen “Opt_Out” cookie, and you will have to opt out again.
+
+Please note that if you use more than one browser, you will need to opt out on each one. Safari and Firefox users should be aware that these browsers prevent the placing of cookies which means that Nielsen is only able to capture traffic counts without being able to associate this to demographic information. This is equivalent to opting out on other browsers.
+
+If you have opted out, but change your mind and want to participate in Nielsen’s digital measurement research, you may opt back in.
+
+Mobile Apps: In the mobile app environment, we require each application that contains active Nielsen measurement software to disclose that measurement software is included in that app, and provide access to an opt out mechanism.
+
+Please note that some older versions of apps that contain Nielsen measurement software and / or devices that leverage older operating systems are able to provide only an app-level and/or device-specific opt out. For these apps/devices you will need to opt out in each app on each device. In newer apps and operating systems, a device-level opt-out is available by activating  the “Limit Ad Tracking/App Tracking” (for iOS devices) or “Opt out of Ads Personalization” (for Android devices) option in your device’s settings. If you use more than one mobile device, you will need to change the settings on each device.
+
+Other devices: Technologies and devices other than web browsers and mobile applications leverage unique, non-standard identifiers. How those are managed will vary from manufacturer to manufacturer. For internet-connected devices, we require our clients to provide functionality that enables users to opt-out of the collection of data when they leverage Nielsen measurement software.
+
+YOUR RIGHTS
+
+Depending on your country or state (US) of residence, under applicable law users may have various additional rights with respect to personal data processed. Where we act as a service provider or data processor to our clients, we will depend on our clients to facilitate the exercise of these rights and we will cooperate with them insofar as it is possible.
+
+Rights may include one or more of the following:
+
+To request confirmation as to whether or not personal data is processed, and, where that is the case, access a copy of the data we hold about you and to request it is updated or corrected where it is inaccurate;
+To object to processing of personal data held about you;
+To propose other restrictions on the processing of personal data about you;
+To request that personal data about you is deleted (where applicable); and
+To lodge a complaint with the data protection or privacy authority in your country of residence regarding the processing of personal data.
+
+Users that are interested in exercising one or more of the rights described above can submit a request here.  Nielsen does not discriminate against users who exercise their rights under applicable law.
+
+Only you or an “Authorized Agent” permitted to act on your behalf may submit a request. An ‘Authorized Agent” means a natural person or a business entity you have authorized to act on your behalf by providing your written permission. Please note, we may deny a request from an Authorized Agent if they do not submit proof that they have been authorized by you to act on your behalf.
+
+Your request must:
+
+Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal data or an Authorized Agent; and
+Describe your request with sufficient detail that allows us to properly understand,
+evaluate, and respond to it.
+
+We cannot respond to your request or provide you with personal data if we cannot verify your identity or your authority to make the request or confirm the personal data relates to you. To verify your identity, we will match data you provide when you submit your request to any personal data we already maintain.
+
+Additional information for users in the EU/EEA:
+
+Users that have questions or concerns about Nielsen’s collection and processing of personal data can contact our EU Data Protection Officer at privacy.department@nielsen.com. Users that are dissatisfied with the way Nielsen has processed personal data or any privacy query or request that they have raised to us have the right to complain to the Supervisory Authority in their country of residence or the location where the issue that is the subject of the complaint occurred. Users can find the contact details of all the national Supervisory Authorities by visiting: EU National Data Protection Authorities.
+
+CHANGES TO THIS PRIVACY STATEMENT
+
+Nielsen reserves the right to update and make changes to this Privacy Statement. Where we intend to process previously collected personal data for a new purpose(s), we will provide updated notice and choice in accordance with applicable law.
+
+This Privacy Statement replaces any other statement, whether written or oral, made to you about our practices with respect to Nielsen’s collection and use of personal data for digital measurement services.
+
+CONTACT US
+
+If you have any comments or questions regarding this privacy Statement, please contact us at privacy.department@nielsen.com.
+
+ABOUT NIELSEN
+
+THANK YOU – WE APPRECIATE AND VALUE YOUR PARTICIPATION!
+
+Nielsen Holdings plc (NYSE: NLSN) is a global measurement and data analytics company that provides the most complete and trusted view available of consumers and markets worldwide. The company’s approach marries proprietary Nielsen data with other data sources to help clients around the world understand what’s happening now, what’s happening next, and how to best act on this knowledge.For more information, please visit www.nielsen.com.
+
+This Privacy Statement was last updated August 2020.
+
+PRIVACY INFORMATION
+Marketing Privacy Statement
+Nielsen Marketing Cloud Privacy Statement
+Careers Privacy Statement
+Website Privacy Statement
+Privacy Statement
+COMPANY INFO
+About Nielsen
+Investor Relations
+SEC Disclaimer
+Careers
+News Center
+Responsibility & Sustainability
+Nielsen Panels
+Client Learning
+Press Room
+Contact Us
+INSIGHTS
+Newswire
+Reports
+Podcasts
+Case Studies
+Top 10 & Trends
+How We Measure
+Webinars & Events
+Resources
+Newsletter Sign-up
+SOLUTIONS
+Nielsen Global Connect
+Nielsen Global Media
+See All
+Privacy Statement
+Do Not Sell My Personal Information
+Terms of Use
+Copyright © 2021 The Nielsen Company (US), LLC. All Rights Reserved.
