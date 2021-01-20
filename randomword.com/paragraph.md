@@ -1,6 +1,6 @@
 Word | Noun | Sentence | Question | Adjective | Idiom | Verb | Letter | Paragraph | Vocabulary | 1 Word Quotes | 2 Word Quotes | 3 Word Quotes | Word Affirmation
 
-It seemed like it should have been so simple. There was nothing inherently difficult with getting the project done. It was simple and straightforward enough that even a child should have been able to complete it on time, but that wasn't the case. The deadline had arrived and the project remained unfinished.
+All he could think about was how it would all end. There was still a bit of uncertainty in the equation, but the basics were there for anyone to see. No matter how much he tried to see the positive, it wasn't anywhere to be seen. The end was coming and it wasn't going to be pretty.
 next paragraph...
 Random Paragraph
 
