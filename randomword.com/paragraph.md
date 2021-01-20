@@ -1,6 +1,6 @@
 Word | Noun | Sentence | Question | Adjective | Idiom | Verb | Letter | Paragraph | Vocabulary | 1 Word Quotes | 2 Word Quotes | 3 Word Quotes | Word Affirmation
 
-All he could think about was how it would all end. There was still a bit of uncertainty in the equation, but the basics were there for anyone to see. No matter how much he tried to see the positive, it wasn't anywhere to be seen. The end was coming and it wasn't going to be pretty.
+One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one’s cheeks burned with the silent imputation of parsimony that such close dealing implied. One dollar and eighty-seven cents. And the next day would be Christmas...
 next paragraph...
 Random Paragraph
 
