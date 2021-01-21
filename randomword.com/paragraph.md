@@ -1,6 +1,6 @@
 Word | Noun | Sentence | Question | Adjective | Idiom | Verb | Letter | Paragraph | Vocabulary | 1 Word Quotes | 2 Word Quotes | 3 Word Quotes | Word Affirmation
 
-One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one’s cheeks burned with the silent imputation of parsimony that such close dealing implied. One dollar and eighty-seven cents. And the next day would be Christmas...
+"Begin today!" That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back. For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it up and threw it away.
 next paragraph...
 Random Paragraph
 
