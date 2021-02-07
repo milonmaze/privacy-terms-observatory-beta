@@ -222,6 +222,8 @@ You may terminate this agreement within the notice period in this section. Termi
 
 Please print and retain a copy of this document and any linked documents for your records.
 
+Last updated: Friday, July 10, 2020 Improve article
+
 Follow us
 Contribute
 File a bug
