@@ -95,6 +95,30 @@ Developers must not obfuscate code or conceal functionality of their extension. 
 Removal of whitespace, newlines, code comments, and block delimiters
 Shortening of variable and function names
 Collapsing files together
+Additional Requirements for Manifest V3:
+
+Extensions using Manifest V3 must meet additional requirements related to the extension's code. Specifically, the full functionality of an extension must be easily discernible from its submitted code. This means that the logic of how each extension operates should be self contained. The extension may reference and load data and other information sources that are external to the extension, but these external resources must not contain any logic.
+
+Some common violations include:
+
+Including a <script> tag that points to a resource that is not within the extension's package
+
+Using JavaScript's eval() method or other mechanisms to execute a string fetched from a remote source
+
+Building an interpreter to run complex commands fetched from a remote source, even if those commands are fetched as data
+
+Communicating with remote servers for certain purposes is still allowed. For instance,
+
+Syncing user account data with a remote server
+
+Fetching a remote configuration file for A/B testing or determining enabled features, where all logic for the functionality is contained within the extension package
+
+Fetching remote resources that are not used to evaluate logic, such as images
+
+Performing server-side operations with data (such as for the purposes of encryption with a private key)
+
+If our reviewers are unable to determine the full functionality of your extension during the review process, we may reject your submission or remove it from the store.
+
 Prohibited Products:
 
 We don't allow products or services that:
@@ -274,6 +298,8 @@ Policy Enforcement
 Serious or repeated violations of the Chrome Web Store Distribution Agreement or these Program Policies will result in the suspension of your developer account, and possibly related developer accounts. Additionally, you may be banned from using the Chrome Web Store. In extreme cases, this may also result in the suspension of related Google services associated with your Google account. Repeated infringement of intellectual property rights, including copyright, will also result in account termination. For more information on Google's copyright policies, please use this tool.
 
 In the event that your Product is removed from Chrome Web Store, you will receive an email notification to that effect, with further instructions if applicable. Please verify that the associated publisher account with your Product can receive emails from external parties and not get flagged as Spam to ensure that you receive all communications in a timely manner.
+
+Last updated: Tuesday, November 17, 2020 Improve article
 
 Follow us
 Contribute
