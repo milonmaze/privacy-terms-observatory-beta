@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective September 30, 2020 | Archived versions | Download PDF
+Effective February 4, 2021 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -73,7 +73,7 @@ People with whom you communicate or share content
 Activity on third-party sites and apps that use our services
 Chrome browsing history you’ve synced with your Google Account
 
-If you use our services to make and receive calls or send and receive messages, we may collect telephony log information like your phone number, calling-party number, receiving-party number, forwarding numbers, time and date of calls and messages, duration of calls, routing information, and types of calls.
+If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.
 
 You can visit your Google Account to find and manage activity information that’s saved in your account.
 
@@ -127,7 +127,7 @@ Go to Ad Settings
 
 Measure performance
 
-We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, Google and a Google Analytics customer may link information about your activity from that site with activity from other sites that use our ad services.
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, a Google Analytics customer may choose to enable Google to link information about your activity from that site with activity from other sites that use our ad services.
 
 Communicate with you
 
@@ -357,7 +357,7 @@ Geolocation data, such as may be determined by GPS, IP address, and other data f
 
 Audio, electronic, visual and similar information, such as voice and audio information when you use audio features.
 
-Professional, employment, and education information, such as information you provide or that is maintained through a G Suite account by an organization at which you study or work.
+Professional, employment, and education information, such as information you provide or that is maintained through an organization using Google services at which you study or work.
 
 Other information you create or provide, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). Google Dashboard allows you to manage information associated with specific products.
 
@@ -387,7 +387,7 @@ Third parties to whom you consent to sharing your information, such as services 
 
 Service providers, trusted businesses or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
 
-Domain administrators, if you work or study at an organization that uses Google services like G Suite.
+Domain administrators, if you work or study at an organization that uses Google services.
 
 Law enforcement or other third parties, for the legal reasons described in Sharing your information.
 
@@ -418,6 +418,9 @@ Read Along
 YouTube Kids
 Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)
 Voice and Audio Collection from Children’s Features on the Google Assistant
+
+If you’re a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the Google Cloud Privacy Notice.
+
 Other useful resources
 
 The following links highlight useful resources for you to learn more about our practices and privacy settings.
