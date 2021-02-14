@@ -7,7 +7,6 @@ Google Chrome Web Store Developer Agreement
 Published on Friday, February 28, 2014 • Updated on Friday, July 10, 2020
 
 Table of Contents
-Caution
 Important: Chrome will be removing support for Chrome Apps on Windows, Mac, and Linux. Chrome OS will continue to support Chrome Apps. Additionally, Chrome and the Web Store will continue to support extensions on all platforms. Read the announcement and learn more about migrating your app.
 
 Branding Guidelines | Rating Guidelines | Program Policies | User Data FAQ | Developer Agreement
