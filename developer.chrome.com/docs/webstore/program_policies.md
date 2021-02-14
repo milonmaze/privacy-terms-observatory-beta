@@ -7,7 +7,6 @@ Developer Program Policies
 Published on Friday, February 28, 2014 • Updated on Tuesday, November 17, 2020
 
 Table of Contents
-Caution
 Important: As of 06/12/2018, inline installation is deprecated. For more information, read our Chromium Blog post and Migration FAQ.
 
 Branding Guidelines | Rating Guidelines | Program Policies | User Data FAQ | Developer Agreement
@@ -66,7 +65,7 @@ Bots
 Cryptocurrency
 Non-production builds
 Prohibited products
-Gambiling content
+Gambling content
 Extensions whose developers have questionable reputations, such as historically misleading or malicious extensions.
 Intellectual Property:
 
@@ -162,7 +161,9 @@ In addition to these requirements, all extensions must comply with Google's Webm
 
 For additional information about the spam policy, see the Spam FAQ.
 
-For information about Product ranking, please see these FAQs.## User Data Privacy {: #userdata }
+For information about Product ranking, please see these FAQs.
+
+User Data Privacy 
 
 You must be transparent in how you handle user data (e.g., information provided by a user or collected about a user or a user's use of the Product or Chrome Browser), including by disclosing the collection, use, and sharing of the data. You must limit your use of the data to the practices you disclosed. This policy establishes the Chrome Web Store's minimum user data privacy requirements; you or your Product must comply with applicable laws.
 
