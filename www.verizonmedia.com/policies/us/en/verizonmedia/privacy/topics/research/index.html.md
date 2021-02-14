@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 Research
 
 From time to time, Verizon Media may invite users to participate in usability studies, surveys, and other types of qualitative and quantitative research to help us better design our site, plan new features to add to our products and services, and help us understand our users' wants and needs. Verizon Media also conducts research using data from our internal records.
