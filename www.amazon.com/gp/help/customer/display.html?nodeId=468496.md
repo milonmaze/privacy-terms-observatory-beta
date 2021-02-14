@@ -5,7 +5,7 @@ Find more solutions
 Security and Privacy › Legal Policies›
 Amazon.com Privacy Notice
 
-Last updated: January 1, 2020. To see prior version, click here.
+Last updated: February 12, 2021. To see prior version, click here.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.
 
@@ -66,11 +66,11 @@ We design our systems with your security and privacy in mind.
 
 We work to protect the security of your personal information during transmission by using encryption protocols and software.
 We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data.
-We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
+We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of customer personal information. Our security procedures mean that we may ask to verify your identity before we disclose personal information to you.
 Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Click here for more information on how to manage the security settings of your device.
-It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off.
+It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not used for other online accounts. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off.
 What About Advertising?
-Third-Party Advertisers and Links to Other Websites: Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads policy. To adjust your advertising preferences, please go to the Advertising Preferences page.
+Third-Party Advertisers and Links to Other Websites: Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice. To adjust your advertising preferences, please go to the Advertising Preferences page.
 Use of Third-Party Advertising Services: We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie or other device identifier. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of interest-based advertising by going to the Advertising Preferences page.
 What Information Can I Access?
 
@@ -86,11 +86,12 @@ If you do not want to receive email or other communications from us, please adju
 If you do not want to see interest-based ads, please adjust your Advertising Preferences.
 The Help feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies or other identifiers, how to have the browser notify you when you receive a new cookie, or how to block cookies altogether. Because cookies and identifiers allow you to take advantage of some essential features of Amazon Services, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Services that require you to Sign in. For more information about cookies and other identifiers, see our Cookies Notice.
 If you want to browse our websites without linking the browsing history to your account, you may do so by logging out of your account here and blocking cookies on your browser.
+You can manage the recommendations you receive in our store here, remove recommendations you don’t want to see here by selecting View All and Manage then selecting the Remove Items toggle that appears at the top of the page, and edit your browsing history here.
 You will also be able to opt out of certain other types of data usage by updating your settings on the applicable Amazon website (e.g., in "Manage Your Content and Devices"), device, or application. For more information click here. Most non-Amazon devices also provide users with the ability to change device permissions (e.g., disable/access location services, contacts). For most devices, these controls are located in the device's settings menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer.
 If you are a seller, you can add or update certain information in Seller Central, update your account information by accessing your Seller Account Information, and adjust your email or other communications you receive from us by updating your Notification Preferences.
 If you are an author, you can add or update the information you have provided in the Author Portal and Author Central by accessing your accounts in the Author Portal and Author Central, respectively.
 
-In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal data. If you wish to do any of these things, please contact Customer Service. Depending on your data choices, certain services may be limited or unavailable.
+In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information. If you wish to do any of these things, please contact Customer Service. Depending on your data choices, certain services may be limited or unavailable.
 
 Are Children Allowed to Use Amazon Services?
 
