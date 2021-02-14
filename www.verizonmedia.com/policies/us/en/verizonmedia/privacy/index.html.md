@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 Welcome to the Verizon Media Privacy Policy
 
 Last updated: October 2020
