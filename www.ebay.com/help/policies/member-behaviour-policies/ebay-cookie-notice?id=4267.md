@@ -71,12 +71,6 @@ In our User Privacy Notice we have compiled all essential information about our 
 This User Privacy Notice is effective from June 20, 2020. View the previous User Privacy Notice.
 
 35 min article
-Need more help?
-Chat with us
-1 min wait time
-Other options for you
-Ask the Community
-- opens in new window or tab
 Additional site navigation
 About eBayAnnouncementsCommunitySecurity CenterResolution CenterSeller CenterPoliciesAffiliatesHelp & ContactSite Map
 
