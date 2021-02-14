@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 Location
 
 This page describes Verizon Media's privacy practices with respect to your location information.
