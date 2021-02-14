@@ -73,7 +73,7 @@ This User Privacy Notice is effective from June 20, 2020. View the previous Use
 35 min article
 Need more help?
 Chat with us
-Monday to Sunday 5:00 am to 10:00 pm (PT)
+1 min wait time
 Other options for you
 Ask the Community
 - opens in new window or tab
