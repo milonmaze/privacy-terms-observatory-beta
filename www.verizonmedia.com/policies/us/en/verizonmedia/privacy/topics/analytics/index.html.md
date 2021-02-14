@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 Verizon Media Analytics
 
 Verizon Media Analytics, Advertising Insights, and Flurry are systems used by Verizon Media to collect information about visitors to Verizon Media's and our customers' products and services to understand how people use those services and respond to the ads we serve.
