@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 Search Services
 
 This policy describes our current privacy practices for the Verizon Media Search and Assistants brands, websites, features, products, apps, software and other services (“Search Services”). All information that is collected, provided to Verizon Media or stored in your Verizon Media Account will be treated, used and protected in accordance with the Verizon Media Privacy Policy. This information may change as Verizon Media revises these Search Services by adding or removing features or using different service providers. Some features are only available if you are a registered user. Please visit Help if you have questions about these Search Services.
