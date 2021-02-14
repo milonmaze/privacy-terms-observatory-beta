@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 How Digital Advertising Works
 
 Advertising is a fundamental part of the services we provide. Our advertising business and the ads that we and our partners show you allow us to provide you with many of our products and services for free. In this page, we’ll walk you through how digital advertising works at Verizon Media, the different players involved, and how we use your data to personalise your ads.
