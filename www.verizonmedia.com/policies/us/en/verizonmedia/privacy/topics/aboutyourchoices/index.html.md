@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 About Your Choices
 
 Verizon Media believes in providing you with choices regarding the data we collect and use to the build experiences we offer to you across the Verizon Media brands, websites, apps, advertising services, products, services or technologies (“Services”). Read on for more detailed information regarding these choices below. You can also visit the Verizon Media Privacy Controls to manage your Verizon Media Service settings.
