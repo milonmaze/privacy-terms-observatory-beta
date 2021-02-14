@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 Appended and Matched Data
 
 In order to deliver the most engaging and personalized experience for our users, we may collect information, including your email address, phone number, device identifiers as described in our Privacy Policy, when you register with us, use our brands, websites, apps, advertising services, products, services or technologies (“Services”), use sites or apps or services of certain partners, or enter promotions. We may combine this information with information we obtain from our affiliates and other sources, and use it to offer you more relevant content and advertising.
