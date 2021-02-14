@@ -153,12 +153,6 @@ Threats and offensive language policy
 Threats, offensive language and hate speech are not allowed on eBay.
 
 2 min article
-Need more help?
-Chat with us
-1 min wait time
-Other options for you
-Ask the Community
-- opens in new window or tab
 Additional site navigation
 About eBayAnnouncementsCommunitySecurity CenterResolution CenterSeller CenterPoliciesAffiliatesHelp & ContactSite Map
 
