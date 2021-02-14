@@ -9,7 +9,7 @@ Relevant Advertising
 Intellectual Property
 Permissions
 Closed Captioning
-Guidelines
+Community Guidelines (New)
 Security
 
 Protecting our systems and our users’ information is paramount to ensuring Verizon Media brands, websites, apps, advertising services, products, services or technologies (“Services”) users enjoy a secure experience and maintaining our users’ trust. We have taken the following measures to protect your information:
