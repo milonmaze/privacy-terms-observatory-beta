@@ -39,6 +39,8 @@ Premium and Virtual Goods Agreement
 Previews Terms of Use
 Guidelines for Law Enforcement
 Trademark Use Policy
+Embeds Terms of Use
+Transparency Report 2020
 Transparency Report 2019
 Transparency Report 2018
 Transparency Report 2017
