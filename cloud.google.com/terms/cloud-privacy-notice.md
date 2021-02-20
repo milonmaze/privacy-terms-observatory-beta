@@ -13,7 +13,7 @@ Google Cloud Terms
 Google Cloud Platform
 Google Cloud Privacy Notice
 Google Workspace
-G Suite for Education
+Google Workspace for Education
 Google Maps Platform
 Chrome Enterprise
 Android
