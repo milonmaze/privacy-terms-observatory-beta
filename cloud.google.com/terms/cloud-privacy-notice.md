@@ -14,6 +14,7 @@ Google Cloud Platform
 Google Cloud Privacy Notice
 Google Workspace
 Google Workspace for Education
+Google Workspace Translations
 Google Maps Platform
 Chrome Enterprise
 Android
