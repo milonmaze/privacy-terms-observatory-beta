@@ -19,7 +19,6 @@ Support
 Contact Us
 Log In
 Canvas
-Bridge
 MasteryConnect
 Portfolium
 GET A DEMO
@@ -150,6 +149,7 @@ About Canvas
 Leadership
 Partners
 Careers
+Accessibility
 Privacy
 Security
 Contact Us
