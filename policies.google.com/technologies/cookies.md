@@ -4,79 +4,73 @@ Types of cookies used by Google
 Managing cookies in your browser
 HOW GOOGLE USES COOKIES
 
-A cookie is a small piece of text sent to your browser by a website you visit. It helps the website remember information about your visit, which can make it easier to visit the site again and the site more useful to you.
+A cookie is a small piece of text sent to your browser by a website you visit. It helps the site remember information about your visit, which can make it easier to visit the site again and make the site more useful to you.
 
-For example, we use cookies to remember your preferred language, to make the ads you see more relevant to you, to count how many visitors we receive to a page, to help you sign up for our services, to protect your data, or to remember your ad settings.
+For example, we use cookies to remember your preferred language, to make the ads you see more relevant to you, to count how many visitors we receive to a page, to help you sign up for our services, to protect your data, and to remember your ad settings.
 
-This page describes the types of cookies used by Google and the names of specific cookies. It also explains how Google and our partners use cookies in advertising. See the Privacy Policy to learn how we protect your privacy in our use of cookies and other information.
+This page describes the types of cookies used by Google. It also explains how Google and our partners use cookies in advertising. See the Privacy Policy to learn how we protect your privacy in our use of cookies and other information.
 
 TYPES OF COOKIES USED BY GOOGLE
 
-We use different types of cookies to run Google websites and ads-related products. Some or all of the cookies described below may be stored in your browser. You can view and manage cookies in your browser (though browsers for mobile devices may not offer this visibility). For example, if you use Google Chrome as your browser, you can visit chrome://settings/cookies.
+Some or all of the cookies described below may be stored in your browser. To manage how cookies are used, you can refuse the use of certain cookies through your Google personalization settings anytime by visiting g.co/privacytools. You can also manage cookies in your browser (though browsers for mobile devices may not offer this visibility). For example, if you use Google Chrome as your browser, you can visit chrome://settings/cookies.
 
-Preferences
+Functionality
 
-These cookies allow a site to remember things that change the way a site behaves or looks.
+Cookies used for functionality allow users to interact with a service or site to access features that are fundamental to that service. Things considered fundamental to the service include preferences like the user’s choice of language, product optimizations that help maintain and improve a service, and maintaining information relating to a user’s session, such as the content of a shopping cart.
 
-For example, by remembering your region and preferred language, a site may be able to provide you with local weather reports in your own language. These cookies can also help in changing the text size, font, and other parts of web pages that you personalize.
+Some cookies are used to maintain a user’s preferences. For example, most people who use Google services have a cookie called ‘NID’ in their browsers. This cookie contains a unique ID used to remember your preferences and other information such as your preferred language, how many search results you prefer to have shown on a results page (for example, 10 or 20), and whether you want to have Google’s SafeSearch filter turned on. Each NID cookie expires 6 months from a user’s last use. A cookie called ‘VISITOR_INFO1_LIVE’ serves a similar purpose for YouTube and is also used to detect and resolve problems with the service.
 
-Most people who use Google services have a preferences cookie called ‘NID’ in their browsers. When you visit a Google service, the browser sends this cookie with your request for a page. The NID cookie contains a unique ID we use to remember your preferences and other information, such as your preferred language, how many search results you prefer to have shown on a results page (for example, 10 or 20), and whether you want to have Google’s SafeSearch filter turned on.
+YouTube uses the ‘PREF’ cookie to store information such as a user’s preferred page configuration and playback preferences like autoplay, shuffle content, and player size. For YouTube Music, these preferences include volume, repeat mode, and autoplay. This cookie expires 8 months from a user’s last use.
+
+Some cookies are used to maintain and enhance a user’s experience during a specific browsing session. For example ‘YSC’ is used by YouTube to remember user input and associate a user’s actions. This cookie lasts for as long as the user keeps their browser open. The cookie ‘pm_sess’ also helps maintain a user’s browser session and lasts for 30 minutes.
+
+Some cookies improve the performance of Google services. For example, ‘CGIC’ improves the delivery of search results by autocompleting search queries based on a user’s initial input. This cookie lasts for 6 months.
 
 Security
 
-These cookies allow a site to authenticate users, prevent fraudulent use of sign-in credentials, and protect user data from unauthorized parties.
+Cookies used for security authenticate users, prevent fraud, and protect users as they interact with a service.
 
-For example, cookies called ‘SID’ and ‘HSID’ contain digitally signed and encrypted records of a user’s Google Account ID and most recent sign-in time. The combination of these cookies allows us to block many types of attack, such as attempts to steal the content of forms that you complete on web pages.
+Some cookies are used to authenticate users, helping ensure that only the actual owner of an account can access that account. For example, cookies called ‘SID’ and ‘HSID’ contain digitally signed and encrypted records of a user’s Google Account ID and most recent sign-in time. The combination of these cookies allows us to block many types of attack, such as attempts to steal the content of forms submitted in Google services.
 
-Processes
-
-These cookies help a site deliver services and work as expected.
-
-For example, these cookies help visitors navigate around web pages and access secure areas of a site. We use a cookie called ‘lbcs’ that makes it possible for Google Docs to open many documents in one browser.
-
-Blocking this cookie would prevent Google Docs, and other Google services, from operating correctly.
-
-Advertising
-
-These cookies help make advertising more engaging to users and more valuable to publishers and advertisers.
-
-For example, these cookies can be used to select advertising based on what’s relevant to a user, to improve reporting on campaign performance, and to avoid showing ads a user has already seen.
-
-We use cookies like ‘NID’ and ‘SID’ to help customize ads on Google properties, like Google Search. For example, we use such cookies to remember your most recent searches, your previous interactions with an advertiser’s ads or search results, and your visits to an advertiser’s website. This helps us show you customized ads on Google.
-
-We also use one or more cookies for advertising we serve across the web. One of the main advertising cookies on non-Google sites is named ‘IDE‘ and is stored in browsers under the domain doubleclick.net. Another is stored in google.com and is called ‘ANID’. We use other cookies with names such as ‘DSID’, ‘FLC’, ‘AID’, ‘TAID’, and ‘exchange_uid’. Other Google properties, like YouTube, may also use these cookies to show you more relevant ads.
-
-Sometimes advertising cookies may be set on the domain of the site you’re visiting. For advertising we serve across the web, cookies named ‘__gads’ or ‘__gac’ may be set on the domain of the site you’re visiting. Unlike cookies that are set on Google’s own domains, these cookies can’t be read by Google when you’re on a site other than the one on which they were set. They serve purposes such as measuring interactions with the ads on that domain and preventing the same ads from being shown to you too many times.
-
-Google also uses conversion cookies, for example, cookies named ‘__gcl’, whose main purpose is to help advertisers determine how many times people who click on their ads end up taking an action on their site, like making a purchase. These cookies allow Google and the advertiser to determine that you clicked the ad and later visited the advertiser’s site. Conversion cookies are not used by Google for personalized ad targeting and persist for a limited time only. Some of our other cookies may be used to measure conversion events as well. For example, Google Marketing Platform and Google Analytics cookies may also be used for this purpose.
-
-We also use cookies named ‘AID’, ‘DSID’, and ‘TAID’, which are used to link your activity across devices if you’ve previously signed in to your Google Account on another device. We do this to coordinate the ads you see across devices and measure conversion events. These cookies may be set on the domains google.com/ads, google.com/ads/measurement, or googleadservices.com.
-
-If you don’t want the ads you see to be coordinated across your devices, you can opt out of Ad Personalization using Ad Settings.
-
-Session state
-
-These cookies help sites collect information about how a user interacts with a site, allowing the site to improve a service and the browsing experience.
-
-For example, these cookies can be used to keep track of the pages users visit most often and whether people get error messages from certain pages. These cookies may also be used to anonymously measure the effectiveness of pay per click and affiliate advertising. We use a cookie called ‘recently_watched_video_id_list’ so that YouTube can record the videos most recently watched by a particular browser.
+Some cookies are used to prevent spam, fraud, and abuse. For example, the ‘pm_sess’ and ‘YSC’ cookies ensure that requests within a browsing session are made by the user and not by other sites. Both cookies prevent malicious sites acting without a user’s knowledge and as if they were that user.
 
 Analytics
 
-These cookies allow a site to understand how visitors engage with the site.
+Cookies used for analytics help collect data that allows services to understand how users interact with a particular service. These insights allow services both to improve content and to build better features that improve the user’s experience.
 
-For example, Google Analytics is Google’s analytics tool that helps website and app owners to understand how their visitors engage with their properties. Google Analytics may use a set of cookies to collect information and report site usage statistics without personally identifying individual visitors to Google. The main cookie used by Google Analytics is the ‘_ga’ cookie. Analytics cookies may also be used for this purpose by Google, on Google properties.
+Some cookies help sites understand how their visitors engage with their properties. For example, Google Analytics, a Google product that helps site and app owners understand how people engage with a service, uses a set of cookies to collect information and report site usage statistics without personally identifying individual visitors to Google. ‘_ga’ is the main cookie used by Google Analytics. ‘_ga’ enables a service to distinguish one user from another and lasts for 2 years. It’s used by any site that implements Google Analytics, including Google services.
+
+Google services also use analytics cookies like these, as well as others like ‘NID’ on Google Search and ‘VISITOR_INFO1_LIVE’ on YouTube.
+
+Advertising
+
+Google uses cookies for advertising, including serving and rendering ads, personalizing ads (depending on your ad settings at g.co/adsettings), limiting the number of times an ad is shown to a user, muting ads you have chosen to stop seeing, and measuring the effectiveness of ads.
+
+‘ANID’ is used for these purposes to show Google ads in Google services for signed-in users
+‘NID’ is used for these purposes to show Google ads in Google services for signed-out users
+‘IDE’ is used for these purposes to show Google ads on non-Google sites
+
+Other Google services like YouTube may also use these cookies and cookies like ‘VISITOR_INFO1_LIVE’ to show more relevant ads.
+
+If you have personalized ads enabled, ‘ANID’ is used to remember this setting and lasts for 13 months in the European Economic Area (EEA), Switzerland, and the United Kingdom (UK), and 24 months everywhere else. If you have disabled personalized ads, ‘ANID’ is used to store that setting until 2030. ‘NID’ expires 6 months from a user’s last use. ‘IDE’ lasts for 13 months in the EEA, Switzerland, and the UK and 24 months everywhere else.
+
+Some cookies used for advertising are for users who sign in to use Google services. For example, ‘DSID’ is used to identify a signed-in user on non-Google sites and to remember whether the user has agreed to ad personalization. It lasts for 2 weeks.
+
+Through Google’s advertising platform, businesses can advertise in Google services as well as on non-Google sites that partner with Google.
+
+Some cookies support Google showing ads on third-party sites, and are set in the domain of the website you visit. For example, ‘_gads’ enables sites to show Google ads, including personalized ads. Cookies that start with ‘_gac_’ come from Google Analytics and are used by advertisers to measure user activity and the performance of their ad campaigns. The ‘_gads’ cookie lasts for 13 months and the ‘_gac_’ cookies last for 90 days.
+
+Some cookies are used to measure ad and campaign performance and conversion rates for Google ads on a site you visit. For example, cookies that start with ‘_gcl_’ come from Google Analytics and are primarily used to help advertisers determine how many times users who click on their ads end up taking an action on their site, such as making a purchase. Cookies used for measuring conversion rates aren’t used to personalize ads. ‘_gcl_’ cookies last for 90 days.
+
+Personalization
+
+Cookies used for personalization enhance the user’s experience by providing personalized content and features.
+
+Depending on your settings at g.co/privacytools, some cookies enable better recommendations within a service. For example, ‘VISITOR_INFO1_LIVE’ enables personalized recommendations on YouTube based on past views and searches. And ‘NID’ enables personalized autocomplete features in Search as users type search terms. These cookies expire 6 months after a user’s last use.
 
 MANAGING COOKIES IN YOUR BROWSER
 
-Most browsers allow you to control how cookies get used as you’re browsing.
-
-Some browsers automatically limit or delete cookies. Also, in some browsers, you can set up rules to manage cookies on a site-by-site basis, allowing you to permit cookies only from sites that you trust.
-
-In Google Chrome, the Settings contain an option to Clear Browsing Data. You can use this option to delete cookies and other browsing data. See our instructions for managing cookies in Chrome.
-
-Google Chrome also supports private browsing with its Incognito mode. You can browse in Incognito mode when you don’t want your site visits or downloads to remain in your browsing and download histories. Once you close all your Incognito browsing windows, Chrome won’t save your browsing history, cookies, and other data.
-
-Losing the information stored in cookies may make sites less functional but shouldn’t prevent them from working.
+Most browsers allow you to manage how cookies are set and used as you’re browsing, and to clear cookies and browsing data. Also, your browser may have settings allowing you to manage cookies on a site-by-site basis. For example, Google Chrome’s settings allow you to delete existing cookies, allow or block all cookies, and set cookie preferences for websites. Google Chrome also has Incognito mode, which doesn’t store your Chrome history of visited sites or cookies on your device after you close all Incognito windows.
 
 Change language:
 Afrikaans
