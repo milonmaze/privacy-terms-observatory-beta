@@ -158,13 +158,11 @@ Experienced Pros
 Happiness Guarantee		Amazon Ignite
 Sell your original
 Digital Educational
-Resources		Amazon Rapids
-Fun stories for
-kids on the go
- 
-Amazon Web Services
+Resources		Amazon Web Services
 Scalable Cloud
-Computing Services		Audible
+Computing Services
+ 
+Audible
 Listen to Books & Original
 Audio Performances		Book Depository
 Books With Free
@@ -176,11 +174,11 @@ Digital Comics		DPReview
 Digital
 Photography		East Dane
 Designer Men's
-Fashion
- 
-Fabric
+Fashion		Fabric
 Sewing, Quilting
-& Knitting		Goodreads
+& Knitting
+ 
+Goodreads
 Book reviews
 & recommendations		IMDb
 Movies, TV
@@ -192,11 +190,11 @@ Made Easy		Amazon Photos
 Unlimited Photo Storage
 Free With Prime		Prime Video Direct
 Video Distribution
-Made Easy
- 
-Shopbop
+Made Easy		Shopbop
 Designer
-Fashion Brands		Amazon Warehouse
+Fashion Brands
+ 
+Amazon Warehouse
 Great Deals on
 Quality Used Products		Whole Foods Market
 America’s Healthiest
@@ -208,15 +206,15 @@ Clothing		Ring
 Smart Home
 Security Systems		eero WiFi
 Stream 4K Video
-in Every Room
- 
- 		Neighbors App
+in Every Room		Neighbors App
 Real-Time Crime
-& Safety Alerts		Amazon Subscription Boxes
+& Safety Alerts
+ 
+ 		Amazon Subscription Boxes
 Top subscription boxes – right to your door		PillPack
 Pharmacy Simplified		Amazon Renewed
 Like-new products
 you can trust		Amazon Second Chance
 Pass it on, trade it in,
-give it a second life		 
+give it a second life		 		 
 Conditions of UsePrivacy NoticeInterest-Based Ads© 1996-2021, Amazon.com, Inc. or its affiliates
