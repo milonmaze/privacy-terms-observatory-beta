@@ -43,11 +43,11 @@ How We Share Data
 Access to Data
 Deletion and Retention of Data
 Using Google Accounts and Products
+Updates to this Notice
 EU Privacy Standards and GDPR
 Brazil Requirements
 California Requirements
 Korea Requirements
-Updates to this Notice
 Rate and review
 
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
