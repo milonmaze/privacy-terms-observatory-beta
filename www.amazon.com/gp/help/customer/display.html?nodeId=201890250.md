@@ -1,8 +1,5 @@
 Skip to main content
 Help & Customer Service
-
-Find more solutions
-
 Security and Privacy›
 About Cookies
 
