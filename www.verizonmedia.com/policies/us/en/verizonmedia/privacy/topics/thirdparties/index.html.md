@@ -105,6 +105,7 @@ Adjust
 Adledge
 Adloox
 ADMAN
+AdMarketplace
 Admotion
 Adnanny
 adNET
@@ -160,6 +161,7 @@ Cog Research
 Cognitive Match
 Collective Media
 ComScore
+Commission Junction
 Comune
 Connexity
 Connextra
@@ -315,6 +317,7 @@ Plexop
 Plista GmbH
 PointRoll
 Predicta
+PriceGrabber
 Procter & Gamble
 Project Sunblock
 Quantcast
@@ -346,6 +349,7 @@ Simplytics
 SiteScout
 Sizmek
 Skenzo (Media.net)
+Skimlinks
 SMART AdServer
 Soho Media
 Spark Flow
@@ -387,6 +391,7 @@ Varick Media Mangement
 Velti
 VideoGenie
 Videology
+Viglink
 Vindico Group
 Visible Measures
 Visual IQ
