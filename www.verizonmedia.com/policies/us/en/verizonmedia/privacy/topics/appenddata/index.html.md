@@ -20,6 +20,7 @@ Acxiom
 BlueKai
 Audience Partners
 comScore
+Cuebiq
 Epsilon
 Exelate
 Experian
