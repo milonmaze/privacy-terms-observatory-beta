@@ -1,4 +1,7 @@
 Skip to content
+Privacy Policy
+
+The information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
 
 Effective Date: January 29, 2021
 
