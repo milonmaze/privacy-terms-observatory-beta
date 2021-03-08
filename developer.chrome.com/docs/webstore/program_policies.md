@@ -6,7 +6,7 @@ Developer Program Policies
 
 Published on Friday, February 28, 2014 • Updated on Tuesday, November 17, 2020
 
-Table of Contents
+Table of contents
 Important: As of 06/12/2018, inline installation is deprecated. For more information, read our Chromium Blog post and Migration FAQ.
 
 Branding Guidelines | Rating Guidelines | Program Policies | User Data FAQ | Developer Agreement
