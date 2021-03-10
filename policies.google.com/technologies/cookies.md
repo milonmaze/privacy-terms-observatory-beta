@@ -47,7 +47,7 @@ Advertising
 Google uses cookies for advertising, including serving and rendering ads, personalizing ads (depending on your ad settings at g.co/adsettings), limiting the number of times an ad is shown to a user, muting ads you have chosen to stop seeing, and measuring the effectiveness of ads.
 
 ‘NID’ is used for these purposes to show Google ads in Google services for signed-out users
-‘IDE’ is used for these purposes to show Google ads on non-Google sites
+‘IDE’ and ‘ANID’ are used for these purposes to show Google ads on non-Google sites
 
 Other Google services like YouTube may also use these cookies and cookies like ‘VISITOR_INFO1_LIVE’ to show more relevant ads.
 
