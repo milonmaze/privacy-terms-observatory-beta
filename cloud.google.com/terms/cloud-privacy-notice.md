@@ -52,62 +52,6 @@ Rate and review
 
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
 
-Why Google
-Choosing Google Cloud
-Trust and security
-Open cloud
-Global infrastructure
-Customers and case studies
-Analyst reports
-Whitepapers
-Products and pricing
-Google Cloud pricing
-Google Workspace pricing
-Maps Platform pricing
-See all products
-Solutions
-Application modernization
-Artificial Intelligence
-Business application platform
-Database solutions
-Infrastructure modernization
-Productivity & collaboration
-Security
-Smart analytics
-Cloud-natives
-DevOps
-Industries
-Small business
-See all solutions
-Resources
-Google Cloud documentation
-Google Cloud quickstarts
-Google Cloud Marketplace
-Google Workspace Marketplace
-Support
-Code samples
-Tutorials
-Training
-Certifications
-Google Developers
-Google Cloud for Startups
-System status
-Release Notes
-Engage
-Contact sales
-Find a Partner
-Become a Partner
-Blog
-Events
-Podcast
-Community
-Press center
-Google Cloud on YouTube
-Google Cloud Platform on YouTube
-Google Workspace on YouTube
-Follow on Twitter
-Join User Research
-We're hiring. Join Google Cloud!
 About Google
 Privacy
 Site terms
