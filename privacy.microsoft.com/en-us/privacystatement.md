@@ -1,7 +1,7 @@
 Microsoft
 Privacy 
 Microsoft Privacy Statement
-Last Updated: January 2021 What's new?
+Last Updated: March 2021 What's new?
 Expand All
 Print
 
@@ -18,6 +18,7 @@ How to access and control your personal data
 Cookies and similar technologies
 Products provided by your organization—notice to end users
 Microsoft account
+Collection of data from children
 Other important privacy information
 Product-specific details:
 Enterprise and developer products
@@ -129,6 +130,18 @@ If you sign into a service offered by a third party with your Microsoft account,
 
 Learn more
 Top of page
+Collection of data from children
+
+When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
+
+Once parental consent or authorization is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Learn more about parental consent and Microsoft child accounts.
+
+Parents or guardians can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of the children for whom they provided consent or authorization. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard.
+
+Select Learn more below for more information about children and Xbox profiles.
+
+Learn more
+Top of page
 Other important privacy information
 
 Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Microsoft and our commitment to protecting your privacy at Microsoft Privacy.
@@ -141,7 +154,7 @@ Enterprise and developer products
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
 Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
-Other enterprise and developer tools and cloud-based services, such as PlayFab Services.
+Other enterprise and developer tools and cloud-based services, such as Azure PlayFab Services (to learn more see Azure PlayFab Terms of Service).
 Server, developer, and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Center, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
 Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
 Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.
