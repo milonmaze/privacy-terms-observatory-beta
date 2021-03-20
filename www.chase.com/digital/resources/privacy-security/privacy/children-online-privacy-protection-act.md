@@ -21,7 +21,6 @@ Merchant Services Privacy Notice
 California Consumer Privacy Act (CCPA)
 Children's Privacy Policy
 End of sidebar menu
-: current selection
 LAST UPDATED: AUGUST 1, 2020
 Children’s Privacy Policy
 
