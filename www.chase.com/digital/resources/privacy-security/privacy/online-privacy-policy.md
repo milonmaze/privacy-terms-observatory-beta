@@ -10,7 +10,6 @@ Security
 Have questions?
 Start of sidebar menu
 Online Privacy Policy
-: current selection
 U.S. Consumer Privacy Notice
 U.S. Consumer Privacy Notice for AARP Customers
 U.S. Consumer Privacy Notice for JPMSelect Customers
