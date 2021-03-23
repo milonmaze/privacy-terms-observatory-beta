@@ -131,14 +131,6 @@ Business Checking
 Chase offers a wide variety of business checking accounts for small, mid-sized and large businesses. Compare our business checking solutions chart to select exactly which checking account is right for you.
 
 Not in the US?
-English
-- United States: open in new window
-English
--Canada: open in new window
-French
--Canada: open in new window
-English
--Europe: open in new window
 Additional Business Banking Solutions
  All Chase Bank Solutions
  Online Banking Demo
