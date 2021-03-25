@@ -349,7 +349,7 @@ Social Integrations
 Social Presence
 Programs
 Developer Circles
-F8
+F8 Refresh
 Startup Programs
 ThreatExchange
 Support
