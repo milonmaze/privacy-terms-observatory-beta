@@ -81,12 +81,10 @@ The following third parties offer information about their data collection practi
 
 1und1
 Accuen
-Acuity
 Acxiom
 Ad Supply
 Ad-x
 ad4mat
-Adara Media
 Adblade
 AdClear
 Adconion
@@ -133,7 +131,6 @@ AppsFlyer
 Arrivalist
 Atlas
 Audience Science
-Augur
 Aunica
 Authenticated Digital
 BannerFlow
@@ -153,7 +150,6 @@ Cardlytics
 Casale Media
 Catho Online Ltda
 Celtra
-Chango
 Clickdistrict
 Clinch Labs
 Clipcentric
@@ -241,7 +237,6 @@ intelliAd
 Interactive Sports (C.I) Ltd
 Interpolls Network
 Interrogare
-Invite Media
 iPromote
 Jenjo
 Jivox
@@ -296,7 +291,6 @@ Nugg.Ad
 O2 Telefonica
 Okra Media
 On Device Research
-OneByAOL
 Ooyala
 OpenX
 Optimise
@@ -345,7 +339,6 @@ Session M
 Shopzilla
 Signal
 SimpleReach
-Simplytics
 SiteScout
 Sizmek
 Skenzo (Media.net)
@@ -376,7 +369,6 @@ The Cobalt Group
 The Trade Desk
 Tradedoubler
 Trend Research
-TruEffect
 TRUSTe
 TubeMogul
 Turbo
@@ -392,8 +384,6 @@ Velti
 VideoGenie
 Videology
 Viglink
-Vindico Group
-Visible Measures
 Visual IQ
 VIVALU
 Vizu
@@ -482,7 +472,6 @@ The third party partners listed below may provide search and search advertising 
 
 To learn more about each search partner’s data collection and use practices and what tools or controls are available to you, please visit each search partner’s privacy policy:
 
-Chitika
 Google
 Media.net
 Microsoft
