@@ -44,9 +44,10 @@ To determine if you are eligible for specific offers or payment methods
 If using Shop: Information from email messages in the email inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history.
 
 	
-In order to provide services through Shop (and improve the product), we use automated software to identify shopping-related emails so that we can display within the app information about specific orders you have made, stores you have engaged with in the past, and other related information. Note that by connecting email inboxes or transferring emails to Shop, no humans will have access to the content of your email messages unless you specifically allow this type of access.
+In order to provide services through Shop (and improve the product), we use automated software to identify shopping-related emails in Gmail or Outlook inboxes that you connect to Shop so that we can display within the app information about specific orders you have made, stores you have engaged with in the past, and other related information. Note that by connecting email inboxes or transferring emails to Shop, no humans will have access to the content of your email messages unless you specifically allow this type of access.
 To personalize your experience using our apps and services (e.g., by changing how we may order items that we show you)
 In order to access these emails, an independent third party auditor has taken a look at how Shop uses and protects your email information, and has confirmed that we meet Google’s standards. Shop’s use and transfer to any other app of information received from Google Accounts will adhere to Google API Services User Data Policy, including the Limited Use requirements.
+If you connect your Outlook account, you can revoke Shop’s access at any time by visiting https://account.live.com/consent/Manage and/or https://myapps.microsoft.com
 We do NOT use this information to provide you with marketing or advertising from other stores or services
 
 
