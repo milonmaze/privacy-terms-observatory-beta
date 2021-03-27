@@ -6,7 +6,7 @@ Privacy Policy
 
 How Shopify handles your data
 
-Updated December 10, 2020
+Updated March 3, 2021
 
 Introduction
 Our values
