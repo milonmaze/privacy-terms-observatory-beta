@@ -22,7 +22,7 @@ We collect personal information when you sign up for Shopify, when you use our p
 What we collect	How we use it
 
 
-Information you provide us about you and your business, like your name, company name, address, email address, and phone number.
+Information you provide us about you and your business, like your name, the name of your staff or other individuals associated with your business, company name, address, email address, and phone number.
 
 	
 To provide you with the use of our platform and other related services (e.g., to confirm your identity, to contact you about issues with the platform, to invoice you)
