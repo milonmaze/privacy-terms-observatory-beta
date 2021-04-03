@@ -22,10 +22,10 @@ Merchant Services Privacy Notice
 California Consumer Privacy Act (CCPA)
 Children's Privacy Policy
 End of sidebar menu
-LAST UPDATED: APRIL 2020
+LAST UPDATED: APRIL 2021
 U.S. Consumer Privacy Notice for JPMSelect Customers
 Printer Friendly version (PDF)
-Facts: What does Chase do with your personal information?
+Facts:
 
 Why?	Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
 What?	
@@ -33,8 +33,8 @@ What?
 The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
 Social Security Number and income
-account balances and transaction history
-credit history and payment history
+Account balances and transaction history
+Credit history and payment history
 
 
 How?	All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Chase chooses to share; and whether you can limit this sharing.
@@ -45,7 +45,7 @@ For joint marketing with other financial companies	Yes	No
 For our affiliates' everyday business purposes - information about your transactions and experiences	Yes	No
 For our affiliates' everyday business purposes - information about your creditworthiness	Yes	Yes
 For our affiliates to market to you	Yes	Yes
-For non affiliates to market to you	Yes	Yes
+For nonaffiliates to market to you	Yes	Yes
 To limit our sharing	
 Call 1–888–868–8618 – our menu will prompt you through your choice(s). We accept operator relay calls.
 Visit us online: chase.com/privacypreferences
@@ -62,7 +62,7 @@ However, you can contact us at anytime to limit our sharing.
 Questions?	Call 1–888–868–8618 — our menu will prompt you through your choice(s). We accept operator relay calls.
 Who we are
 
-Who is providing this notice?	The JPMorgan Chase & Co. family of companies. A partial list of its U.S. consumer financial companies is located at the end of this document.
+Who is providing this notice?	JPMorgan Chase Bank, N.A., as issuer of J.P. Morgan credit cards.
 What we do
 
 How does Chase protect my personal information?	To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We authorize our employees to get your information only when they need it to do their work, and we require companies that work for us to protect your information.
@@ -83,7 +83,7 @@ Federal law gives you the right to limit only
 
 sharing for affiliates' everyday business purposes – information about your creditworthiness
 affiliates from using your information to market to you
-sharing for non affiliates to market to you
+sharing for nonaffiliates to market to you
 State laws and individual companies may give you additional rights to limit sharing.
 
 See below for more on your rights under state law.
@@ -95,17 +95,12 @@ Definitions
 Affiliates	Companies related by common ownership or control. They can be financial and non financial companies.
 Our affiliates include companies with a Chase or JPMorgan name and financial companies such as J.P. Morgan Securities LLC
 
-Non affiliates	Companies not related by common ownership or control. They can be financial and non financial companies.
-Non affiliates we share with can include companies such as retailers, auto dealers, auto makers and membership clubs
+Nonaffiliates	Companies not related by common ownership or control. They can be financial and non financial companies.
+Nonaffiliates we share with can include companies such as retailers, auto dealers, auto makers and membership clubs
 
 Joint marketing	A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 Our joint marketing partners include categories of companies such as insurance companies
 Other important information
-
-
-
-State Laws:
-
 
 
 
@@ -124,24 +119,6 @@ For more information, contact us at the address above, or email Privacy.Info@JPM
 
 
 
-CA: Accounts with a California mailing address are automatically treated as if they have limited the sharing with non affiliates as described on page 1. CA residents are provided a CA notice for additional choices.
-
-
-
-
-
-Who is providing this notice?
-
-
-
-
-JPMorgan Chase Bank, N.A.
-J.P. Morgan Securities LLC.
-Chase Insurance Agency, Inc.
-
-
-
-
-Separate policies may apply to customers of certain businesses, such as J.P. Morgan Private Bank.
+CA: Accounts with a California mailing address are automatically treated as if they have limited the sharing with nonaffiliates as described on page 1. CA residents are provided a CA notice for additional choices.
 
 Si tienes alguna pregunta, por favor llama o visita una sucursal local de Chase.
