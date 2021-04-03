@@ -22,12 +22,12 @@ Merchant Services Privacy Notice
 California Consumer Privacy Act (CCPA)
 Children's Privacy Policy
 End of sidebar menu
-LAST UPDATED: APRIL 2020
+LAST UPDATED: APRIL 2021
 U.S. Consumer Privacy Notice
 
 Printer Friendly version (PDF)
 
-Facts: What does Chase do with your personal information?
+Facts:
 
 Why?	Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
 What?	
@@ -50,7 +50,6 @@ For our affiliates to market to you	Yes	Yes
 For nonaffiliates to market to you	Yes	Yes
 To limit our sharing	
 Call 1–888–868–8618 – our menu will prompt you through your choice(s). We accept operator relay calls.
-Chase Sapphire® customers please call 1-800-493-3319.
 Visit us online: chase.com/privacypreferences
 
 Please note:
@@ -64,10 +63,9 @@ However, you can contact us at anytime to limit our sharing.
 
 Questions?	
 Call 1–888–868–8618 — our menu will prompt you through your choice(s). We accept operator relay calls.
-Chase Sapphire® customers please call 1-800-493-3319.
 Who we are
 
-Who is providing this notice?	The JPMorgan Chase & Co. family of companies. A partial list of its U.S. consumer financial companies is located at the end of this document.
+Who is providing this notice?	The U.S. consumer financial companies within the JPMorgan Chase & Co. family, including JPMorgan Chase Bank, N.A., Chase Insurance Agency, Inc., and J.P. Morgan Securities LLC.
 What we do
 
 How does Chase protect my personal information?	To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We authorize our employees to get your information only when they need it to do their work, and we require companies that work for us to protect your information.
@@ -109,17 +107,12 @@ Other important information
 
 
 
-State Laws:
-
-
-
-
 VT: Accounts with a Vermont mailing address are automatically treated as if they have limited the sharing as described on page 1. For joint marketing, we will only disclose your name, contact information and information about your transactions.
 
 
 
 
-NV: We are providing you this notice pursuant to Nevada law. If you prefer not to receive marketing calls from us, you may be placed on our Internal Do Not Call List by calling 1-800-945-9470, Chase Sapphire® customers please call 1-800-493-3319, or by writing to us at P.O. Box 734007, Dallas, TX 75373-4007.
+NV: We are providing you this notice pursuant to Nevada law. If you prefer not to receive marketing calls from us, you may be placed on our Internal Do Not Call List by calling 1-800-945-9470, or by writing to us at P.O. Box 734007, Dallas, TX 75373-4007.
 
 
 
@@ -129,24 +122,6 @@ For more information, contact us at the address above, or email Privacy.Info@JPM
 
 
 
-CA: Accounts with a California mailing address are automatically treated as if they have limited the sharing with non affiliates as described on page 1. CA residents are provided a CA notice for additional choices.
-
-
-
-
-
-Who is providing this notice?
-
-
-
-
-JPMorgan Chase Bank, N.A.
-J.P. Morgan Securities LLC.
-Chase Insurance Agency, Inc.
-
-
-
-
-Separate policies may apply to customers of certain businesses, such as J.P. Morgan Private Bank.
+CA: Accounts with a California mailing address are automatically treated as if they have limited the sharing with nonaffiliates as described on page 1. CA residents are provided a CA notice for additional choices.
 
 Si tienes alguna pregunta, por favor llama o visita una sucursal local de Chase.
