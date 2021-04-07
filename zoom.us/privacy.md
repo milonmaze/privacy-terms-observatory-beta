@@ -485,6 +485,12 @@ August 2020
 
 	
 Removed references to the invalidated Privacy Shield.
+
+Updates
+
+Zoom's policies may require modifications in order to comply with applicable laws and regulatory requirements. Any such changes to Zoom's policies will be posted here. If you would like to receive notification of updates to our policies, please provide your email address in the box below.
+
+ Subscribe
 About
 Zoom Blo
 Customer
