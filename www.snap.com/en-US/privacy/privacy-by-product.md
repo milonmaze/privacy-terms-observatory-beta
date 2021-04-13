@@ -55,6 +55,8 @@ Public Profiles enable Snapchatters to be discovered in the app. If you want a P
 
 About Profiles
 
+Spotlight
+
 Spotlight allows you to discover the world of Snapchat in one place, and shines a light on the most entertaining Snaps, no matter who created them!
 
 Snaps submitted to Spotlight are public and other Snapchatters will be able to share them both on and off Snapchat. Your Profile is where you will be able to control and see an overview of Spotlight Snaps you’ve submitted. You can also favorite Spotlight Snaps, when you do so we will add it to your favorites list and use it to personalize your Spotlight experience.
