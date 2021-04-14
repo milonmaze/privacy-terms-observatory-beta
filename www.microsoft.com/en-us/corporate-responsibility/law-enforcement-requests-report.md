@@ -89,11 +89,11 @@ Does Microsoft provide governments with direct access to customer data?
 Do you give governments access to platform encryption keys?
 Follow Microsoft
 What's new
-Surface Duo
+Surface Laptop 4
 Surface Laptop Go
-Surface Pro X
 Surface Go 2
-Surface Book 3
+Surface Pro X
+Surface Duo
 Microsoft 365
 Windows 10 apps
 HoloLens 2
