@@ -44,6 +44,7 @@ Transparency Report 2020
 Transparency Report 2019
 Transparency Report 2018
 Transparency Report 2017
+Responsible Disclosure / Bug Bounty Program
 Privacy Policy
 Reddit Privacy Policy
 Effective October 15, 2020. Last Revised September 15, 2020
