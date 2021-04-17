@@ -300,8 +300,6 @@ Have Questions?
 
 If you have questions about these terms or anything else about Cloudflare, please don't hesitate to contact us:
 
-+1 (650) 319-8930
-
 Cloudflare, Inc.
 101 Townsend St,
 San Francisco, CA 94107
