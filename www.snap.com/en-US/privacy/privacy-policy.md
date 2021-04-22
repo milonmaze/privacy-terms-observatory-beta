@@ -1,6 +1,7 @@
 Home
 Careers
 News
+Safety & Impact
 Investors
 Advertisers
 Our Privacy Principles
