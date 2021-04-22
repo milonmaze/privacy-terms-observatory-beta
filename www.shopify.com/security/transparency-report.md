@@ -7,7 +7,7 @@ Overview
 Shopify —
 Transparency Report
 
-Shopify is committed to maintaining the trust of our 1,000,000+ merchants and their customers around the globe. We know that transparency is essential to that trust, and we want our merchants, customers, and partners to understand how we safeguard their personal information.
+Shopify is committed to maintaining the trust of our 1,700,000+ merchants and their customers around the globe. We know that transparency is essential to that trust, and we want our merchants, customers, and partners to understand how we safeguard their personal information.
 
 View the 2019 Report 
 Disclosure
