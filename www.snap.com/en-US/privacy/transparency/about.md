@@ -1,9 +1,4 @@
-Home
-Careers
-News
-Safety & Impact
-Investors
-Advertisers
+HomeCareersNewsSafety & ImpactInvestorsAdvertisers
 Our Privacy Principles
 Your Privacy, Explained
 Privacy by Product
