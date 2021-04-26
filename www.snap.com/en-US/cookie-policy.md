@@ -1,9 +1,4 @@
-Home
-Careers
-News
-Safety & Impact
-Investors
-Advertisers
+HomeCareersNewsSafety & ImpactInvestorsAdvertisers
 Cookie Policy
 
 A browser cookie is a small piece of data that is stored on your device to help websites and mobile apps remember things about you. Other technologies, including Web storage and identifiers associated with your device, may be used for similar purposes. In this policy, we say “cookies” to refer to all of these technologies.
