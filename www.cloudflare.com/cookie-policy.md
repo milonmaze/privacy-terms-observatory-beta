@@ -1,4 +1,4 @@
-Need help figuring out what products you need? Answer 4 easy questions to get a recommendation
+Need help picking a plan or products?  Get a customized recommendation
 Cloudflare Cookie Policy
 
 Last Updated: April 15, 2020
