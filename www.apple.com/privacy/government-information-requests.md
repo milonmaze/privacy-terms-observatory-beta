@@ -55,6 +55,7 @@ Music
 AirPods
 HomePod
 iPod touch
+AirTag
 Accessories
 Gift Cards
 Services
@@ -109,7 +110,7 @@ Supplier Responsibility
 About Apple
 Newsroom
 Apple Leadership
-Job Opportunities
+Career Opportunities
 Investors
 Ethics & Compliance
 Events
