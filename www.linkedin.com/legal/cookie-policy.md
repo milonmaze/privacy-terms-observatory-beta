@@ -1,4 +1,15 @@
-Open navigation
+ 
+ 
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+California Privacy Disclosure
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+California Privacy Disclosure
 Cookie Policy
 
 Effective on October 1, 2020
@@ -140,8 +151,7 @@ To learn more about advertisers’ use of cookies, please visit the following li
 Internet Advertising Bureau (US)
 European Interactive Digital Advertising Alliance (EU)
 Internet Advertising Bureau (EU)
-LinkedIn
-© 2021
+LinkedIn © 2021
 About
 Accessibility
 User Agreement
@@ -151,4 +161,28 @@ Copyright Policy
 Brand Policy
 Guest Controls
 Community Guidelines
+العربية (Arabic)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+English (English)
+Español (Spanish)
+Français (French)
+Bahasa Indonesia (Bahasa Indonesia)
+Italiano (Italian)
+日本語 (Japanese)
+한국어 (Korean)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
 Language
