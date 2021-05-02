@@ -48,7 +48,7 @@ For our affiliates to market to you	Yes	Yes
 For nonaffiliates to market to you	Yes	Yes
 To limit our sharing	
 Call 1–888–868–8618 – our menu will prompt you through your choice(s). We accept operator relay calls.
-Visit us online: chase.com/privacypreferences
+Visit us online
 
 Please note:
 If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
