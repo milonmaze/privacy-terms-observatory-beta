@@ -1,4 +1,15 @@
-Open navigation
+ 
+ 
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+California Privacy Disclosure
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+California Privacy Disclosure
 Privacy Policy
 
 Effective August 11, 2020
@@ -11,7 +22,11 @@ LinkedIn’s mission is to connect the world’s professionals to allow them to 
 
 This Privacy Policy applies when you use our Services (described below). We offer our users choices about the data we collect, use and share as described in this Privacy Policy, Cookie Policy, Settings and our Help Center.
 
-Key Terms 
+Key Terms
+Choices
+
+﻿Settings are available to Members of LinkedIn and Visitors are provided separate controls. Learn More.
+
 Table of Contents
 Data We Collect
 How We Use Your Data
@@ -122,7 +137,11 @@ We are improving our Services, which means we get new data and create new ways t
 
 Our Services are dynamic, and we often introduce new features, which may require the collection of new information. If we collect materially different personal data or materially change how we collect, use or share your data, we will notify you and may also modify this Privacy Policy.
 
-Key Terms 
+Key Terms
+Affiliates
+
+Affiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation.
+
 2. How We Use Your Data
 We use your data to provide, support, personalize and develop our Services.
 
@@ -222,7 +241,15 @@ We use data for security, fraud prevention and investigations.
 
 We use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of our User Agreement and/or attempts to harm our Members, Visitors or others.
 
-Key Terms 
+Key Terms
+Social Action
+
+E.g. like, comment, follow, share 
+
+Partners
+
+Partners include ad networks, exchanges and others 
+
 3. How We Share Information
 3.1 Our Services
 Any data that you include on your profile and any content you post or social action (e.g., likes, follows, comments, shares) you take on our Services will be seen by others, consistent with your settings.
@@ -341,9 +368,12 @@ You can contact us or use other options to resolve any complaints.
 
 If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here.If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws.
 
-Key Terms 
-LinkedIn
-© 2021
+Key Terms
+Consent
+
+Where we process data based on consent, we will ask for your explicit consent. You may withdraw your consent at any time, but that will not affect the lawfulness of the processing of your personal data prior to such withdrawal. Where we rely on contract, we will ask that you agree to the processing of personal data that is necessary for entering into or performance of your contract with us. We will rely on legitimate interests as a basis for data processing where the processing of your data is not overridden by your interests or fundamental rights and freedoms. 
+
+LinkedIn © 2021
 About
 Accessibility
 User Agreement
@@ -353,4 +383,28 @@ Copyright Policy
 Brand Policy
 Guest Controls
 Community Guidelines
+العربية (Arabic)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+English (English)
+Español (Spanish)
+Français (French)
+Bahasa Indonesia (Bahasa Indonesia)
+Italiano (Italian)
+日本語 (Japanese)
+한국어 (Korean)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
 Language
