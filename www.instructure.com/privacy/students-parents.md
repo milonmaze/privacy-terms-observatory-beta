@@ -14,6 +14,7 @@ About Us
 Toggle menu
 United States
 Utility
+Try Canvas Free
 For Business
 Support
 Contact Us
