@@ -157,4 +157,4 @@ Additional site navigation
 About eBayAnnouncementsCommunitySecurity CenterResolution CenterSeller CenterPoliciesAffiliatesHelp & ContactSite Map
 
 Copyright © 1995-2021 eBay Inc. All Rights Reserved. Accessibility, User Agreement, Privacy, Cookies, Do not sell my personal information and AdChoice	
-Norton Secured - powered by Verisign
+Norton Secured - powered by DigiCert
