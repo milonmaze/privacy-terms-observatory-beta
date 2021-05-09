@@ -110,7 +110,7 @@ Home
 
 GLOBAL HQ
 
-6330 South 3000 East, Suite 700, Salt Lake City, UT 84121, USA
+6330 South 3000 East Suite 700 Salt Lake City, UT 84121 USA
 
 CONTACT US
 800-203-6755
@@ -121,7 +121,7 @@ Video
 Catalog
 Assessment
 Services
-Leadership Training
+Leadership Development
 All Products
 RESOURCES
 Articles
