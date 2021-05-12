@@ -93,11 +93,12 @@ GLOBAL HQ
 CONTACT US
 800-203-6755
 Footer menu
-CANVAS ECOSYSTEM
-LMS
-Video
-Catalog
+INSTRUCTURE LEARNING PLATFORM
+Canvas LMS
+Canvas Studio
+Canvas Catalog
 Assessment
+Videri Analytics
 Services
 Leadership Development
 All Products
