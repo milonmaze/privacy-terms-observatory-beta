@@ -2,6 +2,7 @@ Skip to Content
 Log in
 Transparency Report
 Overview
+2020 Report
 2019 Report
 2018 Report
 Shopify —
@@ -9,7 +10,7 @@ Transparency Report
 
 Shopify is committed to maintaining the trust of our 1,700,000+ merchants and their customers around the globe. We know that transparency is essential to that trust, and we want our merchants, customers, and partners to understand how we safeguard their personal information.
 
-View the 2019 Report 
+View the 2020 Report 
 Disclosure
 
 In some cases, Shopify may be compelled to produce personal information to third parties. We only do so when we are required by a court order or similar legal process. When we are allowed to inform the data subject, we do. Even if we are not permitted to inform the individual, we publicly disclose the aggregate number of requests we receive here.
@@ -31,7 +32,7 @@ Contact us
 Shopify is committed to protecting the privacy of our merchants, customers, partners, and everyone who entrusts us with their personal information. For more information about our privacy practices, please see our Privacy Policy or contact Shopify’s Data Protection Officer at privacy@shopify.com.
 
 View the latest report
-2019 Transparency Report 
+2020 Transparency Report 
 Start your 14-day free trial today!
 Email address
 Start free trial
