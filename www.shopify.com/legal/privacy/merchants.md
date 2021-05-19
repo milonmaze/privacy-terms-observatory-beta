@@ -133,7 +133,7 @@ API documentation
 Free tools
 Free stock photos
 Websites for sale
-Hatchful
+Free Logo Maker - Hatchful
 Business name generator
 SHOPIFY
 Contact
