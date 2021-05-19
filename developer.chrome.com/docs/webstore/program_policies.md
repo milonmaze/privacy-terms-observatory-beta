@@ -1,6 +1,6 @@
 Skip to content
-We are looking for web developers to participate in user research, product testing, discussion groups and more. Apply now to join our WebDev Insights Community.
-Apply now
+I/O is back, online, and free for everyone! I/O connects developers from around the world for thoughtful discussions and hands-on learning with Google experts.
+Register now
 Documentation
 Chrome Web Store
 Chrome Web Store policies
