@@ -1,7 +1,7 @@
 GitHub Docs
 English
  
-GitHub.com  Site policy  GitHub Privacy Statement
+GitHub.comSite policyGitHub Privacy Statement
 GitHub Privacy Statement
 In this article
 The short version
