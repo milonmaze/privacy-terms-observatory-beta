@@ -211,9 +211,9 @@ About Canvas
 Leadership
 Partners
 Careers
-Accessibility
 Privacy
 Security
+Accessibility
 Contact Us
 Footer Utility
 Privacy
