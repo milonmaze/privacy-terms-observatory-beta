@@ -1,6 +1,6 @@
 Skip to content
 I/O is back, online, and free for everyone! I/O connects developers from around the world for thoughtful discussions and hands-on learning with Google experts.
-Register now
+Register now Dismiss
 Documentation
 Chrome Web Store
 Chrome Web Store policies
