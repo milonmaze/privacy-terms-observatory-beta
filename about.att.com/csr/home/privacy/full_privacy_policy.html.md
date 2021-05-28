@@ -9,11 +9,6 @@ INVESTORS
  
 NEWS
 Your Privacy Center
-
- 
-
- 
-
  Print Full Privacy Policy
 
  
@@ -167,12 +162,13 @@ State Law Approach
 California
 Maine
 Global Approach
-AT&T Website User Global Privacy Notice
-AT&T Business Customer GDPR Privacy Notice
-AT&T Business Customer LGPD Privacy Notice
-Aviso de Privacidade de Clientes Empresariais da AT&T nos termos da LGPD
+AT&T Website User Privacy Notice - Most of World
+AT&T Business Customer Privacy Notice – Most of World
+Aviso de Privacidad para Clientes Comerciales de AT&T
+Datenschutzhinweis für Geschäftskunden von AT&T
+Avis de confidentialité concernant les données personnelles des clients commerciaux d'AT&T
+Aviso de Privacidade de Clientes Empresariais da AT&T
 AT&T Cross Border Transfer FAQ
-AT&T Business Customer New Zealand Privacy Notice
 Transparency Report
 View on the web
 Download the English PDF
