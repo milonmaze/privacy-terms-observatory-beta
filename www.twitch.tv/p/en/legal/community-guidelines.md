@@ -35,7 +35,7 @@ Security
 Help
 Jobs
 Languages
-Last modified on 04/07/2021
+Last modified on 05/27/2021
 Community Guidelines
 
 At Twitch, our mission is to provide the best shared social video experience created by our growing community where creators and communities can interact safely. To achieve this goal, we ask that all users participate in such a way that promotes a friendly, positive experience for our global community.
@@ -71,6 +71,8 @@ Use of weapons to physically threaten, intimidate, harm, or kill others
 Twitch does not allow content that depicts, glorifies, encourages, or supports terrorism, or violent extremist actors or acts. This includes threatening to or encouraging others to commit acts that would result in serious physical harm to groups of people or significant property destruction. You may not display or link terrorist or extremist propaganda, including graphic pictures or footage of terrorist or extremist violence, even for the purposes of denouncing such content.
 
 In situations where a user has lost control of their broadcast due to severe injury, medical emergency, police action, or being targeted with serious violence, we will temporarily remove the channel and associated content.
+
+In exceptional circumstances, we may preemptively suspend accounts when we believe an individual’s use of Twitch poses a high likelihood of inciting violence. In weighing the risk of harm, we consider an individual’s influence, the level of recklessness in their past behaviors (regardless of whether any past behavior occurred on Twitch), whether or not there continues to be a risk of harm, and the scale of ongoing threats.
 
 Hateful Conduct and Harassment
 
