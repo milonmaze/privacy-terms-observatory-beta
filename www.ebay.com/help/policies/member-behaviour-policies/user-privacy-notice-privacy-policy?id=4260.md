@@ -9,7 +9,7 @@ Page navigation
 Home
 Help
 User Privacy Notice
-35 min article
+35 min Lesezeit
 User Privacy Notice
 1.   Scope and updates of this User Privacy Notice
 2. Controller
@@ -29,7 +29,7 @@ In our User Privacy Notice we have compiled all essential information about our 
 
 This User Privacy Notice is effective from June 20, 2020. View the previous User Privacy Notice.
 
-Expand all
+Alle einblenden
 1.   Scope and updates of this User Privacy Notice
 
 This User Privacy Notice applies to your use of this website and all eBay applications, services (including payment services), products and tools (collectively the "Services"), regardless of how you access or use these Services, including access via mobile devices and apps.
@@ -139,20 +139,20 @@ For additional regional disclosures for residents of certain U.S. states, includ
  page.
 
 Previous User Privacy Notice
-Was this article helpful for you?
+War dieser Artikel hilfreich?
 
-You might also be interested in:
+Das könnte Sie auch interessieren:
 
 Unsolicited idea submissions policy
 
 At eBay, we appreciate comments from our members on our products and services. But we have a long-standing policy of not accepting unsolicited suggestions, ideas, or proposals.
 
-3 min article
+3 min Lesezeit
 Threats and offensive language policy
 
 Threats, offensive language and hate speech are not allowed on eBay.
 
-2 min article
+2 min Lesezeit
 Additional site navigation
 About eBayAnnouncementsCommunitySecurity CenterResolution CenterSeller CenterPoliciesAffiliatesHelp & ContactSite Map
 
