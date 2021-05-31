@@ -26,11 +26,13 @@ Terms Directory
 Rate and review
 Google Cloud Privacy Notice
 
-Effective Date: November 27, 2020
+Note that the below notice will replace the current Google Cloud Privacy Notice on July 1, 2021. The current notice can be found here.
 
-Last modified: December 07, 2020
+Effective Date: July 1, 2021
 
-This Privacy Notice describes how we collect and process your personal information in relation to Google Workspace and Google Cloud Platform (together, “Cloud Services”).
+Last modified: May 30, 2021 | Previous Versions
+
+This Google Cloud Privacy Notice describes how we collect and process your personal information in relation to Google Workspace, Google Workspace for Education and Google Cloud Platform (together, “Cloud Services”).
 
 We offer Cloud Services either directly or via our authorized partners. Where we refer to our customers in this notice, we also mean our partners and their customers.
 
@@ -43,11 +45,15 @@ How We Share Data
 Access to Data
 Deletion and Retention of Data
 Using Google Accounts and Products
-Updates to this Notice
 EU Privacy Standards and GDPR
 Brazil Requirements
 California Requirements
 Korea Requirements
+Updates to this Notice
+
+Previous Versions
+
+December 07, 2020
 Rate and review
 
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
