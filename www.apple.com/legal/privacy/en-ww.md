@@ -16,20 +16,20 @@ Labels
 Transparency Report
 Privacy Policy
 Apple Privacy Policy
-Updated December 14, 2020
+Updated June 1, 2021
 
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
 In addition to this Privacy Policy, we provide data and privacy information embedded in our products and certain features that ask to use your personal information. This product-specific information is accompanied by our Data & Privacy Icon.
 
-You will be given an opportunity to review this product-specific information before enabling these features. You also can view this information at any time, either in Settings related to those features and/or online at apple.com/legal/privacy.
+You will be given an opportunity to review this product-specific information before using these features.  You also can view this information at any time, either in Settings related to those features and/or online at apple.com/legal/privacy.
 
 Please take a moment to familiarize yourself with our privacy practices, accessible via the headings below, and contact us if you have any questions.
 
 Download a copy of this Privacy Policy
  
 Your California Privacy Disclosures 
-Apple Health Research Apps Privacy Policy
+Apple Health Study Apps Privacy Policy
 
 
 What Is Personal Data at Apple?
