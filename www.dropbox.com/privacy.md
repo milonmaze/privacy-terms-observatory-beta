@@ -139,4 +139,5 @@ Family
 Professional
 Business
 Enterprise
+HelloSign
 English (United States)
