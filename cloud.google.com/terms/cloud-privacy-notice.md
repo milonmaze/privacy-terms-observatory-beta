@@ -12,6 +12,7 @@ Support
 Google Cloud Terms
 Google Cloud Platform
 Google Cloud Privacy Notice
+Google Cloud User Experience Research Panel Addendum
 Google Workspace
 Google Workspace for Education
 Google Workspace Translations
