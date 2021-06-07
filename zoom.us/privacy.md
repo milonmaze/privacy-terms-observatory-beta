@@ -9,7 +9,7 @@ Zoom Privacy Statement
 
 Last updated: June 4, 2021
 
-This statement describes the personal data we collect and/or process (which may include collecting, organizing, structuring, storing, using, or disclosing) to provide products and services offered directly by Zoom Video Communications, Inc. (“Zoom”), including Zoom’s websites and its meetings, webinars, and messaging platform (“Zoom Products” or “Products”). Zoom Products do not include products developed by Zoom that are covered under a separate privacy statement.
+This statement describes the personal data we collect and/or process (which may include collecting, organizing, structuring, storing, using, or disclosing) to provide products and services offered directly by Zoom Video Communications, Inc. (“Zoom”), including Zoom’s websites and its meetings, webinars, and messaging platform (“Zoom Products” or “Products”). Zoom Products do not include products developed by Zoom that are covered under a separate privacy policy (listed here).
 
 What Personal Data Do We Receive?
 How Do We Use Personal Data?
