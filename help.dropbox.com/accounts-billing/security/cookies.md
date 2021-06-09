@@ -127,4 +127,3 @@ Developers
 Referrals
 Community
 English (United States)
-We use cookies so that Dropbox works for you. By using our website, you agree to our use of cookies. Learn more
