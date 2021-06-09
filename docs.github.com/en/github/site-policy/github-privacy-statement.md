@@ -353,9 +353,7 @@ Other translations
 
 For translations of this statement into other languages, please visit https://docs.github.com/ and select a language from the drop-down menu under “English.”
 
-Did this doc help you?
-
-Privacy policy
+Did this doc help you? Privacy policy
 
  
 
