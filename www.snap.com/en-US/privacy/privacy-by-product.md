@@ -5,24 +5,6 @@ Privacy by Product
 Privacy Policy
 How We Use Your Information
 Transparency Report
-Snaps & Chats
-
-Just like talking to someone in person or on the phone, having a conversation through Snaps and Chats lets you express whatever’s on your mind at the time — without automatically keeping a permanent record of everything you’ve ever said.
-
-Of course, you can also choose to save a Snap before you send it and recipients can always take a screenshot. You can also save a message in Chat. Just tap it. Snapchat makes it easy to save what’s important, without being bogged down by the rest.
-
-Saving Snaps was designed with privacy in mind. You control whether your Snaps can be saved. Set the Snap time to no time limit to allow a Snap to be saved. You can always delete any message you sent, including Snaps that have been saved in Chat. Just press and hold to unsave.
-
-Voice and Video Chat allow you to check in with your Friends. If you just want to leave a voice message, we’ve got you covered, just press and hold the microphone to record a Voice Note.
-
-When Does Snap Inc. Delete Snaps and Chats?
-
-How to Create and Send Snaps
-
-Saving and Deleting Snaps
-
-Voice and Video Chat
-
 My Story
 
 Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group of friends.
@@ -55,11 +37,11 @@ Spotlight
 
 Spotlight allows you to discover the world of Snapchat in one place, and shines a light on the most entertaining Snaps, no matter who created them!
 
-Snaps submitted to Spotlight are public and other Snapchatters will be able to share them both on and off Snapchat. Your Profile is where you will be able to control and see an overview of Spotlight Snaps you’ve submitted. You can also favorite Spotlight Snaps, when you do so we will add it to your favorites list and use it to personalize your Spotlight experience.
+Snaps submitted to Spotlight are public and other Snapchatters will be able to share them both on and off Snapchat or even ‘Remix’ them. For example, they may take your funny dance Snap and layer a reaction over it. Your Profile is where you will be able to control and see an overview of Spotlight Snaps you’ve submitted. You can also favorite Spotlight Snaps, when you do so we will add it to your favorites list and use it to personalize your Spotlight experience.
 
 As you explore and engage with more Spotlight Snaps, we will tailor your Spotlight experience and show you Spotlight Snaps we think you will like. For example, if you can’t stop watching dance challenges, we will show you more dance related Spotlight Snaps.
 
-When you submit Snaps to Spotlight we ask you to comply with our Community Guidelines, Spotlight Terms, and Spotlight Guidelines.
+When you submit Snaps to Spotlight we ask you to comply with our Community Guidelines, Spotlight Terms and Spotlight Guidelines.
 
 About Spotlight
 
