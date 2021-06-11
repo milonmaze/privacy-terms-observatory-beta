@@ -1,5 +1,8 @@
-Welcome to redditgifts! Log in or create an account
+Welcome to redditgifts! Log in
 Gift ExchangesGalleryElves
+IMPORTANT UPDATE FROM REDDIT GIFTS
+2021 will be the last year of Reddit Gifts.
+Please read more about this in the post in r/secretsanta on Reddit.
 Reddit Gifts Privacy Notice
 
 Effective October 15, 2020.
@@ -57,8 +60,6 @@ Careers
 Help Center
 Contact Support
 FAQ
-Sign up for our newsletter!
- 
 © 2021 reddit, Inc. All Rights Reserved.
 Privacy Notice
 User Agreement
