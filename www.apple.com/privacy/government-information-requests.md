@@ -68,6 +68,7 @@ iCloud
 Apple One
 Apple Card
 Apple Books
+Apple Podcasts
 App Store
 Account
 Manage Your Apple ID
