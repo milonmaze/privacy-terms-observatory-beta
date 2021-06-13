@@ -6,7 +6,7 @@ Chrome Web Store
 Chrome Web Store policies
 Developer Program Policies
 
-Published on Friday, February 28, 2014 • Updated on Tuesday, November 17, 2020
+Published on Friday, February 28, 2014 • Updated on Thursday, February 4, 2021
 
 Table of contents
 Important: As of 06/12/2018, inline installation is deprecated. For more information, read our Chromium Blog post and Migration FAQ.
@@ -302,7 +302,7 @@ Serious or repeated violations of the Chrome Web Store Distribution Agreement or
 
 In the event that your Product is removed from Chrome Web Store, you will receive an email notification to that effect, with further instructions if applicable. Please verify that the associated publisher account with your Product can receive emails from external parties and not get flagged as Spam to ensure that you receive all communications in a timely manner.
 
-Last updated: Tuesday, November 17, 2020 Improve article
+Last updated: Thursday, February 4, 2021 Improve article
 
 Follow us
 Contribute
