@@ -95,8 +95,8 @@ Français (France)
 中文(简体)
 العربية
 Português (Brasil)
-한국어
 Italiano
+한국어
 Deutsch
 हिन्दी
 日本語
