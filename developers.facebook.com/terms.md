@@ -362,17 +362,18 @@ Facebook for Developers Community Group
 Sitemap
 News
 Blog
-Platform Initiatives Hub
 Success Stories
 Videos
 Facebook for Developers Page
+Terms and Policies
+Platform Initiatives Hub
+Platform Terms
+Developer Policies
 Follow Us
 © 2021 Facebook
 About
 Create Ad
 Careers
-Developer Policies
-Platform Terms
 Privacy Policy
 Cookies
 Terms
