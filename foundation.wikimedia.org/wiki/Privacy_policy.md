@@ -109,6 +109,8 @@ More on what this Privacy Policy doesn’t cover
 
 Where community policies govern information, such as the CheckUser policy, the relevant community may add to the rules and obligations set out in this Policy. However, they are not permitted to create new exceptions or otherwise reduce the protections offered by this Policy.
 
+Back to top 
+
  Collection & Use of Info
 
 Types of Information We Receive From You & How We Get It
@@ -460,7 +462,7 @@ Print/export
 Create a book
 Download as PDF
 Printable version
-This page was last edited on 8 October 2020, at 00:45.
+This page was last edited on 19 June 2021, at 00:25.
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. See Terms of Use for details.
 Privacy policy
 About Wikimedia Foundation Governance Wiki
