@@ -127,7 +127,8 @@ Windows Dev Center
 Developer Center
 Microsoft developer program
 Channel 9
-Office Dev Center
+Microsoft 365 Dev Center
+Microsoft 365 Developer Program
 Microsoft Garage
 Company
 Careers
