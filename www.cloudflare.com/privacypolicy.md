@@ -1,8 +1,8 @@
 Cloudflare Privacy Policy
 
-This Privacy Policy is effective as of October 27, 2020.
+This Privacy Policy is effective as of June 23, 2021.
 
-We have updated our March 31, 2020 privacy policy to reflect that we no longer rely on the EU-U.S. and Swiss-U.S. Privacy Shields as a basis under the EU General Data Protection Regulation (GDPR) for the transfer of personal data from the EU, UK, and Switzerland to the United States.
+_We have updated our October 27, 2020 privacy policy to add two new Cloudflare subsidiaries to our list of entities in Section 16. _
 
 This Cloudflare Privacy Policy (“Policy”) outlines the personal information that Cloudflare, Inc. (“Cloudflare”, “we”, “us” or “our”) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.
 
@@ -292,6 +292,18 @@ Cloudflare (Canada) Information Technology Co., Ltd.
 Suite 2600, Three Bentall Centre
 595 Burrard Street, P.O. Box 49314
 Vancouver, BC V7X 1L3
+Attention: Data Protection Officer
+privacyquestions@cloudflare.com
+
+Cloudflare Netherlands B.V.
+Keizersgracht 62, 1015CS Amsterdam
+Attention: Data Protection Officer
+privacyquestions@cloudflare.com
+
+Cloudflare Middle East FZ-LLC DIC 1 Internet City Road
+Building 1, Ground Floor, Office 17
+Jumeirah
+Dubai UAE
 Attention: Data Protection Officer
 privacyquestions@cloudflare.com
 
