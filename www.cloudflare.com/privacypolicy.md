@@ -1,8 +1,9 @@
+Log In
 Cloudflare Privacy Policy
 
 This Privacy Policy is effective as of June 23, 2021.
 
-_We have updated our October 27, 2020 privacy policy to add two new Cloudflare subsidiaries to our list of entities in Section 16. _
+We have updated our October 27, 2020 privacy policy to add two new Cloudflare subsidiaries to our list of entities in Section 16.
 
 This Cloudflare Privacy Policy (“Policy”) outlines the personal information that Cloudflare, Inc. (“Cloudflare”, “we”, “us” or “our”) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.
 
