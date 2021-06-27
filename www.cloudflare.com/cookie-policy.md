@@ -1,4 +1,3 @@
-Log In
 Cloudflare Cookie Policy
 
 Last Updated: April 15, 2020
