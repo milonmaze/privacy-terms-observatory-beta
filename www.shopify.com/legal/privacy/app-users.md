@@ -109,11 +109,11 @@ Your rights over your information
 
 We believe that you should have the right to access and control your own personal information no matter where you live. We generally retain your personal information until you stop using the app in question and inform us that you would like your personal information to be deleted. If you would like to access or request that we delete your personal information, and you use any of the below services, please follow the instructions below:
 
-If you use Shop or Shop Pay: Please visit https://shop.app/opt-out for instructions on how to request deletion of your information. To make a request to access your information or another type of request, please submit a data subject request through our online portal
+If you use Shop or Shop Pay: Please visit https://shop.app/opt-out for instructions on how to request deletion of your information. To make a request to access your information or another type of request, please email us at privacy [at] shopify.com
 
 If you receive newsletters or marketing from us: please click ‘Unsubscribe’ from the bottom of those emails
 
-For all other services, please submit a data subject request through our online portal
+For all other services, please email us at privacy [at] shopify.com
 
 Please keep in mind that after we anonymize your information, we will continue to use aggregated non-identifiable information to improve our services.
 
