@@ -14,7 +14,7 @@ Introduction
 
 Shopify provides software used by our merchants to run their businesses. If you have visited or made a purchase from a merchant’s Shopify-powered store, we collect and use information about you on behalf of that particular merchant. We only use this information at the direction of our merchants—they ultimately choose how and why to use your information. If you have questions about how a specific merchant or store uses your information, please visit their privacy policy.
 
-However, if you use one of our apps (like Shop), or if you use Shop Pay to store your personal information for easy checkout across Shopify-powered stores, visit our App Information page for details about how we collect and use information from those apps and services. Additionally, please review our overall privacy policy that applies to everyone whose information we process.
+However, if you use one of our apps (like Shop or Frenzy), or if you use Shop Pay to store your personal information for easy checkout across Shopify-powered stores, visit our App Information page for details about how we collect and use information from those apps and services. Additionally, please review our overall privacy policy that applies to everyone whose information we process.
 
 What information we collect about you and why
 
