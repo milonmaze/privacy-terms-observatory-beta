@@ -6,7 +6,7 @@ Privacy Policy
 
 How Shopify handles your data
 
-Updated May 4, 2021
+Updated March 3, 2021
 
 Introduction
 Our values
@@ -64,9 +64,11 @@ Your rights over your information
 
 We believe you should be able to access and control your personal information no matter where you live. Depending on how you use Shopify, you may have the right to request access to, correct, amend, delete, port to another service provider, restrict, or object to certain uses of your personal information (for example, direct marketing). We will not charge you more or provide you with a different level of service if you exercise any of these rights.
 
-If you buy something from a Shopify-powered store and wish to exercise these rights over information about your purchase, you need to directly contact the merchant you interacted with. We are only a processor on their behalf, and cannot decide how to process their information. We will of course help our merchants to fulfill these requests by giving them the tools to do so and by answering their questions.
+If you buy something from a Shopify-powered store and wish to exercise these rights over information about your purchase, you need to directly contact the merchant you interacted with. We are only a processor on their behalf, and cannot decide how to process their information. As such, we can only forward your request to them to allow them to respond. We will of course help our merchants to fulfill these requests by giving them the tools to do so and by answering their questions.
 
-If you are a merchant, partner, Shop user, Shopify employee, or other individual that Shopify has a direct relationship with, please submit your data subject request through our online portal. Please note that if you send us a request relating to your personal information, we have to make sure that it is you before we can respond. In order to do so, we may use a third party to collect and verify identification documents.
+Please note that if you send us a request relating to your personal information, we have to make sure that it is you before we can respond. In order to do so, we may ask to see documentation verifying your identity, which we will discard after verification.
+
+If you would like to designate an authorized agent to exercise your rights for you, please email us from the email address we have on file for you. If you email us from a different email address, we cannot determine if the request is coming from you and will not be able to accommodate your request. In your email, please include the name and email address of your authorized agent.
 
 If you are not happy with our response to a request, you can contact us to resolve the issue. You also have the right to contact your local data protection or privacy authority at any time.
 
@@ -94,7 +96,7 @@ We use cookies and similar tracking technologies on our website and when providi
 
 How you can reach us
 
-If you would like to ask about, make a request relating to, or complain about how we process your personal information, please contact Shopify Support, or mail us at one of the addresses below. If you would like to submit a legally binding request to demand someone else’s personal information (for example, if you have a subpoena or court order), please review our Guidelines for Legal Requests.
+If you would like to ask about, make a request relating to, or complain about how we process your personal information, you can contact us by email at privacy [at] shopify.com, or at one of the addresses below. If you would like to submit a legally binding request to demand someone else’s personal information (for example, if you have a subpoena or court order), please review our Guidelines for Legal Requests.
 
 Shopify Inc.
 
