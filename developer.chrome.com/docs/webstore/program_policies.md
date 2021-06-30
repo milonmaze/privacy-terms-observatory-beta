@@ -1,12 +1,16 @@
 Skip to content
+PWA Summit: a conference to help everyone succeed with PWAs is happening Oct 6 & 7. Apply now to submit a talk.
+Apply Dismiss
 Documentation
 Chrome Web Store
 Chrome Web Store policies
 Developer Program Policies
 
-Published on Friday, February 28, 2014 • Updated on Thursday, February 4, 2021
+Published on Friday, February 28, 2014 • Updated on Tuesday, June 29, 2021
 
 Table of contents
+Caution
+
 Important: As of 06/12/2018, inline installation is deprecated. For more information, read our Chromium Blog post and Migration FAQ.
 
 Branding Guidelines | Rating Guidelines | Program Policies | User Data FAQ | Developer Agreement
@@ -28,7 +32,8 @@ Violent or Bullying Behavior:
 Depictions of gratuitous violence are not allowed. Products should not contain materials that threaten, harass, or bully other users. For example, Products should not contain:
 
 Content which makes a specific threat of serious harm against an individual person or a defined group of people.
-Content whose predominant purpose is to single out another person for abuse, malicious attack, or ridicule. Content that results in the unwanted sexualization of a person, including malicious claims about a person's sexual activities, sexual orientation, or gender identity.* A series of posts/comments/photos that, taken together, clearly have the primary intention of harassment, even if each individual piece of content is not severe.
+Content whose predominant purpose is to single out another person for abuse, malicious attack, or ridicule. Content that results in the unwanted sexualization of a person, including malicious claims about a person's sexual activities, sexual orientation, or gender identity.
+A series of posts/comments/photos that, taken together, clearly have the primary intention of harassment, even if each individual piece of content is not severe.
 Hate Speech:
 
 We don't allow content advocating against or inciting hatred towards groups of people based on their race or ethnic origin, religion, disability, gender, age, veteran status, nationality, sexual orientation, gender, gender identity, or any other characteristic that is associated with systematic discrimination or marginalization.
@@ -41,16 +46,20 @@ We remove content that recruits, fundraises, or promotes violence on behalf of e
 
 Impersonation or Deceptive Behavior:
 
-Don't pretend to be someone else, and don't represent that your product is authorized by, endorsed by, or produced by another company or organization, if that is not the case. Developers should not divert users or provide links to any other site that mimics Chrome Web Store or passes itself off as Chrome Web Store. Your Product and its user experience also must not mimic functionality or warnings from a user's operating system or browser. Any changes to device settings must be made with the user's knowledge and consent and be easily reversible by the user.
+Don't pretend to be someone else, and don't represent that your product is authorized by, endorsed by, or produced by another company or organization, if that is not the case.
 
-We do not allow products which deceive or mislead users, including in the content, title, description, or screenshots.
+Developers should not divert users or provide links to any other site that mimics the Chrome Web Store or passes itself off as the Chrome Web Store. Your Product and its user experience also must not mimic functionality or warnings from a user's operating system or browser.
+
+Any changes to device settings must be made with the user's knowledge and consent and be easily reversible by the user.
+
+We do not allow products that deceive or mislead users, including in the content, title, description, or screenshots.
 
 Don't misrepresent the functionality of your product or include non-obvious functionality that doesn't serve the primary purpose of the product. Descriptions of your product must directly state the functionality so that users have a clear understanding of the product they are adding. For example, products should not contain:
 
-Claimed functionalities which are not possible to implement (e.g. "Who has viewed your IG account")
-Developer or product names which misrepresent their current status or performance on the Chrome Web Store (e.g. "Editor's Choice" or "Number One")
+Claimed functionalities that are not possible to implement (e.g. "Who has viewed your social media account") or which are not directly provided by the extension (e.g. file converters which only link to other file conversion services)
+Any metadata that misrepresents the extension's or developer's current status or performance on the Chrome Web Store (e.g. "Editor's Choice" or "Number One")
 
-If your product has a blank description field or is missing an icon or screenshots, it will be rejected. If any of your product's content, title, icon, description or screenshots contains false or misleading information, we may remove it.
+If your product has a blank description field or is missing an icon or screenshots, it will be rejected. If any of your product's content, title, icon, description, or screenshots contains false or misleading information, we may remove it.
 
 Featured Products:
 
@@ -94,6 +103,10 @@ Developers must not obfuscate code or conceal functionality of their extension. 
 Removal of whitespace, newlines, code comments, and block delimiters
 Shortening of variable and function names
 Collapsing files together
+Two Step Verification:
+
+To ensure the security of CWS accounts, Two Step Verification is required for all developer accounts prior to publishing an extension or updating an existing extension. Developers can activate Two Step Verification for their Google Accounts here. More information on Google's Two Step Verification features can be found here.
+
 Additional Requirements for Manifest V3:
 
 Extensions using Manifest V3 must meet additional requirements related to the extension's code. Specifically, the full functionality of an extension must be easily discernible from its submitted code. This means that the logic of how each extension operates should be self contained. The extension may reference and load data and other information sources that are external to the extension, but these external resources must not contain any logic.
@@ -131,13 +144,19 @@ If your product is associated with a security vulnerability that could be exploi
 
 Deceptive Installation Tactics 
 
-Extensions must be marketed responsibly. Extensions that use or benefit from deceptive installation tactics will be removed from the Chrome Web Store.
+Extensions must be marketed responsibly. The set of functionalities promised by the extension must be stated clearly and in a transparent manner. The outcome of any user interaction should match the reasonable expectations that were set with the user. Extensions that use or benefit from deceptive installation tactics will be removed from the Chrome Web Store.
 
 Deceptive installation tactics include:
 
 Unclear or inconspicuous disclosures on marketing collateral preceding the Chrome Web Store product listing.
+
 Misleading interactive elements as part of your distribution flow. This includes misleading call-to-action buttons or forms that imply an outcome other than the installation of an extension.
+
 Adjusting the Chrome Web Store product listing window with the effect of withholding or hiding extension metadata from the user.
+
+Bundling other extensions or offers within the same installation flow.
+
+Requiring unrelated user action to access advertised functionality.
 
 For more information about this policy, please see the Developer FAQ.
 
@@ -300,7 +319,7 @@ Serious or repeated violations of the Chrome Web Store Distribution Agreement or
 
 In the event that your Product is removed from Chrome Web Store, you will receive an email notification to that effect, with further instructions if applicable. Please verify that the associated publisher account with your Product can receive emails from external parties and not get flagged as Spam to ensure that you receive all communications in a timely manner.
 
-Last updated: Thursday, February 4, 2021 Improve article
+Last updated: Tuesday, June 29, 2021 Improve article
 
 Follow us
 Contribute
