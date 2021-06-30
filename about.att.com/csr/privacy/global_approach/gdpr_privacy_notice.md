@@ -19,6 +19,6 @@ Links From Within Our Site
 
 We've been upgrading this site. If you selected a link on our site and reached this message, use the Back button to return to the previous page, or follow this link to our home page where you can browse or search for the information.
 
-Privacy Policy Terms of Use Accessibility Contact Us Subscribe to Daily News Brief Do Not Sell My Personal Information
+Privacy Policy Terms of Use Accessibility Contact Us Subscribe to AT&T News Do Not Sell My Personal Information
 
 © 2021 AT&T Intellectual Property. All rights reserved.
