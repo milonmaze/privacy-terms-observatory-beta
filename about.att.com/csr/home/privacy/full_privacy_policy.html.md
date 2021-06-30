@@ -59,6 +59,6 @@ Recent Updates
 Your Privacy Center
 Privacy is fundamental to our business and we’re committed to transparency, choice and control, security, and integrity.
 View the full Privacy Policy
-Privacy Policy Terms of Use Accessibility Contact Us Subscribe to Daily News Brief Do Not Sell My Personal Information
+Privacy Policy Terms of Use Accessibility Contact Us Subscribe to AT&T News Do Not Sell My Personal Information
 
 © 2021 AT&T Intellectual Property. All rights reserved.
