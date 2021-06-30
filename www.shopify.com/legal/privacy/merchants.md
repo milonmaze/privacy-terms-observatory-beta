@@ -87,7 +87,7 @@ Shopify doesn’t control how these services use your personal information, and 
 
 Your rights over your information
 
-We believe that you should be able to access and control your own personal information no matter where you live. You can access and correct a lot of your personal information directly through the Shopify admin. For information you are not able to access or correct directly within the Shopify admin, please submit a data subject request through our online portal.
+We believe that you should be able to access and control your own personal information no matter where you live. You can access and correct a lot of your personal information directly through the Shopify admin. For information you are not able to access or correct directly within the Shopify admin, please email us at privacy [at] shopify.com.
 
 Because we need your personal information to provide Shopify services, we generally keep your personal information while you use Shopify products or services. If you close your store, you stop paying your subscription fees, or we terminate your account, we retain store information for two years before we begin the personal information purge process. We don’t do this immediately in case you reactivate your account, or if there is a legal complaint or audit relating to your business. If you contact us to request deletion of your store’s information, we will begin the personal information purge process after 90 days, except if we are legally required to retain specific information. If you have questions about this process, please contact our Support team. Please keep in mind that after we anonymize your personal information, we may continue to use non-identifiable information to improve our services.
 
