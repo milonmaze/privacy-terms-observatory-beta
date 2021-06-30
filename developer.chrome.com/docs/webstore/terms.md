@@ -1,4 +1,6 @@
 Skip to content
+PWA Summit: a conference to help everyone succeed with PWAs is happening Oct 6 & 7. Apply now to submit a talk.
+Apply Dismiss
 Documentation
 Chrome Web Store
 Chrome Web Store policies
@@ -41,7 +43,7 @@ The Web Store is a publicly available site on which Developers can publish Produ
 
 3.2 This Agreement covers both Products you choose to distribute for free and Products for which you charge a fee. If you charge a fee for your Product, you assume sole responsibility and liability for all related transactions and authentications, records, and taxes. Google will have no obligations with respect to such Products, including without limitation obligations to track and process payments, authenticate paid or previously paid downloads, maintain payment records, or pay, report, or charge taxes.
 
-3.3 You may also choose to distribute Products for free. If the Product is free, you will not be charged a Transaction Fee. You may not collect future charges from users for copies of the Products that those users were initially allowed to download for free. This is not intended to prevent distribution of free trial versions of the Product with an "upsell" option to obtain the full version of the Product: Such free trials for Products are encouraged. In this Agreement, "free" means there are no charges or fees of any kind for use of the Product.
+3.3 You may also choose to distribute Products for free. You may not collect future charges from users for copies of the Products that those users were initially allowed to download for free. This is not intended to prevent distribution of free trial versions of the Product with an "upsell" option to obtain the full version of the Product: Such free trials for Products are encouraged. In this Agreement, "free" means there are no charges or fees of any kind for use of the Product.
 
 3.4 You Support Your Product. You agree to supply and maintain valid and accurate contact information that will be displayed in each product detail page on the Store and made available to users for customer support and legal purposes. For paid Products or in-app transactions, you must respond to customer support inquiries within three (3) business days, and within 24 hours to any support or Product concerns stated to be urgent by Google.
 
