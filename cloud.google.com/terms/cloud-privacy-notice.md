@@ -28,8 +28,6 @@ Rate and review
 Google Cloud Privacy Notice
 bookmark_border
 
-Note that the below notice will replace the current Google Cloud Privacy Notice on July 1, 2021. The current notice can be found here.
-
 Effective Date: July 1, 2021
 
 Last modified: May 30, 2021 | Previous Versions
