@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective February 4, 2021 | Archived versions | Download PDF
+Effective July 1, 2021 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -92,7 +92,7 @@ Information about things near your device, such as Wi-Fi access points, cell tow
 
 The types of location data we collect depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Location History if you want to create a private map of where you go with your signed-in devices.
 
-In some circumstances, Google also collects information about you from publicly accessible sources. For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, including marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse. We also receive information from advertisers to provide advertising and research services on their behalf.
+In some circumstances, Google also collects information about you from publicly accessible sources. For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse. We also receive information from advertisers to provide advertising and research services on their behalf.
 
 We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs.
 
@@ -121,6 +121,7 @@ We use the information we collect to customize our services for you, including p
 Depending on your settings, we may also show you personalized ads based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings.
 
 We don’t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
+We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
 We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
 
 Go to Ad Settings
@@ -337,7 +338,7 @@ We explain when Google may share information in Sharing your information. Google
 
 The CCPA also provides the right to request information about how Google collects, uses, and discloses your personal information. And it gives you the right to access your information and request that Google delete that information. Finally, the CCPA provides the right to not be discriminated against for exercising your privacy rights.
 
-We describe the choices you have to manage your privacy and data across Google’s services in Your privacy controls. You can exercise your rights by using these controls, which allow you to access, review, update and delete your information, as well as export and download a copy of it. When you use them, we’ll validate your request by verifying that you’re signed in to your Google Account. If you have questions or requests related to your rights under the CCPA, you (or your authorized agent) can also contact Google.
+We describe the choices you have to manage your privacy and data across Google’s services in Your privacy controls. You can exercise your rights by using these controls, which allow you to access, review, update and delete your information, as well as export and download a copy of it. When you use them, we’ll validate your request by verifying that you’re signed in to your Google Account. If you have questions or requests related to your rights under the CCPA, you (or your authorized agent) can also contact Google. You can also find more information on Google’s handling of CCPA requests.
 
 The CCPA requires a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy.
 
@@ -413,7 +414,7 @@ Chrome & the Chrome Operating System
 Payments
 Fiber
 Google Fi
-G Suite for Education
+Google Workspace for Education
 Read Along
 YouTube Kids
 Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)
