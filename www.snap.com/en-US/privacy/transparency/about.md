@@ -51,6 +51,10 @@ Privacy Center
 
 At Snap, we make your privacy a priority. We know your trust is earned every time you use Snapchat, or any of our other products—that is why we treat your information differently than most other tech companies. Even though our products are constantly evolving, our privacy principles and commitment to privacy remain unchanged.
 
+Safety & Impact Blog
+
+At Snap, we make your privacy a priority. We know your trust is earned every time you use Snapchat, or any of our other products—that is why we treat your information differently than most other tech companies. Even though our products are constantly evolving, our privacy principles and commitment to privacy remain unchanged.
+
 © 2021 Snap Inc.
 CitizenSnap
 Privacy Policy
