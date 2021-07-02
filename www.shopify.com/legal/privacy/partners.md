@@ -109,7 +109,7 @@ API documentation
 Free tools
 Free stock photos
 Websites for sale
-Free Logo Maker - Hatchful
+Hatchful
 Business name generator
 SHOPIFY
 Contact
