@@ -27,6 +27,7 @@ Modern Day Slavery Statement
 Events Code Of Conduct
 Accessibility Statement
 Transparency Report
+Imprint
 Advertising
 Blog
 Brand
