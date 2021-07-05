@@ -96,6 +96,7 @@ Manage your marketing preferences
 Manage your cookie preferences
 Actions for customers in the EU
 Help for Credit Karma members
+Instructions for authorized agents
 Company
 About Intuit
 Investor Relations
@@ -144,7 +145,12 @@ Accessibility
 
 © 2021 Intuit Inc. All rights reserved. Intuit, QuickBooks, QB, TurboTax, ProConnect, and Mint are registered trademarks of Intuit Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice.
 
+
 Photographs ©2018 Jeremy Bittermann Photography
+
+By accessing and using this page you agree to the Terms and Conditions.
+
+About cookies | Manage cookies
 
 Legal
 Privacy
