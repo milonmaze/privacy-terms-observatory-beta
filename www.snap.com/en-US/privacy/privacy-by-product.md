@@ -5,6 +5,26 @@ Privacy by Product
 Privacy Policy
 How We Use Your Information
 Transparency Report
+Snaps & Chats
+
+Just like talking to someone in person or on the phone, having a conversation through Snaps and Chats lets you express whatever’s on your mind at the time — without automatically keeping a permanent record of everything you’ve ever said.
+
+Of course, you can also choose to save a Snap before you send it and recipients can always take a screenshot. You can also save a message in Chat. Just tap it. Snapchat makes it easy to save what’s important, without being bogged down by the rest.
+
+Saving Snaps was designed with privacy in mind. You control whether your Snaps can be saved. Set the Snap time to no time limit to allow a Snap to be saved. You can always delete any message you sent, including Snaps that have been saved in Chat. Just press and hold to unsave.
+
+Voice and Video Chat allows you to check in with your Friends. If you just want to leave a voice message, we’ve got you covered, just press and hold the microphone to record a Voice Note.
+
+Snaps and Chats, including Voice and Video Chats, between you and your friends are private, that’s why we don’t scan their content to personalize your experience or show you ads. This means we don’t know what you’re saying or Snapping, though we do keep some metadata on the Snaps and Chats you send and receive.
+
+When Does Snap Inc. Delete Snaps and Chats?
+
+How to Create and Send Snaps
+
+Saving and Deleting Snaps
+
+Voice and Video Chat
+
 My Story
 
 Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group of friends.
