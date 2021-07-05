@@ -26,7 +26,6 @@ Google Contracting Entity
 Terms Directory
 Rate and review
 Google Cloud Privacy Notice
-bookmark_border
 
 Effective Date: July 1, 2021
 
