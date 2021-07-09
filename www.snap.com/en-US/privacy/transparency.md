@@ -36,7 +36,7 @@ Overview of Content and Account Violations
 
 Our Community Guidelines prohibit harmful content, including misinformation; conspiracy theories that can cause harm; deceptive practices; illegal activities, including buying or selling illegal drugs, counterfeit goods, contraband or illegal weapons; hate speech, hate groups and terrorism; harassment and bullying; threats, violence and harm, including the glorification of self-harm; sexually explicit content; and child sexual exploitation. 
 
-Every day, more than five billion Snaps are created using our Snapchat camera. From July 1 - December 31, 2020, we enforced against 5,543,281 pieces of content globally that violated our guidelines. 
+Every day, more than five billion Snaps are created using our Snapchat camera on average. From July 1 - December 31, 2020, we enforced against 5,543,281 pieces of content globally that violated our guidelines. 
 
 Enforcement actions could include removing the offending content; terminating or limiting the visibility of the account in question; and referring the content to law enforcement. If an account is terminated for violating our Guidelines, the account holder is not permitted to create a new account or use Snapchat again. 
 
