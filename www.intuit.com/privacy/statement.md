@@ -113,6 +113,10 @@ Information we receive from you
 The personal information that we receive about you depends on the context of your interactions with Intuit, how you configure your account and the choices that you make, including your privacy settings. Personal information that you provide may also depend upon what services or experiences you use, your location and applicable law. Learn more about the personal information we collect, how we use it, and your rights.
 
 
+Learn more about the GLBA Privacy Notice here.
+
+
+
 
 
 Creating an account. We collect information when you create an account, interact with the Intuit Platform or activate a subscription. Personal information may include your contact information (such as your name, address, phone number and email), profile photo, billing information (your payment information), usernames and credentials.
