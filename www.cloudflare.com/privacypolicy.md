@@ -1,4 +1,3 @@
-Log In
 Cloudflare Privacy Policy
 
 This Privacy Policy is effective as of June 23, 2021.
