@@ -1,6 +1,4 @@
 Skip to content
-PWA Summit: a conference to help everyone succeed with PWAs is happening Oct 6 & 7. Apply now to submit a talk.
-Apply Dismiss
 Documentation
 Chrome Web Store
 Chrome Web Store policies
