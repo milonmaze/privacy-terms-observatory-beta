@@ -3,7 +3,9 @@ Cloudflare Cookie Policy
 
 Last Updated: April 15, 2020
 
-This Cloudflare Cookie Policy (“Policy”) outlines the general policy, practices, and types of cookies that Cloudflare, Inc. (“Cloudflare,” “we,” “us,” or “our”) may use to improve our Services and your experience when visiting our Websites. For the purposes of this Policy, capitalized terms used but not defined in this Policy have the meanings given in our Privacy Policy.
+This Cloudflare Cookie Policy (“Policy”) outlines the general policy, practices, and types of cookies that Cloudflare, Inc. (“Cloudflare,” “we,” “us,” or “our”) may use to improve our Services and your experience when visiting our Websites. For the purposes of this Policy, capitalized terms used but not defined in this Policy have the meanings given in our 
+Privacy Policy
+.
 
 Our Websites and Services use cookies and other similar technologies (collectively in this Policy, "cookies"), in order to provide a better service to you, to help keep your account safe, and to generally improve our Websites and Services. Cookies perform essential functions, such as ensuring a webpage loads correctly and securely. They also help us provide you with a consistent and efficient experience. For example, we may use cookies to remember which language you prefer, to remember that you are a repeat visitor so we can direct you to the appropriate part of our Websites, or to present you with services that are matched to your preferences.
 
@@ -32,9 +34,13 @@ Performance cookies help us learn how you use our Websites to help improve their
 Some of the Performance cookies we use are:
 
 Google Analytics - Tracks user behavior on the Websites, which helps us better understand how users are using the Websites. Learn more at https://www.google.com/policies/privacy/, and to opt out, visit http://tools.google.com/dlpage/gaoptout.
+
 Google Tag Manager - Tracks user behavior on the Websites, which helps us better understand how users are using the Websites. Learn more at https://support.google.com/tagmanager/answer/6102821?, and to opt out, visit https://support.google.com/analytics/answer/7519794.
+
 Marketo (Munchkin) - Links visitor behavior on the Websites to the recipient of an email marketing campaign to measure campaign effectiveness. Learn more at http://legal.marketo.com/cookies/, and to out opt, visit http://developers.marketo.com/javascript-api/lead-tracking/#opt_out.
+
 Bizible - Records website and server performance with each visit to the Websites. Learn more at http://www.bizible.com/privacy-policy, and to opt out, visit https://www.bizible.com/cookie-opt-out.
+
 TechTarget - Tracks user behavior on the Websites, which helps us better understand how users are using the Websites.Learn more at https://www.techtarget.com/privacy-policy-may25/ and to opt out, visit https://www.techtarget.com/individual-rights-request/. Please note that TechTarget will not collect any data when a user is identified by IP address as being based in the EU or UK.
 
 In addition, we also may include tracking pixels, which are small graphic images, in our email messages to determine whether the messages were opened and if the links were clicked. If you do not want to receive tracking pixels in emails we send you, you will need to disable HTML images in your email client, but that may affect your ability to view images in other emails you receive.
@@ -49,22 +55,56 @@ You may opt out of Targeting cookies through the Cookie Preferences link on clou
 
 Some of the Targeting cookies we use are:
 
-Bing Ads - Advertising platform. Learn more at https://advertise.bingads.microsoft.com/en-us/resources/policies/microsoft-bing-adsprivacy-policy.
+Bing Ads - Advertising platform. Learn more at https://advertise.bingads.microsoft.com/en-us/resources/policies/microsoft-bing-adsprivacy-policy
+
 Twitter - Analyzes browsing activity to establish user profile and advertising platform. Learn more at https://support.twitter.com/articles/20170514, and learn how to opt out at https://help.twitter.com/en/personalization-data-settings.
+
 Facebook Custom Audience - Analyzes browsing activity across our Websites to track advertising effectiveness, customize audiences, and improve ad retargeting. Learn more at https://www.facebook.com/business/learn/facebook-ads-pixel, and learn how to opt out at https://www.facebook.com/policies/cookies/ whether you are a Facebook user (via your ad preferences) or not (via the Digital Advertising Alliance for your jurisdiction).
+
 LiveRamp - Tracking anonymous user characteristics for ad retargeting. Learn more at https://liveramp.com/privacy/, and to opt out, visit https://liveramp.com/opt_out/.
+
 OpenX - Advertising platform. Learn more about and learn how to opt out at https://www.openx.com/legal/privacy-policy/.
-Yahoo Ad Exchange - Advertising platform. Learn more at https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.htm. and to opt out, visit https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/controls/index.html.
+
+Yahoo Ad Exchange - Advertising platform. Learn more at https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.htm, and to opt out, visit https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/controls/index.html.
+
 AppNexus - Advertising platform. Learn more, including how to opt out, at https://www.appnexus.com/en/company/platform-privacy-policy.
+
 BidSwitch - Advertising platform. Learn more and opt out at http://www.bidswitch.com/policies/.
+
 DoubleClick - Provides Internet ad-serving services. Learn more at https://policies.google.com/privacy and learn how to opt out at https://support.google.com/ads/answer/2662922.
+
 LinkedIn Insights - Analyzes browsing activity to establish user profile and advertising platform. Learn more at https://www.linkedin.com/legal/privacy-policy and https://www.linkedin.com/help/lms/answer/65521/the-linkedin-insight-tag-faqs?lang=en, including how to opt out whether you are a LinkedIn user (via your ad preferences) or not (via the Digital Advertising Alliance for your jurisdiction). LinkedIn account holders can opt-out specifically from LinkedIn’s uses of certain categories of data to show more relevant ads. Visitors to LinkedIn can opt out here.
+
 RollWorks, a division of NextRoll - Advertising platform. Learn more at https://www.nextroll.com/privacy, and learn how to opt out at https://www.nextroll.com/privacy#service-8.
+
 Legal
+
+Website Terms of Use
+
+Self-Serve Subscription Agreement
+
+Supplemental Terms
+
+Privacy Policy
+
+Cookie Policy
+
+Trust & Safety
+
+Transparency Report
+
+Domain Registration Agreement
+
+Modern Slavery Act Statement
+
 Keeping Your Information Private and Secure
+
 We will never sell, rent, or give away your personal information without your permission
+
 We track visitors to our site and yours in order to keep malicious visitors away
+
 If we aggregate data, we will not reveal your private information
+
 Have Questions?
 
 If you have questions about these terms or anything else about Cloudflare, please don't hesitate to contact us:
@@ -78,15 +118,24 @@ privacyquestions@cloudflare.com
 
 Sales
 
+Enterprise Sales
+Become a Partner
 Contact Sales:
-
 +1 (888) 99 FLARE
 
 Getting Started
+
 Community
+
 Developers
+
 Support
+
 Company
-    
+
 © 2021 Cloudflare, Inc.
-Privacy Policy Terms of Use Disclosure Cookie Preferences Trademark
+Privacy Policy
+Terms of Use
+Disclosure
+Cookie Preferences
+Trademark
