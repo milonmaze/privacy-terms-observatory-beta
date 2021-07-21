@@ -1,5 +1,5 @@
 GitHub Docs
-GitHub.comSite policyGitHub Privacy Statement
+GitHubSite policyGitHub Privacy Statement
 GitHub Privacy Statement
 In this article
 The short version
