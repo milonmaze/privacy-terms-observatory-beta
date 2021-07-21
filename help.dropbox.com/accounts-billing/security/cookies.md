@@ -85,15 +85,6 @@ For more information on how to control and access your personal data, please see
 
 How helpful was this article?
 Related articles
-Remote wipe Dropbox files from a lost or stolen computer
-
-Learn how you can remote wipe your Dropbox files from a computer the next time it comes online.
-
-Data storage
-Data transfers between Asia-Pacific and the United States
-
-Find our how Dropbox Business users in the APAC region can choose to store their data on the Amazon Web Services cloud i
-
 Other ways to get help
 Community
 Twitter support
@@ -120,6 +111,7 @@ Support
 Help center
 Contact us
 Cookies
+Manage cookies
 Privacy & terms
 Sitemap
 Community
@@ -127,3 +119,6 @@ Developers
 Referrals
 Community
 English (United States)
+We use cookies to provide, improve, protect, and promote our services. Visit our Privacy Policy and Privacy Policy FAQ to learn more. You can manage your personal preferences in our Cookie Consent Tool.
+Decline
+Accept All
