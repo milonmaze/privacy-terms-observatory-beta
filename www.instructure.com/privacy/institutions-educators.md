@@ -151,6 +151,7 @@ About Canvas
 Leadership
 Partners
 Careers
+Investor Relations
 Privacy
 Security
 Accessibility
