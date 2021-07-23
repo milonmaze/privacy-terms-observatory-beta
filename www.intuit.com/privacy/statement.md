@@ -78,7 +78,7 @@ Français (Canada)
 Español
 Português
 Intuit Global Privacy Statement
-Last Updated: December 3, 2020
+Last Updated: July 9, 2021
 
 See previous Privacy Statements
 Introduction and overview
