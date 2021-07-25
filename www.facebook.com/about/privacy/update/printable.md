@@ -148,6 +148,9 @@ ATTN: Privacy Operations
 Menlo Park, CA 94025
 
 
+Privacy Notice for California Residents
+If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California Privacy Notice.
+
 Date of Last Revision: January 11, 2021
 
 English (US)
