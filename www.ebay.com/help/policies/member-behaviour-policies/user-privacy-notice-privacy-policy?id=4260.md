@@ -3,11 +3,10 @@ Skip to main content
 	
 Customer Service
 Hi! Sign in or registerDaily DealsHelp & Contact
-My eBay
+SellMy eBay
 Expand My eBay
 Notification
 Expand Cart
-Sell
 Page navigation
 Home
 Help
