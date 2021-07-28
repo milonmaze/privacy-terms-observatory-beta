@@ -9,7 +9,6 @@ Resources
 Toggle menu
 News & Events
 Toggle menu
-Stories
 About Us
 Toggle menu
 United States
