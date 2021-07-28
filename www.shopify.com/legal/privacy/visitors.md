@@ -67,7 +67,7 @@ if we merge with or are acquired by another company
 
 Your rights over your information
 
-We believe that you should have the right to access and control your own personal information, no matter where you live. We retain your personal information until you tell us to delete it. Please email us at privacy [at] shopify.com if you would like to access or request that we delete your personal information. Please keep in mind that after we anonymize your information, we will continue to use non-identifiable information to improve our services. Finally, we do not and will not “sell” your personal information, as that term is used in California law.
+We believe that you should have the right to access and control your own personal information, no matter where you live. We retain your personal information until you tell us to delete it. Please submit a data subject request through our online portal if you would like to access or request that we delete your personal information. Please keep in mind that after we anonymize your information, we will continue to use non-identifiable information to improve our services. Finally, we do not and will not “sell” your personal information, as that term is used in California law.
 
 More resources
 About Careers Press and Media Shopify Plus Sitemap
