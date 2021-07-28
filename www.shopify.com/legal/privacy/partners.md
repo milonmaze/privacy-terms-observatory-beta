@@ -67,9 +67,9 @@ if we merge with or are acquired by another company
 
 Your rights over your information
 
-We believe that you should be able to access and control your own personal information no matter where you live. You can access and correct a lot of your personal information directly through the Shopify admin. For information you are not able to access or correct directly within the Shopify admin, please email us at privacy [at] shopify.com.
+We believe that you should be able to access and control your own personal information no matter where you live. You can access and correct a lot of your personal information directly through the Shopify admin. For information you are not able to access or correct directly within the Shopify admin, please submit a data subject request through our online portal.
 
-When you sign up for the partner program you remain in the program until you tell us otherwise. Please email us at privacy [at] shopify.com if you would like us to delete your personal information. Please keep in mind that after we anonymize your personal information, we will continue to use non-identifiable information to improve our services.
+When you sign up for the partner program you remain in the program until you tell us otherwise. Please submit a data subject request through our online portal if you would like us to delete your personal information. Please keep in mind that after we anonymize your personal information, we will continue to use non-identifiable information to improve our services.
 
 Finally, we do not and will not “sell” your personal information, as that term is used in California law.
 
