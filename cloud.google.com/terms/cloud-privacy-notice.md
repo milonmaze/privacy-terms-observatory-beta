@@ -9,33 +9,16 @@ Pricing
 Getting started
 Docs
 Support
-Google Cloud Terms
-Google Cloud Platform
-Google Cloud Privacy Notice
-Google Cloud User Experience Research Panel Addendum
-Google Workspace
-Google Workspace for Education
-Google Workspace Translations
-Google Maps Platform
-Chrome Enterprise
-Android
-Cloud Identity
-Apigee
-Firebase
-Google Contracting Entity
-Terms Directory
-Was this helpful
+Back to Google Cloud Terms Directory
+Current
 Google Cloud Privacy Notice
 
 Effective Date: July 1, 2021
 
-Last modified: May 30, 2021 | Previous Versions
-
-This Google Cloud Privacy Notice describes how we collect and process your personal information in relation to Google Workspace, Google Workspace for Education and Google Cloud Platform (together, “Cloud Services”).
+This Google Cloud Privacy Notice describes how we collect and process your personal information in relation to Google Workspace, Google Workspace for Education and Google Cloud Platform (together, “Cloud Services”).
 
 We offer Cloud Services either directly or via our authorized partners. Where we refer to our customers in this notice, we also mean our partners and their customers.
 
-Expand all
 Information We Collect
 Why We Process Data
 Where Data Is Stored
@@ -49,14 +32,8 @@ Brazil Requirements
 California Requirements
 Korea Requirements
 Updates to this Notice
-
-Previous Versions
-
-December 07, 2020
-Was this helpful
-
-Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
-
+PREVIOUS VERSIONS (Last modified May 30, 2021)
+December 7, 2020
 About Google
 Privacy
 Site terms
