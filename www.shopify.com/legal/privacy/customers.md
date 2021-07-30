@@ -69,7 +69,7 @@ Hardware
 SUPPORT
 24/7 support
 Shopify Help Center
-Forums
+Shopify Community
 API documentation
 Free tools
 Free stock photos
