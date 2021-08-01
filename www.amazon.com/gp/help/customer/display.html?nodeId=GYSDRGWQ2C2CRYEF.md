@@ -18,6 +18,7 @@ We are members of numerous associations focused on protecting privacy and securi
 
 Amazon Information Request Reports
 
+January - June 2021 Report
 July - December 2020 Report
 January - June 2020 Report
 July - December 2019 Report
