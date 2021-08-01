@@ -219,41 +219,41 @@ Changes to This Privacy Statement
 We may update this Privacy Statement periodically to account for changes in our collection and/or processing of personal data, and will post the updated Privacy Statement on our website, with a “Last Updated” date at the top. If we make material changes to this Privacy Statement, we will notify you and provide you an opportunity to review before you choose to continue using our Products.
 
 About
-Zoom Blo
-Customer
-Our Tea
-Career
-Integration
-Partner
-Investor
-Pres
-Media Ki
-Resource
+Zoom Blog
+Customers
+Our Team
+Careers
+Integrations
+Partners
+Investors
+Press
+Media Kit
+Resources
 Brand Guidelines
 	
-Download
-Meetings Client
-Browser Extensio
-Outlook Plug-in
-Lync Plug-i
-iPhone/iPad Ap
-Android Ap
+Downloads
+Meetings Clients
+Browser Extension
+Outlook Plug-ins
+Lync Plug-in
+iPhone/iPad App
+Android App
 	
 Sales
 1.888.799.9666
-Contact Sale
-Plans & Pricin
-Request a Dem
-Webinars and Event
+Contact Sales
+Plans & Pricing
+Request a Demo
+Webinars and Events
 	
 Support
-Test Zoo
-Accoun
+Test Zoom
+Account
 Support Center
-Live Trainin
-Feedbac
-Contact U
-Accessibilit
+Live Training
+Feedback
+Contact Us
+Accessibility
 Privacy and Security
 	
 Language
