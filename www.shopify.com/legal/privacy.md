@@ -171,7 +171,7 @@ Partner program
 Affiliate program
 App developers
 Investors
-Shopify events
+Community Events
  
  
  
