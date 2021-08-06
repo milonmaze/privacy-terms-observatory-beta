@@ -227,9 +227,9 @@ You can also add applications from GitHub, such as our Desktop app, our Atom app
 
 How you can access and control the information we collect
 
-If you're already a GitHub user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting GitHub Support or GitHub Premium Support. You can control the information we collect about you by limiting what information is in your profile, by keeping your information current, or by contacting GitHub Support or GitHub Premium Support.
+If you're already a GitHub user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting GitHub Support. You can control the information we collect about you by limiting what information is in your profile, by keeping your information current, or by contacting GitHub Support.
 
-If GitHub processes information about you, such as information GitHub receives from third parties, and you do not have an account, then you may, subject to applicable law, access, update, alter, delete, or object to the processing of your personal information by contacting GitHub Support or GitHub Premium Support.
+If GitHub processes information about you, such as information GitHub receives from third parties, and you do not have an account, then you may, subject to applicable law, access, update, alter, delete, or object to the processing of your personal information by contacting GitHub Support.
 
 Data portability
 
@@ -239,7 +239,7 @@ Data retention and deletion of data
 
 Generally, GitHub retains User Personal Information for as long as your account is active or as needed to provide you services.
 
-If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile. We retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days of your request. You may contact GitHub Support or GitHub Premium Support to request the erasure of the data we process on the basis of consent within 30 days.
+If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile. We retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days of your request. You may contact GitHub Support to request the erasure of the data we process on the basis of consent within 30 days.
 
 After an account has been deleted, certain data, such as contributions to other Users' repositories and comments in others' issues, will remain. However, we will delete or de-identify your User Personal Information, including your username and email address, from the author field of issues, pull requests, and comments by associating them with a ghost user.
 
