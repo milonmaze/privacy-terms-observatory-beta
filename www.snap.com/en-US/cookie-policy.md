@@ -1,13 +1,13 @@
 HomeCareersNewsSafety & ImpactInvestorsAdvertisers
 Cookie Policy
 
-A browser cookie is a small piece of data that is stored on your device to help websites and mobile apps remember things about you. Other technologies, including Web storage and identifiers associated with your device, may be used for similar purposes. In this policy, we say “cookies” to refer to all of these technologies.
+A browser cookie is a small piece of data that is stored on your device to help websites and mobile apps remember things about you. Other technologies, including web beacons, web storage, and identifiers associated with your device, may be used for similar purposes. In this policy, we say “cookies” to refer to all of these technologies.
 
-Our Privacy Policy explains how we collect and use information from and about you when you use Snapchat and certain other Snap Inc. services. This policy explains more about how we use cookies and your related choices.
+Our Privacy Policy explains how we collect and use information from and about you when you use Snapchat and certain other Snap Inc. services. This policy explains more about how we use cookies and your related choices.
 
 How We Use Cookies
 
-Like most providers of online services, Snap Inc. uses cookies, including third-party cookies, for a number of reasons, like protecting your Snapchat data and account, helping us see which features are most popular, counting visitors to a page, improving our users’ experience, keeping our services secure, providing relevant advertising, and just generally providing you with a better, more intuitive, and satisfying experience. The cookies we use generally fall into one of the following categories.
+Like most providers of online services, Snap Inc. uses cookies, including third-party cookies, for a number of reasons, like protecting your Snapchat data and account, helping us see which features are most popular, counting visitors to a page, understanding how you engage with web content and emails we send, improving our users’ experience, keeping our services secure, providing relevant advertising, and just generally providing you with a better, more intuitive, and satisfying experience. The cookies we use generally fall into one of the following categories.
 
 Category of cookies	Why we use these cookies
 Necessary	We use these cookies to run our site, and to identify and prevent security risks. 
