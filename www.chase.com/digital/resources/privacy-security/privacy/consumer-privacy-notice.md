@@ -6,7 +6,7 @@ Show Search
 U.S. Consumer Privacy Notice
 Overview
 Privacy
-Selected
+selected
 Security
 Have questions?
 Start of sidebar menu
