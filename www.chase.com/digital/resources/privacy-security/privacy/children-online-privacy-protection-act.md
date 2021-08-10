@@ -6,7 +6,7 @@ Show Search
 Children Online Privacy Protection Act Program
 Overview
 Privacy
-Selected
+selected
 Security
 Have questions?
 Start of sidebar menu
