@@ -6,7 +6,7 @@ Show Search
 U.S. Consumer Privacy Notice for JPMSelect Customers
 Overview
 Privacy
-Selected
+selected
 Security
 Have questions?
 Start of sidebar menu
