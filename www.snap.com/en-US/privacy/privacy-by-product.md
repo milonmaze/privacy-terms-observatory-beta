@@ -25,6 +25,8 @@ Saving and Deleting Snaps
 
 Voice and Video Chat
 
+Snap and Chat Metadata
+
 My Story
 
 Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group of friends.
@@ -45,7 +47,7 @@ About Snap Map
 
 Profiles
 
-Profiles make it easy to find the info and Snapchat features that you care about the most! There are different types of Profiles on Snapchat, including My Profile, Friendship Profiles, Group Profiles, and Public Profiles.
+Profiles make it easy to find the info and Snapchat features that you care about the most! There are different types of Profiles on Snapchat, including My Profile, Friendship Profiles, Group Profiles, and Public Profiles.
 
 My Profile features your Snapchat info, like your Bitmoji, location on the Map, friend info, and more. Friendship Profile is as unique as each individual friendship, this is where you can find Snaps and messages you’ve saved, and this also where you can manage your friendship, and report, block, or remove the friend. Group Profiles showcase your saved Snaps and Chats within a Group Chat.
 
@@ -103,21 +105,23 @@ We are committed to creating products that make Snapchat better for everyone, wh
 
 Every single person is different, and no one is going to like every ad they see. If an ad isn’t relevant to you or you don’t think it belongs on Snapchat, you can always let us know by tapping ⋮ , then tapping ⓘ to report the ad to us!
 
-We want to show you ads that are relevant to you and your interests — but we don’t want to serve ads that are so custom-tailored that they’re invasive or uncomfortable. It’s a difficult balance and we may not always get it right, so we’re always counting on Snapchatters for their feedback. Share your experience with us, if you have a moment!
+We want to show you ads that are relevant to you and your interests — but we don’t want to serve ads that are so custom-tailored that they’re invasive or uncomfortable. It’s a difficult balance and we may not always get it right, so we’re always counting on Snapchatters for their feedback. Share your experience with us, if you have a moment!
 
 Spectacles
 
 Spectacles are sunglasses that capture your world, the way you see it. Just press the button to save the moment, in the moment — without having a phone get in the way. We specifically made Spectacles sunglasses because they’re meant to be used when you’re out in the world — whether you’re on an adventure or just going about your day.
 
-Whenever you take a photo or video with Spectacles, LEDs will light up to let your friends know that you’re recording.
+Whenever you take a photo or video with Spectacles, LEDs will light up to let your friends know that you’re taking a Snap or recording a video.
 
 Our Community Guidelines have always asked Snapchatters to be thoughtful and respect people’s privacy — and that same philosophy applies to Spectacles, down to their design!
+
+We are constantly innovating Spectacles — different generations have their own unique and exciting features. The new Spectacles overlay immersive Lenses on the world around you and incorporate some of the Scan features described below.
 
 Learn About Spectacles
 
 Your Snapchat Account
 
-You can view and edit most of your key account information and privacy settings right inside of Snapchat. But if you’re curious about something that’s not in our apps, you can visit accounts.snapchat.com, click ‘My Data,’ and then click ‘Submit Request.’ We’ll gather your account information and let you know when it’s ready for you to download. If you ever want to leave Snapchat for good, you can close your account on accounts.snapchat.com too.
+You can view and edit most of your key account information and privacy settings right inside of Snapchat. But if you’re curious about something that’s not in our apps, you can visit accounts.snapchat.com, click ‘My Data,’ and then click ‘Submit Request.’ We’ll gather your account information and let you know when it’s ready for you to download. If you ever want to leave Snapchat for good, you can close your account on accounts.snapchat.com too.
 
 How to Change Your Privacy Settings
 
@@ -129,17 +133,17 @@ Pick a strong and unique password: It may be easier to use the same password for
 
 Turn on Login Verification: This is an important feature that uses two-factor authentication to add an extra layer of security, if your password is ever compromised.
 
-Don’t use third-party apps: Third-party applications and plugins (or tweaks) are not supported by Snapchat, and can sometimes compromise the security of your account. We strongly suggest that you don’t install any, just to be safe!
+Don’t use unauthorized third-party apps: Unauthorized third-party applications and plugins (or tweaks) are not supported or permitted by Snapchat because they can sometimes compromise the security of your and other Snapchatters’ accounts.
 
 Scan
 
-Use Scan to find a song, shop, or even calculate a math problem! To access Scan, either press and hold on the Camera screen, or tap on the Camera screen and then tap ‘Scan’ in the AR Bar. Scan options will appear across the carousel.
+Use Scan to find a song, shop, or even calculate a math problem! To access Scan on Snapchat, either press and hold on the Camera screen, or tap on the Camera screen and then tap ‘Scan’ in the AR Bar. Scan options will appear across the carousel. On the new Spectacles, start Scan by pressing the right button or saying “Hey Snapchat.”
 
-To power Scan, Snap partners with third parties like Amazon, Shazam, and Vivino. This means that when you press and hold on the Camera screen, certain information may be sent to these partners. For example, we may send images captured by your camera to Amazon, who’ll send back search results if they find a matching product. Similarly, we may send audio hashes captured by your microphone to Shazam, who’ll send back any matching songs.
+When you initiate Scan, images from your Camera are taken and sent to Snap’s servers where we classify what’s in the image. We then recommend Lenses or provide other Scan features to augment and complement your world. 
 
-Voice Scan lets you do useful things like search for lenses. To power Voice Scan, Snap has partnered with SoundHound, which provides recognition and understanding technology. When Voice Scan is used, Snap and SoundHound may receive audio recordings.
+To power certain Scan features, Snap partners with third parties like Amazon, Shazam, and Vivino. This means that when you press and hold on the Camera screen, certain information may be sent to these partners. For example, we may send images captured by your camera to Amazon, who’ll send back search results if they find a matching product. Similarly, we may send audio hashes captured by your microphone to Shazam, who’ll send back any matching songs.
 
-To activate Voice Scan, you will be prompted to say “Hey Snapchat.” This will take you to the onboarding flow. This initial recognition to get you to the onboarding flow only happens on your device — no recording is sent to Snap or our partners. Once Voice Scan has been set up, you can use it by saying “Hey Snapchat” and recordings may be captured.
+Voice Scan lets you do useful things like search for Lenses. To power Voice Scan, Snap has partnered with SoundHound, which provides recognition and understanding technology. When Voice Scan is used, Snap and SoundHound receive the audio recordings.
 
 Snap and our partners use the data collected in Scan and Voice Scan to provide you with relevant search results, track metrics around search activity, and help improve search algorithms and product features.
 
@@ -149,19 +153,19 @@ At the moment, Amazon Camera Search is only available to Snapchatters in the US.
 
 Snap Map
 
-Snap Map lets you see where your friends are, what’s going on around them, find your favorite restaurants and bars, and even see what’s happening across the world!
+Snap Map lets you see where your friends are, what’s going on around them, find your favorite restaurants and bars, and even see what’s happening across the world! 
 
 You won’t appear on Snap Map until you open it for the first time and choose to share your location. If you don’t open the app for 8 hours, you won’t be visible on the Map until you open Snapchat again. You can always update the people you’re sharing your location with in Snap Map settings, or go into ‘Ghost Mode’ to hide your location from everyone. We may also remind you if you leave location sharing enabled for a while.
 
-Snaps that have been submitted to Our Story and Snap Map can also show up on the Map — but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process.
+Snaps that have been submitted to Our Story and Snap Map can also show up on the Map — but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process.
 
-When it looks like something interesting is happening, a Story thumbnail might appear on the Map! For the most part, these are also created automatically — while Stories that are labeled as ‘Featured’ receive a more hands-on approach. Snaps posted to Snap Map are also viewable on the web at map.snapchat.com and are embeddable on other websites.
+When it looks like something interesting is happening, a Story thumbnail might appear on the Map! For the most part, these are also created automatically — while Stories that are labeled as ‘Featured’ receive a more hands-on approach. Snaps posted to Snap Map are also viewable on the web at map.snapchat.com and are embeddable on other websites.
 
 Please be mindful of the Snaps that you submit to Our Story and Snap Map. Although the Map only shows the general area where a Snap was taken, things like landmarks and street signs appearing in a Snap can show where you’re at, if you’re worried about that kind of thing.
 
 Places make it easy to interact with local businesses on the Snap Map. Just tap a Place on the Map to view the place’s listing, or tap Search at the top of the Map screen to find a Place. Places provide a personalized Map experience, and you can even order food from your favorite restaurant via one of the delivery partners.
 
-If you come across anything that violates our Community Guidelines, please reach out to us and report it!
+If you come across anything that violates our Community Guidelines, please reach out to us and report it!
 
 Location
 
@@ -169,11 +173,15 @@ Snapchat uses your device’s GPS to offer certain location-based features. For 
 
 We store GPS locations for a while to help improve the Map and other features. For example, we may store some of the locations you visit the most so we can show you more relevant Search content or update your Bitmoji’s activity on the Map. We may also store location information of the Snaps you save in Memories or submit to My Story, Our Story, Spotlight, or Snap Map to personalize your experience.
 
-You can still use Snapchat if you disable location permissions in your device’s settings, but many of these features won’t work right (or at all!) without it. Sometimes we can still infer an approximate location like a country or city, based on an IP address — but it’s not perfect.
+On the new Spectacles, some features may need location data to work properly. We may use data from a few sources to derive a more accurate representation of your location. For example, if the last location of your sunglasses is not available, we may rely on Snapchat’s use of your device’s GPS to offer location-based features. 
+
+You can still use Snapchat and Spectacles if you disable location permissions in your device’s settings, but many of these features won’t work right (or at all!) without it. Sometimes we can still infer an approximate location like a country or city, based on an IP address — but it’s not perfect.
 
 Learn About iOS Location Permissions
 
 Learn About Android Location Permissions
+
+Learn About Location on the New Spectacles
 
 Cameos
 
@@ -181,7 +189,7 @@ Cameos lets you be the star in your own short, looping videos that you can send 
 
 You have full control over your selfie, and can change and delete it, and restrict others from using your selfie in two-person Cameos, in Snapchat settings.
 
-Learn about Cameos
+Learn About Cameos
 
 Games and Minis
 
@@ -189,9 +197,9 @@ Games are a fun way to hang out with your friends on Snapchat. You’ll be able 
 
 Minis are a set of experiences in Snapchat. Whether it’s planning a movie night, making a deck of flashcards, or coordinating which artists to see at a music festival, Minis can bring friends together for just about anything. You’ll be able to see your friends in a Mini while you’re in a Chat with them, and they will be able to see you too. You can invite them to use a Mini. You choose which Mini you want to open and use within Snapchat.
 
-Learn about Games
+Learn About Games
 
-Learn about Minis
+Learn About Minis
 
 Games and Minis Data and Privacy
 
@@ -199,13 +207,13 @@ Personalization
 
 No two people are the same, so the app can tailor your Snapchat experience especially for you!
 
-For example, the friends you Snap with the most are usually easiest to find, and we generally try to show you ads that’ll be relevant to you. We’re able to do this by making some guesses about the things you like and don’t like.
+We personalize your Snapchat experience based on interactions you have with your friends. For example, the friends you Snap with the most are usually easiest to find, and Charms and Friend Emojis give you fun insights to celebrate your friendships.
 
-For example, if you’re constantly watching Snaps of puppies on Discover or Spotlight, you might be a “Pet & Animal Lover.” Or, if you regularly post Snaps of your sports memorabilia to My Story, our system might be able to guess that you’re a “Sports Fan.” We call guesses like these “Lifestyle Categories” and we use them to try and show you ads and content that’s relevant to your interests! If you’d like, you can always pick your own Lifestyle Categories.
+We generally try to show you ads that’ll be relevant to you. We’re able to do this by making some guesses about the things you like and don’t like. For example, if you’re constantly watching Snaps of puppies on Discover or Spotlight, you might be a “Pet & Animal Lover.” Or, if you regularly post Snaps of your sports memorabilia to My Story, our system might be able to guess that you’re a “Sports Fan.” We call guesses like these “Lifestyle Categories” and we use them to try and show you ads and content that’s relevant to your interests! If you’d like, you can always pick your own Lifestyle Categories.
 
 We personalize the Snap Map. For example, if you visit a Place or apply a venue filter or sticker on a My Story, Our Story, Spotlight, or Snap Map submission, we may use that venue information to create a more personalized Map experience for you and your friends.
 
-We also try to personalize the content you see by using what we call “Content Interest Tags.” These tags are guesses about the content that you may be interested in based on activity, like things you search for, Stories you view, popular users you subscribe to, and types of locations you visit. So if you watch a lot of Stories about basketball, we may create “sports” and “basketball” Content Interest Tags, so we can show you more Snaps about basketball. You can reset Content Interest Tags at any time in Snapchat settings!
+We also try to personalize the content you see by using what we call “Content Interest Tags.” These tags are guesses about the content that you may be interested in based on activity, like things you search for, Stories you view, popular users you subscribe to, and types of locations you visit. So if you watch a lot of Stories about basketball, we may create “sports” and “basketball” Content Interest Tags, so we can show you more Snaps about basketball. You can reset Content Interest Tags at any time in Snapchat settings!
 
 © 2021 Snap Inc.
 CitizenSnap
