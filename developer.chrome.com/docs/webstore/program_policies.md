@@ -17,7 +17,8 @@ The developer program policies listed below play an important role in maintainin
 
 Please be aware that these policies pertain to your software, content, and digital materials created for use in connection with Google Chrome and distributed via the Chrome Web Store, including applications, extensions, and themes, as well as any ads bundled or made available through the product. These policies have the same meaning as in the Google Chrome Web Store Developer Agreement. There are additional quality guidelines that apply to Chrome Apps and Chrome Extensions. Be sure to check back from time to time, as these policies may change.
 
-Content Policies 
+#
+Content Policies
 
 Our content policies apply to your Product's content, including any ads it shows to users and any user-generated content it hosts or links to. Further, they apply to any content from your developer account that is publicly displayed in Chrome Web Store, including your developer name and the landing page of your listed developer website. Products that include content that may not be suitable for all ages should be marked "Mature" on the Developer Dashboard.
 
@@ -136,11 +137,13 @@ We don't allow products or services that:
 Facilitate unauthorized access to content on websites, such as circumventing paywalls or login restrictions
 Encourage, facilitate, or enable the unauthorized access, download, or streaming of copyrighted content or media
 Mine cryptocurrency
-Security Vulnerabilities 
+#
+Security Vulnerabilities
 
 If your product is associated with a security vulnerability that could be exploited to compromise another application, service, browser, or system, we may remove your product from the Chrome Web Store and take other measures to protect users. In such an event, you may be contacted about remediation steps required to restore the product.
 
-Deceptive Installation Tactics 
+#
+Deceptive Installation Tactics
 
 Extensions must be marketed responsibly. The set of functionalities promised by the extension must be stated clearly and in a transparent manner. The outcome of any user interaction should match the reasonable expectations that were set with the user. Extensions that use or benefit from deceptive installation tactics will be removed from the Chrome Web Store.
 
@@ -158,7 +161,8 @@ Requiring unrelated user action to access advertised functionality.
 
 For more information about this policy, please see the Developer FAQ.
 
-Spam & Placement in the Store 
+#
+Spam & Placement in the Store
 
 Developers are important partners in maintaining a great user experience in the Chrome Web Store.
 
@@ -180,13 +184,15 @@ For additional information about the spam policy, see the Spam FAQ.
 
 For information about Product ranking, please see these FAQs.
 
-User Data Privacy 
+#
+User Data Privacy
 
 You must be transparent in how you handle user data (e.g., information provided by a user or collected about a user or a user's use of the Product or Chrome Browser), including by disclosing the collection, use, and sharing of the data. You must limit your use of the data to the practices you disclosed. This policy establishes the Chrome Web Store's minimum user data privacy requirements; you or your Product must comply with applicable laws.
 
 Please see this FAQ.
 
-Personal or Sensitive User Data 
+#
+Personal or Sensitive User Data
 Posting a Privacy Policy & Secure Transmission
 
 If your Product handles personal or sensitive user data (including personally identifiable information, financial and payment information, health information, authentication information, website content and resources, form data, web browsing activity, user-provided content and personal communications), then your Product must:
@@ -216,7 +222,8 @@ Web Browsing Activity	Collection and use of web browsing activity is prohibited 
 
 If your Product uses inline installation pages, then any reference to the Product's Chrome Web Store page also includes its inline installation pages.
 
-Limited Uses of User Data 
+#
+Limited Uses of User Data
 
 Upon accessing personal and sensitive user data for a single purpose, your use of the user data obtained must comply with the below requirements. The requirements apply to both the raw data obtained and the data aggregated, anonymized, de-identified, or derived from the raw data. They also apply to scraped content or otherwise automatically gathered user data.
 
@@ -240,13 +247,15 @@ Transferring, using, or selling user data to determine credit-worthiness or for 
 
 An affirmative statement that your use of the data complies with the Limited Use restrictions must be disclosed on a website belonging to your extension; e.g., A link on a homepage to a dedicated page or privacy policy noting: "The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements."
 
-Use of Permissions 
+#
+Use of Permissions
 
 Request access to the narrowest permissions necessary to implement your Product's features or services. If more than one permission could be used to implement a feature, you must request those with the least access to data or functionality.
 
 Don't attempt to "future proof" your Product by requesting a permission that might benefit services or features that have not yet been implemented.
 
-Ads in Products 
+#
+Ads in Products
 
 Ads are considered part of your Product for purposes of content review and compliance with developer terms, and therefore must comply with the above content policies. Ads which are inconsistent with the content rating of your products or extension are also in violation of our developer terms.
 
@@ -267,7 +276,8 @@ There is clear attribution of the ads' source wherever those ads appear.
 The ads do not interfere with any native ads or functionality of the website.
 The ads do not mimic or impersonate the native ads or content on the third-party website, and the ads adhere to the content policy on impersonation and deceptive behavior.
 Currently, AdSense may not be used to serve ads in Products, per AdSense policies.
-Extensions Quality Guidelines 
+#
+Extensions Quality Guidelines
 
 Single Purpose:
 
@@ -286,7 +296,8 @@ API Use:
 
 Extensions must use existing Chrome APIs for their designated use case. Use of any other method, for which an API exists, would be considered a violation. For example, overriding the Chrome New Tab Page through any means other than the URL Overrides API is not permitted.
 
-Chrome Apps Quality Guidelines 
+#
+Chrome Apps Quality Guidelines
 
 To ensure a great user experience, Chrome Apps distributed through the Chrome Web Store must follow the additional quality guidelines listed below. The guidelines in this section apply only to Chrome Apps.
 
@@ -302,7 +313,8 @@ Require a local executable, other than the Chrome runtime, to run.
 Provide a webview of a website that is not owned or administered by you.
 Download or execute scripts dynamically outside a sandboxed environment such as a webview or a sandboxed iframe.
 Misuse notifications by sending spam, ads, promotions of any kind, phishing attempts, or unwanted messages in general.
-Accepting Payment from Users 
+#
+Accepting Payment from Users
 
 If you collect sensitive personal information through your Product for sales, you must follow these requirements:
 
@@ -311,7 +323,8 @@ You must avoid misleading users. For example, clearly and honestly describe the 
 If your Product requires the user to pay to obtain basic functionality, you must make that clear in the description that the user sees when choosing whether to install it.
 You must clearly identify that you, not Google, are the seller of the products or services.
 Regardless of the method of payment, you may not process payment transactions that are prohibited for Google Checkout under the Google Checkout Seller Terms of Service. This includes any illegal transaction or the sale or exchange of any illegal or prohibited goods or services, including the prohibited products set forth in the Content Policies for Google Checkout.
-Policy Enforcement 
+#
+Policy Enforcement
 
 Serious or repeated violations of the Chrome Web Store Distribution Agreement or these Program Policies will result in the suspension of your developer account, and possibly related developer accounts. Additionally, you may be banned from using the Chrome Web Store. In extreme cases, this may also result in the suspension of related Google services associated with your Google account. Repeated infringement of intellectual property rights, including copyright, will also result in account termination. For more information on Google's copyright policies, please use this tool.
 
