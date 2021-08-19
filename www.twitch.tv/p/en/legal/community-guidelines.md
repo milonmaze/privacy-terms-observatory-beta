@@ -36,7 +36,7 @@ Security
 Help
 Jobs
 Languages
-Last modified on 05/27/2021
+Last modified on 08/17/2021
 Community Guidelines
 
 At Twitch, our mission is to provide the best shared social video experience created by our growing community where creators and communities can interact safely. To achieve this goal, we ask that all users participate in such a way that promotes a friendly, positive experience for our global community.
@@ -146,6 +146,10 @@ Content Labeling
 You are expected to accurately label your content to the best of your ability. When choosing a category or tag, please choose whichever best describes your content. Deliberate or extensive misuse of titles, tags, games/categories, or other metadata are prohibited.
 
 Additional Gaming Content Guidelines
+Referring Viewers to Slots, Roulette, and Dice Games
+
+Linking to sites that include slots, roulette, or dice games, or sharing affiliate links or referral codes to such sites is not allowed.
+
 Cheating in Online Games
 
 Any activity, such as cheating, hacking, botting, or tampering, that gives the account owner an unfair advantage in an online multiplayer game, is prohibited. This also includes exploiting another broadcaster’s live broadcast in order to harass them in-game, such as stream sniping.
