@@ -17,27 +17,31 @@ At AT&T, we take our responsibility to protect your information and privacy very
 
  
 
-Like all companies, we are required by law to provide information to government and law enforcement entities, as well as parties to civil lawsuits, by complying with court orders, subpoenas, lawful discovery requests and other legal requirements. This AT&T Transparency Report provides (1) specific data regarding the number and types of legal demands to which we responded for the second half of 2020 that compelled AT&T to provide information about (a) communications or (b) our customers, as well as (2) information permitted by law to be disclosed about Foreign Intelligence Surveillance Act demands for the first half of 2020. The Transparency Report also provides information about legal demands that were partially or completely rejected, demands for location information, emergency requests and international legal demands.
+Like all companies, we are required by law to provide information to government and law enforcement entities, as well as parties to civil lawsuits, by complying with court orders, subpoenas, lawful discovery requests and other legal requirements. This AT&T Transparency Report provides (1) specific data regarding the number and types of legal demands to which we responded for the first half of 2021 that compelled AT&T to provide information about (a) communications or (b) our customers, as well as (2) information permitted by law to be disclosed about Foreign Intelligence Surveillance Act demands for the second half of 2020. The Transparency Report also provides information about legal demands that were partially or completely rejected, demands for location information, emergency requests and international legal demands.
 
-In this report, “AT&T” includes all of AT&T’s operating units:
+In this report, “AT&T” includes all of AT&T’s operating units as of this reporting period:
 
 AT&T Communications provides mobile, broadband, video and other communications services to U.S.-based consumers and nearly 3 million companies globally — from the smallest business to nearly all the Fortune 1000.
-WarnerMedia is a leading media and entertainment company that creates and distributes premium and popular content from a diverse array of talented storytellers and journalists to global audiences through its consumer brands, including: HBO, HBO Max, Warner Bros., TNT, TBS, truTV, CNN, DC Entertainment, New Line, Cartoon Network, Adult Swim, Turner Classic Movies and others.
+WarnerMedia is a leading media and entertainment company that creates and distributes premium and popular content from a diverse array of talented storytellers and journalists to global audiences through its consumer brands, including: HBO, HBO Max, Warner Bros., TNT, TBS, truTV, CNN, DC Entertainment, New Line, Cartoon Network, Adult Swim, Turner Classic Movies and others. WarnerMedia also includes Xandr, a data-enabled technology advertising platform.
 AT&T Latin America offers mobile services to people and businesses in Mexico and digital entertainment services in South America and the Caribbean.
-Xandr provides marketers with advanced advertising solutions enhanced with valuable customer insights from AT&T’s TV, mobile and broadband services, combined with extensive ad inventory including WarnerMedia’s cable networks and premium content from third-party media brands.
 
-Download February 2021 Report
+Download August 2021 Report
 
 Additional Resources
  
 
+Our Privacy Center
+
 Our Privacy Policy
 
-Our Issue Brief on Customer Privacy
+Our Issue Brief on Privacy
 
 Our Issue Brief on Human Rights
 
+Our policy on Human Rights
+
 Download the full Transparency Report
+
 
 Download the full Data Set
 
@@ -55,203 +59,202 @@ In-Depth Analysis: Location Demands
 In-Depth Analysis: Emergency Requests
 In-Depth Analysis: International Demands
 In-Depth Analysis: Governmental Access to Transferred Personal Information
-In-Depth Analysis: Mexico
 A Few Additional Points
+In-Depth Analysis: Mexico
 National Security Demands
 National Security Letters
 Total Received
-July–Dec. 2020
-000–499
+Jan.–June 2021
+500–999
 Customer Selectors Targeted
-July–Dec. 2020
-1,000–1,499
+Jan.–June 2021
+2,500–2,999
 Foreign Intelligence Surveillance Act
 Total Content
-Jan.–June 2020
+July–Dec. 2020
 0–499
 Customer Selectors Targeted
-Jan.–June 2020
-8,500–8,999
+July–Dec. 2020
+10,500–10,999
 Total Non-Content
-Jan.–June 2020
+July–Dec. 2020
 0–499
 Customer Selectors Targeted
-Jan.–June 2020
+July–Dec. 2020
 0–499
 Total U.S. Criminal and Civil Demands
 Total Demands
 Federal, State and Local; Criminal and Civil
-July–Dec. 2020
-121,115
+Jan.–June 2021
+125,252
 Total Subpoenas
 Criminal Subpoenas
-July–Dec. 2020
-79,928
+Jan.–June 2021
+84,232
 Civil Subpoenas
-July–Dec. 2020
-9,965
+Jan.–June 2021
+9,839
 Total
-July–Dec. 2020
-89,893
+Jan.–June 2021
+94,071
 Court Orders (General)
 Historic
-July–Dec. 2020
-7,039
+Jan.–June 2021
+6,896
 Real-Time (Pen Registers)
-July–Dec. 2020
-3,694
+Jan.–June 2021
+3,787
 Total
-July–Dec. 2020
-10,733
+Jan.–June 2021
+10,683
 Historic Search Warrants/Probable Cause Court Orders
 Stored Content
-July–Dec. 2020
-5,341
+Jan.–June 2021
+5,520
 Other
-July–Dec. 2020
-7,538
+Jan.–June 2021
+7,416
 Total
-July–Dec. 2020
-12,879
+Jan.–June 2021
+12,936
 Real-Time Search Warrants/Probable Cause Court Orders
 Wiretaps
-July–Dec. 2020
-932
+Jan.–June 2021
+836
 Mobile Locate Demands
-July–Dec. 2020
-6,678
+Jan.–June 2021
+6,726
 Total
-July–Dec. 2020
-7,610
+Jan.–June 2021
+7,562
 Demands Rejected/Partial or No Data Provided (Breakout detail of data included in Total U.S. Criminal & Civil Demands)
 Type
 Rejected/Challenged
-July-Dec. 2020
-3,834
+Jan.-June 2021
+4,026
 Partial or No Information
-July-Dec. 2020
-54,703
+Jan.-June 2021
+76,769
 Total
-July-Dec. 2020
-58,537
+Jan.-June 2021
+80,795
 Location Demands (Breakout detail of data included in Total U.S. Criminal & Civil Demands)
 Type
 Historic
-July–Dec. 2020
-39,877
+Jan.–June 2021
+39,981
 Real-Time
-July–Dec. 2020
-9,771
+Jan.–June 2021
+11,270
 Cell Tower
-July–Dec. 2020
-1,489
+Jan.–June 2021
+1,482
 Total
-July–Dec. 2020
-51,137
+Jan.–June 2021
+52,733
 Emergency Requests
 Type
 911
-July–Dec. 2020
-50,875
+Jan.–June 2021
+47,329
 Exigent
-July–Dec. 2020
-17,237
+Jan.–June 2021
+14,531
 Total
-July–Dec. 2020
-68,112
+Jan.–June 2021
+61,860
 International Demands**
 Argentina
 Historic: Subscriber Information
-July–Dec. 2020
-228
+Jan.–June 2021
+325
 Brazil
 Historic: Subscriber Information
-July–Dec. 2020
-149
+Jan.–June 2021
+81
 IP/URL Blocking
-July–Dec. 2020
-6
+Jan.–June 2021
+5
 Chile
 Historic: Subscriber Information
-July–Dec. 2020
-14
+Jan.–June 2021
+2
 Colombia
 Historic: Subscriber Information
-July–Dec. 2020
-1,367
+Jan.–June 2021
+1,096
+IP/URL Blocking
+Jan.–June 2021
+1
 Ecuador
 Historic: Subscriber Information
-July–Dec. 2020
-27
-Finland
-Historic: Subscriber Information
-July–Dec. 2020
-1
-France
-Historic: Subscriber Information
-July–Dec. 2020
-7
+Jan.–June 2021
+37
 Germany
 Historic: Subscriber Information
-July–Dec. 2020
+Jan.–June 2021
+1
+Israel
+IP/URL Blocking
+Jan.–June 2021
 1
 Italy
 Historic: Subscriber Information
-July–Dec. 2020
-5
+Jan.–June 2021
+3
 Peru
 Historic: Subscriber Information
-July–Dec. 2020
-12
-Russia
+Jan.–June 2021
+19
+Scotland
 Historic: Subscriber Information
-July–Dec. 2020
+Jan.–June 2021
 1
 Slovakia
 IP/URL Blocking
-July–Dec. 2020
-2
+Jan.–June 2021
+5
 Turkey
 IP/URL Blocking
-July–Dec. 2020
-8,155
+Jan.–June 2021
+9,751
 United Kingdom
 Historic: Subscriber Information
-July–Dec. 2020
-3
+Jan.–June 2021
+5
 Uruguay
 Historic: Subscriber Information
-July–Dec. 2020
-1
+Jan.–June 2021
+2
 ** Countries where “0” has been reported have been removed from this chart. We will add countries back in future reports should we receive new requests in any of those countries.
 Mexico
 Historic Information: Subscriber Information/Call Detail Records
 Location Information (Cell Site)
-July–Dec. 2020
-11,007
+Jan.–June 2021
+11,358
 Total (Includes judicial authorities and national security)
-July–Dec. 2020
-12,741
+Jan.–June 2021
+13,143
 Real-Time
 Wiretaps
-July–Dec. 2020
-875
+Jan.–June 2021
+791
 Location Information (Precise)
-July–Dec. 2020
-1,268
+Jan.–June 2021
+1,257
 Total
-July–Dec. 2020
-2,143
+Jan.–June 2021
+2,048
 Demands Rejected/Partial or No Data Provided
 Rejected/Challenged
-July–Dec. 2020
-256
+Jan.–June 2021
+351
 Partial or No Information
-July–Dec. 2020
-657
+Jan.–June 2021
+688
 Total (Breakout detail of data included in Total Mexico Demands)
-July–Dec. 2020
-913
+Jan.–June 2021
+1039.0
 AT&T CSR
  
 Join the conversation using #ATTimpact
