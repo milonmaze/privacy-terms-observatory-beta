@@ -1,11 +1,8 @@
-Log In
 Cloudflare Cookie Policy
 
 Last Updated: April 15, 2020
 
-This Cloudflare Cookie Policy (“Policy”) outlines the general policy, practices, and types of cookies that Cloudflare, Inc. (“Cloudflare,” “we,” “us,” or “our”) may use to improve our Services and your experience when visiting our Websites. For the purposes of this Policy, capitalized terms used but not defined in this Policy have the meanings given in our 
-Privacy Policy
-.
+This Cloudflare Cookie Policy (“Policy”) outlines the general policy, practices, and types of cookies that Cloudflare, Inc. (“Cloudflare,” “we,” “us,” or “our”) may use to improve our Services and your experience when visiting our Websites. For the purposes of this Policy, capitalized terms used but not defined in this Policy have the meanings given in our Privacy Policy.
 
 Our Websites and Services use cookies and other similar technologies (collectively in this Policy, "cookies"), in order to provide a better service to you, to help keep your account safe, and to generally improve our Websites and Services. Cookies perform essential functions, such as ensuring a webpage loads correctly and securely. They also help us provide you with a consistent and efficient experience. For example, we may use cookies to remember which language you prefer, to remember that you are a repeat visitor so we can direct you to the appropriate part of our Websites, or to present you with services that are matched to your preferences.
 
