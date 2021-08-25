@@ -1,12 +1,4 @@
 Skip to main content
-	
-	
-Customer Service
-Hi! Sign in or registerDaily DealsHelp & Contact
-SellMy eBay
-Expand My eBay
-Notification
-Expand Cart
 Page navigation
 Home
 Help
