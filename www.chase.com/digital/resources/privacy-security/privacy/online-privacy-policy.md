@@ -1,7 +1,4 @@
 Skip to main content
- 
-Chase logo links to Chase Home
-Sign in
 Online Privacy Policy
 Overview
 Privacy
