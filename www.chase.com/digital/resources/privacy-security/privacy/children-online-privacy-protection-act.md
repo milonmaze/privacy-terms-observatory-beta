@@ -1,8 +1,4 @@
 Skip to main content
- 
-Chase logo links to Chase Home
-Sign in 
-Show Search
 Children Online Privacy Protection Act Program
 Overview
 Privacy
