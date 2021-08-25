@@ -101,19 +101,3 @@ Opera
 
 
 Date of last revision: 23 June 2021
-English (US)
-Español
-Français (France)
-中文(简体)
-العربية
-Português (Brasil)
-Italiano
-한국어
-Deutsch
-हिन्दी
-日本語
-Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceFacebook PayJobsOculusPortalInstagramLocalFundraisersServicesVoting Information CenterAboutCreate AdCreate PageDevelopersCareersPrivacyCookiesAd Choices
-TermsHelp
-Settings
-Activity Log
-Facebook © 2021
