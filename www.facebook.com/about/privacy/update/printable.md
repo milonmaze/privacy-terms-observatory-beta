@@ -152,20 +152,3 @@ Privacy Notice for California Residents
 If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California Privacy Notice.
 
 Date of Last Revision: January 11, 2021
-
-English (US)
-Español
-Français (France)
-中文(简体)
-العربية
-Português (Brasil)
-Italiano
-한국어
-Deutsch
-हिन्दी
-日本語
-Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceFacebook PayJobsOculusPortalInstagramLocalFundraisersServicesVoting Information CenterAboutCreate AdCreate PageDevelopersCareersPrivacyCookiesAd Choices
-TermsHelp
-Settings
-Activity Log
-Facebook © 2021
