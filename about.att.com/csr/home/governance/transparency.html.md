@@ -282,6 +282,6 @@ Environment
 Society
 Governance
 Reporting
-Privacy Policy Terms of Use Accessibility Contact Us Subscribe to AT&T News Do Not Sell My Personal Information
+*Privacy Policy (updated) Terms of Use Accessibility Contact Us Subscribe to AT&T News Do Not Sell My Personal Information
 
 © 2021 AT&T Intellectual Property. All rights reserved.
