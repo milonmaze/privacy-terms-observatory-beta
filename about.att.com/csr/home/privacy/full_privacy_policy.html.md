@@ -9,13 +9,17 @@ INVESTORS
  
 NEWS
 Privacy Center
-EFFECTIVE JUNE 16, 2021
+EFFECTIVE NOVEMBER 1, 2021
 Print the full Privacy Policy
 AT&T Privacy Policy
 
 Your information and your privacy are important — to you and to us. This policy explains how we use your information and how we keep it safe.
 
 Most importantly, it explains the choices you can make at any time about how your information is used.
+
+We’ve recently updated our Privacy Policy.
+
+Learn more about the updates or read the prior version.
 
 When this Policy applies
 
@@ -55,6 +59,10 @@ Recent Updates
 Your Privacy Center
 Privacy is fundamental to our business and we’re committed to transparency, choice and control, security, and integrity.
 View the full Privacy Policy
-Privacy Policy Terms of Use Accessibility Contact Us Subscribe to AT&T News Do Not Sell My Personal Information
+
+
+
+See the DIRECTV privacy policy at directv.com/privacy.
+*Privacy Policy (updated) Terms of Use Accessibility Contact Us Subscribe to AT&T News Do Not Sell My Personal Information
 
 © 2021 AT&T Intellectual Property. All rights reserved.
