@@ -1,5 +1,3 @@
-Skip to Content
-Log in
 Privacy Policy
 For users of Shopify apps
 Privacy for Users of Shopify Apps
