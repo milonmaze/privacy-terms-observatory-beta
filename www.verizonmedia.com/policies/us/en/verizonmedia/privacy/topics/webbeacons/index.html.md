@@ -32,5 +32,3 @@ Learn more about your choices.
 Other Companies’ Beacons & SDKs on Verizon Media
 In addition to Verizon Media using beacons & SDKs on our network of sites and apps, we allow certain Third Parties to include their own beacons & SDKs within our sites and apps. These companies use of beacons & SDKs is subject to their own privacy policies, not the Verizon Media Privacy Policy.
 Some Third Parties may have technology enabling them to act as "containers" for additional beacons, typically these are called piggyback beacons. Verizon Media may not always be aware of these piggyback beacons, however, you can check what beacons exist on a webpage using privacy tools.
-
-©2021 Verizon Media. All Rights Reserved.
