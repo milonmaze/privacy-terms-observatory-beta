@@ -1,5 +1,3 @@
-Open/close menu
-Open/close search
 Home
 Accounts & billing
 Security & privacy
@@ -89,36 +87,6 @@ Other ways to get help
 Community
 Twitter support
 Contact support
-Dropbox
-Desktop app
-Mobile apps
-Plans
-Security
-Features
-Resources
-Products
-Plus
-Professional
-Business
-Enterprise
-Company
-About us
-Jobs
-Press
-Investor relations
-Blog
-Support
-Help center
-Contact us
-Cookies
-Manage cookies
-Privacy & terms
-Sitemap
-Community
-Developers
-Referrals
-Community
-English (United States)
 We use cookies to provide, improve, protect, and promote our services. Visit our Privacy Policy and Privacy Policy FAQ to learn more. You can manage your personal preferences in our Cookie Consent Tool.
 Decline
 Accept All
