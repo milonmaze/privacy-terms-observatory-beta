@@ -11,11 +11,11 @@ Like most providers of online services, Snap Inc. uses cookies, including third-
 
 Category of cookies	Why we use these cookies
 Necessary	We use these cookies to run our site, and to identify and prevent security risks. 
- For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password.
+For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password.
 Preferences	We use these cookies to remember your settings and preferences, and to improve your experience on our site. 
- For example, we may use these cookies to remember your language preferences.
-Performance	We use these cookies to collect information about how you use our site, monitor site performance, and improve our site performance, our services, and your experience. 
- For example, we can use these cookies to learn more about which features are the most popular with our users and which ones might need some tweaks.
+For example, we may use these cookies to remember your language preferences.
+Performance & Analytics	We use these cookies to collect information about how you use our site, monitor site performance, and improve our site performance, our services, and your experience. 
+For example, we can use these cookies to learn more about which features are the most popular with our users and which ones might need some tweaks.
 Marketing	We use these cookies to deliver advertisements, to make them more relevant and meaningful to consumers, and to track the efficiency of our advertising campaigns, both on our services and on other sites or mobile apps. Our 
 
 Analytics and Advertising Services
