@@ -219,28 +219,6 @@ Please print and retain a copy of this document and any linked documents for you
 
 Last updated: Tuesday, May 4, 2021 Improve article
 
-Follow us
-Contribute
-File a bug
-View source
-Related content
-web.dev
-Web Fundamentals
-Case studies
-DevWeb Content Firehose
-Podcasts
-Connect
-Twitter
-YouTube
-GitHub
-Chrome
-Firebase
-All products
-Privacy
-Terms
-Choose language
-ENGLISH (en)
-Content available under the CC-BY-SA-4.0 license
 We serve cookies on this site to analyze traffic, remember your preferences, and optimize your experience.
 More details
 Ok, Got it.
