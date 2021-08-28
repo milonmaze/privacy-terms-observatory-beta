@@ -14,8 +14,3 @@ Minimize disclosure of user data and restrictions to freedom of expression onlin
 Protect human rights, including the rights to privacy and freedom of expression. We examine all appropriate options when faced with a government request that raises human rights concerns, including seeking clarification or modification or contesting the request.
 
 Be accountable and transparent with our users. We share information with our users about how we handle government requests and about our disclosure of user data and removal of content.
-
-Build Brands People Love
-
-©2021 Verizon Media
-All Rights Reserved. 
