@@ -1,22 +1,5 @@
 Skip to main content
 Close jump menu
-LinkedIn logo
-LinkedIn logo
-LinkedIn
-Transparency
-Community Report
-Community Report Menu
-Government Requests Report
-Government Requests Report Menu
-Community Report
-Fake accounts
-Spam and scams
-Content violations
-Copyright removal requests
-Government Requests Report
-Government requests for data
-U.S. government requests
-Content removal requests
 Our Transparency Report
 
 
@@ -61,11 +44,4 @@ Our approach to Responsible AI
 
  
 
-About
-Cookie Policy
-Privacy Policy
-User Agreement
-Accessibility
-LinkedIn logo
- © LinkedIn Corporation 2021
 dismiss
