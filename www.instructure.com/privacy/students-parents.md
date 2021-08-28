@@ -1,27 +1,4 @@
 Skip to main content
-Menu
-Main
-K-12
-Toggle menu
-Higher Education
-Toggle menu
-Resources
-Toggle menu
-News & Events
-Toggle menu
-About Us
-Toggle menu
-United States
-Utility
-Try Canvas Free
-For Business
-Support
-Contact Us
-Log In
-Canvas
-MasteryConnect
-Portfolium
-GET A DEMO
 Privacy FAQs for Students and Parents
 
 Welcome! We’ve created this page to provide answers to questions that students and parents might ask about our privacy policies and practices for our Canvas Learning Management System. If you're a university student, visit the “Institutions & Educators” page for more information. You can review our detailed Product Privacy Policy here.
@@ -82,72 +59,6 @@ How to delete your information or account?
 Occasionally a student may want or need Canvas data permanently deleted. You can request that Instructure delete your information from Canvas, or delete your user account, or profile. If your account was set up by your school, we may need to ask your school for permission to delete your account and data since we don’t own any of your data. To delete an account or information, students and parents can submit a helpdesk ticket in Canvas , or contact their school directly.
 
 If you have any questions, please reach out to privacy@instructure.com
-
-Home
-
-GLOBAL HQ
-
-6330 South 3000 East Suite 700 Salt Lake City, UT 84121 USA
-
-CONTACT US
-800-203-6755
-Footer menu
-INSTRUCTURE LEARNING PLATFORM
-Canvas LMS
-Canvas Studio
-Canvas Catalog
-Assessment
-Videri Analytics
-Services
-Leadership Development
-All Products
-RESOURCES
-Articles
-Research
-Infographics
-Guides & e-Books
-Webinars
-Videos
-Case Studies
-CENTERS
-The Study Hall
-Our Community
-Canvas Network
-Integrations
-EVENTS
-Events
-Webinars
-Media Resources
-Press Releases
-CUSTOMERS
-K-12
-Higher Ed
-ABOUT US
-Our Story
-About Canvas
-Leadership
-Partners
-Careers
-Investor Relations
-Privacy
-Security
-Accessibility
-Contact Us
-Footer Utility
-Privacy
-California Privacy Notice
-Do Not Sell My Personal Information
-Modern Slavery Act
-Acceptable Use
-Acceptable Use International
-Data Processing
-Social
-LinkedIn
-Twitter
-Facebook
-Instagram
-
-Copyright © 2021 Instructure, Inc. All rights reserved. Various trademarks held by their respective owners.
 
 By continuing to browse or by clicking "I Accept", you agree to the storing of first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.Privacy Policy
 
