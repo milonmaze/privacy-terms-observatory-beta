@@ -1,5 +1,3 @@
-Skip to Content
-Log in
 Transparency Report
 Overview
 2020 Report
