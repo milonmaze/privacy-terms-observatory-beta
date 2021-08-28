@@ -269,29 +269,3 @@ See our previous Privacy Policies:
 Effective January 1, 2020
 
 Effective June 25, 2019
-
-About Us
-Media Room
-Investors
-Careers
-Privacy Policy
-Terms of Use
-Our Brands
-Zillow
-Trulia
-StreetEasy
-Hotpads
-Zillow Offers
-Zillow Rentals
-Zillow Premier Agent
-Zillow Home Loans
-Zillow Closing Services
-Our Blogs
-Corporate
-Consumer
-Research
-Tech
-Mortgage Learning
-Agent Resources
-Landlord Resources
-Follow Us
