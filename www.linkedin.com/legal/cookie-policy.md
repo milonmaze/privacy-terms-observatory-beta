@@ -1,4 +1,3 @@
-Open navigation
 Cookie Policy
 
 Effective on October 1, 2020
@@ -140,15 +139,3 @@ To learn more about advertisers’ use of cookies, please visit the following li
 Internet Advertising Bureau (US)
 European Interactive Digital Advertising Alliance (EU)
 Internet Advertising Bureau (EU)
-LinkedIn
-© 2021
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language
