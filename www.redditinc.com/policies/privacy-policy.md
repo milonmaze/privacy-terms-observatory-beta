@@ -1,23 +1,3 @@
-ABOUT
- 
-CAREERS
- 
-PRESS
- 
-ADVERTISING^
-OVERVIEW
- 
-AUDIENCE BREAKDOWN
- 
-BEST PRACTICES
- 
-PARTNERSHIPS
- 
-BRAND
- 
-BLOG
- 
-REDDIT 15
 What We Collect (and How it is Used and Shared)
 How We Protect Your Information
 Your Choices
@@ -292,24 +272,3 @@ Ireland
 Or:
 
 eurepresentative@reddit.com
-
-About
-Careers
-Brand Assets
-Press
-Blog
-Advertising
-Partnerships
-Policies
-Help
-Reddit Mobile App
-Reddit.com
-Reddit Gifts
-Reddit Coins
-Reddit Premium
-Social Links
-Facebook
-Twitter
-Instagram
-User Agreement     Privacy Policy     Content Policy     Moderator Guidelines    
-© 2021 Reddit Inc. All rights reserved.
