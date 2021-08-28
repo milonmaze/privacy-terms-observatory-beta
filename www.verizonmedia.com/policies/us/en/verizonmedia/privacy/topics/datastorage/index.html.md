@@ -34,5 +34,3 @@ Log files are used for analysis, research, auditing, and other purposes, as desc
 De-identification
 Verizon Media’s de-identification policy applies only to  search log data. Verizon Media stores this data in an identifiable form for up to 18 months.
 IP addresses within search user log data will be de-identified or deleted within 6 months from the time of collection.
-
-©2021 Verizon Media. All Rights Reserved.
