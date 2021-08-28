@@ -42,7 +42,3 @@ We are committed to respecting and promoting free expression and privacy on the 
 Verizon Media is a member of the Global Network Initiative (GNI), and currently serves on the organization’s Board of Directors. GNI is a multi-stakeholder coalition of information and communications technology companies, human rights organizations, academics, investors and other experts that aims to collectively address the challenges we and other companies face in the critical areas of privacy and free expression when bringing transformative communications technologies to markets around the world.
 
  
-Build Brands People Love
-
-©2021 Verizon Media
-All Rights Reserved. 
