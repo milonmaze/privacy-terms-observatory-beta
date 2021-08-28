@@ -36,5 +36,3 @@ In addition to Verizon Media using cookies and similar technologies on our Servi
 Your Choices
 
 Learn more about your choices.
-
-©2021 Verizon Media. All Rights Reserved.
