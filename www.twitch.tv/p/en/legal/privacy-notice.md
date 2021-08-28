@@ -174,27 +174,3 @@ For the purposes of the General Data Protection Regulation, Twitch UK Limited ha
 California Privacy Disclosures
 
 Click here to read additional disclosures required under the California Consumer Privacy Act and other California laws.
-
-ABOUT
-CAREERS
-BLOG
-PRESS
-BRAND
-DEVELOPERS
-PLATFORMS
-PRIME
-BITS
-EXTENSIONS
-ADVERTISE
-GIFT CARD
-TERMS OF SERVICE
- 
-PRIVACY NOTICE
- 
-AD CHOICES
- 
-COOKIE POLICY
- 
-PARTNERS
- 
-AFFILIATES
