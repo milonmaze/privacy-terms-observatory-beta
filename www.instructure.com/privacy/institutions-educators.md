@@ -1,27 +1,4 @@
 Skip to main content
-Menu
-Main
-K-12
-Toggle menu
-Higher Education
-Toggle menu
-Resources
-Toggle menu
-News & Events
-Toggle menu
-About Us
-Toggle menu
-United States
-Utility
-Try Canvas Free
-For Business
-Support
-Contact Us
-Log In
-Canvas
-MasteryConnect
-Portfolium
-GET A DEMO
 Privacy FAQs for Institutions & Educators
 
 Welcome! We’ve created this page to provide answers to questions that you might have about our privacy practices and the Canvas Learning Management System. You can review our complete Product Privacy Policy for Canvas users here.
@@ -104,72 +81,6 @@ How can data be deleted from Canvas?
 Instructure will delete an institution’s data from Canvas upon request by the institution, or after termination of the applicable agreement between Instructure and the institution. User administrators at the institution can delete user accounts in Canvas whenever needed. Instructure will delete a user account and associated data upon request from that user if Instructure is permitted to by the governing institution. Users can request individual deletion by submitting a help desk ticket in Canvas, or by contacting your institution directly.
 
 If you have any questions, please reach out to privacy@instructure.com.
-
-Home
-
-GLOBAL HQ
-
-6330 South 3000 East Suite 700 Salt Lake City, UT 84121 USA
-
-CONTACT US
-800-203-6755
-Footer menu
-INSTRUCTURE LEARNING PLATFORM
-Canvas LMS
-Canvas Studio
-Canvas Catalog
-Assessment
-Videri Analytics
-Services
-Leadership Development
-All Products
-RESOURCES
-Articles
-Research
-Infographics
-Guides & e-Books
-Webinars
-Videos
-Case Studies
-CENTERS
-The Study Hall
-Our Community
-Canvas Network
-Integrations
-EVENTS
-Events
-Webinars
-Media Resources
-Press Releases
-CUSTOMERS
-K-12
-Higher Ed
-ABOUT US
-Our Story
-About Canvas
-Leadership
-Partners
-Careers
-Investor Relations
-Privacy
-Security
-Accessibility
-Contact Us
-Footer Utility
-Privacy
-California Privacy Notice
-Do Not Sell My Personal Information
-Modern Slavery Act
-Acceptable Use
-Acceptable Use International
-Data Processing
-Social
-LinkedIn
-Twitter
-Facebook
-Instagram
-
-Copyright © 2021 Instructure, Inc. All rights reserved. Various trademarks held by their respective owners.
 
 By continuing to browse or by clicking "I Accept", you agree to the storing of first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.Privacy Policy
 
