@@ -34,5 +34,3 @@ Other
 When an Verizon Media Service is requested, that request is logged on our servers with information including the IP address of the device making the request.
 Verizon Media Mail Services include IP addresses in outgoing mail message headers, as specified by standard Internet protocol.
 Yahoo Messenger sometimes uses a peer-to-peer connection during its operation, including times when you may be using it for instant messaging (text conversations), file sharing and webcam streaming. Peer-to-peer means that your device connects directly to the other user's device in the conversation without needing to go through Verizon Media servers. As such, your IP address is available to users you share a peer-to-peer connection with.
-
-©2021 Verizon Media. All Rights Reserved.
