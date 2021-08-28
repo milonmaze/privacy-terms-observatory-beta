@@ -263,5 +263,3 @@ plan new features to add to our Products and Services
 help us understand our users' wants and needs
 
 We share aggregated or de-identified research statistics with our partners, prospective partners, or advertisers when relevant for them.
-
-©2021 Verizon Media. All Rights Reserved.
