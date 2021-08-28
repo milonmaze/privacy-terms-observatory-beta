@@ -1,5 +1,3 @@
-Skip to Content
-Log in
 Privacy Policy
 For Shopify visitors
 Privacy for Shopify Visitors
