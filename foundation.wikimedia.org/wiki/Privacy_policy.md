@@ -478,12 +478,3 @@ Print/export
 Create a book
 Download as PDF
 Printable version
-This page was last edited on 21 June 2021, at 17:42.
-Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. See Terms of Use for details.
-Privacy policy
-About Wikimedia Foundation Governance Wiki
-Disclaimers
-Mobile view
-Developers
-Statistics
-Cookie statement
