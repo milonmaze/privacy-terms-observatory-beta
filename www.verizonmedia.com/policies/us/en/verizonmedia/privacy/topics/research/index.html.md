@@ -21,5 +21,3 @@ Internal Information
 Information about audiences and traffic from Verizon Media's own log files and user databases may also be used for research purposes in an ongoing effort to improve our products and services.
 Information Sharing and Disclosure Practices
 Statistics from research may be shared with our partners, prospective partners, or advertisers when these data are aggregated, de-identified, or averaged across many users.
-
-©2021 Verizon Media. All Rights Reserved.
