@@ -524,5 +524,3 @@ Urban Airship
 Katch (Yahoo Real Estate)
 
 For additional information on how Verizon Media treats your personal information, please visit our Privacy Policy.
-
-©2021 Verizon Media. All Rights Reserved.
