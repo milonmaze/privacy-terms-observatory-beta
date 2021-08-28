@@ -67,5 +67,3 @@ Respecting Intellectual Property
 Copyright and Intellectual Property. Do not post content that violates a copyright, trademark, or other intellectual property right held by someone else. We will remove such content if we discover it, or upon the request of the rights holder. To learn more, please review our Copyright and Intellectual Property policy
 
 Last updated: February 8, 2021
-
-©2021 Verizon Media. All Rights Reserved.
