@@ -11,5 +11,3 @@ What type of data does Verizon Media collect and how do we use it?
 How do you manage your data subject rights?
 
 Our Verizon Media B2B Services give you various controls to manage certain aspects of your Enterprise Account. However, the platform that we provide to our consumers to manage and control their use of personal data does not work for Enterprise Accounts. If you would like to exercise certain data subject rights regarding your Enterprise Accounts, such as account erasure, please complete our Privacy Form. If you are a European Economic Area resident and you wish to contact our Data Protection Officer, you can do so via email at dpo-contact@verizonmedia.com.
-
-©2021 Verizon Media. All Rights Reserved.
