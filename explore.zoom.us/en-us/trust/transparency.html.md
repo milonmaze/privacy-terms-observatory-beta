@@ -1,9 +1,3 @@
-REQUEST A DEMO 1.888.799.9666 RESOURCES  SUPPORT
-SOLUTIONS 
-JOIN A MEETING
-HOST A MEETING 
-SIGN IN
-SIGN UP, IT'S FREE
 Transparency Report
 01
 Overview
@@ -74,55 +68,3 @@ Data Set
 Here is the data set of all the requests included in this transparency report.
 
 To access our previous Transparency Reports, please click here.
-
-About
-Zoom Blog
-Customers
-Our Team
-Careers
-Integrations
-Partners
-Investors
-Press
-Media Kit
-How to Videos
-	
-Download
-Meetings Client
-Zoom Rooms Client
-Browser Extension
-Outlook Plug-in
-Lync Plug-in
-iPhone/iPad App
-Android App
-Zoom Virtual Backgrounds
-	
-Sales
-1.888.799.9666
-Contact Sales
-Plans & Pricing
-Request a Demo
-Webinars and Events
-	
-Support
-Test Zoom
-Account
-Support Center
-Live Training
-Feedback
-Contact Us
-Accessibility
-Privacy and Security
-	
-Language
-English 
-Currency
-US Dollars $ 
-    
-
-
-Copyright ©2021 Zoom Video Communications, Inc. All rights reserved. Privacy Trust Center Legal & Compliance Do Not Sell My Personal Information
-To opt out of Zoom making certain portions of your information relating to cookies available to third parties or Zoom’s use of your information in connection with similar advertising technologies or to opt out of retargeting activities which may be considered a “sale” of personal information under the California Consumer Privacy Act (CCPA) please click the “Opt-Out” button below.
-
-Privacy Policy
-Accept Opt-Out More Info
