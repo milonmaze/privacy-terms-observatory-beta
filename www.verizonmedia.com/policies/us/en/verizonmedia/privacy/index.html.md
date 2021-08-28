@@ -188,5 +188,3 @@ May 2018 - update to privacy notice;
 October 2019 - Oath to Verizon Media name change
 
 October 2020 - updates to data transfers and legal bases
-
-©2021 Verizon Media. All Rights Reserved.
