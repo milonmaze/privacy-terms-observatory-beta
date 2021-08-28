@@ -318,19 +318,3 @@ Cloudflare, Inc.
 101 Townsend St,
 San Francisco, CA 94107
 USA
-
-
-Sales
-
-Contact Sales:
-
-+1 (888) 99 FLARE
-
-Getting Started
-Community
-Developers
-Support
-Company
-    
-© 2021 Cloudflare, Inc.
-Privacy Policy Terms of Use Disclosure Cookie Preferences Trademark
