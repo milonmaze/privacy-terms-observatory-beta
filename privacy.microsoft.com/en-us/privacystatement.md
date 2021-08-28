@@ -1,5 +1,3 @@
-Microsoft
-Privacy 
 Microsoft Privacy Statement
 Last Updated: July 2021 What's new?
 Expand All
@@ -201,4 +199,3 @@ Entertainment and Related Services power rich experiences and enable you to acce
 
 Learn more
 Top of page
-SitemapContact MicrosoftPrivacyTerms of useTrademarksSafety & ecoAbout our ads© Microsoft 2021
