@@ -1,5 +1,3 @@
-Welcome to redditgifts! Log in
-Gift ExchangesGalleryElves
 IMPORTANT UPDATE FROM REDDIT GIFTS
 2021 will be the last year of Reddit Gifts.
 Please read more about this in the post in r/secretsanta on Reddit.
@@ -52,15 +50,3 @@ Previous Versions
 Version 1
 
 Version 2 - September 2, 2016
-
-About
-What is redditgifts?
-Blog
-Careers
-Help Center
-Contact Support
-FAQ
-© 2021 reddit, Inc. All Rights Reserved.
-Privacy Notice
-User Agreement
-reddit, Inc.
