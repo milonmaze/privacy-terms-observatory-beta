@@ -199,27 +199,3 @@ How do I control Cookies?
 Users from the European Economic Area (EEA) and the UK can revisit their cookie choices through their Settings > Security and Privacy > Cookie Preferences. There are also online tools such as Digital Advertising Alliance’s Browser Check and European Digital Advertising Alliance’s Your Online Choices site that explain digital advertising and allow you to choose how cookies are used throughout the web based on your location and the device and browser you are using. All users can also enable Google’s browser extension to disable Google Analytics across any website that you visit.
 
 You may also refuse to accept cookies from the Twitch Services or Extension developers at any time by activating the setting on your browser which allows you to refuse cookies. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider’s website via your help screen. For additional guidance please visit the Digital Advertising Alliance’s Ad Choices [https://youradchoices.com/choices-faq] page. Please be aware that if cookies are disabled, not all features of the Twitch Services or Extensions may operate as intended.
-
-ABOUT
-CAREERS
-BLOG
-PRESS
-BRAND
-DEVELOPERS
-PLATFORMS
-PRIME
-BITS
-EXTENSIONS
-ADVERTISE
-GIFT CARD
-TERMS OF SERVICE
- 
-PRIVACY NOTICE
- 
-AD CHOICES
- 
-COOKIE POLICY
- 
-PARTNERS
- 
-AFFILIATES
