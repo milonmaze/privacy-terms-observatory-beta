@@ -19,5 +19,3 @@ By using our products and services you consent to us transferring your informati
 Personal Data from Verizon Media EU/EEA Properties
 
 Verizon Media may process personal information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses.
-
-©2021 Verizon Media. All Rights Reserved.
