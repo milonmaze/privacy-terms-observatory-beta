@@ -65,8 +65,3 @@ In our User Privacy Notice we have compiled all essential information about our 
 This User Privacy Notice is effective from June 20, 2020. View the previous User Privacy Notice.
 
 35 min article
-Additional site navigation
-About eBayAnnouncementsCommunitySecurity CenterResolution CenterSeller CenterPoliciesAffiliatesHelp & ContactSite Map
-
-Copyright © 1995-2021 eBay Inc. All Rights Reserved. Accessibility, User Agreement, Privacy, Cookies, Do not sell my personal information and AdChoice	
-Norton Secured - powered by DigiCert
