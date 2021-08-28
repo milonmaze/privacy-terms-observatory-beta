@@ -180,53 +180,6 @@ January 1, 2016 - June 30, 2016
 July 1, 2015 - December 31, 2015
 January 1, 2015 - June 30, 2015
 November 1, 2014 - February 28, 2015
-© 2021 Snap Inc.
-CitizenSnap
-Privacy Policy
-Terms of Service
-Other Terms & Policies
-Bahasa Indonesia
-Bahasa Melayu
-Dansk
-Deutsch (Deutschland)
-English (UK)
-English (US)
-Español
-Español (Argentine)
-Español (España)
-Español (México)
-Filipino (Philippines)
-Français (France)
-Italiano
-Nederlands (Nederland)
-Norsk (bokmål)
-Polski
-Português (Brasil)
-Português (Portugal)
-Română
-Suomi
-Svenska
-Tiếng Việt
-Türkçe
-Ελληνικά
-Русский
-اردو
-العربية (السعودية)
-मराठी
-हिन्दी
-বাংলা (ভারত)
-বাংলা(বাংলাদেশ)
-ਪੰਜਾਬੀ
-ગુજરાતી
-தமிழ்
-తెలుగు
-ಕನ್ನಡ (India)
-മലയാളം
-ภาษาไทย (ประเทศไทย)
-中文简体
-中文繁體
-日本語
-한국어 (韩国)
 Hi! We use cookies and similar technologies (“cookies”), including third-party cookies, on this website to help operate and improve your experience on our site, monitor our site performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, go here for our cookie policy! By clicking "Accept Cookies" below, you are giving us consent to use cookies (except consent is not required for cookies necessary to run our site). You can change your cookie settings, and withdraw your consent at any time, by clicking on “Cookie Settings” below.
 ACCEPT COOKIES
 Cookie Settings
