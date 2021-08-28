@@ -62,5 +62,3 @@ Verizon Media
 Customer Care - Privacy Policy Issues
 701 First Avenue
 Sunnyvale, CA 94089
-
-©2021 Verizon Media. All Rights Reserved.
