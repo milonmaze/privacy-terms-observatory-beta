@@ -24,5 +24,3 @@ View our other privacy controls.
 Visit the Network Advertising Initiative (US) and the Digital Advertising Alliance  - DAA (US), EDAA (EU), DAAC (Canada), ADAA (AU/NZ) to see your opt-out choices from other participating companies.
 Explore other controls and tools to help set and maintain your privacy choices.
 If you are using Safari or a browser enabled with Intelligent Tracking Protection (ITP) or similar cookie-blocking technology, if you wish to opt out of receiving personalized ads, you will need to do so directly via the Verizon Media Privacy Center.
-
-©2021 Verizon Media. All Rights Reserved.
