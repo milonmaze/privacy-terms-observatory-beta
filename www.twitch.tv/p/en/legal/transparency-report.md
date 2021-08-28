@@ -206,27 +206,3 @@ Subpoenas/Preservation Holds
 Twitch complies with data requests from law enforcement around the world in relation to crimes they may be investigating. We do so using our criminal subpoena and MLAT (“Mutual Legal Assistance Treaty”) process which requires all data requests to be served through our process server, CSC.
 
 Subpoenas and preservation requests processed by Twitch increased 37% in H2.  This is within the expected volumes of valid Subpoenas/Preservation Holds we have received from Law Enforcement.   
-
-ABOUT
-CAREERS
-BLOG
-PRESS
-BRAND
-DEVELOPERS
-PLATFORMS
-PRIME
-BITS
-EXTENSIONS
-ADVERTISE
-GIFT CARD
-TERMS OF SERVICE
- 
-PRIVACY NOTICE
- 
-AD CHOICES
- 
-COOKIE POLICY
- 
-PARTNERS
- 
-AFFILIATES
