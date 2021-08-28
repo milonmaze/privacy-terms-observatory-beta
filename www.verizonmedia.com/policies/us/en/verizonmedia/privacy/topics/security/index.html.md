@@ -34,5 +34,3 @@ You also need to take your security seriously. Please visit our Safety Center fo
 How to Report Security Incidents
 
 Information about reporting security incidents is found in our Safety Center.
-
-©2021 Verizon Media. All Rights Reserved.
