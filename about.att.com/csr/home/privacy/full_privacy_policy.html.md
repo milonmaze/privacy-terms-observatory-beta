@@ -1,13 +1,4 @@
 Skip Navigation
-COMPANY
- 
-WHAT WE STAND FOR
- 
-WHAT WE DO
- 
-INVESTORS
- 
-NEWS
 Privacy Center
 EFFECTIVE NOVEMBER 1, 2021
 Print the full Privacy Policy
@@ -63,6 +54,3 @@ View the full Privacy Policy
 
 
 See the DIRECTV privacy policy at directv.com/privacy.
-*Privacy Policy (updated) Terms of Use Accessibility Contact Us Subscribe to AT&T News Do Not Sell My Personal Information
-
-© 2021 AT&T Intellectual Property. All rights reserved.
