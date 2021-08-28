@@ -91,5 +91,3 @@ You must be a logged-in, registered user to post a comment.
 Comments you post will be displayed publicly along with your Yahoo ID or chosen nickname and profile picture or avatar.
 You may also delete a comment you have posted by selecting the ‘delete’ option next to the comment you wish to remove.
 Your comments are visible to you on the “My Comments” tab next to the commenting streams.
-
-©2021 Verizon Media. All Rights Reserved.
