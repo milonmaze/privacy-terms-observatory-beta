@@ -1,14 +1,4 @@
 Skip Navigation
-COMPANY
- 
-WHAT WE STAND FOR
- 
-WHAT WE DO
- 
-INVESTORS
- 
-NEWS
-Social Responsibility
 Transparency Report
 
 At AT&T, we take our responsibility to protect your information and privacy very seriously. You can learn more by reading our Customer Privacy Issue Brief.
@@ -282,6 +272,3 @@ Environment
 Society
 Governance
 Reporting
-*Privacy Policy (updated) Terms of Use Accessibility Contact Us Subscribe to AT&T News Do Not Sell My Personal Information
-
-© 2021 AT&T Intellectual Property. All rights reserved.
