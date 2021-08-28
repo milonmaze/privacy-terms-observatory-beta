@@ -31,17 +31,3 @@ The data presented below covers the period from July 1, 2020, to December 31, 20
 Download transparency report
 BACKGROUND ON REQUESTS FOR USER DATA
 BACKGROUND ON REQUESTS FOR CONTENT REMOVAL OR BLOCKING
-Sales
-
-Contact Sales:
-
-+1 (888) 99 FLARE
-
-Getting Started
-Community
-Developers
-Support
-Company
-    
-© 2021 Cloudflare, Inc.
-Privacy Policy Terms of Use Trust & Safety Trademark
