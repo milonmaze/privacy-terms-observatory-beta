@@ -1,7 +1,4 @@
 Skip to main content
-Microsoft
-Corporate Social Responsibility 
-Sign in to your account
 CSR governance and reporting
 
 Empowering every person and every organization to achieve more requires careful attention to the impact of our business practices, policies, and community investments.
@@ -88,56 +85,3 @@ Labor
 Environment
 Anti-corruption
 Follow Microsoft
-What's new
-Surface Laptop 4
-Surface Laptop Go
-Surface Go 2
-Surface Pro X
-Surface Duo
-Microsoft 365
-Windows 10 apps
-HoloLens 2
-Microsoft Store
-Account profile
-Download Center
-Microsoft Store support
-Returns
-Order tracking
-Virtual workshops and training
-Microsoft Store Promise
-Financing
-Education
-Microsoft in education
-Office for students
-Office 365 for schools
-Deals for students & parents
-Microsoft Azure in education
-Enterprise
-Azure
-AppSource
-Automotive
-Government
-Healthcare
-Manufacturing
-Financial services
-Retail
-Developer
-Microsoft Visual Studio
-Windows Dev Center
-Developer Center
-Microsoft developer program
-Channel 9
-Microsoft 365 Dev Center
-Microsoft 365 Developer Program
-Microsoft Garage
-Company
-Careers
-About Microsoft
-Company news
-Privacy at Microsoft
-Investors
-Diversity and inclusion
-Accessibility
-Security
-English (United States)
-Sitemap Contact Microsoft Privacy Terms of use Trademarks Safety & eco About our ads © Microsoft 2021
