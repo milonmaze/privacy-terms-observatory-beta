@@ -165,27 +165,3 @@ Twitch is committed to facilitating vibrant and dynamic communities, which can o
 We will do our best to ensure that our enforcement decisions are accurate, which in some cases will necessitate us bringing in a third party investigator for thorough and impartial review. If we are able to verify reports of off-service statements or behaviors that relate to an incident that took place on Twitch, we will use this evidence to support and inform our enforcement decisions.
 
 Learn more about our Off-Service Conduct Policy.
-
-ABOUT
-CAREERS
-BLOG
-PRESS
-BRAND
-DEVELOPERS
-PLATFORMS
-PRIME
-BITS
-EXTENSIONS
-ADVERTISE
-GIFT CARD
-TERMS OF SERVICE
- 
-PRIVACY NOTICE
- 
-AD CHOICES
- 
-COOKIE POLICY
- 
-PARTNERS
- 
-AFFILIATES
