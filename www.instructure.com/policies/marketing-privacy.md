@@ -1,27 +1,4 @@
 Skip to main content
-Menu
-Main
-K-12
-Toggle menu
-Higher Education
-Toggle menu
-Resources
-Toggle menu
-News & Events
-Toggle menu
-About Us
-Toggle menu
-United States
-Utility
-Try Canvas Free
-For Business
-Support
-Contact Us
-Log In
-Canvas
-MasteryConnect
-Portfolium
-GET A DEMO
 Marketing Privacy Policy
 
 Last Updated: October 28, 2019
@@ -164,72 +141,6 @@ CHANGES TO THIS PRIVACY POLICY.
 Instructure may change this Privacy Policy from time to time. If we make any changes to this Policy, we will change the “Last Updated” date above. If such changes are material, a notice of the changes will be posted along with the revised Privacy Policy. We encourage you to visit this page from time to time for the latest on our privacy practices.
 
 Event Privacy Policy
-
-Home
-
-GLOBAL HQ
-
-6330 South 3000 East Suite 700 Salt Lake City, UT 84121 USA
-
-CONTACT US
-800-203-6755
-Footer menu
-INSTRUCTURE LEARNING PLATFORM
-Canvas LMS
-Canvas Studio
-Canvas Catalog
-Assessment
-Videri Analytics
-Services
-Leadership Development
-All Products
-RESOURCES
-Articles
-Research
-Infographics
-Guides & e-Books
-Webinars
-Videos
-Case Studies
-CENTERS
-The Study Hall
-Our Community
-Canvas Network
-Integrations
-EVENTS
-Events
-Webinars
-Media Resources
-Press Releases
-CUSTOMERS
-K-12
-Higher Ed
-ABOUT US
-Our Story
-About Canvas
-Leadership
-Partners
-Careers
-Investor Relations
-Privacy
-Security
-Accessibility
-Contact Us
-Footer Utility
-Privacy
-California Privacy Notice
-Do Not Sell My Personal Information
-Modern Slavery Act
-Acceptable Use
-Acceptable Use International
-Data Processing
-Social
-LinkedIn
-Twitter
-Facebook
-Instagram
-
-Copyright © 2021 Instructure, Inc. All rights reserved. Various trademarks held by their respective owners.
 
 By continuing to browse or by clicking "I Accept", you agree to the storing of first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.Privacy Policy
 
