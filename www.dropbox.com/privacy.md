@@ -122,7 +122,8 @@ Blog
 Support
 Help Center
 Contact us
-Cookies
+Cookie policy
+Manage cookies
 Privacy & terms
 Sitemap
 Community
