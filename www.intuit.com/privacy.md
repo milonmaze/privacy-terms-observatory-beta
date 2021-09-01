@@ -1,4 +1,8 @@
-Privacy and Security
+Products
+Support and Blogs
+Company
+Partners
+Sign In
 Privacy and Security
 Your Privacy
 Global Privacy Statement
@@ -6,7 +10,9 @@ Security Center
 FAQ
 Contact Us
 We're committed to keeping your data safe
+
 When you use one of our offerings, you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices.
+
 We believe in your right to privacy
 
 We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us.
@@ -23,11 +29,92 @@ We work to create innovative ways to put your data to use while protecting your 
 
 Learn more about how we use your data
 Privacy and security actions
+
+
+
+
 Manage your data
+
+
+
+
 Send a privacy question
+
+
+
+
 Report a security issue
+
+
+
+
 Manage your marketing preferences
+
+
+
+
 Manage your cookie preferences
+
+
+
+
 Actions for customers in the EU
+
+
+
+
 Help for Credit Karma members
+
+
+
+
 Instructions for authorized agents
+Company
+About Intuit
+Investor Relations
+Corporate Responsibility
+Partner with Intuit
+Contact Us
+Customer Research
+For Individuals
+TurboTax
+Mint
+QuickBooks Self-Employed
+Credit Karma
+For Small Business
+QuickBooks
+QuickBooks Payroll
+QuickBooks Payments
+QuickBooks Time
+QuickBooks Time
+QuickBooks Capital
+For Accountants
+Lacerte Tax
+ProConnect Tax
+ProSeries Tax
+QuickBooks Online Accountant
+ProAdvisor Program
+Select Country
+Canada (English)
+Canada (French)
+India
+
+Sitemap
+
+About Intuit
+Join Our Team
+Press Room
+Accessibility
+Terms and Conditions
+
+© 2021 Intuit Inc. All rights reserved.
+
+Intuit, QuickBooks, QB, TurboTax, ProConnect, and Mint are registered trademarks of Intuit Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice.
+
+Photographs ©2018 Jeremy Bittermann Photography. By accessing and using this page you agree to the Terms and Conditions.
+
+About cookies
+Manage cookies
+Legal
+Privacy
+Security
