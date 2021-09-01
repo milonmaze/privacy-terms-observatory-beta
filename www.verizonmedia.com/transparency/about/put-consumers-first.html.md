@@ -21,9 +21,9 @@ When faced with government requests for user data or to remove content, we follo
 
 We’ve encrypted many of our most important products and services to make them more secure for our users. This includes:
 
-Encryption of the traffic moving between Verizon Media data centers;
+Encryption of the traffic moving between Yahoo data centers;
 
-Making browsing over HTTPS the default on Yahoo Mail, Yahoo Homepage, Tumblr, AOL, and many other Verizon Media properties;
+Making browsing over HTTPS the default on Yahoo Mail, Yahoo Homepage, AOL, and many other Yahoo properties;
 
 Implementing the latest in security best-practices, including supporting TLS 1.2 with 2048-bit RSA keys and strong encryption ciphers as well as Forward Secrecy for many of our global properties;
 
@@ -33,12 +33,12 @@ We are committed to notifying users when we strongly suspect they may have been 
 
 Advocating for users
 
-As a global internet company, Verizon Media is committed to respecting our users’ rights to privacy and freedom of expression across the globe. Our Global Public Policy team advocates for public policy solutions that protect our users, including by advocating in favor of surveillance reform consistent with these principles, working with partners to develop smart policies for the flow of data across borders, and supporting laws and regulations that protect our users data and right to freedom of expression, as well as our platforms.
+As a global internet company, Yahoo is committed to respecting our users’ rights to privacy and freedom of expression across the globe. Our Global Public Policy team advocates for public policy solutions that protect our users, including by advocating in favor of surveillance reform consistent with these principles, working with partners to develop smart policies for the flow of data across borders, and supporting laws and regulations that protect our users data and right to freedom of expression, as well as our platforms.
 
 Respecting human rights
 
-We are committed to respecting and promoting free expression and privacy on the internet. Verizon Media’s Business & Human Rights Program (BHRP) coordinates and leads our efforts to make responsible business decisions in the areas of free expression and privacy.
+We are committed to respecting and promoting free expression and privacy on the internet. Yahoo’s Business & Human Rights Program (BHRP) coordinates and leads our efforts to make responsible business decisions in the areas of free expression and privacy.
 
-Verizon Media is a member of the Global Network Initiative (GNI), and currently serves on the organization’s Board of Directors. GNI is a multi-stakeholder coalition of information and communications technology companies, human rights organizations, academics, investors and other experts that aims to collectively address the challenges we and other companies face in the critical areas of privacy and free expression when bringing transformative communications technologies to markets around the world.
+Yahoo is a member of the Global Network Initiative (GNI), and currently serves on the organization’s Board of Directors. GNI is a multi-stakeholder coalition of information and communications technology companies, human rights organizations, academics, investors and other experts that aims to collectively address the challenges we and other companies face in the critical areas of privacy and free expression when bringing transformative communications technologies to markets around the world.
 
  
