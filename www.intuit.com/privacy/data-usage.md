@@ -1,8 +1,3 @@
-Products
-Support and Blogs
-Company
-Partners
-Sign In
 Privacy and Security
 Your Privacy
 Global Privacy Statement
