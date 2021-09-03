@@ -1,6 +1,4 @@
 Privacy Policy
-For everyone
-Privacy Policy
 
 How Shopify handles your data
 
