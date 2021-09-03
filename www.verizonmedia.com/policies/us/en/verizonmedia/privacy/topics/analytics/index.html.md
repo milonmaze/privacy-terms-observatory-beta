@@ -10,17 +10,17 @@ Intellectual Property
 Permissions
 Closed Captioning
 Community Guidelines (New)
-Verizon Media Analytics
+Yahoo Analytics
 
-Verizon Media Analytics, Advertising Insights, and Flurry are systems used by Verizon Media to collect information about visitors to Verizon Media's and our customers' products and services to understand how people use those services and respond to the ads we serve.
+Yahoo Analytics, Advertising Insights, and Flurry are systems used by Yahoo to collect information about visitors to Yahoo's and our customers' products and services to understand how people use those services and respond to the ads we serve.
 
 Information Collection & Use
 
-Analytics tools such as Verizon Media Analytics, Advertising Insights, and Flurry use a variety of tools, including but not limited to, IP Addresses, web beacons, SDKs, cookies, and similar technologies to recognize, associate, and collect data about visitors to Verizon Media's and our customer’s sites, apps, products, brands and services. This data is sent to Verizon Media by your device. The data collected commonly includes information such as cookies and/or device identifiers, IP address, time spent, your interactions, links clicked, your location, apps on the device, or advertisements viewed. This data is collected by Verizon Media Analytics and other tools so that Verizon Media can report statistical information and recognize unique users.
+Analytics tools such as Yahoo Analytics, Advertising Insights, and Flurry use a variety of tools, including but not limited to, IP Addresses, web beacons, SDKs, cookies, and similar technologies to recognize, associate, and collect data about visitors to Yahoo's and our customer’s sites, apps, products, brands and services. This data is sent to Yahoo by your device. The data collected commonly includes information such as cookies and/or device identifiers, IP address, time spent, your interactions, links clicked, your location, apps on the device, or advertisements viewed. This data is collected by Yahoo Analytics and other tools so that Yahoo can report statistical information and recognize unique users.
 
 We collect this information on our own brands, websites, apps, advertising services, products, services or technologies (“Services”) and on behalf of our customers, such as our advertisers and publishers, so that they can assess the effectiveness of their services. Certain customers may also provide us with information that on its own could reasonably identify a customer such as email address to incorporate into analytics reports produced exclusively for them.
 
-Verizon Media also may use the data collected through Verizon Media Analytics and other tools in order to improve our Services, provide advertisements about goods and Services and content of interest to users and for the purposes disclosed in the Verizon Media Privacy Policy. Verizon Media may use cookies and similar technologies to associate users, devices, and accounts with each other or with those in a similar location, such as in a household.
+Yahoo also may use the data collected through Yahoo Analytics and other tools in order to improve our Services, provide advertisements about goods and Services and content of interest to users and for the purposes disclosed in the Yahoo Privacy Policy. Yahoo may use cookies and similar technologies to associate users, devices, and accounts with each other or with those in a similar location, such as in a household.
 
 Your Choices
 
@@ -30,7 +30,7 @@ The following provides additional information about some of the practices and te
 
 Analytics
 
-The Verizon Media Group serves nearly one billion users across the world every day. Operating Internet services at this scale requires us to understand how our systems, networks, and products are performing. To achieve this, much of the data we collect is aggregated and analyzed through our analytics platforms.
+The Yahoo Group serves nearly one billion users across the world every day. Operating Internet services at this scale requires us to understand how our systems, networks, and products are performing. To achieve this, much of the data we collect is aggregated and analyzed through our analytics platforms.
 
 These platforms generate necessary reporting and useful insights into every area of our business, including:
 
@@ -44,7 +44,7 @@ Product improvement, new product and new feature development
 Aggregate audience insights for us and our partners
 Aggregate site, app, and product analytics for us and our partners
 
-When we share aggregate reports with our partners, we only provide statistical summaries of data. This means that we do not provide user-identifying records to partners. For more information, see ‘How we Share Your Information’ in Verizon Media Privacy Policy.
+When we share aggregate reports with our partners, we only provide statistical summaries of data. This means that we do not provide user-identifying records to partners. For more information, see ‘How we Share Your Information’ in Yahoo Privacy Policy.
 
 Product improvement and development
 
@@ -70,7 +70,7 @@ Capacity planning and forecasting
 Traffic optimisation and load balancing
 Measuring vendor and partner systems and network performance
 
-Due to the critical nature of these activities to our business, Verizon Media does not offer you choices or controls over the use of data for security and operational purposes.
+Due to the critical nature of these activities to our business, Yahoo does not offer you choices or controls over the use of data for security and operational purposes.
 
 Personalised experiences
 
@@ -92,7 +92,7 @@ Cookies, beacons, scripts and SDKs
 Automated processing and machine learning
 Linking household, account, device, and cookie identifiers
 
-Verizon Media uses different techniques to link unique identifiers present in households, accounts, devices, and cookies and other technologies that likely belong to the same user or are present in the same household. These identifiers are linked through common elements like shared IP addresses, shared use of a device or a mobile app, account logins across multiple devices, and identifier match and linkage data provided by third parties.
+Yahoo uses different techniques to link unique identifiers present in households, accounts, devices, and cookies and other technologies that likely belong to the same user or are present in the same household. These identifiers are linked through common elements like shared IP addresses, shared use of a device or a mobile app, account logins across multiple devices, and identifier match and linkage data provided by third parties.
 
 The types of identifiers we collect and process include:
 
@@ -107,7 +107,7 @@ Cryptographic hashes and derivative values of any of the above
 
 We collect and link these elements even if you are not logged in to a Product, for example, when you use a Product that does not require a login or where you interact with our Services on a third party website.
 
-These identifiers are typically associated with data that is collected, observed, or inferred from Verizon Media users or derived from data that we receive from our partners.
+These identifiers are typically associated with data that is collected, observed, or inferred from Yahoo users or derived from data that we receive from our partners.
 
 We link identifiers to increase the usefulness of the data we collect from different contexts and over time. For instance, users that conduct web searches for sports scores of certain teams may be interested in seeing additional stories or videos about those teams in their news feed.
 
@@ -115,7 +115,7 @@ You have choices about how your data is linked. You can opt-out of identifier li
 
 Processing IP addresses
 
-Your device’s IP address is sent to Verizon Media whenever you interact with one of our Products or Services. Third parties may also receive and pass your IP address to us when you interact with their products. Likewise, Verizon Media may relay your IP address to partners that we use to show content, ads and related products on our Products.
+Your device’s IP address is sent to Yahoo whenever you interact with one of our Products or Services. Third parties may also receive and pass your IP address to us when you interact with their products. Likewise, Yahoo may relay your IP address to partners that we use to show content, ads and related products on our Products.
 
 We collect your IP addresses over time to:
 
@@ -131,9 +131,9 @@ link devices, browsers, and user accounts that may be associated in the same hou
 create aggregate statistics showing product usage by geographic region
 Browsers and devices with limited cookie support
 
-Verizon Media collects and uses previously collected data from browsers and devices with limited cookie support, such as those enabled with cookie-blocking technology. In these cases, we generate a temporary ‘passive ID’ using various network signals to probabilistically identify such devices and improve our Products.
+Yahoo collects and uses previously collected data from browsers and devices with limited cookie support, such as those enabled with cookie-blocking technology. In these cases, we generate a temporary ‘passive ID’ using various network signals to probabilistically identify such devices and improve our Products.
 
-You can manage certain uses of passive IDs on these devices via the ‘Verizon Media Across the Web’ control located in Your Privacy Controls. Some cookie-blocking technologies may interfere with device, platform, and self-regulatory privacy controls so we recommend using the ‘Verizon Media Across the Web’ control in these cases.
+You can manage certain uses of passive IDs on these devices via the ‘Yahoo Across the Web’ control located in Your Privacy Controls. Some cookie-blocking technologies may interfere with device, platform, and self-regulatory privacy controls so we recommend using the ‘Yahoo Across the Web’ control in these cases.
 
 Smart Devices
 
@@ -141,7 +141,7 @@ We collect data from smart or connected TVs, ‘over-the-top’ streaming device
 
 We link Smart Devices and associated data by common attributes (like IP address) and then group those devices into households.
 
-In some cases, Smart Devices provide Verizon Media additional specific information to facilitate linking and targeting, like a TV device identifier or user login data. Please consult the privacy disclosures in your specific Smart Device for practices and controls that manage data collection and use.
+In some cases, Smart Devices provide Yahoo additional specific information to facilitate linking and targeting, like a TV device identifier or user login data. Please consult the privacy disclosures in your specific Smart Device for practices and controls that manage data collection and use.
 
 Cookies, Beacons, Scripts, SDKs
 
@@ -169,7 +169,7 @@ Please note that our automated processing does not produce legal effects or othe
 
 Sensitive data
 
-Except as permitted by law, Verizon Media does not collect, use or share sensitive data about you for the purposes of providing you with personalised experiences. You may see ads for sensitive topics or products from us, but those ads are only based on the content of the page. 
+Except as permitted by law, Yahoo does not collect, use or share sensitive data about you for the purposes of providing you with personalised experiences. You may see ads for sensitive topics or products from us, but those ads are only based on the content of the page. 
 
 We also contractually prohibit partners from collecting or using sensitive data from or about our users.
 
@@ -177,7 +177,7 @@ We and our advertising technology partners serve contextual ads related to sensi
 
 Location data
 
-Verizon Media collects and stores your location data or derives your location from other information. We obtain your location data from the following sources:
+Yahoo collects and stores your location data or derives your location from other information. We obtain your location data from the following sources:
 
 We collect location data from your devices when you use our Products, Services and third-party services that we partner with. This includes:
 
@@ -197,7 +197,7 @@ Our partners include our advertising partners. We receive location data from the
 
 How do we use location data?
 
-Verizon Media will use your location data that we’ve collected over time to:
+Yahoo will use your location data that we’ve collected over time to:
 
 infer the imprecise location of where we believe you live and work. We use these inferences to:
 determine the terms of service and legal jurisdiction that apply to you
@@ -213,11 +213,11 @@ measure the effectiveness of advertising campaigns (for example, if a device was
 provide localised search results (like restaurants near your current location when you search for restaurants)
 deliver content that may be relevant to your current or recent locations (for example, sports content relating to a team after your device had visited that team’s stadium).
 
-Visit Your Privacy Controls to manage how Verizon Media uses your precise location data.
+Visit Your Privacy Controls to manage how Yahoo uses your precise location data.
 
 How do we share your location data?
 
-With your consent, Verizon Media may share precise location data with our advertising partners. Visit the ‘Partners’ section in Your Privacy Controls to manage how Verizon Media shares your data with these partners.
+With your consent, Yahoo may share precise location data with our advertising partners. Visit the ‘Partners’ section in Your Privacy Controls to manage how Yahoo shares your data with these partners.
 
 Please note that our partners’ use of location data that you provide to them is subject to their own privacy policies.
 
@@ -244,15 +244,15 @@ We may contact you in order to administer the promotion, provide status updates,
 
 Sometimes we share your information in connection with the promotion with third parties. Please see the official rules of each promotion for details.
 
-Promotions hosted on our Products may be sponsored by Verizon Media or co-sponsored by Verizon Media and third parties. Verizon Media may also sponsor or co-sponsor promotions hosted by third parties.
+Promotions hosted on our Products may be sponsored by Yahoo or co-sponsored by Yahoo and third parties. Yahoo may also sponsor or co-sponsor promotions hosted by third parties.
 
-Third parties that host promotions may collect and use your information alone or in conjunction with Verizon Media. If third parties collect and use your information, we recommend you review their privacy policies to learn about their information practices.
+Third parties that host promotions may collect and use your information alone or in conjunction with Yahoo. If third parties collect and use your information, we recommend you review their privacy policies to learn about their information practices.
 
 Research
 
-From time to time, Verizon Media invites users to participate in usability studies, surveys, and other types of qualitative and quantitative research. We also conduct research using data from our internal records.
+From time to time, Yahoo invites users to participate in usability studies, surveys, and other types of qualitative and quantitative research. We also conduct research using data from our internal records.
 
-Verizon Media recruits research subjects through a variety of means, including ads, email messages, and market research firms. We often require participants in studies and surveys to sign privacy or confidentiality agreements.
+Yahoo recruits research subjects through a variety of means, including ads, email messages, and market research firms. We often require participants in studies and surveys to sign privacy or confidentiality agreements.
 
 We also use Information about audiences and traffic from our own log files and user databases for research.
 
