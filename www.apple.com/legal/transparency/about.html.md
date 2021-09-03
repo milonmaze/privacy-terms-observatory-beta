@@ -1,14 +1,3 @@
-Apple
-Store
-Mac
-iPad
-iPhone
-Watch
-TV
-Music
-Support
-Shopping Bag
-+
 Privacy
 Overview
 Features
