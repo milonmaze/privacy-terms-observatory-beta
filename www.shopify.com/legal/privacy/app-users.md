@@ -1,5 +1,3 @@
-Privacy Policy
-For users of Shopify apps
 Privacy for Users of Shopify Apps
 
 For users of Shopify’s apps, customer-facing services, or free business tools
