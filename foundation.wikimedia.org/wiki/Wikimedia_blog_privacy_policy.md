@@ -128,8 +128,6 @@ Privacy policy · FAQ · Glossary of key terms · Wikimedia blog privacy policy 
 
 Categories: Privacy policyPolicy
 Navigation menu
-English
-Log in
 Page
 Discussion
 Read
