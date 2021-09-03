@@ -1,5 +1,3 @@
-Privacy Policy
-For customers
 Privacy for Customers
 
 For customers that shop at Shopify-powered stores
