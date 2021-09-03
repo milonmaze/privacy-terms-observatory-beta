@@ -1,4 +1,3 @@
-Browse
 Legal
 Terms of Service
 Community Guidelines
