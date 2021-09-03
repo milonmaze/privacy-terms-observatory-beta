@@ -214,8 +214,6 @@ Please note that in the event of any differences in meaning or interpretation be
 
 Category: Policy
 Navigation menu
-English
-Log in
 Page
 Discussion
 Read
