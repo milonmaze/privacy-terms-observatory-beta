@@ -1,8 +1,3 @@
-Transparency Report
-Overview
-2020 Report
-2019 Report
-2018 Report
 Shopify —
 Transparency Report
 
