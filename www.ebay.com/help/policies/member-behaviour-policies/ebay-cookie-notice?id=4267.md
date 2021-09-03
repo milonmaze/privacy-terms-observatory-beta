@@ -1,8 +1,4 @@
 Skip to main content
-Page navigation
-Home
-Help
-Cookies, web beacons, and similar technology ("Cookie Notice")
 13 min article
 Cookies, web beacons, and similar technology ("Cookie Notice")
 1. Information regarding the technologies we use
