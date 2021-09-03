@@ -14,12 +14,6 @@ Government requests for customer data must comply with applicable laws. A subpoe
 
 Requests by country/region
 Apply filters 
-Country/Region
-Asia-Pacific
-Europe
-Middle East and Africa
-North America
-South America
 Time
 Period
 2020 (Jul-Dec)
