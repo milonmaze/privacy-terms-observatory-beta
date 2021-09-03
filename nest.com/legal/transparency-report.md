@@ -1,23 +1,3 @@
-Legal Items
-Privacy Policy for Nest Web Sites
-Privacy Statement for Nest Products and Services
-Authorized Professional Reseller Brand Features License Agreement
-Terms of Service
-End User License Agreement
-Limited Warranty
-Pro Checkup Service Terms and Conditions
-Open Source Compliance
-Pro Sales Terms
-Sales Terms
-Intellectual Property and Other Notices
-Community Forum Agreement
-FCC Compliance Notice
-Customer Agreements for Rush Hour Rewards
-Customer Agreements for Rebates
-Customer Agreements for Safety Rewards
-Installation Terms and Conditions
-Transparency Report
-Modern Slavery Statement
 Transparency Report
 Requests for user information
 
