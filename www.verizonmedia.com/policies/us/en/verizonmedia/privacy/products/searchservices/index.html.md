@@ -12,7 +12,7 @@ Closed Captioning
 Community Guidelines (New)
 Search Services
 
-This policy describes our current privacy practices for the Verizon Media Search and Assistants brands, websites, features, products, apps, software and other services (“Search Services”). All information that is collected, provided to Verizon Media or stored in your Verizon Media Account will be treated, used and protected in accordance with the Verizon Media Privacy Policy. This information may change as Verizon Media revises these Search Services by adding or removing features or using different service providers. Some features are only available if you are a registered user. Please visit Help if you have questions about these Search Services.
+This policy describes our current privacy practices for the Yahoo Search and Assistants brands, websites, features, products, apps, software and other services (“Search Services”). All information that is collected, provided to Yahoo or stored in your Yahoo Account will be treated, used and protected in accordance with the Yahoo Privacy Policy. This information may change as Yahoo revises these Search Services by adding or removing features or using different service providers. Some features are only available if you are a registered user. Please visit Help if you have questions about these Search Services.
 
 This page describes specific privacy practices with respect to Yahoo Search, Yahoo Assistants, Yahoo Local and Yahoo Shopping. Additional information is included for certain Search Services listed below.
 
@@ -25,13 +25,13 @@ When you conduct a search on a product or service that uses our search technolog
 Search Assist helps you find what you are looking for by automatically offering popular search terms and new topics to consider. Search Assist may base suggestions on aggregated searches across all users and your individual search history.
 The Yahoo Search History tool allows you to see what you've searched for in the past. Learn how to manage your Search History tool.
 When you use Yahoo Search, you may see relevant, private results selected from other sources, such as your Yahoo Mail. Only you can see your private search results when you’re signed in. Learn how to manage, including turning off, Private Results.
-Some advertising you receive may be customized based on your searches or related terms at Verizon Media. Please visit our Opt-Out page to learn more about the information used to personalize your search experience. If you opt-out, you will continue to see ads Verizon Media serves on these websites, but they won’t be customized to your interests or search history.
+Some advertising you receive may be customized based on your searches or related terms at Yahoo. Please visit our Opt-Out page to learn more about the information used to personalize your search experience. If you opt-out, you will continue to see ads Yahoo serves on these websites, but they won’t be customized to your interests or search history.
 Visit the Search Preferences page to manage your Yahoo Search experience, including Safe Search, Search History, and Private Results.
 Yahoo Search uses image recognition algorithms to identify public figures, scenes, actions, or objects to make it easier to search images
 
 Search Partners
 
-A variety of third party providers help power Verizon Media search and sponsored search services.
+A variety of third party providers help power Yahoo search and sponsored search services.
 We may share your search query, IP address, and other depersonalized information from your web browser or app, such as a unique identifier for your web browser, with these search partners.
 These third party providers may use this information, as well as your search results clicks, to provide more relevant advertising and search results, for search product improvement, research and analysis, and to help detect and defend against fraudulent activity on sponsored or contextual search results.
 We may reformat results provided by these search partners to provide an enhanced search experience to you.
@@ -44,11 +44,11 @@ Search results may contain tracking URLs provided by Yahoo Search Marketing and/
 
 Assistants
 
-Yahoo Assistants are a new category of products and services using artificial intelligence guided by humans. These include chat bots operating in messenger platforms, virtual personal assistants and stand-alone apps accessed on Verizon Media or through third-party apps and services. Assistants may collection information about you in a manner different from other search technologies.
+Yahoo Assistants are a new category of products and services using artificial intelligence guided by humans. These include chat bots operating in messenger platforms, virtual personal assistants and stand-alone apps accessed on Yahoo or through third-party apps and services. Assistants may collection information about you in a manner different from other search technologies.
 Yahoo Assistants may interact and converse with you to answer questions, help complete tasks or perform other activities. Assistants rely on our personnel and automated systems to respond to questions or instructions from users.
 We may collect information about you when you use our Assistants, including your conversations and interactions with the Assistant, your Yahoo ID and information associated with your account.
 We may also collect information provided by a third-party (including apps, messaging platforms and other services) interacting with our Assistants, which could include: your account information with the third-party, such as user ID, name, photo, phone number, email address; and device information such as device ID, device type, operating system, and mobile carrier.
-Verizon Media’s personnel and our automated systems may have access to all communications content as it is sent, received, and when it is stored, in order to fulfill your requests, further product and services development, and provide personalized experiences and advertising through Verizon Media’s products and services.
+Yahoo’s personnel and our automated systems may have access to all communications content as it is sent, received, and when it is stored, in order to fulfill your requests, further product and services development, and provide personalized experiences and advertising through Yahoo’s products and services.
 When you are communicating with our Assistants through a third-party, please read that company’s privacy policy to better understand what information it may retain and for what purposes.
 Location information collected through the Yahoo Assistants may not appear in the Location Management page.
 
