@@ -1,5 +1,3 @@
-Privacy Policy
-For Shopify visitors
 Privacy for Shopify Visitors
 
 For people who visit Shopify’s websites or contact Shopify support
