@@ -1,23 +1,3 @@
-Legal Items
-Privacy Policy for Nest Web Sites
-Privacy Statement for Nest Products and Services
-Authorized Professional Reseller Brand Features License Agreement
-Terms of Service
-End User License Agreement
-Limited Warranty
-Pro Checkup Service Terms and Conditions
-Open Source Compliance
-Pro Sales Terms
-Sales Terms
-Intellectual Property and Other Notices
-Community Forum Agreement
-FCC Compliance Notice
-Customer Agreements for Rush Hour Rewards
-Customer Agreements for Rebates
-Customer Agreements for Safety Rewards
-Installation Terms and Conditions
-Transparency Report
-Modern Slavery Statement
 Privacy Policy for Nest Web Sites
 
 Note: If you use your Nest devices and services with a Google Account, then your data will be handled as described in the Google Privacy Policy, and as explained in more detail in this Privacy FAQs Help Center page. Please also read Google’s commitment to privacy in the home.
