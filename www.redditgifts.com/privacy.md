@@ -1,4 +1,4 @@
-IMPORTANT UPDATE FROM REDDIT GIFTS
+IMPORTANT UPDATE FROM REDDIT GIFTS 
 2021 will be the last year of Reddit Gifts.
 Please read more about this in the post in r/secretsanta on Reddit.
 Reddit Gifts Privacy Notice
