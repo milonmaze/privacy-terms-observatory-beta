@@ -1,4 +1,3 @@
-HomeCareersNewsSafety & ImpactInvestorsAdvertisers
 Our Privacy Principles
 Your Privacy, Explained
 Privacy by Product
@@ -56,5 +55,4 @@ Did you know Privacy by Product provides more information on specific features
 Still can’t find what you’re looking for? Don’t worry, just reach out to us and our friendly support team will get back to you!
 
 Hi! We use cookies and similar technologies (“cookies”), including third-party cookies, on this website to help operate and improve your experience on our site, monitor our site performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, go here for our cookie policy! By clicking "Accept Cookies" below, you are giving us consent to use cookies (except consent is not required for cookies necessary to run our site). You can change your cookie settings, and withdraw your consent at any time, by clicking on “Cookie Settings” below.
-ACCEPT COOKIES
-Cookie Settings
+ACCEPT COOKIESCookie Settings
