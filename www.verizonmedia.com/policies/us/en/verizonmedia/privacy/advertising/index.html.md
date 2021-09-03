@@ -12,7 +12,7 @@ Closed Captioning
 Community Guidelines (New)
 How Digital Advertising Works
 
-Advertising is a fundamental part of the services we provide. Our advertising business and the ads that we and our partners show you allow us to provide you with many of our products and services for free. In this page, we’ll walk you through how digital advertising works at Verizon Media, the different players involved, and how we use your data to personalise your ads.
+Advertising is a fundamental part of the services we provide. Our advertising business and the ads that we and our partners show you allow us to provide you with many of our products and services for free. In this page, we’ll walk you through how digital advertising works at Yahoo, the different players involved, and how we use your data to personalise your ads.
 
 Here’s a brief summary of our advertising business, and some of the areas that we’re going to cover in this page.
 
@@ -27,7 +27,7 @@ The following steps describe the lifecycle of our interaction with a user, from 
 
 Step 1 - Assigning a unique identifier to your device
 
-When you first visit a website on the Verizon Media Ad Network, we create a unique identifier and store it in a cookie in your internet browser.
+When you first visit a website on the Yahoo Ad Network, we create a unique identifier and store it in a cookie in your internet browser.
 
 For example, Jeff visits Yahoo Finance for the first time. We create the identifier ‘XYZ’ and store it in a cookie on Jeff’s browser.
 
@@ -41,7 +41,7 @@ Jeff uses the Yahoo Sports mobile app with the advertising ID 789. We will take 
 
 Step 2 - Collecting data
 
-Over time, we collect or infer information about your interests and activity across the Verizon Media Ad Network and we store it with your unique identifiers.
+Over time, we collect or infer information about your interests and activity across the Yahoo Ad Network and we store it with your unique identifiers.
 
 The different types of information that we collect and associate with your identifiers include:
 
@@ -93,20 +93,20 @@ We operate advertising exchanges as both buyers and sellers, and we also partici
 
 In auctions, buyers and sellers share limited amounts of user information with one another to allow buyers to understand what they’re buying. The information exchanged includes user demographic information, website or app names, search terms and location information. Buyers bid on the advertising inventory until the advertising exchange selects a winner. The winning bidder in each auction then shows the ad, called an advertising impression, on the publisher’s webpage, app, or connected TV.
 
-A ticket sales promoter in Dublin partners with Verizon Media to advertise football tickets to nearby users on the Verizon Media Ad Network.
+A ticket sales promoter in Dublin partners with Yahoo to advertise football tickets to nearby users on the Yahoo Ad Network.
 
 When the ticket seller or its ad agency wins an auction, Jeff will see ads from the ticket seller when he visits his Yahoo Sports mobile app and when he goes to Yahoo Search because:
 
 the current IP Address of Jeff’s device that he uses to visit the Yahoo Sports mobile app and Yahoo Search is associated with Dublin; and
 we have included Jeff’s identifiers (cookie ID XYZ, hash EFG, and ID  789) in the ‘professional football fan’ interest category.
 
-Jeff will also see the ticket seller’s ads from us when he visits a local newspaper website because we have a partnership with the local newspaper to show ads from our advertising partners on their site. In other words, that local newspaper website is part of the Verizon Media Ad Network. 
+Jeff will also see the ticket seller’s ads from us when he visits a local newspaper website because we have a partnership with the local newspaper to show ads from our advertising partners on their site. In other words, that local newspaper website is part of the Yahoo Ad Network. 
 
 Step 5 - Measuring ad performance and effectiveness
 
 We measure the performance and effectiveness of ad campaigns by tracking engagement with the ads. This engagement is typically measured in advertising impressions, ad clicks, and sales generated from the campaign (typically referred to as “conversion data”). This data is analysed over the life of the ad campaign and used to show our advertisers the value of running campaigns with us. 
 
-As the ticket seller’s campaign runs, the ticket seller wants to know how many ticket sales are due its campaign with Verizon Media (versus other advertising sources.) To perform this study, Verizon Media analyzes data about the campaign’s ad impressions, clicks and ticket sales from the campaign. We then create reports showing aggregate campaign performance metrics by various user demographics.
+As the ticket seller’s campaign runs, the ticket seller wants to know how many ticket sales are due its campaign with Yahoo (versus other advertising sources.) To perform this study, Yahoo analyzes data about the campaign’s ad impressions, clicks and ticket sales from the campaign. We then create reports showing aggregate campaign performance metrics by various user demographics.
 
 Since Jeff was one of many users who saw and clicked the ticket seller’s ad, his data will be used in the campaign analysis but his personal data will not be shared with the ticket seller.
 
@@ -120,7 +120,7 @@ In these cases, we also measure the performance and effectiveness of the ads as 
 
 Contextual ads
 
-Contextual ads are ads that we show you on the Verizon Media Ad Network based on the context of your interaction with our Products or Services.
+Contextual ads are ads that we show you on the Yahoo Ad Network based on the context of your interaction with our Products or Services.
 
 Context will include things like the content of the page or type of mobile app that you are using, your device type, time of day, or metropolitan area where you are based.
 
@@ -146,7 +146,7 @@ Your choices and controls
 
 You have several controls about the ads that you see and also the way that we use your information to select which ads to show you.
 
-These are your personalised advertising controls that govern how we and our partners use your data across the Verizon Media Ad Network:
+These are your personalised advertising controls that govern how we and our partners use your data across the Yahoo Ad Network:
 
 Personalised advertising
 
@@ -164,13 +164,13 @@ Device linking
 
 By disabling this control, activity and interest data collected on other devices that we associate with you or your household will not be used to personalise ads on your current device. Also, the activity on your current device will not be linked to other devices that we associate with you or your household for personalised advertising. Some linking between devices is necessary for critical functions such as security and fraud detection and prevention.
 
-Verizon Media across the web
+Yahoo across the web
 
-By disabling this control, we will no longer provide personalised ads for you on partner sites and apps in the Verizon Media Ad Network. We will continue to collect and use information from partner sites and apps for minimal operational needs such as billing, ad measurement and reporting.
+By disabling this control, we will no longer provide personalised ads for you on partner sites and apps in the Yahoo Ad Network. We will continue to collect and use information from partner sites and apps for minimal operational needs such as billing, ad measurement and reporting.
 
 Audience matching
 
-By disabling this control, Verizon Media will no longer use your personal data such as email or phone number for audience match purposes. You will therefore no longer see ads on the Verizon Media Ad Network from advertising partners that target campaigns via the match process. 
+By disabling this control, Yahoo will no longer use your personal data such as email or phone number for audience match purposes. You will therefore no longer see ads on the Yahoo Ad Network from advertising partners that target campaigns via the match process. 
 
 Communications analysis
 
@@ -184,16 +184,16 @@ Visit Your Privacy Controls to manage these controls. 
 
 More information
 
-Verizon Media participates in multiple, regional self-regulatory bodies and is committed to adhering to their principles for online behavioural advertising. While distinct, these entities are all cooperatives of organisations committed to building responsible advertising policies across the Internet. 
+Yahoo participates in multiple, regional self-regulatory bodies and is committed to adhering to their principles for online behavioural advertising. While distinct, these entities are all cooperatives of organisations committed to building responsible advertising policies across the Internet. 
 
-Verizon Media also participates several self-regulatory bodies:
+Yahoo also participates several self-regulatory bodies:
 
 US: Network Advertising Initiative (NAI) – Learn more about its code of conduct or opt out from any of its member companies.
 US: Digital Advertising Alliance (DAA) – Learn more about its principles or opt out from any of its participating companies.
 
-Verizon Media also participates several non-US self-regulatory bodies:
+Yahoo also participates several non-US self-regulatory bodies:
 
 European Interactive Digital Advertising Alliance (EDAA).  Learn more about its principles or opt out from any of its participating companies.
 Canada: Digital Advertising Alliance of Canada (DAAC) – Learn more about its principles or opt out from any of its participating companies.
-Japan:  For users of ONE by AOL and Verizon Media Japan KK, see the Data Driven Advertising Initiative (DDAI) – Learn more about its principles or opt out from any of its participating companies. 
+Japan:  For users of ONE by AOL and Verizon Media Japan KK, see the Data Driven Advertising Initiative (DDAI) – Learn more about its principles or opt out from any of its participating companies. 
 New Zealand: Interactive Advertising Bureau of New Zealand (IAB) – Learn more about its principles.
