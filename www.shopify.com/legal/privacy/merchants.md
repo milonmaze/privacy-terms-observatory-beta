@@ -1,5 +1,3 @@
-Privacy Policy
-For merchants
 Privacy for Merchants
 
 For merchants using Shopify to power their stores
