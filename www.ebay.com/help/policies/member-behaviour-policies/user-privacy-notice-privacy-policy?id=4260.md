@@ -1,8 +1,4 @@
 Skip to main content
-Page navigation
-Home
-Help
-User Privacy Notice
 35 min article
 User Privacy Notice
 1.   Scope and updates of this User Privacy Notice
