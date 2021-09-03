@@ -1,5 +1,3 @@
-Privacy Policy
-For Shopify partners
 Privacy for Shopify Partners
 
 For Shopify Partners who develop apps, build stores, refer merchants, or help merchants operate their stores
