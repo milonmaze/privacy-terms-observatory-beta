@@ -1,6 +1,4 @@
 Skip to main content
-13 min article
-Cookies, web beacons, and similar technology ("Cookie Notice")
 1. Information regarding the technologies we use
 2. Your Choices
 3. Do Not Track
