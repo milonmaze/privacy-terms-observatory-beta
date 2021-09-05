@@ -1,10 +1,3 @@
-Privacy
-Overview
-Features
-Control
-Labels
-Transparency Report
-Privacy Policy
 Apple Privacy Policy
 Updated June 1, 2021
 
