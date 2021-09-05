@@ -3,10 +3,6 @@ Privacy for Users of Shopify Apps
 For users of Shopify’s apps, customer-facing services, or free business tools
 
 Introduction
-What information we collect about you and why
-When and why we share your information with others
-Your rights over your information
-Introduction
 
 Shopify offers a range of apps and services meant to make it easier for you to buy things online and track your orders. For example, we offer Shop to help you track purchases you have made online, and Shop Pay to help you quickly complete a transaction on Shopify-powered stores. When you use these apps, or if you use any of our free business tools, we use your personal information to provide you with and improve the specific service you are using. Additionally, please review our overall privacy policy that applies to everyone whose information Shopify processes.
 
