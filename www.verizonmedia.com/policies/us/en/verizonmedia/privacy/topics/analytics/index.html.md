@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Yahoo Analytics
 
 Yahoo Analytics, Advertising Insights, and Flurry are systems used by Yahoo to collect information about visitors to Yahoo's and our customers' products and services to understand how people use those services and respond to the ads we serve.
