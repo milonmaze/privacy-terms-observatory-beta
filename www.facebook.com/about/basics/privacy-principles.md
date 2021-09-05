@@ -1,6 +1,6 @@
 Jump to
 Sections of this page
-Accessibility Help
+Accessibility help
 Press alt + / to open this menu
 MENU
 Welcome
