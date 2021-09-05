@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Research
 
 From time to time, Yahoo may invite users to participate in usability studies, surveys, and other types of qualitative and quantitative research to help us better design our site, plan new features to add to our products and services, and help us understand our users' wants and needs. Yahoo also conducts research using data from our internal records.
