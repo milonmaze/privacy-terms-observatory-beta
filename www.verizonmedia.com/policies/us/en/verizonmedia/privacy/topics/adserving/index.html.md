@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Ad Serving
 
 Advertising is a core part of Yahoo’s business. Many of our free brands, websites, apps, advertising services, products, services or technologies (“Services”) are supported by the ads we and others display. We also provide a variety of online advertising services to other companies that want to place ads on our Services or elsewhere.
