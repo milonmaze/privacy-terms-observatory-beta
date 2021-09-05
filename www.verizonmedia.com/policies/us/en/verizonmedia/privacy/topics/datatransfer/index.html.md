@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Data Transfer
 
 Your personal information may be transferred to countries other than your own to process and store data in accordance with our Privacy Policy and to provide you with products and services. We may transfer your data to affiliates or partners, including for outsourced data processing undertaken on Yahoo’s behalf. Privacy and data protection standards in these countries may not be equivalent to standards in your country. If you do not agree then you should not use those products and services.
