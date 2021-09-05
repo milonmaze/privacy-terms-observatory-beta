@@ -1,10 +1,3 @@
-Privacy
-Overview
-Features
-Control
-Labels
-Transparency Report
-Privacy Policy
 Privacy Governance
 
 Apple is committed to respecting human rights, including the right to privacy and freedom of information and expression. Our Human Rights Policy governs how we treat everyone—from our customers and teams to our business partners and people at every level of our supply chain.
