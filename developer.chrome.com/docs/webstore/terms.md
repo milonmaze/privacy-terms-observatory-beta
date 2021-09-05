@@ -1,7 +1,4 @@
 Skip to content
-Documentation
-Chrome Web Store
-Chrome Web Store policies
 Google Chrome Web Store Developer Agreement
 
 Published on Friday, February 28, 2014 • Updated on Tuesday, May 4, 2021
