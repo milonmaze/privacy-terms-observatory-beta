@@ -20,13 +20,10 @@ U.S. government requests for data
 
 Global content removal requests
 
-Government requests for data: global
 2022 - 2020
 2019 - 2017
 2016 - 2014
 2013 - 2011
-Requests in the U.S. and globally
-Requests by country
 2020
 2019
 2018
@@ -37,8 +34,6 @@ Requests by country
 2013
 2012
 2011
-Requests by country and accounts subject to those requests
-2020: July-December
  	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
 	Accounts for which LinkedIn provided some data [2]
 Argentina	4	4	0%	0
@@ -83,8 +78,6 @@ Switzerland	3	3	67%	2
 United Kingdom	5	5	40%	1
 United States	364	1,420	76%	702
 Total	548	1,675	63%	799
-Requests by country and accounts subject to those requests
-2020: January-June
  	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
 	Accounts for which LinkedIn provided some data [2]
 Belgium
@@ -139,7 +132,6 @@ Breakdown of U.S. government requests for data
 2015
 2014
 2013
-2020: July-December
 Requests [1]	364
 Accounts subject to requests	1,420
 Requests for which LinkedIn provided some data	76%
@@ -151,7 +143,6 @@ National security letters received [6]	0-499
 National security letters (accounts subject to request)
 	0-499
 FISA letters [6]	0-499
-2020: January-June
 Requests [1]	377
 Accounts subject to requests	2,459
 Requests for which LinkedIn provided some data	78%
@@ -190,14 +181,10 @@ Government requests for content removal
 2020
 2019
 2018
-By country and action taken
-2020: July-December
  	Requests	Action taken	Percentage action taken
 Turkey	5	4	80%
 China	24	22	92%
 Totals	29	26	89%
-By country and action taken
-2020: January-June
  	Requests	Action taken	Percentage action taken
 US	1	1	100%
 Turkey	2	2	100%
@@ -208,8 +195,6 @@ Totals	21	19	90%
 
 
 • Government Requests for Content Removal includes requests received by LinkedIn from governments reporting violations of our Terms of Service or violations of local law.
-
-Additional resources
 
 Professional Community Policies
 
