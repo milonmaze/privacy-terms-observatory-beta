@@ -20,7 +20,6 @@ This describes how we respond when governments around the world ask for member d
 
 
 Go to report
-Additional resources
 
 Professional Community Policies
 
