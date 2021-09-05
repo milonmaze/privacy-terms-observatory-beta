@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Beacons & SDKs
 
 Sites, apps, videos, emails, and other services may contain a small snippet of code called a beacon or in mobile apps contain an SDK or Software Development Kit. In their simplest form, beacons and SDKs allow a service to transfer or collect information through a server request. Yahoo brands, websites, apps, advertising services, products, services or technologies (“Services”) may use beacons and SDKs for many purposes, including counting the number of users who visit a webpage, download an app, or read an email; site usage analytics; advertising auditing and reporting; and content and advertising personalization.
