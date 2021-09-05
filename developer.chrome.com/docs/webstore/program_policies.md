@@ -1,7 +1,4 @@
 Skip to content
-Documentation
-Chrome Web Store
-Chrome Web Store policies
 Developer Program Policies
 
 Published on Friday, February 28, 2014 • Updated on Tuesday, June 29, 2021
