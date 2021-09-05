@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Cookies and Similar Technologies
 
 Yahoo may use cookies and similar technologies (e.g. mobile device identifiers) when you use our brands, websites, apps, advertising services, products, services or technologies (“Services”) or visit a website, app, or service that utilizes our Services. A cookie is a small piece of information that is stored on a computer or device and may contain a device identifier for the purpose of recognizing your browser as you interact with websites. Device identifiers may be randomly generated or assembled from available system elements such as IP address, browser version, OS type and version, device type and settings, mobile device and advertising identifiers (such as Apple’s ID for Advertising, Apple's ID for Vendors, Google’s Android ID, or Google's Play Store Ad ID), wireless mobile subscriber ISDN numbers, Verizon Wireless UIDH, public switched telephone network information, mobile network information or software data. Cookies, device identifiers, and similar technologies may be used to support Yahoo Services, such as applying user preferences, providing more customized experiences, such as personalized content and advertising, and to associate users, devices, and accounts with each other or with those in a similar location, such as in a household.
