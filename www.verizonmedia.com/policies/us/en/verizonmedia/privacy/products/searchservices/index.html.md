@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Search Services
 
 This policy describes our current privacy practices for the Yahoo Search and Assistants brands, websites, features, products, apps, software and other services (“Search Services”). All information that is collected, provided to Yahoo or stored in your Yahoo Account will be treated, used and protected in accordance with the Yahoo Privacy Policy. This information may change as Yahoo revises these Search Services by adding or removing features or using different service providers. Some features are only available if you are a registered user. Please visit Help if you have questions about these Search Services.
