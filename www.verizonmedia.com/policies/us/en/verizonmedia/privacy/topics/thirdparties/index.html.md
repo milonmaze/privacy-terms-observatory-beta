@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Third Parties
 
 The following third party companies may use a variety of tools, including IP Addresses, applications (or "widgets"), web beacons, SDKs, cookies, and similar technologies when people use our brands, websites, apps, advertising services, products, services or technologies (“Services”) or see the ads provided by our advertising Services. These companies may collect information about other apps on your various devices, the websites you visit, location information, and other information. In addition, Yahoo may share non-personally identifiable information, including pseudonymous demographic information, about you with partners for Service improvements, research and analysis, to provide personalized advertising, to help them provide you more innovative experiences and content and to help Yahoo communicate with you about offers from Yahoo and our marketing partners.
