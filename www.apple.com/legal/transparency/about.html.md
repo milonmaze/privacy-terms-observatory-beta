@@ -1,10 +1,3 @@
-Privacy
-Overview
-Features
-Control
-Labels
-Transparency Report
-Privacy Policy
 About Apple’s Transparency Report
 
 We believe our customers have a right to understand how their personal data is managed and protected. Apple’s Transparency Report provides information regarding government requests for customer data.
