@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Why This Ad?
 For Consumers
 The sites and apps you use work with online advertising companies to provide you with advertising that is as relevant and useful as possible. Personalization may be informed by various factors such as the content of the site or app you are using, information you provide, historical searches you conduct, what your friends or contacts recommend to you, apps on your device, or based on your other interests. Read about Yahoo's privacy and advertising practices to learn more about how Yahoo selects the ads you see.
