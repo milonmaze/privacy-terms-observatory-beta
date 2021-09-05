@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 IP Address
 
 When your device makes requests from another computer on the Internet, it automatically gives that computer the address where it should send the information. This is called your device's "IP address." (IP stands for "Internet Protocol.")
