@@ -1,9 +1,3 @@
-Our Privacy Principles
-Your Privacy, Explained
-Privacy by Product
-Privacy Policy
-How We Use Your Information
-Transparency Report
 Transparency Report
 July 1, 2020 – December 31, 2020
 
