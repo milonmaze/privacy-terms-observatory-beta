@@ -5,19 +5,6 @@ Privacy
 selected
 Security
 Have questions?
-Start of sidebar menu
-Online Privacy Policy
-: current selection
-U.S. Consumer Privacy Notice
-U.S. Consumer Privacy Notice for AARP Customers
-U.S. Consumer Privacy Notice for JPMSelect Customers
-California Consumer Privacy Notice
-California Consumer Privacy Notice for JPMSelect Customers
-Set your privacy preferences
-Merchant Services Privacy Notice
-California Consumer Privacy Act (CCPA)
-Children's Privacy Policy
-End of sidebar menu
 LAST UPDATED: DECEMBER 10, 2020
 Online Privacy Policy
 
