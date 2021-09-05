@@ -1,9 +1,3 @@
-Our Privacy Principles
-Your Privacy, Explained
-Privacy by Product
-Privacy Policy
-How We Use Your Information
-Transparency Report
 Snaps & Chats
 
 Just like talking to someone in person or on the phone, having a conversation through Snaps and Chats lets you express whatever’s on your mind at the time — without automatically keeping a permanent record of everything you’ve ever said.
