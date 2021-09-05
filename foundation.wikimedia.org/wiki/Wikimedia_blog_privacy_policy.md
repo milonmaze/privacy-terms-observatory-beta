@@ -128,41 +128,4 @@ Privacy policy · FAQ · Glossary of key terms · Wikimedia blog privacy policy 
 
 Categories: Privacy policyPolicy
 Navigation menu
-Page
-Discussion
-Read
-Feedback
-View history
 Search
-Home
-Official website
-Contact us
-Wikimedia Blog
-Questions for Wikimedia?
-Support
-Donate
-Volunteering
-Wikimedia Shop
-Corporate
-Bylaws
-Values
-Policies
-Resolutions
-Annual Report
-Financial reports and Form 990
-Fundraising reports
-Movement affiliates
-Wiki
-Give feedback
-Recent changes
-Tools
-What links here
-Related changes
-Special pages
-Permanent link
-Page information
-Cite this page
-Print/export
-Create a book
-Download as PDF
-Printable version
