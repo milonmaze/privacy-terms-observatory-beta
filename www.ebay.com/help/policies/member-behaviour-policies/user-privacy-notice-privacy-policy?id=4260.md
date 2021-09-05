@@ -1,6 +1,4 @@
 Skip to main content
-35 min article
-User Privacy Notice
 1.   Scope and updates of this User Privacy Notice
 2. Controller
 3.  Data protection officer and contact
