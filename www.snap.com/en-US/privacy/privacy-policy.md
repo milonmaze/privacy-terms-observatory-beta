@@ -1,12 +1,3 @@
-Our Privacy Principles
-Your Privacy, Explained
-Privacy by Product
-Privacy Policy
-How We Use Your Information
-Transparency Report
-
-We’ve updated our Privacy Policy, effective September 30, 2021. You can view the prior Privacy Policy here.
-
 Privacy Policy
 
 Effective: September 30, 2021
