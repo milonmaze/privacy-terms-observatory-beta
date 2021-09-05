@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 About Your Choices
 
 Yahoo believes in providing you with choices regarding the data we collect and use to  build experiences we offer to you across the Yahoo brands, websites, apps, advertising services, products, services or technologies (“Services”). Read on for more detailed information regarding these choices below. You can also visit the Yahoo Privacy Controls to manage your Yahoo Service settings.
