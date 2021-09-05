@@ -5,14 +5,6 @@ How Shopify handles your data
 Updated May 4, 2021
 
 Introduction
-Our values
-Why we process your information
-Your rights over your information
-Where we send your information
-How we protect your information
-How we use “cookies” and other tracking technologies
-How you can reach us
-Introduction
 
 In our mission to make commerce better for everyone at Shopify, we collect and use information about you, our
 
