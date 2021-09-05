@@ -1,9 +1,3 @@
-Our Privacy Principles
-Your Privacy, Explained
-Privacy by Product
-Privacy Policy
-How We Use Your Information
-Transparency Report
 Your Privacy, Explained
 
 Privacy policies tend to be pretty long — and pretty confusing. That’s why we did our best to make our Privacy Policy brief, clear, and easy-to-read!
