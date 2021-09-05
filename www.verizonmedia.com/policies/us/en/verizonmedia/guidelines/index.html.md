@@ -1,9 +1,3 @@
-Terms
-Privacy Center
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Yahoo Community Guidelines
 
 Yahoo consists of a diverse mix of digital and mobile brands with a global reach, including Yahoo News, Yahoo Finance, Yahoo Sports, AOL, TechCrunch and more. Yahoo communities include people from a wide variety of experiences, backgrounds, and mindsets and we offer a wide range of products, services and online experiences. These Guidelines apply to your use of Yahoo’s products and services and will help you and the rest of the Yahoo community have an enjoyable experience. Please also look for and follow any additional rules that may apply to specific products or services. 
