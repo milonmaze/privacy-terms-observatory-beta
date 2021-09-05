@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Data Storage and Anonymization
 
 In order to provide products and services, Yahoo collects and stores information from user account registration and site and app usage. We generally refer to the information that we collect in connection with site and app usage as “user log data”.
