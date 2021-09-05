@@ -1,6 +1,3 @@
-Home
-Reports
-About
 Transparency Report
 Reports
 
