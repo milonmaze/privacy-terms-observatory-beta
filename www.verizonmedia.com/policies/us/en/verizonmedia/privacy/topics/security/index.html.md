@@ -1,15 +1,3 @@
-Terms
-Privacy Center
-Topics
-Products
-Third Parties
-California Privacy Rights
-Dashboard & Controls
-Relevant Advertising
-Intellectual Property
-Permissions
-Closed Captioning
-Community Guidelines (New)
 Security
 
 Protecting our systems and our users’ information is paramount to ensuring Yahoo brands, websites, apps, advertising services, products, services or technologies (“Services”) users enjoy a secure experience and maintaining our users’ trust. We have taken the following measures to protect your information:
