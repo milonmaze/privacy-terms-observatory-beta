@@ -2,15 +2,6 @@ Language
 Sign in
 Contact Us
 Get started for free
-Why Google
-Solutions
-Products
-Pricing
-Getting started
-Docs
-Support
-Back to Google Cloud Terms Directory
-Current
 Google Cloud Privacy Notice
 
 Effective Date: July 1, 2021
@@ -34,11 +25,3 @@ Korea Requirements
 Updates to this Notice
 PREVIOUS VERSIONS (Last modified May 30, 2021)
 December 7, 2020
-About Google
-Privacy
-Site terms
-Google Cloud terms
-Carbon neutral since 2007
-Sign up for the Google Cloud newsletter
-Subscribe
-Language
