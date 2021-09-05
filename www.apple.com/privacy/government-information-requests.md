@@ -1,10 +1,3 @@
-Privacy
-Overview
-Features
-Control
-Labels
-Transparency Report
-Privacy Policy
 We believe security shouldn’t come at the expense of individual privacy.
 What we’re commonly asked for and how we respond.
 
