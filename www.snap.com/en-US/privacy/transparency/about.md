@@ -1,9 +1,3 @@
-Our Privacy Principles
-Your Privacy, Explained
-Privacy by Product
-Privacy Policy
-How We Use Your Information
-Transparency Report
 ← Back to Transparency Report
 About Transparency Reporting
 
