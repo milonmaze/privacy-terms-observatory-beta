@@ -78,7 +78,6 @@ Dropbox also adheres to the European Interactive Digital Advertising Alliance’
 For more information on how to control and access your personal data, please see our privacy policy FAQ. If you’d like to reach out to Dropbox regarding the use of data collected from cookies, contact our Data Protection Officer at privacy@dropbox.com.
 
 How helpful was this article?
-Related articles
 Other ways to get help
 Community
 Twitter support
