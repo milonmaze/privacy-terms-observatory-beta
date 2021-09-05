@@ -3,10 +3,6 @@ Privacy for Customers
 For customers that shop at Shopify-powered stores
 
 Introduction
-What information we collect about you and why
-When and why we share your information with others
-Your rights over your information
-Introduction
 
 Shopify provides software used by our merchants to run their businesses. If you have visited or made a purchase from a merchant’s Shopify-powered store, we collect and use information about you on behalf of that particular merchant. We only use this information at the direction of our merchants—they ultimately choose how and why to use your information. If you have questions about how a specific merchant or store uses your information, please visit their privacy policy.
 
