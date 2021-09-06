@@ -1,6 +1,8 @@
 Help Center
 JOIN NETFLIX
 SIGN IN
+We are currently experiencing an issue with help center articles.
+We are working to resolve the problem. We apologize for any inconvenience.
  Back to Help Home
 PRINT
 Privacy Statement
