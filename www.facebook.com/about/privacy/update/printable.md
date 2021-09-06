@@ -148,4 +148,7 @@ FAO: Privacy Operations
 Menlo Park, CA 94025, US
 
 
+Privacy notice for California residents
+If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California privacy notice.
+
 Date of last revision: 11 January 2021
