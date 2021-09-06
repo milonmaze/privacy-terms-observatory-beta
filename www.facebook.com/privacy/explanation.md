@@ -9,6 +9,7 @@ Email or phone	Password
 Forgotten account?
 Sign Up
 Full Data Policy
+The California Consumer Privacy Act is effective as of 1 January 2020. California residents can learn more about their privacy rights here.
 What kinds of information do we collect?
 How do we use this information?
 How is this information shared?
@@ -17,6 +18,7 @@ How can I manage or delete information about me?
 How do we respond to legal requests or prevent harm?
 How do we operate and transfer data as part of our global services?
 How will we notify you of changes to this Policy?
+Privacy notice for California residents
 How to contact Facebook with questions
 Facebook Ads Controls
 Privacy Basics
@@ -147,6 +149,9 @@ We share information globally, both internally within the Facebook Companies, an
 Return to top
 How will we notify you of changes to this Policy?
 We'll notify you before we make changes to this Policy and give you the opportunity to review the revised Policy before you choose to continue using our Products.
+Return to top
+Privacy notice for California residents
+If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California privacy notice.
 Return to top
 How to contact Facebook with questions
 You can learn more about how privacy works on Facebook and on Instagram. If you have questions about this Policy, you can contact us as described below.
