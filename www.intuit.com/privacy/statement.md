@@ -64,6 +64,11 @@ The personal information that we receive about you depends on the context of you
 
 
 
+
+
+
+Learn more about the GLBA notice here.
+
 Creating an account. We collect information when you create an account, interact with the Intuit Platform or activate a subscription. Personal information may include your contact information (such as your name, address, phone number and email), profile photo, billing information (your payment information), usernames and credentials.
 Identification information. We collect information to verify your identity, including your name, social security number, social insurance number, driver’s license numbers, government-issued identification details, for example to verify your identity in order to help you file your tax return.
 Customer support, product research, training and feedback. We may collect personal information when you reach out to us for support, give us feedback, participate in optional surveys, product research or training and you choose to share.
