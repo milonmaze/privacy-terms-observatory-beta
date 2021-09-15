@@ -222,7 +222,6 @@ Amazon Group Companies
 Non-Exhaustive List of Applicable Amazon Patents and Applicable Licensed Patents
 Non-Exhaustive List of Amazon Trademarks
 Amazon.com Gift Card and Electronic Message Customization Service Terms
-Children’s Privacy Notice
 Quick solutions
 	
 
