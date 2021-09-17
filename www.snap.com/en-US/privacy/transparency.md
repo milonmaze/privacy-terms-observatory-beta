@@ -33,7 +33,7 @@ Every day, more than five billion Snaps are created using our Snapchat camera on
 
 Enforcement actions could include removing the offending content; terminating or limiting the visibility of the account in question; and referring the content to law enforcement. If an account is terminated for violating our Guidelines, the account holder is not permitted to create a new account or use Snapchat again. 
 
-During the reporting period, we saw a Violative View Rate (VVR) of 0.08 percent, which means that out of every 10,000 views of content on Snap, eight contained content that violated our guidelines. 
+During the reporting period, we saw a Violative View Rate (VVR) of 0.08 percent. VVR is defined as the percentage of story snap views that contained violating content, as a proportion of all snap views across Snap. In other words, out of every 10,000 snap views on Snap, eight contained content that violated our guidelines. 
 
 We offer in-app reporting tools that allow Snapchatters to quickly and easily report content to our Trust and Safety teams, who investigate the report, and take appropriate action. Our teams work to take enforcement actions as quickly as possible and, in the vast majority of cases, take action within two hours of receiving an in-app report. 
 
@@ -80,7 +80,7 @@ Updating our community guidelines to add manipulating media for misleading purpo
 
 Working with our Discover editorial partners to make sure publishers didn’t inadvertently amplify any misinformation through news coverage;
 
-Asking Snap Stars, whose content also appears on our Discover content platform to make sure they complied with our Community Guidelines and didn’t unintentionally spread false information;
+Asking Snapstrellas, whose content also appears on our Discover content platform to make sure they complied with our Community Guidelines and didn’t unintentionally spread false information;
 
 Having clear enforcement outcomes for any violating content — rather than labeling content, we simply removed it, immediately reducing the harm of it being shared more widely; and
 
@@ -108,7 +108,7 @@ Terrorist & Extremist Content
 
 At Snap, monitoring developments in this space and mitigating any potential vectors for abuse on our platform was a part of our U.S. election integrity task force work. Both our product architecture and the design of our Group Chat functionality limits the spread of harmful content and opportunities to organize. We offer Group Chats, but they are limited in size to several dozen members, are not recommended by algorithms, and are not discoverable on our platform if you are not a member of that Group. 
 
-During the second half of 2020, we removed eight accounts for violations of our prohibition of terrorism, hate speech, and extremist content.
+During the second half of 2020, we removed eight accounts for violations of our prohibition of terrorism and extremist content.
 
 Total Account Deletions	8
 
@@ -152,11 +152,7 @@ United States
 Government Requests and Copyrighted Content Takedown Notices (DMCA)
 About Transparency Reporting
 
-PDF + CSV Download
-
-Direct downloads for:
-
-PDF Download
+CSV Download:
 CSV Download
 
 Transparency Report Archives
