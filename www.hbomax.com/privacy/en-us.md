@@ -1,8 +1,8 @@
-LIMITED TIME 6 MONTHS FOR THE PRICE OF 3 ON THE AD-FREE MONTHLY PLAN
+LIMITED TIME $7.49/MONTH FOR 6 MONTHS ON THE AD-FREE MONTHLY PLAN
 
 GET THE DEAL
 
-$7.49/month for 6 months. Billed on a monthly basis. Discount applies to the first 6 months only. Offer valid through 9/26/21. Terms apply. See offer details.
+Offer valid through 9/26/21. Terms apply. See offer details.
 
 A WARNER MEDIA COMPANY
 
