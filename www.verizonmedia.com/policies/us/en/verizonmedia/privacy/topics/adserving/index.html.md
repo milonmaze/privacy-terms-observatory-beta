@@ -36,7 +36,7 @@ US: Digital Advertising Alliance (DAA) - Learn more about its principles or opt-
 Europe: European Interactive Digital Advertising Alliance (EDAA) - Learn more about its principles, or opt-out from any of its participating companies.
 Canada: Digital Advertising Alliance of Canada (DAAC) - Learn more about its principles, or opt-out from any of its participating companies.
 Australia: For users of Yahoo Sevens, See the Australian Digital Advertising Alliance (ADAA) - Learn more about its principles or opt-out from any of its participating companies.
-Japan: For users of ONE by AOL and Yahoo Japan KK, see the Data Driven Advertising Initiative (DDAI) - Learn more about its principles or opt-out from any of its participating companies.
+Japan: For users of ONE by AOL and Verizon Media Japan KK, see the Data Driven Advertising Initiative (DDAI) - Learn more about its principles or opt-out from any of its participating companies.
 New Zealand: Interactive Advertising Bureau of New Zealand (IAB) - Learn more about its principles.
 Your Choices
 
