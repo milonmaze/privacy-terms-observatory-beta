@@ -19,7 +19,7 @@ You can request to download a copy of all your data we have stored right from yo
 Request to download your data
 Deleta data
 
-You’re also able to request that we delete your data from one or many offerings. We walk you through selecting the data you want to remove, and let you know how it’ll affect your account.
+You are also able to request that we delete your data from one or many offerings. We walk you through selecting the data you want to remove, and let you know how it’ll affect your account.
 
 Request to delete your data
 Marketing preferences
