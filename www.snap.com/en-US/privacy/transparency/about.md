@@ -1,5 +1,6 @@
 ← Back to Transparency Report
 About Transparency Reporting
+July 1, 2020 – December 31, 2020
 
 Throughout this Transparency Report, we highlight how we enforce safety across our platform. Beyond simply reporting our data, here we provide additional context and insight into our safety principles and practices, as well as links to various safety and privacy resources.  
 
