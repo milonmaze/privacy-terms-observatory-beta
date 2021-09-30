@@ -1,4 +1,6 @@
 Skip to content
+PWA Summit: a virtual conference to help everyone succeed with PWAs is on Oct 6 & 7.
+Get your free ticket Dismiss
 Developer Program Policies
 
 Published on Friday, February 28, 2014 • Updated on Tuesday, June 29, 2021
@@ -165,7 +167,14 @@ Developers are important partners in maintaining a great user experience in the 
 
 Repetitive Content: We don't allow any developer, related developer accounts, or their affiliates to submit multiple extensions that provide duplicate experiences or functionality on the Chrome Web Store. Extensions should provide value to users through the creation of unique content or services.
 
-Keyword Spam: We don't allow extensions with misleading, improperly formatted, non-descriptive, irrelevant, excessive, or inappropriate metadata, including but not limited to the extension's description, developer name, title, icon, screenshots, and promotional images. Developers must provide a clear and well-written description. We also don't allow unattributed or anonymous user testimonials in the product's description.
+Keyword Spam: Keyword Spam is the practice of including irrelevant or excessive keywords in an extensions description in an attempt to manipulate its ranking, resulting in a spammy, negative user experience. We don't allow extensions with misleading, improperly formatted, non-descriptive, irrelevant, excessive, or inappropriate metadata, including but not limited to the extension's description, developer name, title, icon, screenshots, and promotional images. Developers should focus on providing a clear and well-written description that uses keywords appropriately and in context.
+
+Some examples of Keyword Spam include:
+
+Lists of sites/brands/keywords without substantial added value
+Lists of regional locations
+Unnatural repetition of the same keyword more than 5 times
+Unattributed or anonymous user testimonials in the product's description.
 
 User Ratings, Reviews, and Installs: Developers must not attempt to manipulate the placement of any extensions in the Chrome Web Store. This includes, but is not limited to, inflating product ratings, reviews, or install counts by illegitimate means, such as fraudulent or incentivized downloads, reviews and ratings.
 
@@ -322,9 +331,11 @@ You must clearly identify that you, not Google, are the seller of the products o
 Regardless of the method of payment, you may not process payment transactions that are prohibited for Google Checkout under the Google Checkout Seller Terms of Service. This includes any illegal transaction or the sale or exchange of any illegal or prohibited goods or services, including the prohibited products set forth in the Content Policies for Google Checkout.
 #
 Policy Enforcement
-
+Repeat abuse
 Serious or repeated violations of the Chrome Web Store Distribution Agreement or these Program Policies will result in the suspension of your developer account, and possibly related developer accounts. Additionally, you may be banned from using the Chrome Web Store. In extreme cases, this may also result in the suspension of related Google services associated with your Google account. Repeated infringement of intellectual property rights, including copyright, will also result in account termination. For more information on Google's copyright policies, please use this tool.
-
+Enforcement Circumvention
+Any attempt to circumvent intended limitations or enforcement actions will result in the immediate termination of your developer account, and possibly related developer accounts.
+Notifications and Appeals
 In the event that your Product is removed from Chrome Web Store, you will receive an email notification to that effect, with further instructions if applicable. Please verify that the associated publisher account with your Product can receive emails from external parties and not get flagged as Spam to ensure that you receive all communications in a timely manner.
 
 Last updated: Tuesday, June 29, 2021 Improve article
