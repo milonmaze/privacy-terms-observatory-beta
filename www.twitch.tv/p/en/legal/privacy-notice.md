@@ -30,7 +30,7 @@ Security
 Help
 Jobs
 Languages
-Last modified on 10/15/2020
+Last modified on 09/29/2021
 Privacy Notice
 
 This Twitch Privacy Notice applies to your use of www.twitch.tv, and any other websites, applications, or services provided, owned, or operated by Twitch Interactive, Inc. (with its affiliates, “Twitch”) that link to this Privacy Notice (collectively, the “Twitch Services”). Twitch values the privacy of users, subscribers, publishers, members, and others who visit and use the Twitch Services (collectively or individually, “you” or “users”) and wants you to be familiar with how we collect, use, and disclose personal information from and about you. This notice describes our privacy policy. By visiting www.twitch.tv, setting up your Twitch account, or using the Twitch Services, you are accepting the practices described in this Privacy Notice, to the extent permitted by law.
@@ -58,7 +58,7 @@ Merger or Sale
 International Data Transfers
 Changes and Updates to This Privacy Notice
 Twitch Contact Information
-California Privacy Disclosures
+Additional Information for Certain Jurisdictions
 Personal Information Twitch Collects About You
 
 We obtain information about you through the means discussed below when we provide the Twitch Services. Please note that we need certain types of information so that we can provide the Twitch Services to you. If you do not provide us with such information, or ask us to delete it, you may no longer be able to access or use the Twitch Services.
@@ -170,6 +170,11 @@ Please contact Twitch with any questions or comments about this Privacy Notice a
 
 For the purposes of the General Data Protection Regulation, Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative in the EU to act on its behalf with regard to its obligations under Article 27 of the General Data Protection Regulation. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at 1 New Oxford Street WC1A 1BA, UK or by email to privacy@twitch.tv.
 
+Additional Information for Certain Jurisdictions
 California Privacy Disclosures
 
 Click here to read additional disclosures required under the California Consumer Privacy Act and other California laws.
+
+Republic of Korea Privacy Disclosures
+
+Click here to read additional disclosures required under the Personal Information Protection Act.
