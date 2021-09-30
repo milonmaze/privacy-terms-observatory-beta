@@ -3,7 +3,7 @@ Help & Customer Service
 
 Find more solutions
 
-Digital Services and Device Support  ›  Amazon Device and Digital Services Terms, Warranties, and Notices  ›  Alexa and Alexa Device Terms, Warranties, and Notices  ›  Legal & Compliance (On-Device)  › 
+Digital Services and Device Support › Amazon Device and Digital Services Terms, Warranties, and Notices › Alexa and Alexa Device Terms, Warranties, and Notices › Legal & Compliance (On-Device)›
 Children's Privacy Disclosure
 Last updated: July 8, 2020
 
@@ -54,9 +54,9 @@ Yes
 No
 ‹ All Help Topics
 Amazon Device and Digital Services Terms, Warranties, and Notices
-Children’s Privacy Disclosure
-Safety & Compliance
 Legal Notices
+Safety & Compliance
+Children’s Privacy Disclosure
 Quick solutions
 	
 
