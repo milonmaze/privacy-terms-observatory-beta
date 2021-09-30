@@ -47,7 +47,7 @@ At Snap, we make your privacy a priority. We know your trust is earned every tim
 
 Safety & Impact Blog
 
-At Snap, we make your privacy a priority. We know your trust is earned every time you use Snapchat, or any of our other products—that is why we treat your information differently than most other tech companies. Even though our products are constantly evolving, our privacy principles and commitment to privacy remain unchanged.
+Launched in April 2021, our blog aims to serve as a helpful resource for anyone who wants to better understand how people experience our product, or the many stakeholders and advocates who seek to better understand how we approach critical issues around safety and trust.
 
 Hi! We use cookies and similar technologies (“cookies”), including third-party cookies, on this website to help operate and improve your experience on our site, monitor our site performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, go here for our cookie policy! By clicking "Accept Cookies" below, you are giving us consent to use cookies (except consent is not required for cookies necessary to run our site). You can change your cookie settings, and withdraw your consent at any time, by clicking on “Cookie Settings” below.
 ACCEPT COOKIESCookie Settings
