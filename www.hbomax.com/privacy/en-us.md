@@ -1,9 +1,3 @@
-LIMITED TIME $7.49/MONTH FOR 6 MONTHS ON THE AD-FREE MONTHLY PLAN
-
-GET THE DEAL
-
-Offer valid through 9/26/21. Terms apply. See offer details.
-
 A WARNER MEDIA COMPANY
 
 Effective Date: June 22, 2021
