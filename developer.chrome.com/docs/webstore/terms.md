@@ -1,4 +1,6 @@
 Skip to content
+PWA Summit: a virtual conference to help everyone succeed with PWAs is on Oct 6 & 7.
+Get your free ticket Dismiss
 Google Chrome Web Store Developer Agreement
 
 Published on Friday, February 28, 2014 • Updated on Tuesday, May 4, 2021
