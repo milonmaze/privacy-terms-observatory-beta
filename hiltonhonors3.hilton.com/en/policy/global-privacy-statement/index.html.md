@@ -35,10 +35,10 @@ results were found. Press up and down key to select.
 
 Arrival
 OPEN CALENDAR
-Friday
+Wednesday
 Departure
 OPEN CALENDAR
-Saturday
+Thursday
 
 Use Points
 
