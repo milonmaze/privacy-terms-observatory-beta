@@ -3,7 +3,7 @@ Help & Customer Service
 
 Find more solutions
 
-Security and Privacy  ›  Legal Policies  › 
+Security and Privacy › Legal Policies›
 Amazon.com Privacy Notice
 
 Last updated: February 12, 2021. To see prior version, click here.
@@ -216,12 +216,12 @@ Yes
 No
 ‹ All Help Topics
 Legal Policies
+Conditions of Use
 Amazon.com Privacy Notice
 Amazon Group Companies
-Amazon.com Gift Card and Electronic Message Customization Service Terms
-Non-Exhaustive List of Amazon Trademarks
-Conditions of Use
 Non-Exhaustive List of Applicable Amazon Patents and Applicable Licensed Patents
+Non-Exhaustive List of Amazon Trademarks
+Amazon.com Gift Card and Electronic Message Customization Service Terms
 Quick solutions
 	
 
