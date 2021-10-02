@@ -122,7 +122,7 @@ Learn more about section 11
 
 For additional regional disclosures for residents of certain U.S. states, including California, please review our State Privacy Disclosures
 - opens in new window or tab
- page. For additional disclosures for specific regions or countries, including Brazil, please review our Regional Privacy Disclosures
+ page. For additional disclosures for specific regions or countries, including Brazil and mainland of People's Republic of China, please review our Regional Privacy Disclosures
 - opens in new window or tab
  page.
 
