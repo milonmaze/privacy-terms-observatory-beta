@@ -183,5 +183,5 @@ Yahoo also participates several non-US self-regulatory bodies:
 
 European Interactive Digital Advertising Alliance (EDAA).  Learn more about its principles or opt out from any of its participating companies.
 Canada: Digital Advertising Alliance of Canada (DAAC) – Learn more about its principles or opt out from any of its participating companies.
-Japan:  For users of ONE by AOL and Verizon Media Japan KK, see the Data Driven Advertising Initiative (DDAI) – Learn more about its principles or opt out from any of its participating companies. 
+Japan:  For users of ONE by AOL and Boundless Inc., see the Data Driven Advertising Initiative (DDAI) – Learn more about its principles or opt out from any of its participating companies. 
 New Zealand: Interactive Advertising Bureau of New Zealand (IAB) – Learn more about its principles.
