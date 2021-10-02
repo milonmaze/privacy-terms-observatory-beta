@@ -1,4 +1,3 @@
-GitHub Privacy Statement
 In this article
 The short version
 Summary
@@ -20,6 +19,7 @@ Changes to our Privacy Statement
 License
 Contacting GitHub
 Translations
+GitHub Privacy Statement
 
 Effective date: December 19, 2020
 
