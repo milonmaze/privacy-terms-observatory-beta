@@ -1,5 +1,7 @@
 Skip Navigation
+ 
 Privacy Center
+ 
 EFFECTIVE NOVEMBER 1, 2021
 Print the full Privacy Policy
 AT&T Privacy Policy
@@ -35,6 +37,8 @@ Other privacy information
 Changes in ownership or to the Policy
 
 Information specific to Children
+
+Your Nevada Privacy Rights
 
 Your California Privacy Rights and other Information for our California customers
 
