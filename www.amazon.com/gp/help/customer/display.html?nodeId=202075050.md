@@ -3,7 +3,7 @@ Help & Customer Service
 
 Find more solutions
 
-Security and Privacy›
+Security and Privacy  › 
 Interest-Based Ads
 
 Interest-based ads are sometimes referred to as personalized or targeted ads. We show interest-based ads to display features, products, and services that might be of interest to you. In providing interest-based ads, we follow the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance (a coalition of marketing, online advertising, and consumer advocacy organizations).
@@ -37,22 +37,22 @@ Yes
 No
 ‹ All Help Topics
 Security and Privacy
-How Amazon Uses Your Personal Information
-How Amazon Collects Your Personal Information
-How Amazon Protects Your Personal Information
-Manage Your Personal Information
-Request Your Personal Information
-Amazon and Your Personal Information
 Interest-Based Ads
-EU-US Privacy Shield
-About Cookies
-Third Party Cookies
-California Supply Chain Transparency Act Statement
 Law Enforcement Information Requests
-Communications from Amazon.com
-Legal Policies
+Request Your Personal Information
 Your Security
 Report Unsolicited Package or Brushing Scams
+Manage Your Personal Information
+Third Party Cookies
+How Amazon Collects Your Personal Information
+How Amazon Protects Your Personal Information
+California Supply Chain Transparency Act Statement
+Legal Policies
+EU-US Privacy Shield
+How Amazon Uses Your Personal Information
+Amazon and Your Personal Information
+Communications from Amazon.com
+About Cookies
 Quick solutions
 	
 
