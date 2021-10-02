@@ -1,6 +1,4 @@
 Skip to content
-PWA Summit: a virtual conference to help everyone succeed with PWAs is on Oct 6 & 7.
-Get your free ticket Dismiss
 Developer Program Policies
 
 Published on Friday, February 28, 2014 • Updated on Tuesday, June 29, 2021
@@ -339,7 +337,3 @@ Notifications and Appeals
 In the event that your Product is removed from Chrome Web Store, you will receive an email notification to that effect, with further instructions if applicable. Please verify that the associated publisher account with your Product can receive emails from external parties and not get flagged as Spam to ensure that you receive all communications in a timely manner.
 
 Last updated: Tuesday, June 29, 2021 Improve article
-
-We serve cookies on this site to analyze traffic, remember your preferences, and optimize your experience.
-More details
-Ok, Got it.
