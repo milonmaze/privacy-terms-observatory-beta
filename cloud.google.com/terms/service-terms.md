@@ -10,5 +10,5 @@ General Service Terms
 Service Terms
 Third-Party Terms
 Pricing and Billing Terms
-PREVIOUS VERSIONS (Last modified October 12, 2021)
+PREVIOUS VERSIONS (Last modified September 30, 2021)
 August 24, 2021 July 20, 2021 June 22, 2021 June 3, 2021 May 18, 2021 April 30, 2021 January 26, 2021 January 19, 2021 January 5, 2021 December 8, 2020 November 2, 2020 October 6, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 13, 2020 June 30, 2020 June 10, 2020 April 29, 2020 April 27, 2020 April 22, 2020 April 15, 2020 March 26, 2020 March 11, 2020 January 13, 2020 December 3, 2019 November 12, 2019 November 4, 2019 October 30, 2019 October 1, 2019 July 1, 2019 June 17, 2019 May 31, 2019 April 9, 2019 March 27, 2019 January 17, 2019 December 13, 2018 October 19, 2018 September 28, 2018 August 29, 2018 August 15, 2018 August 2, 2018 July 24, 2018 July 6, 2018 June 25, 2018 June 5, 2018 May 8, 2018 April 24, 2018 April 18, 2018 April 4, 2018 March 21, 2018 March 14, 2018 February 16, 2018 November 30, 2017 November 13, 2017 October 31, 2017 October 10, 2017 October 5, 2017 September 25, 2017 September 13, 2017 July 18, 2017
