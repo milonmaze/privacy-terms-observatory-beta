@@ -126,6 +126,6 @@ Privacy-related pages
 
 Privacy policy · FAQ · Glossary of key terms · Wikimedia blog privacy policy · Subpoena FAQ · Access to nonpublic information · Data retention guidelines · Donor policy · Requests for user information
 
-Categories: Privacy policyPolicy
+Categories: Privacy policyPolicies
 Navigation menu
 Search
