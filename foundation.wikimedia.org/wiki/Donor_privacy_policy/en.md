@@ -212,6 +212,6 @@ Donor Privacy Policy (2009)
 
 Please note that in the event of any differences in meaning or interpretation between the original English version of this Donor Privacy Policy and a translation, the original English version takes precedence.
 
-Category: Policy
+Category: Policies
 Navigation menu
 Search
