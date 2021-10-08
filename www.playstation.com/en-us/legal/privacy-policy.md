@@ -183,17 +183,23 @@ Complaints
 
 ESRB Privacy Certified
 
-This Privacy Statement and the confirmation page at www.esrb.org/confirm/siea-confirmation.aspx or accessed by clicking the seal in the footer of any page of playstation.com) confirms that SIE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Certified Program. We have undertaken this privacy initiative and our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB.
+This Privacy Statement and the confirmation page at www.esrb.org/confirm/siea-confirmation.aspx or accessed by clicking the seal in the footer of any page of playstation.com) confirms that SIE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Certified Program. We have undertaken this privacy initiative and our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB.
+
+ 
 
 How to Contact Us About this Privacy Policy
 
-For further information on our Privacy Policy, or how users can review or change their information, please contact us at:
+ 
 
-By Phone at:
+For further information on our Privacy Policy, or how users can review or change their information, please contact us:
 
-1-800-345-7669
+ 
 
-By Mail at:
+- Live Chat: https://support.playstation.com/LiveChatRequest
+
+- By Phone at: 1-800-345-7669
+
+- By Mail at:
 
 SONY INTERACTIVE ENTERTAINMENT CONSUMER SERVICES DEPARTMENT
 
@@ -201,20 +207,8 @@ SONY INTERACTIVE ENTERTAINMENT CONSUMER SERVICES DEPARTMENT
 
 SAN MATEO, CALIFORNIA, 94404
 
-Online: www.playstation.com/support
-
-SIE is a licensee of ESRB's Privacy Certified Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at www.esrb.org/privacy/contact.aspx or:
-
-ESRB
-
-Attn: Privacy Certified Program
-
-420 Lexington Ave, Suite 2240
-
-New York, NY 10170
-
 Changes to this Policy
 
 We may revise this Privacy Policy at any time and we will update this Policy with any revisions. By continuing to access or use the Services after those changes become effective, you acknowledge and accept that PI will be handled in accordance with the revised Privacy Policy.
 
-Last Revised: 2021-03
+Last Revised: 2021-09
