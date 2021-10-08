@@ -114,6 +114,8 @@ Children
 Zoom does not allow children under the age of 16 to sign up for a Zoom account.
 
 
+For educational organizations that use Zoom Products to provide educational services to children under 18 using Zoom Products, Zoom’s Children’s Educational Privacy Statement is available here.
+
 How to Contact Us
 
 To exercise your rights or if you have any privacy-related questions or comments related to this Privacy Statement, please send an email to privacy@zoom.us.
