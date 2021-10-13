@@ -15,6 +15,9 @@ Keeping your personal data safe
 Children
 Changes to this Policy
 How to contact us
+
+To help you understand this Policy, our privacy videos bring privacy at Spotify to life.
+
 1. About this Policy
 
 This Policy describes how we process your personal data at Spotify USA Inc.
@@ -77,7 +80,7 @@ You also have the right to contact the Swedish Authority for Privacy Protection 
 
 3. Personal data we collect about you
 
-These tables set out the categories of personal data we collect and use.
+These tables set out the categories of personal data we collect and use. You can also watch our video about Personal Data at Spotify.
 
 Collected when you sign up for the Spotify Service or when you update your account
 Category	Description
@@ -109,6 +112,7 @@ Usage Data
 There are a few types of information this includes, detailed in the following sections.
 Information about how you use Spotify
 Examples include:
+
 Information about your Spotify Service Option.
 Your actions with the Spotify Service (including date and time), such as:
 search queries
@@ -121,7 +125,9 @@ interactions with other Spotify users
 your use of third party services, devices and applications in connection with the Spotify Service
 Inferences (i.e., our understanding) of your interests and preferences based on your usage of the Spotify Service.
 Content you post to any part of the Spotify Service, such as images, text, playlist titles, communications, and other types of content.
-Your technical dataExamples include:
+
+Your technical data
+Examples include:
 
 URL information
 Online identifiers such as cookie data and IP addresses
@@ -145,7 +151,6 @@ This may be understood from technical data (e.g. your IP address, language setti
 We need this to meet geographic requirements in our agreements with the owners of content on the Spotify Service, and to deliver content and advertising that’s relevant to you.
 Your device sensor data
 Motion-generated or orientation-generated mobile sensor data (e.g. accelerometer or gyroscope) if needed to provide features of the Spotify Service that require this data.
-
 Additional data you may choose to give us
 
 Categories	Description
@@ -202,6 +207,8 @@ our purpose for processing your personal data
 our legal justifications (each called a "legal basis") under data protection law, for each purpose
 categories of personal data which we use for each purpose (see more about these categories in Section 3 'Personal data we collect about you')
 
+You can also watch our video about Personal Data at Spotify.
+
 Here is a general explanation of each "legal basis" to help you understand the table:
 
 Performance of a Contract: When it's necessary for Spotify (or a third party) to process your personal data to:
@@ -212,7 +219,7 @@ Consent: When Spotify asks you to actively indicate your agreement to Spotify's 
 Compliance with Legal Obligations: When Spotify must process your personal data to comply with a law.
 Purpose for processing your data	Legal basis that permits the purpose	Categories of personal data used for the purpose
 
-To provide the personalized Spotify Service.	
+To provide the personalized Spotify Service. (You can watch our video about Personalization to understand more.)	
 Performance of a Contract
 Legitimate Interest
 Consent
