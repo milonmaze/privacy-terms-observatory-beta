@@ -1,6 +1,6 @@
 A WARNER MEDIA COMPANY
 
-Effective Date: June 22, 2021
+Effective Date: 10/19/2021
 
 HBO Max Privacy Policy
 
