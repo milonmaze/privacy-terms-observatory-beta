@@ -24,4 +24,4 @@ California Requirements
 Korea Requirements
 Updates to this Notice
 PREVIOUS VERSIONS (Last modified May 30, 2021)
-December 7, 2020
+December 7, 2020 November 12, 2020
