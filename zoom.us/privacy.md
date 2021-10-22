@@ -263,4 +263,4 @@ English
     
 
 
-Copyright ©2021 Zoom Video Communications, Inc. All rights reserved. Privacy Trust Center Legal & Compliance Do Not Sell My Personal Information
+Copyright ©2021 Zoom Video Communications, Inc. All rights reserved. Privacy Trust CenterDo Not Sell My Personal Information Legal & Compliance Do Not Sell My Personal Information
