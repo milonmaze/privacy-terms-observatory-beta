@@ -15,21 +15,21 @@ Government requests for customer data must comply with applicable laws. A subpoe
 Requests by country/region
 Apply filters 
 Apply filters 
-2020 (Jul-Dec) - Global
+2021 (Jan-Jun) - Global
 Requests
 
 Total number of requests
 
- 24,798
+ 27,809
 
 Accounts/users specified in request
 
- 45,258
+ 44,650
 Disclosures
-5.34%
-53.43%
-15.42%
-25.81%
+4.35%
+50.00%
+17.71%
+27.93%
 % Content
 % Non-Content data
 % No data found
@@ -65,6 +65,7 @@ Where does Microsoft deploy encryption and what level of encryption do you use?
 Why don’t you use encryption universally?
 What do you do with encryption keys?
 Do you give governments access to platform encryption keys?
+Are legal demands subject to secrecy orders included in your reporting?
 Expand all | Collapse all
 What is the process for disclosing customer information in response to government legal demands?
 Does Microsoft provide any data to governments absent a formal legal request?
