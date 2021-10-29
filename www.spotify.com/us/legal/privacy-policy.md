@@ -42,7 +42,7 @@ We have included further information about rights and disclosures as required un
 
 Privacy laws, including the General Data Protection Regulation ("GDPR"), give rights to individuals over their personal data.
 
-See your rights and their descriptions in this table.
+See your rights and their descriptions in this table. You can also watch our video about Your Privacy Controls.
 
 
 	It’s your right to...
