@@ -1,3 +1,5 @@
+Photograph a historic site, help Wikipedia, and win a prize. Participate in the world's largest photography competition this month! Learn more
+
 Wikimedia blog privacy policy
 Jump to navigation
 Jump to search
