@@ -17,4 +17,4 @@ Invest: 1-833-720-6468
 
 
 
-Please note, if you now reside outside of the U.S., we will not be able to maintain your Marcus Invest account. Please reach out to invest-support@marcus.com for further assistance.
+Please note, if you now reside outside of the U.S., we will not be able to maintain your Marcus Invest account.
