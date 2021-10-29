@@ -1,3 +1,5 @@
+Photograph a historic site, help Wikipedia, and win a prize. Participate in the world's largest photography competition this month! Learn more
+
 The Wikimedia Donor Privacy Policy
 < Donor privacy policy
 Jump to navigation
