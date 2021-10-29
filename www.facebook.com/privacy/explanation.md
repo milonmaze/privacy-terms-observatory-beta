@@ -32,6 +32,13 @@ Facebook Privacy Page
 Facebook Safety Page
 Facebook Site Governance Page
 EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Notice
+
+The Facebook company is now Meta. While our company name is changing, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
+
+
+
+
+
 Data Policy
 This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products). You can find additional tools and information in the Facebook Settings and Instagram Settings.
 Return to top
