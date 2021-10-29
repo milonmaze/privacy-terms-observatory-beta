@@ -30,6 +30,7 @@ Privacy Policy
 Reddit Privacy Policy
 Effective September 12, 2021. Last Revised August 12, 2021
 
+German language version
 
 We want you to understand how and why Reddit, Inc. (“Reddit,” “we” or “us”) collects, uses, and shares information about you when you use our sites, mobile apps, widgets, and other online products and services (collectively, the “Services”) or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services including Reddit Gifts, which maintains a separate privacy notice that incorporates this Privacy Policy by reference.
 
