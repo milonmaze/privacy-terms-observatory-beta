@@ -8,7 +8,7 @@ Yahoo, previously known as Verizon Media, is a technology and media company that
 
 We provide control tools to help you manage your experience with us. If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy. If you have not yet agreed to this Privacy Policy, the legacy Yahoo Privacy Policy or legacy Oath Privacy Policy (for AOL) still apply to your account. For Yahoo products or services that are accessed without signing in to an account, this Privacy Policy applies to those products and services as of May 25, 2018. If you are creating a new account, the terms below apply starting today.
 
-Except as set out elsewhere in this Privacy Policy, when we refer to ‘Yahoo’, it means Oath Inc., the US-established company that supplies the Services to you (and acts as data controller of the personal data Yahoo collects when you use those Services).
+Except as set out elsewhere in this Privacy Policy, when we refer to ‘Yahoo’, it means Yahoo Inc., the US-established company that supplies the Services to you (and acts as data controller of the personal data Yahoo collects when you use those Services).
 Our Privacy Pledge
 
 Our commitment is to put users first. We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.
