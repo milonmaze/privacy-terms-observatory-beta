@@ -1,8 +1,7 @@
 Help Center
-Help Topics
-Join Netflix
-Sign In
-Help Home
+JOIN NETFLIX
+SIGN IN
+ Back to Help Home
 PRINT
 Privacy Statement
 
