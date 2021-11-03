@@ -33,16 +33,6 @@ Manage your data
 
 
 
-Send a privacy question
-
-
-
-
-Report a security issue
-
-
-
-
 Manage your marketing preferences
 
 
@@ -53,7 +43,22 @@ Manage your cookie preferences
 
 
 
-Actions for customers in the EU
+Report a security issue
+
+
+
+
+Send a privacy question
+
+
+
+
+Instructions for authorized agents
+
+
+
+
+Help for Mailchimp members, contacts & visitors
 
 
 
@@ -63,4 +68,4 @@ Help for Credit Karma members
 
 
 
-Instructions for authorized agents
+Actions for customers in the UK
