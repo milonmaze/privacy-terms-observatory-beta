@@ -37,22 +37,22 @@ Yes
 No
 ‹ All Help Topics
 Security and Privacy
-Interest-Based Ads
-Law Enforcement Information Requests
-Request Your Personal Information
-Your Security
-Report Unsolicited Package or Brushing Scams
-Manage Your Personal Information
-Third Party Cookies
+How Amazon Uses Your Personal Information
 How Amazon Collects Your Personal Information
 How Amazon Protects Your Personal Information
-California Supply Chain Transparency Act Statement
-Legal Policies
-EU-US Privacy Shield
-How Amazon Uses Your Personal Information
+Manage Your Personal Information
+Request Your Personal Information
 Amazon and Your Personal Information
-Communications from Amazon.com
+Interest-Based Ads
+EU-US Privacy Shield
 About Cookies
+Third Party Cookies
+California Supply Chain Transparency Act Statement
+Law Enforcement Information Requests
+Communications from Amazon.com
+Legal Policies
+Your Security
+Report Unsolicited Package or Brushing Scams
 Quick solutions
 	
 
