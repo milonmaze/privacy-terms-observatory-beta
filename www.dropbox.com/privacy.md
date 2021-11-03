@@ -5,6 +5,8 @@ DMCA Policy
 Acceptable Use
 Open Source
 
+Dropbox’s Privacy Policy will be changing effective January 12, 2022. Click here to review.
+
 If your organization signed a Dropbox Business or Dropbox Enterprise Agreement with Dropbox, that Agreement may have modified the privacy policy below. Please contact your organization’s Admin for details.
 
 Dropbox Privacy Policy
