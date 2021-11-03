@@ -19,7 +19,6 @@ Best Movie Lists
 Best TV Lists
 YouTube Channel Reviews
 Sensical
- »
 Common Sense Selections
 Books
  »
@@ -104,7 +103,7 @@ Free Weekly Webinars
 Recursos en español
 Donate
 Common Sense Media Plus
-Privacy
+Privacy policy
 Our Mission
 Community Guidelines
 Privacy
