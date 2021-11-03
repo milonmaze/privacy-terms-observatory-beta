@@ -1,7 +1,5 @@
 Skip Navigation
- 
 Privacy Center
- 
 EFFECTIVE NOVEMBER 1, 2021
 Print the full Privacy Policy
 AT&T Privacy Policy
@@ -57,4 +55,4 @@ View the full Privacy Policy
 
 
 
-See the DIRECTV privacy policy at directv.com/privacy.
+See the DIRECTV privacy policy, which includes U-verse TV at directv.com/privacy.
