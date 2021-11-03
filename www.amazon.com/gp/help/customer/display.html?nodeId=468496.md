@@ -216,13 +216,13 @@ Yes
 No
 ‹ All Help Topics
 Legal Policies
+3rd Party Licensing Notice (Mobile App)
+Conditions of Use
 Amazon.com Privacy Notice
 Amazon Group Companies
-Amazon.com Gift Card and Electronic Message Customization Service Terms
-Non-Exhaustive List of Amazon Trademarks
-Conditions of Use
-3rd Party Licensing Notice (Mobile App)
 Non-Exhaustive List of Applicable Amazon Patents and Applicable Licensed Patents
+Non-Exhaustive List of Amazon Trademarks
+Amazon.com Gift Card and Electronic Message Customization Service Terms
 Quick solutions
 	
 
