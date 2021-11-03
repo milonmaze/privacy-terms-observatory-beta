@@ -54,9 +54,25 @@ Yes
 No
 ‹ All Help Topics
 Amazon Device and Digital Services Terms, Warranties, and Notices
-Children’s Privacy Disclosure
-Safety & Compliance
-Legal Notices
+Amazon Glow Terms
+Amazon Appstore Terms & Conditions
+Amazon Device Terms
+Amazon Games and Software Terms of Use
+Amazon Astro Terms
+Amazon Halo Terms
+Amazon Music - Terms & Conditions
+Amazon Photos & Amazon Drive - Terms & Conditions
+Amazon Dash Terms, Warranties, and Notices
+Alexa and Alexa Device Terms, Warranties, and Notices
+Fire TV Terms & Conditions
+Amazon Games
+GameOn Community Guidelines
+GameOn Terms and Conditions
+Kindle E-Reader and Fire Tablet Terms, Warranties, and Notices
+Luna and Luna Controller Terms
+Managing Your Devices, Content, and Account Terms & Conditions
+Online Codes Terms of Use
+About Amazon Smart Thermostat ECOLOGO Silver Certification
 Quick solutions
 	
 
