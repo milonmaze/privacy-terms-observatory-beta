@@ -1,6 +1,8 @@
 Help Center
 JOIN NETFLIX
 SIGN IN
+Not finding Mobile Games in the Netflix app?
+We’re starting to gradually roll them out to all members. If you’re not seeing them, please check again later.
  Back to Help Home
 PRINT
 Privacy Statement
@@ -175,7 +177,7 @@ Cookies and similar technologies, web beacons, and resettable device identifiers
 
 Cookies are small data files that are commonly stored on your device when you browse and use websites and online services. We use other technologies such as browser storage and plugins (e.g., HTML5, IndexedDB, and WebSQL). Like cookies, these other technologies may store small amounts of data on your device. Web beacons (also known as clear gifs or pixel tags) often work in conjunction with cookies. In many cases, declining cookies will impair the effectiveness of web beacons associated with those cookies.
 
-If you use the Netflix app on a mobile device, tablet, or streaming media device, we may collect a resettable device identifier from your device. Resettable device identifiers (also known as advertising identifiers) are similar to cookies and are found on many mobile devices and tablets (for example, the "Identifier for Advertisers" (or IDFA) on Apple iOS devices and the "Google Advertising ID" on Android devices), and certain streaming media devices. Like cookies, resettable device identifiers  are used to make online advertising more relevant and for analytics and optimization purposes.
+If you use the Netflix app on a mobile device, tablet, or streaming media device, we may collect a resettable device identifier from your device. Resettable device identifiers (also known as advertising identifiers) are similar to cookies and are found on many mobile devices and tablets (for example, the "Identifier for Advertisers" (or IDFA) on Apple iOS devices and the "Google Advertising ID" on Android devices), and certain streaming media devices. Like cookies, resettable device identifiers are used to make online advertising more relevant and for analytics and optimization purposes.
 
 Why does Netflix use these technologies?
 
@@ -191,7 +193,7 @@ Advertising cookies and resettable device identifiers: These cookies and resetta
 
 In connection with our use of these technologies, some of the websites and apps where we advertise, as well as advertising technology companies that we use to purchase, deliver, optimize, and/or measure our advertisements (collectively “Advertising Partners”), may receive limited information from us as part of our campaign targeting, measurement, and optimization (e.g., steps completed in sign-up and site visit or app open/install information).
 
-Common uses of this type of information are to judge the effectiveness of and optimize ad campaigns, by allowing Advertising Partners to see when someone who saw an ad later signed up for our service.  Another common use is to make sure we do not serve ads trying to get individuals to sign up for the Netflix service if they are already a Netflix user.  
+Common uses of this type of information are to judge the effectiveness of and optimize ad campaigns, by allowing Advertising Partners to see when someone who saw an ad later signed up for our service. Another common use is to make sure we do not serve ads trying to get individuals to sign up for the Netflix service if they are already a Netflix user.  
 
 Netflix uses contractual and technical measures designed to prevent Advertising Partners from accessing information regarding specific title selections you make, URLs you land on, or shows you have watched on our service. We do not share information about title selections or your shows you have watched on our service. 
 
@@ -229,7 +231,7 @@ Characteristics of protected classifications under California or federal law: Th
 
 Commercial information: This includes information about products or services considered, obtained or purchased.
 
-Internet or other electronic network activity information:  We offer online services, so we collect CCPA personal information in this category, like your interactions with our service.
+Internet or other electronic network activity information: We offer online services, so we collect CCPA personal information in this category, like your interactions with our service.
 
 Geolocation data: Our online services don’t collect precise geolocation data from GPS sensors. However, we do collect IP addresses from which we can determine your general location.
 
@@ -277,7 +279,7 @@ We explain our sources of information in the Collection of Information section o
 
 You (the consumer) when you provide us CCPA personal information directly, and when we collect it automatically based on your interactions with us (for example, through your computer or other Netflix capable device you use to access our service (such as gaming systems, smart TVs, mobile devices, set top boxes, and other streaming media devices);
 
-Partners (other companies with whom you have a relationship). These Partners might include (depending on what services you use): your TV or Internet service provider, or other streaming media device providers who make our service available on their device; mobile phone carriers or other companies who provide services to you and collect payment for the Netflix service for distribution to us; voice assistant platform providers who enable interaction with our service via voice commands;  third party services that you are signed into that provide functions within Netflix games, such as multiplayer gameplay, leaderboards, and game saving options; and
+Partners (other companies with whom you have a relationship). These Partners might include (depending on what services you use): your TV or Internet service provider, or other streaming media device providers who make our service available on their device; mobile phone carriers or other companies who provide services to you and collect payment for the Netflix service for distribution to us; voice assistant platform providers who enable interaction with our service via voice commands; third party services that you are signed into that provide functions within Netflix games, such as multiplayer gameplay, leaderboards, and game saving options; and
 
 Other sources: service providers who support our business including security and payment service providers, and publicly-available sources, specifically, public posts on social media platforms; information about Internet Service Providers (ISPs) used by members to access Netflix through public databases associating IP addresses with ISPs.
 
@@ -299,7 +301,7 @@ If you do not own a Netflix account, we may not be able to respond to requests t
 
 To see the prior version of this document, please go to www.netflix.com/privacyupdates.
 
-Last Updated: January 1, 2021
+Last Updated: November 2, 2021
 
 English
 Español
