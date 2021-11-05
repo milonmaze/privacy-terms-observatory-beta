@@ -1,3 +1,5 @@
+Free credit active: Get started on DigitalOcean with a $100, 60-day credit for new users.
+
 Legal & Security
 Acceptable Use Policy
 Acceptable Use Policy
@@ -137,6 +139,7 @@ Support
 Sales
 Report Abuse
 System Status
+Share your ideas
 
 © 2021 DigitalOcean, LLC. All rights reserved.
 
