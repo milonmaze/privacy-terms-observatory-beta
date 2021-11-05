@@ -103,7 +103,7 @@ Free Weekly Webinars
 Recursos en español
 Donate
 Common Sense Media Plus
-Privacy policy
+Privacy
 Our Mission
 Community Guidelines
 Privacy
