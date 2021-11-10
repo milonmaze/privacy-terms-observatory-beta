@@ -1,7 +1,7 @@
 Skip to content
 Developer Program Policies
 
-Published on Friday, February 28, 2014 • Updated on Tuesday, June 29, 2021
+Published on Friday, February 28, 2014 • Updated on Tuesday, September 28, 2021
 
 Table of contents
 Caution
@@ -336,4 +336,4 @@ Any attempt to circumvent intended limitations or enforcement actions will resul
 Notifications and Appeals
 In the event that your Product is removed from Chrome Web Store, you will receive an email notification to that effect, with further instructions if applicable. Please verify that the associated publisher account with your Product can receive emails from external parties and not get flagged as Spam to ensure that you receive all communications in a timely manner.
 
-Last updated: Tuesday, June 29, 2021 Improve article
+Last updated: Tuesday, September 28, 2021 Improve article
