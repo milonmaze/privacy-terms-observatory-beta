@@ -156,18 +156,18 @@ CSV Download:
 CSV Download
 
 Transparency Report Archives
-July 1, 2020 - December 31, 2020
-January 1, 2020 - June 30, 2020
-July 1, 2019 - December 31, 2019
-January 1, 2019 - June 30, 2019
-July 1, 2018 - December 31, 2018
-January 1, 2018 - June 30, 2018
-July 1, 2017 - December 31, 2017
-January 1, 2017 - June 30, 2017
-July 1, 2016 - December 31, 2016
-January 1, 2016 - June 30, 2016
-July 1, 2015 - December 31, 2015
-January 1, 2015 - June 30, 2015
-November 1, 2014 - February 28, 2015
+July 2nd, 2020 - January 1st, 2021
+January 2nd, 2020 - July 1st, 2020
+July 2nd, 2019 - January 1st, 2020
+January 2nd, 2019 - July 1st, 2019
+July 2nd, 2018 - January 1st, 2019
+January 2nd, 2018 - July 1st, 2018
+July 2nd, 2017 - January 1st, 2018
+January 2nd, 2017 - July 1st, 2017
+July 2nd, 2016 - January 1st, 2017
+January 2nd, 2016 - July 1st, 2016
+July 2nd, 2015 - January 1st, 2016
+January 2nd, 2015 - July 1st, 2015
+November 2nd, 2014 - March 1st, 2015
 Hi! We use cookies and similar technologies (“cookies”), including third-party cookies, on this website to help operate and improve your experience on our site, monitor our site performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, go here for our cookie policy! By clicking "Accept Cookies" below, you are giving us consent to use cookies (except consent is not required for cookies necessary to run our site). You can change your cookie settings, and withdraw your consent at any time, by clicking on “Cookie Settings” below.
 ACCEPT COOKIESCookie Settings
