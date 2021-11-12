@@ -370,7 +370,7 @@ Platform Initiatives Hub
 Platform Terms
 Developer Policies
 Follow Us
-© 2021 Facebook
+© 2021 Meta
 About
 Create Ad
 Careers
