@@ -263,7 +263,7 @@ Buttons & Badges
 GET HELP
 Your Orders
 Shipping & Delivery
-30-day Return Policy
+Return Policy
 Review Professionals
 Suggested Professionals
 Accessibility
