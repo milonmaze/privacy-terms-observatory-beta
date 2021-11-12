@@ -68,3 +68,9 @@ Data Set
 Here is the data set of all the requests included in this transparency report.
 
 To access our previous Transparency Reports, please click here.
+
+×
+
+Zoom uses cookies and similar technologies on our website.Privacy Statement
+
+Cookies Settings
