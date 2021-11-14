@@ -2,7 +2,7 @@ Sign in
 
 Privacy Policy
 
-Date of Last Revision: July 19, 2021
+Date of Last Revision: November 11, 2021
 
 You can review the previous Privacy Policy here.
 
@@ -104,12 +104,14 @@ Students may “remix” (copy and then change or improve upon) projects made by
 
 Students age 13 or over can also, at their discretion, post their projects to their social media accounts.
 
-In our elementary school courses, Students create stories, games, or art using tools, such as Play Lab, which are limited to using artwork and sounds provided by Code.org. Students can write dialogues for these projects. Some text provided by Students in these tools is automatically analyzed and moderated to help prevent sharing of personal data like email addresses and phone numbers.
+In our elementary school courses, Students create stories, games, or art using tools, such as Play Lab and Sprite Lab, which are generally limited to using artwork and sounds provided by Code.org or uploaded by their teacher. Where we do allow custom uploads by Students in these tools (e.g., uploading an image for a Student-created storyboard), Students are advised never to upload any media containing Personal Information and we implement controls that block Student sharing of projects to the Code.org public gallery that contain custom uploads. Students can write dialogues for these projects. Some text provided by Students in these tools is automatically analyzed and moderated to help prevent sharing of personal data like email addresses and phone numbers.
 
-Our middle school and high school courses teach Students to make more complex apps and games. These tools allow the Students to upload custom photos, sounds and/or videos. (See below)
-Student-uploaded images, sounds, or videos (for App Lab, Game Lab, and Web Lab Projects)	Collected if a Student chooses to upload custom files. Creating apps with these programming tools is part of our courses for grades 6+.	Only Students age 13 and older, or Students under 13 who are working in a classroom whose Teacher has added the Student to a class section, can choose to upload custom images, sounds, and videos to the Code.org platform to use within apps or games that they create. Students under 13 are advised never to upload any media containing Personal Information.
+Our middle school and high school courses teach Students to make more complex apps and games, such as App Lab, Game Lab, and Web Lab. These tools allow the Students to upload custom photos, sounds and/or videos. (See below)
+Student-uploaded images, sounds, or videos	Collected if a Student chooses to upload custom files.	Only Students age 13 and older, or Students under 13 who are working in a classroom whose Teacher has added the Student to a class section, can choose to upload custom images, sounds, and videos to the Code.org platform to use within apps or games that they create in programing tools as part of our courses for grades 6+ (App Lab, Game Lab, and Web Lab). Students under 13 are advised never to upload any media containing Personal Information and we do not allow Students under the age of 13 to share projects created using these tools to the Code.org public gallery.
 
-These files are not used by Code.org for any purpose other than within these projects. These projects may be shared and remixed as described above, subject to those restrictions imposed on Students under 13.
+Similarly, where custom uploads are allowed for programming tools intended for younger students (e.g, Play Lab and Sprite Lab), Students are advised never to upload any media containing Personal Information and we implement controls that block Student sharing of projects that contain custom uploads.
+
+These files are not used by Code.org for any purpose other than within these projects. These projects may be shared and remixed as described above, subject to those restrictions described.
 Data collected by Student-created apps	Collected if users of a code project created by the Student choose to enter data into the app.	Students may use Code.org to create their own apps. Depending on the app author’s design, a Student-created app may in turn collect data by prompting other Users (anybody who tries using the Student-created app) to enter information, such as a favorite movie.
 
 If a Student creates an app that collects and stores data in this fashion, all data entered by Users of the app may be accessed and possibly shared publicly by the app author, the app itself, and potentially anybody with a link to view the app. Code.org does not itself use or share this data outside of the app.
@@ -199,7 +201,7 @@ Custom Content
 
 Student and Teacher profiles cannot be customized with a photo.
 
-As part of “App Lab,” “Game Lab,” or “Web Lab” (in-browser programming tools available on Code.org), Students 13 years of age and older, as well as Students under the age of 13 in a classroom managed by a Teacher, can upload custom images, text, sound, and videos to the Code.org platform to use within applications or “apps” that they create. These files are stored by Code.org, but are not used by Code.org for any purpose other than within the applications created by Users.
+As part of certain in-browser programming tools available on Code.org (such as “App Lab,” Game Lab,” “Web Lab,” and “Sprite Lab”), Students can upload custom images, text, sound, and videos to the Code.org platform to use within applications or “apps” that they create. These files are stored by Code.org, but are not used by Code.org for any purpose other than within the applications created by Users. When we allow uploads of images, sounds or videos by Students under age 13, we implement controls that block Student sharing of such projects as described in the table above.
 
 Internet Simulator and Other Messages
 
@@ -347,8 +349,8 @@ We do not support online messaging between Students (except for the Internet Sim
 We encourage the use of screen names that are first name or first name and last initial only.
 We only display a Student’s first initial when we display projects on our Services.
 We only provide a mechanism for Students age 13 or over to post projects to their social media accounts.
-We automatically monitor some text entered in projects for elementary school courses, such as PlayLab, to help prevent sharing of personal data such as email address and phone number.
-We only allow uploads of custom content, images, sounds, and videos by Students age 13 or older unless under the supervision of a Teacher’s section.
+We automatically monitor some text entered in projects for elementary school courses, such as Play Lab and Sprite Lab, to help prevent sharing of personal data such as email address and phone number.
+When we allow uploads of custom images, sounds, and videos by Students under age 13, we implement controls that block Student sharing of such projects.
 
 If Code.org learns that it has inadvertently collected Personal Information or Persistent Identifiers from children under the age of 13 without prior parental or teacher consent, Code.org will take appropriate steps to delete this information. If you are a teacher, parent or legal guardian of a Student on Code.org, you can ask us to deactivate the Student’s account and delete any hashed email address or inadvertently collected Personal Information or Persistent Identifiers. To make such a request, please email us at support@code.org or enter a request at https://code.org/contact. Before processing your request, we may verify your identity and your relationship with the Student.
 
