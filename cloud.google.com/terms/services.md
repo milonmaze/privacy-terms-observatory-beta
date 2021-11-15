@@ -1,4 +1,4 @@
-Language
+English
 Sign in
 Contact Us
 Get started for free
