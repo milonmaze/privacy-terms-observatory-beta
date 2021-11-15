@@ -1,0 +1,95 @@
+ResearchGate terms and policies
+We've made it easy for you to read all our legal terms, policies, and community guidelines from one place. Here, you can access all the information you need to understand your rights when using ResearchGate, and make sure you're respecting the rights of others too.
+If you're using one of our business products, this is where you'll find the terms and guidelines that apply to your use of that product and any related features or services.
+You can access downloadable copies of the current and previous versions of our terms and policies here.
+Last updated: June 25, 2020
+Business Product Terms
+These Business Product Terms ("Product Terms") apply, to the extent that the specific Business Products are included in your Order. If there is an inconsistency between the Business Service Terms and applicable Product Terms, the Product Terms shall prevail. All capitalized terms have the meaning given to them in the Business Service Terms. We may update these Product Terms from time to time. We reserve the right to upgrade, update, or discontinue any aspect or feature of a Business Product in whole or in part, provided however that if we discontinue a Business Product in whole during the term of an Order, then we will provide you with an alternative or replacement Business Product.
+Business Product
+Terms
+Payment terms
+Ads
+These are Ads displayed on the Service and targeted towards Scientific Audiences and/or Verified Users, as may be agreed in the Order.
+Ads may take any Ad format or placement offered by ResearchGate, as described in our Advertising & Recruiting Guidelines.
+Each Order shall specify the number of Deliverables, applicable pricing model, and an Activation Date and Completion Date within which delivery shall take place.
+The applicable pricing model may be CPM or CPC. We’ll invoice you on a monthly basis for Deliverables delivered the previous month. We may invoice you for Deliverables delivered within that month, where delivery was completed within that month.
+Audience Extension
+Audience Extension is the re-targeting of an audience comprising Users of the Service, with Ads displayed on Third-Party Properties.
+Each Order shall specify the number of Impressions, an agreed budget, and an Activation Date and Completion Date within which delivery shall take place.
+While we cannot guarantee that the specified number of Impressions will be delivered, the agreed budget will not be exceeded.
+The applicable pricing model is CPM. We’ll invoice you on a monthly basis for Impressions delivered the previous month. We may invoice you for Impressions delivered within that month, where delivery was completed within that month.
+Candidate Search
+Candidate Search is a feature that enables you to search for potential job candidates, view Candidate Information and Member profiles, and contact Members using the provided messaging feature.
+The Candidate Information is derived from Member profiles and made available for informational purposes only. We do not guarantee — and disclaim all liability regarding — the quality, accuracy, completeness, timeliness, and availability of Candidate Information. It is not possible for us to determine whether any Member is in fact the person they claim to be, or whether the information displayed in their profile is up to date or accurate. Therefore, we assume no liability for such information. We may, in our sole discretion, determine which Members and Candidate Information to make available in Candidate Search. Including a Member in Candidate Search does not mean that we approve or endorse that Member. Any reliance you place on Candidate Information is strictly at your own risk.
+Our Advertising & Recruiting Guidelines specify the current rules that apply to you when accessing and using Candidate Search. You agree to: (i) comply with the guidelines at all times; (ii) comply with applicable privacy and data protection laws when using Members’ data; and (iii) not contact Members for recruiting purposes on the Service other than through Candidate Search.
+It is not permitted to share your access to Candidate Search or your Account password with another person. Your Account must be linked with your own email address; not a generic or group email address.
+There is a limit on the number of messages you can send to unique Members per month. Your message balance is reset on the first day of each month. Messages that are not used during a particular month are not carried over to subsequent months.
+Once the duration specified in your Order ends, your access to Candidate Search will automatically be revoked, including access to your lists of saved candidates, communications with Members, and any other information you may have stored.
+Access to Candidate Search is sold on a per-seat basis. One seat gives one Member access to Candidate Search via their Account for the duration specified in the Order. We’ll invoice you upfront for the total price of the Order, once your Order has been processed.
+Emails
+These are Emails sent by ResearchGate to selected Members to promote your Content.
+Each Order shall specify the number of Deliverables and Delivery Dates within which delivery shall take place.
+The applicable pricing model is CPE. We’ll invoice you on a monthly basis for Emails delivered the previous month. We may invoice you for Emails delivered within that month, where delivery was completed within that month.
+Funding Service
+The Funding Service makes Funding Content discoverable on the Service. Some Funding Content and limited functionality are made available to eligible Members free of charge. Other Funding Content and advanced functionality are only available to eligible Members who have a paid Subscription for Funding Plus.
+The Funding Content is made available for informational purposes only. While commercially reasonable efforts are made to ensure the Funding Content is up to date and accurate, we do not guarantee the accuracy, completeness, or availability of Funding Content. Any reliance you place on Funding Content is strictly at your own risk. You should always visit the original source or provider of a funding opportunity to independently verify all information about the opportunity.
+Where Funding Content includes links or connections to third-party websites, we do not approve or endorse any related third parties, or any information or opinions appearing on their websites or services. When you access third-party websites or use third-party services, you accept that there are risks in doing so, and that we are not responsible for such risks. You should always read the terms and conditions and privacy policy of each third-party website or service that you visit.
+We make no representation or warranty concerning, and disclaim any and all responsibility and liability for, the accuracy, completeness, legality, decency, reliability, or availability of Funding Content or any other information displayed in or linked from the Funding Service. You acknowledge that you are not paying us for the aforementioned information. We disclaim any responsibility for the deletion, failure to store, mis-delivery, or untimely delivery of any Funding Content, information, emails, attachments or material connected with the Funding Service. We further disclaim any responsibility for any harm resulting from downloading or accessing any information or material through the Funding Service or any third-party websites or services accessed through the Funding Service. Under no circumstances shall we be liable to you or any third party on account of your use or misuse of or reliance on the Funding Content or Funding Service.
+If you have a Subscription for Funding Plus, you may be able to use some features that enable you to receive related email notifications. You can turn off these notifications at any time in your notification settings for your Account. Alternatively, clicking the unsubscribe link in an email will unsubscribe you from all emails of that particular type. Even if you unsubscribe from all email types, you may still receive administrative communications from us and/or our third-party payment processing provider, for example, relating to payment.
+You can cancel your Subscription for Funding Plus at any time, up to 48 hours before the Subscription Period ends. If you do not cancel your subscription at least 48 hours before the Subscription Period ends, the Subscription will automatically renew on the same terms as the expiring Subscription, unless we have otherwise given you notice of any changes. In all such cases, you authorize us to charge your next Subscription Period’s fee to your Payment Method. If you cancel your Subscription at least 48 hours before the Subscription Period ends, you will continue to have access to Funding Plus through to the end of your current Subscription Period, at which point your Subscription will automatically end. Cancelling a Subscription for Funding Plus will not affect your Account. However, if you delete your Account or if your Account is terminated by us, any Subscription connected with your Account will automatically be cancelled (and there will be no refunds or partial refunds).
+Access to Funding Plus is sold on a Subscription basis. We’ll charge your Payment Method the Subscription Period’s fee at the beginning of the Subscription Period. If the charge is successful, we will issue an invoice for the charged amount. The Subscription will only be activated or renewed once payment is received.
+Job Post or Job Bundle
+A Job Post is an Ad on the Service that provides information about a job vacancy and access to a method by which candidates may apply. The application method may be via the Service or a third-party website. Job Posts are accessible by Verified Users and Scientific Audiences.
+Solely within our discretion, Job Posts may be promoted in emails sent by ResearchGate to its Members informing them about jobs they may be interested in.
+Each Job Post has a specified Runtime, which may be extended for an additional fee.
+The activation and early deactivation of Job Posts are your responsibility. If a Job Post is deactivated for any reason before the end of the Runtime or extended period, you are not entitled to a full or partial refund, credit, or additional token.
+Each Job Post can only promote one job vacancy; it is not permitted to promote multiple different vacancies in one Job Post or to change the job vacancy being promoted during the Runtime or extended period. We reserve the right to deactivate Job Posts that promote more than one job vacancy or in cases where you have changed the job vacancy being promoted, without notice. This shall not give rise to any refunds, credits, or compensation claims on the part of Customer.
+Job Posts may be purchased individually, or as part of a Job Bundle. A Job Bundle gives you a specified number of tokens that can each be redeemed in exchange for one Job Post during the Bundle Period. The Bundle Period starts once your Order has been processed.
+If, on purchasing a Job Bundle, you have unused tokens from a previous Job Bundle (“Unused Tokens”), we may, at our sole discretion, award you "Plus Tokens" in an amount to be specified in the Purchase Order. Should you use any of the Unused Tokens prior to execution of the Purchase Order, the number of Plus Tokens will be reduced accordingly. On signing the Purchase Order, any Unused Tokens will automatically expire. Plus Tokens must be used within the first six months of the Bundle Period during which they are awarded, otherwise they will expire. Plus Tokens must be used before any regular tokens from the same Bundle Period are used.
+Alternatively, if you already have expired Unused Tokens, we may at our discretion and only in exceptional cases allow you to purchase “Renewed Tokens” at a reduced price. The amount of Renewed Tokens that may be purchased and duration of the new Bundle Period shall be determined at our discretion and specified in the Purchase Order.
+We’ll charge your Payment Method or invoice you upfront for the total price of the Order, once your Order has been processed.
+Job Subscription
+A Job Subscription entitles you to post one Job Post per purchased slot at a time during the Subscription Period, as specified in the Order. The Subscription Period starts once your Order has been processed. Job Subscriptions are not subject to automatic renewal.
+During the Subscription Period, you can change the Job Post being displayed in a slot an unlimited number of times. If you fail to use a slot for any or all of the Subscription Period, you are not entitled to a full or partial refund, credit, or additional slot.
+Job Subscriptions are sold on a per-slot basis. We’ll invoice you upfront for the total price of the Order, once your Order has been processed.
+Lead Collection
+Lead Collection is the obtaining of information about Users, so those Users may receive Content, specified materials, and/or future contact from Customer and/or ResearchGate. Normally this is achieved by posting a form on the Service, via which Users may submit certain information.
+Any form posted for Lead Collection purposes must meet our current requirements, in particular regarding the obtaining of User consent. We reserve the right to refuse any Lead Collection in our sole discretion.
+If Lead Collection is promoted by another Business Product, you will pay in accordance with that Business Product’s payment terms.
+Native Content Post
+A Native Content Post is Content created, controlled or added to the Service by you, within specified areas of the Service, such as your Institution Page.
+Native Content Posts are not actively promoted on the Service, unless you purchase a Business Product for such purpose, such as Emails or Ads.
+Regardless of whether you pay to promote a Native Content Post, all Native Content Posts are subject to the Advertising & Recruiting Guidelines.
+If a Native Content Post is promoted by another Business Product, you will pay in accordance with that Business Product’s payment terms.
+Self-Serve Ads
+Ordering
+Self-Serve Ads are Ads on the Service that you Order and create via the Ads Manager. You must have a qualifying Account to access and use the Ads Manager. Each Customer must be managed through a separate Account and each Account must list one primary billing entity and billing contact.
+Each Order must specify certain details, including but not limited to a budget, bid, Delivery Dates, and targeting criteria. All Ads subject to the same Order make up one Ad Group.
+The specified budget may be a Daily Budget or Lifetime Budget. A Daily Budget reflects the total amount per day that you commit to spend on delivery of Ads in the Ad Group. A Lifetime Budget reflects the total amount that you commit to spend on delivery of Ads in the Ad Group within a specified time frame. For the avoidance of doubt, any unspent amount of a Daily Budget will not be carried over to count towards the next day’s Daily Budget. If you select a Lifetime Budget, we will endeavor to spread delivery of the Ads in the Ad Group evenly between the Delivery Dates.
+Your bid reflects the highest per unit price that you commit to pay for Ads in the Ad Group to be delivered.
+You may amend your Order details at any time, but it may take up to 24 hours before the changes take effect. You cannot amend the requested starting Delivery Date if one or more Ads in the Ad Group have already been submitted for delivery.
+Ad creation
+To place an Order you must submit Materials to create Content for your Ads. You must review and approve any Materials before submission and shall be solely responsible for such Materials and the Content in their entirety. There may be some delay between you submitting Materials and an Ad being delivered, for example while we review the submitted Materials. You may edit submitted Materials at any time. However, if you edit the Materials submitted for an active Ad, that Ad may be suspended to allow us to review the edited Materials. Any review of Materials and/or Content is at our sole discretion.
+You are solely responsible for any configurations, settings, budgets, bids, targeting information, and other criteria that you select, input, or provide in the Ads Manager.
+Delivery and reporting
+There is no entitlement to delivery of Ads. However, if we accept your Order, we will deliver the Ads as inventory becomes available. We will use commercial best efforts to achieve your stated objective but do not guarantee that Ads will achieve your stated objective or reach the estimated target in every instance.
+Reporting will be made available in the Ads Manager.
+Billing and payment
+You agree to pay in accordance with your bid and the agreed pricing model. No pricing specified in the Ads Manager (including any Daily Budget or Lifetime Budget) includes any taxes you may be required to pay in your taxing jurisdiction(s), including but not limited to VAT taxes.
+Ads may continue to be displayed for a short period after the end Delivery Date, or after the specified budget has been reached. As a result, you agree to pay and will be charged at the applicable pricing model up to 20% in excess of the applicable budget for Ads actually delivered. To the extent that an applicable budget has not already been reached, you may indicate your desire to stop additional charges by editing the budget, or suspend or cancel the corresponding Order. In such case, we will endeavor to cease serving Ads in the Ad Group promptly, but you agree to pay and will be charged at the applicable pricing model up to 20% in excess of the applicable budget for Ads actually delivered.
+If your Payment Method fails or your account is past due for 30 days, your Account may be suspended, meaning you can still access your Account but cannot create or edit Ads, all active Orders shall be suspended, and any active Ads shall be deactivated. You shall be notified of any such suspension by email and/or onsite. Once you have paid all outstanding amounts, you may then choose to reactivate any suspended Orders.
+If we believe that doing so may prevent financial loss, we may impose limits on your allowed budget, place a delay on a payment for a period of time, limit Payment Methods for a transaction, limit your ability to make a payment, cancel an Order or transaction, or close your Account.
+The applicable pricing model may be CPC, CPE, or CPM. If you pay by credit card, we will charge your card on a monthly basis, for Deliverables delivered the previous month. If the charge is successful, we will issue an invoice for the charged amount. If you are permitted to pay by invoice, we will invoice you on a monthly basis, for Deliverables delivered the previous month.
+Company
+About us
+News
+Careers
+Support
+Help Center
+Business solutions
+Advertising
+Recruiting
+© 2008-2021 ResearchGate GmbH. All rights reserved.
+TermsPrivacyCopyrightImprint
+Join for free
+Log in
