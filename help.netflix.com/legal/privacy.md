@@ -1,9 +1,11 @@
 Help Center
-JOIN NETFLIX
-SIGN IN
+Search
+Help Topics
+Join Netflix
+Sign In
 Not finding Mobile Games in the Netflix app?
 We’re starting to gradually roll them out to all members. If you’re not seeing them, please check again later.
- Back to Help Home
+Help Home
 PRINT
 Privacy Statement
 
