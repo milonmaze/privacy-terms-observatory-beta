@@ -117,11 +117,11 @@ UK Digital Citizenship Terms of Service
 
 En español
 
-Updated June 23, 2021, to reflect removal of user comment functionality and changes to our "Contact Us" links.
+Updated November 16, 2021
 
 PRIVACY FAQ
 
-At Common Sense Media, we value your privacy. And since privacy policies can be very long, here's a summary of the key concepts of the full Common Sense Media Privacy Policy. For privacy information about Wide Open School, please click here.
+At Common Sense Media, we value your privacy. And since privacy policies can be very long, here's a summary of the key concepts of the full Common Sense Media Privacy Policy. This policy applies to users of our domains such as Common Sense Media commonsensemedia.org and Common Sense Education commonsense.org/education. For privacy information about Wide Open School, please click here.
 
 What do you do with the information I give you when I register?
 
@@ -202,11 +202,11 @@ Contact us
 
 You can contact us at: Common Sense Media, 699 8th Street, Suite C150, San Francisco, CA 94103 or Contact Support.
 
-Effective Date of Policy: June 23, 2021
+Effective Date of Policy: November 16, 2021
 
 COMMON SENSE MEDIA PRIVACY POLICY
 
-Welcome! Below you will find the privacy policy for Common Sense Media, Inc. ("we" or "us"). We are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. The Common Sense Media Privacy Policy (the "Policy" or the "Privacy Policy") is designed to answer your questions regarding how we collect, protect, use and share information obtained through the Common Sense Media website, www.commonsensemedia.org (the "Site"), other Common Sense Media websites, and other applications ("apps") that we operate and that link to this Privacy Policy (collectively, the "Services"). Common Sense Media also maintains other websites and apps, which are governed by their own privacy policies. If you are using another Common Sense Media website or app, please be sure to consult the applicable privacy policy, as it may differ from this Policy. We hope this information increases your confidence in Common Sense Media and enhances your experience on our Services.
+Welcome! Below you will find the privacy policy for Common Sense Media, Inc. ("we" or "us"). We are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. The Common Sense Media Privacy Policy (the "Policy" or the "Privacy Policy") is designed to answer your questions regarding how we collect, protect, use and share information obtained through the Common Sense Media website, www.commonsensemedia.org (the "Site"), other Common Sense Media websites, such as www.commonsense.org/education, and other applications ("apps") that we operate and that link to this Privacy Policy (collectively, the "Services"). Common Sense Media also maintains other websites and apps, which are governed by their own privacy policies. If you are using another Common Sense Media website or app, please be sure to consult the applicable privacy policy, as it may differ from this Policy. We hope this information increases your confidence in Common Sense Media and enhances your experience on our Services.
 
 Please see our separate Terms of Use, which governs the use of the Services. We encourage you to read this Policy before using the Services, and not to use the Services if you disagree with any part of this Policy. By using the Services or by clicking a box that states that you accept or agree to this Policy, you signify your agreement to the terms and conditions of this Policy. 
 
