@@ -351,7 +351,7 @@ Social Integrations
 Social Presence
 Programs
 Developer Circles
-F8 Refresh
+F8
 Startup Programs
 ThreatExchange
 Support
@@ -364,7 +364,7 @@ News
 Blog
 Success Stories
 Videos
-Facebook for Developers Page
+Meta for Developers Page
 Terms and Policies
 Platform Initiatives Hub
 Platform Terms
