@@ -1,11 +1,8 @@
-object(HeadersAndFooters)#5617 (1) { ["ID"]=> int(2769) }
 Zoom Privacy Statement
 
 Last updated: November 1, 2021
 
 This Privacy Statement describes the personal data we collect and/or process (which may include collecting, organizing, structuring, storing, using, or disclosing) to provide products and services offered directly by Zoom Video Communications, Inc. (“Zoom”), including Zoom’s websites and its meetings, webinars, and messaging platform, and Zoom App Marketplace (“Zoom Products” or “Products”). Zoom Products do not include products developed by Zoom that are covered under a separate privacy policy (listed here).
-
- 
 
 What Personal Data Do We Receive?
 How Do We Use Personal Data?
@@ -18,9 +15,6 @@ Retention
 European Data Protection Specific Information
 California Privacy Rights
 Changes to This Privacy Statement
-
- 
-
 What Personal Data Do We Receive?
 
 Personal data is any information from or about an identified or identifiable person, including information that Zoom can associate with an individual person. We may collect, or process on behalf of our customers, the following categories of personal data when you use or interact with Zoom Products:
@@ -36,9 +30,6 @@ Meeting, Webinar, and Messaging Content and Context: Content generated in meetin
 Product and Website Usage: Information about how people and their devices interact with Zoom Products, such as: when participants join and leave a meeting; whether participants sent messages and who they message with; performance data; mouse movements, clicks, keystrokes or actions (such as mute/unmute or video on/off), and other user inputs that help Zoom to understand feature usage, improve product design, and suggest features; which third-party apps users add to a meeting or other Product and what information and actions the app is authorized to access and perform; use of third-party apps and the Zoom App Marketplace; features used (such as screen sharing, emojis, or filters); and other usage information and metrics. This also includes information about when and how people visit and interact with Zoom’s websites, including what pages they accessed, their interaction with the website features, and whether or not they signed up for a Zoom Product.
 Communications with Zoom: Information about your communications with Zoom, including relating to support questions, your account, and other inquiries.
 Information from Partners: Zoom obtains information about account owners and their users from third-party companies, such as market data enrichment services, including information about an account owner’s company size or industry, contact information, or activity of certain enterprise domains. Zoom may also obtain information from third-party advertising partners who deliver ads displayed on Zoom Products, such as whether you clicked on an ad they showed you.
-
- 
-
 How Do We Use Personal Data?
 
 Zoom employees do not access meeting, webinar, or messaging content (specifically, audio, video, files, and messages) unless directed by an account owner, or as required for legal, safety, or security reasons, as discussed below. Zoom uses personal data to conduct the following activities:
@@ -53,8 +44,6 @@ Legal Reasons: To comply with applicable law or respond to valid legal process,
 
 Zoom uses advanced tools to automatically scan content such as virtual backgrounds, profile images, and files uploaded or exchanged through chat, for the purpose of detecting and preventing violations of our terms or policies and illegal or other harmful activity, and its employees may investigate such content where required for legal, safety, or security reasons.
 
- 
-
 How Do We Share Personal Data?
 
 Zoom provides personal data to third parties only with consent or in one of the following circumstances (subject to your prior consent where required under applicable law):
@@ -65,14 +54,13 @@ For Legal Reasons: Zoom may share personal data as needed to: (1) comply with a
 Marketing, Advertising, and Analytics Partners: Zoom uses third-party marketing, advertising, and analytics providers: to provide statistics and analysis about how people are using Zoom Products and our website; to provide advertising and marketing for Zoom Products, including targeted advertising based on your use of our website; and to show you third-party advertising within Zoom Products. These third-party partners may receive information about your activities on Zoom’s website through third-party cookies placed on Zoom’s website. To opt out of our use of third-party cookies that share data with these partners, visit our cookie management tool, available Cookies Settings. Where required by law, Zoom will first obtain your consent before engaging in the marketing or advertising activities described.
 Corporate Affiliates: Zoom shares personal information with corporate affiliates, such as Zoom Voice Communications, Inc., to provide integrated and consistent experiences across Zoom Products (such as enabling a user to integrate a Zoom Phone call into a meeting) to detect, investigate, and prevent fraud, abuse, and threats to public safety.
 Change of Control: We may share personal data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Zoom’s business or assets, including in connection with bankruptcy or similar proceedings.
-
- 
-
 Who Can See and Share My Personal Data When I Use Zoom?
 
 When you send messages or join meetings and webinars on Zoom, other people and organizations, including third parties outside the meeting, webinar, or message, may be able to see content and information that you share:
 
-Account Owner: An account owner is the organization or individual that signs up for a Zoom account. Typically, an account owner designates one or more people (called an “administrator”) to manage their account and can grant privileges to users on the account. Depending on their license with Zoom, the account owner can authorize additional users on their account, and the account owner can create and/or access the profile information for all users on their account. The account owner and their users can invite others (including guests not on their account) to meetings or webinars hosted on their account. Zoom gives account owners controls and features that they can use to determine whether certain types of content, such as recordings or out-of-meeting messages, can be created or sent, and what third-party apps can be used, for meetings and webinars hosted on their account. Depending on their settings, account owners and the people they designate can access personal data for people who join meetings and webinars on their account or send messages to users on their account. Specifically, account owners may have access to:
+Account Owner: An account owner is the organization or individual that signs up for a Zoom account. Typically, an account owner designates one or more people (called an “administrator”) to manage their account and can grant privileges to users on the account. Depending on their license with Zoom, the account owner can authorize additional users on their account, and the account owner can create and/or access the profile information for all users on their account. The account owner and their users can invite others (including guests not on their account) to meetings or webinars hosted on their account.
+Zoom gives account owners controls and features that they can use to determine whether certain types of content, such as recordings or out-of-meeting messages, can be created or sent, and what third-party apps can be used, for meetings and webinars hosted on their account. Depending on their settings, account owners and the people they designate can access personal data for people who join meetings and webinars on their account or send messages to users on their account. Specifically, account owners may have access to:
+
 Account Usage:
 Product Usage:  Information about how people and their devices interact with their account, which may include who sent messages to their users in chat, email addresses, IP addresses, device information, and other information about who joined meetings or webinars on their account, whether users viewed or downloaded a recording, how long people participated in their meetings, the time a message was sent, information about Zoom Phone integrations, and other usage information and feedback metrics.
 Participant List:  Information about the participants in a Zoom meeting, webinar, or chat, which may include name, display name, email address, phone number, and participant or user ID.
@@ -82,19 +70,16 @@ In-Meeting/Webinar Messages:  Depending on their settings, account owners can 
 Messages sent to Everyone in a meeting that is recorded
 Messages sent to panelists in a webinar that is recorded
 Direct messages if the account owner has enabled archiving
-Recordings:  Account owners can watch the content of recordings of meetings and webinars hosted on their account.  They can also view a transcript of meeting audio, if enabled.
+Recordings: Account owners can watch the content of recordings of meetings and webinars hosted on their account.  They can also view a transcript of meeting audio, if enabled.
 Polling, Q&A, and Feedback:  Account owners can see information about who provided responses to their polls, Q&A, or post meeting or webinar feedback requests, including name and contact information, together with the responses or feedback, unless responses are submitted anonymously.
 Meeting Hosts and Participants:  Hosts and other participants in a meeting may be able to see your email, display name, and profile picture.  Meeting hosts and participants can also see and (depending on the account owner’s settings) record or save meeting content, audio transcripts, messages sent to Everyone or to them directly, and files, whiteboards, or other information shared during a meeting.  Hosts may also be able to see responses to Q&A and polls generated during the meeting.
-Webinar Panelists and Attendees:  Only panelists may be visible to attendees during a webinar, but attendees who agree to unmute can be heard by other attendees.  If an attendee agrees to become a panelist during a webinar, they may be visible to other attendees, depending on settings.  Panelists and attendees may be able to see the name of a participant who asks a question during a Q&A, along with their question, unless the participant submits the question anonymously. 
+Webinar Panelists and Attendees:  Only panelists may be visible to attendees during a webinar, but attendees who agree to unmute can be heard by other attendees.  If an attendee agrees to become a panelist during a webinar, they may be visible to other attendees, depending on settings.  Panelists and attendees may be able to see the name of a participant who asks a question during a Q&A, along with their question, unless the participant submits the question anonymously.
 Livestreams:  Meeting and webinar hosts can choose to livestream to a third-party site or service, which means anyone with access to the livestream will be able to see the meeting or webinar.
 Third-Party Apps and Integrations:  
 Account owners can choose to add third-party apps to their account and the Zoom Products they use, including via use of the Zoom App Marketplace, and they can also control whether their users can add and use specific third-party apps, including in meetings, webinars, and chats hosted on their account.  Depending on their settings, account owners and their users and guests can share your personal data and content with third-party apps and integrations they approve, which may include all of the personal data available to account owners, hosts, and participants listed above, such as account information, profile and contact information, registration information, participants list, settings, content, product usage, and device information.
 Other participants in the meeting may be able to see the third-party app that you are using in a meeting, if the third-party app is receiving real-time features and information from the meeting.
 Third-party developers may also integrate or embed Zoom meetings into their website or app experiences or build versions of Zoom that enable access to Zoom Products from a third-party app.
 Personal information shared by account owners and users with third-party apps and integrations is collected and processed in accordance with the app developers’ terms and privacy policies, not Zoom’s.
-
- 
-
 Privacy Rights and Choices
 
 If you are in the European Economic Area (EEA), Switzerland, or the UK, or a resident of California, please refer to the respective dedicated sections below. Otherwise, at your request, and as required by applicable law, we will:
@@ -107,15 +92,11 @@ Delete such personal data or direct you to applicable tools.
 In order to exercise any of your rights as to personal data controlled by Zoom, or if you have any other questions about our use of your personal data, please send a request to privacy@zoom.us. Please identify yourself and, for information relating to Zoom Products, specify your account and/or user information and other information to enable us to authenticate and respond to your request. Where legally permitted, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate
 technical effort, or jeopardize the privacy of others. As an account owner or a user under a licensed account, you may also take steps to affect your personal data by visiting your account and modifying your personal data directly.
 
- 
-
 Children
 
 Zoom does not allow children under the age of 16 to sign up for a Zoom account.
 
 For educational organizations that use Zoom Products to provide educational services to children under 18, Zoom’s Children’s Educational Privacy Statement is available here.
-
- 
 
 How to Contact Us
 
@@ -151,8 +132,6 @@ Contact: zoom@LionheartSquared.co.uk
 
 You can contact our Data Protection Officer by sending an email to privacy@zoom.us.
 
- 
-
 Retention
 
 We retain personal data for as long as required to engage in the uses described in this Privacy Statement, unless a longer retention period is required by applicable law.
@@ -163,12 +142,7 @@ The length of time we have an ongoing relationship with you and provide Zoom Pro
 Whether account owners modify or their users delete information through their accounts;
 Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
 Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation).
-
- 
-
 European Data Protection Specific Information
-
- 
 
 Data Subjects Rights
 
@@ -184,8 +158,6 @@ In order to exercise any of your rights as to personal data controlled by Zoom, 
 
 You also have the right to lodge a complaint to a data protection authority. For more information, please contact your local data protection authority.
 
- 
-
 Legal Basis for Processing Personal Data
 
 We only use your information in a lawful, transparent, and fair manner. Depending on the specific personal data concerned and the factual context, when Zoom processes personal data as a controller for individuals in regions such as the EEA, Switzerland, and the UK, we rely on the following legal bases as applicable in your jurisdiction:
@@ -197,8 +169,6 @@ To protect your vital interests or those of others: We process certain personal
 As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account
 owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.
 
- 
-
 International Data Transfers
 
 Zoom operates globally, which means personal data may be transferred, stored (for example, in a data center), and processed outside of the country or region where it was initially collected where Zoom or its service providers have customers or facilities – including in countries where meeting participants or account owners hosting meetings or webinars that you participate in or receiving messages that you send are based.
@@ -207,11 +177,7 @@ Therefore, by using Zoom Products or providing personal data for any of the purp
 
 We protect your personal data in accordance with this Privacy Statement wherever it is processed and take appropriate contractual or other steps to protect it under applicable laws. Where personal data of users in the EEA, Switzerland, or the UK is being transferred to a recipient located in a country outside the EEA, Switzerland, or the UK which has not been recognized as having an adequate level of data protection, we ensure that the transfer is governed by the European Commission’s standard contractual clauses. Please contact us if you would like further information in that respect.
 
- 
-
 California Privacy Rights
-
- 
 
 California Consumer Privacy Act
 
@@ -220,7 +186,7 @@ Under the California Consumer Privacy Act of 2018 (CCPA), California residents m
 Access the categories and specific pieces of personal data Zoom has collected, the categories of sources from which the personal data is collected, the business purpose(s) for collecting the personal data, and the categories of third parties with whom Zoom has shared personal data;
 Delete personal data under certain circumstances; and
 Opt out of the “sale” of personal data. We do not sell your personal data in the conventional sense. However, like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies about your online activity. This is called interest-based advertising. The CCPA’s statutory definition of the term “sale” is broad and may include interest-based advertising. You can get more information and opt out of the use of cookies on our sites
-for interest-based advertising purposes by clicking the Do Not Sell My Personal Information link, also on our homepage, and setting your preferences. You will
+for interest-based advertising purposes by clicking the Do Not Sell My Personal InformationDo Not Sell My Personal Information link, also on our homepage, and setting your preferences. You will
 need to set your preferences from each device and each web browser from which you wish to opt out. This feature uses a cookie to remember your preference, so if you clear all cookies from your browser, you will need to reset your settings.
 
 Zoom will not discriminate against you for exercising any of these rights, which is further in line with your rights under the CCPA.
@@ -231,13 +197,9 @@ We will acknowledge receipt of your request within 10 business days, and provide
 
 Under the CCPA, only you or an authorized agent may make a request related to your personal data. Note that to respond to your requests to access or delete personal data under the CCPA, we must verify your identity. We may do so by requiring you to log into your Zoom account (if applicable), provide information relating to your account (which will be compared to information we have, such as profile information), give a declaration as to your identity under penalty of perjury, and/or provide additional information. You may designate an authorized agent to submit your verified consumer request by providing written permission and verifying your identity, or through proof of power of attorney.
 
- 
-
 California’s Shine the Light Law
 
 California Civil Code Section 1798.83, also known as “Shine The Light” law, permits California residents to annually request information regarding the disclosure of your Personal Information (if any) to third parties for the third parties’ direct marketing purposes in the preceding calendar year. We do not share Personal Information with third parties for the third parties’ direct marketing purposes.
-
- 
 
 Changes to This Privacy Statement
 
