@@ -18,7 +18,7 @@ For example, we may use these cookies to remember your language preferences.
 Performance & Analytics	We use these cookies to collect information about how you use our site, monitor site performance, and improve our site performance, our services, and your experience. 
 
 For example, we can use these cookies to learn more about which features are the most popular with our users and which ones might need some tweaks.
-Marketing	We use these cookies to deliver advertisements, to make them more relevant and meaningful to consumers, and to track the efficiency of our advertising campaigns, both on our services and on other sites or mobile apps. Our 
+Marketing	We use these cookies to deliver advertisements, to make them more relevant and meaningful to consumers, and to track the efficiency of our advertising campaigns, both on our services and on other websites or mobile apps. Our third-party advertising partners may use these cookies to build a profile of your interests and deliver relevant advertising on other sites.
 
 Analytics and Advertising Services
 Provided by Others
