@@ -1,24 +1,16 @@
 ← Back to Transparency Report
 About Transparency Reporting
-July 1, 2020 – December 31, 2020
+January 1, 2021 – June 30, 2021
 
-Throughout this Transparency Report, we highlight how we enforce safety across our platform. Beyond simply reporting our data, here we provide additional context and insight into our safety principles and practices, as well as links to various safety and privacy resources.  
+Throughout this Transparency Report, we highlight how we enforce safety and privacy across our platform. Beyond simply reporting our data, here we provide additional context and insight into our safety principles, policies, and practices, as well as links to various safety and privacy resources.
 
 History of Snap’s Transparency Reporting
 
-Since 2015, we have produced Transparency Reports which provide important insight into the volume and nature of governmental requests for Snapchatters' account information and other legal notifications.
+Since 2015, we have produced Transparency Reports that provide important insight into the volume and nature of government requests for Snapchatters' account information and other legal notifications.
 
-Since November 15, 2015, our policy has been to notify Snapchatters when we receive legal process seeking their account information, with exceptions for cases where we are legally prohibited from doing so, or when we believe there are exceptional circumstances (like child exploitation or an imminent risk of death or bodily injury).
+Since November 15, 2015, our policy has been to notify Snapchatters when we receive legal process seeking their account information, with exceptions for cases where we are legally prohibited from doing so, or when we believe exceptional circumstances exist (like child sexual exploitation or an imminent risk of death or serious bodily injury).
 
-In 2020, we have enhanced our Transparency Report to provide insights into the volume and nature of accounts reported on Snapchat for violations of our Terms of Service or Community Guidelines. 
-
-For more information about our approach to safety and privacy, including how we prioritize wellness, review challenging content, process abuse reports, and handle law enforcement data requests, please take a look at our Safety Center, Law Enforcement Guide, Privacy Center, and Terms of Service.
-
-Approach to Safety Partnerships
-
-Snap is deeply committed to the safety and wellbeing of our community, and our teams, products, policies, and partnerships apply safety by design principles to keep Snapchatters safe and informed. Our Safety Advisory Board members also educate, challenge, raise issues, and advise Snap on how to keep the Snapchat community safe.
-
-To learn more about our approach to safety partnerships, and general safety principles at Snap, please visit our Safety Center.
+In 2020, we enhanced our Transparency Report to provide insights into the volume and nature of accounts reported on Snapchat for violations of our Terms of Service or Community Guidelines. We also included country-level breakdowns, available for all countries in a downloadable CSV. In 2021, we expanded our categories to include false information, trademark notices and Violative View Rate.
 
 Additional Safety and Privacy Resources
 
@@ -30,11 +22,11 @@ Given that Snap is a platform for 13+ users, we believe it is imperative to info
 
 Community Guidelines
 
-Our Community Guidelines form the foundation of our principles around safety and are intended to inform users on how to responsibly use Snapchat. We are constantly assessing our guidelines to ensure that we are proactive in keeping Snapchat a safe environment. 
+Our Community Guidelines form the foundation of our safety principles and are intended to inform users about responsible use of Snapchat. We routinely assess our Guidelines   as just one way of actively working to help keep Snapchat safe.
 
 In-App Reporting 
 
-While we have safety teams and advanced AI operating 24/7 to keep Snapchat safe, we also rely on our users to report inappropriate behavior. To do so, we offer tools both in-app and online to report users and content that violate our policies. 
+While safety teams and advanced AI operate 24/7 to help keep Snapchat safe, we also rely on our users to report concerns. To do so, we offer tools both in-app and online to report content and individuals that violate our policies.  
 
 
 Here for You
@@ -43,11 +35,15 @@ The well-being and safety of our users are paramount to us at Snap. To provide e
 
 Privacy Center
 
-At Snap, we make your privacy a priority. We know your trust is earned every time you use Snapchat, or any of our other products—that is why we treat your information differently than most other tech companies. Even though our products are constantly evolving, our privacy principles and commitment to privacy remain unchanged.
+At Snap, we make your privacy a priority. We seek to earn your trust every time you use Snapchat, or any of our products—that is why we treat your information differently than most other tech companies. Even though our products are constantly evolving, our privacy principles and strong commitment to user privacy remain unchanged.
+
+Law Enforcement Guide
+
+This guide provides information for law enforcement officials seeking Snapchat account records (i.e., Snapchat user data) from Snap.
 
 Safety & Impact Blog
 
-Launched in April 2021, our blog aims to serve as a helpful resource for anyone who wants to better understand how people experience our product, or the many stakeholders and advocates who seek to better understand how we approach critical issues around safety and trust.
+Launched in April 2021, our blog aims to serve as a helpful resource for the many stakeholders and advocates who are interested in how we work to support the safety, privacy and wellbeing of our Snapchat community.
 
 Hi! We use cookies and similar technologies (“cookies”), including third-party cookies, on this website to help operate and improve your experience on our site, monitor our site performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, go here for our cookie policy! By clicking "Accept Cookies" below, you are giving us consent to use cookies (except consent is not required for cookies necessary to run our site). You can change your cookie settings, and withdraw your consent at any time, by clicking on “Cookie Settings” below.
 ACCEPT COOKIESCookie Settings
