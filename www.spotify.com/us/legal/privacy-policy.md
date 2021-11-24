@@ -70,7 +70,7 @@ Your other rights: You can contact Spotify directly to exercise your rights at a
 
 In addition, here are more privacy resources and controls:
 
-Privacy Center - more information about how Spotify uses your personal data, your rights, and how to use those rights.
+Privacy Center - more information about how Spotify uses your personal data, your rights, and how to use those rights, including our video, about Your Privacy Controls.
 Privacy Settings - control the processing of certain personal data, including Tailored Ads.
 Notification Settings - learn how to set which marketing communications you get from Spotify.
 Settings (Desktop and Mobile) - control certain aspects of the Spotify Service such as "Social" and "Explicit Content".
