@@ -1,3 +1,5 @@
+Participate in the 2021 international science photo competition!
+
 Wikimedia blog privacy policy
 Jump to navigation
 Jump to search
