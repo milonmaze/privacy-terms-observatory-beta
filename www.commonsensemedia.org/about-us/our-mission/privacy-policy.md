@@ -1,13 +1,6 @@
 Skip to Content
 
 For Parents For Educators For Advocates
-Or browse by category:
-Movies
-TV shows
-Books
-Apps
-Games
-Parenting
 Common Sense Media
 Sign In
 Movies & TV
@@ -19,6 +12,7 @@ Best Movie Lists
 Best TV Lists
 YouTube Channel Reviews
 Sensical
+ »
 Common Sense Selections
 Books
  »
@@ -94,13 +88,6 @@ Regional Offices
 Events
 We're Hiring
 CCPA: Protect Your Privacy
-Distance Learning
- »
-Wide Open School
-Back-to-School Guide for Families
-Coronavirus Support
-Free Weekly Webinars
-Recursos en español
 Donate
 Common Sense Media Plus
 Privacy
