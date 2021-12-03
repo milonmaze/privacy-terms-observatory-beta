@@ -155,7 +155,7 @@ Sunnyvale, CA 94089
 
 If you wish to contact our Data Protection Officer, you can do so by post to: Attn: Data Protection Officer, Yahoo EMEA, 5-7 Point Square, North Wall Quay, Dublin 1, Ireland.
 
-Our Article 27 Representative can be contacted by email at GDPRrepresentative@mhc.ie, or by post at:
+Our Article 27 Representative can be contacted by email at YahooGDPRrepresentative@mhc.ie, or by post at:
 
 MHC GDPR Representative
 Mason Hayes and Curran Professional Services Limited
@@ -163,13 +163,12 @@ South Bank House
 Barrow Street
 Dublin 4
 Ireland
-Tel: +353 1 614 5000
 
 Recent Versions
 
 May 2018 - update to privacy notice;
 
-October 2019 - Oath to Yahoo name change;
+October 2019 - Oath to Verizon Media name change;
 
 October 2020 - updates to data transfers and legal bases; and
 
