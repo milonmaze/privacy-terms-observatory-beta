@@ -1,5 +1,3 @@
-Participate in the 2021 international science photo competition!
-
 The Wikimedia Donor Privacy Policy
 < Donor privacy policy
 Jump to navigation
