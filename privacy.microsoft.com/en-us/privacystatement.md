@@ -1,5 +1,5 @@
 Microsoft Privacy Statement
-Last Updated: October 2021 What's new?
+Last Updated: December 2021 What's new?
 Expand All
 Print
 
