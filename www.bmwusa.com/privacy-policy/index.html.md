@@ -97,6 +97,7 @@ M235i xDrive Gran Coupe
 M340i Sedan
 M340i xDrive Sedan
 M440i xDrive Coupe
+M440i xDrive Gran Coupe
 M440i Convertible
 M550i xDrive Sedan
 M760i xDrive Sedan
