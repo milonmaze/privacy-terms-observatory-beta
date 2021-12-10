@@ -12,6 +12,9 @@ Français
 Français (Canada)
 Español
 Português
+Important update: 
+We are updating our privacy statement effective January 10 
+Get the highlights
 Intuit Global Privacy Statement
 
 Last Updated: July 9, 2021
