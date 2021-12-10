@@ -1,7 +1,7 @@
 Skip to content
 Google Chrome Web Store Developer Agreement
 
-Published on Friday, February 28, 2014 • Updated on Tuesday, May 4, 2021
+Published on Friday, February 28, 2014 • Updated on Tuesday, June 29, 2021
 
 Table of contents
 This developer agreement was updated on May 4, 2021.
@@ -99,8 +99,7 @@ pornography, obscenity, nudity, or sexual activity.
 
 4.6 You agree that you are solely responsible for (and that Google has no responsibility to you or to any third party for) any breach of your obligations under this Agreement, any applicable third party contract or terms of service, or any applicable law or regulation, and for the consequences (including any loss or damage which Google or any third party may suffer) of any such breach.
 
-4.7 Product Ratings. The Web Store will allow users to rate Products. Along with other factors, Product ratings may be used to determine the placement of Products on the Web Store with higher rated Products generally given better placement, subject to Google's right to change placement at Google's sole discretion. For new Developers without Product history, Google may use or publish performance measurements such as uninstall rates to identify or remove Products that are not meeting acceptable standards, as determined by Google. Google reserves the right to display Products to users in a manner that will be determined at Google's sole discretion.
-Your Products may be subject to user ratings to which you may not agree. You may contact Google if you have any questions or concerns regarding such ratings at http://groups.google.com/a/chromium.org/group/chromium-apps/.
+4.7 Product Ratings. The Web Store will allow users to rate Products. Along with other factors, Product ratings may be used to determine the placement of Products on the Web Store with higher rated Products generally given better placement, subject to Google's right to change placement at Google's sole discretion. For new Developers without Product history, Google may use or publish performance measurements such as uninstall rates to identify or remove Products that are not meeting acceptable standards, as determined by Google. Google reserves the right to display Products to users in a manner that will be determined at Google's sole discretion. Your Products may be subject to user ratings to which you may not agree. You may contact Google if you have any questions or concerns regarding such ratings at http://groups.google.com/a/chromium.org/group/chromium-apps/.
 
 4.8 Marketing Your Product. You will be responsible for uploading your Products to the Web Store, providing required Product information to users, and accurately disclosing the security permissions necessary for the Product to function on user machines, hardware, or other devices. Products that are not properly uploaded will not be published in the Web Store.
 
@@ -160,10 +159,7 @@ Your Products may be subject to user ratings to which you may not agree. You may
 
 10.2 If you want to terminate this Agreement, you must provide Google with thirty (30) days prior notice and cease your use of any relevant developer credentials.
 
-10.3 Google may at any time, terminate this Agreement with you if:
-(A) you have breached any provision of this Agreement; or
-(B) Google is required to do so by law; or
-(C) Google decides to no longer provide the Web Store.
+10.3 Google may at any time, terminate this Agreement with you if: (A) you have breached any provision of this Agreement; or (B) Google is required to do so by law; or (C) Google decides to no longer provide the Web Store.
 
 #
 11. DISCLAIMER OF WARRANTIES
@@ -214,4 +210,4 @@ If You do not agree with the modifications to the Agreement, You may terminate Y
 
 Please print and retain a copy of this document and any linked documents for your records.
 
-Last updated: Tuesday, May 4, 2021 Improve article
+Last updated: Tuesday, June 29, 2021 Improve article
