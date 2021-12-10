@@ -4,7 +4,7 @@ Contact Us
 Get started for free
 Google Cloud Privacy Notice
 
-Effective Date: Dec 13, 2021
+Effective Date: Dec 07, 2021
 
 This Google Cloud Privacy Notice describes how we collect and process your personal information in relation to Google Workspace, Google Workspace for Education and Google Cloud Platform (together, “Cloud Services”).
 
@@ -23,5 +23,5 @@ Brazil Requirements
 California Requirements
 Korea Requirements
 Updates to this Notice
-PREVIOUS VERSIONS (Last modified December 13, 2021)
+PREVIOUS VERSIONS (Last modified December 7, 2021)
 May 30, 2021 December 7, 2020 November 12, 2020
