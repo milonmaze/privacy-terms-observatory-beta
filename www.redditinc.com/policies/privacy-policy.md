@@ -27,6 +27,15 @@ Transparency Report 2018
 Transparency Report 2017
 Responsible Disclosure / Bug Bounty Program
 Privacy Policy
+English (US)
+Deutsch
+Français
+Español (MX)
+Español (ES)
+Português (BR)
+Português (PT)
+Italiano
+English (US)
 Reddit Privacy Policy
 Effective September 12, 2021. Last Revised August 12, 2021
 
