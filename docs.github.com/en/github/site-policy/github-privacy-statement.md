@@ -362,3 +362,4 @@ Or, learn how to contribute.
 Still need help?
 Ask the GitHub community
 Contact support
+Scroll to top
