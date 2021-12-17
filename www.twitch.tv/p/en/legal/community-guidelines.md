@@ -35,7 +35,7 @@ Security
 Help
 Jobs
 Languages
-Last modified on 08/17/2021
+Last modified on 12/16/2021
 Community Guidelines
 
 At Twitch, our mission is to provide the best shared social video experience created by our growing community where creators and communities can interact safely. To achieve this goal, we ask that all users participate in such a way that promotes a friendly, positive experience for our global community.
@@ -58,7 +58,7 @@ In addition, it is prohibited to use your channel to knowingly feature or advert
 
 Self-Destructive Behavior
 
-Any activity that may endanger your life or lead to your physical harm is prohibited. This includes, but is not limited to: suicide threats, intentional physical trauma, illegal use of drugs, illegal or dangerous consumption of alcohol, and dangerous or distracted driving. We do not make exceptions for self destructive behavior performed as a stunt or gag made in jest, or meant to entertain, when the behavior could reasonably be expected to cause physical injury.
+Activity that may endanger your life, lead to your physical harm, or encourage others to engage in physically harmful behavior is prohibited.  This includes, but is not limited to: suicide threats, glorification or encouragement of self-harm, intentional physical trauma, illegal use of drugs, illegal or dangerous consumption of alcohol, and dangerous or distracted driving. We do not make exceptions for self destructive behavior performed as a stunt or gag made in jest, or meant to entertain, when the behavior could reasonably be expected to cause physical injury.
 
 Violence and Threats
 
