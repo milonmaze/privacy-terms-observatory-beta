@@ -55,7 +55,8 @@ From time to time, you may experience some technical issues with our site. If th
 User Privacy Notice
 
 In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights for you.
+ 
 
-This User Privacy Notice is effective from June 20, 2020. View the previous User Privacy Notice.
+This User Privacy Notice is effective from December 23, 2021. View the previous User Privacy Notice.
 
-35 min article
+15 min article
