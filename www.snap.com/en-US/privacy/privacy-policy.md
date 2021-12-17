@@ -207,4 +207,4 @@ Revisions to the Privacy Policy
 We may change this Privacy Policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the Privacy Policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepages or providing you with an in-app notification).
 
 Hi! We use cookies and similar technologies (“cookies”), including third-party cookies, on this website to help operate and improve your experience on our site, monitor our site performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, go here for our cookie policy! By clicking "Accept Cookies" below, you are giving us consent to use cookies (except consent is not required for cookies necessary to run our site). You can change your cookie settings, and withdraw your consent at any time, by clicking on “Cookie Settings” below.
-ACCEPT COOKIESCookie Settings
+Accept CookiesCookie Settings
