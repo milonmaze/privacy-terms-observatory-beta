@@ -1,9 +1,8 @@
 Help Center
+Search
 Help Topics
 Join Netflix
 Sign In
-We are currently experiencing a higher than normal wait time for chat support.
-Please try again later or try calling us.
 Help Home
 PRINT
 Privacy Statement
