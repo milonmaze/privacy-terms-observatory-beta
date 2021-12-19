@@ -90,7 +90,7 @@ We're Hiring
 CCPA: Protect Your Privacy
 Donate
 Common Sense Media Plus
-Privacy policy
+Privacy
 Our Mission
 Community Guidelines
 Privacy
