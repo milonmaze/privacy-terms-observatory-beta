@@ -1,10 +1,3 @@
-Terms of Service
-Privacy Policy
-Business Agreement
-DMCA Policy
-Acceptable Use
-Open Source
-
 Dropbox’s Privacy Policy will be changing effective January 12, 2022. Click here to review.
 
 If your organization signed a Dropbox Business or Dropbox Enterprise Agreement with Dropbox, that Agreement may have modified the privacy policy below. Please contact your organization’s Admin for details.
@@ -107,4 +100,41 @@ We may revise this Privacy Policy from time to time, and will post the most curr
 
 Contact
 
-Have questions or concerns about Dropbox, our Services, and privacy? Contact our Data Protection Officer at privacy@dropbox.com. If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
+Have questions or concerns about Dropbox, our Services, and privacy? Contact our Data Protection Officer at privacy@dropbox.com . If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
+
+Dropbox
+Desktop app
+Mobile app
+Integrations
+Features
+Solutions
+Do more than store
+Security
+Advance access
+Products
+Plus
+Professional
+Business
+Enterprise
+HelloSign
+DocSend
+Plans
+Support
+Help center
+Contact us
+Privacy & terms
+Cookie policy
+Cookies & CCPA preferences
+Sitemap
+Learning resources
+Community
+Blog
+Developers
+Community forums
+Referrals
+Company
+About us
+Jobs
+Investor relations
+Social impact
+Partners
