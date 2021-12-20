@@ -37,11 +37,33 @@ We use data to help customize your experience with more products and offers rele
 
 Privacy Policy
 
-Updated November 18, 2021
+Updated December 17, 2021
 
 Click to expand all sections of the P&G Privacy Policy
 
 FAQ
+
+Commonly asked questions about how we collect, store and use your data.
+
+Do we sell your personal information for monetary compensation?
+
+No
+
+Do we share your data with third party partners?
+
+Yes
+
+Do we receive information from other companies you have given data permission to?
+
+Yes
+
+Do we use your information for better product recommendations and site experiences?
+
+Yes
+
+Do we give you control of your data?
+
+Yes
 
 How You Control Your Data
 
