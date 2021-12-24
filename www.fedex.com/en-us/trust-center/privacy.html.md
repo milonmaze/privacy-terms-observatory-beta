@@ -1,6 +1,8 @@
 FedEx Privacy Notice
 Global privacy policy  Privacy notice  Cookie notice  Binding corporate rules
 
+Note: The English version of fedex.com privacy notice govern in the U.S. The Spanish translation is provided as a courtesy. FedEx makes no representation or warranties with regard to the accuracy of the translation.
+
 Last update: July 23, 2021
 
 Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx. We are committed to protecting your privacy and the security of your personal data. We have created this Privacy Notice to explain how FedEx collects and uses personal data.
