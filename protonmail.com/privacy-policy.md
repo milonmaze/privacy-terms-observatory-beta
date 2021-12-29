@@ -141,7 +141,6 @@ Facebook
 Twitter
 Reddit
 Instagram
-Mastodon
 Feedback Forum
 
  
