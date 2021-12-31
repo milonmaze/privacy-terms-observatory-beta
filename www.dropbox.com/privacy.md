@@ -136,5 +136,5 @@ Company
 About us
 Jobs
 Investor relations
-Social impact
+ESG
 Partners
