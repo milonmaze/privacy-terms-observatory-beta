@@ -1,5 +1,3 @@
-Submit your science photographs and media files to the Wiki Science Competition!
-
 The Wikimedia Donor Privacy Policy
 < Donor privacy policy
 Jump to navigation
