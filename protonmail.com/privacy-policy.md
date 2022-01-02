@@ -147,6 +147,6 @@ Feedback Forum
 
 	
 
-© 2021 Proton Technologies AG. All Rights Reserved.
+© 2022 Proton Technologies AG. All Rights Reserved.
 
 Català | Čeština | Dansk | Deutsch | Ελληνικά | English | Español (España) | Français | Hrvatski | Magyar | Bahasa (Indonesia) | íslenska | Italiano | 日本語 | Taqbaylit | Dutch | Polski | Português (Brasil) | Português (Portugal) | Română | Русский | Svenska | Türkçe | Українська | 简体中文 | 繁體中文
