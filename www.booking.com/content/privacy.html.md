@@ -1095,7 +1095,7 @@ Privacy & cookie statement
 Don't sell my personal information
 Corporate contact
 Extranet login
-Copyright © 1996–2021 Booking.com™. All rights reserved.
+Copyright © 1996–2022 Booking.com™. All rights reserved.
  
 
 Booking.com is part of Booking Holdings Inc., the world leader in online travel and related services.
