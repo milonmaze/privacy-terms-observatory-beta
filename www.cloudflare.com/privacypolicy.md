@@ -331,7 +331,7 @@ Support
 
 Company
 
-© 2021 Cloudflare, Inc.
+© 2022 Cloudflare, Inc.
 Privacy Policy
 Terms of Use
 Disclosure
