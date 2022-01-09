@@ -29,7 +29,8 @@ Responsible Disclosure / Bug Bounty Program
 Privacy Policy
 English (US)
 Deutsch
-Français
+Français (FR)
+Français (CA)
 Español (MX)
 Español (ES)
 Português (BR)
