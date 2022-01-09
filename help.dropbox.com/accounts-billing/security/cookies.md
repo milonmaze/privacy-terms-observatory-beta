@@ -1,3 +1,4 @@
+domain is domian is false
 Use of cookies and similar technologies
 
 Dropbox uses cookies and similar technologies, such as pixels, to provide, improve, protect, and promote our services. For the purposes of this policy we will refer to all of these technologies as “cookies.” This page includes information on the what, who, and how of these technologies in connection with the Dropbox website and services.
