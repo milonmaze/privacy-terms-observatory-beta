@@ -1,6 +1,6 @@
 Cloudflare Cookie Policy
 
-Last Updated: January 06, 2020
+Last Updated: January 06, 2022
 
 This Cloudflare Cookie Policy (“Policy”) outlines the general policy, practices, and types of cookies that Cloudflare, Inc. (“Cloudflare,” “we,” “us,” or “our”) may use to improve our Services and your experience when visiting our Websites. For the purposes of this Policy, capitalized terms used but not defined in this Policy have the meanings given in our Privacy Policy.
 
