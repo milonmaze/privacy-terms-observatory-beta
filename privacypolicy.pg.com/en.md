@@ -102,4 +102,4 @@ Terms and Conditions
 AdChoices
 CA Privacy
 Do Not Sell My Personal Information
-@ 2021 Procter & Gamble
+© 2022 Procter & Gamble
