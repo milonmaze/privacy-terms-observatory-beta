@@ -1,12 +1,10 @@
-Dropbox’s Privacy Policy will be changing effective January 12, 2022. Click here to review.
-
 If your organization signed a Dropbox Business or Dropbox Enterprise Agreement with Dropbox, that Agreement may have modified the privacy policy below. Please contact your organization’s Admin for details.
 
 Dropbox Privacy Policy
 
-Posted: December 17, 2019
+Posted: October 29, 2021
 
-Effective: January 1, 2020
+Effective: January 14, 2022
 
 You can see the previous Privacy Policy here.
 
@@ -20,7 +18,7 @@ Account information. We collect, and associate with your account, the informatio
 
 Your Stuff. Our Services are designed as a simple and personalized way for you to store your files, documents, photos, comments, messages, and so on (“Your Stuff”), collaborate with others, and work across multiple devices and services. To make that possible, we store, process, and transmit Your Stuff as well as information related to it. This related information includes your profile information that makes it easier to collaborate and share Your Stuff with others, as well as things like the size of the file, the time it was uploaded, collaborators, and usage activity.
 
-Contacts. You may choose to give us access to your contacts to make it easy for you to do things like share and collaborate on Your Stuff, send messages, and invite others to use the Services. If you do, we’ll store those contacts on our servers for you to use.
+Contacts. You may choose to give us access to your contacts to make it easy for you, and your Dropbox Business team (collectively, “Dropbox Business Team”), if you’re a Dropbox Business Team user, do things like share and collaborate on Your Stuff, send messages, and invite others to use the Services. If you do, we’ll store those contacts on our servers.
 
 Usage information. We collect information related to how you use the Services, including actions you take in your account (like sharing, editing, viewing, creating and moving files or folders). We use this information to provide, improve, and promote our Services, and protect Dropbox users. Please refer to our FAQ for more information about how we use this usage information.
 
@@ -44,13 +42,13 @@ Others working for and with Dropbox. Dropbox uses certain trusted third parties 
 
 Other Dropbox Companies. Dropbox shares infrastructure, systems, and technology with other Dropbox Companies to provide, improve, protect, and promote Dropbox Company Services. We process your information across the Dropbox Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For more information on Dropbox Companies, Dropbox Company Services, and how your data is used, please see our FAQ.
 
-Other users. Our Services display information like your name, profile picture, device, email address, and usage information to other users you collaborate or choose to share with. When you register your Dropbox account with an email address on a domain owned by your employer or organization, we may help collaborators and administrators find you and your team by making some of your basic information—like your name, team name, profile picture, and email address—visible to other users on the same domain. This helps you sync up with teams you can join and helps other users share files and folders with you.
+Other users. Our Services are designed to help you collaborate with others. If you register your Dropbox account with an email address on a domain owned by your employer or organization, join a Dropbox Business Team, or collaborate with other Dropbox users, we may suggest you or your team as a potential collaborator to other users or teams. For example, if you interact with a person at a company, and that person frequently works with one of their coworkers, we may suggest you as a potential collaborator for that coworker. Collaborators and potential collaborators may see some of your basic information, like your name, Dropbox Business Team name, profile picture, device, email address, and usage information. This helps you sync up with teams you can join and helps other users share files and folders with you.
 
 Certain features let you make additional information available to others.
 
 Other applications. You can choose to connect your Dropbox account with third-party services––for example, via Dropbox APIs. By doing so, you’re enabling Dropbox and those third parties to exchange information about you and data in your account so that Dropbox and those third parties can provide, improve, protect, and promote their services. Please remember that third parties’ use of your information will be governed by their own privacy policies and terms of service.
 
-Business Team Admins. If you are a user of a Dropbox Business team (collectively, “Dropbox Business Team”), your administrator may have the ability to access and control your Dropbox Business Team account. Please refer to your organization’s internal policies if you have questions about this. If you aren’t a Dropbox Business Team user but interact with a Dropbox Business Team user (for example, by joining a shared folder or accessing stuff shared by that user), members of that organization may be able to view the name, email address, profile picture, and IP address that was associated with your account at the time of that interaction. If you share Your stuff with a Dropbox team user, the administrator of the team account may have the ability to access and edit what you share.
+Business Team Admins. If you are a user of a Dropbox Business Team, your administrator may have the ability to access and control your Dropbox Business Team account. Please refer to your organization’s internal policies if you have questions about this. If you aren’t a Dropbox Business Team user but interact with a Dropbox Business Team user (for example, by joining a shared folder or accessing stuff shared by that user), members of that organization may be able to view information about you (such as your name, email address, and profile picture) and your interaction with the Dropbox Business Team user (such as your IP address). If you share Your Stuff with a Dropbox Business Team user, the administrator of the team account may have the ability to access and edit what you share.
 
 Law & Order and the Public Interest. We may disclose your information to third parties if we determine that such disclosure is reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or appropriate government request; (b) protect any person from death or serious bodily injury; (c) prevent fraud or abuse of Dropbox or our users; (d) protect Dropbox’s rights, property, safety, or interest; or (e) perform a task carried out in the public interest.
 
@@ -75,7 +73,9 @@ Where
 
 Around the world. To provide you with the Services, we may store, process, and transmit data in the United States and locations around the world—including those outside your country. Data may also be stored locally on the devices you use to access the Services.
 
-EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield. When transferring data from the European Union, the European Economic Area, the United Kingdom, and Switzerland, Dropbox relies upon a variety of legal mechanisms, including contracts with our customers and affiliates. Dropbox complies with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union, the European Economic Area, the United Kingdom, and Switzerland to the United States. Dropbox has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such data You can find Dropbox’s Privacy Shield certification here. You can also learn more about Privacy Shield at https://www.privacyshield.gov.
+Data Transfers. When transferring data from the European Union, the European Economic Area, the United Kingdom, and Switzerland, Dropbox relies upon a variety of legal mechanisms, such as contracts with our customers and affiliates, Standard Contractual Clauses, and the European Commission's adequacy decisions about certain countries, as applicable.
+
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield. Dropbox complies with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union, the European Economic Area, the United Kingdom, and Switzerland to the United States, although Dropbox does not rely on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield Frameworks as a legal basis for transfers of personal data. Dropbox has certified to the Department of Commerce that it, and its subsidiary JN Projects Inc. d/b/a HelloSign, adheres to the Privacy Shield Principles with respect to such data. You can also learn more about Privacy Shield at https://www.privacyshield.gov.
 
 Dropbox is subject to oversight by the U.S. Federal Trade Commission. JAMS is the US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance—free of charge to you. We ask that you first submit any such complaints directly to us via privacy@dropbox.com. If you aren’t satisfied with our response, please contact JAMS at https://www.jamsadr.com/eu-us-privacy-shield. In the event your concern still isn’t addressed by JAMS, you may be entitled to a binding arbitration under Privacy Shield and its principles.
 
@@ -88,7 +88,7 @@ Change or correct personal data. You can manage your account and the content con
 Access and take your data elsewhere. You can access your personal data from your Dropbox account and you can download a copy of Your Stuff in a machine readable format as outlined here. You can also ask us for a copy of personal data you provided to us or that we’ve collected, the business or commercial purpose for collecting it, the types of sources we got it from, and types of third parties we’ve shared it with.
 Object to the processing of your personal data. Depending on the processing activity, you can request that we stop or limit processing of your personal data.
 
-If you would like to submit a data access request, request that your personal data be deleted, or object to the processing of your personal data, please email us at privacy@dropbox.com. For more information on how to control and access your personal data, please see our FAQ.
+If you would like to submit a data access request or object to the processing of your personal data, please email us at privacy@dropbox.com. To request that your personal data be deleted, please fill out this form. For more information on how to control and access your personal data, please see our FAQ.
 
 Dropbox as controller or processor. If you reside in North America (the United States, Canada, and Mexico), Dropbox, Inc. acts as your service provider. For all other users, Dropbox International Unlimited Company acts as a controller of your personal data. If you are a Dropbox Business or Education customer outside of North America, Dropbox acts as a processor of your data.
 
@@ -100,7 +100,7 @@ We may revise this Privacy Policy from time to time, and will post the most curr
 
 Contact
 
-Have questions or concerns about Dropbox, our Services, and privacy? Contact our Data Protection Officer at privacy@dropbox.com . If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
+Have questions or concerns about Dropbox, our Services, and privacy? Contact our Data Protection Officer at privacy@dropbox.com. If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
 
 Dropbox
 Desktop app
