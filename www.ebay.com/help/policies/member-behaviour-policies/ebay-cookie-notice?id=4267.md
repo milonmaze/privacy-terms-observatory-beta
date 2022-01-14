@@ -1,4 +1,5 @@
 Skip to main content
+Enter your search term to display live search results. Use TAB key to navigate results.
 1. Information regarding the technologies we use
 2. Your Choices
 3. Do Not Track
