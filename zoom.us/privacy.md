@@ -1,6 +1,6 @@
 Zoom Privacy Statement
 
-Last updated: November 1, 2021
+Last updated: December 15, 2021
 
 This Privacy Statement describes the personal data we collect and/or process (which may include collecting, organizing, structuring, storing, using, or disclosing) to provide products and services offered directly by Zoom Video Communications, Inc. (“Zoom”), including Zoom’s websites and its meetings, webinars, and messaging platform, and Zoom App Marketplace (“Zoom Products” or “Products”). Zoom Products do not include products developed by Zoom that are covered under a separate privacy policy (listed here).
 
@@ -89,7 +89,7 @@ Amend or correct such personal data or any previous privacy preferences you sele
 applicable tools; and/or
 Delete such personal data or direct you to applicable tools.
 
-In order to exercise any of your rights as to personal data controlled by Zoom, or if you have any other questions about our use of your personal data, please send a request to privacy@zoom.us. Please identify yourself and, for information relating to Zoom Products, specify your account and/or user information and other information to enable us to authenticate and respond to your request. Where legally permitted, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate
+In order to exercise any of your rights as to personal data controlled by Zoom, please click here. Where legally permitted, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate
 technical effort, or jeopardize the privacy of others. As an account owner or a user under a licensed account, you may also take steps to affect your personal data by visiting your account and modifying your personal data directly.
 
 Children
@@ -100,7 +100,7 @@ For educational organizations that use Zoom Products to provide educational serv
 
 How to Contact Us
 
-To exercise your rights or if you have any privacy-related questions or comments related to this Privacy Statement, please send an email to privacy@zoom.us.
+To exercise your rights, please click here. If you have any privacy-related questions or comments related to this Privacy Statement, please send an email to privacy@zoom.us.
 
 You can also contact us by writing to the following address:
 
@@ -154,7 +154,7 @@ Right to object to processing: In certain circumstances, you have the right to r
 Right to rectification: You have the right to require us to correct any inaccurate or incomplete personal data;
 Right to restrict processing: You have the right to request that we restrict processing of your personal data in certain circumstances (for example, where you believe that the personal data we hold about you is not accurate or lawfully held).
 
-In order to exercise any of your rights as to personal data controlled by Zoom, or if you have any other questions about our use of your personal data, please send a request at the contact details specified in the How to Contact Us section of this Privacy Statement. Please note that we may request you to provide us with additional information in order to confirm your identity and ensure that you are entitled to access the relevant personal data.
+To exercise your rights, please click here. If you have any other questions about our use of your personal data, please send a request at the contact details specified in the How to Contact Us section of this Privacy Statement. Please note that we may request you to provide us with additional information in order to confirm your identity and ensure that you are entitled to access the relevant personal data.
 
 You also have the right to lodge a complaint to a data protection authority. For more information, please contact your local data protection authority.
 
@@ -191,7 +191,7 @@ need to set your preferences from each device and each web browser from which yo
 
 Zoom will not discriminate against you for exercising any of these rights, which is further in line with your rights under the CCPA.
 
-To exercise your rights, contact us by emailing privacy@zoom.us or calling +1-888-799-9666. To opt out of the use of cookies on our sites for interest-based advertising purposes, follow the instructions above.
+To exercise your rights, please click here or call +1-888-799-9666. To opt out of the use of cookies on our sites for interest-based advertising purposes, follow the instructions above.
 
 We will acknowledge receipt of your request within 10 business days, and provide a substantive response within 45 calendar days, or inform you of the reason and extension period (up to 90 days) in writing.
 
