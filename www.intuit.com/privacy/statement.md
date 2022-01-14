@@ -108,7 +108,6 @@ Joint offering partners. We may offer co-branded services or experiences or eng
 Publicly-available and third-party sources. We collect information from publicly available and other third-party sources, such as open government databases.
 Government agencies. We receive information from government agencies, including from various tax agencies.
 Required information. Some services and experiences in the Intuit Platform require you to provide information for it to function. If you do not wish to provide the required information, you may not be able to use certain features.
-
 How we use personal information
 
 We collect and process personal information about you where:
@@ -191,7 +190,6 @@ To enforce, remedy, or apply our Terms of Service or other agreements
 To prevent fraud, cybersecurity attacks or illegal activity
 For debt collection
 With regulatory agencies, including government tax agencies, as necessary to help detect and combat fraud and/or protect our customers, users and/or the Intuit Platform, or in required institutional risk control programs.
-
 Your information rights and choices
 
 Your rights
