@@ -289,9 +289,6 @@ Version: This Privacy Policy has been updated on 7 July 2021
 
 Drag to view
 To search this site, enter a search term
-
-When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures.
-
 LATEST NEWS
 
 PRESS RELEASE | MAY 11, 2021
