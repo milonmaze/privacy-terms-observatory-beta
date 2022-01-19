@@ -90,8 +90,6 @@ Developer Tools
 
 Artifact Registry: Artifact Registry is a service for managing container images and packages. It is integrated with Google Cloud tooling and runtimes and comes with support for native artifact protocols. This makes it simple to integrate it with your CI/CD tooling to set up automated pipelines.
 
-Cloud SDK: Cloud SDK is a set of tools to manage resources and applications hosted on Google Cloud Platform. It includes the gcloud, gsutil, and bq command line tools. The gcloud command-line tool provides the primary command-line interface to Google Cloud Platform.
-
 Container Registry: Container Registry is a private Docker image storage system on Google Cloud Platform. The registry can be accessed through an HTTPS endpoint, so you can pull images from your machine, whether it's a Compute Engine instance or your own hardware.
 
 Cloud Build: Cloud Build is a service that executes your builds on Google Cloud Platform infrastructure. Cloud Build can import source code from Cloud Storage, Cloud Source Repositories, GitHub, or Bitbucket; execute a build to your specifications; and produce artifacts such as Docker containers or Java archives.
@@ -99,6 +97,8 @@ Cloud Build: Cloud Build is a service that executes your builds on Google Cloud 
 Cloud Source Repositories: Cloud Source Repositories provides Git version control to support collaborative development of any application or service, including those that run on App Engine and Compute Engine.
 
 *Firebase Test Lab: Firebase Test Lab lets you test your mobile app using your test code or automatically on a wide variety of devices and device configurations hosted in a Google data center, with test results made available in the Firebase console.
+
+Google Cloud Deploy: Google Cloud Deploy is a service for managing and performing application continuous delivery to Google Kubernetes Engine. It allows for process specification and control of application delivery.
 
 Test Lab: Test Lab enables you to test mobile applications using physical and virtual devices in the cloud. It runs instrumentation tests and script-less robotic tests on a matrix of device configurations, and reports detailed results to help improve the quality of your mobile app.
 
@@ -113,6 +113,8 @@ Cloud Data Fusion: Cloud Data Fusion is a fully-managed, cloud native, enterpris
 Cloud Life Sciences (formerly Google Genomics): Cloud Life Sciences provides services and tools for managing, processing, and transforming life sciences data.
 
 Data Catalog: Data Catalog is a fully-managed and scalable metadata management service that empowers organizations to quickly discover, manage, and understand their data in Google Cloud. It offers a central data catalog across certain Google Cloud Services that allows organizations to have a unified view of their data assets.
+
+Dataplex: Dataplex is an intelligent data fabric that helps customers unify distributed data and automate management and governance across that data to power analytics at scale.  
 
 Dataflow: Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.
 
@@ -380,8 +382,9 @@ Below is a non-exclusive list of available software components subject to the Go
 
 Cloud Run for Anthos deployed on VMware enables you to run stateless containers on VMware.
 Config Connector is a Kubernetes add-on that allows you to manage your Google Cloud resources through Kubernetes configuration files.
+Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and applications hosted on Google Cloud Platform. It includes the Google Cloud Command Line Interface (CLI), Cloud Client Libraries for programmatic access to Google Cloud Platform services, the gustil, kubectl, and bq command line tools, and various service and data emulators for local platform development. The Google Cloud SDK provides the primary programmatic interfaces to Google Cloud Platform.
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine and Anthos.
 Migrate for Anthos enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Anthos, while producing container and data artifacts for integration with modern CI/CD, Anthos and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Anthos hybrid configurations as listed in the applicable software documentation. With Migrate for Anthos, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified December 13, 2021)
-November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
+PREVIOUS VERSIONS (Last modified January 19, 2022)
+December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
