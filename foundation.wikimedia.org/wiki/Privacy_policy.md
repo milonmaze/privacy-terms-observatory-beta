@@ -1,6 +1,4 @@
-Privacy policy
-Jump to navigation
-Jump to search
+Jump to content
 العربية azərbaycanca تۆرکجه беларуская (тарашкевіца) български روچ کپتین بلوچی বাংলা bosanski català нохчийн کوردی čeština català Cymraeg Deutsch Deutsch (Sie-Form) Zazaki Ελληνικά emiliàn e rumagnòl English Canadian English British English Esperanto español euskara فارسی suomi français Nordfriisk Frysk galego Avañe'ẽ עברית हिन्दी hrvatski magyar Bahasa Indonesia italiano 日本語 ქართული ភាសាខ្មែរ 한국어 Ripoarisch кыргызча Lëtzebuergesch Ligure lietuvių Basa Banyumasan македонски മലയാളം Bahasa Melayu မြန်မာဘာသာ مازِرونی Napulitano norsk bokmål नेपाली Nederlands nl-formal Diné bizaad occitan ਪੰਜਾਬੀ Plautdietsch polski پښتو português português do Brasil română русский Scots سنڌي ၽႃႇသႃႇတႆး සිංහල Soomaaliga shqip српски / srpski svenska Kiswahili தமிழ் తెలుగు тоҷикӣ ไทย Türkçe удмурт українська اردو Tiếng Việt მარგალური ייִדיש Yorùbá 粵語 中文 中文（简体） 中文（繁體）
 
 This policy is approved by the Wikimedia Foundation Board of Trustees to apply to all Wikimedia projects.
@@ -437,5 +435,3 @@ Privacy-related pages
 Privacy policy · FAQ · Glossary of key terms · Wikimedia blog privacy policy · Subpoena FAQ · Access to nonpublic information · Data retention guidelines · Donor policy · Requests for user information
 
 Categories: Privacy policyPolicies
-Navigation menu
-Search
