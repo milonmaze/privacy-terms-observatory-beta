@@ -1,7 +1,5 @@
-The Wikimedia Donor Privacy Policy
+Jump to content
 < Donor privacy policy
-Jump to navigation
-Jump to search
 This page documents the Wikimedia Foundation's donor privacy policy. You can make a donation to the Wikimedia Foundation at donate.wikimedia.org.
 English العربية català dansk Deutsch español español de América Latina français עברית magyar italiano 日本語 latviešu norsk bokmål Nederlands polski português português do Brasil română русский slovenčina svenska українська 中文（简体） 中文（繁體）
 Contents
@@ -213,5 +211,3 @@ Donor Privacy Policy (2009)
 Please note that in the event of any differences in meaning or interpretation between the original English version of this Donor Privacy Policy and a translation, the original English version takes precedence.
 
 Category: Policies
-Navigation menu
-Search
