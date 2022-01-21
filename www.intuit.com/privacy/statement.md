@@ -271,14 +271,6 @@ If you have an unresolved privacy or information use concern or complaint that w
 
 You can also contact us through the following country and regional channels
 
-
-
-
-
-
-
-
-
 Expand AllCollapse All
 United States
 Australia
