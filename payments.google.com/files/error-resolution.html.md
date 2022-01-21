@@ -42,7 +42,7 @@ Section 5. Cancellation or Refunds of Bill Payments
 
 GPC cannot assist with a stop payment request for any scheduled Bill Payment transaction using a Payment Method that is a credit card; in such case, you must contact your credit card issuer directly.
 
-The following applies only to a bill payment which is a Recurring Payment using a Payment Method that is a debit card or that debits or charges your bank account (automated clearing house payment (ACH)-enabled). You can stop payment by calling us at 1-855-870-2997, or writing us at Google, Nest Renew 1600 Amphitheatre Parkway Mountain View, CA 94043 in time for us to receive your request at least three (3) business days or more before the scheduled date of the Bill Payment transaction. If you call, we may also require you to put your request in writing and get it to us within 14 days after your call, and your oral stop payment order will cease to be binding after the 14 day period if you fail to provide the requested written confirmation. If you order us to stop payment of a Bill Payment transaction three (3) business days or more before the payment is scheduled, and we do not do so, we will be liable for your losses or damages. GPC will not be able to stop payment of a Bill Payment transaction which has cleared at the time GPC receives your stop payment request. GPC also may not be able to stop payment if it does not have a reasonable opportunity to act on your stop payment request before the Bill Payment transaction has been processed.
+The following applies only to a Nest Renew Premium Bill Payment which is a Recurring Payment using a Payment Method that is a debit card or that debits or charges your bank account (automated clearing house payment (ACH)-enabled). You can stop a Nest Renew Premium Bill Payment by contacting Nest Renew Premium support by calling us at 1-855-870-2997, or writing us at Google, Nest Renew 1600 Amphitheatre Parkway Mountain View, CA 94043 in time for us to receive your request at least three (3) business days or more before the scheduled date of the Bill Payment transaction. If you call, we may also require you to put your request in writing and get it to us within 14 days after your call, and your oral stop payment order will cease to be binding after the 14 day period if you fail to provide the requested written confirmation. If you order us to stop payment of a Bill Payment transaction three (3) business days or more before the payment is scheduled, and we do not do so, we will be liable for your losses or damages. GPC will not be able to stop payment of a Bill Payment transaction which has cleared at the time GPC receives your stop payment request. GPC also may not be able to stop payment if it does not have a reasonable opportunity to act on your stop payment request before the Bill Payment transaction has been processed.
 
 Section 6. EFT Error Resolution Policy
 
@@ -87,7 +87,7 @@ IF YOUR GOOGLE PAY ACCOUNT USERNAME AND PASSWORD, OR YOUR GPB CARD PIN IS LOST O
 
 B. Notification to GPC of An Error on Your Bill Payment Transaction Subject To This Section 6 - EFT Error Resolution Policy
 
-In the event that you think that there is an error in your Bill Payment transaction subject to this Section 6 – EFT Error Resolution Policy, or you have questions or need more information about your Bill Payment transaction, please contact us by calling us at 1-855-870-2997, using the “Contact Us” form at http://nestrenew.google.com, or mailing or delivering your written request to Google, Nest Renew, 1600 Amphitheatre Parkway Mountain View, CA 94043.
+In the event that you think that there is an error in your Nest Renew Premium Bill Payment transaction subject to this Section 6 – EFT Error Resolution Policy, or you have questions or need more information about your Nest Renew Premium Bill Payment transaction, please contact Nest Renew Premium support by calling us at 1-855-870-2997, using the “Contact Us” form at http://nestrenew.google.com, or mailing or delivering your written request to Google, Nest Renew, 1600 Amphitheatre Parkway Mountain View, CA 94043.
 
 We must hear from you via one of the methods described above no later than 90 days after the date the issuer of your Payment Method made available to you the FIRST statement or other documentation on which the problem or error appeared.
 
@@ -131,9 +131,9 @@ Contact in event of unauthorized Google Pay account, GPB Card transactions or 
 
 Statement of Your Liability - Bill Payment Transactions.
 
-This section only applies to Bill Payment transactions funded by your debit card, or from your checking or savings account.
+This section only applies to Nest Renew Premium Bill Payment transactions funded by your debit card, or from your checking or savings account.
 
-Please tell us IMMEDIATELY if you believe your Bill Payment Service username and password have been lost or stolen. You may contact us by calling us at 1-855-870-2997, using the “Contact Us” form at http://nestrenew.google.com, or mailing or delivering your written request to
+Please tell us IMMEDIATELY if you believe your Nest Renew Premium Bill Payment Service username and password have been lost or stolen. You may contact Nest Renew Premium support by calling us at 1-855-870-2997, using the “Contact Us” form at http://nestrenew.google.com, or mailing or delivering your written request to
 
 Google
 
@@ -199,6 +199,6 @@ Section 8. Information Regarding State Regulators.
 
 Please see the website https://support.google.com/googlepay/answer/7160765?hl=en for a list of the jurisdictions in which Google Payment Corp. holds a money transmitter or other license and information on how to contact the regulatory authority in those jurisdictions.
 
-(11-9-2021)
+(01-20-2021)
 
 Google  About Google  Privacy & Terms
