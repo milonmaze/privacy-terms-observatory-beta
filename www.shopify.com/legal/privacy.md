@@ -2,7 +2,7 @@ Privacy Policy
 
 How Shopify handles your data
 
-Updated May 4, 2021
+Updated January 10, 2022
 
 Introduction
 
@@ -66,9 +66,9 @@ We are a Canadian company, but we work with and process data about individuals a
 
 Transfers outside of Europe and Switzerland
 
-If you are in Europe or Switzerland, your personal information is controlled by our Irish affiliate, Shopify International Ltd. Your information is then sent to other Shopify locations and to service providers who may be located in other regions, including Canada (where we are based) and the United States. When we send your personal information outside of Europe, we do so in accordance with European law.
+If you are in Europe, the UK, or Switzerland, your personal information is controlled by our Irish affiliate, Shopify International Ltd. Your information is then sent to other Shopify locations and to service providers who may be located in other regions, including Canada (where we are based) and the United States. When we send your personal information outside of Europe, we do so in accordance with European law.
 
-If you are in Europe or Switzerland, when we send your personal information to Canada it is protected under Canadian law, which the European Commission has found will adequately protect your information. If we then send this personal information outside of Canada (for example, when we send this information to our Subprocessors), this information is protected by contractual commitments that are comparable to those provided in Standard Contractual Clauses.
+If you are in Europe, the UK, or Switzerland, when we send your personal information to Canada it is protected under Canadian law, which the European Commission has found will adequately protect your information. If we then send this personal information outside of Canada (for example, when we send this information to our Subprocessors), this information is protected by contractual commitments that are comparable to those provided in Standard Contractual Clauses.
 
 Finally, while we do what we can to protect your information, we may at times be legally required to disclose your personal information (for example, if we receive a valid court order). For information about how we respond to such orders, please review our Guidelines for Legal Requests.
 
