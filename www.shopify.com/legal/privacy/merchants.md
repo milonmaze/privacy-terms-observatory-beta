@@ -19,15 +19,19 @@ Information you provide us about you and your business, like your name, the name
 To provide you with the use of our platform and other related services (e.g., to confirm your identity, to contact you about issues with the platform, to invoice you)
 To advertise and market products or features to you
 To comply with legal requirements
+To prevent fraudulent use of our services
 
 
 
 Payment information you provide us, such as your credit or debit card number or your bank account number. If you use Shopify Capital, we also collect information that you may choose to make available to us about your business’s bank accounts or financial assets.
 
 	
+To provide you with the use of our platform and other related services
 To charge for our services
 To provide Shopify Payments
 To provide Shopify Capital
+To provide Shopify Installments
+To provide Shopify Balance
 
 
 
@@ -37,6 +41,7 @@ Information about how you access Shopify websites, your account, and our platfor
 To provide you use of, and to improve, our platform and other related services (e.g., identifying ways to make our platform easier to use or navigate)
 To personalize the platform for you (e.g., by showing you apps in our app store that we believe may be useful to you)
 To advertise and market products or features to you
+To prevent fraudulent use of our services
 
 
 
@@ -58,6 +63,13 @@ If we need to verify your identity (e.g., to protect you against identity theft 
 To verify that we are speaking with you if you contact us
 To help us determine or verify account ownership
 To comply with legal requirements
+
+
+
+If your business is listed on Shop, you may voluntarily disclose personal data revealing the racial or ethnic origin or sexual orientation of the business owner.
+
+	
+To highlight collections of stores for the purpose of promoting diverse businesses
 
 We also work with companies that provide us with information about merchants or prospective merchants (for example, to protect against fraud or if we’re sponsoring an event).
 
