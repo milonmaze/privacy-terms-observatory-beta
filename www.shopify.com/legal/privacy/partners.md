@@ -52,6 +52,8 @@ to prevent or investigate suspected fraud, threats to physical safety, illegal a
 
 to help us conduct marketing and advertising
 
+to process payments from you, or to remit payments to you
+
 to comply with legal requirements, or to respond to court orders, subpoenas, warrants, or other similar government demands (for more information, please read our Government Access Policy)
 
 if we merge with or are acquired by another company
