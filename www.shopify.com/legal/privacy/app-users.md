@@ -67,6 +67,7 @@ If using Shop: Information about purchases you have made through Shopify stores,
 To provide and improve Shop -- in particular, to identify specific orders you have made, so that we can display those orders and related information (e.g., a list of stores you have made purchases from)
 To personalize your experience using our apps and services (e.g., by changing how we may order items that we show you)
 To determine if you are eligible for specific offers or payment methods
+To detect, prevent or otherwise address fraud
 We do NOT use this information to provide you with marketing or advertising from other stores or services
 
 
@@ -77,6 +78,8 @@ Information about how you access and use Shopify apps, websites, and other servi
 To provide you use of, and to improve, our apps and services (e.g., identifying ways to make our platform easier to use or navigate)
 To personalize your experience using our apps and services (e.g., by changing how we may order items that we show you)
 To advertise and market products or features to you
+To maintain the security of the service
+To detect or prevent fraud or spam
 
 
 
@@ -87,7 +90,7 @@ To verify that we are speaking with you if you contact us
 To comply with legal requirements
 When and why we share your information with others
 
-When you use Shop or another Shopify app to make a purchase, we share your personal information with the specific merchant from whom you make the purchase. We also rely on a number of service providers, including our subprocessors, to help us provide you with our services, which often requires us to share personal information. We also share your personal information with others:
+When you use Shop or another Shopify app to make a purchase, we share your personal information with the specific merchant from whom you make the purchase. When you use Shop to log in or sign up to a merchant’s website or other offering, we share your personal information with the specific merchant to whose website or other offering you log in or sign up. We also rely on a number of service providers, including our subprocessors, to help us provide you with our services, which often requires us to share personal information. We also share your personal information with others:
 
 to prevent or investigate suspected fraud, threats to physical safety, illegal activity, or violations of a contract (like our Terms of Service) or our policies (like our Acceptable Use Policy)
 
