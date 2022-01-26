@@ -1,3 +1,4 @@
+Skip to main content
 GitHub Privacy Statement
 In this article
 The short version
@@ -348,18 +349,3 @@ Cliquez ici pour obtenir la version française: Déclaration de confidentialité
 Other translations
 
 For translations of this statement into other languages, please visit https://docs.github.com/ and select a language from the drop-down menu under “English.”
-
-Did this doc help you?
-Privacy policy
-Help us make these docs great!
-
-All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
-
-Make a contribution
-
-Or, learn how to contribute.
-
-Still need help?
-Ask the GitHub community
-Contact support
-Scroll to top
