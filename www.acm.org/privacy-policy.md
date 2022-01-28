@@ -36,6 +36,10 @@ ACM maintains member databases that contain mailing, billing, and Member profile
 
 All personally identifiable information contained in ACM membership, purchase, and registration databases is treated as confidential and will be used only for the purposes stated in this Policy, except where required by law.
 
+Sanctions Database
+
+ACM maintains a secure database that contains details of complaints filed with respect to suspected violation(s) of ACM policies. Any complaint received regarding suspected violations of these policies will be addressed in accordance with ACM's complaints procedures. Information about complaints and their resolution will remain in this database until the sanction has expired. The information will be revealed only to authorized volunteers on a need-to-know basis.
+
 ACM Emails
 
 From time to time, ACM may send emails to Members or other visitors to the Web Site, such as:
