@@ -1636,10 +1636,11 @@ Cookies Statement
 Cookie Preferences
 Hilton Honors Terms & Conditions
 Site Usage Agreement
-©2021 Hilton
+©2022 Hilton
 this link opens in a new tab
 We use cookies and similar technologies to provide you with personalized content, improve site performance, and conduct analytics.
 
 We also work with third parties to show you content and advertisements for products and services you might like. These third parties use cookies on this site to process your personal data for their own purposes. If you wish to opt out of cookies and similar technologies, please click the Opt Out button.
 DISMISS OPT OUT
 Global Privacy Statement | Do Not Sell My Personal Information
+ 
