@@ -131,6 +131,6 @@ Company
 © 2022 Cloudflare, Inc.
 Privacy Policy
 Terms of Use
-Disclosure
+Report
 Cookie Preferences
 Trademark
