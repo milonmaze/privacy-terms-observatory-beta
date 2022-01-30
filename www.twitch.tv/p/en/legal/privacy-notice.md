@@ -1,6 +1,8 @@
 Legal
 Terms of Service
+Music Guidelines
 Community Guidelines
+Community Guidelines FAQ
 Privacy Notice
 Privacy Choices
 California Privacy Disclosure
