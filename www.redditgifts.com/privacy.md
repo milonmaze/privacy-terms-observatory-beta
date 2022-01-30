@@ -1,107 +1,95 @@
 Found the internet!
 Trending today
-Sarah Palin
-Sarah Palin went out to eat at a NYC restaurant two days after testing positive for Covid
+James Blunt
+James Blunt bringing the big guns to the Neil Young vs Spotify battle.
+r/WhitePeopleTwitter and more
+Tom Brady
+[Schefter] Tom Brady is retiring from football after 22 extraordinary seasons, multiple sources tell @JeffDarlington and me. More coming on ESPN.com.
+r/nfl and more
+Trump
+Trump Dangles Pardons for Jan. 6 Rioters if He Wins in 2024
+r/politics and more
+Snow
+Golden going full ostrich in some snow
+r/rarepuppers and more
+Irish Fishermen
+Russians back off after Irish fishermen vow to disrupt war games - CNN Video
 r/news and more
-Climate
-Coffee may become more scarce and expensive thanks to climate change. The world could lose half of its best coffee-growing land under a moderate climate change scenario. Brazil, which is the currently world’s largest coffee producer, will see its most suitable coffee-growing land decline by 79%.
-r/science and more
-Netflix
-Edgar Allan Poe Netflix Series “The Fall of the House of Usher” from Mike Flanagan Begins Production!
-r/horror and more
-Donda 2
-DONDA 2 IS COMING
-r/Kanye and more
-Ukraine
-Biden admin warns that serious Russian combat forces have gathered near Ukraine in last 24 hours
-2022 Australian Open
-Oranje boven bij rolstoeltennissers: Diede de Groot en Sam Schröder winnen Australian Open
-r/thenetherlands and more
+Convoy
+Meanwhile in Canada, the Trucker Freedom Convoy “against vaccine mandates” is basically a far-right, anti-vaxx, QAnon, MAGA, white supremacist rally
+r/vaxxhappened and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-28.0k
-r/AskReddit
-•Posted byu/leviathan_web
-10 hours ago
-28
-31
-& 29 More
-Join
-What is your "comfort show" you re-watch when you're sad or sick?
-22.3k Comments
-Share
-Save
-6.9k
-r/Music
-•Posted byu/stilldbi
-13 hours ago
-3
+1.4k
+PINNED BY MODERATORS
+r/tennis
+•Posted byu/rafaknight
+6 hours ago
+4
 2
-11
-12
-& 23 More
+4
 Join
-Canceled Spotify premium
-music streaming
-
-Can’t support that service anymore. I get everyone should have a voice. I chose not to support Joe Rogan’s voice. Thank you for coming to my Ted Talk.
-
-4.1k Comments
+Match Discussion: 2022 Australian Open Men's Final - [6] Rafael Nadal Vs [2] Daniil Medvedev
+26.2k Comments
 Share
 Save
-25.6k
-r/pics
-•Posted byu/CuriousTelevision941
-3 hours ago
-23
-16
-16
+35.6k
+r/worldnews
+•Posted byu/SensationallylovelyK
+18 hours ago
+2
+5
+6
 & 3 More
+Trudeau moved to undisclosed location as trucker protest descends on Ottawa
+upi.com/amp/To...
 Join
-3 teens beat pedophile stepdad to death for sexually abusing their half-sister (9 years old)
-1/2
-2.7k Comments
+5.4k Comments
+Share
+Save
+32.1k
+r/nextfuckinglevel
+•Posted byu/PorkyPain
+4 hours ago
+19
+23
+26
+Join
+Carving a river stone into a Black Widow
+0:00
+0:27
+301 Comments
 Share
 Save
 Top livestream
-Vote
-r/WatchPeopleDieInside
-•Posted byu/Inotaku_Wulfstan
-2 hours ago
-6
-6
-3
-Join
-Racoon and the case of dissappearing food
-gfycat.com/creamy...
-275 Comments
-Share
-Save
-17.3k
-r/nba
-•Posted byu/curryybacon
+54.2k
+r/mildlyinfuriating
+•Posted byu/Nitrain17
 14 hours ago
-2
-& 62 More
-[Charania] First-time NBA All-Star as a starter in the West: Golden State's Andrew Wiggins.
-News
-twitter.com/ShamsC...
+17
+15
+18
 Join
-3.4k Comments
+I thought I was stupid because I couldn’t figure out which one started with R.
+4.7k Comments
 Share
 Save
-11.1k
-r/mildlyinteresting
-•Posted byu/Curtaindrops
-2 hours ago
+52.7k
+r/PublicFreakout
+•Posted byu/Donkeychuker
+19 hours ago
 2
+3
+25
+27
+& 30 More
 Join
-My grandmas curtains after 15 years sun damage
-OC
-167 Comments
+Antimaskers records their crime, call police on themselves and one gets arrested for trespassing and assault.
+Repost 😔
+4.2k Comments
 Share
 Save
