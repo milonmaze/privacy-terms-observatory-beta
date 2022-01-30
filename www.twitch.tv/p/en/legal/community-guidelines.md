@@ -1,52 +1,16 @@
-Legal
-Terms of Service
-Community Guidelines
-Off-Service Conduct Policy
-Harassment
-Sexual Content
-Music
-FAQ
-Privacy Notice
-Privacy Choices
-California Privacy Disclosure
-DMCA Guidelines
-Trademark Policy
-Trademark Guidelines
-Terms of Sale
-Developer Agreement
-Affiliate Program Agreement
-Supplemental Fees Statement
-Ad Choices
-Channel Points Acceptable Use Policy
-Bits Acceptable Use Policy
-Cookie Notice
-Photosensitive Seizure Warning
-Predictions Terms and Conditions
-Modern Day Slavery Statement
-Events Code Of Conduct
-Accessibility Statement
-Transparency Report
-Advertising
-Blog
-Brand
-Developers
-Security
-Help
-Jobs
-Languages
-Last modified on 12/16/2021
+Preferred Language
+twitch.tv  ↗
 Community Guidelines
 
 At Twitch, our mission is to provide the best shared social video experience created by our growing community where creators and communities can interact safely. To achieve this goal, we ask that all users participate in such a way that promotes a friendly, positive experience for our global community.
 
-In addition to our Terms of Service, we provide the following guidelines for our community. These guidelines fall under a common sense philosophy and apply to all user generated content and activity on our services. This is considered a living document that we regularly update based on the evolution of the Twitch community and service. Additional guidelines or specific exceptions may be applicable for certain services or properties under the Twitch Service.
+In addition to our Terms of Service, we provide the following guidelines for our community. These guidelines fall under a common sense philosophy and apply to all user generated content and activity on our services. This is considered a living document that we regularly update based on the evolution of the Twitch community and service. Additional guidelines or specific exceptions may be applicable for certain services or properties under the Twitch Service.
 
-To protect the integrity of our community, as the provider of the service, we at Twitch reserve the right to suspend any account at any time for any conduct that we determine to be inappropriate or harmful. Such actions may include: removal of content, a strike on the account, and/or suspension of account(s). Please refer to this page for more detail: About Suspensions.
+To protect the integrity of our community, as the provider of the service, we at Twitch reserve the right to suspend any account at any time for any conduct that we determine to be inappropriate or harmful. Such actions may include: removal of content, a strike on the account, and/or suspension of account(s). Please refer to this page for more detail: About Suspensions.
 
 Breaking the Law
 
 You must respect all applicable local, national, and international laws while using our services. Any content or activity featuring, encouraging, offering, or soliciting illegal activity is prohibited.
-
 This includes committing or aiding in the malicious destruction, defacement, or theft of public or another person’s private property without permission on stream.
 
 Suspension Evasion
@@ -57,7 +21,7 @@ In addition, it is prohibited to use your channel to knowingly feature or advert
 
 Self-Destructive Behavior
 
-Activity that may endanger your life, lead to your physical harm, or encourage others to engage in physically harmful behavior is prohibited.  This includes, but is not limited to: suicide threats, glorification or encouragement of self-harm, intentional physical trauma, illegal use of drugs, illegal or dangerous consumption of alcohol, and dangerous or distracted driving. We do not make exceptions for self destructive behavior performed as a stunt or gag made in jest, or meant to entertain, when the behavior could reasonably be expected to cause physical injury.
+Activity that may endanger your life, lead to your physical harm, or encourage others to engage in physically harmful behavior is prohibited.  This includes, but is not limited to: suicide threats, glorification or encouragement of self-harm, intentional physical trauma, illegal use of drugs, illegal or dangerous consumption of alcohol, and dangerous or distracted driving.
 
 Violence and Threats
 
@@ -75,7 +39,7 @@ In exceptional circumstances, we may preemptively suspend accounts when we belie
 
 Hateful Conduct and Harassment
 
-Hateful conduct and harassment are not allowed on Twitch. Hateful conduct is any content or activity that promotes or encourages discrimination, denigration, harassment, or violence based on the following protected characteristics: race, ethnicity, color, caste, national origin, immigration status, religion, sex, gender, gender identity, sexual orientation, disability, serious medical condition, and veteran status. We also provide certain protections for age. Twitch has zero tolerance for hateful conduct, meaning we act on every valid reported instance of hateful conduct. We afford every user equal protections under this policy, regardless of their particular characteristics.
+Hateful conduct and harassment are not allowed on Twitch. Hateful conduct is any content or activity that promotes or encourages discrimination, denigration, harassment, or violence based on the following protected characteristics: race, ethnicity, color, caste, national origin, immigration status, religion, sex, gender, gender identity, sexual orientation, disability, serious medical condition, and veteran status. We also provide certain protections for age. Twitch has zero tolerance for hateful conduct, meaning we act on every valid reported instance of hateful conduct. We afford every user equal protections under this policy, regardless of their particular characteristics.
 
 Harassment has many manifestations, including stalking, personal attacks, promotion of physical harm, hostile raids, and malicious false report brigading. Sexual harassment, specifically, can take the form of unwelcome sexual advances and solicitations, sexual objectification, or degrading attacks relating to a person’s perceived sexual practices.
 
@@ -117,7 +81,7 @@ Content or activities that threaten or promote sexual violence or exploitation a
 
 Sexually suggestive content or activities are also prohibited, although they may be allowed in educational contexts or for pre-approved licensed content, in each case subject to additional restrictions.
 
-Learn more about our sexual content policies and enforcement.
+Learn more about our sexual content policies and enforcement.
 
 Extreme Violence, Gore, and Other Obscene Conduct
 
@@ -129,7 +93,7 @@ You should only share content on your Twitch channel that you own, or that you o
 
 Any unauthorized content you share on Twitch may be subject to a takedown by the rights holder(s) to remove the infringing content from Twitch, and is a violation of our Terms of Service and Community Guidelines. Multiple violations of our policies may lead to a permanent suspension of your account.
 
-Examples of content you should not share on Twitch without permission from the copyright owners or unless otherwise permitted by law include:
+Examples of content you should not share on Twitch without permission from the copyright owners or unless otherwise permitted by law include:
 
 Other Twitch creators’ content
 Pirated games or content from unauthorized private servers
@@ -137,7 +101,7 @@ Content from other sites
 Movies, television shows, or sports matches
 Music you do not own or do not have the rights to share
 
-Learn more about our policies regarding including music in your Twitch channel.
+Learn more about our policies regarding including music in your Twitch channel.
 
 Content Labeling
 
@@ -154,7 +118,7 @@ Any activity, such as cheating, hacking, botting, or tampering, that gives the a
 
 Closed Alphas/Betas and Pre-Release Games
 
-We ask that you respect all publisher/developer-enforced release dates, embargoes, and NDAs by waiting to broadcast these games until everyone else gets to. Unless given prior approval, your channel may be subject to DMCA takedown by a rights holder. Rights holders should report violations in accordance with our DMCA Guidelines. We ask that users refrain from reporting possible violations via the user report tool.
+We ask that you respect all publisher/developer-enforced release dates, embargoes, and NDAs by waiting to broadcast these games until everyone else gets to. Unless given prior approval, your channel may be subject to DMCA takedown by a rights holder. Rights holders should report violations in accordance with our DMCA Guidelines. We ask that users refrain from reporting possible violations via the user report tool.
 
 Off-Service Conduct
 
@@ -163,3 +127,35 @@ Twitch is committed to facilitating vibrant and dynamic communities, which can o
 We will do our best to ensure that our enforcement decisions are accurate, which in some cases will necessitate us bringing in a third party investigator for thorough and impartial review. If we are able to verify reports of off-service statements or behaviors that relate to an incident that took place on Twitch, we will use this evidence to support and inform our enforcement decisions.
 
 Learn more about our Off-Service Conduct Policy.
+ 
+
+Breaking the Law
+Suspension Evasion
+Self-Destructive Behavior
+Violence and Threats
+Hateful Conduct and Harassment
+Unauthorized Sharing of Private Information
+Impersonation
+Spam, Scams, and Other Malicious Conduct
+Nudity, Pornography, and Other Sexual Content
+Extreme Violence, Gore, and Other Obscene Conduct
+Intellectual Property Rights
+Content Labeling
+Additional Gaming Content Guidelines
+Off-Service Conduct
+Company
+About
+Legal
+Blog
+Help
+twitch.tv  ↗
+Newsroom
+Safety News
+Press
+Terms of Service
+Privacy Policy
+Ad Choices
+Cookie Policy
+Partners
+Affiliates
+© 2022 Twitch Interactive, Inc.
