@@ -29,3 +29,7 @@ Cookies and Other Technologies
 Transfer of Personal Data Between Countries
 Our Companywide Commitment to Your Privacy
 Privacy Questions
+
+View our APEC CBPR certification >
+
+View our APEC PRP certification >
