@@ -121,7 +121,7 @@ ZIP Code
 Shop New Shop Pre-Owned
  BMW Owners
 BMW Owners
-Sign in to My BMW Register for My BMW Log in to BMW ConnectedDrive
+Sign in to My BMW  Register for My BMW  Log in to BMW ConnectedDrive 
 BMW Privacy Policy
 Effective 07/01/2020
 
