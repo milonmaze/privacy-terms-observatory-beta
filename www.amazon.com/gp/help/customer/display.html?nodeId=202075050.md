@@ -46,7 +46,6 @@ Amazon and Your Personal Information
 Interest-Based Ads
 EU-US Privacy Shield
 About Cookies
-Third Party Cookies
 California Supply Chain Transparency Act Statement
 Law Enforcement Information Requests
 Communications from Amazon.com
