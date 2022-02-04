@@ -1,8 +1,8 @@
 Cloudflare Privacy Policy
 
-This Privacy Policy is effective as of September 1, 2021.
+This Privacy Policy is effective as of February 1, 2022.
 
-We have updated our June 23, 2021, privacy policy to provide greater clarity about the categories of data subjects on the Cloudflare Service and about the data we process for those data subjects. We have also clarified the situations in which we are acting as a data controller or a data processor and have made edits to conform with applicable data protection laws.
+We have updated our September 1, 2021, Privacy Policy to update the name of our Cloudflare Zero Trust offering.
 
 This Cloudflare Privacy Policy (“Policy”) outlines the personal information that Cloudflare, Inc. (“Cloudflare”, “we”, “us” or “our”) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.
 
@@ -26,7 +26,7 @@ Administrative Users: Those with login credentials for a Cloudflare account and/
 
 Public DNS Resolver Users: Those who use Cloudflare’s 1.1.1.1 public recursive Domain Name System (“DNS”) resolver service, including 1.1.1.1 for Families ("1.1.1.1 resolver"). Learn more about the 1.1.1.1 resolver here.
 
-End Users: Those who (i) access or use our Customers’ domains, networks, websites, application programming interfaces, and applications, or (ii) Customers’ employees, agents, or contractors, who access or use Services, such as Cloudflare for Teams end users.
+End Users: Those who (i) access or use our Customers’ domains, networks, websites, application programming interfaces, and applications, or (ii) Customers’ employees, agents, or contractors, who access or use Services, such as Cloudflare Zero Trust end users.
 
 Registrants: Users of Cloudflare’s domain registrar services. Cloudflare is an ICANN-accredited registrar and complies with the 2013 Registrar Accreditation Agreement (“RAA”).
 
@@ -72,7 +72,7 @@ Please note that our data handling practices for our 1.1.1.1 Application, which 
 
 End Users
 
-Logs: Cloudflare processes logs of End Users’ interactions with Customer’s Internet Properties and the Services. This information is processed when End Users access or use our Customers’ domains, websites, APIs, applications, devices, end points, and networks that use one or more of our Services, and when End Users access or use Services, such as Cloudflare for Teams. The information processed may include but is not limited to IP addresses, system configuration information, and other information about traffic to and from Customers’ websites, devices, applications, and/or networks.
+Logs: Cloudflare processes logs of End Users’ interactions with Customer’s Internet Properties and the Services. This information is processed when End Users access or use our Customers’ domains, websites, APIs, applications, devices, end points, and networks that use one or more of our Services, and when End Users access or use Services, such as Cloudflare Zero Trust. The information processed may include but is not limited to IP addresses, system configuration information, and other information about traffic to and from Customers’ websites, devices, applications, and/or networks.
 
 The End User logs that we make available to our Customers via the Service dashboard or other online interface are specifically defined as “Customer Logs”.
 
@@ -334,6 +334,6 @@ Company
 © 2022 Cloudflare, Inc.
 Privacy Policy
 Terms of Use
-Report
+Report Security Issues
 Cookie Preferences
 Trademark
