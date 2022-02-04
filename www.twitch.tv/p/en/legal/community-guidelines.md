@@ -91,17 +91,22 @@ Intellectual Property Rights
 
 You should only share content on your Twitch channel that you own, or that you otherwise have rights to or are authorized to share on Twitch. If you share content on your Twitch channel that you do not own or otherwise do not have the rights to share on Twitch, you may be infringing another person’s intellectual property rights. This includes any third party content included in your content, derivative creations, or performances of others’ copyrighted content. We encourage you to assess your content for adherence to applicable intellectual property laws and the proper application of principles such as fair use, and to secure all appropriate rights needed, before sharing your content on Twitch.
 
-Any unauthorized content you share on Twitch may be subject to a takedown by the rights holder(s) to remove the infringing content from Twitch, and is a violation of our Terms of Service and Community Guidelines. Multiple violations of our policies may lead to a permanent suspension of your account.
+Any unauthorized content you share on Twitch violates our Terms of Service and is subject to removal. Multiple violations of our policies may lead to a permanent suspension of your account. Rights holders may request that Twitch remove unauthorized content and/or issue penalties through the following processes:
 
-Examples of content you should not share on Twitch without permission from the copyright owners or unless otherwise permitted by law include:
+For copyrighted works, the notice-and-takedown process described in our DMCA Guidelines.
+For trademarks, the process described in our Trademark Policy.
+For copyrighted works owned by rights holders with whom Twitch has contractual arrangements, we may have separate reporting and handling processes, for example, the Music Reporting Process.
+
+Examples of content you should not share on Twitch without permission from the rights holders or unless otherwise permitted by law include:
 
 Other Twitch creators’ content
 Pirated games or content from unauthorized private servers
 Content from other sites
 Movies, television shows, or sports matches
 Music you do not own or do not have the rights to share
+Goods or services protected by trademark
 
-Learn more about our policies regarding including music in your Twitch channel.
+Learn more about our policies regarding including music in your Twitch channel.
 
 Content Labeling
 
@@ -127,7 +132,6 @@ Twitch is committed to facilitating vibrant and dynamic communities, which can o
 We will do our best to ensure that our enforcement decisions are accurate, which in some cases will necessitate us bringing in a third party investigator for thorough and impartial review. If we are able to verify reports of off-service statements or behaviors that relate to an incident that took place on Twitch, we will use this evidence to support and inform our enforcement decisions.
 
 Learn more about our Off-Service Conduct Policy.
- 
 
 Breaking the Law
 Suspension Evasion
