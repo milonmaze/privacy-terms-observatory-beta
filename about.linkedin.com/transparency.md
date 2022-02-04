@@ -3,7 +3,7 @@ Close jump menu
 Our Transparency Report
 
 
-We strive for transparency and accountability in the actions we take to protect our members, how we handle inquiries for member data, and how we respond to content removal requests. In the six months since our last report, we’ve seen more people than ever coming to LinkedIn to connect, learn new skills, create content, and find jobs. As more people come to LinkedIn, we continue to invest in technology and people to help stop and prevent abuse, and take action on those who misuse the platform to help keep members safe.
+We strive for transparency and accountability in the actions we take to protect our members, how we handle inquiries for member data, and how we respond to content removal requests. We continued to see record levels of engagement on the platform during this reporting period. As more people come to LinkedIn to connect to economic opportunity, we continue to invest in technology and people to help stop and prevent abuse, and take action on those who misuse the platform.
 
 Our semi-annual Transparency Report includes both a Community Report and a Government Requests Report.
 
