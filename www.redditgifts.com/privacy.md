@@ -1,78 +1,100 @@
 Found the internet!
 Trending today
-Ted Cruz
-Ted Cruz tweets about rising Cancun flight costs ahead of another Texas winter storm
+Dwayne 'The Rock' Johnson
+Dwayne 'The Rock' Johnson denounces his support of Joe Rogan: "Now I've become educated to his complete narrative"
+r/entertainment and more
+Mike Pence
+Mike Pence 'Did the Right Thing'—GOP Voters Praise Speech Against Donald Trump
 r/politics and more
-Meta
-Zuckerberg loses $29 billion in a day as Meta shares crash
-r/technews and more
-Spotify
-Spotify CEO addresses Joe Rogan controversy: “We don’t change our policies based on one creator”
-r/Music and more
-Ukraine
-U.S. intelligence: Russia may stage video to create pretext for Ukraine war
-NBA
-[Charania] 2022 NBA East All-Star reserves: Jimmy Butler, Darius Garland, James Harden, Zach LaVine, Khris Middleton, Jayson Tatum, Fred VanVleet.
-r/nba and more
-Rudy Giuliani
-Rudy Giuliani unmasked on 'The Masked Singer' prompts judges to walk out
-r/nyc and more
+Russia
+Satellite images show biggest methane leaks come from Russia and US {NewScientist article]
+r/environment and more
+Minecraft
+The 4 Horsemen of Minecraft Stronghold generation
+r/MinecraftMemes and more
+Covid
+The brains of patients who died as a result of COVID-19 infection displayed some of the same molecular changes found in the brains of those with Alzheimer’s disease, a new small study found. The findings may explain why some long-term COVID sufferers report memory problems.
+r/science and more
+Convoy Counter Protests
+From Vancouver's counter-protest this morning (between 10:00am and noon)
+r/britishcolumbia and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-22.3k
-r/funny
-•Posted byu/beautifulplanet
+63.3k
+r/technology
+•Posted byu/Zhukov-74
+20 hours ago
+& 116 More
+Meta threatens to pull Facebook and Instagram from the European market
+Business
+side-line.com/meta-t...
+Join
+8.4k Comments
+Share
+Save
+28.6k
+r/memes
+•Posted byu/A_Dark_sh
 3 hours ago
-6
+16
+30
+33
+Join
+Miss him
+166 Comments
+Share
+Save
+12.6k
+r/nextfuckinglevel
+•Posted byu/dump_acc_91
+3 hours ago
 4
-9
+4
 Join
-Humans ...
-1.7k Comments
-Share
-Save
-20.2k
-r/MadeMeSmile
-•Posted byu/Arl107
-3 hours ago
-7
-15
-9
-Join
-A newlywed couple was enjoying their first dance when suddenly someone unexpectedly joined them.
- DOGS 
+Tornado sirens harmonizing
 0:00
-0:55
-184 Comments
-Share
-Save
-26.0k
-r/Unexpected
-•Posted byu/daaaangdood
-5 hours ago
-6
-8
-15
-Join
-These calls don’t ever end like that for me
-0:00
-2:54
-893 Comments
+0:29
+237 Comments
 Share
 Save
 Top livestream
-48.1k
-r/nottheonion
-•Posted byu/Better-Resident
-17 hours ago
-6
-Ted Cruz tweets about rising Cancun flight costs ahead of another Texas winter storm
-kxan.com/news/t...
+506
+r/Cricket
+•Posted byu/CricketMatchBot
+7 hours ago
 Join
-2.0k Comments
+Match Thread: 1st ODI - India vs West Indies
+1st ODI, West Indies tour of India at Ahmedabad
+
+Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
+
+Innings	Score
+West Indies	176 (Ov 43.5/50)
+India	160/4 (Ov 25/50)
+
+
+
+
+Batter	Runs	Balls	SR
+Suryakumar Yadav*	24	26	92.31
+Deepak Hooda	18	24	75.0Bowler	Overs	Runs	Wickets
+Akeal Hosein	8	42	1
+Jason Holder	5	29	0
+Recent : .  |  . . . 1 . .  |  . . . . 1w 4 .  |  1 1 . . . 1  |  
+
+
+India need 17 runs from 25 overs.
+
+Live match threads: West Indies Women vs South Africa Women | Karachi Kings vs Islamabad United |
+
+Send feedback | Schedule | Stat Help
+
+Please don't post illegal streaming links in match threads
+
+5.0k Comments
 Share
 Save
