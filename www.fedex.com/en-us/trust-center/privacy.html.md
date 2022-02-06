@@ -3,7 +3,7 @@ Global privacy policy  Privacy notice  Cookie notice  Binding corporate rules
 
 Note: The English version of fedex.com privacy notice govern in the U.S. The Spanish translation is provided as a courtesy. FedEx makes no representation or warranties with regard to the accuracy of the translation.
 
-Last update: July 23, 2021
+Last update: February 4, 2022
 
 Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx. We are committed to protecting your privacy and the security of your personal data. We have created this Privacy Notice to explain how FedEx collects and uses personal data.
 
@@ -67,7 +67,7 @@ FedEx shall only collect, use or otherwise process Personal Data if the processi
 
 2. Performing agreements. This includes shipping services, tracking FedEx services, communication with individuals and other parties regarding services, responding to requests for (further) information, dispute resolution and preparing agreements (e.g., link the shipment tracking number to your account to enable you to follow your shipment).
 
-3. Relationship management and marketing for commercial activities. In general, FedEx processes Personal Data as necessary for the development and improvement of FedEx products and/or services, account management, client services and the performance of (targeted) marketing activities in order to establish a relationship with a client and/or maintaining as well as extending a relationship with a client, business partner or supplier and for performing analyses with respect to Personal Data for statistical and scientific purposes (e.g., deliver advertising, communications and content from us on our sites and those of third parties more specific to your interests).
+3. Relationship management and marketing for commercial activities. In general, FedEx processes Personal Data as necessary for the development and improvement of FedEx products and/or services, account management, client services and the performance of (targeted) marketing activities in order to establish a relationship with a client and/or maintaining as well as extending a relationship with a client, business partner or supplier and for performing analyses with respect to Personal Data for statistical and scientific purposes (e.g., deliver advertising, communications and content from us on our sites and those of third parties more specific to your interests). With respect to Personal Data, we may append data with third party information to aid in performing analyses and the performances of (targeted) marketing activities.
 
 
 You can manage your accounts with FedEx through the following:
