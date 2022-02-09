@@ -1,100 +1,93 @@
 Found the internet!
 Trending today
-Dwayne 'The Rock' Johnson
-Dwayne 'The Rock' Johnson denounces his support of Joe Rogan: "Now I've become educated to his complete narrative"
-r/entertainment and more
-Mike Pence
-Mike Pence 'Did the Right Thing'—GOP Voters Praise Speech Against Donald Trump
+Nvidia
+Facebook falls behind Nvidia in market cap and is now eighth most valuable U.S. company
+r/technology and more
+Ottawa
+About 100 convoy trucks in downtown Ottawa have children living inside: police
+Methane
+Scientists raise alarm over ‘dangerously fast’ growth in atmospheric methane
+Voting Rights
+SCOTUS Just Blew Up the Voting Rights Act’s Ban on Racial Gerrymandering - By greenlighting Alabama’s egregious map, five ultraconservative justices declared open season on racial minorities’ voting power
 r/politics and more
-Russia
-Satellite images show biggest methane leaks come from Russia and US {NewScientist article]
-r/environment and more
-Minecraft
-The 4 Horsemen of Minecraft Stronghold generation
-r/MinecraftMemes and more
-Covid
-The brains of patients who died as a result of COVID-19 infection displayed some of the same molecular changes found in the brains of those with Alzheimer’s disease, a new small study found. The findings may explain why some long-term COVID sufferers report memory problems.
-r/science and more
-Convoy Counter Protests
-From Vancouver's counter-protest this morning (between 10:00am and noon)
-r/britishcolumbia and more
+Ukraine
+6 Russian Warships And Submarine Now Entering Black Sea Towards Ukraine - Naval News
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-63.3k
-r/technology
-•Posted byu/Zhukov-74
-20 hours ago
-& 116 More
-Meta threatens to pull Facebook and Instagram from the European market
-Business
-side-line.com/meta-t...
-Join
-8.4k Comments
-Share
-Save
-28.6k
+40.8k
 r/memes
-•Posted byu/A_Dark_sh
-3 hours ago
-16
-30
-33
+•Posted byu/bojidar_ivanov
+5 hours ago
+24
+25
+36
 Join
-Miss him
-166 Comments
+Oh no anyway
+537 Comments
 Share
 Save
-12.6k
-r/nextfuckinglevel
-•Posted byu/dump_acc_91
-3 hours ago
-4
-4
+12.8k
+r/WhitePeopleTwitter
+•Posted byu/bradhrad
+4 hours ago
 Join
-Tornado sirens harmonizing
-0:00
-0:29
-237 Comments
+But what about Joe Rogan
+270 Comments
+Share
+Save
+8.5k
+r/HolUp
+•Posted byu/Ok-Jud
+2 hours ago
+2
+Join
+Wink!
+y'all act like she died nsfw
+283 Comments
+Share
+Save
+41.8k
+r/interestingasfuck
+•Posted byu/roCky3131
+7 hours ago
+14
+16
+10
+Join
+removing algae from a Water Lily to help it bloom
+/r/ALL
+gfycat.com/blissf...
+344 Comments
 Share
 Save
 Top livestream
-506
-r/Cricket
-•Posted byu/CricketMatchBot
-7 hours ago
+86.7k
+r/nottheonion
+•Posted byu/Dangerous_Money_6875
+13 hours ago
+15
+20
+22
+& 4 More
+Meta's threat to close down Facebook and Instagram in Europe backfires as EU leaders embrace shutdown: 'Life would be very good without'
+cityam.com/metas-...
 Join
-Match Thread: 1st ODI - India vs West Indies
-1st ODI, West Indies tour of India at Ahmedabad
-
-Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
-
-Innings	Score
-West Indies	176 (Ov 43.5/50)
-India	160/4 (Ov 25/50)
-
-
-
-
-Batter	Runs	Balls	SR
-Suryakumar Yadav*	24	26	92.31
-Deepak Hooda	18	24	75.0Bowler	Overs	Runs	Wickets
-Akeal Hosein	8	42	1
-Jason Holder	5	29	0
-Recent : .  |  . . . 1 . .  |  . . . . 1w 4 .  |  1 1 . . . 1  |  
-
-
-India need 17 runs from 25 overs.
-
-Live match threads: West Indies Women vs South Africa Women | Karachi Kings vs Islamabad United |
-
-Send feedback | Schedule | Stat Help
-
-Please don't post illegal streaming links in match threads
-
-5.0k Comments
+2.8k Comments
+Share
+Save
+55.3k
+r/todayilearned
+•Posted byu/moomoomeow2
+18 hours ago
+3
+5
+TIL there are now more Spanish-speakers in the United States than there are in Spain.
+theguardian.com/us-new...
+Join
+2.6k Comments
 Share
 Save
