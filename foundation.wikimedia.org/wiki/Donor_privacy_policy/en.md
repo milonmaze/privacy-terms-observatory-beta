@@ -1,4 +1,6 @@
 Jump to content
+Languages
+On this Wikimedia Foundation Governance Wiki the language links are at the top of the page across from the article title. Go to top.
 < Donor privacy policy
 This page documents the Wikimedia Foundation's donor privacy policy. You can make a donation to the Wikimedia Foundation at donate.wikimedia.org.
 English العربية català dansk Deutsch español español de América Latina français עברית magyar italiano 日本語 latviešu norsk bokmål Nederlands polski português português do Brasil română русский slovenčina svenska українська 中文（简体） 中文（繁體）
