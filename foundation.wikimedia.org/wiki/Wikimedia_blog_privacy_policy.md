@@ -1,4 +1,6 @@
 Jump to content
+Languages
+On this Wikimedia Foundation Governance Wiki the language links are at the top of the page across from the article title. Go to top.
 
 Welcome!
 
