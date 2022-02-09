@@ -18,7 +18,7 @@ Account information. We collect, and associate with your account, the informatio
 
 Your Stuff. Our Services are designed as a simple and personalized way for you to store your files, documents, photos, comments, messages, and so on (“Your Stuff”), collaborate with others, and work across multiple devices and services. To make that possible, we store, process, and transmit Your Stuff as well as information related to it. This related information includes your profile information that makes it easier to collaborate and share Your Stuff with others, as well as things like the size of the file, the time it was uploaded, collaborators, and usage activity.
 
-Contacts. You may choose to give us access to your contacts to make it easy for you, and your Dropbox Business team (collectively, “Dropbox Business Team”), if you’re a Dropbox Business Team user, do things like share and collaborate on Your Stuff, send messages, and invite others to use the Services. If you do, we’ll store those contacts on our servers.
+Contacts. You may choose to give us access to your contacts to make it easy for you, and your Dropbox Business team (collectively, “Dropbox Business Team”), if you’re a Dropbox Business Team user, to do things like share and collaborate on Your Stuff, send messages, and invite others to use the Services. If you do, we’ll store those contacts on our servers.
 
 Usage information. We collect information related to how you use the Services, including actions you take in your account (like sharing, editing, viewing, creating and moving files or folders). We use this information to provide, improve, and promote our Services, and protect Dropbox users. Please refer to our FAQ for more information about how we use this usage information.
 
