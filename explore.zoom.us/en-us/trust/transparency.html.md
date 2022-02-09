@@ -11,9 +11,11 @@ Definitions
 Data set
 Overview
 
-Released: August 9, 2021
+Released: Feb 8, 2022
 
-We are pleased to offer our transparency report for the period of December 13, 2020 through June 30, 2021. This report is designed to offer insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. Zoom believes that transparency is critical to building trust and fostering the free and open exchange of ideas.
+We are pleased to offer our transparency report for the period of July 1, 2021 through December 31, 2021. This report is designed to offer insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. Zoom believes that transparency is critical to building trust and fostering the free and open exchange of ideas.
+
+What’s new in this report: In this report, we have added information about the number of delayed-notice orders we received as part of U.S. requests.
 
 As detailed in our Privacy Statement, Zoom is committed to protecting user privacy and only produces user data to governments in response to valid and lawful requests in accordance with our Government Requests Guide and relevant legal policies.
 
@@ -21,13 +23,17 @@ We have a streamlined approach to handle government requests. Our legal staff ev
 
 We categorize the data associated with each request in our case management system. We have a standardized set of policies and a centralized system for tracking requests, as well as internal guidelines and quality controls processes. All of these features were implemented with an eye towards transparent reporting.
 
-We will not update the transparency report for this reporting period other than as required by law. The dates of this transparency reporting period are non-standard because our first transparency report also had non-standard dates; going forward, we will publish our transparency reports semi-annually, with reporting periods from January to June and July to December.
+We will not update the transparency report for this reporting period other than as required by law.
 
-Here is a summary of the requests we’ve processed from December 13, 2020 through June 30, 2021, and how we responded to them:
+Here is a summary of the requests we’ve processed from July 1, 2021 through December 31, 2021, and how we responded to them. If you would like to see our 2021 - Q1/Q2 Transparency Report, use the date selection in the chart below.
 
 U.S. Requests
 
 U.S. requests to Zoom can come in the form of search warrants, subpoenas (grand jury, trial and administrative), court orders, preservation requests, emergency requests and national security requests.
+
+Delayed-notice orders (U.S. only)
+
+In this period, 44 out of 99 U.S. requests were accompanied by a valid delayed-notice order.
 
 International Requests
 
@@ -43,6 +49,7 @@ We use a number of terms in this report that have specific legal meanings in thi
 
 CLOUD Act Request - a request made pursuant to the CLOUD Act. Can demand content.
 Content - can include video content, chat logs, transcripts or profile pictures; essentially, any media that depicts what a person spoke, wrote or did. When we report disclosing “content,” that means we disclosed both content and non-content.
+Delayed-notice order (U.S. only) - an order, signed by a judge, preventing Zoom from notifying one or more users of a government request for their information for a specified period of time.
 Emergency Request (U.S. or international) - a request for user data without standard legal process, on the grounds that there is a danger of death or serious physical injury to a person.
 General information means we provided general information about the law enforcement request process, but not content or non-content.
 MLAT Request (International only) - a request made by a foreign country through the U.S. Department of Justice pursuant to a Mutual Legal Assistance Treaty. Can demand content.
