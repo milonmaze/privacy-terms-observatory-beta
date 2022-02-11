@@ -33,7 +33,7 @@ U.S. requests to Zoom can come in the form of search warrants, subpoenas (grand 
 
 Delayed-notice orders (U.S. only)
 
-In this period, 44 out of 99 U.S. requests were accompanied by a valid delayed-notice order.
+In this period, 44 US requests came with a delayed notification order.
 
 International Requests
 
