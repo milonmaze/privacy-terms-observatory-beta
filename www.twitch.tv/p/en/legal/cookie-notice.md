@@ -2,6 +2,7 @@ Legal
 Terms of Service
 Music Guidelines
 Community Guidelines
+Account Usernames and Display Names Policy
 Community Guidelines FAQ
 Privacy Notice
 Privacy Choices
