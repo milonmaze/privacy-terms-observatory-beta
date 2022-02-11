@@ -2,19 +2,22 @@ Privacy & Terms
 Sign in
 LEGAL FRAMEWORKS FOR DATA TRANSFERS
 
-Effective September 30, 2020
+Effective February 10, 2022
 
-Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in the Privacy Policy. We also comply with certain legal frameworks relating to the transfer of data, such as the European frameworks described below.
+We maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in the Privacy Policy. We also comply with certain legal frameworks relating to the transfer of data, such as the frameworks described below.
 
-The European Commission has determined that certain countries outside of the European Economic Area (EEA) adequately protect personal data. You can review current European Commission adequacy decisions here. To transfer data from the EEA to other countries, such as the United States, we comply with legal frameworks that establish an equivalent level of protection with EU law.
+Adequacy decisions
 
-Model contract clauses
+The European Commission has determined that certain countries outside of the European Economic Area (EEA) adequately protect personal data, which means that data can be transferred from the European Union (EU) and Norway, Liechtenstein, and Iceland to that third country without any further safeguard being necessary. The UK and Switzerland have approved similar adequacy decisions. We rely on the following adequacy decisions in some cases:
 
-The European Commission has approved the use of model contract clauses as a means of ensuring adequate protection when transferring data outside of the EEA. By incorporating model contract clauses into a contract established between the parties transferring data, personal data is considered protected when transferred outside the EEA or the UK to countries which are not covered by an adequacy decision.
+European Commission adequacy decisions
+UK adequacy regulations
+Swiss adequacy decisions
+Standard contractual clauses
 
-We rely on these model contract clauses for data transfers.
+Standard contractual clauses (SCCs) are written commitments between parties that can be used as a ground for data transfers from the EU to third countries by providing appropriate data protection safeguards. SCCs have been approved by the European Commission and can’t be modified by the parties using them (you can see the SCCs adopted by the European Commission here, here, and here). Such clauses have also been approved for transfers of data to countries outside the UK and Switzerland. We rely on SCCs for our data transfers where required. If you want to obtain a copy of the SCCs, you can contact us.
 
-Google also offers these model contract clauses for customers of its business services, including Google Workspace, Google Cloud Platform, Google Ads, and other ads and measurement products. Details of Google’s use of model contract clauses for business services can be found at privacy.google.com/businesses.
+Google also incorporates SCCs into contracts with customers of its business services, including Google Workspace, Google Cloud Platform, Google Ads, and other ads and measurement products. Learn more at privacy.google.com/businesses.
 
 EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
 
