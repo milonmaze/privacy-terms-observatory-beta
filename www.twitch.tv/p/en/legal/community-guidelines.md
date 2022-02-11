@@ -58,6 +58,23 @@ Impersonation
 
 Content or activity meant to impersonate an individual or organization is prohibited. Any attempts to misrepresent yourself as a member of Twitch representatives is a zero-tolerance violation and will result in indefinite suspension.
 
+Account Usernames and Display Names
+
+In order to ensure that our community is safe and inclusive, inappropriate account names that violate our Community Guidelines are prohibited. We also recognize that an account’s username has more impact across our services than many other forms of content because they are persistent, cross-functional, and, in most cases, much more visible. Because of this, we have additional, higher standards for usernames based on reducing harm across our services. Usernames and display names created on Twitch may not include:
+
+Breaking the Law, including Terrorism and Child Exploitation
+Violence and Threats
+Hateful Conduct
+Harassment and Sexual Harassment
+Unauthorized Sharing of Private Information
+Impersonation
+Glorification of natural or violent tragedies
+Self-Destructive Behavior
+References to recreational drugs, hard drugs, and drug abuse, with exceptions for alcohol, tobacco, and marijuana
+References to sexual acts, genital, or sexual fluids
+
+Learn more about our username policies and enforcement.
+
 Spam, Scams, and Other Malicious Conduct
 
 Any content or activity that disrupts, interrupts, harms, or otherwise violates the integrity of Twitch services or another user’s experience or devices is prohibited. Such activity includes:
@@ -140,6 +157,7 @@ Violence and Threats
 Hateful Conduct and Harassment
 Unauthorized Sharing of Private Information
 Impersonation
+Account Usernames and Display Names
 Spam, Scams, and Other Malicious Conduct
 Nudity, Pornography, and Other Sexual Content
 Extreme Violence, Gore, and Other Obscene Conduct
