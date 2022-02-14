@@ -1,92 +1,134 @@
 Found the internet!
 Trending today
-Neuralink
-"Extreme suffering": 15 of 23 monkeys with Elon Musk's Neuralink brain chips reportedly died
-r/anime_titties and more
-Animations
-Remember To Save, Me, Animation, 2022
-r/Art and more
 Ukraine
-US Soldiers in Ukraine Pulling Out Amid Warnings of Imminent Russian Invasion
-Olympics
-US snowboarder, Chloe Kim, asking for a snack in the winter Olympics press conference
-r/MadeMeSmile and more
-Cosplay
-cool Doom slayer cosplay (by Mads_five on Twitter)
-r/Doom and more
-Truck Convoy
-MyPillow CEO Donates Thousands of Pillows to Trucker Convoy in Canada
-r/nottheonion and more
+Ukraine reaffirms desire to join NATO after envoy comments
+Super Bowl
+Eminem kneels during Super Bowl LVI halftime show despite reports NFL told him that he couldn’t
+r/news and more
+Valentine’s Day
+Happy Valentine's day from Lithuania!
+r/europe and more
+Ambassador Bridge
+Police break up remaining protest at Windsor's Ambassador Bridge, make 12 arrests | CBC News
+r/news and more
+Winter Olympics
+Team USA's Erin Jackson becomes first Black woman to win Olympic speedskating gold after teammate gave up her spot
+r/UpliftingNews and more
+Joe Biden
+Biden promises ‘swift’ response if Russia invades Ukraine
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-27.5k
-r/AskReddit
-•Posted byu/Liam_Tang
-15 hours ago
-29
-16
-23
-& 2 More
+40.4k
+r/funny
+•Posted byu/iamallanvsteve
+4 hours ago
+& 148 More
 Join
-What's not as attractive as people think?
-nsfw
-10.6k Comments
+That’s one hell of an edit!, lol (source - owlkitty)
+0:00
+0:59
+537 Comments
 Share
 Save
-11.4k
-r/WatchPeopleDieInside
-•Posted byu/_Xyreo_
-2 hours ago
-7
-8
-4
-Join
-I embarrassed myself.
-gfycat.com/gratef...
-108 Comments
-Share
-Save
-23.5k
+15.6k
 r/worldnews
-•Posted byu/crimsonheart092
-12 hours ago
-7
-4
-7
-US Soldiers in Ukraine Pulling Out Amid Warnings of Imminent Russian Invasion
-Russia/Ukraine
-military.com/daily-...
+•Posted byu/tekavatar
+4 hours ago
+8
+2
+& 7 More
+Ukraine reaffirms desire to join NATO after envoy comments
+dw.com/en/ukr...
 Join
-4.7k Comments
+1.8k Comments
+Share
+Save
+25.1k
+r/AskReddit
+•Posted byu/CharmingWitty
+15 hours ago
+14
+16
+17
+Join
+What is an ordinary item that is overly sexualized?
+nsfw
+8.3k Comments
+Share
+Save
+5.6k
+r/hockey
+•Posted byu/chiasmatic
+15 hours ago
+& 18 More
+Join
+Game Thread - Super Bowl LVI - Los Angeles Rams (12-5, NFC) vs Cincinnati Bengals (10-7, AFC) at SoFi Stadium - 3:30p PT/6:30 ET
+[GDT] 
+WELCOME TO SUPER BOWL LVI
+
+This year, the Los Angeles Rams and Cincinnati Bengals will face off for what should be a competitive match. For the second straight year, the pre-selected neutral site ends up being the home stadium for one of the two teams competing for the Lombardi trophy.
+
+Matchup Information
+
+Pre-game show starts at 3p Pacific.
+
+Location	Time	TV	Announcers
+SoFi Stadium - Inglewood, CA	3:30p PT/6:30p ET	NBC/Telemundo/CTV,TSN,RDS	Al Michaels, Cris Collinsworth
+
+Weather is projected to be 79F (26.1C) at puck drop
+
+Team Information
+
+The AFC Champions Cincinnati Bengals (10-7), led by coach Zac Taylor, will be playing in their third SB, first since 1988. The Bengals entered this season amongst the unlikeliest to be here, yet here they are. Led by 2020 1OA QB Joe Burrow (of LSU fame), they will look to put some serious money into the hands of the loyal fans who bet on a +10000 odds for their team to win it all this year.
+
+Fun Fact: Joe Burrow was born during the 1996-97 NHL season, the first the Coyotes started play (as the Phoenix Coyotes) and the last the Hartford Whalers would play in Connecticut.
+
+The NFC Champions Los Angeles Rams (12-5), led by coach Sean McVay, will be playing in their fifth Super Bowl, 2nd since moving back to LA from St. Louis. In the 2021-22 season, longtime QB Jared Goff, 2 1st round picks, and a 3rd round pick were traded to the Detroit Lions for QB Matthew Stafford - known childhood friend of Los Angeles Dodgers star Clayton Kershaw.
+
+Fun Fact: While grass-hockey will not feature a rubber puck, it will feature a Cooper Kupp.
+
+Current Score - 2nd Quarter
+
+*denotes team has possession
+
+Period	1	2	3	4	OT	Final
+LAR*	7	6	3	7		
+CIN	3	7	100			
+Ads
+
+You can preview some of the more highly anticipated ads to before the game here or visit YouTube after the game for a full list.
+
+Check on the rowdiness of the winning (or losing) team post-game
+
+LAPD Radio
+
+Cincinnati Police Radio
+
+Reminders
+
+Keep conversations civil
+All r/hockey rules still apply but you can talk about grass-hockey
+Eat lots of wings
+Drink responsibly. If you need a ride, Uber is offering $15 off two trips today using code 'SUPER22' (supply of honored discount code may be limited)
+
+6.4k Comments
 Share
 Save
 Top livestream
-11.6k
-r/facepalm
-•Posted byu/Hazy_Robot
-2 hours ago
+47.8k
+r/PublicFreakout
+•Posted byu/mouthofreason
+15 hours ago
+2
 3
-3
-6
+2
+& 82 More
 Join
-Don't have the heart to tell her she's reading the results wrong
- 🇲​🇮​🇸​🇨​
-811 Comments
-Share
-Save
-8.8k
-r/HumansBeingBros
-•Posted byu/ostervan
-2 hours ago
-9
-5
-6
-Join
-Guy surprised his favourite shopkeeper.
-130 Comments
+Heavily armed forces move in to make arrests and tow all vehicles from ambassador bridge protest, Canada
+5.5k Comments
 Share
 Save
