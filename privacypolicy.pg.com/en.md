@@ -37,7 +37,7 @@ We use data to help customize your experience with more products and offers rele
 
 Privacy Policy
 
-Updated December 17, 2021
+Updated February 11, 2022
 
 Click to expand all sections of the P&G Privacy Policy
 
