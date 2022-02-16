@@ -1,5 +1,5 @@
 Skip to main content
-Privacy FAQs for Institutions & Educators
+FAQ's for Institutions & Educators | Privacy
 
 Welcome! We’ve created this page to provide answers to questions that you might have about our privacy practices and the Canvas Learning Management System. You can review our complete Product Privacy Policy for Canvas users here.
 
