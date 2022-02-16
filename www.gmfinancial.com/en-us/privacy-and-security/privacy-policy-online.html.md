@@ -22,7 +22,6 @@ Line of Credit
 Fleet Services
 Municipal Lease
 Customizable Features
-Extended Protection
 FAQ
 Line of Credit
 Locate a Dealership
