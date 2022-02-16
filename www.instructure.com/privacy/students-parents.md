@@ -1,5 +1,5 @@
 Skip to main content
-Privacy FAQs for Students and Parents
+FAQ's for Students & Parents | Privacy
 
 Welcome! We’ve created this page to provide answers to questions that students and parents might ask about our privacy policies and practices for our Canvas Learning Management System. If you're a university student, visit the “Institutions & Educators” page for more information. You can review our detailed Product Privacy Policy here.
 
