@@ -21,21 +21,22 @@ Previews Terms of Use
 Guidelines for Law Enforcement
 Trademark Use Policy
 Embeds Terms of Use
+Transparency Report 2021
 Transparency Report 2020
 Transparency Report 2019
 Transparency Report 2018
 Transparency Report 2017
 Responsible Disclosure / Bug Bounty Program
 Privacy Policy
-English (US)
-Deutsch
-Français (FR)
 Français (CA)
-Español (MX)
-Español (ES)
-Português (BR)
-Português (PT)
 Italiano
+Português (PT)
+Português (BR)
+Español (ES)
+Español (MX)
+Français (FR)
+Deutsch
+English (US)
 English (US)
 Reddit Privacy Policy
 Effective September 12, 2021. Last Revised August 12, 2021
