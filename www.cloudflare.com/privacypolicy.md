@@ -4,7 +4,7 @@ This Privacy Policy is effective as of February 1, 2022.
 
 We have updated our September 1, 2021, Privacy Policy to update the name of our Cloudflare Zero Trust offering.
 
-This Cloudflare Privacy Policy (“Policy”) outlines the personal information that Cloudflare, Inc. (“Cloudflare”, “we”, “us�� or “our”) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.
+This Cloudflare Privacy Policy (“Policy”) outlines the personal information that Cloudflare, Inc. (“Cloudflare”, “we”, “us” or “our”) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.
 
 CLOUDFLARE’S PROMISE
 
