@@ -1,5 +1,3 @@
-Free credit active: Get started on DigitalOcean with a $100, 60-day credit for new users.
-
 Legal & Security
 Terms of Service Agreement
 Terms of Service Agreement
@@ -135,7 +133,7 @@ Except for the specific Services provided to you under this TOS or other express
 
 6. Payments and Billing
 
-6.1 We use third-party payment processors (the "Payment Processors") to bill you through the payment account(s) linked to your Account (your "Billing Information"). The processing of payments may be subject to the terms, conditions and policies of the Payment Processors in addition to this TOS. We are not responsible for acts or omissions of the Payment Processors. You agree to pay us, through the Payment Processors or as otherwise agreed to by DigitalOcean, all sums for Services you select or use at applicable prices in accordance with our pricing and billing policies and you hereby authorize us and applicable Payment Processors to charge all such sums (including all applicable taxes) to the payment method(s) specified in or linked to your Account (your "Payment Method").
+6.1 We use third-party payment processors (the "Payment Processors") to bill you through the payment account(s) linked to your Account (your "Billing Information"). The processing of payments may be subject to the terms, conditions and policies of the Payment Processors in addition to this TOS. We are not responsible for acts or omissions of the Payment Processors. You agree to pay us, through the Payment Processors or as otherwise agreed to by DigitalOcean, all sums for Services you select or use at applicable prices in accordance with our pricing and billing policies (DigitalOcean Cloud Dashboard (https://cloud.digitalocean.com/) when logged into your DigitalOcean account) and you hereby authorize us and applicable Payment Processors to charge all such sums (including all applicable taxes) to the payment method(s) specified in or linked to your Account (your "Payment Method").
 
 6.2 You must provide current, complete and accurate information for your Account and Billing Information, and must promptly update all such information in the event of changes (such as a change in billing address, credit card number, or credit card expiration date). You must promptly notify us or our Payment Processors if your payment method is canceled (e.g., for loss or theft) or otherwise inoperable. Changes to such information can be made in your account settings.
 
@@ -283,8 +281,8 @@ Report Abuse
 System Status
 Share your ideas
 
-© 2021 DigitalOcean, LLC. All rights reserved.
+© 2022 DigitalOcean, LLC. All rights reserved.
 
-We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy and Cookie and Tracking Notice. By continuing to browse our website, you agree to our use of cookies.
+We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy. By continuing to browse our website, you agree to our use of cookies.
 
-I understand
+OK
