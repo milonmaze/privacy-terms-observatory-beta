@@ -38,7 +38,7 @@ All personally identifiable information contained in ACM membership, purchase, a
 
 Sanctions Database
 
-ACM maintains a secure database that contains details of complaints filed with respect to suspected violation(s) of ACM policies. Any complaint received regarding suspected violations of these policies will be addressed in accordance with ACM's complaints procedures. Information about complaints and their resolution will remain in this database until the sanction has expired. The information will be revealed only to authorized volunteers on a need-to-know basis.
+ACM maintains a secure database that contains details of complaints filed with respect to suspected violation(s) of ACM policies. Any complaint received regarding suspected violations of these policies will be addressed in accordance with ACM's complaints procedures. Information about complaints and their resolution will remain in this database for two years following the expiration of the sanction. The information will be revealed only to authorized volunteers on a need-to-know basis.
 
 ACM Emails
 
