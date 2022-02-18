@@ -78,9 +78,10 @@ Support
 Sales
 Report Abuse
 System Status
+Share your ideas
 
-© 2021 DigitalOcean, LLC. All rights reserved.
+© 2022 DigitalOcean, LLC. All rights reserved.
 
-We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy and Cookie and Tracking Notice. By continuing to browse our website, you agree to our use of cookies.
+We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy. By continuing to browse our website, you agree to our use of cookies.
 
-I understand
+OK
