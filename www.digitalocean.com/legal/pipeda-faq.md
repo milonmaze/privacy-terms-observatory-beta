@@ -1,3 +1,5 @@
+Free credit active: Get started on DigitalOcean with a $100, 60-day credit for new users.
+
 Legal
 PIPEDA
 PIPEDA FAQ
