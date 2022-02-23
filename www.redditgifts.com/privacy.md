@@ -1,95 +1,87 @@
 Found the internet!
 Trending today
-Credit Suisse Leak
-A massive leak from one of the world’s biggest private banks, Credit Suisse, has exposed the hidden wealth of clients involved in torture, drug trafficking, money laundering, corruption and other serious crimes.
-NBA All-Star Game
-[Highlight] Lebron wins the 2022 NBA All-Star Game in Cleveland
-r/nba and more
-Olympics
-Twitter Suspends Hundreds of Bots Posting Chinese Olympic Propaganda.
-r/technology and more
-Horizon: Forbidden West
-Horizon Forbidden West ,Aloy can sweat if the weather is hot and complain about it!
-r/GamingDetails and more
-Russia
-Russia closes airspace over Sea of Azov starting at midnight
-Euphoria
-spoiler
-Tonight’s Euphoria episode with no context
-r/euphoria and more
+Oppenheimer
+First Image of Cillian Murphy as J. Robert Oppenheimer in 'Oppenheimer'
+r/movies and more
+Tamara Lich
+Tamara Lich, key organizer of protests in Ottawa, denied bail
+r/news and more
+Elden Ring
+"there's no police chase in Elden Ring" -Reviewer
+r/Eldenring and more
+Kanye West - Donda 2
+elon musk pulled up to the donda event 💀
+r/playboicarti and more
+NMIXX
+NMIXX - O.O
+r/kpop and more
+Ukraine
+Ukraine starts drafting reservists aged 18-60 after president's order
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-14.0k
-r/AskMen
-•Posted byu/calconnor22
-16 hours ago
-19
-19
-& 28 More
-Join
-Why are young men giving up on dating?
-
-The title isn't what I originally posted, but my post kept on being removed.
-
-I thought it would be better to ask on this sub instead of r/datingadvice, because I think the replies from this sub would be much more understanding.
-
-I've just been watching a video on YouTube about how a lot of young men are leaving society, and this is something I've very recently done as well.
-
-I had to really weight up the pros and cons of doing this, but last week I decided to unfollow every girl on my Instagram account. It's not because I'm misogynistic, because I'm not that at all. It's more to do with how the average man is shown how easily disposable he is. How dating apps have completely ruined the dating market. There's a lot more reasons as to why I've just decided to go my own way.
-
-The constant feeling of wanting affection all stems from social media. I came to the realisation that I'm doing nothing but wasting my time by talking to girls that only want to talk on Instagram, but wouldn't even pick up the phone for a call, let alone meet up. It's a waste of time watching their stories and liking their pictures, because that's time and effort that I could be putting towards my hobbies.
-
-I'm a 23 year old guy, and I don't think this subject is talked about anywhere near as much as it should be. But why is that? This is a problem that will only get worse over time, and the stats for that don't lie either.
-
-Has anyone else decided to do this as well?
-
-EDIT: I probably won't be able to reply to all of the comments, but when I get some spare time, I'll try my best to reply to everyone. If I don't reply to you, I'll read your comment and upvote it. I don't like putting posts up and not replying or, at the very least, acknowledging the comments.
-
-Edit 2: I'm getting comments every second. This is crazy😂 I guess it just goes to show that basically most men have given up on dating. There's no way I'll be able to get round to reading all of the comments, but I wish all of you the best✌️
-
-6.5k Comments
-Share
-Save
-50.4k
-r/oddlyterrifying
-•Posted byu/Ok_Series_1883
+31.8k
+r/TrueOffMyChest
+•Posted byu/throwawayInn767
 14 hours ago
-16
-16
-& 22 More
+2
+2
+& 87 More
 Join
-Woke up with blood on the wall. Cannot figure out where it came from…
-1/3
-5.1k Comments
+My husband peed while he was inside of me.
+
+This is so embarrassing so I'm going anonymous, I won't mention names or ages here.
+
+My husband literally peed inside of me last night while we were having an intercourse, It freaked me out and I didn't know how to handle it. it was just so weird and ....I really can't put into words how I felt but I do want to point out that I'm upset because he previously told me about trying to do it and I already said "NO!" but he went ahead and did it. I was completely caught off guard, I did not agree to this weird experience and I definately didn't enjoy it. We had an argument and he said I killed the fun with my reaction but he already knew how I felt about it.
+
+He's still hung up on the fight saying I overreacted for no.good reason at all but I don't know. I found it really unpleasent and just weird.
+
+7.4k Comments
 Share
 Save
-30.8k
-r/worldnews
-•Posted byu/Wshrig
-10 hours ago
-9
-10
-& 6 More
-191 arrests later, Ottawa police remove remaining 'Freedom Convoy' vehicles
-ctvnews.ca/canada...
+28.7k
+r/MadeMeSmile
+•Posted byu/bendubberley_
+3 hours ago
+20
+36
+28
+& 2 More
 Join
-4.6k Comments
+This reporter being interrupted by his mother.
+ Wholesome Moments 
+0:00
+0:21
+321 Comments
+Share
+Save
+92.5k
+r/interestingasfuck
+•Posted byu/WritesUaSong
+12 hours ago
+48
+35
+42
+& 5 More
+Join
+Changing of the guard. India - Pakistan border.
+/r/ALL
+0:00
+1:00
+5.8k Comments
 Share
 Save
 Top livestream
-30.8k
-r/funny
-•Posted byu/Parelius
+11.3k
+r/mildlyinteresting
+•Posted byu/theking7474
 3 hours ago
-16
-22
-27
 Join
-Thanks, Apple. I’ll let her know.
-362 Comments
+This mouse and calculator abomination I found at work
+OC
+344 Comments
 Share
 Save
