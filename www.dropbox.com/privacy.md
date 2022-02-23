@@ -124,7 +124,7 @@ Help center
 Contact us
 Privacy & terms
 Cookie policy
-Cookies & CCPA preferences
+Cookies & CCPA Preferences
 Sitemap
 Learning resources
 Community
