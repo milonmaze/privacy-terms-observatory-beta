@@ -291,17 +291,17 @@ Drag to view
 To search this site, enter a search term
 LATEST NEWS
 
-PRESS RELEASE | MAY 11, 2021
+NEWS | FEBRUARY 14, 2022
 
-InMoment Named a Leader in Customer Feedback Management by Independent Research Firm, Highest Score Possible in Driving Revenue, Product Vision and Strategy Criteria
+CustomerThink InMoment Highlight: How CX Intelligence Can Drive Meaningful Product Innovation
 Continue Reading
 
-PRESS RELEASE | APRIL 28, 2021
+PRESS RELEASE | FEBRUARY 9, 2022
 
-InMoment Appoints Ashley Goode as Business Unit Leader to Accelerate Experience Improvement for the World’s Top Financial Services Brands
+InMoment VP of Brand Recognized in Utah’s 40 Under 40
 Continue Reading
 
-PRESS RELEASE | APRIL 20, 2021
+PRESS RELEASE | FEBRUARY 1, 2022
 
-InMoment Ranks as Leader in G2 Grid Report for Feedback Analytics Software
+InMoment Further Extends AI-Powered Technologies to Advance Experience Improvement
 Continue Reading
