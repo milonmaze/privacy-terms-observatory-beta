@@ -220,7 +220,7 @@ Legal Policies
 Conditions of Use
 Amazon.com Privacy Notice
 Amazon Group Companies
-Non-Exhaustive List of Applicable Amazon Patents and Applicable Licensed Patents
+Amazon Trademark Usage Guidelines
 Non-Exhaustive List of Amazon Trademarks
 Amazon.com Gift Card and Electronic Message Customization Service Terms
 Quick solutions
