@@ -291,17 +291,17 @@ Drag to view
 To search this site, enter a search term
 LATEST NEWS
 
-NEWS | FEBRUARY 14, 2022
-
-CustomerThink InMoment Highlight: How CX Intelligence Can Drive Meaningful Product Innovation
-Continue Reading
-
-PRESS RELEASE | FEBRUARY 9, 2022
-
-InMoment VP of Brand Recognized in Utah’s 40 Under 40
-Continue Reading
-
 PRESS RELEASE | FEBRUARY 1, 2022
 
 InMoment Further Extends AI-Powered Technologies to Advance Experience Improvement
+Continue Reading
+
+PRESS RELEASE | DECEMBER 9, 2021
+
+InMoment Ranked in Top 50 Insights & Analytics Report by the Insights Association
+Continue Reading
+
+PRESS RELEASE | SEPTEMBER 9, 2021
+
+InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics
 Continue Reading
