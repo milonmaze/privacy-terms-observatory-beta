@@ -174,7 +174,7 @@ Our commitments under the Privacy Shields are subject to the investigatory and e
 
 8. DATA SUBJECT RIGHTS AND CHOICES
 
-Cloudflare recognizes individuals’ data protection rights. You have the right to access, correct, update, port, or delete your personal information, and to restrict or object to the processing of your personal information (each of these a “Rights Request”). You may email us at SAR@cloudflare.com with any Rights Request, and we will respond within thirty (30) days. Customers and Administrative Users also can access, correct, export, or update their Account Information by editing their profile or organization record at cloudflare.com.
+Cloudflare recognizes individuals�� data protection rights. You have the right to access, correct, update, port, or delete your personal information, and to restrict or object to the processing of your personal information (each of these a “Rights Request”). You may email us at SAR@cloudflare.com with any Rights Request, and we will respond within thirty (30) days. Customers and Administrative Users also can access, correct, export, or update their Account Information by editing their profile or organization record at cloudflare.com.
 
 For any Rights Request, we will need to verify a requestor is inquiring about their own information before we can assist. Where a Rights Request may implicate the personal information of another individual, we must balance the request against the risk of violating another person’s privacy rights. We will comply with Rights Requests to the extent required by applicable law or the US-Swiss or US-EU Privacy Shield. In the EEA, the UK, and Switzerland, you also have the right to lodge a complaint with a supervisory authority.
 
