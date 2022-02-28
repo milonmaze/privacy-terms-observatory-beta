@@ -1,90 +1,96 @@
 Found the internet!
 Trending today
-Finland
-Finland closes its skies to Russian aircraft
-Germany
-Scholz just announced that Germany will immediately ready 100 billion Euros to strengthen the Bundeswehr
-r/europe and more
-Starlink
-Elon Musk, urged by Ukraine to provide his Starlink satellite internet to the embattled country, responds later in the day by doing exactly that.
-r/technews and more
-Marjorie Taylor Greene
-Calls to expel Republican Marjorie Taylor Greene after speech at white nationalist event
+Liverpool
+[Official] Liverpool Are the 2021/2022 Carabao Cup Champions.
+r/soccer and more
+Volunteers
+Georgian🇬🇪 volunteers leaving the country to join Ukrainian🇺🇦 defense forces
+r/ukraine and more
+YouTube
+Ukrainian YouTube Channel has been hacked. Do not donate.
+r/ukraine and more
+Trump
+Former Attorney General Bill Barr says the 2020 presidential election was not stolen: 'Trump lost it'
 r/politics and more
-Chechens
-Chechen general Magomed Tushayev, the president’s right-hand man, killed near Kiev
-r/news and more
 Ukraine
-Zelenskyy, current president of Ukrain, won the Ukrainian version of Dancing with the Stars in 2006 and the tape is even better than whatever you're imagining
+New statement of the President of Ukraine: "When I ran for presidency, I said that each of us is the President. Because we are all responsible for our state. For our beautiful Ukraine. And now it turns out that each of us is a warrior"
 r/nextfuckinglevel and more
+Belarus
+Belarus' Dictator Alexander Lukashenko is still waiting for Putin to appoint him as a colonel
+r/PublicFreakout and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-48.1k
-r/AskReddit
-•Posted byu/Novaresident
-11 hours ago
-21
-14
-14
+22.7k
+r/movies
+•Posted byu/The_Iceman2288
+3 hours ago
+2
+6
+2
 & 2 More
+Yes, Ukrainian President Volodymyr Zelensky Did Voice Paddington, StudioCanal Confirms
+Article
+hollywoodreporter.com/movies...
 Join
-With the 2020's going down the history as "the roaring what the fucks" what event wouldn't surprise you if it were to happen now?
-10.4k Comments
+511 Comments
 Share
 Save
-31.1k
-r/Unexpected
-•Posted byu/jubilantcollision
-4 hours ago
-5
-13
-5
+33.8k
+r/WhitePeopleTwitter
+•Posted byu/Juul1104
+3 hours ago
+10
+7
+12
 Join
-Keeping your self fit to impress.
-0:00
-0:12
-398 Comments
+Russia moment
+634 Comments
 Share
 Save
-65.6k
-r/worldnews
-•Posted byu/Analist17
-8 hours ago
-28
-& 55 More
-Putin ‘furious’ Ukraine invasion hasn’t been ‘easy,’ EU official says, citing intel report
-Russia/Ukraine
-foxnews.com/world/...
+18.5k
+r/AskReddit
+•Posted byu/mred6453
+13 hours ago
+14
+11
+10
 Join
-6.4k Comments
+What's not a drug but is so addictive that it could be classified as one?
+10.3k Comments
 Share
 Save
 Top livestream
-83.9k
-r/antiwork
-•Posted byu/KaiaKween
-14 hours ago
-4
-12
-& 11 More
+24.4k
+r/Tinder
+•Posted byu/TheDeadYeti
+11 hours ago
+7
+13
+5
 Join
-Please note the timestamps. Any suggestions on how to deal with this outrageous unfairness?
-4.6k Comments
+What did I do wrong? (Tinder match)
+SEE FULL IMAGE
+SEE FULL IMAGE
+SEE FULL IMAGE
+SEE FULL IMAGE
+SEE FULL IMAGE
+1/5
+4.1k Comments
 Share
 Save
-24.1k
+25.6k
 r/nextfuckinglevel
-•Posted byu/CreepyBearBar
-4 hours ago
+•Posted byu/berengor_666
+3 hours ago
 12
-12
-10
+14
+15
 Join
-Ukrainian civilians stop Russian occupants' tank with bare hands
-753 Comments
+New statement of the President of Ukraine: "When I ran for presidency, I said that each of us is the President. Because we are all responsible for our state. For our beautiful Ukraine. And now it turns out that each of us is a warrior"
+467 Comments
 Share
 Save
