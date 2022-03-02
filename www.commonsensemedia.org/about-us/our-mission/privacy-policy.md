@@ -1,106 +1,8 @@
-Skip to Content
-
+Skip to main content
 For Parents For Educators For Advocates
-Common Sense Media
-Sign In
-Movies & TV
- »
-Movie Reviews
-TV Reviews
-Best Streaming Picks for Kids
-Best Movie Lists
-Best TV Lists
-YouTube Channel Reviews
-Sensical
- »
-Common Sense Selections
-Books
- »
-Best Book Lists
-Book Reviews
-Apps & Games
- »
-Best App Lists
-App Reviews
-Best Game Lists
-Game Reviews
-Best Website Lists
-Website Reviews
-Best for Learning Lists
-Special Needs Apps
-Common Sense Selections
-Parents Need to Know
- »
-By Age
- »
-Preschoolers (2-4)
-Little Kids (5-7)
-Big Kids (8-9)
-Tweens (10-12)
-Teens (13+)
-By Topic
- »
-Cellphones
-Screen Time
-Social Media
-Privacy and Online Safety
-Learning with Technology
-Violence in the Media
-More ...
-Parents' Ultimate Guide to ...
- »
-Minecraft
-Google Classroom
-Fortnite
-YouTube
-Snapchat
-TikTok
-Roblox
-YouTube Kids
-Zoom
-Messenger Kids
-Parental Controls
-More ...
-Parent Trapped Podcast
-Latino
- »
-Inicio
-Artículos en español
-Videos en español
-Nuestras reseñas
-Nuestra misión
-En las noticias
-Colaboradores
-Recursos educativos
-Latino Articles in English
-Black History Month
-Research
-About Us
- »
-About Us
-Our Impact
-Meet Our Team
-Board of Directors
-Board of Advisors
-How We Rate
-Donate
-Regional Offices
-Events
-We're Hiring
-CCPA: Protect Your Privacy
-Donate
-Common Sense Media Plus
-Privacy
-Our Mission
-Community Guidelines
-Privacy
-Privacy FAQ
-General Privacy Policy
-Cookie Policy
-Children's Privacy Policy
-General Terms of Use
-Teen Terms of Use
-UK Digital Citizenship Terms of Service
+Privacy Policy/Your California Privacy Rights
+
+Community guidelines | Privacy Policy | Cookie Policy | Children's Privacy Policy | General Terms of Use | Teen Terms of Use | UK Digital Citizenship Terms of Service
 
 En español
 
@@ -179,6 +81,8 @@ You can unsubscribe from our email newsletters by clicking the "unsubscribe" or 
 
 What is Common Sense’s Plus program?
 
+
+
 A: Our Plus program, launched in 2019, enables supporters of Common Sense to access unlimited ratings and reviews, and subscribe to a weekly email newsletter featuring personalized entertainment picks based on the users’ profile inputs.
 
 Other information
@@ -193,7 +97,7 @@ Effective Date of Policy: November 16, 2021
 
 COMMON SENSE MEDIA PRIVACY POLICY
 
-Welcome! Below you will find the privacy policy for Common Sense Media, Inc. ("we" or "us"). We are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. The Common Sense Media Privacy Policy (the "Policy" or the "Privacy Policy") is designed to answer your questions regarding how we collect, protect, use and share information obtained through the Common Sense Media website, www.commonsensemedia.org (the "Site"), other Common Sense Media websites, such as www.commonsense.org/education, and other applications ("apps") that we operate and that link to this Privacy Policy (collectively, the "Services"). Common Sense Media also maintains other websites and apps, which are governed by their own privacy policies. If you are using another Common Sense Media website or app, please be sure to consult the applicable privacy policy, as it may differ from this Policy. We hope this information increases your confidence in Common Sense Media and enhances your experience on our Services.
+Welcome! Below you will find the privacy policy for Common Sense Media, Inc. ("we" or "us"). We are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. The Common Sense Media Privacy Policy (the "Policy" or the "Privacy Policy") is designed to answer your questions regarding how we collect, protect, use and share information obtained through the Common Sense Media website, www.commonsensemedia.org (the"Site"), other Common Sense Media websites, such as www.commonsense.org/education, and other applications ("apps") that we operate and that link to this Privacy Policy (collectively, the "Services"). Common Sense Media also maintains other websites and apps, which are governed by their own privacy policies. If you are using another Common Sense Media website or app, please be sure to consult the applicable privacy policy, as it may differ from this Policy. We hope this information increases your confidence in Common Sense Media and enhances your experience on our Services.
 
 Please see our separate Terms of Use, which governs the use of the Services. We encourage you to read this Policy before using the Services, and not to use the Services if you disagree with any part of this Policy. By using the Services or by clicking a box that states that you accept or agree to this Policy, you signify your agreement to the terms and conditions of this Policy. 
 
@@ -280,9 +184,13 @@ Quizzes provided by Common Sense Education are available at the end of each less
 Common Sense quiz reports (for the entire class and individual student) are only accessible to a teacher who is authenticated with Google Classroom and who requests specific quiz reports on specified students authenticated with Google Classroom. Common Sense works with the following third party service providers to provide Google Classroom integrated quizzes through the Digital Citizenship curriculum:
 
 Learning Locker
+
 Learning Locker is a Learning Record Store (LRS) database-driven application and analytics tool designed specifically for the learning sector. Common Sense uses Learning Locker to store, sort and share data as recorded using the xAPI specification from Google Classroom. Learning Locker may collect and store the following information including, but not limited to: Google User ID, quiz_id, quiz name, start time, start date, quiz completion, stop time, stop date, quiz duration, quiz questions, alphanumeric answers, quiz grade, and quiz ranking. Please read Learning Locker’s privacy policy for more information.
 Google Classroom
+
 Google Classroom is a free web service developed by Google and part of the G Suite for Education to help schools streamline the process of sharing files between teachers and students. Students using Google Classroom can view assignments, submit homework, and receive grades from teachers to help them stay on track and organized. The G Suite for Education core services are the heart of Google’s educational offering to schools. The core services include Gmail, Calendar, Classroom, Contacts, Drive, Docs, Groups, Sheets, Sites, Slides, Talk/Hangouts and Vault. Please read Google Classroom’s privacy policy for more information.
+
+
 
 The Google Classroom service provides Common Sense with a Google Classroom authenticated teacher’s class roster of student Google IDs. Only authenticated teachers can access student first and last names associated with Google IDs for quiz reporting purposes. Common Sense requests authorization from teachers to access their Google Classroom class roster of student Google IDs in order to combine all the specified student Google IDs present in the class roster with their respective Common Sense quiz submission data and quiz grades in order to generate class and individual student quiz reports for teachers. All quiz reports are generated on-demand by the Google Classroom authenticated teacher and are not stored or retained by Common Sense. When a teacher requests a "class roster" or individual “student” quiz report, Common Sense loads the teacher’s specified Google IDs from our third-party service provider Learning Locker and matches student IDs with Google Classroom to create and display a class roster quiz report for the entire class, or individual student report to produce a Google Classroom listing that includes student names paired with quiz scores. Common Sense and our third-party service providers do not store or retain any class or individual student report data.
 
@@ -361,9 +269,13 @@ VIII. CONTACTING US
 If you have any questions or requests about this Policy, or the practices of the Services, please contact us through the Privacy Requests Portal or write to us at:
 
 Corporate Headquarters
+
 Privacy Department
+
 Common Sense Media
+
 699 8th Street, Suite C150
+
 San Francisco, CA 94103
 
 VIII. CSM: EEA+ Privacy Policy
@@ -402,10 +314,16 @@ Your right to complain. We would love to be able to resolve your questions, requ
 For the contact information of the Data Protection Authorities for each Member State of the European Economic Area, please visit: https://edpb.europa.eu/about-edpb/board/members_en
 The UK's Data Protection Authority's details are below:
 
+
+
 The Information Commissioner's Office
+
 Water Lane, Wycliffe House
+
 Wilmslow - Cheshire SK9 5AF
+
 Tel. +44 303 123 1113
+
 Website: https://ico.org.uk/make-a-complaint/
 
 What Personal Data do we use? The table below describes the categories of Personal Data that we process in the context of the Services we currently make available to EEA+ Users and in other relevant areas of our operations.
@@ -480,6 +398,8 @@ Payment Data
 
 Plus Subscribers: information necessary to process payments for your subscriptions to access Common Sense Media Plus (including effecting renewals, if and as applicable), such as name, email address, phone number, payment card information (including name as shown on your card, billing address (street address, city, state, country, ZIP code), expiration date, security code and payment card number, and associated details of subscriptions purchased from us (including any relevant payments taken).
 
+
+
 Please note, although our Payment Services providers require all this information to process payments on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
 
 
@@ -490,6 +410,8 @@ Donation Data
 	
 
 Name (unless you want your donation to be anonymous), email address, phone number, payment card information (including name as shown on your card, billing address, expiration date, security code and payment card number) and the amount of your donation(s).
+
+
 
 Please note, although our Payment Services providers require all this information to process donations on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
 
@@ -597,6 +519,8 @@ Donation Data (if applicable)
 	
 
 To register your account on the Services, and to populate your profile fields. To provide you with the core elements of the Services.
+
+
 
 To provide you with access to the additional features and functions of Common Sense Media Plus where either:
 
@@ -776,7 +700,11 @@ Donation Data (where applicable)
 
 To process: (a) the payments from our Plus subscribers (including renewals, if and as applicable); and (b) donations people make via our Site.
 
+
+
 Please note that this includes making available the means by which you provide your Payment Data or Donation Data (as applicable) to Payment Services to process payments or donations (as applicable) on our behalf.
+
+
 
 For more information, see the section titled Payment and Donation Processing (below).
 
@@ -796,6 +724,7 @@ Donation Data
 	
 
 If and for so long as we elect to make available certain 'perks' to encourage donations, we may use this Personal Data:
+
  
 
 to assess your eligibility for any such ‘perks’;
@@ -950,4 +879,78 @@ Fundraising Tools – we derive or receive Donor Analysis Data from certain comm
 
 International transfers. We are headquartered in the United States. The Personal Data that we collect from and about you will be stored and processed in the United States and may be stored and processed in other countries outside of the EEA+. However, it is our policy to ensure that adequate contractual or other safeguards are applied to Personal Data transferred outside of the EEA+ where required by the GDPR. If you have questions about the safeguards applied to your Personal Data, you may contact us at Contact Support. 
 
-     
+Common Sense Media
+Sign in
+Language:
+English
+Movies & TV
+Movie Reviews
+TV Reviews
+Best Streaming Picks for Kids
+Best Movie Lists
+Best TV Lists
+Books
+Best Book Lists
+Book Reviews
+Apps & Games
+Best App Lists
+App Reviews
+Best Game Lists
+Game Reviews
+Best Website Lists
+Website Reviews
+Best for Learning Lists
+Common Sense Selections
+Parents Need to Know
+By Age
+Preschoolers (2-4)
+Little Kids (5-7)
+Big Kids (8-9)
+Tweens (10-12)
+Teens (13+)
+By Topic
+Cellphones
+Screen Time
+Social Media
+Privacy and Online Safety
+Learning with Technology
+Violence in the Media
+More ...
+Parents' Ultimate Guide to ...
+Minecraft
+Google Classroom
+Fortnite
+YouTube
+Snapchat
+TikTok
+Roblox
+YouTube Kids
+Zoom
+Messenger Kids
+Parental Controls
+More ...
+Parent Trapped Podcast
+Free Weekly Webinars
+Latino
+Inicio
+Artículos en español
+Videos en español
+En las noticias
+Colaboradores
+Recursos educativos
+Artículos Latinos en Ingles
+Research
+About
+About Us
+Our Impact
+Meet Our Team
+Board of Directors
+Board of Advisors
+How We Rate
+Donate
+Regional Offices
+Events
+We're Hiring
+CCPA: Protect Your Privacy
+Donate
+Common Sense Media Plus
