@@ -889,6 +889,7 @@ TV Reviews
 Best Streaming Picks for Kids
 Best Movie Lists
 Best TV Lists
+Common Sense Selections
 Books
 Best Book Lists
 Book Reviews
@@ -938,7 +939,7 @@ Videos en español
 En las noticias
 Colaboradores
 Recursos educativos
-Artículos Latinos en Ingles
+Artículos sobre latinos en inglés
 Research
 About
 About Us
