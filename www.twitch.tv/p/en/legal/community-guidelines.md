@@ -86,11 +86,31 @@ Phishing
 Defrauding others
 Spreading malware or viruses
 Misinformation (such as feigning distress, posting misleading metadata, or intentional channel miscategorization)
+Harmful misinformation actors
 Tampering (such as artificially inflating follow or live viewer stats)
 Selling or sharing user accounts
 Reselling Twitch services or features (such as channel Moderator status)
 Defacing, or attempting to deface, website pages or other Twitch services (such as uploading inappropriate or malicious content)
 Cheating a Twitch rewards system (such as the Drops or channel points systems)
+Harmful Misinformation Actors
+
+In order to reduce harm to our community and the public without undermining our streamers’ open dialogue with their communities, we also prohibit harmful misinformation superspreaders who persistently share misinformation on or off of Twitch. We seek to remove users whose online presence is dedicated to (1) persistently sharing (2) widely disproven and broadly shared (3) harmful misinformation topics. 
+
+This policy is focused on Twitch users who persistently share harmful misinformation. It will not be applied to users based upon individual statements or discussions that occur on the channel. All three of the criteria listed above must be satisfied in order for us to take action on an account. We will evaluate whether a user violates the policy by assessing both their on-platform behavior as well as their off-platform behavior. You can report these actors by sending an email to OSIT@twitch.tv with the account name and any available supporting evidence.
+
+Below we provide a short list of non-comprehensive examples of the types of content that harmful misinformation actors persistently share. However, misinformation evolves rapidly, and we will continue to update these guidelines and topic categories as new trends and behaviors emerge. 
+
+Misinformation that targets protected groups, which is already prohibited under our Hateful Conduct & Harassment Policy
+Harmful health misinformation and wide-spread conspiracy theories related to dangerous treatments, COVID-19, and COVID-19 vaccine misinformation
+Discussions of treatments that are known to be harmful without noting the dangers of such treatments
+For COVID-19—and any other WHO-declared Public Health Emergency of International Concern (PHEIC)—misinformation that causes imminent physical harm or is part of a broad conspiracy
+Misinformation promoted by conspiracy networks tied to violence and/or promoting violence
+Civic misinformation that undermines the integrity of a civic or political process
+Promotion of verifiably false claims related to the outcome of a fully vetted political process, including election rigging, ballot tampering, vote tallying, or election fraud*
+In instances of public emergencies (e.g., wildfires, earthquakes, active shootings), we may also act on misinformation that may impact public safety
+
+*Note: In order to evaluate civic misinformation claims, we work with independent misinformation experts such as the Global Disinformation Index, as well as information from election boards and congressional certification.
+
 Nudity, Pornography, and Other Sexual Content
 
 Nudity and sexually explicit content or activities, such as pornography, sexual acts or intercourse, and sexual services, are prohibited.
@@ -142,6 +162,8 @@ Any activity, such as cheating, hacking, botting, or tampering, that gives the a
 Closed Alphas/Betas and Pre-Release Games
 
 We ask that you respect all publisher/developer-enforced release dates, embargoes, and NDAs by waiting to broadcast these games until everyone else gets to. Unless given prior approval, your channel may be subject to DMCA takedown by a rights holder. Rights holders should report violations in accordance with our DMCA Guidelines. We ask that users refrain from reporting possible violations via the user report tool.
+
+ 
 
 Off-Service Conduct
 
