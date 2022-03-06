@@ -45,5 +45,6 @@ Safety & Impact Blog
 
 Launched in April 2021, our blog aims to serve as a helpful resource for the many stakeholders and advocates who are interested in how we work to support the safety, privacy and wellbeing of our Snapchat community.
 
-Hi! We use cookies and similar technologies (“cookies”), including third-party cookies, on this website to help operate and improve your browsing experience, monitor performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, see our Cookie Policy! By clicking “Accept Cookies” below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the “X” on the right. Go to “Cookie Settings” or our Cookie Policy to change your cookie settings, and withdraw your consent at any time.
+Hi! We use cookies and similar technologies ("cookies"), including third-party cookies, on this website to help operate and improve your browsing experience, monitor performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, see our Cookie Policy! By clicking "Accept Cookies" below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the "X" to your right. Go to "Cookie Settings" or our Cookie Policy to change your cookie settings, and withdraw your consent at any time.
+
 Accept CookiesCookie Settings
