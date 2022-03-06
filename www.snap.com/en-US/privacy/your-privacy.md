@@ -48,5 +48,6 @@ Did you know Privacy by Product provides more information on specific features
 
 Still can’t find what you’re looking for? Don’t worry, just reach out to us and our friendly support team will get back to you!
 
-Hi! We use cookies and similar technologies (“cookies”), including third-party cookies, on this website to help operate and improve your browsing experience, monitor performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, see our Cookie Policy! By clicking “Accept Cookies” below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the “X” on the right. Go to “Cookie Settings” or our Cookie Policy to change your cookie settings, and withdraw your consent at any time.
+Hi! We use cookies and similar technologies ("cookies"), including third-party cookies, on this website to help operate and improve your browsing experience, monitor performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, see our Cookie Policy! By clicking "Accept Cookies" below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the "X" to your right. Go to "Cookie Settings" or our Cookie Policy to change your cookie settings, and withdraw your consent at any time.
+
 Accept CookiesCookie Settings
