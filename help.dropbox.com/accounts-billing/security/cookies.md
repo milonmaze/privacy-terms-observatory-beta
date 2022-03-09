@@ -69,11 +69,19 @@ Browser settings:
 
 You can set your browser to not accept cookies, but this may limit your ability to use our services. Due to a lack of an agreed upon standard for interpreting Do Not Track (DNT) signals, our systems currently don’t respond to DNT:1 signals from browsers visiting our websites.
 
-Self Regulatory:
+Cookie preferences:
 
-Dropbox adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising ("Principles"). You can opt-out of collection of information by third-parties that adhere to the Principles, and that we use to help us promote our services, by visiting www.aboutads.info/choices.
+When you use Dropbox’s services, you can select which cookies you consent for Dropbox to use in by clicking Cookies & CCPA Preferences in the footer of this page under Support.
 
-Dropbox also adheres to the European Interactive Digital Advertising Alliance’s self-regulatory program for data-driven advertising. You can opt-out of collection of information used for online behavior advertising by third-parties that adhere to the program by visiting http://www.youronlinechoices.eu/.
+California Consumer Privacy Act (CCPA):
+
+You can opt out of the selling or sharing of personal information by Dropbox or update your preferences, as described in the California Consumer Privacy Act, by clicking Cookies & CCPA Preferences in the footer of this page under Support. As described in our Privacy Policy, Dropbox does not sell personal information.
+
+Self-Regulatory:
+
+Dropbox adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising ("Principles"). You can opt out of collection of information by third-parties that adhere to the Principles, and that we use to help us promote our services, by visiting www.aboutads.info/choices.
+
+Dropbox also adheres to the European Interactive Digital Advertising Alliance’s self-regulatory program for data-driven advertising. You can opt out of collection of information used for online behavior advertising by third-parties that adhere to the program by visiting http://www.youronlinechoices.eu/.
 
 For more information on how to control and access your personal data, please see our privacy policy FAQ. If you’d like to reach out to Dropbox regarding the use of data collected from cookies, contact our Data Protection Officer at privacy@dropbox.com.
 
