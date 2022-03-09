@@ -111,7 +111,7 @@ Ireland
 
 If you are located in Asia, Australia, or New Zealand:
 
-Shopify Commerce Singapore PTE. LTD.
+Shopify Commerce Singapore Pte. Ltd.
 
 
 Attn: Data Protection Officer
