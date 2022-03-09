@@ -287,6 +287,8 @@ Market research
 
 Fraud detection and prevention (including anti-fraud screening)
 
+Insurance claims
+
 Payment
 
 We use third parties to process payments, handle chargebacks or provide billing collection services. When a chargeback is requested for your Trip Reservation, either by you or the holder of the credit card used to make the reservation, we’ll need to share certain reservation details with the payment service provider and the relevant financial institution so they can handle the chargeback. This could also include a copy of your reservation confirmation or the IP address used to make your reservation. We might share information with relevant financial institutions if we consider it strictly necessary for fraud detection and prevention purposes.
@@ -312,6 +314,8 @@ When you make a reservation through one of our business partners’ websites, th
 When you make a reservation on a business partner’s website, take the time to read their privacy notice if you’d like to understand how they process your personal data.
 
 For fraud detection and prevention purposes, we may also exchange information about our users with business partners—but only when strictly necessary
+
+If an insurance claim is made concerning you and a Trip Provider, we may provide the necessary data (including personal data) to the insurance company for further processing.
 
 Partner Offer: We may present you with a “Partner Offer.” When you book a stay marked “Partner Offer,” your reservation will be facilitated by a Trip Provider who is separate from the accommodation you’re booking. As part of the reservation process, we’ll need to share some relevant personal data with this business partner.
 
