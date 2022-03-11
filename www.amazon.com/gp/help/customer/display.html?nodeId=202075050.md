@@ -51,7 +51,6 @@ Law Enforcement Information Requests
 Communications from Amazon.com
 Legal Policies
 Your Security
-Report Unsolicited Package or Brushing Scams
 Quick solutions
 	
 
