@@ -1,116 +1,115 @@
 Found the internet!
 Trending today
-Aaron Rodgers
-[Rapoport] The #Packers and MVP QB Aaron Rodgers have agreed to terms on a 4-year, $200M deal that makes him the highest paid player in NFL history, sources say. He gets a whopping $153M guaranteed and his cap number goes down. A monstrous commitment by GB for years to come. 💰 💰 💰
-r/nfl and more
-Coca-Cola
-Coca-Cola suspends business in Russia
-r/news and more
-Nvidia
-Nvidia’s GeForce RTX 4090 may be twice as fast as the RTX 3090
-r/technews and more
-Florida
-Disney Employees Furious The Company Won't Denounce Florida's 'Don't Say Gay' Bill
-r/entertainment and more
-Eminem
-Eminem is now the most decorated artists in RIAA's history. his album curtain call album has also gone diamond. He has now 6 diamond( 3 Album+ 3 singles)
-r/popheads and more
-McDonalds
-McDonalds closing all 850 restaurants in Russia.
-r/ukraine and more
+World Economic Forum
+Putin Banned From World Economic Forum In Davos
+Anonymous
+Anonymous hacks Russian federal agency, releases 360,000 documents.
+JPMorgan Chase
+JPMorgan joins Goldman Sachs in pulling back from Russia
+Major League Baseball
+[Bernie Sanders] I’m delighted to see an agreement reached so that the MLB season can start. But we must prevent the greed of baseball’s oligarchs from destroying the game. The best way to do that is to end MLB’s antitrust exemption and I will be introducing legislation to do just that.
+r/baseball and more
+Chelsea F.C.
+[Football Daily] "They're footballers, they're not politicians." Dean Smith has sympathy for the players and staff at Chelsea with the sanctions that have affected the club
+r/soccer and more
+Ukraine
+Russia calls U.N. meeting alleging U.S. "military biological activities" in Ukraine — U.S. calls it "false flag effort"
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-23.2k
-r/AskReddit
-•Posted byu/OtherwiseProject1338
-14 hours ago
-5
+13.5k
+PINNED BY MODERATORS
+r/OnePiece
+•Posted byu/semizero
+12 hours ago
+6
 8
-14
+3
+& 310 More
 Join
-What tastes better a little burnt?
-17.1k Comments
+One Piece: Chapter 1043
+Current Chapterspoiler
+11.8k Comments
 Share
 Save
-9.7k
-r/formula1
-•Posted byu/AlphaTauriF1
-3 hours ago
-3
-3
+11.1k
+r/AskReddit
+•Posted byu/waterbaby333
+12 hours ago
 4
+3
+& 5 More
 Join
-Hi Reddit! I'm Yuki Tsunoda, F1 Driver for Scuderia AlphaTauri... AMA! [10/03/2022]
-:post-ama: AMA /r/all
-1.3k Comments
+What’s your favorite song that’s not in English?
+11.1k Comments
 Share
 Save
-117k
-r/funny
-•Posted byu/IliterateStenografur
-14 hours ago
-2
+50.5k
+r/iamatotalpieceofshit
+•Posted byu/jac1400
+19 hours ago
 3
-& 187 More
+2
 Join
-My kid got suspended from school for this today.
-nsfw
-6.4k Comments
+Officer upset because they called in a bomb found under a river.
+0:00
+0:51
+5.1k Comments
 Share
 Save
 Top livestream
-29.1k
-r/TrueOffMyChest
-•Posted byu/HelloHedwigItsHoggle
-13 hours ago
+34.8k
+r/movies
+•Posted byu/JannTosh12
+18 hours ago
 2
-& 27 More
+2
+From the highest-paid actor in Hollywood to straight-to-video B-movies: The rise and fall of Bruce Willis
+Article
+english.elpais.com/cultur...
 Join
-To the girl who sent me to hospital and will likely get away with it, fuck you, bitch
-
-I’m sorry I’m just so angry. I had one of the most humiliating experiences this week
-
-I was in a bar Monday night with some friends and there was this very obnoxious drunk girl. She spilled a couple of our drinks and I got up, very gently put my hand on this girls shoulder and tried to coax her back to her booth. She kicked me in the balls. A hard kick. I fell to the floor and she staggered off laughing as other people laughed. A couple decent bros came over and helped me up, asked if I was ok if I needed ice or anything.
-
-They blew up to the size of like elongated golf balls. They hurt. I had to go to the emergency room and have them drained (apparently this is caused by some build up of fluid during swelling).
-
-All I can remember is that bitch staggering back laughing as others laughed with her
-
-You hurt me. You sent me to HOSPITAL.
-
-I’ll just say it. If I could do that night over again she’d get a punch. I don’t even care if I went to jail. Don’t care what y’all say. She sent me to the fucking emergency room and found it FUNNY
-
-EDIT: I wasn’t going to pursue anything since the pain had subsided and I was happy to put this behind me given the embarrassing nature. The copious number of women who have told me I deserved it because they’re under the belief that putting your hands on someone’s shoulder to walk them back to their booth is “assault”. I’m going after her. I am going to get the video ASAP, I have photo evidence of my swollen balls and witnesses. Fuck you for telling me I deserved this, specifically because of you I’m going after her you utterly contemptible misandrists. How would you feel if a girl told me she was raped after touching a guy and I said she deserved it because touching is assault?
-
-EDIT 2: yes, my bad I shouldn’t have compared rape to assault, I’m sorry. How would you feel if a girl put her hand on a dude’s shoulder and he punched her in the tit?
-
-3.5k Comments
+3.8k Comments
 Share
 Save
-31.0k
-r/IdiotsInCars
-•Posted byu/GreenxLean
-11 hours ago
+31.6k
+r/worldnews
+•Posted byu/QuirkyQuarQ
+5 hours ago
+2
+Russia has killed more civilians than soldiers - Ukraine's defence minister
+Russia/Ukraine
+reuters.com/world/...
+Join
+1.2k Comments
+Share
+Save
+69.3k
+r/politics
+•Posted byu/itsbuzzpoint
+14 hours ago
 4
+8
 2
+2
+Democrats unveil plan to issue quarterly checks to Americans by taxing oil companies posting huge profits
+businessinsider.com/dems-p...
 Join
-Little black car cuts me off and I get hit by the semi thanks a-hole.
-2.6k Comments
+3.6k Comments
 Share
 Save
-91.1k
-r/Unexpected
-•Posted byu/solateor
-12 hours ago
-8
-12
-& 14 More
+44.2k
+r/Damnthatsinteresting
+•Posted byu/Next-Data-7032
+6 hours ago
+2
+2
+& 42 More
 Join
-Just Alaska things
-2.3k Comments
+All the companies that are leaving Russia
+Video
+3.6k Comments
 Share
 Save
