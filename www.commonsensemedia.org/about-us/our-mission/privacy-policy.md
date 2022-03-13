@@ -890,6 +890,7 @@ Best Streaming Picks for Kids
 Best Movie Lists
 Best TV Lists
 Common Sense Selections
+Celebrate Black Voices
 Books
 Best Book Lists
 Book Reviews
@@ -931,7 +932,6 @@ Messenger Kids
 Parental Controls
 More ...
 Parent Trapped Podcast
-Free Weekly Webinars
 Latino
 Inicio
 Artículos en español
