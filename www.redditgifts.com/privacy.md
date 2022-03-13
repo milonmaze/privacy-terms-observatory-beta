@@ -1,115 +1,122 @@
 Found the internet!
 Trending today
-World Economic Forum
-Putin Banned From World Economic Forum In Davos
-Anonymous
-Anonymous hacks Russian federal agency, releases 360,000 documents.
-JPMorgan Chase
-JPMorgan joins Goldman Sachs in pulling back from Russia
-Major League Baseball
-[Bernie Sanders] I’m delighted to see an agreement reached so that the MLB season can start. But we must prevent the greed of baseball’s oligarchs from destroying the game. The best way to do that is to end MLB’s antitrust exemption and I will be introducing legislation to do just that.
-r/baseball and more
-Chelsea F.C.
-[Football Daily] "They're footballers, they're not politicians." Dean Smith has sympathy for the players and staff at Chelsea with the sanctions that have affected the club
-r/soccer and more
+Streamer Awards
+spoiler
+The Winner of The Streamer of The Year Award Is...
+r/LivestreamFail and more
+Arcane
+[No Spoilers] Arcane won all 9 categories it was nominated for in the 49th Annie Awards
+r/arcane and more
+Stock Market
+Why only Russian stock market closed?
+r/wallstreetbets and more
 Ukraine
-Russia calls U.N. meeting alleging U.S. "military biological activities" in Ukraine — U.S. calls it "false flag effort"
+"Ukraine will accept Russia’s surrender with understanding” - suggests Ukrainian defense minister
+Russia
+Protests grow in Russia where they are being arrested for holding blank paper signs
+r/interestingasfuck and more
+Comics
+For those who asked. over elaborate costume I built for Dublin Comic Con !
+r/ireland and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-13.5k
-PINNED BY MODERATORS
-r/OnePiece
-•Posted byu/semizero
-12 hours ago
-6
-8
-3
-& 310 More
-Join
-One Piece: Chapter 1043
-Current Chapterspoiler
-11.8k Comments
-Share
-Save
-11.1k
+11.9k
 r/AskReddit
-•Posted byu/waterbaby333
-12 hours ago
-4
+•Posted byu/fjeek
+14 hours ago
+2
 3
-& 5 More
 Join
-What’s your favorite song that’s not in English?
-11.1k Comments
+Which movies do you think are straight up propaganda?
+7.8k Comments
 Share
 Save
-50.5k
-r/iamatotalpieceofshit
-•Posted byu/jac1400
-19 hours ago
-3
+5.6k
+r/movies
+•Posted byu/louistske
+15 hours ago
 2
 Join
-Officer upset because they called in a bomb found under a river.
+What's the worst remake of a movie you've ever watched?
+Discussion
+
+for me they are
+
+Point break 2015 remake - It's an unnecessary and miserable remake, everything that made the original movie work has been removed from this remake, along with a ridiculous philosophy that is easily one of the worst I've seen in the history Of the movies
+
+Jacob ladder - it's just ridiculous
+
+Psycho 1998 remake - it's just a shot by shot copy of the original movie and with worse actors
+
+Honorable Mention for 2015 Fantastic Four, It's A Reboot But It's A Terrible Movie
+
+3.7k Comments
+Share
+Save
+48.8k
+r/ThatsInsane
+•Posted byu/DevGJewel
+12 hours ago
+10
+23
+& 18 More
+Join
+Florida trooper crashes her car into an oncoming vehicle to prevent the car from driving into a 10K race after the driver drove through multiple barricades
 0:00
-0:51
-5.1k Comments
+0:43
+2.6k Comments
 Share
 Save
 Top livestream
-34.8k
-r/movies
-•Posted byu/JannTosh12
-18 hours ago
-2
-2
-From the highest-paid actor in Hollywood to straight-to-video B-movies: The rise and fall of Bruce Willis
-Article
-english.elpais.com/cultur...
-Join
-3.8k Comments
-Share
-Save
-31.6k
+52.7k
 r/worldnews
-•Posted byu/QuirkyQuarQ
-5 hours ago
-2
-Russia has killed more civilians than soldiers - Ukraine's defence minister
+•Posted byu/JihadMeAtHello
+11 hours ago
+5
+5
+& 9 More
+"Ukraine will accept Russia’s surrender with understanding” - suggests Ukrainian defense minister
 Russia/Ukraine
-reuters.com/world/...
+ukrinform.net/rubric...
 Join
-1.2k Comments
+2.3k Comments
 Share
 Save
-69.3k
-r/politics
-•Posted byu/itsbuzzpoint
-14 hours ago
-4
-8
-2
-2
-Democrats unveil plan to issue quarterly checks to Americans by taxing oil companies posting huge profits
-businessinsider.com/dems-p...
+12.3k
+r/technology
+•Posted byu/giuliomagnifico
+8 hours ago
+Alcohol Detection Sensor Might Be The Next Big Controversial Safety Feature To Be Required In Every New Car
+Transportation
+carscoops.com/2022/0...
 Join
-3.6k Comments
+2.0k Comments
 Share
 Save
-44.2k
-r/Damnthatsinteresting
-•Posted byu/Next-Data-7032
-6 hours ago
+19.9k
+r/baseball
+•Posted byu/DidItForTheStory
+20 hours ago
 2
-2
-& 42 More
+& 34 More
 Join
-All the companies that are leaving Russia
-Video
-3.6k Comments
+Hey r/baseball, I'm the guy who drew Mike Trout for 97 days in a row. AMA
+AMA
+
+We made it, baseball is back. Hopefully there's not too much Trout Drawing fatigue by now, but a lot of you have requested this so here it goes. I'll be back in about 20 minutes to start answering your questions
+
+Edit: We're starting now beecause there are already 70 questions you savages
+
+Proof
+
+Edit: It's been real guys! I'm off to go walk my dog
+
+I think I've answered most of the common questions I've been seeing. Thanks for supporting me over the last 97 days!
+
+1.5k Comments
 Share
 Save
