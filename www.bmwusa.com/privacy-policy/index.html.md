@@ -105,7 +105,6 @@ M850i xDrive Coupe
 M850i xDrive Gran Coupe
 M850i xDrive Convertible
 Z4 M40i
-X2 M35i
 X3 M40i
 X4 M40i
 X5 M50i
