@@ -1,6 +1,6 @@
 Skip to Content
 Mastercard - Global Privacy Notice
-Effective Date: 8/8/2021
+Effective Date: 2/2/2022
 
 Mastercard International Incorporated and its affiliates (collectively, “Mastercard”) respect your privacy.
 
