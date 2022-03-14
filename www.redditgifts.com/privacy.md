@@ -1,122 +1,152 @@
 Found the internet!
 Trending today
-Streamer Awards
-spoiler
-The Winner of The Streamer of The Year Award Is...
-r/LivestreamFail and more
-Arcane
-[No Spoilers] Arcane won all 9 categories it was nominated for in the 49th Annie Awards
-r/arcane and more
-Stock Market
-Why only Russian stock market closed?
-r/wallstreetbets and more
-Ukraine
-"Ukraine will accept Russia’s surrender with understanding” - suggests Ukrainian defense minister
-Russia
-Protests grow in Russia where they are being arrested for holding blank paper signs
-r/interestingasfuck and more
-Comics
-For those who asked. over elaborate costume I built for Dublin Comic Con !
-r/ireland and more
+Vanced
+YouTube Vanced is shutting down ‘due to legal reasons’
+r/technology and more
+NATO
+Britain warns Putin of ‘war with Nato’ if Russia steps a ‘single toecap’ on its territory
+Barack Obama
+Former pres. Barack Obama tests positive for coronavirus
+r/news and more
+Tom Brady
+[Rapoport] #Bucs coach Bruce Arians, on Tom Brady coming out of retirement: “Total excitement."
+r/nfl and more
+Turkey
+Turkey, Greece agree to improve ties amid Ukraine conflict | Reuters
+William Hurt
+William Hurt Dies: Oscar-Winning Actor Was 71
+r/movies and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-11.9k
+12.3k
+r/politics
+•Posted byu/redwineandbeer
+2 hours ago
+2
+Tulsi Gabbard labeled a "Russian asset" for pushing U.S. biolabs in Ukraine claim
+newsweek.com/tulsi-...
+Join
+1.1k Comments
+Share
+Save
+26.2k
+r/LiveFromNewYork
+•Posted byu/thatonesnlguy
+20 hours ago
+2
+4
+2
+& 3 More
+Join
+Pete’s messages to Kanye
+Cast News
+1/5
+4.1k Comments
+Share
+Save
+24.4k
 r/AskReddit
-•Posted byu/fjeek
-14 hours ago
-2
-3
-Join
-Which movies do you think are straight up propaganda?
-7.8k Comments
-Share
-Save
-5.6k
-r/movies
-•Posted byu/louistske
-15 hours ago
-2
-Join
-What's the worst remake of a movie you've ever watched?
-Discussion
-
-for me they are
-
-Point break 2015 remake - It's an unnecessary and miserable remake, everything that made the original movie work has been removed from this remake, along with a ridiculous philosophy that is easily one of the worst I've seen in the history Of the movies
-
-Jacob ladder - it's just ridiculous
-
-Psycho 1998 remake - it's just a shot by shot copy of the original movie and with worse actors
-
-Honorable Mention for 2015 Fantastic Four, It's A Reboot But It's A Terrible Movie
-
-3.7k Comments
-Share
-Save
-48.8k
-r/ThatsInsane
-•Posted byu/DevGJewel
+•Posted byu/killaplz
 12 hours ago
-10
-23
-& 18 More
+4
+6
 Join
-Florida trooper crashes her car into an oncoming vehicle to prevent the car from driving into a 10K race after the driver drove through multiple barricades
-0:00
-0:43
-2.6k Comments
+Who’s that one person who can just fuck off?
+nsfw
+12.5k Comments
 Share
 Save
 Top livestream
-52.7k
-r/worldnews
-•Posted byu/JihadMeAtHello
-11 hours ago
-5
-5
-& 9 More
-"Ukraine will accept Russia’s surrender with understanding” - suggests Ukrainian defense minister
-Russia/Ukraine
-ukrinform.net/rubric...
-Join
-2.3k Comments
-Share
-Save
-12.3k
-r/technology
-•Posted byu/giuliomagnifico
-8 hours ago
-Alcohol Detection Sensor Might Be The Next Big Controversial Safety Feature To Be Required In Every New Car
-Transportation
-carscoops.com/2022/0...
-Join
-2.0k Comments
-Share
-Save
-19.9k
-r/baseball
-•Posted byu/DidItForTheStory
-20 hours ago
+38.4k
+r/politics
+•Posted byu/ydouhatemurica
+14 hours ago
 2
-& 34 More
+Mitt Romney accuses Tulsi Gabbard of ‘treasonous lies’ that ‘may cost lives’ over Russia’s Ukraine invasion
+independent.co.uk/news/w...
 Join
-Hey r/baseball, I'm the guy who drew Mike Trout for 97 days in a row. AMA
-AMA
+3.6k Comments
+Share
+Save
+19.4k
+r/Android
+•Posted byu/TheAyushJain
+21 hours ago
+5
+8
+7
+2
+Vanced has been discontinued. In the coming days, the download links on the website will be taken down. We know this is not something you wanted to hear but it's something we need to do. Thank you all for supporting us over the years.
+News
+twitter.com/YTVanc...
+Join
+3.2k Comments
+Share
+Save
+22.7k
+r/technology
+•Posted byu/CrazyK9
+15 hours ago
+YouTube Vanced is shutting down ‘due to legal reasons’
+Business
+theverge.com/2022/3...
+Join
+3.1k Comments
+Share
+Save
+30.7k
+r/pics
+•Posted byu/IDoArtForYou
+4 hours ago
+3
+& 20 More
+Join
+A photo from 50 years ago posted to r/estoration. Restored, Reframed, Enhanced and Colorized by Me.
+OC
+593 Comments
+Share
+Save
+34.5k
+r/TwoXChromosomes
+•Posted byu/NorthWarden
+15 hours ago
+& 48 More
+Join
+I had no idea how badly transwomen were treated until I started getting mistaken for a trans woman.
+/r/all
 
-We made it, baseball is back. Hopefully there's not too much Trout Drawing fatigue by now, but a lot of you have requested this so here it goes. I'll be back in about 20 minutes to start answering your questions
+I’m in my late twenties and working in healthcare right now.
 
-Edit: We're starting now beecause there are already 70 questions you savages
+I was born a woman, but I enjoy looking androgynous, so I have short hair, and I work out, so I have a muscular build. I also have a deep voice for a woman. I LOVE looking androgynous and don’t feel bad about it. I also have a gender neutral name.
 
-Proof
+In the past year, people have begun mistaking me for a trans woman.
 
-Edit: It's been real guys! I'm off to go walk my dog
+— I went to a doctor’s appointment. The doctor (female) asked me my pronouns. I said, “She/her.” The doctor began referring to me exclusively as male. She gave me some bad news and I began crying and hugging my husband (who was attending the appointment with me). She became extra shitty and asked me to stop and hurry up so she could get on with the appointment. I assumed that the doctor was just an asshole… I later found out she marked on my intake forms that I was MTF (male to female transgender). At the time, I had no idea what was going on, but afterwards, I realized she was trying to misgender by referring to me as male and was being shitty because she was transphobic.
 
-I think I've answered most of the common questions I've been seeing. Thanks for supporting me over the last 97 days!
+— I had to stay overnight in the hospital. I told them I was a woman. They tried to put me in a room with a dangerous male psych patient. I explained that, per hospital policy, I shouldn’t be housed with a male roommate. They insisted I “had to be” because I was “technically biologically male.” I explained, no, I was born a woman. This is so fucked up to me— what if I was a trans woman? Why the fuck would they be putting a female-presenting trans woman in a room with a dangerous male psych patient?
 
-1.5k Comments
+— I have been called a faggot.
+
+— A male patient at the nursing home commented on how he could see my erection through my pants. I had to explain that I do not have an erection because I was born female. Even if I did have a dick, why the hell is this man commenting on my genitals?
+
+There’s more, but I don’t want to go through it all.
+
+Anyway, solidarity for my trans sisters. Y’all have it rough. Genuinely baffled people think it’s okay to call me a faggot, be shitty to me during doctor’s appointments, and talk about my genitals.
+
+EDIT:
+
+Some people have looked at my post history, and they keep pointing out that I am non-binary, and l deliberately dress androgynously, so I should expect that people are confused about my biological sex.
+
+I want to be clear about this: I am completely fine with people being confused about my biological sex.
+
+I am not okay being called a faggot.
+
+I don’t care that people think I’m a trans woman. I’m happy with how I look and I love being androgynous. People shouldn’t be harassing me. Trans women shouldn’t be harassed.
+
+1.4k Comments
 Share
 Save
