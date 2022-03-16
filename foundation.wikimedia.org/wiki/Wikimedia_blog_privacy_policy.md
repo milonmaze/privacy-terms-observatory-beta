@@ -1,5 +1,9 @@
 Jump to content
 
+The ratification voting process for the revised enforcement guidelines of the Universal Code of Conduct is now open. Read more on voter information and eligibility details.
+
+Help with translations!
+
 Welcome!
 
 This is the privacy policy for the Wikimedia Blog, the official blog of the Wikimedia Foundation (WMF) and the Wikimedia movement. We post information about new developments in wiki technology, cool things that members of the Wikimedia community do, and projects that the Wikimedia Foundation undertakes.
