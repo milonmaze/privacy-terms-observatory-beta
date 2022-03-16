@@ -1,152 +1,98 @@
 Found the internet!
 Trending today
-Vanced
-YouTube Vanced is shutting down ‘due to legal reasons’
+Kaspersky
+Germany's Cyber Authority Tells Public to Stop Using Kaspersky Antivirus
 r/technology and more
-NATO
-Britain warns Putin of ‘war with Nato’ if Russia steps a ‘single toecap’ on its territory
-Barack Obama
-Former pres. Barack Obama tests positive for coronavirus
-r/news and more
-Tom Brady
-[Rapoport] #Bucs coach Bruce Arians, on Tom Brady coming out of retirement: “Total excitement."
-r/nfl and more
-Turkey
-Turkey, Greece agree to improve ties amid Ukraine conflict | Reuters
-William Hurt
-William Hurt Dies: Oscar-Winning Actor Was 71
-r/movies and more
+Marina Ovsyannikova
+Marina Ovsyannikova: Russian journalist tells of 14-hour interrogation
+Daylight Saving Time
+U.S. Senate approves bill that would make Daylight Savings Time permanent in 2023
+r/politics and more
+Oligarchs
+Russian oligarch says he's 'appalled' by British police as squatters occupy London mansion for nearly 20 hours
+Scott Hall
+Masahiro Chono : “My fellow Scott Hall, I'm really sorry to hear of this unexpected loss. A lot of memories with you run around my head. The times we spent together in nWo, WCW, and New Japan. Scott Hall, you very kind nice guy. Thank you and thank you. I sincerely pray for your soul. Rest in peace.
+r/SquaredCircle and more
+Ukraine
+Blinken says there will be an independent Ukraine 'a lot longer than there's going to be a Vladimir Putin'
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-12.3k
-r/politics
-•Posted byu/redwineandbeer
-2 hours ago
-2
-Tulsi Gabbard labeled a "Russian asset" for pushing U.S. biolabs in Ukraine claim
-newsweek.com/tulsi-...
-Join
-1.1k Comments
-Share
-Save
-26.2k
-r/LiveFromNewYork
-•Posted byu/thatonesnlguy
-20 hours ago
-2
+45.9k
+r/MadeMeSmile
+•Posted byu/crisp-apple1
+4 hours ago
 4
-2
-& 3 More
+5
+5
 Join
-Pete’s messages to Kanye
-Cast News
-1/5
-4.1k Comments
+Polite bees!
+ Good Vibes 
+332 Comments
 Share
 Save
-24.4k
+97.3k
+r/worldnews
+•Posted byu/VanGoghEnjoyer
+11 hours ago
+2
+16
+& 39 More
+U.S. Senate unanimously condemns Putin as war criminal
+Russia/Ukraine
+reuters.com/world/...
+Join
+5.5k Comments
+Share
+Save
+20.0k
 r/AskReddit
-•Posted byu/killaplz
-12 hours ago
-4
-6
+•Posted byu/Grantsb
+14 hours ago
+8
+3
+2
 Join
-Who’s that one person who can just fuck off?
+What hurts at first, but feels good after a few seconds?
 nsfw
-12.5k Comments
+8.3k Comments
 Share
 Save
 Top livestream
-38.4k
-r/politics
-•Posted byu/ydouhatemurica
+13.6k
+r/NoStupidQuestions
+•Posted byu/_77-
+13 hours ago
+Join
+Was Donald Trump actually the worst president?
+5.1k Comments
+Share
+Save
+51.9k
+r/antiwork
+•Posted byu/nedflandersz
 14 hours ago
-2
-Mitt Romney accuses Tulsi Gabbard of ‘treasonous lies’ that ‘may cost lives’ over Russia’s Ukraine invasion
-independent.co.uk/news/w...
-Join
-3.6k Comments
-Share
-Save
-19.4k
-r/Android
-•Posted byu/TheAyushJain
-21 hours ago
-5
-8
-7
-2
-Vanced has been discontinued. In the coming days, the download links on the website will be taken down. We know this is not something you wanted to hear but it's something we need to do. Thank you all for supporting us over the years.
-News
-twitter.com/YTVanc...
-Join
-3.2k Comments
-Share
-Save
-22.7k
-r/technology
-•Posted byu/CrazyK9
-15 hours ago
-YouTube Vanced is shutting down ‘due to legal reasons’
-Business
-theverge.com/2022/3...
-Join
-3.1k Comments
-Share
-Save
-30.7k
-r/pics
-•Posted byu/IDoArtForYou
-4 hours ago
 3
-& 20 More
+2
+5
 Join
-A photo from 50 years ago posted to r/estoration. Restored, Reframed, Enhanced and Colorized by Me.
-OC
-593 Comments
+Anon has a point
+3.3k Comments
 Share
 Save
-34.5k
-r/TwoXChromosomes
-•Posted byu/NorthWarden
-15 hours ago
-& 48 More
+39.1k
+r/nextfuckinglevel
+•Posted byu/Glass_Vermicelli_808
+4 hours ago
+9
+10
+13
 Join
-I had no idea how badly transwomen were treated until I started getting mistaken for a trans woman.
-/r/all
-
-I’m in my late twenties and working in healthcare right now.
-
-I was born a woman, but I enjoy looking androgynous, so I have short hair, and I work out, so I have a muscular build. I also have a deep voice for a woman. I LOVE looking androgynous and don’t feel bad about it. I also have a gender neutral name.
-
-In the past year, people have begun mistaking me for a trans woman.
-
-— I went to a doctor’s appointment. The doctor (female) asked me my pronouns. I said, “She/her.” The doctor began referring to me exclusively as male. She gave me some bad news and I began crying and hugging my husband (who was attending the appointment with me). She became extra shitty and asked me to stop and hurry up so she could get on with the appointment. I assumed that the doctor was just an asshole… I later found out she marked on my intake forms that I was MTF (male to female transgender). At the time, I had no idea what was going on, but afterwards, I realized she was trying to misgender by referring to me as male and was being shitty because she was transphobic.
-
-— I had to stay overnight in the hospital. I told them I was a woman. They tried to put me in a room with a dangerous male psych patient. I explained that, per hospital policy, I shouldn’t be housed with a male roommate. They insisted I “had to be” because I was “technically biologically male.” I explained, no, I was born a woman. This is so fucked up to me— what if I was a trans woman? Why the fuck would they be putting a female-presenting trans woman in a room with a dangerous male psych patient?
-
-— I have been called a faggot.
-
-— A male patient at the nursing home commented on how he could see my erection through my pants. I had to explain that I do not have an erection because I was born female. Even if I did have a dick, why the hell is this man commenting on my genitals?
-
-There’s more, but I don’t want to go through it all.
-
-Anyway, solidarity for my trans sisters. Y’all have it rough. Genuinely baffled people think it’s okay to call me a faggot, be shitty to me during doctor’s appointments, and talk about my genitals.
-
-EDIT:
-
-Some people have looked at my post history, and they keep pointing out that I am non-binary, and l deliberately dress androgynously, so I should expect that people are confused about my biological sex.
-
-I want to be clear about this: I am completely fine with people being confused about my biological sex.
-
-I am not okay being called a faggot.
-
-I don’t care that people think I’m a trans woman. I’m happy with how I look and I love being androgynous. People shouldn’t be harassing me. Trans women shouldn’t be harassed.
-
-1.4k Comments
+A whale 'surfing' with the wave
+515 Comments
 Share
 Save
+Advertisement
