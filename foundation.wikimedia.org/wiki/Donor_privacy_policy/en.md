@@ -1,9 +1,4 @@
 Jump to content
-
-The ratification voting process for the revised enforcement guidelines of the Universal Code of Conduct is now open. Read more on voter information and eligibility details.
-
-Help with translations!
-
 < Donor privacy policy
 This page documents the Wikimedia Foundation's donor privacy policy. You can make a donation to the Wikimedia Foundation at donate.wikimedia.org.
 English العربية català dansk Deutsch español español de América Latina français עברית magyar italiano 日本語 latviešu norsk bokmål Nederlands polski português português do Brasil română русский slovenčina svenska українська 中文（简体） 中文（繁體）
