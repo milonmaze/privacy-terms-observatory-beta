@@ -1,147 +1,101 @@
 Found the internet!
 Trending today
-Nestle
-Ukraine's Prime Minister says Nestle CEO showed 'no understanding' after he urged the firm to cease all business in Russia
-Yemen
-Yemen war now ‘chronic emergency’ as millions face hunger
+Kanye West
+Kanye West Barred From Performing at Grammys Due to ‘Concerning Online Behavior,’ Rep Confirms
+r/byebyejob and more
+Kim Davis
+Former Kentucky clerk Kim Davis violated rights of same-sex couples, judge rules
+r/news and more
+James Webb Space Telescope
+“Better than our most optimistic prediction” – first images from James Webb exceed all expectations - Images of a non-descript star within our own galaxy reveal the James Webb telescope’s deep-field capabilities.
+r/technology and more
+Ukraine
+Putin quotes Jesus to justify invasion of Ukraine
 Joe Biden
-Zelenskyy Aide: Biden Does More for Ukraine 'Than Any of His Predecessors'
-Space Launch System
-SLS is rolling!
-r/SpaceXMasterrace and more
-Mariupol
-Italy will finance the rebuilding of Mariupol theatre
-Animation
-Artist creates Animation book.
-r/nextfuckinglevel and more
+Dems Worried Biden Student Loan Inaction Will Dampen Youth Turnout in Midterms
+r/politics and more
+Kyiv
+Kyiv Independent: "Mariupol council: Russian occupiers forcibly move Mariupol residents to Russia."
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-39.2k
-r/HolUp
-•Posted byu/Galaxy_star_walker
+24.4k
+r/worldnews
+•Posted byu/manticor225
 3 hours ago
-11
+3
+4
 2
+& 2 More
+Russia’s elite wants to eliminate Putin, they have already chosen a successor - Intelligence
+Says UKR intel
+pravda.com.ua/eng/ne...
+Join
+2.2k Comments
+Share
+Save
+5.4k
+r/AskReddit
+•Posted byu/yolthrice
+11 hours ago
+3
 4
 Join
-Makes sense
-Choose flair, get ban. That's how this works
-246 Comments
+What belief or opinion will you defend to the death?
+5.5k Comments
 Share
 Save
-73.6k
-r/politics
-•Posted byu/CarsonWentzGOAT1
-14 hours ago
+1.5k
+r/PAW_digital
+•Posted byu/PawTipBot
+7 hours ago
+4
 2
-9
-& 19 More
-Hacking group Anonymous puts 'Russian asset' Marjorie Taylor Greene on notice
-washingtonexaminer.com/news/h...
-Join
-3.7k Comments
-Share
-Save
-8.8k
-r/AskReddit
-•Posted byu/Runningitdown69
-4 hours ago
 2
 Join
-You are sentenced to death penalty, but you can choose how you die. What do you choose?
-nsfw
-6.1k Comments
-Share
-Save
-42.2k
-r/unpopularopinion
-•Posted byu/Mr_MooseMan____
-11 hours ago
-2
-& 63 More
-Join
-Drake is an absolute shit rapper with shit lyrics and even shittier ideals and anyone who thinks otherwise has the brain/creativity of a lamp.
-nsfw
-4.3k Comments
+Pawverse: Return of Pawdi ( Giveaway #2 )
+
+Hello PAWniverse members,
+
+We are giving away 2000 PAW towards each person that claims it within the next 24 hours.
+
+If PAW gets to more than 10,000 members on reddit we will be giving away another $10 in PAW to 5 random participants and another $50 to one lucky winner.
+
+To receive your PAW simply reply with your PAW address. PAW will be sent automatically to your address within seconds.
+
+Here are 2 options if you don't have a wallet yet.
+
+- The browser wallet at wallet.paw.digital
+
+- The android Biota app on the playstore.
+
+9.2k Comments
 Share
 Save
 Top livestream
-12.5k
-r/CollegeBasketball
-•Posted byu/cbbBot
-12 hours ago
-& 51 More
+15.1k
+r/PoliticalHumor
+•Posted byu/RedDragonCast
+4 hours ago
 Join
-[Post Game Thread] #15 Saint Peter's defeats #2 Kentucky, 85-79 in OT
-Post Game Thread
-
-Box Score
-
-Team	1H	2H	1OT	Total
-St. Peter's	37	34	14	85
-Kentucky	37	34	8	79
-
-Index Thread for March 17, ^2022
-
-3.5k Comments
+When a billionaire DIES who INHERITS their senators?
+i.imgur.com/4Vc87B...
+64 Comments
 Share
 Save
-19.1k
-r/WatchPeopleDieInside
-•Posted byu/AristonD
-3 hours ago
-Join
-When the world is on your shoulders
-gfycat.com/bounti...
-636 Comments
-Share
-Save
-11.6k
-r/worldnews
-•Posted byu/KvN161
-5 hours ago
-Russia's illusions about the West are over, Lavrov says
-Russia/Ukraine
-reuters.com/world/...
-Join
-2.1k Comments
-Share
-Save
-5.6k
-r/books
-•Posted byu/the_ultracheese_tbhc
-18 hours ago
-Join
-What’s the most fucked up sentence you’ve ever read in a book?
-spoilers in comments
-
-Something that made you go “damn I can’t believe I read this with my eyes”.
-
-My vote is this passage from A Feast For Crows:
-
-"Ten thousand of your children perished in my palm, Your Grace. Whilst you snored, I would lick your sons off my face and fingers one by one, all pale sticky princes. You claimed your rights, my lord, but in the darkness I would eat your heirs."
-
-Nasty shit. There’s also a bunch in Black Leopard, Red Wolf
-
-1.7k Comments
-Share
-Save
-11.3k
-r/formula1
-•Posted byu/-arlo
-5 hours ago
+18.3k
+r/funny
+•Posted byu/Noiz2144
+4 hours ago
 5
-3
-4
-[Autosport] Entering the season as the world champion, Verstappen was asked if he had anything to prove after the way Abu Dhabi ended. Max: “No, I proved that with the most wins, most pole laps and most laps led. People forget that. They only look at Abu Dhabi apparently”
-:post-news: News /r/all
-twitter.com/autosp...
+6
+6
 Join
-1.8k Comments
+Stability over 9000
+342 Comments
 Share
 Save
 Advertisement
