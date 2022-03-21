@@ -1,4 +1,6 @@
 AT&T Access ID and Account Management Terms and Conditions ("Terms")
+Documents
+Print
 
 These Terms are between AT&T Services, Inc., and its affiliates (individually and collectively, "AT&T") and you, an individual. AT&T may modify or amend these Terms at any time, with or without notice to you, by posting a copy of the modified or amended Terms at https://www.att.com/legal/general-policies.html. You agree to the modified or amended Terms if you continue using an AT&T Access ID following the date they are posted.
 
