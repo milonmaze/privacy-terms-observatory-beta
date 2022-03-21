@@ -1,101 +1,112 @@
 Found the internet!
 Trending today
-Kanye West
-Kanye West Barred From Performing at Grammys Due to ‘Concerning Online Behavior,’ Rep Confirms
-r/byebyejob and more
-Kim Davis
-Former Kentucky clerk Kim Davis violated rights of same-sex couples, judge rules
-r/news and more
-James Webb Space Telescope
-“Better than our most optimistic prediction” – first images from James Webb exceed all expectations - Images of a non-descript star within our own galaxy reveal the James Webb telescope’s deep-field capabilities.
-r/technology and more
-Ukraine
-Putin quotes Jesus to justify invasion of Ukraine
-Joe Biden
-Dems Worried Biden Student Loan Inaction Will Dampen Youth Turnout in Midterms
-r/politics and more
+Ferrari
+If Ferrari gets 1-2, a man is not only right to make a Pavarotti edit, but he is obligated to do so.
+r/formuladank and more
+Fortnite
+Fortnite will be donating 100% of the money earned these 3 weeks to Ukraine!
+r/ukraine and more
+Iowa State
+Iowa State’s Gabe Kalscheur: "I ain't never like Wisconsin to be honest."
+r/CollegeBasketball and more
+Germany
+Germany is building what's expected to become Europe's largest military
+r/europe and more
 Kyiv
-Kyiv Independent: "Mariupol council: Russian occupiers forcibly move Mariupol residents to Russia."
+7AM; The Sun is rising on the 26th Day of the Russian Invasion on the Capital city of Kyiv. Ukraine continues to Live and Fight on.
+r/ukraine and more
+China Eastern Airlines
+Looks like a China Eastern 737 has gone down in Guangzhou, China.
+r/aviation and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-24.4k
-r/worldnews
-•Posted byu/manticor225
-3 hours ago
-3
-4
-2
-& 2 More
-Russia’s elite wants to eliminate Putin, they have already chosen a successor - Intelligence
-Says UKR intel
-pravda.com.ua/eng/ne...
-Join
-2.2k Comments
-Share
-Save
-5.4k
-r/AskReddit
-•Posted byu/yolthrice
+30.0k
+r/technology
+•Posted byu/realguiders
 11 hours ago
-3
-4
+2
+Netflix's new password-sharing fee is just the tip of an expensive iceberg
+Business
+techradar.com/news/n...
 Join
-What belief or opinion will you defend to the death?
-5.5k Comments
+4.6k Comments
 Share
 Save
-1.5k
-r/PAW_digital
-•Posted byu/PawTipBot
-7 hours ago
-4
+28.7k
+r/worldnews
+•Posted byu/ForgotMyPassOtherAcc
+6 hours ago
 2
-2
+5
+China Eastern Airlines Boeing 737 crashes with 133 on board
+reuters.com/world/...
 Join
-Pawverse: Return of Pawdi ( Giveaway #2 )
-
-Hello PAWniverse members,
-
-We are giving away 2000 PAW towards each person that claims it within the next 24 hours.
-
-If PAW gets to more than 10,000 members on reddit we will be giving away another $10 in PAW to 5 random participants and another $50 to one lucky winner.
-
-To receive your PAW simply reply with your PAW address. PAW will be sent automatically to your address within seconds.
-
-Here are 2 options if you don't have a wallet yet.
-
-- The browser wallet at wallet.paw.digital
-
-- The android Biota app on the playstore.
-
-9.2k Comments
+4.1k Comments
+Share
+Save
+17.7k
+r/AskReddit
+•Posted byu/purplemnem
+13 hours ago
+6
+4
+10
+Join
+What’s the nastiest thing you’ve ever done?
+nsfw
+7.0k Comments
 Share
 Save
 Top livestream
-15.1k
-r/PoliticalHumor
-•Posted byu/RedDragonCast
-4 hours ago
+13.1k
+r/politics
+•Posted byu/newnemo
+3 hours ago
+Pro-Trump group sent armed members door-to-door in Colorado to “intimidate” voters: Lawsuit | Lawsuit accuses Colorado group linked to Mike Lindell of violating the Ku Klux Klan Act and voting rights laws
+salon.com/2022/0...
 Join
-When a billionaire DIES who INHERITS their senators?
-i.imgur.com/4Vc87B...
+704 Comments
+Share
+Save
+11.3k
+r/funny
+•Posted byu/Technical_Ad6376
+2 hours ago
+3
+2
+Join
+pancat 😅😅😅
 64 Comments
 Share
 Save
-18.3k
-r/funny
-•Posted byu/Noiz2144
-4 hours ago
+33.2k
+r/politics
+•Posted byu/The_Puff
+15 hours ago
 5
-6
-6
+& 21 More
+Justice Clarence Thomas hospitalized with 'flu-like symptoms'
+cnn.com/2022/0...
 Join
-Stability over 9000
-342 Comments
+3.8k Comments
+Share
+Save
+24.7k
+r/MadeMeSmile
+•Posted byu/eokwuanga
+3 hours ago
+14
+12
+5
+& 6 More
+Join
+Outfits from different African cultures
+ Good Vibes 
+603 Comments
 Share
 Save
 Advertisement
