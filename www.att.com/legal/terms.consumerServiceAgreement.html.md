@@ -1,6 +1,4 @@
 AT&T Consumer Service Agreement
-Documents
-Print
 
 Welcome to AT&T!
 
