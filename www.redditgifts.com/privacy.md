@@ -1,112 +1,81 @@
 Found the internet!
 Trending today
-Ferrari
-If Ferrari gets 1-2, a man is not only right to make a Pavarotti edit, but he is obligated to do so.
-r/formuladank and more
-Fortnite
-Fortnite will be donating 100% of the money earned these 3 weeks to Ukraine!
-r/ukraine and more
-Iowa State
-Iowa State’s Gabe Kalscheur: "I ain't never like Wisconsin to be honest."
-r/CollegeBasketball and more
-Germany
-Germany is building what's expected to become Europe's largest military
-r/europe and more
-Kyiv
-7AM; The Sun is rising on the 26th Day of the Russian Invasion on the Capital city of Kyiv. Ukraine continues to Live and Fight on.
-r/ukraine and more
-China Eastern Airlines
-Looks like a China Eastern 737 has gone down in Guangzhou, China.
-r/aviation and more
+Alexey Navalny
+Navalny sentenced to 9 years in prison by Russian court
+r/news and more
+Ketanji Brown Jackson
+Ketanji Brown Jackson schooled GOP senator who ranted about gay marriage | "Well, senator, that is the nature of a right."
+r/politics and more
+Amanda Bynes
+Amanda Bynes’ Conservatorship Terminated by Judge After Nearly Nine Years
+r/television and more
+$GME
+With almost 14million shares traded today…GameStop just had its highest daily volume since August 24th 2021😳🔊🔊🔊🦻
+r/Superstonk and more
+Maersk
+Maersk to completely leave Russia and sell its Russian assets.
+New Orleans Tornado
+Video Of The Tornado That Just Went Through New Orleans, LA.
+r/weather and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-30.0k
-r/technology
-•Posted byu/realguiders
-11 hours ago
-2
-Netflix's new password-sharing fee is just the tip of an expensive iceberg
-Business
-techradar.com/news/n...
-Join
-4.6k Comments
-Share
-Save
-28.7k
-r/worldnews
-•Posted byu/ForgotMyPassOtherAcc
-6 hours ago
-2
-5
-China Eastern Airlines Boeing 737 crashes with 133 on board
-reuters.com/world/...
-Join
-4.1k Comments
-Share
-Save
-17.7k
+20.4k
 r/AskReddit
-•Posted byu/purplemnem
-13 hours ago
+•Posted byu/sumunsolicitedadvice
+12 hours ago
+7
 6
+2
 4
-10
 Join
-What’s the nastiest thing you’ve ever done?
+Next U.S. President is a current stand-up comic. Who do you want it to be and why?
+11.7k Comments
+Share
+Save
+33.4k
+r/nextfuckinglevel
+•Posted byu/Entire-Panic
+3 hours ago
+3
+10
+5
+Join
+The way he goes out of his way to show he’s not faking. Respect. 👏
+0:00
+0:33
+1.4k Comments
+Share
+Save
+26.3k
+r/pics
+•Posted byu/Buppster87
+13 hours ago
+2
+3
+& 2 More
+Join
+Got bit by a pitbull on my run today (OC)
 nsfw
-7.0k Comments
+1/3
+5.5k Comments
 Share
 Save
 Top livestream
-13.1k
-r/politics
-•Posted byu/newnemo
-3 hours ago
-Pro-Trump group sent armed members door-to-door in Colorado to “intimidate” voters: Lawsuit | Lawsuit accuses Colorado group linked to Mike Lindell of violating the Ku Klux Klan Act and voting rights laws
-salon.com/2022/0...
-Join
-704 Comments
-Share
-Save
-11.3k
-r/funny
-•Posted byu/Technical_Ad6376
-2 hours ago
+28.5k
+r/gaming
+•Posted byu/ameen__shaikh
+4 hours ago
 3
-2
-Join
-pancat 😅😅😅
-64 Comments
-Share
-Save
-33.2k
-r/politics
-•Posted byu/The_Puff
-15 hours ago
+7
 5
-& 21 More
-Justice Clarence Thomas hospitalized with 'flu-like symptoms'
-cnn.com/2022/0...
 Join
-3.8k Comments
-Share
-Save
-24.7k
-r/MadeMeSmile
-•Posted byu/eokwuanga
-3 hours ago
-14
-12
-5
-& 6 More
-Join
-Outfits from different African cultures
- Good Vibes 
-603 Comments
+Accessorizing
+i.imgur.com/O7ARSf...
+932 Comments
 Share
 Save
 Advertisement
