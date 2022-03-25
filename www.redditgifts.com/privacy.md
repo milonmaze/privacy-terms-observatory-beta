@@ -1,81 +1,84 @@
 Found the internet!
 Trending today
-Alexey Navalny
-Navalny sentenced to 9 years in prison by Russian court
+Keanu Reeves
+Keanu Reeves Films Pulled from Chinese Streaming Platforms Over His Support for Tibet
+r/movies and more
+NATO
+Zelenskyy criticizes NATO in address to its leaders, saying it has failed to show it can 'save people'
+Gas For Rubles
+Europe Rejects Putin’s Demand for Natural Gas Payments in Rubles - BNN Bloomberg
+Amazon Walkout
+Amazon Workers at Three Delivery Stations Just Staged a Walkout
+r/technology and more
+Ginni Thomas
+Ginni Thomas, Justice Clarence Thomas' wife, exchanged texts with Mark Meadows about efforts to overturn the 2020 election
 r/news and more
-Ketanji Brown Jackson
-Ketanji Brown Jackson schooled GOP senator who ranted about gay marriage | "Well, senator, that is the nature of a right."
-r/politics and more
-Amanda Bynes
-Amanda Bynes’ Conservatorship Terminated by Judge After Nearly Nine Years
-r/television and more
-$GME
-With almost 14million shares traded today…GameStop just had its highest daily volume since August 24th 2021😳🔊🔊🔊🦻
-r/Superstonk and more
-Maersk
-Maersk to completely leave Russia and sell its Russian assets.
-New Orleans Tornado
-Video Of The Tornado That Just Went Through New Orleans, LA.
-r/weather and more
+Joe Biden
+Biden Says to Expect ‘Real’ Food Shortages Due to Ukraine War
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-20.4k
-r/AskReddit
-•Posted byu/sumunsolicitedadvice
-12 hours ago
-7
-6
+50.0k
+r/MadeMeSmile
+•Posted byu/jayy8143
+5 hours ago
+11
+20
 2
-4
+& 15 More
 Join
-Next U.S. President is a current stand-up comic. Who do you want it to be and why?
+Keanu Reeves is legend
+ Favorite People 
+583 Comments
+Share
+Save
+26.0k
+r/OnePiece
+•Posted byu/Kirosh2
+12 hours ago
+9
+& 798 More
+Join
+One Piece: Chapter 1044
+Current Chapterspoiler
+24.5k Comments
+Share
+Save
+12.9k
+r/AskReddit
+•Posted byu/QAnonCultBuster
+12 hours ago
+Join
+What candy is so bad that you'd turn it down if it were offered to you?
 11.7k Comments
 Share
 Save
-33.4k
-r/nextfuckinglevel
-•Posted byu/Entire-Panic
-3 hours ago
-3
-10
-5
-Join
-The way he goes out of his way to show he’s not faking. Respect. 👏
-0:00
-0:33
-1.4k Comments
-Share
-Save
-26.3k
-r/pics
-•Posted byu/Buppster87
-13 hours ago
-2
-3
-& 2 More
-Join
-Got bit by a pitbull on my run today (OC)
-nsfw
-1/3
-5.5k Comments
-Share
-Save
 Top livestream
-28.5k
-r/gaming
-•Posted byu/ameen__shaikh
+17.8k
+r/Unexpected
+•Posted byu/billubaadshah
 4 hours ago
-3
-7
-5
+2
+2
 Join
-Accessorizing
-i.imgur.com/O7ARSf...
-932 Comments
+Don't f#ck with the Mercedes
+352 Comments
+Share
+Save
+53.3k
+r/PublicFreakout
+•Posted byu/ItsabeautClark44
+13 hours ago
+5
+2
+11
+& 38 More
+Join
+Cops Enter Wrong House , Refuse to Leave
+5.3k Comments
 Share
 Save
 Advertisement
