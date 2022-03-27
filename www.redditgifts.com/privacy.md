@@ -1,84 +1,96 @@
 Found the internet!
 Trending today
-Keanu Reeves
-Keanu Reeves Films Pulled from Chinese Streaming Platforms Over His Support for Tibet
-r/movies and more
-NATO
-Zelenskyy criticizes NATO in address to its leaders, saying it has failed to show it can 'save people'
-Gas For Rubles
-Europe Rejects Putin’s Demand for Natural Gas Payments in Rubles - BNN Bloomberg
-Amazon Walkout
-Amazon Workers at Three Delivery Stations Just Staged a Walkout
-r/technology and more
-Ginni Thomas
-Ginni Thomas, Justice Clarence Thomas' wife, exchanged texts with Mark Meadows about efforts to overturn the 2020 election
+Billionaire Tax
+President Joe Biden to propose new 20% minimum billionaire tax
+r/politics and more
+Ukraine
+Qatar, Saudi Arabia say West neglects Mideast conflicts, but responds to Ukraine
+Jeff Fortenberry
+US congressman Jeff Fortenberry resigns after conviction for lying to FBI
+r/byebyejob and more
+Artwork
+Long Ago, Me, 3D Render, 2022
+r/Art and more
+Saudi Arabia
+Qatar, Saudi Arabia say West neglects Mideast conflicts, but responds to Ukraine
+Taylor Hawkins
+Foo Fighters' Taylor Hawkins had 10 different substances in his system at the time of his death, Colombian official says
 r/news and more
-Joe Biden
-Biden Says to Expect ‘Real’ Food Shortages Due to Ukraine War
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-50.0k
-r/MadeMeSmile
-•Posted byu/jayy8143
-5 hours ago
-11
-20
+43.9k
+r/news
+•Posted byu/dgiamba
+15 hours ago
+4
 2
-& 15 More
+Foo Fighters' Taylor Hawkins had 10 different substances in his system at the time of his death, Colombian official says
+cbsnews.com/amp/ne...
 Join
-Keanu Reeves is legend
- Favorite People 
-583 Comments
+4.7k Comments
 Share
 Save
-26.0k
-r/OnePiece
-•Posted byu/Kirosh2
-12 hours ago
-9
-& 798 More
+Vote
+r/wholesomememes
+•Posted byu/br3ndy16
+2 hours ago
+5
 Join
-One Piece: Chapter 1044
-Current Chapterspoiler
-24.5k Comments
+Happy birthday
+66 Comments
 Share
 Save
-12.9k
+8.8k
 r/AskReddit
-•Posted byu/QAnonCultBuster
-12 hours ago
+•Posted byu/Leo_Vandrare
+5 hours ago
 Join
-What candy is so bad that you'd turn it down if it were offered to you?
-11.7k Comments
+What do you think about Male Birth Control pills?
+nsfw
+5.1k Comments
 Share
 Save
 Top livestream
-17.8k
-r/Unexpected
-•Posted byu/billubaadshah
-4 hours ago
-2
-2
+60.1k
+r/WhitePeopleTwitter
+•Posted byu/zzill6
+13 hours ago
+3
+3
+3
 Join
-Don't f#ck with the Mercedes
-352 Comments
+Sad, But Probably True
+3.1k Comments
 Share
 Save
-53.3k
-r/PublicFreakout
-•Posted byu/ItsabeautClark44
-13 hours ago
-5
-2
-11
-& 38 More
+27.0k
+r/interestingasfuck
+•Posted byu/dump_acc_91
+5 hours ago
+16
+17
+& 13 More
 Join
-Cops Enter Wrong House , Refuse to Leave
-5.3k Comments
+Vance's incredible 365-day transformation will blow you away
+/r/ALL
+677 Comments
+Share
+Save
+Vote
+r/leagueoflegends
+•Posted byu/adz0r
+1 hour ago
+9
+10
+7
+Join
+Gen.G vs. DWG KIA / LCK 2022 Spring Playoffs - Semi-Final / Post-Match Discussion
+spoiler
+1.2k Comments
 Share
 Save
 Advertisement
