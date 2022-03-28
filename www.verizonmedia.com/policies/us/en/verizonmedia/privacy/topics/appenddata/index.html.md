@@ -15,7 +15,7 @@ Experian
 IXI (Equifax)
 Navegg
 Nielsen
-Nielsen Catalina Solutions
+NCSolutions
 Polk
 ROix
 IQVIA (IMS)
