@@ -9,6 +9,7 @@ Email or phone	Password
 Forgot account?
 Sign Up
 Full Data Policy
+The California Consumer Privacy Act is effective as of January 1, 2020. California residents can learn more about their privacy rights here.
 What kinds of information do we collect?
 How do we use this information?
 How is this information shared?
@@ -17,7 +18,7 @@ How can I manage or delete information about me?
 How do we respond to legal requests or prevent harm?
 How do we operate and transfer data as part of our global services?
 How will we notify you of changes to this policy?
-Brazil Privacy Notice
+Privacy notice for California residents
 How to contact us with questions
 Facebook Ads Controls
 Privacy Basics
@@ -153,10 +154,8 @@ Return to top
 How will we notify you of changes to this policy?
 We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products.
 Return to top
-Brazil Privacy Notice
-This section applies to personal data processing activities under Brazilian law and supplements this Data Policy.
-Under the Brazilian General Data Protection Law (the “LGPD”), you have the right to access, rectify, port, erase, and confirm that we process your data. Learn more about your rights and find out how you can exercise your rights in the Facebook Settings and Instagram Settings. In certain circumstances, you also have the right to object to and to restrict the processing of your personal data, or you may withdraw your consent when we process data you provide to us based on your consent. This Data Policy provides information about how we share data with third parties. To request more information about our data practices, click here for Facebook or here for Instagram.
-The data controller responsible for your information is Meta Platforms, Inc. Contact the Data Protection Officer for Meta Platforms, Inc. You also have the right to petition the Brazilian Data Protection Authority by contacting the DPA directly.
+Privacy notice for California residents
+If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California Privacy Notice.
 Return to top
 How to contact us with questions
 You can learn more about how privacy works on Facebook and on Instagram. If you have questions about this policy, you can contact us as described below.
@@ -168,4 +167,4 @@ ATTN: Privacy Operations
 Menlo Park, CA 94025
 
 
-Date of Last Revision: 4 January, 2022
+Date of Last Revision: January 4, 2022
