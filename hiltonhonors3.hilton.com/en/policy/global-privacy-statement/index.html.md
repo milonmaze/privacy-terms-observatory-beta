@@ -48,7 +48,7 @@ Svenska
 Türkçe
 HILTON WORLDWIDE HOLDINGS INC. GLOBAL PRIVACY STATEMENT
 
-Last Updated: August 12, 2020
+Last Updated: March 21, 2022
 
 Introduction
 Collection of Personal Information – Generally
@@ -64,7 +64,9 @@ International Transfers of Personal Information
 Data Retention Periods
 Changes to this Statement
 Contact Information for Questions or Concerns
-Appendix A: Additional Provisions Applicable to Processing of Personal Information of EEA Residents
+Appendix A: Additional Privacy Provisions Applicable to Processing of Personal Information of Residents of Certain Countries and U.S. States
+Appendix B: Additional Provisions Applicable to Processing of Personal Information of Data Subjects in Turkey
+Appendix C: Provisions Applicable to Processing of Personal Information of China Residents/Citizens
 NOTICE RELATING TO THE COVID-19 PANDEMIC
 
 For the purposes of (1) protecting the health and safety of you and team members at Hilton properties, and (2) complying with legal requirements, some Hilton properties may take your temperature when you arrive at the property and/or during your stay. If a property is conducting temperature checks of guests, the property will make available to you a privacy notice about the temperature checks. The notice will include details such as what personal information is being collected, the legal basis for the collection of such information, the purpose for which the information will be used, and how long the information will be retained. For more information on Hilton’s commitment to you during the COVID-19 pandemic, please click here.
@@ -865,7 +867,6 @@ Support marketing efforts
 Provide customer service
 Troubleshoot and resolve website issues
 
-California and Nevada consumers, if you would like to opt out of the sale of your personal information, please click here. California consumers, please note that if you choose to opt out of the sale of your personal information through cookies, tags, and pixels, that opt-out will only apply to the device and the browser you are using when you opt out. Due to current technology limitations, if you wish to opt out of the sale of your personal information through cookies, tags, and pixels on your other devices or other browsers, you will need to opt out again for each of your devices and browsers.
 
 Making a Reservation
 
@@ -991,8 +992,6 @@ Airline partner name and number
 	
 Credit points to you if you participate in an airline loyalty program
 
-California and Nevada consumers, if you would like to opt out of the sale of your personal information, please click here. California consumers, please note that if you choose to opt out of the sale of your personal information through cookies, tags, and pixels, that opt-out will only apply to the device and the browser you are using when you opt out. Due to current technology limitations, if you wish to opt out of the sale of your personal information through cookies, tags, and pixels on your other devices or other browsers, you will need to opt out again for each of your devices and browsers.
-
 
 Enrolling in Hilton Honors
 
@@ -1110,9 +1109,8 @@ Opt-out preferences
 	
 Send you the communications you would like to receive
 
-California and Nevada consumers, if you would like to opt out of the sale of your personal information, please click here. California consumers, please note that if you choose to opt out of the sale of your personal information through cookies, tags, and pixels, that opt-out will only apply to the device and the browser you are using when you opt out. Due to current technology limitations, if you wish to opt out of the sale of your personal information through cookies, tags, and pixels on your other devices or other browsers, you will need to opt out again for each of your devices and browsers.
 
-Check-In at a Hilton Property
+Checking In at a Hilton Property
 
 When you check in at a Hilton property, we may collect the following categories of personal information about you, which are used for the following purposes:
 
@@ -1179,7 +1177,6 @@ Email address
 	
 Send folios after the completion of a stay
 
-California and Nevada consumers, if you would like to opt out of the sale of your personal information, please click here. California consumers, please note that if you choose to opt out of the sale of your personal information through cookies, tags, and pixels, that opt-out will only apply to the device and the browser you are using when you opt out. Due to current technology limitations, if you wish to opt out of the sale of your personal information through cookies, tags, and pixels on your other devices or other browsers, you will need to opt out again for each of your devices and browsers.
 
 E-Check In
 
@@ -1209,7 +1206,6 @@ Fulfill your reservation
 Personalize your experience
 Customer service
 
-California and Nevada consumers, if you would like to opt out of the sale of your personal information, please click here. California consumers, please note that if you choose to opt out of the sale of your personal information through cookies, tags, and pixels, that opt-out will only apply to the device and the browser you are using when you opt out. Due to current technology limitations, if you wish to opt out of the sale of your personal information through cookies, tags, and pixels on your other devices or other browsers, you will need to opt out again for each of your devices and browsers.
 
 Digital Key
 
@@ -1241,11 +1237,11 @@ Arrival time
 Fulfill your reservation
 
 
-Location information
+Precise geo-location information
 	
+Enable you to access your guest room and hotel facilities
 Fulfill Digital Key sharing requests
 
-California and Nevada consumers, if you would like to opt out of the sale of your personal information, please click here. California consumers, please note that if you choose to opt out of the sale of your personal information through cookies, tags, and pixels, that opt-out will only apply to the device and the browser you are using when you opt out. Due to current technology limitations, if you wish to opt out of the sale of your personal information through cookies, tags, and pixels on your other devices or other browsers, you will need to opt out again for each of your devices and browsers.
 
 Guest Assistance
 
@@ -1281,7 +1277,6 @@ Description of complaint or inquiry
 Respond to your complaint
 Perform analytics to improve business operations
 
-California and Nevada consumers, if you would like to opt out of the sale of your personal information, please click here. California consumers, please note that if you choose to opt out of the sale of your personal information through cookies, tags, and pixels, that opt-out will only apply to the device and the browser you are using when you opt out. Due to current technology limitations, if you wish to opt out of the sale of your personal information through cookies, tags, and pixels on your other devices or other browsers, you will need to opt out again for each of your devices and browsers.
 
 Back to Top
 
@@ -1335,7 +1330,11 @@ When the DPO receives your request, the DPO will first verify your identity. If 
 
 If you would like, you may designate an authorized agent to make a request on your behalf. In order to designate an authorized agent, please submit an order issued by a court, a document submitted by a barred attorney, or a formal certified document issued by an official governmental agency.
 
-If you would like to opt out of the sale of your personal information to behavioral advertising networks, you may do so by clicking on the banner that appears on any Hilton website when you access that site from an IP address that relates to California or by visiting our website at datarights.hilton.com or click the “Personal Data Requests” link at the bottom of any Hilton website to submit your request. Please note that when you opt out of cookies, tags, and pixels, that opt out only pertains to the device and the browser that you are using when you opt out. If you wish to opt out for other devices or browsers, you must opt out again when you are using those devices or browsers.
+If you would like to opt out of the sale of your personal information, you may do so by clicking on the banner that appears on any Hilton website when you access that site from an IP address that relates to California or by visiting our website at datarights.hilton.com or click the “Personal Data Requests” link at the bottom of any Hilton website to submit your request. Please note that when you opt out of cookies, tags, and pixels, that opt out only pertains to the device and the browser that you are using when you opt out. If you wish to opt out for other devices or browsers, you must opt out again when you are using those devices or browsers.
+
+Sensitive Personal Information
+
+We limit the use of your personal information to that use which is necessary to perform reasonably expected services or as required by law.
 
 Direct Marketing Disclosure
 
@@ -1344,6 +1343,12 @@ California consumers also may request information about our disclosures of certa
 The Right to Non-Discrimination
 
 The CCPA prohibits a business from treating a consumer differently because the consumer exercised a right conferred on him/her by the CCPA. We welcome you to exercise your rights under the CCPA, and we will not discriminate against you for doing so.
+
+Financial Incentive Notice
+
+Hilton does not offer a financial incentive for the collection, sale, or deletion of personal information. As detailed in this Statement, Hilton primarily collects personal data from guests in order to fulfill guest reservations and from Honors members in order to operate the Hilton Honors loyalty program. Hilton also collects personal data for marketing and other purposes as permitted by applicable law.
+
+As set forth in the Hilton Honors Terms and Conditions, Hilton Honors members have the ability to accumulate points and access discounted rates. The ability to accumulate points and to access discounted rates is not directly related to the value provided to the business of members’ data.
 
 Removal of Content
 
@@ -1448,7 +1453,7 @@ CONTACT INFORMATION FOR QUESTIONS OR CONCERNS
 
 If you have any questions or concerns, please contact us by sending an email to DataProtectionOffice@hilton.com, by sending a letter to Hilton Data Protection Officer, 7930 Jones Branch Drive, McLean, VA 22102, or by calling our toll-free number: (800) 413-7470.
 
-This Statement was most recently updated on August 12, 2020.
+This Statement was most recently updated on March 21, 2022.
 
 Back to Top
 
@@ -1457,20 +1462,20 @@ Back to Top
 
 
 APPENDIX A
-ADDITIONAL PROVISIONS APPLICABLE TO PROCESSING OF PERSONAL
-INFORMATION OF EEA RESIDENTS
+ADDITIONAL PRIVACY PROVISIONS APPLICABLE TO PROCESSING OF PERSONAL
+INFORMATION OF RESIDENTS OF CERTAIN COUNTRIES AND US STATES
 
 
 
-For individuals residing in the EEA, this Appendix outlines certain additional information that Hilton is obligated to provide to you, as well as certain rights you have with respect to the processing of your personal information, pursuant to applicable local laws. This Appendix will control to the extent it conflicts with any provision in the main body of this Statement.
+This Appendix provides additional information for individuals residing in countries and U.S. states that have enacted privacy laws giving certain additional rights to residents of those jurisdictions. These countries include, but are not limited to, those in the European Economic Area (EEA), the United Kingdom and Switzerland, as well as Australia, Brazil, China, Israel, Japan, Nigeria and Turkey. This Appendix outlines certain additional information that Hilton is obligated to provide to you, as well as certain rights you have with respect to the processing of your personal information, pursuant to applicable local laws. This Appendix will control to the extent it conflicts with any provision in the main body of this Statement.
 
-Controller: for more information on the Hilton entities that process your personal information, please click here.
+Controller: Find more information on the Hilton entities that process your personal information, please click here.
 
 Data Protection Officer: Hilton's Data Protection Officer may be contacted by email at DataProtectionOffice@Hilton.com, or at the following address:
 
 Attn: Data Protection Officer 7930 Jones Branch Drive McLean, VA 22102 USA
 
-Purposes and Legal Basis for Processing: Hilton processes your personal information for the purposes set forth in Sections 4 (Use of Personal Information Collected About You) and 5 (Personal Information We Share) of the main body of this Statement.
+Purposes and Legal Basis for ProcessingHilton processes your personal information for the purposes set forth in the Section titled Collection of Personal Information - Generally and the Section titled Collection of Personal Information - Notice at Point of Collection of the main body of this Statement.
 
 The legal bases for Hilton's processing activities include processing such information as necessary to comply with our contractual obligations, compliance with our legal obligations, protecting the safety of our employees, guests and others, for our legitimate business interests, and pursuant to your consent.
 
@@ -1480,19 +1485,19 @@ Hilton Honors Participation: We process the personal information obtained in con
 
 Surveys: Completion of surveys is voluntary – we process the information obtained from surveys on the basis of your consent and in furtherance of our business interests, including marketing, service improvements, and analytics.
 
-On-property Collection: When you make a reservation and when you stay at one of our hotel properties, we process your name, address, contact information, along with the details of your stay (arrival and departure day and time, vehicle information and information regarding others traveling or staying with you), on the basis of our contractual relationship with you. We also process such data for our business interests, including for marketing, service improvements, administration of our e-Folio program, and analytics and service personalization, as described in Section 4 of our Global Privacy Statement (above).
+On-property Collection: When you make a reservation and when you stay at one of our hotel properties, we process your name, address, contact information, along with the details of your stay (arrival and departure day and time, vehicle information and information regarding others traveling or staying with you), on the basis of our contractual relationship with you. We also process such data for our business interests, including for marketing, service improvements, administration of our e-Folio program, and analytics and service personalization, as described in the sections referenced above of our Global Privacy Statement.
 
 We collect certain additional personal information during registration/check-in at our properties (such as national ID or passport information), as necessary to comply with our legal obligations.
 
 We use closed circuit television and other security measures at our properties that may capture or record images of guests and visitors in public areas, as well as information related to your location while on our properties (via keycards and other technologies) for the protection of our staff, guests and visitors to our properties.
 
-We process personal information in connection with on-property services (such as concierge services, health clubs, spas, activities, child care services, equipment rental, and our Digital Key functionality), in order to provide the services to you and for our business interests including for marketing, service improvements, administration of our e-Folio program, and analytics and service personalization, as described in Section 4 of our Global Privacy Statement (above).
+We process personal information in connection with on-property services (such as concierge services, health clubs, spas, activities, child care services, equipment rental, and our Digital Key functionality), in order to provide the services to you and for our business interests including for marketing, service improvements, administration of our e-Folio program, and analytics and service personalization, as described in the sections referenced above of our Global Privacy Statement.
 
-Event Profiles: We process the personal information obtained in connection with your event on the basis of our contractual relationship with you and for our business interests, including for marketing, service improvements, and analytics and service personalization, as described in Section 4 of our Global Privacy Statement (above).
+Event Profiles: We process the personal information obtained in connection with your event on the basis of our contractual relationship with you and for our business interests, including for marketing, service improvements, and analytics and service personalization, as described in the sections referenced above of our Global Privacy Statement.
 
-Social Media: Participation in Hilton-sponsored social media activities and offerings is voluntary - we process information obtained from social media participation on the basis of your consent and in furtherance of our related business interests, including for marketing, service improvements, and analytics and service personalization, as described in Section 4 of our Global Privacy Statement (above).
+Social Media: Participation in Hilton-sponsored social media activities and offerings is voluntary - we process information obtained from social media participation on the basis of your consent and in furtherance of our related business interests, including for marketing, service improvements, and analytics and service personalization, as described in the sections referenced above of our Global Privacy Statement.
 
-Promotions and Sweepstakes: Participation in sweepstakes, contests and other promotional offerings is voluntary – we process the information obtained from such participation based on your consent and as necessary to administer the offering. We also use certain data for our business purposes, including for marketing, service improvements, administration of our e-Folio program, and analytics and service personalization, as described in Section 4 of our Global Privacy Statement (above).
+Promotions and Sweepstakes: Participation in sweepstakes, contests and other promotional offerings is voluntary – we process the information obtained from such participation based on your consent and as necessary to administer the offering. We also use certain data for our business purposes, including for marketing, service improvements, administration of our e-Folio program, and analytics and service personalization, as described in the sections referenced above of our Global Privacy Statement.
 
 Direct Marketing: We use your personal information to send you marketing messages on the basis of your consent. You may withdraw your consent for direct marketing communications at any time by contacting us at customer_privacy@Hilton.com or by following the unsubscribe instructions in the marketing message, or by logging in to your Hilton Honors account and updating your communication preferences.
 
@@ -1537,8 +1542,31 @@ With your consent, we make automated decisions, meaning without human interferen
 
 International Data Transfers: We may transfer the personal information we collect about you pursuant to the purposes described in this Statement to countries that have not been found by the European Commission to provide adequate protection. In particular, we transfer your personal information to the United States.
 
-We use appropriate safeguards for the transfer of personal information among our affiliates in various jurisdictions, and where required, we have implemented European Union controller-to-controller standard contractual clauses or other such safeguards for such purposes. To obtain a copy of theses clauses or additional information on transfers, you may send your request to privacy@hilton.com.
+We use appropriate safeguards for the transfer of personal information among our affiliates in various jurisdictions, and where required, we have implemented data transfer agreements, such as the European Commission standard contractual clauses or other such safeguards for such purposes. To obtain a copy of theses clauses or additional information on transfers, you may send your request to privacy@hilton.com.
 
+Back to Top
+
+
+
+
+
+APPENDIX B
+ADDITIONAL PROVISIONS APPLICABLE TO PROCESSING OF PERSONAL
+INFORMATION OF DATA SUBJECTS IN TURKEY
+
+
+
+For data subjects in Turkey, this Appendix outlines certain additional information that Hilton is obligated to provide to you, as well as certain rights you have with respect to the processing of your personal information, pursuant to applicable local laws. This Appendix will control to the extent it conflicts with any provision in the main body of this Statement.
+
+Data Controller. Hilton Domestic Operating Company Inc. is the Hilton entity for all guest data and Hilton's marketing activities, whereas Hilton Reservations Worldwide, L.L.C. processes the data you provide when making a reservation at a Hilton property and is a data controller for that information. Hilton Honors Worldwide LLC operates the Hilton Honors loyalty program and is a data controller for that program.
+
+Your personal data may be processed by other Hilton entities in Turkey who act as a data controller based on the Hilton property you stay at. In such cases, the relevant Hilton entity will act as the data controller for your personal data, who will provide you with a separate privacy notice, where necessary.
+
+Data Controller Representative. You may contact our data controller representative in Turkey by email or mail to handle questions and complaints in connection with the processing of your personal data if you are in Turkey.
+
+Esin Attorney Partnership
+info@esin.av.tr
+Akatlar Mah. Ebulula Mardin Cad. Gül Sok. No. 2
 Back to Top
  
 Skip to top of page
