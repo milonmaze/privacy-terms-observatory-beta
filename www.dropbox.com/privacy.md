@@ -119,6 +119,7 @@ Enterprise
 HelloSign
 DocSend
 Plans
+Product updates
 Support
 Help center
 Contact us
