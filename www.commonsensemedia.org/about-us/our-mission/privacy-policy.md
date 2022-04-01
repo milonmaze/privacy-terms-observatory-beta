@@ -883,26 +883,26 @@ Common Sense Media
 Sign in
 Language:
 English
-Movies & TV
+Movies
 Movie Reviews
-TV Reviews
-Best Streaming Picks for Kids
 Best Movie Lists
+Best Streaming Picks for Kids
+Common Sense Selections for Movies
+TV
+TV Reviews
 Best TV Lists
-Common Sense Selections
-Celebrate Black Voices
+Best Streaming Picks for Kids
+Common Sense Selections for TV
 Books
-Best Book Lists
 Book Reviews
-Apps & Games
-Best App Lists
-App Reviews
-Best Game Lists
+Best Book Lists
+Games
 Game Reviews
-Best Website Lists
-Website Reviews
-Best for Learning Lists
-Common Sense Selections
+Best Game Lists
+Common Sense Selections for Games
+Apps
+App Reviews
+Best App Lists
 Parents Need to Know
 By Age
 Preschoolers (2-4)
