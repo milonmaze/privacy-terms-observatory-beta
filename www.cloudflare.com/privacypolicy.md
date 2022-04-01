@@ -1,8 +1,8 @@
 Cloudflare Privacy Policy
 
-This Privacy Policy is effective as of February 1, 2022.
+This Privacy Policy is effective as of April 1, 2022.
 
-We have updated our September 1, 2021, Privacy Policy to update the name of our Cloudflare Zero Trust offering.
+We have updated our February 1, 2022 Privacy Policy to incorporate the information Cloudflare collects and processes via its subsidiary, Area 1 Security, LLC and to clarify our use of aggregated data from our 1.1.1.1 public resolver.
 
 This Cloudflare Privacy Policy (“Policy”) outlines the personal information that Cloudflare, Inc. (“Cloudflare”, “we”, “us” or “our”) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.
 
@@ -72,9 +72,9 @@ Please note that our data handling practices for our 1.1.1.1 Application, which 
 
 End Users
 
-Logs: Cloudflare processes logs of End Users’ interactions with Customer’s Internet Properties and the Services. This information is processed when End Users access or use our Customers’ domains, websites, APIs, applications, devices, end points, and networks that use one or more of our Services, and when End Users access or use Services, such as Cloudflare Zero Trust. The information processed may include but is not limited to IP addresses, system configuration information, and other information about traffic to and from Customers’ websites, devices, applications, and/or networks.
+Cloudflare processes End Users’ interactions with Customer’s Internet Properties and the Services. This information is processed when End Users access or use our Customers’ domains, websites, APIs, applications, devices, end points, and networks that use one or more of our Services, and when End Users access or use Services, such as Cloudflare Zero Trust. The information processed may include but is not limited to IP addresses, traffic routing data, system configuration information, and other information about traffic to and from Customers’ websites, devices, applications, and/or networks.
 
-The End User logs that we make available to our Customers via the Service dashboard or other online interface are specifically defined as “Customer Logs”.
+The End User data that we make available to our Customers via the Service dashboard or other online interface are specifically defined as “Customer Logs”.
 
 Registrants
 
@@ -110,7 +110,7 @@ Personalize the Websites and Services, including by providing features or conten
 
 To register visitors to our offices and to manage non-disclosure agreements that visitors may be required to sign, to the extent such processing is necessary for our legitimate interest in protecting our offices and our confidential information against unauthorized access; and
 
-Public DNS Resolver Users. We use information we collect from 1.1.1.1 resolver users to operate and improve the 1.1.1.1 resolver, such as to assist us in our debugging efforts if an issue arises. Our 1.1.1.1 resolver service does not store 1.1.1.1 resolver users’ personal information. We will not combine any information collected from DNS queries to our 1.1.1.1 resolver with any other Cloudflare or third party data in any way that can be used to identify individual end users. Learn more about our 1.1.1.1 resolver commitment to privacy here.
+Public DNS Resolver Users. We use information we collect from 1.1.1.1 resolver users to operate and improve the 1.1.1.1 resolver, such as to assist us in our debugging efforts if an issue arises. Our 1.1.1.1 resolver service does not store 1.1.1.1 resolver users’ personal information. We will not combine any information collected from DNS queries to our 1.1.1.1 resolver with any other Cloudflare or third party data in any way that can be used to identify individual end users. Cloudflare may store aggregated data, as outlined within our 1.1.1.1 resolver commitments to privacy, indefinitely in order to power Cloudflare Radar and assist Cloudflare in improving Cloudflare services, such as, enhancing the overall performance of the Cloudflare Resolver and identifying security threats. Learn more about our 1.1.1.1 resolver commitment to privacy here.
 
 Information from Third Party Services. We may combine information we collect as described in Section 2 above with personal information we obtain from third parties. For example, we may combine information entered on a Cloudflare sales submission form with information we receive from a third-party sales intelligence platform vendor to enhance our ability to market our Services to Customers or potential Customers.
 
@@ -282,6 +282,21 @@ Jumeirah
 Dubai UAE
 Attention: Data Protection Officer
 privacyquestions@cloudflare.com
+
+Cloudflare India Private Limited
+No. 215 Richmond Towers, 12 Richmond Road, Richmond Town
+Banglore, Bangalore, Karnataka, India, 560025
+Attention: Grievance Officer
+privacyquestions@cloudflare.com
+
+Area 1 Security, LLC
+838 Walker Road Suite 21-2,
+Dover, DE, 19904
+Attention: Data Protection Officer
+privacyquestions@cloudflare.com
+
+
+
 
 Legal
 
