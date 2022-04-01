@@ -10,7 +10,7 @@ Business Line of Credit: 1-833-906-2224
 
 
 
-Monday to Friday, 9 am - 6:30 pm ET.
+Monday to Friday, 9 am – 6:30 pm ET.
 
 Marcus Invest: 1-833-720-6468
 
@@ -19,6 +19,7 @@ Marcus Invest: 1-833-720-6468
 24 hours a day / 7 days a week.
 
 GM Rewards Cards: 1-833-773-0988
+GM Business Cards: 1-833-773-0990
 
 
 
