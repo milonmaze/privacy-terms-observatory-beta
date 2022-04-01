@@ -1064,7 +1064,7 @@ List your property
 Mobile version
 Your account
 Make changes online to your booking
-Contact Customer Service
+Customer Service Help
 Become an affiliate
 Booking.com for Business
 Countries
@@ -1092,7 +1092,7 @@ Restaurant reservations
 Booking.com for Travel Agents
 Coronavirus (COVID-19) FAQs
 About Booking.com
-Contact Customer Service
+Customer Service Help
 Partner help
 Careers
 Sustainability
