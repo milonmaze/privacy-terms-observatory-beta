@@ -361,7 +361,6 @@ Social Presence
 Programs
 Developer Circles
 F8
-Startup Programs
 ThreatExchange
 Support
 Developer Support
