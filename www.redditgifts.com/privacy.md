@@ -1,93 +1,105 @@
 Found the internet!
 Trending today
-Oil Reserve Release
-U.S. to release 1 million barrels of oil per day from reserves to help cut gas prices
-r/news and more
-Housing Bubble
-Federal Reserve warns of "brewing U.S. housing bubble"
-r/news and more
-Chernobyl
-IAEA confirmed that Russians have relinquished control of Chornobyl back to the Ukrainians.
-r/ukraine and more
-Insulin Price Cap Bill
-House Passes Bill to Limit Cost of Insulin to $35 a Month
+xQc
+Petition for a coalition of people to nuke the XQC logo with void so actual art can takes its place
+r/place and more
+Estelle Harris
+Estelle Harris Dies: ‘Seinfeld’s Estelle Costanza, ‘Toy Story’ Franchise’s Mrs. Potato Head Was 93
+r/movies and more
+'Don't Say Gay' Bill
+Memo Circulated To Florida Teachers Lays Out Clever Sabotage Of 'Don't Say Gay' Law
 r/politics and more
-r/Place
-r/Place is coming back. Help us make history.
-r/ShitPostCrusaders and more
-Giannis Antentokounmpo
-[Highlight] Antetokounmpo ties the game with 18 seconds left with a three - TNT
-r/nba and more
+Meteor Shower
+Meteor shower over Nagpur, India
+r/space and more
+Ukraine
+Ukraine minister says the Ukrainian Military has regained control of ‘whole Kyiv region’
+r/news and more
+Ramadan
+Ramadan Mubarak to those who are celebrating.
+r/MadeMeSmile and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-58.0k
-r/Eldenring
+17.3k
+r/pics
 •Posted by
-u/Aviaja_Apache
-13 hours ago
-6
-& 13 More
-Join
-Is there anyone else who’s been playing since launch but haven’t finished yet?
-Discussion & Info
-9.1k Comments
-Share
-Save
-15.3k
-r/worldnews
-•Posted by
-u/QuirkyQuarQ
-3 hours ago
+u/lukalux3
+2 hours ago
 2
-Kremlin says Ukraine strike on Russian fuel depot creates awkward backdrop for talks
-Russia/Ukraine
-reuters.com/world/...
+4
+4
 Join
-1.8k Comments
+Ukrainian airborne units regain control of the Chernobyl
+449 Comments
 Share
 Save
-18.6k
+10.9k
+r/CollegeBasketball
+•Posted by
+u/cbbBot
+11 hours ago
+2
+6
+& 99 More
+Join
+[Post Game Thread] #8 North Carolina defeats #2 Duke, 81-77
+Post Game Thread
+
+Box Score
+
+Team	1H	2H	Total
+North Carolina	34	47	81
+Duke	37	40	77
+
+Index Thread for April 02, ^2022
+
+5.1k Comments
+Share
+Save
+29.5k
 r/AskReddit
 •Posted by
-u/R0botDave
-16 hours ago
-3
+u/ObjectivePin5704
+12 hours ago
+7
+6
+4
+& 2 More
 Join
-What is an item of clothing that for you is an instant turn off?
-nsfw
-12.6k Comments
+[Serious] Men of Reddit, what uncommon red flags in men should women be on the look out for?
+Serious Replies Onlynsfw
+9.7k Comments
 Share
 Save
 Top livestream
-34.4k
-r/interestingasfuck
+15.3k
+r/notinteresting
 •Posted by
-u/skam_skins
-4 hours ago
-3
-4
-& 4 More
+u/Data_miner_L
+18 hours ago
+8
+10
+5
 Join
-Agassi, the mind reader.
-/r/ALL
-475 Comments
+Name something less interesting than a brick
+5.1k Comments
 Share
 Save
-11.3k
-r/OnePiece
+43.0k
+r/oddlyterrifying
 •Posted by
-u/semizero
-16 hours ago
-3
-& 170 More
+u/AndNoc
+6 hours ago
+8
+7
+9
 Join
-One Piece: Chapter 1045
-Current Chapterspoiler
-8.4k Comments
+Luang Pho Yai. 109 years old Thai Buddhist monk.
+3.5k Comments
 Share
 Save
 Advertisement
