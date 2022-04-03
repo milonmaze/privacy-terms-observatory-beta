@@ -1,6 +1,6 @@
 ← Back to Transparency Report
 About Transparency Reporting
-January 1, 2021 – June 30, 2021
+July 1, 2021 – December 31, 2021
 
 Throughout this Transparency Report, we highlight how we enforce safety and privacy across our platform. Beyond simply reporting our data, here we provide additional context and insight into our safety principles, policies, and practices, as well as links to various safety and privacy resources.
 
