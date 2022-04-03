@@ -75,7 +75,7 @@ This User Privacy Notice is effective from December 23, 2021. View the previous 
 15 min article
 Need more help?
 Chat with us
-6 min wait time
+2 min wait time
 Other options for you
 Ask the Community
 - opens in new window or tab
