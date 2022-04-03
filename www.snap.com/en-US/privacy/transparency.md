@@ -1,78 +1,79 @@
 Transparency Report
-January 1, 2021 – June 30, 2021
+July 1, 2021 – December 31, 2021
 
-Released: November 22, 2021
+Released: April 1, 2022
 
-Updated: November 22, 2021
+Updated: April 1, 2022
 
-As Snapchat continues to grow, we aim to foster a platform that empowers people to express themselves, live in the moment, learn about the world, and have fun together -- all in a safe and secure environment. To do so, we continually improve our safety and privacy practices — from our Terms of Service and Community Guidelines, to tools for preventing, detecting and enforcing against harmful content, to initiatives that help educate and empower our community. 
+As Snapchat grows, our aim is to continue to empower people to express themselves, live in the moment, learn about the world, and have fun together — all in a safe and secure environment. To do so, we continually improve our safety and privacy practices — including our Terms of Service, Community Guidelines; tools for preventing, detecting and enforcing against harmful content; and initiatives that help educate and empower our community. 
 
 To provide insight into these efforts and visibility into the nature and volume of content reported on our platform, we publish transparency reports twice a year. We are committed to continuing to make these reports more comprehensive and informative to the many stakeholders who care deeply about online safety and transparency. 
 
-This report covers the first half of 2021 (January 1 - June 30). As with our previous reports, it shares data about the total number of policy violations globally during this period; the number of content and account-level reports we received and enforced against across specific categories of violations; how we responded to requests from law enforcement and governments; and our enforcement actions broken down by country. It also captures recent additions to this report including the Violative View Rate of Snapchat content, potential trademark violations, and incidences of false information on the platform. 
+This report covers the second half of 2021 (July 1 - December 31). As with our previous reports, it shares data about the global number of in-app content and account-level reports we received and enforced against across specific categories of violations; how we responded to requests from law enforcement and governments; and our enforcement actions broken down by country. It also captures recent additions to this report, including the Violative View Rate of Snapchat content, potential trademark violations, and incidences of false information on the platform.
 
-As part of our ongoing efforts to improve both our safety enforcement and our transparency reports themselves, for the first time this report shares our median turnaround time to action user reports in minutes instead of hours, to provide more granular detail on our operational practices and efficacy. 
+As part of our ongoing focus on improving our transparency reports, we are introducing several new elements to this report. For this installment and going forward, we are breaking out drugs, weapons and regulated goods into their own categories, which will provide additional detail about their prevalence and our enforcement efforts.
 
-We have continued to expand our partnerships with industry experts as well as our in-app features to help educate Snapchatters about online risks and how to use in-app reporting to alert our Trust and Safety teams to any type of concern or policy violation.
-
-
-In addition, we continued to add partners to our trusted flagger program, which provides vetted safety experts with a confidential channel to report emergency escalations. We work closely with these partners to provide safety education, wellness resources, and other reporting guidance so they can help support the Snapchat community. 
+For the first time, we have also created a new suicide and self-harm reporting category to provide insight into total content and account reports we receive and take action on. As part of our commitment to supporting the wellbeing of our community, our Trust and Safety teams share in-app resources with Snapchatters in need, and we're also sharing more detail about that work here. 
 
 For more information about our policies for combating online harms, and plans to continue evolving our reporting practices, please read our recent Safety & Impact blog about this transparency report. 
-
 
 To find additional resources for safety and privacy on Snapchat, see our About Transparency Reporting tab at the bottom of the page.
 
 Overview of Content and Account Violations
 
-Every day, on average more than five billion Snaps are created using our Snapchat camera. From January 1 - June 30, 2021, we enforced against 6,629,165 pieces of content globally that violated our policies.
+From July 1 - December 31, 2021, we enforced against 6,257,122 pieces of content globally that violated our policies. Enforcement actions include removing the offending content or terminating the account in question. 
 
-Enforcement actions could include removing the offending content or terminating the account in question. If an account is terminated for violating our Guidelines, the account holder is not permitted to create a new account or use Snapchat again. 
+During the reporting period, we saw a Violative View Rate (VVR) of 0.08 percent, which means that out of every 10,000 Snap and Story views on Snapchat, 8 contained content that violated our guidelines.
 
-During the reporting period, we saw a Violative View Rate (VVR) of 0.10 percent, which means that out of every 10,000 snap views on Snapchat, 10 contained content that violated our guidelines. 
-
-Total Content & Account Reports*	Total Content Enforced	Total Unique Accounts Enforced
- 12,101,326	6,629,165	2,510,798
-Reason	Content & Account Reports*	Content Enforced	% of Total Content Enforced	Unique Accounts Enforced	Turnaround Time**
-Sexually Explicit Content	6,638,110	4,783,518	73.2%	1,441,208	<1
-Regulated Goods	776,806	620,083	9.5%	274,883	<1
-Threatening / Violence / Harm	1,077,311	465,422	7.1%	288,091	13
-Harassment and Bullying	911,198	319,311	4.9%	249,421	27
-Spam	560,509	243,729	3.7%	120,898	5
-Hate Speech	241,332	121,639	1.9%	92,314	15
-Impersonation	1,896,060	75,463	1.2%	43,983	13
-
-*Content & Account Reports reflect reports via Snap's in-app reporting mechanism.
-
-**Turnaround Time reflects the median time in minutes to action on a user report.
+Total Content & Account Reports	Total Content Enforced	Total Unique Accounts Enforced
+12,892,617	6,257,122	2,704,771
+Reason	Content & Account Reports	Content Enforced	% of Total Content Enforced	Unique Accounts Enforced	Median Turnaround Time (minutes)
+Sexually Explicit Content	7,605,480	4,869,272	77.8%	1,716,547	<1
+Drugs	805,057	428,311	6.8%	278,304	10
+Harassment and Bullying	988,442	346,624	5.5%	274,395	12
+Threats & Violence	678,192	232,565	3.7%	159,214	12
+Spam	463,680	153,621	2.5%	110,102	4
+Hate Speech	200,632	93,341	1.5%	63,767	12
+Other Regulated Goods	56,505	38,860	0.6%	26,736	6
+Self-Harm & Suicide	164,571	33,063	0.5%	29,222	12
+Impersonation	1,863,313	32,749	0.5%	25,174	<1
+Weapons	66,745	28,706	0.5%	21,310	8
 
 Expanded Violations
+
+Combating Child Sexual Abuse Material
+
+The sexual exploitation of any member of our community, especially minors, is illegal, unacceptable, and prohibited by our Community Guidelines. Preventing, detecting, and eradicating Child Sexual Abuse Material (CSAM) on our platform is a top priority for us, and we continuously evolve our capabilities to address CSAM and other types of child sexually exploitative content. 
+
+Our Trust and Safety teams use active technology detection tools, such as PhotoDNA robust hash-matching and Google’s Child Sexual Abuse Imagery (CSAI) Match to identify known illegal images and videos of CSAM and report them to the U.S. National Center for Missing and Exploited Children (NCMEC), as required by law. NCMEC then, in turn, coordinates with domestic or international law enforcement, as required. 
+
+In the second half of 2021, we proactively detected and actioned 88 percent of the total CSAM violations reported here.
+
+Total Account Deletions	198,109
 
 Combating The Spread of False Information
 
 We have always believed that when it comes to harmful content, it isn’t enough to think about policies and enforcement — platforms need to consider their fundamental architecture and product design. From the beginning, Snapchat was built differently than traditional social media platforms, without an open newsfeed where anyone can broadcast to a large audience without moderation.
 
-Our Guidelines clearly prohibit the spread of false information that could cause harm, including misinformation that aims to undermine civic processes, like voter suppression; unsubstantiated medical claims; and the denial of tragic events. Our Guidelines and enforcement apply consistently to all Snapchatters — we don’t make special exceptions for politicians or other public figures. 
+Our Guidelines clearly prohibit the spread of false information that could cause harm, including false information that aims to undermine civic processes; unsubstantiated medical claims; and the denial of tragic events. Our Guidelines and enforcement apply consistently to all Snapchatters — we don’t make special exceptions for politicians or other public figures. 
 
-Globally during this period, Snapchat enforced against a combined total of 2,597 accounts and pieces of content for violations of our false information guidelines. 
+Globally during this period, Snapchat enforced against a combined total of 14,613 accounts and pieces of content for violations of our false information guidelines.
 
-Total Content & Account Enforcements	2,597
-
-Combating Child Sexual Exploitation and Abuse
-
-The sexual exploitation of any member of our community, especially minors, is illegal, unacceptable, and prohibited by our Community Guidelines. Preventing, detecting, and eradicating Child Sexual Abuse Material (CSAM) on our platform is a top priority for us, and we continuously evolve our capabilities for CSAM and other types of child sexually exploitative content. 
-
-Our Trust and Safety teams use active technology detection tools, such as PhotoDNA robust hash-matching and Google’s Child Sexual Abuse Imagery (CSAI) Match to identify known illegal images and videos of CSAM and report them to the U.S. National Center for Missing and Exploited Children (NCMEC), as required by law. NCMEC then, in turn, coordinates with domestic or international law enforcement, as required. 
-
-In the first half of 2021, 5.43% of the total number of accounts enforced globally contained CSAM. Of this, we proactively detected and actioned 70 percent of CSAM violations. This increased proactive detection capability combined with increased spam attacks in this category resulted in a notable increase in this category for this reporting period.
-
-Total Account Deletions	119,134
-
+Total Content & Account Enforcements	14,613
 Terrorist & Violent Extremist Content
 
-During the reporting period, we removed five accounts for violations of our prohibition of terrorist and violent extremist content, a slight decrease from the last reporting cycle. 
+During the reporting period, we removed 22 accounts for violations of our prohibition of terrorist and violent extremist content.
 
-Total Account Deletions	5
+At Snap, we remove terrorist and violent extremism content reported through multiple channels. These include allowing users to report terrorist and violent extremist content through our in-app reporting menu, and we work closely with law enforcement to address terrorism and violent extremism content that may appear on Snap. 
+
+Total Account Deletions	22
+Self-Harm & Suicide Content
+
+We care deeply about the mental health and wellbeing of Snapchatters which has informed a lot of our own decisions about how to build Snapchat differently. As a platform designed to help real friends communicate, we believe Snapchat can play a unique role in empowering friends to help each other through these difficult moments. 
+
+When our Trust & Safety team recognizes a Snapchatter in distress, they have the option to forward self-harm prevention and support resources, and to notify emergency response personnel where appropriate. The resources we share are available on our global list of safety resources, and these are publicly available to all Snapchatters.
+
+Total Times Suicide Resources Shared	21,622
 
 Country Overview
 
@@ -81,10 +82,10 @@ This section provides an overview of the enforcement of our Community Guidelines
 Information for individual countries is available for download via the attached CSV file.
 
 Region	Content Reports*	Content Enforced	Unique Accounts Enforced
-North America	5,095,831	3,133,534	1,119,681
-Europe	3,081,426	1,615,381	573,009
-Rest of World	3,924,069	1,880,250	554,727
-Total	12,101,326	6,629,165	2,247,417
+North America	5,309,390	2,842,832	1,237,884
+Europe	3,043,935	1,450,690	595,992
+Rest of World	4,539,292	1,963,590	668,555
+Total	12,892,617	6,257,112	2,502,431
 Australia
 Austria
 Belgium
@@ -118,6 +119,7 @@ CSV Download:
 CSV Download
 
 Transparency Report Archives
+July 1, 2021 - December 31, 2021
 January 1, 2021 - June 30, 2021
 July 1, 2020 - December 31, 2020
 January 1, 2020 - June 30, 2020
