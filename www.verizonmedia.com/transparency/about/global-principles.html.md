@@ -8,10 +8,13 @@ Data Requests
  Government
 Removal Requests
  CSAM Report
+ Political Advertising
 About
  Put Consumers First
  Global Principles for
 Responding to
 Government Requests
  FAQs & Glossary
+- Government Requests
+ Political advertising FAQs
  Other Resources
