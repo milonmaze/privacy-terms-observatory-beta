@@ -1,105 +1,75 @@
 Found the internet!
 Trending today
-xQc
-Petition for a coalition of people to nuke the XQC logo with void so actual art can takes its place
-r/place and more
-Estelle Harris
-Estelle Harris Dies: ‘Seinfeld’s Estelle Costanza, ‘Toy Story’ Franchise’s Mrs. Potato Head Was 93
-r/movies and more
-'Don't Say Gay' Bill
-Memo Circulated To Florida Teachers Lays Out Clever Sabotage Of 'Don't Say Gay' Law
-r/politics and more
-Meteor Shower
-Meteor shower over Nagpur, India
-r/space and more
-Ukraine
-Ukraine minister says the Ukrainian Military has regained control of ‘whole Kyiv region’
+Elon Musk
+Twitter will appoint Elon Musk to its board of directors. Musk is limited from buying more than 15 percent of Twitter’s stock
+Student Loan Pause
+White House to extend student loan pause through August
 r/news and more
-Ramadan
-Ramadan Mubarak to those who are celebrating.
-r/MadeMeSmile and more
+Hungary EU Funds
+EU launches process to slash Hungary’s funds over rule-of-law breaches
+r/europe and more
+Formula 1 NFT Game
+Official Formula 1 NFT Game Shuts Down, Tokens Are Now Practically Worthless
+r/formula1 and more
+Charles Darwin Notebooks
+Charles Darwin notebooks worth millions, stolen from Cambridge University library 22 years ago, anonymously returned in pink gift bag in good condition
+r/UpliftingNews and more
+NATO
+63 Republicans vote against resolution expressing support for NATO
+r/politics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-17.3k
-r/pics
+Vote
+r/worldnews
 •Posted by
-u/lukalux3
+u/cartstanza
 2 hours ago
-2
-4
-4
-Join
-Ukrainian airborne units regain control of the Chernobyl
-449 Comments
-Share
-Save
-10.9k
-r/CollegeBasketball
-•Posted by
-u/cbbBot
-11 hours ago
-2
-6
-& 99 More
-Join
-[Post Game Thread] #8 North Carolina defeats #2 Duke, 81-77
-Post Game Thread
-
-Box Score
-
-Team	1H	2H	Total
-North Carolina	34	47	81
-Duke	37	40	77
-
-Index Thread for April 02, ^2022
-
-5.1k Comments
-Share
-Save
-29.5k
-r/AskReddit
-•Posted by
-u/ObjectivePin5704
-12 hours ago
+5
+3
 7
-6
-4
-& 2 More
+Boris Johnson says he DOESN'T 'think that biological men should be competing in female sporting events' and children are 'not competent' to make decisions about their gender
+dailymail.co.uk/news/a...
 Join
-[Serious] Men of Reddit, what uncommon red flags in men should women be on the look out for?
-Serious Replies Onlynsfw
-9.7k Comments
+6.0k Comments
+Share
+Save
+27.2k
+r/me_irl
+•Posted by
+u/PotatoBunny9519
+3 hours ago
+3
+Join
+me_irl
+195 Comments
+Share
+Save
+18.1k
+r/gifs
+•Posted by
+u/AgentBlue62
+4 hours ago
+4
+Join
+Demonstration of how effective LED bulbs are.
+*efficient
+671 Comments
 Share
 Save
 Top livestream
-15.3k
-r/notinteresting
+26.5k
+r/nextfuckinglevel
 •Posted by
-u/Data_miner_L
-18 hours ago
-8
-10
-5
+u/One-Championship-956
+3 hours ago
+2
 Join
-Name something less interesting than a brick
-5.1k Comments
-Share
-Save
-43.0k
-r/oddlyterrifying
-•Posted by
-u/AndNoc
-6 hours ago
-8
-7
-9
-Join
-Luang Pho Yai. 109 years old Thai Buddhist monk.
-3.5k Comments
+This is creativity at its peak.
+75 Comments
 Share
 Save
 Advertisement
