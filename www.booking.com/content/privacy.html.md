@@ -3,7 +3,7 @@ Print/Save
 Privacy & Cookie Statement
 Privacy Statement
 
-Oct 27, 2021
+Apr 5, 2022
 
 First things first – your privacy is important to us. That might be the kind of thing all these notices say, but we mean it. You place your trust in us by using Booking.com services, and we value that trust. That means we’re committed to protecting and safeguarding any personal data you give us. We act in our customers’ best interests and we are transparent about the processing of your personal data.
 
@@ -707,17 +707,29 @@ Automated decision-making refers to the activity of using computer programs to a
 
 We rely on personal information to make automated decisions, such as providing the best price for you, depending on where you are based. When you search our apps or website (e.g., to find an accommodation, rental car, or flight), we process your IP address to confirm whether you’re in the European Economic Area (EEA) or another country. We do this to offer you the best price for the region (EEA) or country (non-EEA). This processing does not result in differential treatment of individuals in China.
 
+Personalised recommendations
+
+To improve your Booking.com experience, we provide personalised recommendation services, which make your search results more relevant to you. These results are ranked, by default, according to what we believe you will find most relevant. We do this based on your past bookings, dates and the length of your stay, the composition of the group you're travelling with, where you are from and the actions you take during your search.
+
+You can turn off personalised recommendations at any time. This can be done in the following places:
+
+If you are using the app, go to your ‘Profile’, followed by ‘Settings’ and then ‘Personalisation’
+
+If you are on the web, go to ‘Manage account’, followed by ‘Preferences’
+
+If you are not logged in, go to ‘Manage your privacy settings’ on the main page
+
 How to exercise your rights
 
-If you have a Booking.com account, you can find the personal information we store about you in your account settings. This includes your name, email address, phone number, address and payment information. You can exercise your right to access, rectification or erasure, by viewing, changing or deleting this data at any time.
+If you have a Booking.com account, you can find the personal information we store about you in your account settings. This includes your name, email address, phone number, address, and payment information. You can exercise your right to access, rectification, or erasure by viewing, changing, or deleting this data anytime.
 
-If you want to delete your account, you can also do this by going to account settings on the Booking.com website, clicking into the ‘Security’ section and selecting ‘Delete account’.
+If you want to delete your account, you can do so by going to account settings on the Booking.com website, clicking into the “Security” section, and selecting “Delete account.”
 
-In addition to the above, if you’d like to exercise your rights to access your data or for that data to be erased, to unsubscribe from email marketing or to withdraw the consent you have given us to process your personal information, please fill out our form: Data Subject Request for Booking.com customers.
+In addition to the above, if you’d like to exercise your rights to access your data or to delete that data, to unsubscribe from email marketing, or to withdraw the consent you’ve given us to process your personal information, fill out our form: Data Subject Request for Booking.com Customers.
 
-To protect your personal information, we may need to verify your identity before completing your request. We will do this by asking you questions about your previous reservations with us. We will respond to your request within 15 working days, unless another time-frame is required by applicable laws.
+To protect your personal information, we may need to verify your identity before completing your request. We’ll do so by asking you questions about your previous reservations with us. We’ll respond to your request within 15 business days, unless another timeframe is required by applicable laws.
 
-To otherwise exercise these or any of your other rights under Personal Information Protection Law (PIPL), or to contact us about this Privacy Statement and our practices, you can email us at privacyrequests@booking.com. Please use the subject line: ‘China PIPL Privacy Rights - Request’.
+To otherwise exercise these or any of your other rights under Personal Information Protection Law (PIPL), or to contact us about this Privacy Statement and our practices, you can email us at privacyrequests@booking.com. Please use the subject line: “China PIPL Privacy Rights - Request.”
 
 Russia
 
