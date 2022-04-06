@@ -191,7 +191,7 @@ need to set your preferences from each device and each web browser from which yo
 
 Zoom will not discriminate against you for exercising any of these rights, which is further in line with your rights under the CCPA.
 
-To exercise your rights, please click here or call +1-888-799-9666. To opt out of the use of cookies on our sites for interest-based advertising purposes, follow the instructions above.
+To exercise your rights, please click here or call +1-888-799-0566. To opt out of the use of cookies on our sites for interest-based advertising purposes, follow the instructions above.
 
 We will acknowledge receipt of your request within 10 business days, and provide a substantive response within 45 calendar days, or inform you of the reason and extension period (up to 90 days) in writing.
 
@@ -204,3 +204,7 @@ California Civil Code Section 1798.83, also known as “Shine The Light” law, 
 Changes to This Privacy Statement
 
 We may update this Privacy Statement periodically to account for changes in our collection and/or processing of personal data, and will post the updated Privacy Statement on our website, with a “Last Updated” date at the top. If we make material changes to this Privacy Statement, we will notify you and provide you an opportunity to review before you choose to continue using our Products.
+
+Zoom uses cookies and similar technologies as described in our cookie statement. You can manage your cookie settings or exercise your rights related to cookies through our Cookies Settings.
+
+Cookies Settings
