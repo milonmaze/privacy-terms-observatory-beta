@@ -1,116 +1,100 @@
 Found the internet!
 Trending today
-Nicolas Cage
-Nicolas Cage AMA on /r/movies: Saturday, April 9 at 11 AM PT
-r/movies and more
-Justice Ketanji Brown Jackson
-Jackson confirmed as first Black female high court justice
-r/news and more
-UN Human Rights Council
-UN suspends Russia from Human Rights Council
-Pink Floyd
-Pink Floyd to release first new music in decades to support Ukraine
-r/Music and more
-Jobless Claims
-Weekly jobless claims fell to 166,000 last week, the lowest level since 1968
-r/news and more
-Activison Blizzard
-Jason Schreier: Activision Blizzard just told staff that all of its 1,100 quality assurance testers will be 1) converted from contract to full-time and 2) bumped up to at least $20/hour.
-r/pcgaming and more
+Charles LeClerc
+Charles Leclerc wins the 2022 Australian Grand Prix and takes his first Grand Chelem
+r/formula1 and more
+Christiano Ronaldo
+Video of Ronaldo smashing the kids phone after losing to Everton
+r/soccer and more
+Dwayne Haskins Jr.
+[Cardale Jones] How about “ Dwayne Haskins, son, husband, buckeye brother, friend, beloved teammate has passed away” TF his career ups and downs have to do with him unfortunately losing his life🤦🏾‍♂️ STFU! Let his family & friends grieve instead of throwing shade. Praying for the Haskins family!!
+r/nfl and more
+Mike Malott
+After winning in a first round KO, Mike Malott one of the lowest paid UFC Fighters on the roster, donates all his show money to his Coach, who's daughter is battling childhood cancer.
+r/nextfuckinglevel and more
+Shanghai Lockdown
+People Screaming out of Their Windows After a Week of Total Lockdown in Shanghai
+r/interestingasfuck and more
+Ukraine
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-120k
-r/HolUp
-LIVE
-· 184k players
-8
-7
+52.7k
+r/mildlyinfuriating
+•Posted by
+u/Icalleveryonestupid
+15 hours ago
 10
-HOL'UPREDICTIONS: SEASON TWO
-PREDICTION
-Chose an option. When the prediction is over I will use a random number generator to pick the answer.
-You must be logged in
-Option 1
-Option 2
-Option 3
-Option 4
-Option 5
-Option 6
-See What Others Predicted
-0 of 1 predicted
-470 Comments
-Share
-Save
-8.2k
-r/OnePiece
-•Posted by
-u/Kirosh2
-16 hours ago
-37
-33
-43
-Join
-One Piece: Chapter 1046
-Current Chapterspoiler
-4.6k Comments
-Share
-Save
-8.7k
-r/place
-•Posted by
-u/Broken_Banjo_String
-3 hours ago
-2
-52
-& 101 More
-Join
-claim you're here before 5 year archive trophy V2
-nsfw
-12.9k Comments
-Share
-Save
-47.4k
-r/memes
-•Posted by
-u/NarcissisticEyes
-4 hours ago
-13
-17
+12
 14
 Join
-I love looking scenery
-256 Comments
+Guys help my finger is actually stuck wtf do I do
+5.3k Comments
+Share
+Save
+34.0k
+r/nextfuckinglevel
+•Posted by
+u/dump_acc_91
+4 hours ago
+2
+3
+Join
+Train has windows that automatically blind when going past residential blocks
+0:00
+0:05
+747 Comments
+Share
+Save
+32.2k
+r/AskReddit
+•Posted by
+u/Lemonkainen
+14 hours ago
+6
+4
+8
+Join
+What is a simple pleasure that the opposite sex rarely/ never gets to experience?
+nsfw
+13.2k Comments
+Share
+Save
+12.2k
+r/Music
+•Posted by
+u/MalcEZ
+22 hours ago
+3
+3
+2
+Join
+I feel like my music rotation is stuck in the 90s and 2000s. What great new artists have come out in the last 10 years?
+discussion
+
+Any style, I mostly listen to old school hip hop, trance/edm, indie rock and funk but I'm open to all suggestions! Repost due to auto moderator bot killing my first one.
+
+Edit: Thank you for all the suggestions, I'm creating a queue with all these artists, please keep them coming!
+
+4.0k Comments
 Share
 Save
 Top livestream
-7.0k
-r/AskReddit
+34.2k
+r/interestingasfuck
 •Posted by
-u/CloudsExpert
-9 hours ago
+u/0sculum3stm0rtis
+5 hours ago
 2
 2
-2
+5
 Join
-What are the "we don't talk about these things" history of your country?
-4.2k Comments
-Share
-Save
-12.0k
-r/byebyejob
-•Posted by
-u/johnnychan81
-16 hours ago
-2
-2
-Join
-Pregnant white woman pulls gun on black mother and daughter. Husband loses his job
-Go ahead and film me!
-3.2k Comments
+Giant Sturgeon fish in Canada
+/r/ALL
+1.5k Comments
 Share
 Save
 Advertisement
