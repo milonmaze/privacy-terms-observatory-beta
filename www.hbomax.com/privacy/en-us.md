@@ -1,16 +1,12 @@
-A WARNER MEDIA COMPANY
-
-Effective Date: 10/19/2021
+Effective Date: 4/8/2022
 
 HBO Max Privacy Policy
 
-WarnerMedia (“we”, “us”, “our”) is a leading media and entertainment group of companies. This Privacy Policy explains what personal information WarnerMedia companies collect, use, share and otherwise process about individuals (“you”) interacting with us (“Information”) on our websites, applications (“apps”), services connected devices (e.g. connected TVs) and other offerings (“Offering” or “Offerings”).  
+This Privacy Policy explains what personal information HBO Max and WarnerMedia companies (“we”, “us”, or “our”) collect, use, share and otherwise process about individuals (“you”) interacting with us (“Information”) on our websites, applications (“apps”), services connected devices (e.g. connected TVs) and other offerings (“Offering” or “Offerings”).  
 
-The WarnerMedia family is made up of a number of different legal entities, including AT&T, and business units. You can learn about more about our legal entities and business units by visiting our AFFILIATES PAGE. 
+Our family of companies is made up of a number of different legal entities and business units. You can learn  more about our legal entities and business units by visiting our AFFILIATES PAGE. 
 
-In this Privacy Policy, the “Controller” of your Information means the company that decides the purposes for which it is processed and how it is processed. Which WarnerMedia company is the Controller in relation to the processing of your Information will depend on which Offering you are using; it will often be the WarnerMedia company responsible for providing that Offering, as may be set out in our terms of use.
-
-In some circumstances, more than one Controller may be responsible for processing your Information, for example, where Information is shared with other WarnerMedia companies for a purpose set out in this Privacy Policy. Please navigate to our CONTROLLER LIST for more details. If you still have questions about the relevant Controller, please contact us using one of the methods set out below.
+In this Privacy Policy, the Controller or Controllers  (“Controller”) of your Information means the company that decides the purposes for which it is processed and how it is processed. Which company is the Controller in relation to the processing of your Information will depend on which Offering you are using; it will often be the company responsible for providing that Offering, as may be set out in our terms of use. In some circumstances, more than one Controller may be responsible for processing your Information, for example, where Information is shared with other companies for a purpose set out in this Privacy Policy. Please navigate to our CONTROLLER LIST for more details. If you still have questions about the relevant Controller, please contact us using one of the methods set out below.
 
 Under the laws of some countries outside the European Economic Area, we may need your consent to our processing of your Information set forth in this Privacy Policy. Subject to any indications you may give us to the contrary, such as opting out or not opting in if asked, and where permitted by law, by providing Information or otherwise interacting with our Offerings, you consent to our use of Information in accordance with this Privacy Policy.
 
@@ -38,25 +34,25 @@ Please read this Privacy Policy carefully. It explains the types of Information 
 
 Digital Services:
 
-WarnerMedia websites, including activities run through our websites, such as surveys, research studies, focus group tests, promotions, competitions and prize-draws, purchases within our services, calls to action for user-generated content (“UGC”) and subscribing for newsletters
+Our websites, including activities run through our websites, such as surveys, research studies, focus group tests, promotions, competitions and prize-draws, purchases within our services, calls to action for user-generated content (“UGC”) and subscribing for newsletters
 Mobile apps, including activities run through our apps, such as those listed for our websites
-Subscription services or other streaming services offered by WarnerMedia to consumers and services where you receive content through our websites, mobile apps and/or via a service provided by a third party, such as an internet service provider, pay TV platform or mobile phone operator
+Subscription services or other streaming services offered by us to consumers and services where you receive content through our websites, mobile apps and/or via a service provided by a third party, such as an internet service provider, pay TV platform or mobile phone operator
 Console games
 Our fan pages/channels/accounts on third party social networks (e.g. official pages on Facebook, Instagram, Twitter)
 
 Offline Services:
 
 Studio tours
-Attractions and exhibitions (e.g. theme parks, marketing activations at conventions or other public places, in person VR experiences) operated by a WarnerMedia company
+Attractions and exhibitions (e.g. theme parks, marketing activations at conventions or other public places, in person VR experiences) 
 Events you attend as a consumer or guest (as opposed to in a business capacity) such as film premieres, marketing and influencer events, focus group or user tests and private events held at our premises or studios under hire
 
-Please note that we may combine Information that we collect via one source (e.g. a WarnerMedia website) with Information we collect via another source (e.g. a mobile app), including with Information possibly collected by a different WarnerMedia company or a third party (as further described below). Please also note our Offline Services may involve you interacting with our Digital Services and vice-versa, for example, where you book a studio tour or your participation to a marketing event through a WarnerMedia website. Certain WarnerMedia Offerings (for example, some WarnerMedia branded theme parks, online stores, and in-app purchases) are not operated by WarnerMedia but by a third party licensee or the app store; any processing of your personal information by such a licensee or app store is not subject to this Privacy Policy, so please check carefully whether the relevant terms of use refer to a WarnerMedia company or not.
+Please note that we may combine Information that we collect via one source (e.g. a website) with Information we collect via another source (e.g. a mobile app), including with Information possibly collected by a one of our companies or a third party (as further described below). Please also note our Offline Services may involve you interacting with our Digital Services and vice-versa, for example, where you book a studio tour or your participation to a marketing event through one of our websites. Certain Offerings (for example, some branded theme parks, online stores, and in-app purchases) are not operated by us but by a third party licensee or the app store; any processing of your personal information by such a licensee or app store is not subject to this Privacy Policy, so please check carefully to determine whether the relevant terms of use refer to additional companies.
 
 INFORMATION WE COLLECT
 
 We collect, use, share and otherwise process the following categories of Information:
 
-1)    Information we may collect from you:
+1)    Information we may collect from you:
 
 Registration, account, and sign-up Information, including information about you when you register or sign up with us for one of our Offerings (e.g. name, username, password, email, contact details, date of birth or age, interest in our content, etc.)
 Information about your purchase of an Offering, including relevant payment information (e.g. credit card and billing information). We may also process Information about trial periods, redemptions of rewards or promotions, periods without an active subscription, payment history and any missed payments.
@@ -66,14 +62,14 @@ Entries to promotions, competitions, prize-draws or calls to action, including i
 Camera access, including where for some Digital Services, we ask for permission to access your device’s camera. If you grant permission, you may be able to take pictures or video within the app experience, to send them to us, or to access certain augmented reality (“AR”) features. Some of these features may rely on camera systems to track movements of your eyes and other facial features or your immediate surroundings to apply AR effects or other features.
 Sensitive data, including where you choose to share Information as part of one of our Offerings, or where you provide Information during one of our surveys or feedback sessions, including, where permitted by applicable law, Information relating to your physical or mental health, race or ethnicity, religious or philosophical beliefs, sex life or sexual orientation, or your political beliefs. In some Offerings that include dynamic entertainment features, we may with your consent or otherwise in accordance with applicable law, collect information such as via facial scanning, eye tracking, or skin response that may be considered biometric. We collect this sensitive information with your consent, or as otherwise permitted by law, and we take steps to protect and limit any use of it to the purposes for which it is provided.
 Information about your social media engagement, including your interactions with our fan pages/channels/accounts in third party communities, forums, and social media sites, services, plug-ins, and applications (“Social Media Sites”). This may include posts, your 'likes' and other user-generated content that you may provide, as well as details about yourself such as your name, user ID, profile photo, birthday, and, where you allow us to, lists of friends and people you follow. By providing this Information or otherwise interacting with our Offerings through Social Media Sites, you consent to our use of Information from the Social Media Sites in accordance with this Privacy Policy. For information about how you can customize your privacy settings on Social Media Sites, and how those Social Media Sites handle your personal information and content, please refer to their privacy help guides, privacy policies, and terms of use.
-Information shared on the Offering or in WarnerMedia public or community forums, including where you share photos, letters, videos or comments. On some Offerings, you may be able to interact with other users, including through text or chat features. Depending on your privacy settings, this Information or content and your username may become public on the Internet or within a community of users. We cannot prevent further use of this Information once it is made public. Please refer to the specific forum’s privacy policies for further information on how they handle your Information. 
+Information shared on the Offering or in public or community forums, including where you share photos, letters, videos or comments. On some Offerings, you may be able to interact with other users, including through text or chat features. Depending on your privacy settings, this Information or content and your username may become public on the Internet or within a community of users. We cannot prevent further use of this Information once it is made public. Please refer to the specific forum’s privacy policies for further information on how they handle your Information. 
 Information about your location, including where it is derived from device information (such as an IP address or country code), your device’s interactions with our Digital Services, or, with your consent, Information about your device’s precise location (e.g. geolocation via mobile devices).
 Event Information, including images and clips, whether captured via a booth or by other means by us or a third party on our behalf, and other Information relating to the organisation and management of an event, such as food allergies and other individual requirements. 
 Video and streaming information, for some Offerings, we collect information about the films, TV shows, and videos that you view.  For example, if you stream video content using our Offerings, we may collect information about your interaction with that content or service, such as the title and genre, watchlists you compile, and searches you conduct, duration and number of streams and downloads and system information related to streaming and download quality.
 Technical/usage Information from your device, including the type of device, browser, unique device identifier, MAC address, operating system, internet provider, mobile device identifier, mobile advertising identifier, connected device identifier (including that of a connected television), IP address, network attributes, television device and application attributes and settings, and other device or browser attributes and settings. 
 Information about your customer queries, including when you contact us through one of our customer helpdesks, email addresses, customer service chat boxes, forms or ticketing systems, text messages, Social Media Sites and customer call-centres, where calls may be recorded. 
 
-2)    Information we may collect about you, from other sources, including friends:
+2)    Information we may collect about you, from other sources, including friends:
 
 Information from other sources. On occasion, we combine Information with other online information we receive, including usage information about your interactions with other websites and with online advertising and media. We also supplement or combine Information with Information from a variety of other sources or outside records, including third-party data providers that provide us with Information such as demographics, transaction and purchase history, or Information about the content and advertisements you interact with. We may receive Information from third parties with which you have a subscription agreement that includes access to our content or services.
 
@@ -117,7 +113,7 @@ Marketing and Personalized Advertising
 
 
 
-We may use your Information for the purpose of marketing and/or advertising our Offerings and those of our clients, affiliates, business partners, and select third parties. WarnerMedia uses AdTech technologies, such as real-time bidding, to monetize advertising space within its Digital Services and/or to create a ‘profile’ based on Information about your interactions with us, including our Offerings, our service providers, and our partners and their websites, apps and online advertising, which is used to provide you with personalized  advertising and marketing. We may also aggregate Information about users to create groups or categories of users, such as ‘segments’, to communicate with you about our Offerings and let you know about our clients’ and partners’ offerings, including on Social Media Sites. 
+We may use your Information for the purpose of marketing and/or advertising our Offerings and those of our clients, affiliates, business partners, and select third parties. We use AdTech technologies, such as real-time bidding, to monetize advertising space within its Digital Services and/or to create a ‘profile’ based on Information about your interactions with us, including our Offerings, our service providers, and our partners and their websites, apps and online advertising, which is used to provide you with personalized  advertising and marketing. We may also aggregate Information about users to create groups or categories of users, such as ‘segments’, to communicate with you about our Offerings and let you know about our clients’ and partners’ offerings, including on Social Media Sites. 
 
 While processing of your Information for this purpose may involve an algorithm automatically selecting advertising which is intended to be of interest to you, we do not make fully-automated decisions that may have a legal or significant effect on you without either your explicit consent, or where otherwise permitted by applicable law.
 
@@ -127,10 +123,10 @@ In countries where our processing of Information requires a lawful basis, we rel
 
 To use UGC you have submitted, we will rely on the rights granted to us under the terms of use of the Offering and the performance of our contract with you.
 In certain jurisdictions, other types of processing for Marketing and Personalized Advertising are necessary for our legitimate interests (or those of others), including:
-Marketing and advertising Our Offerings, including engaging in contextual (non-data driven) advertising, analytics, and measurement of ad performance; 
+Marketing and advertising our Offerings, including engaging in contextual (non-data driven) advertising, analytics, and measurement of ad performance; 
 Expanding our customer base by deepening relationships with existing customers and developing new customers;
 Using UGC you have submitted (unless it is not necessary for the performance of a contract with you or we are able to ask for your consent); and,
-Promoting the WarnerMedia brand both online and offline.
+Promoting our brands both online and offline.
 In certain jurisdictions, for certain types of processing, such as interest-based advertising or where we send direct marketing communications by email, text message or SMS, messages on Social Media Sites, we rely on your consent (where given).
 
 
@@ -179,11 +175,13 @@ INFORMATION SHARING AND DISCLOSURE
 
 We share Information with and disclose it to the following parties in the following ways, for the purposes set out below or for any other purpose disclosed at the time of collection:
 
-Within AT&T and/or WarnerMedia
+Within our family of companies
 
-WarnerMedia is part of the AT&T group of companies. WarnerMedia companies and AT&T companies, collectively referred to as our affiliates, support and interact with each other to run their businesses. As a result, a WarnerMedia company and/or AT&T company may receive your Information to process for the purposes set out in this Privacy Policy, where there is a legal basis for them to do so and consistent with any permissions you have given (e.g. whether or not you wish to receive marketing communications) and any other controls you exercise regarding our processing of your Information (e.g. where you have chosen to opt-out of certain processing), as described in the INDIVIDUAL RIGHTS REQUEST and COOKIES AND OTHER TECHNICAL INFORMATION sections below.  We require the affiliate to protect the Information consistent with this Policy. We may also combine Information that identifies you personally with data that comes from an affiliate that has a different privacy policy. When we do that, our Policy applies to the combined data set.
+We are a part of a group of companies. We, collectively referred to as our affiliates, support and interact with each other to run their businesses. You can learn more about affiliated companies by visiting OUR CONTROLLER AND AFFILIATE SITE  (HTTPS://WWW.WARNERMEDIAPRIVACY.COM/POLICYCENTER/B2C/AFFILIATESLIST/). As a result, we may receive your Information to process for the purposes set out in this Privacy Policy, where there is a legal basis for them to do so and consistent with any permissions you have given (e.g. whether or not you wish to receive marketing communications) and any other controls you exercise regarding our processing of your Information (e.g. where you have chosen to opt-out of certain processing), as described in the INDIVIDUAL RIGHTS REQUEST and COOKIES AND OTHER TECHNICAL INFORMATION sections below.  We require the affiliate to protect the Information consistent with this Policy. We may also combine Information that identifies you personally with data that comes from an affiliate that has a different privacy policy. When we do that, our Policy applies to the combined data set.
 
-Outside AT&T and/or WarnerMedia
+You can learn more about affiliated companies by visiting our CONTROLLER AND AFFILIATE SITE  (HTTPS://WWW.WARNERMEDIAPRIVACY.COM/POLICYCENTER/B2C/AFFILIATESLIST/).
+
+Outside our family of companies
 
 Third Party Service Providers and Vendors. Our agents and contractors have access to Information to help carry out the services they are performing for us, such as, but not limited to, fulfilment, creation, maintenance, hosting, and delivery of our Offerings, conducting marketing, providing IT services and security, handling payments, email and order fulfillment, administering promotions, competitions and prize-draws, conducting research, measurement and analytics, deriving insights, or customer service. If we share personal information with unaffiliated third parties for their own marketing purposes, we provide you with an opportunity to consent or opt out of such uses (in accordance with applicable law) either at the point of collection, within a Digital Service, or through the choice mechanisms set forth in this Privacy Policy.
 
@@ -252,7 +250,7 @@ These cookies are used by advertising companies to serve ads that are relevant t
 
 
 	Social media cookies or similar technologies: These are used when you share Information using a social media sharing button or ‘like’ button via our Digital Services, or when you link your account or engage with our content on or through a Social Media Site, such as Facebook or Twitter. The Social Media Site will record that you have done this, and this Information may be linked to targeting/advertising activities, including building custom audiences.
-Advertising cookies or similar technologies: Some of our Digital Services may use a third-party advertising network, or an AT&T company or WarnerMedia company, to deliver targeted advertising. They may also have the capability to limit the number of times you see an advertisement and track your browsing or usage across our Digital Services and Social Media Sites.
+Advertising cookies or similar technologies: Some of our Digital Services may use a third-party advertising network, or an affiliated company, to deliver targeted advertising. They may also have the capability to limit the number of times you see an advertisement and track your browsing or usage across our Digital Services and Social Media Sites.
 
  
 
@@ -262,7 +260,7 @@ This section describes tools that are available for managing cookies and other t
 
 Consent management platform. For Digital Services in some jurisdictions, including the EEA, you may learn more information about our use of cookies and other technologies, and provide or withdraw consents when applicable, or set your cookie preferences and in some cases object to legitimate interest purposes for processing your personal information, by adjusting cookie preferences through our consent management platform. These settings are accessible on a site or app-specific basis, at any time through a link to our consent management platform located on webpages or in application settings. 
 
-For some Digital Services in the EEA, WarnerMedia participates in the IAB Europe Transparency & Consent Framework, which is described in more detail by navigating to the IAB’S WEBSITE, and complies with its specifications and policies on applicable websites and apps. OneTrust operates the consent management platform with the identification number 28.
+For some Digital Services in the EEA, We participate in the IAB Europe Transparency & Consent Framework, which is described in more detail by navigating to the IAB’S WEBSITE, and complies with its specifications and policies on applicable websites and apps. OneTrust operates the consent management platform with the identification number 28.
 
 Browser settings. You may adjust your browser to reject cookies from us or from any other website. Controlling cookies via browser controls may not limit our use of other technologies. Please consult your browser's settings for more information. Note that blocking cookies or similar technology might prevent you from accessing some of our content or Digital Service features. 
 
@@ -477,7 +475,7 @@ We Do Not Sell Your Child’s California Information
 
 How to Exercise Your California Rights
 
-You may exercise your rights to request access or deletion of your California Information by visiting our PRIVACY CENTER. You can also contact us toll free at 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988) and an agent will assist you with submitting a request. These requests are generally free. When you submit a request, we will usually ask you to provide an email address which we will contact to confirm the request was not fraudulently submitted.
+You may exercise your rights to request access or deletion of your California Information by visiting our Privacy Center. You can also contact us toll free at 833-WM-PRVCY (833-967-7829) or TTY: use 711 and an operator will assist you with submitting a request. These requests are generally free. When you submit a request, we will usually ask you to provide an email address which we will contact to confirm the request was not fraudulently submitted.
 
 In addition, for access and deletion requests, we will use a third-party verification service to confirm that you are who you say you are.  Our verification service does this by matching information you provide against information held about you in its records, or, if necessary, by allowing you to submit documents proving your identity.
 
@@ -485,7 +483,7 @@ As a parent or guardian, you may also submit a request on behalf of your child. 
 
 You may also designate an authorized agent to submit a request on your behalf.  To do so, we will require either (1) a valid power of attorney, or (2) signed written permission from you.  In the event your authorized agent is relying on signed written permission, we may also need to verify your identity and/or contact you directly to confirm permission to proceed with the request.
 
-Your authorized agent can make a request by contacting us toll free at 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988).
+Your authorized agent can make a request by contacting us toll free at 833-WM-PRVCY (833-967-7829) or TTY: use 711.
 
 Our Support for the Exercise of Your Data Rights
 
@@ -497,7 +495,7 @@ CCPA has specific rules regarding the use of California Information from consume
 
 California Consumers Under 18 Years Old
 
-California Consumers who are registered users of the Digital Services and under 18 years of age may request removal of content or information they posted on the Digital Services. We will remove such content or information when we are required to do so by law. To request removal of content or information you posted on the Digital Services, you may contact us at PRIVACY@HBOMAX.COM, or at WarnerMedia Privacy Office, 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522.
+California Consumers who are registered users of the Digital Services and under 18 years of age may request removal of content or information they posted on the Digital Services. We will remove such content or information when we are required to do so by law. To request removal of content or information you posted on the Digital Services, you may contact us at PRIVACY@HBOMAX.COM, or at our Privacy Office: 4000 Warner Blvd., Bldg. 160, Burbank, CA 91522.
 
 However, even if we remove the content or information that you posted, we cannot completely prevent further use or disclosure of that content or information by others once you have shared it in a publicly available forum.
 
@@ -507,4 +505,4 @@ From time to time, we may update this Privacy Policy. We will notify you about a
 
 HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy, you can contact us and our Data Protection Officer at PRIVACY@HBOMAX.COM or 833-WM-PRVCY (833-967-7829) or TTY: 833-PRVCY-TT (833-778-2988) or at Warner Media, LLC, 30 Hudson Yards, New York NY 10001.
+If you have any questions about this Privacy Policy, you can contact us and our Data Protection Officer at PRIVACY@HBOMAX.COM or 833-WM-PRVCY (833-967-7829) or TTY: use 711 or at Warner Media, 30 Hudson Yards, New York NY 10001.
