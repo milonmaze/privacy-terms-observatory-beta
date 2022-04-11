@@ -2,7 +2,7 @@ Skip Navigation
  
 Privacy Center
  
-EFFECTIVE NOVEMBER 1, 2021
+EFFECTIVE APRIL 8, 2022
 Print the full Privacy Policy
 AT&T Privacy Policy
 
