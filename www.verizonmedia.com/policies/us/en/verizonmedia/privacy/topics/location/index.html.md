@@ -12,7 +12,6 @@ Content you provide
 Yahoo may collect location information from content you provide including attachments, photos, videos and other information
 Locations You Entered
 Yahoo may collect locations that you searched for in certain brands, websites, apps, advertising services, products, services or technologies (“Services”) (such as Search and Maps).
-Locations added by you through the Location Settings page are also collected by Yahoo.
 You may be asked to provide a location such as postal code. Yahoo may use this information to provide a starting point for location-aware Services.
 IP Address
 Yahoo may use your IP address to derive information about where your device is generally located. Please refer to IP Address for more information.
@@ -20,7 +19,7 @@ Yahoo may work with select partners to obtain location information about some of
 Yahoo may receive location data from third parties that you have linked your account with. See Yahoo Privacy Controls for your options regarding your accounts for Yahoo products or Services.
 Use of Information
 
-Yahoo may access, store, and use the location information described above to provide Services such as: enhanced location based services, serve location-targeted advertising, search results, and other content. Yahoo may maintain a history of your locations. Refer to the "Managing Your Location Information" section below for more details on your control of this information.
+Yahoo may access, store, and use the location information described above to provide Services such as: enhanced location based services, serve location-targeted advertising, search results, and other content. Yahoo may maintain a history of your locations. To Manage your Precise Location information, visit your Privacy Dashboard and Controls page, choose the Yahoo brand you are using, then select the “Precise Location Information” control under “Personalize Your Experience”. 
 
 Other uses of location information may include determining the appropriate language for presenting a website, conducting product analysis, and assisting in the detection of fraud and abuse.
 
