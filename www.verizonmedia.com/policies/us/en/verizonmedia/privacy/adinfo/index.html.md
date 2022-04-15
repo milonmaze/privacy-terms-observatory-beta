@@ -12,3 +12,4 @@ View our other privacy controls.
 Visit the Network Advertising Initiative (US) and the Digital Advertising Alliance  - DAA (US), EDAA (EU), DAAC (Canada), ADAA (AU/NZ) to see your opt-out choices from other participating companies.
 Explore other controls and tools to help set and maintain your privacy choices.
 If you are using Safari or a browser enabled with Intelligent Tracking Protection (ITP) or similar cookie-blocking technology, if you wish to opt out of receiving personalized ads, you will need to do so directly via the Yahoo Privacy Center.
+While Yahoo does not share personally identifiable information with third parties for advertising purposes, if you have provided your email address to third parties in another context, you may be able to opt-out of further use of your data by exercising the Network Advertising Initiative’s Audience Matched Advertising opt-out control at optout.networkadvertising.org.
