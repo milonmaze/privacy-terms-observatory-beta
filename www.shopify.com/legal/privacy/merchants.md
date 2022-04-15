@@ -32,6 +32,7 @@ To provide Shopify Payments
 To provide Shopify Capital
 To provide Shopify Installments
 To provide Shopify Balance
+To provide Shopify Markets
 
 
 
