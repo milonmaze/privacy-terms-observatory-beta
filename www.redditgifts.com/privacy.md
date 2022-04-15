@@ -1,22 +1,21 @@
 Found the internet!
 Trending today
-Viktor Medvedchuk
-Medvedchuk has been arrested according to official Zelenskyy instagram
-r/ukraine and more
-Gilbert Gottfried
-Gilbert Gottfried, iconic comedian, dies at 67 after long illness
-r/news and more
-Frank-Walter Steinmeier
-Ukraine rejects visit by German President Steinmeier
-r/UkrainianConflict and more
+Barcelona vs. Frankfurt
+[Javi Miguel Club] Today's attendance: 79,468 fans. There are 49,000 Barça fans and 30,648 Frankfurt fans at Camp Nou tonight.
+r/soccer and more
+Elon Musk
+MRW Elon Musk offers to buy Twitter for $43 billion but I got it for free on the App Store
+r/reactiongifs and more
 Ron DeSantis
-Legislature makes unusual move, says DeSantis will map Florida congressional districts
-r/politics and more
-Stranger Things 4
-Stranger Things 4 | Official Trailer | Netflix
-r/StrangerThings and more
-NYC Subway Shooting
-Person of Interest Named in NYC Subway Shooting
+DeSantis signs Florida's 15-week abortion ban into law
+r/news and more
+Rihanna
+Rihanna & ASAP Breakup?! Is this true?
+r/Deuxmoi and more
+Ukraine
+Ukraine has seized the assets of captured Putin ally Viktor Medvedchuk, including 50 homes, 26 cars, 30 plots of land, and one yacht
+Devin Nunes
+Trump ally Devin Nunes loses CNN defamation appeal
 r/news and more
 Popular posts
 Hot
@@ -24,61 +23,76 @@ Everywhere
 New
 Top
 New Posts
-99.7k
-r/movies
+38.7k
+r/worldnews
 •Posted by
-u/chanma50
-19 hours ago
-15
-& 58 More
-Gilbert Gottfried, Comedian and ‘Aladdin’ Star, Dies at 67
-News
-variety.com/2022/f...
+u/Jerry-Acquire
+13 hours ago
+3
+2
+Russia warns U.S. to stop arming Ukraine
+Russia/Ukraine
+washingtonpost.com/nation...
 Join
-4.8k Comments
+5.4k Comments
 Share
 Save
-22.3k
-r/oddlysatisfying
+32.4k
+r/Damnthatsinteresting
 •Posted by
-u/LargeDisplay1080
-2 hours ago
-5
-10
-11
-Join
-Frequencies and waves
-320 Comments
-Share
-Save
-46.8k
-r/MadeMeSmile
-•Posted by
-u/Arik2893
+u/Aztery
 4 hours ago
+2
 8
-15
-13
+3
 Join
-Found this on r/WTF
- CATS 
+Cameraman caught landed plane without a landing gear
+Video
 0:00
-0:30
-454 Comments
+1:01
+1.1k Comments
+Share
+Save
+49.7k
+r/Cringetopia
+•Posted by
+u/berzio
+11 hours ago
+2
+5
+13
+& 5 More
+Join
+Kim Kardashian's 6-year-old son sees pop-up for his mom's sex tape on Roblox
+nsfw
+5.0k Comments
 Share
 Save
 Top livestream
-73.9k
-r/Whatcouldgowrong
+16.8k
+r/ukraine
 •Posted by
-u/1q8b
-14 hours ago
-8
-6
-15
+u/Practical_Quit_8873
+4 hours ago
+3
+Kremlin spokesman Dmitri Peskov: “If Ukraine continues its provocations by attacking Russian cities, Russia will be forced to declare war against Ukraine”.
+WAR
+mobile.twitter.com/visegr...
 Join
-WCGW Going to the water park when you can’t swim
-4.0k Comments
+1.9k Comments
+Share
+Save
+43.9k
+r/iamatotalpieceofshit
+•Posted by
+u/Lurkingdutchman
+13 hours ago
+4
+6
+5
+Join
+Gymrat (24) gets rejected & corrected by girl (17).
+4.3k Comments
 Share
 Save
 Advertisement
