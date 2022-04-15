@@ -157,7 +157,7 @@ Please note that our automated processing does not produce legal effects or othe
 
 Sensitive data
 
-Except as permitted by law, Yahoo does not collect, use or share sensitive data about you for the purposes of providing you with personalised experiences. You may see ads for sensitive topics or products from us, but those ads are only based on the content of the page. 
+Except as permitted by law, Yahoo does not collect, use or share sensitive data  (in determining what constitutes sensitive data, we follow NAI guidance) about you for the purposes of providing you with personalized experiences. You may see ads for sensitive topics or products from us, but those ads are only based on the content of the page or non-sensitive data.
 
 We also contractually prohibit partners from collecting or using sensitive data from or about our users.
 
