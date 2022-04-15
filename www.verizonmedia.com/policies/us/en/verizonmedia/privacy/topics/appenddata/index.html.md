@@ -25,6 +25,10 @@ Information Matched for Advertisers
 In some cases our advertisers may share information, including personal information, with us in order to identify and deliver the most relevant ads to their customers. We use this information only on behalf of the advertiser who provided it and do not use it independently of our advertiser’s instructions. We may match this information to our existing user information or may use a third party vendor to assist in this process. The third party vendor may not use Yahoo’s information for any independent purpose.
 Your Choices
 
+You can opt-out of Yahoo’s use of information used for matching purposes by exercising the Audience Matching opt-out control. Visit the Privacy Dashboard and Controls page, choose the Yahoo brand you are using, then select the “Personalized Advertising” (Manage) under “Personalize Your Experience”. On the next page, set the “Audience Match my information” control to OFF.
+
+While Yahoo does not share personally identifiable information with third parties for advertising purposes, if you have provided your email address to third parties in another context, you may be able to opt-out of further use of your data by exercising the Network Advertising Initiative’s Audience Matched Advertising opt-out control at optout.networkadvertising.org.
+
 Learn more about your choices.
 
 For additional information on how Yahoo treats your personal information, please visit our Privacy Policy.
