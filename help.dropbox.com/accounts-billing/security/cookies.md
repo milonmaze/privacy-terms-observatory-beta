@@ -90,3 +90,6 @@ Other ways to get help
 Community
 Twitter support
 Contact support
+We use cookies to provide, improve, protect, and promote our services. Visit our Privacy Policy and Privacy Policy FAQ to learn more. You can manage your personal preferences in our Cookie Consent Tool.
+Decline
+Accept All
