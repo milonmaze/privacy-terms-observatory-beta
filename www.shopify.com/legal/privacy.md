@@ -2,7 +2,7 @@ Privacy Policy
 
 How Shopify handles your data
 
-Updated January 10, 2022
+Updated April 12, 2022
 
 Introduction
 
@@ -47,6 +47,8 @@ assisting with marketing, advertising, or other communications
 We only process personal information for these “legitimate interests” after considering the potential risks to your privacy—for example, by providing clear transparency into our privacy practices, offering you control over your personal information where appropriate, limiting the information we keep, limiting what we do with your information, who we send your information to, how long we keep your information, or the technical measures we use to protect your information.
 
 One of the ways in which we are able to help merchants using Shopify is by using techniques like “machine learning” (European law refers to this as “automated decision-making”) to help us improve our services. When we use machine learning, we either: (1) still have a human being involved in the process (and so are not fully automated); or (2) use machine learning in ways that don’t have significant privacy implications (for example, reordering how apps might appear when you visit the app store).
+
+We may process your personal information where you have provided your consent. In particular, where we cannot rely on an alternative legal basis for processing, where your data is sourced and it already comes with consent or where we are required by law to ask for your consent in the context of some of our sales and marketing activities. At any time, you have a right to withdraw your consent by changing your communication choices, opting out from our communications or by contacting us.
 
 Your rights over your information
 
