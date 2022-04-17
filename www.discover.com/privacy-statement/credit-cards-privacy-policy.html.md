@@ -118,4 +118,5 @@ California Residents – Except as permitted by law, we will not share informati
 
 Nevada Residents – You may call 1-800-347-2683 to be placed on our Do Not Call List. For more information, mail Discover Card, P.O. Box 30943, Salt Lake City, UT 84130, or visit www.discover.com. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Avenue, Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or e-mail BCPINFO@ag.state.nv.us. This notice is provided pursuant to state law.
 Back to Top
+  
 FeedbackLaunches comment card in new window
