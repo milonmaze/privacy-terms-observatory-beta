@@ -861,7 +861,7 @@ Privacy Infringement Report Center privacy.kisa.or.kr / 118
 
 Cyber ​​Investigation Division, Supreme Prosecutors' Office www.spo.go.kr / 1301
 
-National Police Agency Cyber ​​Security Bureau www.ctrc.go.kr / 182
+National Police Agency Cyber ​​Security Bureau ecrm.police.go.kr
 
 Representative in Korea
 
