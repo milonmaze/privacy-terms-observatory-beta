@@ -1,7 +1,7 @@
 Sign in
 Terms of Service
 
-Date of Last Revision: March 9, 2021
+Date of Last Revision: April 13, 2022
 
 Code.org is a 501(c)(3) nonprofit organization (“Code.org”). Our mission is to give every student the opportunity to learn computer science. As a part of that mission, Code.org operates the websites located at https://code.org, https://studio.code.org, https://www.k12cs.org, https://codeprojects.org, https://hourofcode.com, https://curriculum.code.org, https://advocacy.code.org, other websites, information, text, curricula, videos, graphics, photos, APIs, email notifications and other materials and related products and services (the “Services”).
 
@@ -98,7 +98,7 @@ Code.org’s library of videos may be redistributed freely on the express condit
 
 The celebrities and video “cast“ members appearing in Code.org tutorials and videos reserve all rights to their likeness and name. By allowing you to redistribute these videos or tutorials AS-IS, Code.org does not grant any additional rights to use of the likeness or name of these individuals.
 
-The artwork used in our tutorials is copyrighted and use of these tutorials does not grant you any rights to use the artwork in any other manner. Plants vs. Zombies are © 2016 Electronic Arts Inc. Plants vs. Zombies and PopCap are trademarks of Electronic Arts Inc. Angry Birds are © 2016 Rovio Entertainment Ltd. Angry Birds is a trademark of Rovio Entertainment Ltd. Scrat and Ice Age are trademarks and © Twentieth Century Fox Licensing and Merchandising. Frozen is a trademark and © 2016 Disney. Star Wars is a trademark and © 2016 Lucasfilm and Disney. Minecraft is a trademark and © 2016 Microsoft. The Amazing World of Gumball is a trademark and © 2016 Cartoon Network.
+The artwork used in our tutorials is copyrighted and use of these tutorials does not grant you any rights to use the artwork in any other manner. Plants vs. Zombies are © 2022 Electronic Arts Inc. Plants vs. Zombies and PopCap are trademarks of Electronic Arts Inc. Angry Birds are © 2022 Rovio Entertainment Ltd. Angry Birds is a trademark of Rovio Entertainment Ltd. Scrat and Ice Age are trademarks and © Twentieth Century Fox Licensing and Merchandising. Frozen is a trademark and © 2022 Disney. Star Wars is a trademark and © 2022 Lucasfilm and Disney. Minecraft is a trademark and © 2022 Microsoft. The Amazing World of Gumball is a trademark and © 2022 Cartoon Network. DreamWorks The Bad Guys © 2022 DreamWorks Animation LLC.
 
 The software powering Code.org tutorials is governed by an open source license which is posted as part of the source code repository.
 
