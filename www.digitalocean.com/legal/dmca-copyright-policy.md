@@ -2,9 +2,9 @@ Legal & Security
 DMCA Copyright Policy
 DMCA Copyright Policy
 
-Last updated: December 20, 2019
+Last Updated on September 13, 2021
 
-DigitalOcean, LLC ("Company") has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act (http://lcweb.loc.gov/copyright/legislation/dmca.pdf) ("DMCA"). The address of the Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed below.
+DigitalOcean, LLC (“Company”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act (http://lcweb.loc.gov/copyright/legislation/dmca.pdf) (“DMCA”). The address of the Designated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed below.
 
 Procedure for Reporting Copyright Infringement
 
@@ -15,17 +15,12 @@ If you believe that material or content residing on or accessible through Compan
 A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed.
 Identification of works or materials being infringed; this includes, at a minimum and if applicable, the URL or IP address of the link shown on the site where such material may be found, as well as the reference or link to the material or activity that you claim to be infringing, that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate that reference or link, including at a minimum, if applicable, the URL or IP address of the link shown on the site where such reference or link may be found.
 Contact information about the notifier including address, telephone number and, if available, e-mail address.
-A statement that the notifier has a good faith belief that the material is not authorized by the copyright owner, its agent, or the law; include this statement in the body of the notice:
-I hereby state that I have a good faith belief that the disputed use of the copyrighted material or reference or link to such material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).
-A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner; include this statement in the body of the notice:
-I hereby state that the information in this notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.
+A statement that the notifier has a good faith belief that the material is not authorized by the copyright owner, its agent, or the law; include this statement in the body of the notice: I hereby state that I have a good faith belief that the disputed use of the copyrighted material or reference or link to such material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).
+A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner; include this statement in the body of the notice: I hereby state that the information in this notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.
 
 Please contact the Designated Agent at dmca@digitalocean.com or at:
 
-DigitalOcean, LLC 
-Attn: Legal
-101 Avenue of the Americas, 10th Floor 
-New York, NY 10013
+DigitalOcean, LLC  Attn: Legal 101 Avenue of the Americas, 10th Floor  New York, NY 10013
 
 Consequences of Sending A DMCA Notice
 
@@ -49,6 +44,7 @@ Press
 Legal
 Trust Platform
 Investor Relations
+DO Impact
 Products
 Products Overview
 Droplets
