@@ -1,6 +1,9 @@
-Legal
-PIPEDA
+Legal & Security
 PIPEDA FAQ
+PIPEDA FAQ
+
+Last Updated on August 28, 2020
+
 What services does DigitalOcean offer?
 
 DigitalOcean is a cloud computing platform that provides a cloud platform to deploy, manage, and scale applications of any size. Its infrastructure and platform-as-a-service solutions provide a no DevOps required experience, allowing developers to focus their energy on creating innovative software. By combining the power of simplicity, love for the developer community, an obsession for customer service, and the advantages of open source, DigitalOcean brings software development within the technical and economic reach of anyone around the world.
@@ -19,9 +22,9 @@ Yes. DigitalOcean complies with Canada’s Personal Information Protection and E
 
 Does PIPEDA permit the cross-border transfer of personal information?
 
-Yes. The Office of the Privacy Commissioner of Canada’s Processing Personal Data Across Borders Guidelines (the “Guidelines”), available at https://www.priv.gc.ca/en/privacy-topics/airports-and-borders/gl_dab_090127/, state that “PIPEDA does not prohibit organizations in Canada from transferring personal information to an organization in another jurisdiction for processing. However under PIPEDA, organizations are held accountable for the protection of personal information transfers under each individual outsourcing arrangement.” The Guidelines further clarify that organizations responsible for personal information must use contractual or other means to ensure a comparable level of protection for personal information after it is transferred. 
+Yes. The Office of the Privacy Commissioner of Canada’s Processing Personal Data Across Borders Guidelines (the “Guidelines”), available at https://www.priv.gc.ca/en/privacy-topics/airports-and-borders/gl_dab_090127/, state that “PIPEDA does not prohibit organizations in Canada from transferring personal information to an organization in another jurisdiction for processing. However under PIPEDA, organizations are held accountable for the protection of personal information transfers under each individual outsourcing arrangement.” The Guidelines further clarify that organizations responsible for personal information must use contractual or other means to ensure a comparable level of protection for personal information after it is transferred.
 
-The Guidelines state that a “transfer” of personal information to another organization for processing purposes is a “use” rather than a “disclosure” of the information assuming that the transferred information is processed only for purposes consistent with the purposes for which it was originally collected. The distinction between “uses” and “disclosures” of personal information is important because disclosures of personal information require additional consent from the individual to whom the personal information relates. 
+The Guidelines state that a “transfer” of personal information to another organization for processing purposes is a “use” rather than a “disclosure” of the information assuming that the transferred information is processed only for purposes consistent with the purposes for which it was originally collected. The distinction between “uses” and “disclosures” of personal information is important because disclosures of personal information require additional consent from the individual to whom the personal information relates.
 
 Uses of personal information by DigitalOcean are referred to throughout this FAQ as “processing.”
 
@@ -51,6 +54,7 @@ Press
 Legal
 Trust Platform
 Investor Relations
+DO Impact
 Products
 Products Overview
 Droplets
