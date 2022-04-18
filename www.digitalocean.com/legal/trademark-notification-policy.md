@@ -2,7 +2,7 @@ Legal & Security
 Trademark Notification Policy
 Trademark Notification Policy
 
-Last updated: December 20, 2019
+Last Updated on March 13, 2020
 
 If you are a trademark owner who believes that material being hosted by a DigitalOcean customer violates your trademark rights, you can send a notification of alleged infringement. To do so, please send a notice to the Designated Agent listed below that includes all of the following information:
 
@@ -17,10 +17,7 @@ DigitalOcean will review your notice for accuracy, validity, and completeness. I
 
 Please contact the Designated Agent at dmca@digitalocean.com or at:
 
-DigitalOcean, LLC 
-Attn: Legal
-101 Avenue of the Americas, 10th Floor 
-New York, NY 10013
+DigitalOcean, LLC  Attn: Legal 101 Avenue of the Americas, 10th Floor  New York, NY 10013
 
 Company
 About
@@ -34,6 +31,7 @@ Press
 Legal
 Trust Platform
 Investor Relations
+DO Impact
 Products
 Products Overview
 Droplets
