@@ -1,6 +1,9 @@
 Legal & Security
 GDPR
 GDPR
+
+Last Updated on March 13, 2020
+
 Overview
 
 The General Data Protection Regulation (GDPR) is the most significant legislative change in European data protection laws since the EU Data Protection Directive (Directive 95/46/EC), introduced in 1995. The GDPR became enforceable on May 25, 2018, strengthens the security and protection of personal data in the EU and serves as a single piece of legislation for all of the EU. It replaced the EU Data Protection Directive and all the local laws relating to it.
@@ -22,6 +25,7 @@ Press
 Legal
 Trust Platform
 Investor Relations
+DO Impact
 Products
 Products Overview
 Droplets
