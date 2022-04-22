@@ -1,7 +1,5 @@
 Skip Navigation
- 
 Privacy Center
- 
 EFFECTIVE APRIL 8, 2022
 Print the full Privacy Policy
 AT&T Privacy Policy
