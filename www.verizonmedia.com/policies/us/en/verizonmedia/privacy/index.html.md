@@ -1,6 +1,6 @@
 Welcome to the Yahoo Privacy Policy
 
-Last updated: September 2021
+Last updated: April 2022
 
 About Yahoo
 
@@ -150,8 +150,8 @@ If you have questions, suggestions, or wish to make a complaint, please complete
 
 Yahoo
 Customer Care - Privacy Policy Issues
-701 First Avenue
-Sunnyvale, CA 94089
+1199 Coleman Ave,
+San Jose, CA 95110
 
 If you wish to contact our Data Protection Officer, you can do so by post to: Attn: Data Protection Officer, Yahoo EMEA, 5-7 Point Square, North Wall Quay, Dublin 1, Ireland.
 
