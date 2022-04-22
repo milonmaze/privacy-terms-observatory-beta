@@ -15,21 +15,21 @@ Government requests for customer data must comply with applicable laws. A subpoe
 Requests by country/region
 Apply filters 
 Apply filters 
-2021 (Jan-Jun) - Global
+2021 (Jul-Dec) - Global
 Requests
 
 Total number of requests
 
- 27,809
+ 25,182
 
 Accounts/users specified in request
 
- 44,650
+ 45,839
 Disclosures
-4.35%
-50.00%
-17.71%
-27.93%
+4.26%
+51.59%
+18.97%
+25.18%
 % Content
 % Non-Content data
 % No data found
@@ -73,9 +73,8 @@ Does Microsoft reject US subpoenas from government entities seeking content data
 Is rejecting a request the only way Microsoft resists government requests?
 If a request was rejected, can you assure your customer that their information was never disclosed?
 Does Microsoft have a program to disclose information in response to imminent emergencies?
-Does Microsoft ever challenge nondisclosure obligations or gag orders?
+How many of the US legal demands were accompanied by non-disclosure orders?
 Does Microsoft charge governments for providing data and content?
-How does Microsoft define the accounts impacted that it reports?
 How many Microsoft customers were impacted by law enforcement requests?
 Does Microsoft notify users of its consumer services, such as Outlook.com, when law enforcement or another governmental entity in the US requests their data?
 Does Microsoft notify users if their accounts have been compromised by third parties or state-sponsored actors?
