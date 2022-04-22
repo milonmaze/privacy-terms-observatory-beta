@@ -47,5 +47,5 @@ If you have questions, suggestions, or complaints, please complete a feedback fo
 
 Yahoo
 Customer Care - Privacy Policy Issues
-701 First Avenue
-Sunnyvale, CA 94089
+1199 Coleman Ave,
+San Jose, CA 95110
