@@ -873,6 +873,10 @@ Address, telephone number and email address: 17F Gran Seoul, 33 Jongro, Jongro-G
 
 Turkey
 
+Customers from Turkey may also use the contact details set out below for requests related to this privacy statement:
+
+The local representative for Booking.com B.V. in Turkey is Ozdagistanli Ekici Avukatlık Ortaklığı, located at Al Zambak Sok No: 2 Varyap Meridian Grand Tower A Blok K: 32 D: 270 Ataşehir-İstanbul.
+
  
  
 Cookie statement
