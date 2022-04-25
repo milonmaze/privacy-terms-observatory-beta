@@ -1,91 +1,85 @@
 Found the internet!
 Trending today
-FC Bayern München
-The Bundesliga is a money laundering scheme for Bayern and none of you mfs will make me think otherwise
-r/soccercirclejerk and more
-Netflix
-Netflix cancels shows following huge drop in share value and subscribers
-r/nottheonion and more
-Depp v. Heard
-Amber Heard caught in a lie after makeup brand exposes her in Johnny Depp trial.
-r/Damnthatsinteresting and more
-Ukraine
-Britain says Ukraine repelled numerous Russian assaults along the line of contact in Donbas
-Boston Celtics
-[Highlight] Jayson Tatum steals the ball and dunks it to seal the deal and put Boston up 3-0 | Boston Celtics vs Brooklyn Nets Rd. 1 Game 3
+Emmanuel Macron
+Macron wins French presidential election
+r/europe and more
+Lewis Hamilton
+Points after 4 races between Russel and Hamilton
+r/formula1 and more
+Ben Simmons
+[Charania] Nets are listing Ben Simmons as OUT for Game 4 vs. Celtics. A surprise as Simmons had been expected to play Monday as long as rehab was on course.
 r/nba and more
-Climate
-Twitter bans ads that contradict science on climate change
-r/environment and more
+Red Bull Plane Swap
+RedBull Plane Swap gone wrong - one pilot successfully swapped, the other plane spun out of control
+r/aviation and more
+Coffee
+The best part of waking up… is coffee in my GME cup
+r/Superstonk and more
+Ukraine
+Vladimir Zelensky published photos from the visit of a delegation of high-ranking US officials to Kyiv "I am grateful to the United States of America for its unprecedented assistance!" The President wrote
+r/ukraine and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-12.2k
-r/Art
+22.9k
+r/funny
 •Posted by
-u/sjpalmer94
+u/Sizzlin9
 3 hours ago
 3
-& 6 More
+4
+4
 Join
-Snowflake Cogs, Me, Digital, 2021
-Artwork
-gfycat.com/messyl...
-266 Comments
-Share
-Save
-41.7k
-r/Unexpected
-•Posted by
-u/ninja_snail62
-5 hours ago
-12
-9
-10
-Join
-Lost in translation but terrorism
+Delivery guy fails to notice the dog initially!
 0:00
-0:53
-413 Comments
+0:16
+556 Comments
 Share
 Save
-14.5k
+24.6k
+r/nextfuckinglevel
+•Posted by
+u/miguelabduarte
+4 hours ago
+10
+14
+22
+Join
+Man scales building to save dangling child
+0:00
+0:32
+750 Comments
+Share
+Save
+21.1k
 r/AskReddit
 •Posted by
-u/40oz_2freedom
-12 hours ago
-2
-2
+u/Left-End9148
+15 hours ago
+5
+3
+5
 Join
-Who is a good comedic actor that ended up being a great dramatic actor?
-8.6k Comments
+Who would you like to see run for President of the United States in 2024?
+20.0k Comments
 Share
 Save
 Top livestream
-23.1k
-r/technology
+84.1k
+r/oddlyterrifying
 •Posted by
-u/Empty-Lengthiness448
-15 hours ago
-Netflix is finally going after password sharing. Here's how it's likely to work
-Business
-cnbc.com/amp/20...
+u/AMasterfulWriter
+13 hours ago
+2
+5
+10
+8
 Join
-4.9k Comments
-Share
-Save
-19.3k
-r/interestingasfuck
-•Posted by
-u/arshhhhh
-4 hours ago
-Join
-Iceland shut their last McDonald's on 31 Oct '09. The last snack sold by the franchise is on display in a museum and is still intact due to its powerful preservatives.
-Misinformation/Fake
-899 Comments
+this handwritten note that was folded and tucked in my breezeway door…
+6.0k Comments
 Share
 Save
 Advertisement
