@@ -20,7 +20,7 @@ Z4
 M Models
 iX
 i4
-i7
+Coming Soon: i7
 PREVIEW
 Future Vehicles
 LEARN
@@ -53,7 +53,7 @@ M3
 M5
 M8
 i4
-i7
+Coming Soon: i7
 Coupes
 2
 4
@@ -70,7 +70,7 @@ All-Electric Learn More
 #bornelectric 
 iX
 i4
-i7
+Coming Soon: i7
 Plug-in Hybrids Learn More
 X5 xDrive45e
 330e Sedan
