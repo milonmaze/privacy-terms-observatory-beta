@@ -312,7 +312,7 @@ Google Distributed Cloud - Edge:  Google Distributed Cloud - Edge allows you to
 
 Sovereign Controls by Sovereign Partners
 
-Sovereign Controls by Sovereign Partners: Sovereign Controls by Sovereign Partners are solutions comprising a suite of Services offered by Google that are complemented by a set of services, offered by, and under separate terms of service with, third party partners (“Sovereign Partners”), which together create additional security controls for certain Services, while also allowing the relevant Sovereign Partner to provide additional security measures for those Services, as further described at: http://cloud.google.com/terms/in-scope-sovereign-cloud. 
+Sovereign Controls by Sovereign Partners: Sovereign Controls by Sovereign Partners are solutions comprising a suite of Services offered by Google that are complemented by a set of services, offered by, and under separate terms of service with, third party partners (“Sovereign Partners”), which together create additional security controls for certain Services, while also allowing the relevant Sovereign Partner to provide additional security measures for those Services, as further described at: https://cloud.google.com/terms/in-scope-sovereign-cloud. 
 
 User Protection Services
 
