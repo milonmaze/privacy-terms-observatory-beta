@@ -53,6 +53,3 @@ We analyze requests to determine whether they are legally and procedurally valid
 Once we’ve determined that a request is valid, we typically notify the user (unless we’re legally prohibited from doing so) and respond with an encrypted copy of the information specified in the legal process.
 Transparency matters
 View the reports
-We use cookies to provide, improve, protect, and promote our services. Visit our Privacy Policy and Privacy Policy FAQ to learn more. You can manage your personal preferences in our Cookie Consent Tool.
-Decline
-Accept All
