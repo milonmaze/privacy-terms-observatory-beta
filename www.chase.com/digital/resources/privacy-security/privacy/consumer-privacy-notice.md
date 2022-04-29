@@ -5,7 +5,7 @@ Privacy
 selected
 Security
 Have questions?
-LAST UPDATED: APRIL 2021
+LAST UPDATED: APRIL 2022
 U.S. Consumer Privacy Notice
 
 Printer Friendly version (PDF)
@@ -33,7 +33,7 @@ For our affiliates to market to you	Yes	Yes
 For nonaffiliates to market to you	Yes	Yes
 To limit our sharing	
 Call 1–888–868–8618 – our menu will prompt you through your choice(s). We accept operator relay calls.
-Visit us online
+See us online
 
 Please note:
 If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
@@ -41,7 +41,7 @@ If you are a new customer, we can begin sharing your information 30 days from th
 
 
 
-However, you can contact us at anytime to limit our sharing.
+However, you can contact us at any time to limit our sharing.
 
 
 Questions?	
