@@ -6,9 +6,9 @@ Of course, you can also choose to save a Snap before you send it and recipients 
 
 Saving Snaps was designed with privacy in mind. You control whether your Snaps can be saved. Set the Snap time to no time limit to allow a Snap to be saved. You can always delete any message you sent, including Snaps that have been saved in Chat. Just press and hold to unsave.
 
-Voice and Video Chat allows you to check in with your Friends. If you just want to leave a voice message, we’ve got you covered, just press and hold the microphone to record a Voice Note.
+Voice and Video Chat allows you to check in with your Friends. If you just want to leave a voice message, we’ve got you covered, just press and hold the microphone to record a Voice Note. You can also opt-in to allow us to create and make available transcripts of your Voice Chats so your Friends can read them when they don’t have their headphones handy.
 
-Snaps and Chats, including Voice and Video Chats, between you and your friends are private, that’s why we don’t scan their content to personalize your experience or show you ads. This means we don’t know what you’re saying or Snapping, though we do keep some metadata on the Snaps and Chats you send and receive.
+Snaps and Chats, including Voice and Video Chats, between you and your friends are private — we don’t scan their content to create profiles or show you ads. This means we typically don’t know what you’re saying or Snapping unless you ask us to (for example, if you opt-in to Voice Chat transcripts). In addition, we keep some metadata on the Snaps and Chats you send and receive.
 
 When Does Snap Inc. Delete Snaps and Chats?
 
@@ -80,9 +80,10 @@ Lenses
 
 Ever wonder how Lenses swap your face with a friend’s or give you puppy dog ears?
 
-Some of the magic behind Lenses is due to “object recognition.” Object recognition is an algorithm designed to help a computer generally understand what objects are in an image. In this case, it lets us know that a nose is a nose or an eye is an eye.
+Some of the magic behind Lenses is due to “object detection.” Object detection is an algorithm designed to help a computer generally understand what objects are in an image. In this case, it lets us know that a nose is a nose or an eye is an eye.
 
-But, object recognition isn’t the same as facial recognition. While Lenses can tell what is or isn’t a face, they don’t recognize specific faces!
+But, object detection isn’t the same as facial identification. While Lenses can tell what is or isn’t a face, they don’t identify specific faces!
+
 
 How to Use Lenses
 
@@ -111,6 +112,20 @@ Our Community Guidelines have always asked Snapchatters to be thoughtful and res
 We are constantly innovating Spectacles — different generations have their own unique and exciting features. The new Spectacles overlay immersive Lenses on the world around you and incorporate some of the Scan features described below.
 
 Learn About Spectacles
+
+Pixy
+
+Pixy is a small, smart drone that captures your world from new perspectives, right from the palm of your hand. Choose from four preset flight paths, and with the press of a button, Pixy can hover, float, orbit, and follow your lead.  
+
+Pixy needs some info about you to fly and work. For example, in order for Pixy to follow you when it flies, Pixy needs to figure out where your face is in the camera frame. To do this, Pixy uses “object detection,” which is an algorithm designed to help a computer generally understand what objects are in an image. For example, it lets Pixy know that a face is a face or that a body is a body. But, object detection isn’t the same as facial identification. This means that while Pixy can tell what is or isn’t a face, it can’t identify specific faces! And Pixy does not retain the above information once the flight ends.
+
+Pixy is meant to be used when you’re out and about in the world — but because it flies, make sure you stay safe and follow the rules! Learn more about some of your obligations and review our Policies and Safety page.
+
+Whenever you take a photo or video with Pixy, an LED will light up to let you and your friends know that you’re taking a Snap or recording a video.
+
+Our Community Guidelines have always asked Snapchatters to be thoughtful and respect people’s privacy — and that same philosophy applies to our physical products like Pixy.  
+
+Learn About Pixy
 
 Your Snapchat Account
 
