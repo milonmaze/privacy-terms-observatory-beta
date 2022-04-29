@@ -1,12 +1,12 @@
 Skip to main content
-U.S. Consumer Privacy Notice for JPMSelect Customers
+U.S. Consumer Privacy Notice for JPMorgan Reserve Customers
 Overview
 Privacy
 selected
 Security
 Have questions?
-LAST UPDATED: APRIL 2021
-U.S. Consumer Privacy Notice for JPMSelect Customers
+LAST UPDATED: APRIL 2022
+U.S. Consumer Privacy Notice for JPMorgan Reserve Customers
 Printer Friendly version (PDF)
 Facts:
 
@@ -31,7 +31,7 @@ For our affiliates to market to you	Yes	Yes
 For nonaffiliates to market to you	Yes	Yes
 To limit our sharing	
 Call 1–888–868–8618 – our menu will prompt you through your choice(s). We accept operator relay calls.
-Visit us online
+See us online
 
 Please note:
 If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
@@ -39,7 +39,7 @@ If you are a new customer, we can begin sharing your information 30 days from th
 
 
 
-However, you can contact us at anytime to limit our sharing.
+However, you can contact us at any time to limit our sharing.
 
 
 Questions?	Call 1–888–868–8618 — our menu will prompt you through your choice(s). We accept operator relay calls.
@@ -75,10 +75,10 @@ See below for more on your rights under state law.
 What happens when I limit sharing for an account I hold jointly with someone else?	Your choices will apply to everyone on your account.
 Definitions
 
-Affiliates	Companies related by common ownership or control. They can be financial and non financial companies.
+Affiliates	Companies related by common ownership or control. They can be financial and nonfinancial companies.
 Our affiliates include companies with a Chase or JPMorgan name and financial companies such as J.P. Morgan Securities LLC
 
-Nonaffiliates	Companies not related by common ownership or control. They can be financial and non financial companies.
+Nonaffiliates	Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 Nonaffiliates we share with can include companies such as retailers, auto dealers, auto makers and membership clubs
 
 Joint marketing	A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
