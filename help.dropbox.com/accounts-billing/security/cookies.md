@@ -2,6 +2,8 @@ Use of cookies and similar technologies
 
 Dropbox uses cookies and similar technologies, such as pixels, to provide, improve, protect, and promote our services. For the purposes of this policy we will refer to all of these technologies as “cookies.” This page includes information on the what, who, and how of these technologies in connection with the Dropbox website and services.
 
+Looking for information on DocSend cookies? Click here.
+
 What are cookies?
 
 A cookie is small data file sent to your browser when you visit a website. A pixel tag ("pixel") is a small piece of code belonging to a third-party that can be embedded on websites and in emails. We use both our own cookies as well as third-party cookies. See the “How does Dropbox use cookies” section below for further information on third-party cookies we use.
@@ -90,6 +92,3 @@ Other ways to get help
 Community
 Twitter support
 Contact support
-We use cookies to provide, improve, protect, and promote our services. Visit our Privacy Policy and Privacy Policy FAQ to learn more. You can manage your personal preferences in our Cookie Consent Tool.
-Decline
-Accept All
