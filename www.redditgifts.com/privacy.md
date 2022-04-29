@@ -1,108 +1,106 @@
 Found the internet!
 Trending today
-The Batman Sequel
-'The Batman' Sequel in the Works With Robert Pattinson
-r/movies and more
-$TSLA
-Down over $1 million in 1 month. Guh $tsla
-r/wallstreetbets and more
-CinemaCon
-Timothee Chalamet’s ‘Wonka’ Surprises At CinemaCon
-r/movies and more
-Donald Trump
-Valentin Broeksmi, investigating ties between Deutsche Bank and Donald Trump, has been found dead in California.
-r/Damnthatsinteresting and more
-Poland Gas
-Poland and Bulgaria say they won't bow down to Russia after Gazprom shut off their gas supply
-Trevor Reed
-2021 PWI 500 Full List!!
-r/SquaredCircle and more
+Russian Oligarchs
+US to seize and sell Russian oligarchs' property
+r/politics and more
+Jürgen Klopp
+[Liverpool FC] Jürgen Klopp signs new contract with Liverpool FC
+r/soccer and more
+LeVar Burton
+LeVar Burton will receive a Lifetime Achievement Award at the new children's Emmys
+r/UpliftingNews and more
+Thor: Love And Thunder
+New Image from 'Thor: Love and Thunder'
+r/marvelstudios and more
+James Webb Telescope
+The James Webb Space Telescope is fully aligned and ready to observe the universe
+r/news and more
+UN Visit to Kyiv
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-33.1k
+12.1k
 r/AskReddit
 •Posted by
-u/Millennial-Mason
-12 hours ago
-4
+u/negan_can_step_on_me
+15 hours ago
+2
+2
+3
+Join
+which actors were BORN for their role?
+10.1k Comments
+Share
+Save
+15.0k
+r/wholesomememes
+•Posted by
+u/Nesieo
+4 hours ago
 2
 5
+2
 Join
-With the passing of Stan Lee, and Betty White, who is Americas token "Old Person" now?
-9.6k Comments
+It changes your whole mood around
+Gif
+55 Comments
 Share
 Save
-50.5k
-r/technology
+13.2k
+r/Showerthoughts
 •Posted by
-u/Hrmbee
-14 hours ago
-6
-4
-5
-Tesla shares sink, wipe out over $125 billion in value, as Musk scores Twitter deal
-Business
-npr.org/2022/0...
-Join
-5.7k Comments
-Share
-Save
-23.2k
-r/WhitePeopleTwitter
-•Posted by
-u/DaFunkJunkie
+u/Ntuq
 3 hours ago
+3
 Join
-Real money
-1.1k Comments
+Male sex toys are considered more taboo than female counterparts even though male masturbation is more commonly accepted and discussed.
+nsfw
+1.0k Comments
 Share
 Save
 Top livestream
-47.6k
-r/MadeMeSmile
+22.3k
+r/Eyebleach
 •Posted by
-u/pietradolce
-4 hours ago
-16
-12
-2
-& 21 More
+u/Troubled_Cousin_
+5 hours ago
+3
 Join
-Kindness is priceless
- Wholesome Moments 
-631 Comments
+Mother pulls her son out of the store
+gfycat.com/whimsi...
+203 Comments
 Share
 Save
-60.7k
-r/movies
+71.8k
+r/economy
 •Posted by
-u/MarvelsGrantMan136
-15 hours ago
-8
-14
-9
-'The Batman' Sequel in the Works With Robert Pattinson
-News
-variety.com/2022/f...
+u/failed_evolution
+19 hours ago
+3
+& 45 More
+Explain why cancelling $1,900,000,000,000 in student debt is a “handout”, but a $1,900,000,000,000 tax cut for rich people was a “stimulus”.
+Already reported and approved
+twitter.com/Public...
 Join
-5.2k Comments
+8.6k Comments
 Share
 Save
-19.5k
-r/Weird
+32.4k
+r/videos
 •Posted by
-u/jassicarothix
-13 hours ago
-6
-2
+u/lilmammamia
+20 hours ago
 4
+3
+2
 Join
-Can u figure out what's his favorite game?
-3.0k Comments
+Johnny Depp shocker: Amber Heard betrayed $3.5M donation promise, lawyer testifies
+Depp v. Heard
+youtube.com/watch?...
+3.1k Comments
 Share
 Save
 Advertisement
