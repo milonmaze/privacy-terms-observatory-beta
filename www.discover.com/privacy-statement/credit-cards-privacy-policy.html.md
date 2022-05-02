@@ -60,7 +60,6 @@ To limit our sharing
 
 Please note:
 If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
-
 However, you can contact us at any time to limit our sharing.
 Questions?
 Call 1-800-347-2683
