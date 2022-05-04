@@ -32,7 +32,7 @@ Security
 Help
 Jobs
 Languages
-Last modified on 10/19/2021
+Last modified on 04/29/2022
 Privacy Notice
 
 This Twitch Privacy Notice applies to your use of www.twitch.tv, and any other websites, applications, or services provided, owned, or operated by Twitch Interactive, Inc. (with its affiliates, “Twitch”) that link to this Privacy Notice (collectively, the “Twitch Services”). Twitch values the privacy of users, subscribers, publishers, members, and others who visit and use the Twitch Services (collectively or individually, “you” or “users”) and wants you to be familiar with how we collect, use, and disclose personal information from and about you. This notice describes our privacy policy. By visiting www.twitch.tv, setting up your Twitch account, or using the Twitch Services, you are accepting the practices described in this Privacy Notice, to the extent permitted by law.
