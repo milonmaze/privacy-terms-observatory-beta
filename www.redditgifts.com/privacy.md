@@ -1,95 +1,101 @@
 Found the internet!
 Trending today
-Alabama Inmate
-U.S. Marshals offering $10,000 for missing Alabama inmate and officer
-r/news and more
-Met Gala
-Grimes' Met Gala looks over the years. What's your favorite? ⚔️👽
-r/Grimes and more
-Netflix
-Netflix losing subscribers after making the worst decisions
-r/sbubby and more
-Warren Buffett
-Warren Buffett rips Wall Street for turning the stock market into ‘a gambling parlor'
-r/finance and more
-Michelle Mone
-BBC refuses to say why it hasn't covered Tory peer Michelle Mone's London house raid | THE BBC has refused to comment after being accused of a news 'blackout' on a Conservative peer's house being raided by police.
-r/ukpolitics and more
+Weird Al
+Daniel Radcliffe Becomes ‘Weird Al’ Yankovic in Trailer for Roku Original Biopic ‘Weird’
+r/entertainment and more
+Brittney Griner
+U.S. reclassifies WNBA star Brittney Griner as 'wrongfully detained' by Russia, sources say
 Ukraine
-U.S. to sell Russian oligarchs' yachts and other assets for Ukraine aid, Schumer says
+'Including Crimea': Ukraine's Zelensky seeks full restoration of territory
+Doctor Strange in the Multiverse of Madness
+Doctor Strange in the Multiverse of Madness is currently fresh with 84% on Rotten Tomatoes!
+r/marvelstudios and more
+Susan Collins
+Sen. Susan Collins said that if a draft majority opinion overturning Roe v. Wade is authentic, then she was misled by two Supreme Court justices whom she supported.
+r/politics and more
+Roe v. Wade
+Biden urges Congress to codify Roe v. Wade into law
+r/politics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-30.4k
-r/worldnews
+46.8k
+r/MadeMeSmile
 •Posted by
-u/thinkration
-3 hours ago
-2
-6
-Fresh blow to Vladimir Putin as he loses 9th general in devastating counter-strike
-Russia/Ukraine
-mirror.co.uk/news/w...
-Join
-1.7k Comments
-Share
-Save
-16.6k
-r/WhitePeopleTwitter
-•Posted by
-u/Aztery
-3 hours ago
-Join
-Also read about Das Marsprojekt v2 by von Braun
-216 Comments
-Share
-Save
-15.2k
-r/AskReddit
-•Posted by
-u/MuchLoveWaffleGirl
-16 hours ago
+u/BOSSBABY33
+4 hours ago
 3
-4
+8
+2
 Join
-(Serious) What would you do if your SO ask you to have an Open Relationship?
-Serious Replies Onlynsfw
-7.8k Comments
+Wholesome:))
+ Wholesome Moments 
+356 Comments
 Share
 Save
-44.0k
+46.1k
+r/nottheonion
+•Posted by
+u/HumpyTheClown
+16 hours ago
+2
+2
+College graduates are overestimating the salaries they'll start out at by $50,000, report finds
+cnbc.com/2022/0...
+Join
+4.6k Comments
+Share
+Save
+28.8k
 r/PublicFreakout
 •Posted by
-u/moonbitch1123
-14 hours ago
-6
-3
-6
-3
+u/werdmouf
+10 hours ago
 Join
-Couple on plane yelling racist and homophobic slurs were asked to deboard and they refused and made it everyone’s problem. West Palm Beach FL
-Racist freakout
+The Department of Homeland Security is getting aggressive in Downtown Los Angeles at the pro-choice protest
 0:00
-3:00
-4.6k Comments
+1:05
+5.5k Comments
 Share
 Save
-Top livestream
-74.2k
-r/oddlyterrifying
+3.9k
+r/AskReddit
 •Posted by
-u/mama_ji
-13 hours ago
+u/randumchicken
+9 hours ago
+Join
+What’s stopping you from having sex?
+nsfw
+4.9k Comments
+Share
+Save
+36.9k
+r/interestingasfuck
+•Posted by
+u/yungandreww
+5 hours ago
 7
-5
+6
+6
+Join
+Sea of Japan where snow and beach and sea meet
+/r/ALL
+303 Comments
+Share
+Save
+26.6k
+r/pics
+•Posted by
+u/poorlywrappedburrito
+11 hours ago
+3
 4
 Join
-our duplex neighbor of 3 years mysteriously moved in the middle of the night. we had never seen the inside of his house the whole time. now we know why.
-spoiler
-4.6k Comments
+[OC] seems like a fun guy at parties
+4.2k Comments
 Share
 Save
 Advertisement
