@@ -1,4 +1,4 @@
-Effective Date: 4/8/2022
+Effective Date: 04/08/2022
 
 HBO Max Privacy Policy
 
@@ -177,7 +177,7 @@ We share Information with and disclose it to the following parties in the follow
 
 Within our family of companies
 
-We are a part of a group of companies. We, collectively referred to as our affiliates, support and interact with each other to run their businesses. You can learn more about affiliated companies by visiting OUR CONTROLLER AND AFFILIATE SITE  (HTTPS://WWW.WARNERMEDIAPRIVACY.COM/POLICYCENTER/B2C/AFFILIATESLIST/). As a result, we may receive your Information to process for the purposes set out in this Privacy Policy, where there is a legal basis for them to do so and consistent with any permissions you have given (e.g. whether or not you wish to receive marketing communications) and any other controls you exercise regarding our processing of your Information (e.g. where you have chosen to opt-out of certain processing), as described in the INDIVIDUAL RIGHTS REQUEST and COOKIES AND OTHER TECHNICAL INFORMATION sections below.  We require the affiliate to protect the Information consistent with this Policy. We may also combine Information that identifies you personally with data that comes from an affiliate that has a different privacy policy. When we do that, our Policy applies to the combined data set.
+We are a part of a group of companies. We, collectively referred to as our affiliates, support and interact with each other to run their businesses. You can learn more about affiliated companies by visiting OUR CONTROLLER AND AFFILIATE SITE  (HTTPS://WWW.WARNERMEDIAPRIVACY.COM/POLICYCENTER/B2C/AFFILIATESLIST/). As a result, they may receive your Information to process for the purposes set out in this Privacy Policy, where there is a legal basis for them to do so and consistent with any permissions you have given (e.g. whether or not you wish to receive marketing communications) and any other controls you exercise regarding our processing of your Information (e.g. where you have chosen to opt-out of certain processing), as described in the INDIVIDUAL RIGHTS REQUEST and COOKIES AND OTHER TECHNICAL INFORMATION sections below.  We require the affiliate to protect the Information consistent with this Policy. We may also combine Information that identifies you personally with data that comes from an affiliate that has a different privacy policy. When we do that, our Policy applies to the combined data set.
 
 You can learn more about affiliated companies by visiting our CONTROLLER AND AFFILIATE SITE  (HTTPS://WWW.WARNERMEDIAPRIVACY.COM/POLICYCENTER/B2C/AFFILIATESLIST/).
 
