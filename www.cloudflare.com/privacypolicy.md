@@ -48,7 +48,7 @@ Image and voice: When you participate in a Cloudflare study, we may ask for your
 
 Website Visitors
 
-Name, email address, and other contact information: We ask for and—at your option—collect personal information from you when you submit web forms on our Websites, including opportunities to sign up for and agree to receive email communications from us. We may ask you to submit such personal information if you choose to use interactive features of the Websites, including participation in surveys, contests, promotions, sweepstakes, or studies, requesting customer support, submitting feedback, or otherwise communicating with us. We will send such communications in accordance with applicable law.
+Name, email address, and other contact information: We ask for and���at your option—collect personal information from you when you submit web forms on our Websites, including opportunities to sign up for and agree to receive email communications from us. We may ask you to submit such personal information if you choose to use interactive features of the Websites, including participation in surveys, contests, promotions, sweepstakes, or studies, requesting customer support, submitting feedback, or otherwise communicating with us. We will send such communications in accordance with applicable law.
 
 Log files: Just as when you visit and interact with most websites and services delivered via the Internet, when you visit our Websites, including the Cloudflare Community Forum, we gather certain information and store it in log files. This information may include but is not limited to Internet Protocol (IP) addresses, system configuration information, URLs of referring pages, and locale and language preferences.
 
