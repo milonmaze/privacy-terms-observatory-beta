@@ -2,7 +2,7 @@ Legal & Security
 Acceptable Use Policy
 Acceptable Use Policy
 
-Last updated October 14, 2020
+Last Updated on October 14, 2020
 
 This Acceptable Use Policy (this “AUP”) describes material and activities that are not allowed in connection with the Services offered by DigitalOcean. This AUP is not exhaustive, and DigitalOcean reserves the right to take remedial action in connection with content or uses that are not specifically described below.
 
@@ -93,6 +93,7 @@ Press
 Legal
 Trust Platform
 Investor Relations
+DO Impact
 Products
 Products Overview
 Droplets
@@ -111,6 +112,7 @@ Community
 Tutorials
 Meetups
 Q&A
+CSS-Tricks
 Write for DOnations
 Droplets for Demos
 Hatch Startup Program
