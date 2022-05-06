@@ -1,101 +1,120 @@
 Found the internet!
 Trending today
-Weird Al
-Daniel Radcliffe Becomes ‘Weird Al’ Yankovic in Trailer for Roku Original Biopic ‘Weird’
-r/entertainment and more
-Brittney Griner
-U.S. reclassifies WNBA star Brittney Griner as 'wrongfully detained' by Russia, sources say
-Ukraine
-'Including Crimea': Ukraine's Zelensky seeks full restoration of territory
-Doctor Strange in the Multiverse of Madness
-Doctor Strange in the Multiverse of Madness is currently fresh with 84% on Rotten Tomatoes!
-r/marvelstudios and more
-Susan Collins
-Sen. Susan Collins said that if a draft majority opinion overturning Roe v. Wade is authentic, then she was misled by two Supreme Court justices whom she supported.
+Karine Jean-Pierre
+Out lesbian Karine Jean-Pierre will become new White House Press Secretary
 r/politics and more
-Roe v. Wade
-Biden urges Congress to codify Roe v. Wade into law
-r/politics and more
+Kevin Samuels
+Kevin samuels died today in Atlanta
+r/Atlantology and more
+California Drought
+California declares unprecedented water restrictions amid drought
+r/news and more
+Mariupol
+Ukraine latest: Pentagon says most Russian forces have left Mariupol
+r/ukraine and more
+Russian Oil
+How Germany is getting rid of Russian oil
+r/UkrainianConflict and more
+Johnson & Johnson
+FDA limits use of Johnson & Johnson’s Covid-19 vaccine, citing clotting risk
+r/Coronavirus and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-46.8k
-r/MadeMeSmile
+3.3k
+PINNED BY MODERATORS
+r/movies
 •Posted by
-u/BOSSBABY33
-4 hours ago
+u/LiteraryBoner
+12 hours ago
+2
+Join
+Official Discussion - Doctor Strange in the Multiverse of Madness [SPOILERS]
+spoiler
+4.7k Comments
+Share
+Save
+43.0k
+r/Damnthatsinteresting
+•Posted by
+u/PeasKhichra
+3 hours ago
+4
+7
+5
+Join
+This is Jean-Baptiste Kempf, the creator of VLC media player. He refused tens of millions of dollars in order to keep VLC ads-free. Thanks, Jean!
+Image
+955 Comments
+Share
+Save
+36.5k
+r/videos
+•Posted by
+u/Eon_mon
+19 hours ago
+4
 3
-8
-2
+5
 Join
-Wholesome:))
- Wholesome Moments 
-356 Comments
+Amber Heard gets Caught Posing for a Crying Photo
+Depp v. Heard
+youtube.com/watch?...
+3.4k Comments
 Share
 Save
-46.1k
-r/nottheonion
-•Posted by
-u/HumpyTheClown
-16 hours ago
-2
-2
-College graduates are overestimating the salaries they'll start out at by $50,000, report finds
-cnbc.com/2022/0...
-Join
-4.6k Comments
-Share
-Save
-28.8k
-r/PublicFreakout
-•Posted by
-u/werdmouf
-10 hours ago
-Join
-The Department of Homeland Security is getting aggressive in Downtown Los Angeles at the pro-choice protest
-0:00
-1:05
-5.5k Comments
-Share
-Save
-3.9k
+Top livestream
+7.2k
 r/AskReddit
 •Posted by
-u/randumchicken
-9 hours ago
-Join
-What’s stopping you from having sex?
-nsfw
-4.9k Comments
-Share
-Save
-36.9k
-r/interestingasfuck
-•Posted by
-u/yungandreww
+u/TYGA_77
 5 hours ago
-7
-6
-6
+2
+2
+2
 Join
-Sea of Japan where snow and beach and sea meet
-/r/ALL
-303 Comments
+You've just been Kidnapped, You're in a moving vehicle and not blindfolded. What do you say to your kidnapper?
+nsfw
+3.6k Comments
 Share
 Save
-26.6k
-r/pics
+37.5k
+r/MadeMeSmile
 •Posted by
-u/poorlywrappedburrito
-11 hours ago
-3
-4
+u/rdias002
+4 hours ago
+10
+14
+14
 Join
-[OC] seems like a fun guy at parties
-4.2k Comments
+Whooo's my faaaaavourite student‽
+ Wholesome Moments 
+586 Comments
+Share
+Save
+7.7k
+r/IAmA
+•Posted by
+u/WeAreMEL
+20 hours ago
+2
+2
+4
+2
+Join
+IAmA Person Who Woke Up After Spending Six Months in a Coma. AMA!
+Unique Experience
+
+Hello Reddit! One day in 2015 I woke up thinking it was time to go to work, but for some reason, found myself strapped to a bed in the hospital. When I met eyes with the attending nurse and asked if I could use the bathroom, she teared up and ran out of the room -- only to come back a few minutes later to apologize and explained that for the past six months I had been in a coma due to a very severe traumatic brain injury. The neurologist said if I did eventually wake up, I wouldn’t be able to do much of anything. You can read the full story in great detail over at MEL Magazine, and be sure to visit the subreddit r/TBI, a community of support, awareness, and information about traumatic brain injuries.
+
+I'm here to answer any questions you have about waking up from a coma, traumatic brain injuries, and any other questions you might have. AMA!
+
+PROOF: https://i.redd.it/1gt6ujabuax81.jpg
+
+944 Comments
 Share
 Save
 Advertisement
