@@ -1,5 +1,9 @@
 Skip to main content
 
+The DocSend Privacy Policy can be found here.
+
+The HelloSign Privacy Policy can be found here.
+
 If your organization signed a Dropbox Business or Dropbox Enterprise Agreement with Dropbox, that Agreement may have modified the privacy policy below. Please contact your organization’s Admin for details.
 
 Dropbox Privacy Policy
