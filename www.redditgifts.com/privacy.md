@@ -1,103 +1,104 @@
 Found the internet!
 Trending today
-Rich Strike
-The overhead view of Rich Strike's comeback for the Kentucky Derby victory. A massive upset, Rich Strike entered the race at 80-1 odds.
-r/interestingasfuck and more
-Northern Ireland
-Northern Ireland Election 2022
-r/polandball and more
-Ukraine
-WHO begins gathering war crimes evidence of Russian attacks on health facilities in Ukraine
-UEFA Champions League
-Manchester United stars set for 25 per cent wage cut after Champions League failure
-r/soccer and more
-Brett Kavanaugh
-UFC 274
-OFFICIAL: Daniel Cormier is the newest inductee to the UFC Hall of Fame
-r/MMA and more
+Kendrick Lamar
+[FRESH VIDEO] Kendrick Lamar - The Heart Part 5
+r/hiphopheads and more
+Justin Trudeau
+Trudeau says Putin responsible for ‘heinous war crimes’ during surprise visit to Ukraine - National
+Philippine Elections
+It's election day here in the Philippines, and my vote goes to the woman in pink, Leni Robredo, who is up against a dictator's son. If she wins, this will be the portrait of our first family. Manifesting.
+r/WitchesVsPatriarchy and more
+Patron
+Zelenskyy awards a medal to a mine-sniffing dog named Patron, credited with detecting more than 200 explosives in the Ukrainian war
+Free Internet
+Biden admin announces expansion of free high-speed internet to eligible US households
+r/politics and more
+Champions League
+[Charles Watts] Arsenal's defining moment: Gunners' Champions League destiny just 90 minutes away
+r/Gunners and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-451
-r/Cricket
+13.3k
+r/oddlyterrifying
 •Posted by
-u/CricketMatchBot
-5 hours ago
+u/teem0m0
+3 hours ago
+2
 Join
-Match Thread: 54th Match - Sunrisers Hyderabad vs Royal Challengers Bangalore
-54th Match, Indian Premier League at Mumbai
-
-Post Match | Cricinfo | Reddit-Stream | ☁️ ☁️ ☁️ ☁️ ☁️
-
-Innings	Score
-Royal Challengers Bangalore	192/3 (Ov 20/20)
-Sunrisers Hyderabad	125 (Ov 19.2/20)
-
-
-
-
-Batter	Runs	Balls	SR
-Fazalhaq Farooqi*	2	8	25.0Bowler	Overs	Runs	Wickets
-Harshal Patel	3.2	20	1
-Josh Hazlewood	4	17	2
-Recent : . W W . .  |  1 . . 1 1 .  |  . 4 1 1 1 .  |  1w . W 
-
-
-RCB won by 67 runs
-
-Live match threads: France Women vs Austria Women | Chennai Super Kings vs Delhi Capitals |
-
-Send feedback | Schedule | Stat Help
-
-Please don't post illegal streaming links in match threads
-
-8.9k Comments
-Share
-Save
-32.3k
-r/nextfuckinglevel
-•Posted by
-u/Swerwin
-5 hours ago
-4
-3
-7
-& 2 More
-Join
-This amazing camouflage art
+530 sheep died because of a lightning strike in Georgia
 0:00
-0:21
-214 Comments
+0:48
+668 Comments
 Share
 Save
-61.3k
-r/mildlyinfuriating
+19.1k
+r/AskReddit
 •Posted by
-u/lks2drivefast
-15 hours ago
-9
-8
+u/CoffeeBoy88
+17 hours ago
 6
-& 2 More
+7
+6
 Join
-when you let a friend borrow your car and then you find this
-6.4k Comments
+What is something weird about Europe that europeans don’t realize is weird?
+21.1k Comments
 Share
 Save
-26.6k
-r/PublicFreakout
+16.2k
+r/Eldenring
 •Posted by
-u/tefunka
-13 hours ago
-6
+u/blablatrooper
+16 hours ago
+4
+4
+2
+Join
+Gideon wants to know: what’s your main criticism of the game?
+Discussion & Info
+8.6k Comments
+Share
+Save
+Top livestream
+54.4k
+r/news
+•Posted by
+u/MiserableWanker
+19 hours ago
 3
-5
+& 36 More
+Office of anti-abortion organization in Wisconsin targeted in arson attack, police say
+cnn.com/2022/0...
 Join
-Taxi driver knocks out woman
-4.8k Comments
+3.5k Comments
+Share
+Save
+69.0k
+r/pcmasterrace
+•Posted by
+u/DARKplayz_
+18 hours ago
+11
+11
+9
+Join
+can relate
+Meme/Macro
+3.3k Comments
+Share
+Save
+23.5k
+r/therewasanattempt
+•Posted by
+u/cocaine_butthole
+5 hours ago
+2
+Join
+To look busy when the cameras are on
+309 Comments
 Share
 Save
 Advertisement
