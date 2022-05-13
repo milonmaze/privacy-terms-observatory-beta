@@ -1,104 +1,75 @@
 Found the internet!
 Trending today
+Cryptocurrency
+Asus: Demand For GPUs Among Cryptocurrency Miners Is Drying Up
+r/hardware and more
+Siemens
+German industrial giant Siemens is leaving Russia after nearly 170 years
+Elon Musk
+Elon Musk says Twitter deal temporarily on hold
+r/technology and more
+North Korea
+North Korea 'Sending Out SOS' as It Admits Unnamed Disease Has Spread to 350k People
 Kendrick Lamar
-[FRESH VIDEO] Kendrick Lamar - The Heart Part 5
-r/hiphopheads and more
-Justin Trudeau
-Trudeau says Putin responsible for ‘heinous war crimes’ during surprise visit to Ukraine - National
-Philippine Elections
-It's election day here in the Philippines, and my vote goes to the woman in pink, Leni Robredo, who is up against a dictator's son. If she wins, this will be the portrait of our first family. Manifesting.
-r/WitchesVsPatriarchy and more
-Patron
-Zelenskyy awards a medal to a mine-sniffing dog named Patron, credited with detecting more than 200 explosives in the Ukrainian war
-Free Internet
-Biden admin announces expansion of free high-speed internet to eligible US households
-r/politics and more
-Champions League
-[Charles Watts] Arsenal's defining moment: Gunners' Champions League destiny just 90 minutes away
-r/Gunners and more
+[FRESH ALBUM] Kendrick Lamar - Mr. Morale & The Big Steppers
+r/KendrickLamar and more
+Sheikh Khalifa bin Zayed Al Nahyan
+UAE President Sheikh Khalifa bin Zayed Al Nahyan has died: WAM
+r/dubai and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-13.3k
-r/oddlyterrifying
+11.0k
+r/Wellthatsucks
 •Posted by
-u/teem0m0
+u/TaskMaster130
 3 hours ago
-2
 Join
-530 sheep died because of a lightning strike in Georgia
-0:00
-0:48
-668 Comments
+A recent heatwave in Pakistan and India. Feels like a preview of hell.
+1.2k Comments
 Share
 Save
-19.1k
+16.3k
 r/AskReddit
 •Posted by
-u/CoffeeBoy88
+u/Need_Some_Updog
 17 hours ago
+2
 6
-7
-6
+5
 Join
-What is something weird about Europe that europeans don’t realize is weird?
-21.1k Comments
+Without saying your age, what was something that was trending during your childhood?
+22.7k Comments
 Share
 Save
-16.2k
-r/Eldenring
+36.6k
+r/cursedcomments
 •Posted by
-u/blablatrooper
-16 hours ago
-4
-4
+u/witcchii
+4 hours ago
 2
+2
+3
 Join
-Gideon wants to know: what’s your main criticism of the game?
-Discussion & Info
-8.6k Comments
+Cursed matchmaking
+Reddit
+182 Comments
+Share
+Save
+10.2k
+r/funny
+•Posted by
+u/sheepsucker
+3 hours ago
+Join
+Bringing your OTHER girlfriend to the game...
+0:00
+0:11
+312 Comments
 Share
 Save
 Top livestream
-54.4k
-r/news
-•Posted by
-u/MiserableWanker
-19 hours ago
-3
-& 36 More
-Office of anti-abortion organization in Wisconsin targeted in arson attack, police say
-cnn.com/2022/0...
-Join
-3.5k Comments
-Share
-Save
-69.0k
-r/pcmasterrace
-•Posted by
-u/DARKplayz_
-18 hours ago
-11
-11
-9
-Join
-can relate
-Meme/Macro
-3.3k Comments
-Share
-Save
-23.5k
-r/therewasanattempt
-•Posted by
-u/cocaine_butthole
-5 hours ago
-2
-Join
-To look busy when the cameras are on
-309 Comments
-Share
-Save
 Advertisement
