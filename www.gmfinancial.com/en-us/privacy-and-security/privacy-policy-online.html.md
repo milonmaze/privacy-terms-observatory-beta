@@ -66,7 +66,7 @@ News Releases
 Home Privacy and Security Online Privacy Policy
 Online Privacy Policy
 
-GM Financial is committed to respecting and protecting customer privacy. The Online Privacy Policy (“Privacy Policy”) explains what information GM Financial may collect about you when you use the GM Financial website, https://www.gmfinancial.com, the Mode website, https://www.getmode.com, the GM Financial RightNotes website https://www.rightnotes.com, or mobile applications (collectively, “Site”) or the products or services offered through the Site (“Services”) and how we use and protect that information. Please read the Privacy Policy carefully. By using the Site or the Services, you consent to the collection and use of your personal information as described in the Privacy Policy. If you do not agree with the terms of the Privacy Policy, please do not use the Site or Services.
+GM Financial is committed to respecting and protecting customer privacy. The Online Privacy Policy (“Privacy Policy”) explains what information GM Financial may collect about you when you use the GM Financial website, https://www.gmfinancial.com, the Cadillac Financial website, https://www.cadillacfinancial.com, the Mode website, https://www.getmode.com, the GM Financial RightNotes website https://www.rightnotes.com, or mobile applications (collectively, “Site”) or the products or services offered through the Site (“Services”) and how we use and protect that information. Please read the Privacy Policy carefully. By using the Site or the Services, you consent to the collection and use of your personal information as described in the Privacy Policy. If you do not agree with the terms of the Privacy Policy, please do not use the Site or Services.
 
 The Site is controlled, operated, and administered by GM Financial from its offices within the United States. If you are accessing the Site from a location outside the United States, you acknowledge and consent to the collection, storage, processing, and transfer of your personal information to our facilities in the United States and to those third-parties with whom we share it as described in this Statement
 
@@ -172,6 +172,6 @@ We may modify this Privacy Policy at any time. If we do, we will post the revise
  
 Effective Date
 
-This Privacy Policy is effective as of April 27, 2021.
+This Privacy Policy is effective as of April 27, 2022.
 
 Feedback
