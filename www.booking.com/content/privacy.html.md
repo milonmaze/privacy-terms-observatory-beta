@@ -1116,7 +1116,7 @@ Press center
 Safety Resource Center
 Investor relations
 Terms & conditions
-Dispute resolution
+Partner dispute
 How We Work
 Privacy & cookie statement
 Don't sell my personal information
