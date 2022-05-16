@@ -1,109 +1,91 @@
 Found the internet!
 Trending today
-Eurovision Song Contest
-Congratulations to Ukraine for winning Eurovision 2022!
-r/europe and more
-NATO
-It's official: Finland to apply for Nato membership
-Elon Musk
-Elon Musk says Twitter legal team told him he violated an NDA.
-r/technology and more
-Toronto Maple Leafs
-[Stats by STATS] The Maple Leafs are the first team in MLB/NBA/NHL history to lose a winner-take-all game in the opening round of the playoffs 5 years in a row.
-r/hockey and more
-Russia
-Russia has now lost one third of its combat force, Britain says
+Boston Celtics
+[Highlight] Celtics and Bucks hug it out after a hard-fought series
+r/nba and more
+Blood Moon
+ITAP of the Super Flower Blood Moon eclipse
+r/itookapicture and more
+Ukraine
+McConnell Says Ukraine Aid Package Should Pass on Wednesday, Calls Out Anti-Ukraine Republicans and Urges Biden to Designate Russia as State Sponsor of Terrorism
 r/ukraine and more
-FA Cup
-Handshake gone wrong at LFC FA cup celebrations
-r/WatchPeopleDieInside and more
+North Korea
+S.Korea says it will spare no effort to help North Korea amid COVID outbreak
+Graduation
+Daughter takes picture of her dad on his graduation day.
+r/MadeMeSmile and more
+McDonald's
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-51.0k
-r/news
+17.4k
+r/WitchesVsPatriarchy
 •Posted by
-u/scrandis
-18 hours ago
+u/sailorjupiter28titan
+4 hours ago
+Join
+Reproductive Rights should also mean the freedom to reproduce.
+Burn the Patriarchy
+117 Comments
+Share
+Save
+21.2k
+r/nba
+•Posted by
+u/Smasher1311
+12 hours ago
 2
-7
-& 11 More
-As many as 8 dead in mass shooting at upstate New York supermarket: Law enforcement source - ABC News
-10 Dead
-abcnews.go.com/US/rep...
+& 82 More
 Join
-13.2k Comments
+THE PHOENIX SUNS HAVE BEEN ELIMINATED FROM CHAMPIONSHIP CONTENTION
+
+The Dallas Mavericks eliminate the #1 Seed and defending Western Conference Champions with a rousing blowout in Game 7. Luka Doncic and the Mavs will now duel with Stephen Curry and the Golden State Warriors in the Western Conference Finals.
+
+Fade 'em!
+
+3.8k Comments
 Share
 Save
-40.5k
-r/nextfuckinglevel
-•Posted by
-u/Cpt_Soaps
-3 hours ago
-7
-4
-& 9 More
-Join
-After United Airlines refused to pay for his broken guitar Dave released a complaint diss track which caused the Airline's stock to go down 10% and lost about 180 million.
-0:00
-4:31
-911 Comments
-Share
-Save
-15.5k
+39.4k
 r/AskReddit
 •Posted by
-u/Frequent-Pilot5243
-9 hours ago
-7
-8
+u/Classic_Challenge325
+15 hours ago
+2
+10
+14
+9
 Join
-What is a depressing truth you have made peace with?
+Penis owners of Reddit- what takes a blow job from "that was pleasant" to "I think I saw God"?
 nsfw
-9.9k Comments
-Share
-Save
-43.2k
-r/Justrolledintotheshop
-•Posted by
-u/600-shot-of-autism
-22 hours ago
-5
-3
-4
-Join
-I work at a Kia dealership that used to offer a 10 year unlimited mile warranty. this 2012 Kia Sorento finally had its warranty expire after 203 oil changes, 20 transmission flushes, 10 years, 9 engines, and 4 transmissions the warranty finally expired and the owner traded it in.
-4.6k Comments
+9.4k Comments
 Share
 Save
 Top livestream
-14.0k
-r/formula1
+25.6k
+r/antiwork
 •Posted by
-u/AceBombkick
-2 hours ago
-8
-8
+u/grumpi-otter
+4 hours ago
 2
 Join
-Charles Leclerc has crashed Niki Lauda's Ferrari in the Monaco Historic Grand Prix
- Photo /r/all
-795 Comments
+Those pesky socialist dead!
+235 Comments
 Share
 Save
-10.1k
-r/Music
+39.1k
+r/PublicFreakout
 •Posted by
-u/hjgbuijhgh
-16 hours ago
-Britney Spears loses her 'miracle baby early in the pregnancy'
-discussion
-news.sky.com/story/...
+u/ronkong
+15 hours ago
+3
 Join
-1.1k Comments
+crazy neighbor attempts murder
+Repost 😔nsfw
+3.4k Comments
 Share
 Save
 Advertisement
