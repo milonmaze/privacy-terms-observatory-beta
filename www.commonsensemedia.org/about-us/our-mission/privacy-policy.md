@@ -1,4 +1,7 @@
 Skip to main content
+
+How to address violence in the news with your kids.  Learn more
+
 For Parents For Educators For Advocates
 Privacy Policy/Your California Privacy Rights
 
