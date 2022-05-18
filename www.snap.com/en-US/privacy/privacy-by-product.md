@@ -20,11 +20,11 @@ Voice and Video Chat
 
 Snap and Chat Metadata
 
-My Story
+Stories
 
 Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group of friends.
 
-You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if a My Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Snaps in your Story are posted for 24 hours, though you can remove them from your Story at any time.
+You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if your Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Snaps in your Story are posted for 24 hours, though you can remove them from your Story at any time.
 
 How to Use Stories
 
@@ -42,19 +42,19 @@ Profiles
 
 Profiles make it easy to find the info and Snapchat features that you care about the most! There are different types of Profiles on Snapchat, including My Profile, Friendship Profiles, Group Profiles, and Public Profiles.
 
-My Profile features your Snapchat info, like your Bitmoji, location on the Map, friend info, and more. Friendship Profile is as unique as each individual friendship, this is where you can find Snaps and messages you’ve saved, and this also where you can manage your friendship, and report, block, or remove the friend. Group Profiles showcase your saved Snaps and Chats within a Group Chat.
+My Profile features your Snapchat info, like your Bitmoji, location on the Map, friend info, and more. Friendship Profile is as unique as each individual friendship, this is where you can find Snaps and messages you’ve saved, your friend’s Snapchat info like Bitmoji and location on the Map, and this is also where you can manage your friendship, and report, block, or remove the friend. Group Profiles showcase your saved Snaps and Chats within a Group Chat and your friends’ Snapchat info.
 
-Public Profiles enable Snapchatters to be discovered in the app. If you want a Public Profile, you will need to create one first. Once you’ve created a Public Profile, you can showcase your favorite public Snaps, share your Lenses, and other information. Other Snapchatters will be able to subscribe to your Public Profile. Your subscriber count is turned off by default, but if you want you can turn it on in Settings.
+Public Profiles enable Snapchatters to be discovered in the app. If you want a Public Profile, you will need to create one first. Once you’ve created a Public Profile, you can showcase your favorite public Snaps and share your Lenses and other information. Other Snapchatters will be able to subscribe to your Public Profile. Your subscriber count is turned off by default, but if you want you can turn it on in Settings.
 
 About Profiles
 
 Spotlight
 
-Spotlight allows you to discover the world of Snapchat in one place, and shines a light on the most entertaining Snaps, no matter who created them!
+Spotlight allows you to discover the world of Snapchat in one place and shines a light on the most entertaining Snaps, no matter who created them!
 
-Snaps submitted to Spotlight are public and other Snapchatters will be able to share them both on and off Snapchat or even ‘Remix’ them. For example, they may take your funny dance Snap and layer a reaction over it. Your Profile is where you will be able to control and see an overview of Spotlight Snaps you’ve submitted. You can also favorite Spotlight Snaps, when you do so we will add it to your favorites list and use it to personalize your Spotlight experience.
+Snaps submitted to Spotlight are public and other Snapchatters will be able to share them both on and off Snapchat or even ‘Remix’ them. For example, they may take your funny dance Snap and layer a reaction over it. Your Profile is where you will be able to control and see an overview of Spotlight Snaps you’ve submitted. You can also favorite Spotlight Snaps and when you do, we will add it to your favorites list and use it to personalize your Spotlight experience.
 
-As you explore and engage with more Spotlight Snaps, we will tailor your Spotlight experience and show you Spotlight Snaps we think you will like. For example, if you can’t stop watching dance challenges, we will show you more dance related Spotlight Snaps.
+As you explore and engage with more Spotlight Snaps, we will tailor your Spotlight experience and show you Spotlight Snaps we think you will like. For example, if you can’t stop watching dance challenges, we will show you more dance-related Spotlight Snaps.
 
 When you submit Snaps to Spotlight we ask you to comply with our Community Guidelines, Spotlight Terms and Spotlight Guidelines.
 
@@ -64,7 +64,7 @@ Spotlight Guidelines
 
 Memories
 
-Memories makes it easy to look back on Snaps you’ve saved, and even edit and resend them!
+Memories makes it easy to look back on Snaps you’ve saved and even edit and resend them!
 
 Memories was developed with privacy and security in mind. Early on, we recognized that just because you want to be able to look back on something, doesn’t mean that you want everyone else to be able to, too!
 
@@ -95,7 +95,7 @@ If you haven’t opened a connected app or website in 90 days, we’ll automatic
 
 Advertising
 
-We are committed to creating products that make Snapchat better for everyone, which is why our ad products are built from scratch. These include things like movie trailers in Discover, or Sponsored Filters and Lenses.
+We are committed to creating products that make Snapchat better for everyone, which is why our ad products are built from scratch. These include things like movie trailers in Discover or Sponsored Filters and Lenses.
 
 Every single person is different, and no one is going to like every ad they see. If an ad isn’t relevant to you or you don’t think it belongs on Snapchat, you can always let us know by tapping ⋮ , then tapping ⓘ to report the ad to us!
 
@@ -195,7 +195,7 @@ Cameos
 
 Cameos lets you be the star in your own short, looping videos that you can send to friends in Chat. To enable Cameos, we ask you to take a selfie to put you into fun scenes. We don’t use facial recognition software. Instead, Cameos segments the shape of your face and hair to place you into the scenes and ensure the Cameos are optimized.
 
-You have full control over your selfie, and can change and delete it, and restrict others from using your selfie in two-person Cameos, in Snapchat settings.
+You have full control over your selfie. You can change and delete it and restrict others from using your selfie in two-person Cameos in your Snapchat settings.
 
 Learn About Cameos
 
