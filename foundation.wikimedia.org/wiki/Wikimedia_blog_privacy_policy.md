@@ -10,26 +10,6 @@ For the sake of clarity, definitions in this blog Privacy Policy take on the sam
 
 Thank you!
 
-Contents
-1	What Information We Collect and What We Do With It
-1.1	Public contributions
-1.2	Non-personally identifiable information
-1.3	Personally identifying information
-1.4	Cookies and other data collection tools
-2	When We Can Share Information
-2.1	With Your Permission
-2.2	Third-Party Service Providers
-2.3	For Legal Reasons
-2.4	Transfer of WMF
-2.5	To Protect You, Ourselves, or Others
-2.6	To Learn and Experiment
-3	Information You Share with Third Party Services
-4	How Do We Protect Your Data?
-5	Transfer of Information to the United States
-6	Our Response to Do Not Track
-7	Changes to This Privacy Policy
-8	Contact Us
-9	Thank You!
 What Information We Collect and What We Do With It
 Public contributions
 
