@@ -2,23 +2,6 @@ Jump to content
 < Donor privacy policy
 This page documents the Wikimedia Foundation's donor privacy policy. You can make a donation to the Wikimedia Foundation at donate.wikimedia.org.
 English العربية català dansk Deutsch español español de América Latina français עברית magyar italiano 日本語 latviešu norsk bokmål Nederlands polski português português do Brasil română русский slovenčina svenska українська 中文（简体） 中文（繁體）
-Contents
-1	Welcome!
-2	Important Information
-3	Definitions
-4	What This Policy Covers
-5	What Information We Collect
-6	Cookies and Other Tracking Technologies
-7	Limiting Data Collection by Cookies and Other Tracking Technologies
-8	Do Not Track
-9	How We Use Donor Information
-10	Accessing Your Donor Information
-11	Sharing Donor Information
-12	How We Protect Your Donor Information
-13	How Long We Keep Your Donor Information
-14	Wikimedia Affiliates
-15	Changes to This Donor Privacy Policy
-16	Contact Us
 Welcome!
 
 Welcome to the Wikimedia Foundation's Donor Privacy Policy. The Wikimedia Foundation ("WMF") has put this policy in place to protect the privacy rights of our donors. We recognize that our donors care deeply about how their personal information is used and shared, and we value the privacy and security of our donors. This Donor Privacy Policy addresses our practices for collecting, using, maintaining, protecting, and disclosing donor information. Please carefully read this policy together with our Terms of Use. We will never sell, trade, or rent your nonpublic personal information.
