@@ -1,43 +1,11 @@
-What We Collect (and How it is Used and Shared)
-How We Protect Your Information
-Your Choices
-Your Rights
-Contact Us
+Reddit Privacy Policy
+English (US)
 Revisions
-Sep 12, 2021
-Oct 15, 2020
-Jan 10, 2020
-Jun 8, 2018
-Dec 12, 2017
-REVISIONS
-User Agreement
-Privacy Policy
-Content Policy
-Broadcasting Content Policy
-Moderator Guidelines
-Cookie Notice
-Premium and Virtual Goods Agreement
-Previews Terms of Use
-Guidelines for Law Enforcement
-Trademark Use Policy
-Embeds Terms of Use
-Transparency Report 2021
-Transparency Report 2020
-Transparency Report 2019
-Transparency Report 2018
-Transparency Report 2017
-Responsible Disclosure / Bug Bounty Program
-Privacy Policy
-Français (CA)
-Italiano
-Português (PT)
-Português (BR)
-Español (ES)
-Español (MX)
-Français (FR)
-Deutsch
-English (US)
-English (US)
+September 12, 2021
+October 15, 2020
+January 10, 2020
+June 8, 2018
+December 12, 2017
 Reddit Privacy Policy
 Effective September 12, 2021. Last Revised August 12, 2021
 
@@ -65,7 +33,6 @@ Other information
 You may choose to provide other information directly to us. For example, we may collect information when you fill out a form, participate in Reddit-sponsored activities or promotions, apply for a job, request customer support, or otherwise communicate with us.
 
 	
-		
 
 	
 Information We Collect Automatically
@@ -92,7 +59,6 @@ Other Information
 We may also use information from Apple's TrueDepth camera to provide enhanced functionality in the Reddit app camera if you choose to use it. Information from the TrueDepth camera is used in real time — we don't store this information on our servers or share it with third parties.
 
 	
-		
 
 	
 Information Collected from Other Sources
@@ -106,7 +72,6 @@ Information collected from integrations
 We also may receive information about you, including log and usage data and cookie information, from third-party sites that integrate our Services, including our embeds and advertising technology. For example, when you visit a site that uses Reddit embeds, we may receive information about the web page you visited. Similarly, if an advertiser incorporates Reddit’s ad technology, Reddit may receive limited information about your activity on the advertiser’s site or app, such as whether you bought something from the advertiser. You can control how we use this information to personalize the Services for you as described in Your Choices - Controlling Advertising and Analytics below.
 
 	
-		
 
 	
 Information Collected by Third Parties	
@@ -118,14 +83,12 @@ Audience measurement
 We partner with audience measurement companies (including Quantcast and Nielsen) to learn demographic information about the population that uses Reddit. To provide this demographic information, these companies collect cookie information to recognize your device.
 
 	
-		
 
 	
 Information Collected from Advertisers and Potential Advertisers
 If you use Reddit Ads (Reddit’s self-serve ads platform at ads.reddit.com) we collect some additional information. To sign up for Reddit Ads, you must provide your name, email address, and information about your company. If you purchase advertising services, you will need to provide transactional information as described above, and we may also require additional documentation to verify your identity. When using Reddit Ads, we may record a session replay of your visit for customer service, troubleshooting, and usability research purposes.
 
 	
-		
 
 
 We use information about you to:
@@ -201,7 +164,6 @@ Controlling Location Information
 You can control how we use location information inferred from your IP address for content recommendation purposes via the Safety and Privacy settings on your account. If you initially consent to our collection of more precise location information from your device, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.
 
 	
-		
 Your Rights
 Data Subject and Consumer Information Requests
 
@@ -278,3 +240,5 @@ Ireland
 Or:
 
 eurepresentative@reddit.com
+
+Advertisement
