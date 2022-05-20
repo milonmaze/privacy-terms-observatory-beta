@@ -1,65 +1,132 @@
 Found the internet!
 Trending today
-She-Hulk: Attorney at Law
-Official Trailer | She-Hulk: Attorney at Law | Disney+
-r/marvelstudios and more
-Madison Cawthorn
-Trump-backed Rep. Madison Cawthorn concedes North Carolina Republican primary race
-r/news and more
-Do Kwon
-South Korean politician calls for Do Kwon to attend hearing on TerraUSD's collapse.
-r/CryptoCurrency and more
-Twitter
-Twitter turns the tables on Musk, will “enforce” merger
-r/technews and more
-US Soccer Equal Pay
-USSF achieves equal pay for men, women
-r/ussoccer and more
-Finland
-The "8€ ballpoint pen" sold out online in Finland after a similar one was used to sign the application letter to NATO
-r/europe and more
+Johnny Depp
+Johnny Depp says he made waffles for fans cheering as he arrives at court for Amber Heard trial
+r/entertainment and more
+Baby Formula
+These Nine Republicans Voted Against Expanding Access to Baby Formula
+r/politics and more
+World's Most Expensive Car
+Mercedes just sold the world's most expensive car for $142 million
+r/cars and more
+Rihanna
+ASAP ROCKY AND RIHANNA WELCOME BABY BOY
+r/hiphopheads and more
+Boston Celtics
+[Post Game Thread] The Boston Celtics blow out the Miami Heat in a 127-102 win to even the series 1-1, behind a 27 point performance from Jayson Tatum.
+r/nba and more
+Kyiv
+Kyiv Zoo is once again blooming, after being closed during Russian aggression in the capital 🐒🐯🦁
+r/ukraine and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-21.9k
-r/WhitePeopleTwitter
+16.9k
+r/lotrmemes
 •Posted by
-u/Majestic-Law-144
+u/Agent4777
 3 hours ago
 2
 Join
-Mixed emotions
-242 Comments
+The meaning of haste
+Shitpost
+116 Comments
 Share
 Save
-16.5k
+83.8k
+r/technology
+•Posted by
+u/Austin63867
+16 hours ago
+2
+& 79 More
+SpaceX Paid $250,000 to a Flight Attendant Who Accused Elon Musk of Sexual Misconduct
+Business
+businessinsider.com/spacex...
+Join
+8.3k Comments
+Share
+Save
+33.4k
 r/MadeMeSmile
-•Posted by
-u/_Xyreo_
-3 hours ago
+Crossposted by
+u/NounsAndWords
+4 hours ago
+3
+7
 2
-4
 Join
-Ryan Reynolds replies to a burn victim
-208 Comments
-Share
-Save
-18.6k
-r/Eldenring
-•Posted by
-u/EnemyStandUser13
-3 hours ago
+Father's reaction to his son's first goal
+ Wholesome Moments 
+r/aww
+•
+Posted by
+u/NewCarthagea
+2 years ago
+38
 2
-8
-& 7 More
-Join
-The undisputed winner
-Humor
-500 Comments
+38
+80
+& 146 More
+Father's reaction to his son's first goal
+138k points1.4k comments
+392 Comments
 Share
 Save
 Top livestream
+71.5k
+r/news
+•Posted by
+u/StarshipSentinel
+13 hours ago
+2
+& 40 More
+Report: Elon Musk exposed himself to SpaceX flight attendant, according to documents
+chron.com/news/h...
+Join
+6.9k Comments
+Share
+Save
+16.9k
+r/Damnthatsinteresting
+•Posted by
+u/avhir0ck
+3 hours ago
+Join
+Tilly Smith, 10 y/o girl is a hero who is credited with saving the lives of hundreds of tourists during Tsunami hit Thailand
+Image
+366 Comments
+Share
+Save
+30.1k
+r/LifeProTips
+•Posted by
+u/m2themichael
+18 hours ago
+3
+3
+& 3 More
+Join
+LPT: Become friends with the IT Department at work, sometimes they can hook you up with the best tech available
+Careers & Work
+
+Sincerely, guy in marketing with a new ultra wide 4K monitor.
+
+1.4k Comments
+Share
+Save
+21.8k
+r/politics
+•Posted by
+u/Sweep145
+15 hours ago
+Every Republican — and 4 Democrats — vote against House bill to stop Big Oil's price gouging on gas
+salon.com/2022/0...
+Join
+1.2k Comments
+Share
+Save
 Advertisement
