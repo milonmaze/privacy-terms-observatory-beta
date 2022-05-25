@@ -81,6 +81,6 @@ Canadian Users
 
 The file containing your personal information is maintained on our servers or those of our service providers and will be accessible authorized employees, representatives and agents. You may request access to or correction of the personal information in our custody or control, or ask any questions about our personal information handling practices (including our use of service providers outside of Canada) by writing to our Chief Privacy Officer at:
 
-100 Consilium Place, Suite 1700
+255 Consumers Road, Suite 300
 Toronto (Ontario)
-M1H 3E3
+M2J 1R4
