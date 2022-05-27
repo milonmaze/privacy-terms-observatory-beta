@@ -9,7 +9,7 @@ Email or phone	Password
 Forgot account?
 Sign Up
 Full Data Policy
-The California Consumer Privacy Act is effective as of January 1, 2020. California residents can learn more about their privacy rights here.
+We've updated our policy. Read it here.
 What kinds of information do we collect?
 How do we use this information?
 How is this information shared?
