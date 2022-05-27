@@ -50,7 +50,7 @@ This Notice is subject to change. We update this notice periodically to comply w
 Download our U.S. Online Privacy Notice in English (PDF)
 Download our U.S. Online Privacy Notice in Spanish (PDF)
 
-Expand All
+Expand all
 panels
 Our Online Privacy Practices
 , closed
