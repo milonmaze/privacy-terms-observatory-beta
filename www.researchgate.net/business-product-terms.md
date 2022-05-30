@@ -1,9 +1,5 @@
 Please wait...
 We are checking your browser... www.researchgate.net
-  
-
-Please stand by, while we are checking your browser...
-
 Why do I have to complete a CAPTCHA?
 
 Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.
@@ -16,4 +12,4 @@ If you are at an office or shared network, you can ask the network administrator
 
 Another way to prevent getting this page in the future is to use Privacy Pass. You may need to download version 2.0 now from the Chrome Web Store.
 
-Cloudflare Ray ID: 70f61f140c6596ed • Your IP: 143.198.58.73 • Performance & security by Cloudflare
+Cloudflare Ray ID: 71380b539d6724f3 • Your IP: 143.198.58.73 • Performance & security by Cloudflare
