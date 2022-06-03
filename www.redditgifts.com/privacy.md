@@ -1,82 +1,109 @@
 Found the internet!
 Trending today
-Nadal vs. Djokovic
-Rafael Nadal Defeats Novak Djokovic In Four-Set Thriller In French Open Quarterfinal
-r/sports and more
-Germany Train Fare Cuts
-Germany Slashes Summer Train Fares More Than 90 Percent to Curb Driving, Save Fuel
-r/Futurology and more
-Uvalde Shooting
-'Very angry': Uvalde locals grapple with school chief's role
-r/news and more
-Val Demings
-Rep. Val Demings makes it official — files to run against Republican U.S. Sen. Marco Rubio
+Ford
+Ford Is Going to 100% Online, Fixed-Price Sales For EVs
+r/technology and more
+Ron DeSantis
+DeSantis moves to ban transition care for transgender youth, Medicaid recipients
 r/politics and more
-Alexey Navalny
-Putin critic Alexei Navalny says he faces new criminal charge and up to 15 more years in prison
-Rocket Supplies to Ukraine
-Confirmed: Biden announces US will send advanced Rocket systems to Ukraine
-r/UkrainianConflict and more
+Tesla
+Elon Musk Says Tesla Has Paused All Hiring Worldwide, Needs to Cut Staff by 10 Percent
+r/technology and more
+Platinum Jubilee
+Kim Jong-Un has sent a letter 'congratulating the Queen and the British people' for platinum jubilee celebrations
+Tropical Storm
+LIVE UPDATES: Tropical storm watches in effect for parts of Central Florida
+r/orlando and more
+Joe Biden
+Biden calls for Congress to ban assault weapons, high-capacity magazines
+r/politics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-94.0k
-r/StarWars
+20.1k
+r/worldnews
 •Posted by
-u/thauron93
-13 hours ago
-4
-& 167 More
+u/JonJardineDR
+4 hours ago
+Vladimir Putin has taken 200,000 of Ukraine's children, claims Zelensky
+Russia/Ukraine
+scottishdailyexpress.co.uk/news/w...
 Join
-A personal message from Ewan McGregor.
-General Discussion
-0:00
-1:09
-24 Comments
+1.1k Comments
 Share
 Save
-156k
-r/Damnthatsinteresting
-•Posted by
-u/jcepiano
-17 hours ago
-4
-13
-& 292 More
-Join
-This man spoke with every parent in Uvalde, Texas to build personalized caskets for all 19 children who were killed. His name is Trey Ganem
-Image
-4.2k Comments
-Share
-Save
-16.1k
+18.1k
 r/AskReddit
 •Posted by
-u/Lavender_Philosophy
-16 hours ago
+u/the_ides_of_farts
+12 hours ago
 6
 2
 5
 Join
-What is a red flag that is way too common in dating?
-nsfw
-5.3k Comments
+People older than 30, what are some annoying things that young people do?
+14.7k Comments
 Share
 Save
-28.7k
-r/pics
+25.1k
+r/funny
 •Posted by
-u/Olya_roo
+u/kalvinoz
 3 hours ago
-7
-& 23 More
+2
+5
+& 9 More
 Join
-My family celebrating my mom’s birthday, after we got reunited since the war in Ukraine
-271 Comments
+My loving wife spent hours on this Harry Potter broom cake for our kid and I'm a horrible husband
+nsfw
+1.0k Comments
 Share
 Save
 Top livestream
+80.8k
+r/iamatotalpieceofshit
+•Posted by
+u/wasgehtlan
+17 hours ago
+12
+& 26 More
+Join
+POS destroyed my best friends moment. He asked for permission beforehand.
+7.8k Comments
+Share
+Save
+51.1k
+r/technology
+•Posted by
+u/esporx
+15 hours ago
+5
+3
+& 5 More
+Ford Is Going to 100% Online, Fixed-Price Sales For EVs
+Transportation
+roadandtrack.com/news/a...
+Join
+4.6k Comments
+Share
+Save
+8.0k
+r/residentevil
+•Posted by
+u/Neyo708
+16 hours ago
+2
+5
+3
+10
+Join
+Resident Evil 4 - State of Play June 2022 Announcement Trailer | PS5 Games
+Official news
+youtu.be/-L1EuR...
+1.8k Comments
+Share
+Save
 Advertisement
