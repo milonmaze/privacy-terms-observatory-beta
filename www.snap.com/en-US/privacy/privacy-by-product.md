@@ -93,6 +93,20 @@ Snap Kit is a set of developer tools that let you easily share Snaps, Stories, a
 
 If you haven’t opened a connected app or website in 90 days, we’ll automatically remove its access, but you may need to contact the developer if you have questions about any data that has already been shared.
 
+Size and Style
+
+Our size and style solutions use your measurements, past purchases, and returns to recommend and advertise clothing and footwear that fit you. We use your measurements as they are — and we don’t infer anything else.
+
+2D Try On lets you visualize what new clothes and footwear might look like on you. Use the Photoshoot lens on Snapchat or choose from an existing photo to automatically generate — without human review — a 2D Try On Image showing you wearing a selected product. These images may be saved to your Snapchat account and device if using 2D Try On on Snapchat, but are otherwise promptly deleted.
+
+Our Style Finder gathers data about the sort of clothes and footwear you like at partner shops to recommend and advertise new items you might be interested in.
+
+When shopping for clothes and footwear on partner websites, or using certain browsers, you may be asked whether you agree to analytics and advertising data collection.
+
+We’ll only collect personal data about your clothing and footwear shopping if you agree or you ask us to provide you with our size and style solutions.
+
+Learn About Size and Style Privacy
+
 Advertising
 
 We are committed to creating products that make Snapchat better for everyone, which is why our ad products are built from scratch. These include things like movie trailers in Discover or Sponsored Filters and Lenses.
