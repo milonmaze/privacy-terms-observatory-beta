@@ -3,7 +3,6 @@ PRIVACY POLICY
 This Privacy Policy was last updated on May 14, 2021.
 
 Table of Contents
-
 The Information We Collect
 How We Use the Information We Collect
 Disclosure of Information.
@@ -23,7 +22,7 @@ In this Policy, “personal information” means information that identifies, re
 
 Individuals from different countries or jurisdictions may have different rights with respect to their personal information. In particular, the European Union Privacy Policy applies to individuals in the European Union, United Kingdom, Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand in lieu of this Privacy Policy. We reserve the ability to limit our response to any request to exercise your rights based on the law that is applicable to you.
 
-The Information We Collect
+1. The Information We Collect
 
 Through the Services, you can, among other activities, order publications and products, including print and digital subscriptions and newsletters; sign up for events; engage in various activities including entering contests or sweepstakes, voting in polls or otherwise expressing an opinion or participate in one of our online forums or communities.
 
@@ -62,12 +61,11 @@ Professional or employment-related information: We collect professional or emplo
 Education information: We collect education information you voluntarily provide.
 Geolocation Data: We collect your IP address automatically when you use our Services, from which we or external parties operating on our behalf may be able to determine your general location. If you are using our app, with your consent, we or our authorized service providers and partners also may use precise geolocation technology such as GPS or Wi-Fi triangulation or mobile Bluetooth beacon technology to collect information about the exact location of your mobile device.
 Inferences drawn to create a profile about a consumer reflecting the consumer’s preferences or characteristics: We or third parties operating on our behalf may analyze your actual or likely preferences based on the information we gather about you as described above.
-How We Use the Information We Collect
+2. How We Use the Information We Collect
 
 We may use and/or disclose the information we collect for the following purposes:
 
 Provide the Services:
-
 Deliver content and fulfill requests for our publications, products, or services, including on our websites and in our apps. For example, when you subscribe to one of our publications or newsletters, we use the information we collect to deliver print issues and fulfill digital subscriptions and newsletters.
 Establish and administer your account, including conducting billing and invoicing, contacting you about the expiry of your subscription and sending you service messages about your subscription. For example, once you are subscribed, we may store your subscription information, including its start date, renewal date, pricing, publication, and any customer service contacts you may have with us.
 Authenticate access to your account. For example, you may provide us with a username and password to get access to your account.
@@ -76,29 +74,21 @@ Provide technical support and assure quality of customer service interactions.
 Facilitate hardware and software upgrades for devices and systems.
 Enable your participation in surveys, sweepstakes, contests, and promotions.
 Enable your participation in community forums.
-
 Communicate with You:
-
 Respond to your inquiries.
 Personalize communications.
 Send you service-related announcements, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
-
 Make Improvements to Our Products and Services:
-
 Identify and develop new products and services.
 Improve the design of our Services.
 Understand how our Services are used, including by creating measurement and analytics reports.
-
 Provide Recommendations and Deliver Relevant Advertising:
-
 Offer products, programs or services that may be of interest to you, and keep you informed of new happenings at Time.
 Market our Services.
 Determine which content to recommend to you.
 Send you promotional communications for the Services and other products and services we think may be of interest to you, including by disclosing contact information to third parties that may want to market products or services to you.
 Deliver more relevant advertising.
-
 Investigate Theft or Other Illegal Activities and Ensure a Secure Online Environment:
-
 Detect the unauthorized reception, use, or abuse of the Service.
 Protect you and other subscribers from fraudulent, abusive, unlawful use of, or subscription to, the Service.
 Protect our rights, our personnel, and our property.
@@ -106,7 +96,7 @@ Comply with applicable law.
 
 We and our partners use cookies, tags, pixels, web beacons, or other means of collecting information automatically from you. Please see our Cookies Policy for more information.
 
-Disclosure of Information
+3. Disclosure of Information
 
 Publicly: If you choose to submit content (e.g., a “letter to the editor” or an online review), we may publish your name, screen name and other information you have provided to us, which will be public.
 
@@ -134,11 +124,11 @@ Other External Parties: We may disclose personally identifiable information, inc
 
 Authorities: We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
 
-Third Party Websites
+4. Third Party Websites
 
 Our Services provide links to third party websites or offerings where data privacy practices may be different to that of Time. The inclusion of any link does not imply our endorsement of any other company, its websites, or its products and/or services. These linked websites or offerings have separate and independent privacy policies, which we recommend you read carefully. We have no control over such websites or offerings and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites or offerings may collect, use, disclose, or otherwise treat your personal information.
 
-Your California Privacy Rights: Notice to California Customers
+5. Your California Privacy Rights: Notice to California Customers
 
 California Shine the Light: California’s “Shine the Light” law, Civil Code Section 1798.83, requires businesses that disclose personal information to third parties for those third parties’ direct marketing purposes to give California customers the ability to opt-out of such disclosure. California Residents may exercise their opt-out right by going to our California Do Not Sell Page.
 
@@ -158,11 +148,11 @@ Categories of personal information we “sell”: We may “sell” any of the c
 
 You can also make a CCPA access, deletion or “do not sell” request by calling the following toll-free number: +1 (888) 914-9661 PIN 430210.
 
-Special Information for Nevada Residents
+6. Special Information for Nevada Residents
 
 Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to other companies who will sell or license their information to others. We disclose contact information to third parties that may want to market products or services to you. To opt-out of such sales, please email us at privacy@time.com.
 
-Your Opt-Out Choices
+7. Your Opt-Out Choices
 
 Verification Procedures: We must verify your identity for everyone’s protection. To do so, we may require you to provide us with verification information prior to accessing any records containing personal information about you. We do this by:
 
@@ -176,7 +166,6 @@ We will use the information you provide for verification only for the purpose of
 Your Account and Payment Information: If you are a print subscriber, please visit the account page to update your contact information and payment method.
 
 Marketing and Other Communications:
-
 If you wish to unsubscribe from receiving future email marketing from Time, please use the unsubscribe link that appears at the bottom of our marketing emails.
 If you are a newsletter subscriber, you may unsubscribe using the unsubscribe options in the newsletter emails.
 If you wish to opt-out of sharing of your personal information, including contact information, with third parties for marketing purposes, please email us here.
@@ -186,7 +175,6 @@ Please note that even if you opt out of receiving marketing communications from 
 Opt-out of “sale”: If you are a California resident, you have the right to opt out of our “sale” of personal information to third parties. Please see “ Your California Privacy Rights: Notice to California Customers ” above for a description of your rights and information on how to opt out.
 
 Cookie Management, Analytics, Personalized Advertising, and Do Not Track:
-
 Information about our use of cookies and other tracking technologies is available in our Cookie Policy.
 You can control cookies using your web browser’s settings. If you delete your cookies or if you set your browser to decline cookies, some features of the Services may not be available, work, or work as designed.
 You can use our partners’ links above to learn more about the options they may make available to opt-out of their tracking technologies.
@@ -199,23 +187,23 @@ If you delete your cookies, you may also delete your opt-out preferences.
 
 Your browser or device may include “Do Not Track” functionality. At this time, Time does not respond to browser “Do Not Track” signals.
 
-Security of Personal Information
+8. Security of Personal Information
 
 We have put in place administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
 
-Retention of Personal Information
+9. Retention of Personal Information
 
 We will retain your personal information while you have an account with us and thereafter for as long as we have a legitimate need to retain it. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity.
 
-Special Note for Parents
+10. Special Note for Parents
 
 The site you are visiting is one of the Time general audience sites and is not intended for use by children. If you are under the age of 16 please do not submit any personal information through this site.
 
-Changes to this Privacy Policy
+11. Changes to this Privacy Policy
 
 This Privacy Policy may be updated periodically to reflect changes to our information practices. The revised Privacy Policy will be posted on this website with the date of the last modification, and we will notify of the changes if required by the applicable law. We will treat your information in accordance with the privacy policy in place at the time of collection of such information, or as you otherwise indicate your preferences. We encourage you to check whenever you use our Services to see if the policy has been updated.
 
-How to Contact Us
+12. How to Contact Us
 
 If you have any questions or concerns about this Privacy Policy, our data practices, or our compliance with applicable law please contact us by writing to us at privacy@time.com, or at:
 
