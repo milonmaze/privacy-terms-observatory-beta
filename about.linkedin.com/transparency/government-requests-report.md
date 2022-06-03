@@ -9,7 +9,7 @@ We respect the laws that apply to us in the countries where we operate. In the U
 
 We never provide information to a government to fulfill a member data request without first trying to notify the individual member, except when applicable law prohibits us from doing so. We may make exceptions in certain emergencies.
 
-This report covers the six-month period between January 1 and June 30, 2021.
+This report covers the six-month period between July 1 and December 31, 2021.
 
 
 This report covers:
@@ -34,6 +34,41 @@ Global content removal requests
 2014
 2013
 2012
+ 	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
+	Accounts for which LinkedIn provided some data [2]
+Argentina	4	4	0%	0
+Australia	1	1	0%	0
+Belgium
+	8	9	50%	5
+Canada
+	1	1	0%	0
+China	4	4	50%	2
+Czech Republic
+	1	1	100%	1
+France
+	37	43	65%	27
+Germany
+	79	92	77%	69
+Greece	3	3	33%	1
+Hungary	1	1	0%	0
+India
+	46	49	0%	0
+Ireland	1	1	0%	0
+Italy
+	8	9	0%	0
+Malta	1	1	0%	0
+Mexico	1	1	0%	0
+Netherlands
+	11	23	82%	12
+New Zealand
+	1	1	100%	1
+Poland	5	5	20%	1
+Singapore	1	1	0%	0
+Spain	12	12	33%	4
+Switzerland	6	6	67%	4
+United Kingdom	15	20	47%	8
+United States	302	1190	83%	676
+Total	549	1478	67%	811
  	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
 	Accounts for which LinkedIn provided some data [2]
 Argentina	1	1	0%	0
@@ -96,6 +131,17 @@ Breakdown of U.S. government requests for data
 2015
 2014
 2013
+Requests [1]	302
+Accounts subject to requests	1,190
+Requests for which LinkedIn provided some data	83%
+Subpoenas [2]	73%
+Search warrants [3]	9%
+Court orders [4]	18%
+Other [5]	1%
+National security letters received [6]	0-499
+National security letters (accounts subject to request)
+	0-499
+FISA letters [6]	0-499
 Requests [1]	362
 Accounts subject to requests	2,349
 Requests for which LinkedIn provided some data	83%
@@ -136,6 +182,11 @@ Government requests for content removal
 2019
 2018
  	Requests	Action taken	Percentage action taken
+China	12	12	100%
+India	5	4	80%
+Turkey	10	10	100%
+Totals	27	26	96%
+ 	Requests	Action taken	Percentage action taken
 China	31	30	97%
 India	7	4	57%
 Turkey	24	23	96%
@@ -150,13 +201,9 @@ Professional Community Policies
 
 Law Enforcement Guidelines
 
-Guide: Features to Help You Control Your Feed and Conversations
+How our content abuse systems work to keep members safe
 
-Strengthening our Professional Community Policies to Keep Members Safe
-
-Our Commitment to Safe Conversations
-
-Working to Keep Our Community Safe, Trusted, and Professional
+How we address inauthentic activity
 
 Help Center: Recognizing and Reporting Scams
 
@@ -165,5 +212,7 @@ Help Center: Government Requests for Data
 What We Mean by Equitable Outcomes for the Global Workforce
 
 Our approach to Responsible AI
+
+Keeping your feed relevant and productive
 
 dismiss
