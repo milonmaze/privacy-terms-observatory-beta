@@ -1,7 +1,7 @@
 Skip to main content
 Cookie Policy
 
-Effective on January 20, 2022
+Effective on June 3, 2022
 
 At LinkedIn, we believe in being clear and open about how we collect and use data related to you. This Cookie Policy applies to any LinkedIn product or service that links to this policy or incorporates it by reference. We use cookies and similar technologies such as pixels, local storage and mobile ad IDs (collectively referred to in this policy as “cookies”) to collect and use data as part of our Services, as defined in our Privacy Policy (“Services”) and which includes our sites, communications, mobile applications and off-site Services, such as our ad services and the “Apply with LinkedIn” and “Share with LinkedIn” plugins or tags. In the spirit of transparency, this policy provides detailed information about how and when we use these technologies. 
 
@@ -105,7 +105,7 @@ For further information regarding the use of cookies for advertising purposes, p
 
  
 
-As noted in Section 1.4 of our Privacy Policy, outside Designated Countries, we also collect (or rely on others who collect) information about your device where you have not engaged with our Services (e.g., as ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness.
+As noted in Section 1.4 of our Privacy Policy, outside Designated Countries, we also collect (or rely on others who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness.
 
  
 
@@ -126,7 +126,7 @@ We also use these technologies to provide aggregated information to our customer
 
  
 
-If you are a LinkedIn member but logged out of your account on a browser, LinkedIn may still continue to log your interaction with our Services on that browser for up to 30 days in order to generate usage analytics for our Services. We may share these analytics in aggregate form with our customers.
+If you are a LinkedIn member but logged out of your account on a browser, LinkedIn may still continue to log your interaction with our Services on that browser until the expiration of the cookie in order to generate usage analytics for our Services. We may share these analytics in aggregate form with our customers.
 
 
 
