@@ -1,109 +1,99 @@
 Found the internet!
 Trending today
-Ford
-Ford Is Going to 100% Online, Fixed-Price Sales For EVs
-r/technology and more
-Ron DeSantis
-DeSantis moves to ban transition care for transgender youth, Medicaid recipients
+Jan 6
+Ready For Prime Time: Jan. 6 Panel To Reportedly Air Ivanka Trump, Jared Kushner Videotapes
 r/politics and more
-Tesla
-Elon Musk Says Tesla Has Paused All Hiring Worldwide, Needs to Cut Staff by 10 Percent
+Morbius
+Sony believed it was Morbin' Time with all the Morbius memes online, re-releasing the film in 1000+ theaters. But the studio has been trolled by fans, as it grossed just $85K on Friday, for a $73.4M domestic total. Won’t even reach $74M.
+r/boxoffice and more
+Oil Market
+Electric Vehicles are measurably reducing global oil demand; by 1.5 million barrels a dayLEVA-EU
 r/technology and more
-Platinum Jubilee
-Kim Jong-Un has sent a letter 'congratulating the Queen and the British people' for platinum jubilee celebrations
-Tropical Storm
-LIVE UPDATES: Tropical storm watches in effect for parts of Central Florida
-r/orlando and more
-Joe Biden
-Biden calls for Congress to ban assault weapons, high-capacity magazines
-r/politics and more
+Animations
+A short animation: the Copernican Revolution
+r/space and more
+Uvalde
+Uvalde mom who saved kids from school shooting says police threatened her
+r/nottheonion and more
+Ukraine
+A proper reply to Makron's "Russia must not be humiliated in Ukraine"
+r/ukraine and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-20.1k
-r/worldnews
+18.1k
+r/CasualUK
 •Posted by
-u/JonJardineDR
+u/Sydney_brit
 4 hours ago
-Vladimir Putin has taken 200,000 of Ukraine's children, claims Zelensky
-Russia/Ukraine
-scottishdailyexpress.co.uk/news/w...
+3
+3
+2
 Join
-1.1k Comments
+Helping others…
+293 Comments
 Share
 Save
-18.1k
+23.8k
+r/PrequelMemes
+•Posted by
+u/fishyboi360
+4 hours ago
+3
+2
+Join
+he found out only half of the series is left
+411 Comments
+Share
+Save
+18.2k
 r/AskReddit
 •Posted by
-u/the_ides_of_farts
-12 hours ago
-6
+u/CondomLeavesARice
+15 hours ago
+10
+4
+4
 2
-5
 Join
-People older than 30, what are some annoying things that young people do?
-14.7k Comments
-Share
-Save
-25.1k
-r/funny
-•Posted by
-u/kalvinoz
-3 hours ago
-2
-5
-& 9 More
-Join
-My loving wife spent hours on this Harry Potter broom cake for our kid and I'm a horrible husband
-nsfw
-1.0k Comments
+What show had you hooked after 1 episode?
+17.1k Comments
 Share
 Save
 Top livestream
-80.8k
-r/iamatotalpieceofshit
+14.6k
+r/aww
 •Posted by
-u/wasgehtlan
-17 hours ago
-12
-& 26 More
-Join
-POS destroyed my best friends moment. He asked for permission beforehand.
-7.8k Comments
-Share
-Save
-51.1k
-r/technology
-•Posted by
-u/esporx
-15 hours ago
-5
+u/Aerothaw420
+4 hours ago
 3
-& 5 More
-Ford Is Going to 100% Online, Fixed-Price Sales For EVs
-Transportation
-roadandtrack.com/news/a...
-Join
-4.6k Comments
-Share
-Save
-8.0k
-r/residentevil
-•Posted by
-u/Neyo708
-16 hours ago
 2
-5
-3
-10
+& 9 More
 Join
-Resident Evil 4 - State of Play June 2022 Announcement Trailer | PS5 Games
-Official news
-youtu.be/-L1EuR...
-1.8k Comments
+So cute just wanna eat you up
+631 Comments
+Share
+Save
+23.1k
+r/tifu
+•Posted by
+u/laskothrowaway
+17 hours ago
+3
+Join
+TIFU by assuming my boyfriend of 2 years was Chinese when he was Vietnamese.
+S
+
+I think this needs to be clarified before going into how this came to be. No our relationship didn't change and its a funny moment. This TIFU really came to be because neither of us put that much importance to our ethnic background.
+
+My boyfriend's last name is Ho. Ho is used in both Vietnamese and Chinese. This is the beginning of the mistaken assumption I made. Me and him are Asian-American so we lost a lot of the nuances where the minor differences between Vietnamese and Chinese would show. When we would go to Vietnamese restaurants he'd generally order in English. Sometimes he'd order in "Vietnamese" but just the number. My first fuck up was assuming that he was simply just copying off me and nailed the pronunciation; I'm Vietnamese. I've met his parents and been to his family house. His parents came when they were 10 and became super Americanized. No accent in their English, their house looks more like a Asian-American house, and they only speak English with each other. Pretty much I'm assuming they're Chinese. My fuck up came to light when I happen to be at their house when his Aunt visits. His Aunt is not Americanized like his parents and I quickly notice a Vietnamese-English accent. Then I was completely shocked when I saw my bf parents and bf fully conversing in Vietnamese with his Aunt. I pretty much screamed you guys are Vietnamese. My boyfriend and his parents proceeded to laugh because they thought I had always known.
+
+TL;DR Dated my boyfriend for 2 years. Assumed he was Chinese but find out he's Vietnamese.
+
+1.1k Comments
 Share
 Save
 Advertisement
