@@ -40,6 +40,7 @@ Argentina	4	4	0%	0
 Australia	1	1	0%	0
 Belgium
 	8	9	50%	5
+Brazil*	3	6	100%	6
 Canada
 	1	1	0%	0
 China	4	4	50%	2
@@ -68,7 +69,10 @@ Spain	12	12	33%	4
 Switzerland	6	6	67%	4
 United Kingdom	15	20	47%	8
 United States	302	1190	83%	676
-Total	549	1478	67%	811
+Total	552	1484	67%	817
+
+*An earlier version of this report inadvertently omitted the data shown in the table above for Brazilian requests made to LinkedIn during the reporting period of July through December 2021.
+
  	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
 	Accounts for which LinkedIn provided some data [2]
 Argentina	1	1	0%	0
