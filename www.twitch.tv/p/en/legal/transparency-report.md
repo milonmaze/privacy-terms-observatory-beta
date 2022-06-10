@@ -5,7 +5,11 @@ Transparency Report
 
 Transparency Reporting is an important measure of accountability that provides insight about how we are improving safety on Twitch.
 
-Safety at Twitch
+H2 2021 Transparency Report
+
+H2 2021 Transparency Report
+
+H1 2021 Transparency Report
 Safety Philosophy
 
 Twitch is a service that was built to encourage users to express themselves and entertain one another,  but we also want our community to be, and feel, safe. Our Community Guidelines attempt to balance these important needs, by allowing users to express themselves but without saying or doing anything that is harmful to others (or illegal). Our goal is to foster a community that supports and sustains creators, provides a welcoming and entertaining environment for viewers, and eliminates illegal, negative and harmful interactions.
@@ -46,7 +50,6 @@ Viewer-Level Safety 
 
 In addition to the tools that we provide creators and their mods, we also want viewers to be able to customize the safety of their experience. To enable that, we provide viewers with features - such as mature flags, chat filters, and blocking other users -  that they can use to customize content and interactions they encounter across the service. 
 
-H1 2021 Transparency Report
 H1 2021 Safety Updates 
 
 Community Guidelines: In H1 2021, we made two updates to our Community Guidelines aimed at reducing the risk of severe harms to our community. These new policies address (1) harms that occur off of Twitch, and (2) the risk of severe harms that may occur from influential individuals’ use of Twitch:
@@ -345,9 +348,9 @@ Twitch complies with data requests from law enforcement around the world in rela
 
 
 
-Subpoenas and preservation requests processed by Twitch increased 37% in H2. This is within the expected volumes of valid Subpoenas/Preservation Holds we have received from Law Enforcement.   
+Subpoenas and preservation requests processed by Twitch increased 37% in H2. This is within the expected volumes of valid Subpoenas/Preservation Holds we have received from Law Enforcement.  
 
-Safety at Twitch
+H2 2021 Transparency Report
 H1 2021 Transparency Report
 2020 Transparency Report
 Company
