@@ -63,7 +63,6 @@ Term Notes
 Requests & Alerts
 GM Financial Right Notes®
 News Releases
-FEEDBACK
 Home Privacy and Security Online Privacy Policy
 Online Privacy Policy
 
