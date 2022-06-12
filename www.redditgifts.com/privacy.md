@@ -1,104 +1,107 @@
 Found the internet!
 Trending today
-Ryan Kelley
-FBI: Gubernatorial candidate Ryan Kelley arrested, home searched
-r/news and more
-Gas Prices
-Gas prices hit $5 national average after rapid rise
-r/news and more
-Electrical Car Charging Stations
-Biden administration wants to standardize electric vehicle charging, like gas stations
-r/politics and more
-Russian Trials in Ukraine
-Britons sentenced to death after ‘show trial’ in Russian-occupied Ukraine
-r/ukraine and more
-PGA Suspends LIV Golfers
-PGA Tour suspends all LIV golfers, both present and future
-r/golf and more
-Jan. 6 Committee
+Pride
+Patriot Front showed up at Pride event in Idaho in the back of an Uhaul truck and got arrested right away.
+r/PublicFreakout and more
+Donald Trump
+My neighbor took down his trump sign today
+r/WhitePeopleTwitter and more
+Billy Kametz
+Billy Kametz, the voice actor for Ferdinand, has passed away
+r/FireEmblemThreeHouses and more
+Baku
+spoiler
+Winner of the Baku F2 Feature Race is...
+r/formula1 and more
+Tesla
+830,000 Teslas with Autopilot under NHTSA Investigation, Recall Possible
+r/technology and more
+Ukraine
+Ukraine fears western support will fade as media loses interest in the war
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-9.9k
-PINNED BY MODERATORS
-r/OnePiece
+75.9k
+r/MurderedByWords
 •Posted by
-u/Kirosh2
-15 hours ago
-40
-53
-& 47 More
-Join
-One Piece: Chapter 1052
-Current Chapterspoiler
-10.6k Comments
-Share
-Save
-14.5k
-r/rarepuppers
-•Posted by
-u/giving_metre
-3 hours ago
-3
-5
-Join
-You Don't Love Me Like You Used To When I Was Small...
-155 Comments
-Share
-Save
-15.8k
-r/AskReddit
-•Posted by
-u/Specktakles88
-13 hours ago
-5
-6
+u/the-co1ossus
+21 hours ago
 2
+3
+& 141 More
 Join
-What do most people not realize can seriously f*ck you up?
-nsfw
-9.2k Comments
+There are truth bombs and then there are truth ICBMs
+4.9k Comments
 Share
 Save
-42.1k
-r/WatchPeopleDieInside
+13.3k
+r/Superstonk
 •Posted by
-u/DrinkinDoughnuts
-17 hours ago
-9
-8
-9
-Join
-"the happiest place on earth"
-4.2k Comments
-Share
-Save
-14.6k
-r/interestingasfuck
-•Posted by
-u/IASIPxIASIP
+u/canhazreddit
 3 hours ago
+16
+& 54 More
+Ryan Cohen on Twitter: Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other
+📳Social Media
+twitter.com/ryanco...
 Join
-Happened today in Greece - A dog puts a bear in its place
-/r/ALL
-497 Comments
+523 Comments
 Share
 Save
-28.6k
+92.9k
 r/PublicFreakout
 •Posted by
-u/amirsadeghi
-13 hours ago
-2
-3
-& 24 More
+u/pantherwhitecat
+17 hours ago
+4
+& 66 More
 Join
-Full 12-minute video of previously unreleased videos of January 6 insurrection
-📌Follow Up
-4.1k Comments
+Patriot Front showed up at Pride event in Idaho in the back of an Uhaul truck and got arrested right away.
+Patriot Front
+0:00
+0:43
+9.3k Comments
+Share
+Save
+8.1k
+r/AskReddit
+•Posted by
+u/Zn4rkz
+12 hours ago
+2
+2
+Join
+What is your kink you wish you didn't have?
+nsfw
+4.8k Comments
+Share
+Save
+15.2k
+r/ProgrammerHumor
+•Posted by
+u/advaith82
+4 hours ago
+2
+Join
+Programmers in company's team building events
+172 Comments
+Share
+Save
+41.0k
+r/mildlyinteresting
+•Posted by
+u/djcuvi
+16 hours ago
+2
+7
+3
+Join
+Banned book section at a chain bookstore
+OC
+4.5k Comments
 Share
 Save
 Advertisement
