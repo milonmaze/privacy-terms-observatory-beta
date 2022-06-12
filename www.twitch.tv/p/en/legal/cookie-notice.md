@@ -24,6 +24,7 @@ Modern Day Slavery Statement
 Events Code Of Conduct
 Accessibility Statement
 Transparency Report
+Inhalte auf Twitch Entdecken
 Contact Us
 Advertising
 Blog
