@@ -1,107 +1,108 @@
 Found the internet!
 Trending today
-Pride
-Patriot Front showed up at Pride event in Idaho in the back of an Uhaul truck and got arrested right away.
-r/PublicFreakout and more
-Donald Trump
-My neighbor took down his trump sign today
-r/WhitePeopleTwitter and more
-Billy Kametz
-Billy Kametz, the voice actor for Ferdinand, has passed away
-r/FireEmblemThreeHouses and more
-Baku
-spoiler
-Winner of the Baku F2 Feature Race is...
-r/formula1 and more
-Tesla
-830,000 Teslas with Autopilot under NHTSA Investigation, Recall Possible
+Joe Biden
+Democrats: Biden must drop the word ‘rational’ when talking about Republicans
+r/politics and more
+John Oliver
+John Oliver Rips Apple, Google, and Amazon for Stifling Innovation - Rolling Stone
 r/technology and more
-Ukraine
-Ukraine fears western support will fade as media loses interest in the war
+Xbox & Bethesda Showcase
+Full Lineup of Xbox/Bethesda Game Pass Games Coming Over the Next 12 Months
+r/xboxone and more
+Recession
+Crypto markets lose $100B as recession threats loom large.
+r/CryptoCurrency and more
+Tony Awards
+Jennifer Hudson Lands Historic EGOT Status At The 2022 Tony Awards
+r/popheads and more
+Patriot Front
+Sheriff's Office releases names and faces of 31 Patriot Front members
+r/JusticeServed and more
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-75.9k
-r/MurderedByWords
+85.8k
+r/news
 •Posted by
-u/the-co1ossus
-21 hours ago
+u/likebudda
+15 hours ago
 2
-3
-& 141 More
+& 46 More
+Sheriff's Office releases names of 31 Patriot Front members arrested in Saturday bust
+spokesman.com/storie...
 Join
-There are truth bombs and then there are truth ICBMs
-4.9k Comments
+7.8k Comments
 Share
 Save
-13.3k
-r/Superstonk
+16.5k
+r/Damnthatsinteresting
 •Posted by
-u/canhazreddit
+u/esberat
 3 hours ago
-16
-& 54 More
-Ryan Cohen on Twitter: Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other
-📳Social Media
-twitter.com/ryanco...
+6
+3
+2
 Join
-523 Comments
-Share
-Save
-92.9k
-r/PublicFreakout
-•Posted by
-u/pantherwhitecat
-17 hours ago
-4
-& 66 More
-Join
-Patriot Front showed up at Pride event in Idaho in the back of an Uhaul truck and got arrested right away.
-Patriot Front
+We are absolutely nothing.
+Video
 0:00
-0:43
-9.3k Comments
+2:58
+734 Comments
 Share
 Save
-8.1k
+11.3k
+r/antiwork
+•Posted by
+u/mikethebrain219
+2 hours ago
+Join
+Starbucks retaliating against workers for attempting to unionize
+SEE FULL IMAGE
+702 Comments
+Share
+Save
+23.3k
 r/AskReddit
 •Posted by
-u/Zn4rkz
-12 hours ago
-2
-2
-Join
-What is your kink you wish you didn't have?
-nsfw
-4.8k Comments
-Share
-Save
-15.2k
-r/ProgrammerHumor
-•Posted by
-u/advaith82
-4 hours ago
-2
-Join
-Programmers in company's team building events
-172 Comments
-Share
-Save
-41.0k
-r/mildlyinteresting
-•Posted by
-u/djcuvi
+u/saxonn_88
 16 hours ago
-2
+10
 7
-3
+5
 Join
-Banned book section at a chain bookstore
-OC
-4.5k Comments
+The people in the hotel room next to you are having really loud obnoxious sex, how do you ruin the mood?
+nsfw
+5.4k Comments
+Share
+Save
+26.4k
+r/IdiotsInCars
+•Posted by
+u/Handsomeclooney
+15 hours ago
+3
+2
+Join
+Unprovoked driver stops in the middle of a busy freeway to approach car
+2.6k Comments
+Share
+Save
+49.4k
+r/politics
+•Posted by
+u/relevantlife
+14 hours ago
+5
+2
+4
+2
+Abrams vows to raise minimum teacher pay to $50K if elected governor
+ajc.com/politi...
+Join
+2.2k Comments
 Share
 Save
 Advertisement
