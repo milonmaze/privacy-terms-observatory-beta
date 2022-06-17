@@ -37,6 +37,8 @@ The data presented below covers the period from January 1, 2021, to June 30, 202
 
 Download Transparency Report
 
+You can subscribe to updates on our Transparency Report using an RSS Feed.
+
 BACKGROUND ON REQUESTS FOR USER DATA
 BACKGROUND ON REQUESTS FOR CONTENT REMOVAL OR BLOCKING
 
