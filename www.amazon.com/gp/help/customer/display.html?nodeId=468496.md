@@ -216,7 +216,7 @@ Yes
 No
 ‹ All Help Topics
 Legal Policies
-3rd Party Licensing Notice (Mobile App)
+3rd Party Licensing Notice
 Conditions of Use
 Amazon.com Privacy Notice
 Amazon Group Companies
