@@ -58,7 +58,7 @@ Manage Your Personal Information
 Request Your Personal Information
 Amazon and Your Personal Information
 Interest-Based Ads
-EU-US Privacy Shield
+EU-US and Swiss-US Privacy Shield
 About Cookies
 California Supply Chain Transparency Act Statement
 Law Enforcement Information Requests
