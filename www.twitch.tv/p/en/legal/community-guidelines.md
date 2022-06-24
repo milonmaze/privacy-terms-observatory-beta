@@ -22,7 +22,30 @@ In addition, it is prohibited to use your channel to knowingly feature or advert
 
 Self-Destructive Behavior
 
-Activity that may endanger your life, lead to your physical harm, or encourage others to engage in physically harmful behavior is prohibited.  This includes, but is not limited to: suicide threats, glorification or encouragement of self-harm, intentional physical trauma, illegal use of drugs, illegal or dangerous consumption of alcohol, and dangerous or distracted driving.
+Activity that may endanger your life, lead to your physical harm, or encourage others to engage in physically harmful behavior is prohibited. 
+
+We understand that streamers and viewers will discuss these sensitive topics and we want Twitch to remain a safe space to do so.  Anyone should be able to talk about previous and current struggles, if they so choose.  What is not allowed is discussing or broadcasting any of these topics in a way that glorifies, promotes, or encourages these potentially dangerous behaviors.
+
+Some examples of self-harm behaviors and related content that we prohibit are:
+
+Cutting of the wrists or mutilation of body parts;
+Suicide attempts and threats of suicide;
+Glorification and/or promotion of self-harm;
+Sharing of suicide notes and/or graphic details related to a real suicide.  
+Promotion of eating disorders and sharing of eating disorder content - the following are specific examples:
+Saying that you’re “pro-ana” because of the weight it helped you lose;
+Sharing your diet plan of not eating for 3 days and then binge eating on day 4;
+Telling viewers to regularly exercise and purge every other meal;
+Use of hard drugs;
+Misuse of legal substances and substances not fit for human consumption (e.g., prescription drugs, whippets, tide pods, bleach);
+Dangerous consumption of alcohol or other substances that lead to being incapacitated; 
+Dangerous or distracted driving, including using a phone while driving and drunk driving.
+
+We do not make exceptions for self destructive behavior performed as a stunt or gag made in jest, or meant to entertain, when the behavior could reasonably be expected to cause physical injury.
+
+If you feel like you’re struggling, or you’ve encountered someone who you believe might hurt themselves or others, or someone is at immediate risk of suicide, please contact an appropriate professional with the resources and expertise for urgent support that fits your needs and comfort, for instance, a mental health hotline or local law enforcement.
+
+We have a dedicated page here with resources to help our community.
 
 Violence and Threats
 
