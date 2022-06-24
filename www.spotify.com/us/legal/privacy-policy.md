@@ -536,7 +536,7 @@ An example of a tailored ad is when an ad partner has information suggesting you
 
 How to control tailored advertising:
 You can control tailored advertising in your account Privacy Settings under ‘Tailored Ads’.
-You can also control tailored advertising for some podcasts using the link in the episode’s show description. This applies where the content provider is funding their podcast by inserting either tailored advertising or content-based advertising into the podcast itself. These controls are managed by the hosting provider for the podcast, which might not be Spotify.
+You can also control tailored advertising for some podcasts using the link in the episode’s show description. This applies where the content provider is funding their podcast by inserting either tailored advertising or content-based advertising into the podcast itself. These controls are managed by the hosting platform for the podcast, which might not be Spotify.
 
 
 If you are ‘opted out’ of Tailored Ads in your Privacy Settings, you may still get advertising on ad-supported services (e.g. podcasts or the Free Service Option). Such advertising is based on your registration information and the content you are currently streaming on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
