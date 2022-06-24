@@ -34,7 +34,7 @@ Disclosures
 % Non-Content data
 % No data found
 % Rejected
-Download previous reports
+Download previous Law Enforcement Requests Reports
 Select year
 
   
