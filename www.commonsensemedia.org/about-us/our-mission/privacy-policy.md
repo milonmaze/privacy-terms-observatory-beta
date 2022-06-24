@@ -880,7 +880,7 @@ Best Podcast Lists
 Apps
 App Reviews
 Best App Lists
-Parents Need to Know
+Parent Tips and FAQs
 By Age
 Preschoolers (2-4)
 Little Kids (5-7)
