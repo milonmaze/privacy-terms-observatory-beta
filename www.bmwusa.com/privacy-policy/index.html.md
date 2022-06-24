@@ -19,7 +19,7 @@ Z4
 M Models
 iX
 i4
-Coming Soon: i7
+i7
 PREVIEW
 Future Vehicles
 LEARN
@@ -28,7 +28,7 @@ EXPLORE
 Limited Edition Vehicles
 DISCOVER
 Concept Vehicles
-Sports Activity Vehicles
+Sports Activity Vehicles Learn More
 X1
 X2
 X3
@@ -52,7 +52,7 @@ M3
 M5
 M8
 i4
-Coming Soon: i7
+i7
 Coupes
 2
 4
@@ -69,12 +69,11 @@ All-Electric Learn More
 #bornelectric 
 iX
 i4
-Coming Soon: i7
+i7
 Plug-in Hybrids Learn More
 X5 xDrive45e
 330e Sedan
 530e Sedan
-745e Sedan
 LEARN
 BMW Charging
 DISCOVER
@@ -96,15 +95,12 @@ X6 M
 Additional M Models
 M240i xDrive Coupe
 M235i xDrive Gran Coupe
-M340i Sedan
-M340i xDrive Sedan
 M440i Coupe
 M440i xDrive Coupe
 M440i xDrive Gran Coupe
 M440i Convertible
 M440i xDrive Convertible
 M550i xDrive Sedan
-M760i xDrive Sedan
 M850i xDrive Coupe
 M850i xDrive Gran Coupe
 M850i xDrive Convertible
