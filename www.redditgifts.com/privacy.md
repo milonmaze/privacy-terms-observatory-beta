@@ -1,106 +1,110 @@
 Found the internet!
 Trending today
-Jon Snow
-Game of Thrones: George R.R. Martin Confirms Jon Snow Spinoff and Reveals Kit Harington's Creative Involvement
-r/entertainment and more
-Supreme Court
-Confidence in Supreme Court is at lowest level in 50-year recorded history, Gallup poll finds
+Clarence Thomas
+Rep. Ilhan Omar continues to call for Justice Thomas’ impeachment
 r/politics and more
-Ron Johnson
-GOP Sen. Ron Johnson says the fake electors he tried to give Pence on January 6 came from GOP Rep. Mike Kelly
-r/politics and more
-NBA Draft
-"Kai Sotto goes undrafted in the NBA draft"
-r/nbacirclejerk and more
-Jan 6 Investigation
-Fox News’s Bret Baier: ‘Patriots’ testifying before Jan. 6 panel ‘stood up’ to Trump’s bid to overturn election
-r/politics and more
-Netflix
-Netflix lays off 300 employees as bad year continues to hit company
+Climate Change
+Glastonbury: Greta Thunberg appears at music festival to urge society to take action against climate change crisis
+r/environment and more
+Abortion
+Meta bans staff from open discussion of Roe v. Wade decision and is deleting internal messages that mention abortion: report
+r/technology and more
+Italy
+Italy declares Google Analytics illegal
+r/programming and more
+Protests
+Off-duty officer under investigation after woman assaulted at protest in Providence, police say
 r/news and more
+Russia
+India provides safety certification to Russian oil tankers | The move is expected to help Russia keep its fleet operational and supply Russian crude oil abroad.
 Popular posts
 Hot
 Everywhere
 New
 Top
 New Posts
-19.7k
+17.0k
 r/AskReddit
 •Posted by
-u/Ulrich-Stern
-15 hours ago
+u/BaguetteOfDoom
+16 hours ago
+5
 4
 7
-9
-& 5 More
 Join
-What does the United States get right?
-17.4k Comments
+What's your "comfort series" that you watch over and over again?
+19.8k Comments
 Share
 Save
-28.2k
-r/MadeMeSmile
+49.6k
+r/funny
 •Posted by
-u/Lebzabeast
-4 hours ago
-7
-2
-Join
-(OC) :)
-448 Comments
-Share
-Save
-46.9k
-r/interestingasfuck
-•Posted by
-u/BATMAN_5777
-7 hours ago
-5
-7
+u/IEatLiquor
+12 hours ago
 6
 2
+10
 Join
-pipe lining is the process of lining old dirty pipes with a liner that is soaked in a combination of resin and epoxy. Making the old pipes new without ripping them out.
-/r/ALL
-0:00
-0:59
-2.5k Comments
+I love bathroom wall conversations
+3.4k Comments
 Share
 Save
-18.1k
-r/facepalm
+15.8k
+r/antiwork
 •Posted by
-u/Revealed_Jailor
-6 hours ago
+u/AllyMander
+3 hours ago
 Join
-This dude is literally surrounded by freedom.
- 🇲​🇮​🇸​🇨​
-2.7k Comments
+My company picked a side
+
+So I woke up to a company wide email. I work in retail so didn't think much of it. When skimming it, I realized it was regarding Roe vs Wade. Part of me figured it would just be corporate fluff where they pretend to take a side.
+
+That's until I got to the second paragraph where it informed me effective immediately, they will be covering traveling expenses for employees in a state where abortions are illegal.
+
+I hope other companies will follow suit, as a way to fight back. It's not perfect, but it's something so I'll take it. A step in the right direction at least, I know it's no where near enough, but I'm just so tired and this brought me some comfort.
+
+Edit, typo
+
+1.0k Comments
 Share
 Save
-10.9k
-r/worldnews
+13.4k
+r/Damnthatsinteresting
 •Posted by
-u/trainedcovering161
+u/utkarsh_aryan
 4 hours ago
-Taliban begs US to unfreeze Afghan govt. assets to help respond to earthquake that killed 1,000 people
-businessinsider.com/taliba...
+2
 Join
-2.6k Comments
+Front Page of French newspapers after SCOTUS Decision to overturn roe v wade
+nsfw
+1/2
+1.0k Comments
 Share
 Save
-5.5k
-r/LiveFromNewYork
+47.3k
+r/PublicFreakout
 •Posted by
-u/john_muleaney
-15 hours ago
+u/Tara_is_a_Potato
+13 hours ago
+2
+& 6 More
 Join
-Which SNL sketches don’t sound very funny in concept but ended up being hilarious due to execution?
-Discussion
-
-I think the best example of this is Stefon. On paper, Bill Hader listing increasingly random shit under the guise of being a “city correspondent” is a meh concept, but Bill’s delivery and interactions with Seth made it a classic
-
-2.3k Comments
+Miller: "President Trump… I want to thank you for the historic victory for white life"
+Racist freakout
+4.6k Comments
+Share
+Save
+20.2k
+r/shitposting
+•Posted by
+u/Fiorux1
+4 hours ago
+6
+4
+Join
+chad
+🗿
+354 Comments
 Share
 Save
 Advertisement
