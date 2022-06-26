@@ -1,8 +1,8 @@
 Privacy Policy
 
-Effective: November 17, 2021
+Effective: June 29, 2022
 
-Snap Inc. is a camera company. Our products and services — including Snapchat, Bitmoji, Spectacles, advertising, and others that link to this Privacy Policy — provide fast and fun ways to express yourself, live in the moment, learn about the world, and have fun together!
+Snap Inc. is a camera company. Our products and services — including Snapchat, Bitmoji, Spectacles, advertising, commerce, and others that link to this Privacy Policy — provide fast and fun ways to express yourself, live in the moment, learn about the world, and have fun together!
 
 When you use these services, you’ll share some information with us. So we want to be upfront about the information we collect, how we use it, whom we share it with, and the controls we give you to access, update, and delete your information.
 
@@ -36,7 +36,7 @@ When you use our services, we collect information about which of those services 
 
 Usage Information. We collect information about your activity through our services. For example, we may collect information about:
 
-how you interact with our services, such as which filters you view or apply to Snaps, which Stories you watch on Discover, whether you’re using Spectacles, or which search queries you submit.
+how you interact with our services, such as which Filters or Lenses you view or apply to Snaps, which Stories you watch on Discover, whether you’re using Spectacles, or which search queries you submit.
 
 how you communicate with other Snapchatters, such as their names, the time and date of your communications, the number of messages you exchange with your friends, which friends you exchange messages with the most, and your interactions with messages (such as when you open a message or capture a screenshot).
 
@@ -44,7 +44,7 @@ Content Information. We collect content you create on our services, such as cust
 
 Device Information. We collect information from and about the devices you use. For example, we collect:
 
-information about your hardware and software, such as the hardware model, operating system version, device memory, advertising identifiers, unique application identifiers, apps installed, unique device identifiers, browser type, keyboards installed, language, battery level, and time zone;
+information about your hardware and software, such as the hardware model, operating system version, device memory, advertising identifiers, unique application identifiers, apps installed, unique device identifiers, device usage data, browser type, keyboards installed, language, battery level, and time zone;
 
 information from device sensors, such as accelerometers, gyroscopes, compasses, microphones, and whether you have headphones connected; and
 
@@ -52,7 +52,7 @@ information about your wireless and mobile network connections, such as mobile p
 
 Device Phonebook. Because our services are all about communicating with friends, we may — with your permission — collect information from your device’s phonebook.
 
-Camera and Photos. Many of our services require us to collect images and other information from your device’s camera and photos. For example, you won’t be able to send Snaps or upload photos from your camera roll unless we can access your camera or photos.
+Camera, Photos, and Audio. Many of our services require us to collect images and other information from your device’s camera and photos. For example, you won’t be able to send Snaps or upload photos from your camera roll unless we can access your camera or photos.
 
 Location Information. When you use our services we may collect information about your location. With your permission, we may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
 
@@ -90,7 +90,7 @@ What do we do with the information we collect? For the detailed answer, go here
 
 develop, operate, improve, deliver, maintain, and protect our products and services.
 
-send you communications, including by email. For example, we may use email to respond to support inquiries or to share information about our products, services, and promotional offers that we think may interest you.
+send you communications, including by email or SMS where permitted. For example, we may use email or SMS to respond to support inquiries or to share information about our products, services, and promotional offers that we think may interest you.
 
 monitor and analyze trends and usage.
 
@@ -118,7 +118,7 @@ With other Snapchatters. We may share the following information with other Snap
 
 information about you, such as your username, name, and Bitmoji.
 
-information about how you have interacted with our services, such as your Snapchat “score,” the names of Snapchatters you are friends with, and other information that will help Snapchatters understand your connections with others using our services. For example, because it may not be clear whether a new friend request comes from someone you actually know, we may share whether you and the requestor have Snapchat friends in common.
+information about how you have interacted with our services, such as your Snapchat “score,” the names of Snapchatters you are friends with, how close you are with your friends on Snapchat, your recent location history (if you choose to share your location on Snap Map), and other information that will help Snapchatters understand your connections with others using our services. For example, because it may not be clear whether a new friend request comes from someone you actually know, we may share whether you and the requestor have Snapchat friends in common.
 
 information about your device, such as the operating system and device type, to help you receive Chats, Snaps, and other content in the optimal viewing format.
 
@@ -172,7 +172,7 @@ We store location information for different lengths of time based on how precise
 
 If you ever decide to stop using Snapchat, you can just ask us to delete your account. We’ll also delete most of the information we’ve collected about you after you’ve been inactive for a while!
 
-Keep in mind that, while our systems are designed to carry out our deletion practices automatically, we cannot promise that deletion will occur within a specific timeframe. There may be legal requirements to store your data and we may need to suspend those deletion practices if we receive valid legal process asking us to preserve content, if we receive reports of abuse or other Terms of Service violations, or if your account or content created by you is flagged by others or our systems for abuse or other Terms of Service violations. Finally, we may also retain certain information in backup for a limited period of time or as required by law.
+Keep in mind that, while our systems are designed to carry out our deletion practices automatically, we cannot promise that deletion will occur within a specific timeframe. There may be legal requirements to store your data and we may need to suspend those deletion practices if we receive valid legal process asking us to preserve content, if we receive reports of abuse or other Terms of Service violations, or if your account, content created by you, or content created with other users is flagged by others or our systems for abuse or other Terms of Service violations. Finally, we may also retain certain information in backup for a limited period of time or as required by law.
 
 Control Over Your Information
 
@@ -180,7 +180,7 @@ We want you to be in control of your information, so we provide you with the fol
 
 Access, Correction, and Portability. You can access and edit most of your basic account information right in our apps. You can also use Download My Data to obtain a copy of information that isn’t available in our apps in a portable format, so you can move it or store it wherever you want. Because your privacy is important to us, we will ask you to verify your identity or provide additional information before we let you access or update your personal information. We may also reject your request to access or update your personal information for a number of reasons, including, for example, if the request risks the privacy of other users or is unlawful.
 
-Revoking permissions. In most cases, if you let us use your information, you can simply revoke your permission by changing the settings in the app or on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality.
+Revoking permissions. In most cases, if you let us use your information, you can simply revoke your permission by changing the settings in the app or on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality. For promotional emails and SMS, you may opt out by clicking on the unsubscribe link or similar mechanism as provided.
 
 Deletion. While we hope you’ll remain a lifelong Snapchatter, if for some reason you ever want to delete your account, just go here to learn how. You can also delete some information in the app, like photos you’ve saved to Memories, Spotlight submissions, and search history.
 
