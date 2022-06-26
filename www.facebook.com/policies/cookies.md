@@ -1,7 +1,3 @@
-Jump to
-Sections of this page
-Accessibility Help
-Press alt + / to open this menu
 Facebook
 Email or phone	Password
 		
