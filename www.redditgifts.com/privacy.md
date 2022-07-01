@@ -1,73 +1,90 @@
 Found the internet!
 New Posts
-5.7k
-r/ShitPostCrusaders
-•Posted by
-u/MasutadoMiasma
-10 hours ago
-Join
-Let the poor Reaper rest, Araki
-Anime Part 5
-0:00
-0:50
-44 Comments
-Share
-Save
-789
-r/LiveFromNewYork
-•Posted by
-u/NotAlanShapiro
-16 hours ago
-Join
-Anyone got any big plans for da summatime?
-Discussion
-23 Comments
-Share
-Save
-652
-r/MadeMeSmile
-•Posted by
-u/ASTATINE_628
-17 hours ago
-Join
-I think he might be a keeper.
- Family & Friends 
-15 Comments
-Share
-Save
-294
-r/MadeMeSmile
-•Posted by
-u/harsha29o7
-12 hours ago
-Join
-Ryan Gosling and Guillermo Del Toro skipping the Oscars in 2015 to go to Disneyland.
- Wholesome Moments 
-9 Comments
-Share
-Save
 Vote
-r/movies
+r/energy
 •Posted by
-u/puncreator
-1 hour ago
-Wrote about Marcel the Shell & life-affirming movies to affirm your life
-Article
-aerialshot.substack.com/p/life...
+u/Vailhem
+2 hours ago
+Battery materials must evolve to keep pace with societal needs: Study
+techxplore.com/news/2...
 Join
 0 Comments
 Share
 Save
 Vote
-r/science
+r/Economics
 •Posted by
-u/PHealthy
-40 minutes ago
-Study finds that monkeypox is evolving at a faster rate than expected likely due to the innate antiviral selective pressure from host APOBEC3 proteins. Using shotgun metagenomics to sequence the viral genome may provide the best means of tracking monkeypox transmission and evolution.
-Epidemiology
-nature.com/articl...
+u/Plenty-Hall-7486
+1 hour ago
+Survey Shows People No Longer Believe Working Hard Will Lead To A Better Life
+binsider.bond/survey...
 Join
-2 Comments
+65 Comments
+Share
+Save
+Vote
+r/technews
+•Posted by
+u/Sariel007
+2 hours ago
+The world can’t wean itself off Chinese lithium
+arstechnica.com/gadget...
+Join
+86 Comments
+Share
+Save
+69.7k
+r/facepalm
+•Posted by
+u/Katewalsh83
+22 hours ago
+2
+8
+14
+& 13 More
+Join
+A girl at work drew what she thinks the map of the USA looks like. She's almost 30 with 2 kids. The NC public school system has really failed her 🤦🏻‍♀️
+ 🇲​🇮​🇸​🇨​
+12.6k Comments
+Share
+Save
+21.7k
+r/meirl
+•Posted by
+u/Doomgrumps
+16 hours ago
+2
+5
+4
+Join
+Me irl
+2.6k Comments
+Share
+Save
+94.1k
+r/meirl
+•Posted by
+u/Aztery
+12 hours ago
+4
+5
+3
+Join
+meirl
+594 Comments
+Share
+Save
+49.5k
+r/meirl
+•Posted by
+u/pietradolce
+21 hours ago
+9
+9
+& 15 More
+Join
+Meirl
+366 Comments
 Share
 Save
 Advertisement
