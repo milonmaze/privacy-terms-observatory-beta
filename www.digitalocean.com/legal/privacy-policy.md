@@ -2,7 +2,7 @@ Legal & Security
 Privacy Policy
 Privacy Policy
 
-Last Updated on July 31, 2020
+Last Updated on June 14, 2022
 
 This Privacy Policy describes how DigitalOcean, LLC and its affiliates (“DigitalOcean,” “we,” “our” or “us”) collect, use, and share information in connection with your use of our websites (including www.digitalocean.com), services, and applications (collectively, the “Services”). This Privacy Policy (the “Privacy Policy”) does not apply to information our customers may process when using our Services.
 
@@ -20,15 +20,17 @@ I. Account Registration. When you register for an Account, we may ask for your 
 
 II. Payment Information. When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.
 
-III. User Content. Our “Community” feature allows you to publicly post content on our Services. By registering for our Community, you agree that your profile information and the content you post may be viewed and used by other users and third parties we do not control.
+III. Personal Data. This means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a Data Subject in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. “Personal Data” includes equivalent terms in other Data Protection Law, such as the CCPA-defined term “Personal Information,” as context requires.
 
-IV. Communications. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
+IV. User Content. Our “Community” feature allows you to publicly post content on our Services. By registering for our Community, you agree that your profile information and the content you post may be viewed and used by other users and third parties we do not control.
+
+VI. Communications. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
 Information We Collect When You Use Our Services.
 
-I. Cookies and Other Tracking Technologies. As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area (“EEA”), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
+I. Cookies and Other Tracking Technologies. As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area (“EEA”), the information referenced above in this paragraph may be considered personal data under applicable data protection laws.
 
 II. Usage of our Services. When you use our Services, we may collect information about your engagement with and utilization of our Services, such as processor and memory usage, storage capacity, navigation of our Services, and system-level metrics. We use this data to operate the Services, maintain and improve the performance and utilization of the Services, develop new features, protect the security and safety of our Services and our customers, and provide customer support. We also use this data to develop aggregate analysis and business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of our business.
 
@@ -64,43 +66,50 @@ As Required By Law and Similar Disclosures. We may also share information to (i
 With Your Consent. We may share information with your consent.
 4. Legal Basis for Processing Personal Information
 
-Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+Our legal basis for collecting and using the personal data described above will depend on the personal data concerned and the specific context in which we collect it.
 
-However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you; (ii) where the processing is in our legitimate interests and not overridden by your rights; or (iii) where we have your consent to do so.  We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.
+However, we will normally collect personal data from you only (i) where we need the personal data to perform a contract with you; (ii) where the processing is in our legitimate interests and not overridden by your rights; or (iii) where we have your consent to do so. We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.
 
-In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
+In some cases, we may also have a legal obligation to collect personal data from you or may otherwise need the personal data to protect your vital interests or those of another person.
 
-If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
+If we ask you to provide personal data to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal data is mandatory or not (as well as of the possible consequences if you do not provide your personal data).
 
 5. Third-party Services
 
-You may access other third-party services through the Services, for example by clicking on links to those third-party services from within the Services. We are not responsible for the privacy policies and/or practices of these third-party services, and we encourage you to carefully review their privacy policies.
+You may access other third-party offerings through the Services, for example by clicking on links to those third-party offerings from within the Services. DigitalOcean is not responsible for the privacy policies and/or practices of these third-party offerings, and we encourage you to carefully review their privacy policies.
 
 6. Security
 
-DigitalOcean is committed to protecting your information. To do so, we employ a variety of security technologies and measures designed to protect information from unauthorized access, use, or disclosure. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. However, please bear in mind that the Internet cannot be guaranteed to be 100% secure.
+DigitalOcean is committed to protecting your information. To do so, we employ a variety of security technologies and measures designed to protect information from unauthorized access, use, or disclosure. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal data. Please note that no service is completely secure. While we strive to protect your data, we cannot guarantee that unauthorized access, hacking, data loss or a data breach will never occur.
 
+For more information on DigitalOcean’s security controls, please see the following resources:
+
+Data Processing Agreement (DPA)
+Certification Reports
+SOC 2 Type II (upon request to privacy@digitalocean.com)
+SOC 3 Type II
 7. Data Retention
 
-We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).
+We retain personal data we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+When we have no ongoing legitimate business need to process your personal data, we will either delete or anonymize it or, if this is not possible (for example, because your personal data has been stored in backup archives), then we will securely store your personal data and isolate it from any further processing until deletion is possible.
 
 8. Access
 
-If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing privacy@digitalocean.com. If you terminate your Account, any public activity on your Account prior to deletion may remain stored on our servers and may remain accessible to the public.
+If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing privacy@digitalocean.com. If you terminate your Account, any public activity on your Account prior to deletion may remain stored on our servers and may remain accessible to the public.
 
-To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could: inhibit DigitalOcean’s ability to comply with a legal obligation; inhibit DigitalOcean’s ability to investigate, make or defend legal claims; result in disclosure of personal information about a third party; or result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to DigitalOcean or a third party.
+To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could: inhibit DigitalOcean’s ability to comply with a legal obligation; inhibit DigitalOcean’s ability to investigate, make or defend legal claims; result in disclosure of personal data about a third party; or result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to DigitalOcean or a third party.
 
 9. Your Data Protection Rights Under the General Data Protection Regulation (GDPR)
 
 If you are a resident of the EEA, you have the following data protection rights:
 
 If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by emailing privacy@digitalocean.com.
-In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by emailing privacy@digitalocean.com.
+To exercise your rights to deletion of your personal data under the GDPR, you can deactivate and purge your account in your control panel settings (https://cloud.digitalocean.com/settings). All account data will be deleted within 90 days of purging.
+In addition, you can object to the processing of your personal data, ask us to restrict the processing of your personal data, or request portability of your personal data. Again, you can exercise these rights by emailing privacy@digitalocean.com.
 You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing privacy@digitalocean.com.
-Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
-You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
+Similarly, if we have collected and process your personal data with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal data conducted in reliance on lawful processing grounds other than consent.
+You have the right to complain to a data protection authority about our collection and use of your personal data. For more information, please contact your local data protection authority.
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
@@ -114,15 +123,15 @@ Many browsers have an option for disabling cookies, which may prevent your brows
 
 11. Children’s Privacy
 
-DigitalOcean does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at privacy@digitalocean.com.
+DigitalOcean does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal data in violation of this Privacy Policy, you can alert us at privacy@digitalocean.com.
 
 12. Changes to this Privacy Policy
 
-This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our websites. If we materially change the ways in which we use or share personal information previously collected from you through our Services, we will notify you through our Services, by email, or other communication.
+This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our websites. If we materially change the ways in which we use or share personal data previously collected from you through our Services, we will notify you through our Services, on this page, by email, or other communication.
 
 13. International Data Transfers
 
-DigitalOcean is a global business. We may transfer personal information to countries other than the country in which the data was originally collected. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect that information as described in this Privacy Policy.
+With respect to Personal Data of Data Subjects located in the EEA, Switzerland, or the United Kingdom that Customer transfers to DigitalOcean or permits DigitalOcean to access, the parties agree that by executing the DPA they also execute the Standard Contractual Clauses, which will be incorporated by reference and form an integral part of the DPA. The parties agree that, with respect to the elements of the Standard Contractual Clauses that require the parties’ input, Schedules 1-3 contain all the relevant information.
 
 EU-U.S. and Swiss-U.S. Privacy Shield. For personal data we receive from the EEA and Switzerland, DigitalOcean has certified its compliance to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from such countries. To access the Privacy Shield List and to find details of our certification, please visit: https://www.privacyshield.gov/.
 
@@ -130,7 +139,13 @@ DigitalOcean currently utilizes Standard Contractual Clauses in connection with 
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please feel free to email us at privacy@digitalocean.com.
+If you have any questions or concerns about this Privacy Policy, please email us at privacy@digitalocean.com or write to us at:
+
+DigitalOcean
+
+101 6th Ave New York, NY 10013
+
+ATTN: Legal
 
 The data controller of your personal information is DigitalOcean, LLC.
 
@@ -138,6 +153,8 @@ Additional Disclosures
 
 CCPA Privacy Notice
 
+Prior Versions of our Privacy Policy
+July 30, 2020
 Company
 About
 Leadership
@@ -155,6 +172,8 @@ Products
 Products Overview
 Droplets
 Kubernetes
+App Platform
+Functions
 Managed Databases
 Spaces
 Marketplace
@@ -169,6 +188,7 @@ Community
 Tutorials
 Meetups
 Q&A
+CSS-Tricks
 Write for DOnations
 Droplets for Demos
 Hatch Startup Program
@@ -190,6 +210,7 @@ Agency & Web Dev Shops
 Managed Cloud Hosting Providers
 Big Data
 Business Solutions
+Cloud Hosting for Blockchain
 Contact
 Support
 Sales
