@@ -49,6 +49,8 @@ Products
 Products Overview
 Droplets
 Kubernetes
+App Platform
+Functions
 Managed Databases
 Spaces
 Marketplace
@@ -85,6 +87,7 @@ Agency & Web Dev Shops
 Managed Cloud Hosting Providers
 Big Data
 Business Solutions
+Cloud Hosting for Blockchain
 Contact
 Support
 Sales
