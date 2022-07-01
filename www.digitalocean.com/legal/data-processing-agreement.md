@@ -2,7 +2,7 @@ Legal & Security
 Data Processing Agreement
 Data Processing Agreement
 
-Last Updated on November 30, 2021
+Last Updated on June 14, 2022
 
 1. Scope, Order of Precedence, and Term
 
@@ -234,6 +234,12 @@ Schedule 4: CCPA Addendum
 
 CCPA Data Processing Addendum
 
+Schedule 5: UK IDTA Addendum
+
+UK IDTA Addendum
+
+Prior Versions of our Data Processing Agreement
+November 30, 2021
 Company
 About
 Leadership
@@ -251,6 +257,8 @@ Products
 Products Overview
 Droplets
 Kubernetes
+App Platform
+Functions
 Managed Databases
 Spaces
 Marketplace
@@ -287,6 +295,7 @@ Agency & Web Dev Shops
 Managed Cloud Hosting Providers
 Big Data
 Business Solutions
+Cloud Hosting for Blockchain
 Contact
 Support
 Sales
