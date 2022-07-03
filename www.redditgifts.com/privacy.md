@@ -1,90 +1,152 @@
 Found the internet!
-New Posts
-Vote
-r/energy
+Trending today
+Supreme Court
+U.S. Supreme Court asks Maryland to bar protests at justices' homes
+r/politics and more
+Single-use plastic
+Single-use plastic waste is getting phased out in California under a sweeping new law
+r/news and more
+Minions
+Minions: The Rise of Gru Destroys Expectations with a Record-Setting Box Office Haul
+r/entertainment and more
+Stranger Things
+The "Stranger Things" season 4 finale gives Metallica's "Master of Puppets" the Kate Bush push
+r/entertainment and more
+Mickey Mouse
+Putin
+Popular posts
+Hot
+Everywhere
+New
+Top
+564
+r/Cricket
 •Posted by
-u/Vailhem
-2 hours ago
-Battery materials must evolve to keep pace with societal needs: Study
-techxplore.com/news/2...
+u/CricketMatchBot
+6 hours ago
 Join
-0 Comments
+Match Thread: 5th Test - India vs England, Day 3
+5th Test, India tour of England at Birmingham
+
+Cricinfo | Reddit-Stream | 🌥 🌥 🌥 🌥 🌥
+
+Innings	Score
+India	416 (Ov 84.5)
+England	284 (Ov 61.3)
+
+
+
+
+Batter	Runs	Balls	SR
+James Anderson*	6	10	60.0Bowler	Overs	Runs	Wickets
+Mohammed Siraj	11.3	66	4
+Mohammed Shami	22	78	2
+Recent : 1 . . 4 .  |  W . . 4 . 2  |  1 . . . . .  |  4 6 W 
+
+
+Day 3 - Session 2: England trail by 132 runs.
+
+Live match threads: Hungary vs Israel | Singapore vs Papua New Guinea | Germany Women vs Namibia Women | Gibraltar vs Malta |
+
+Send feedback | Schedule | Stat Help
+
+Please don't post illegal streaming links in match threads
+
+8.8k Comments
 Share
 Save
-Vote
-r/Economics
+50.6k
+r/TikTokCringe
 •Posted by
-u/Plenty-Hall-7486
-1 hour ago
-Survey Shows People No Longer Believe Working Hard Will Lead To A Better Life
-binsider.bond/survey...
-Join
-65 Comments
-Share
-Save
-Vote
-r/technews
-•Posted by
-u/Sariel007
-2 hours ago
-The world can’t wean itself off Chinese lithium
-arstechnica.com/gadget...
-Join
-86 Comments
-Share
-Save
-69.7k
-r/facepalm
-•Posted by
-u/Katewalsh83
+u/sassfrass123
 22 hours ago
-2
-8
-14
-& 13 More
+3
+3
+& 30 More
 Join
-A girl at work drew what she thinks the map of the USA looks like. She's almost 30 with 2 kids. The NC public school system has really failed her 🤦🏻‍♀️
- 🇲​🇮​🇸​🇨​
-12.6k Comments
+Woman trying to get her birth control at Walgreens, is told they won't fill it.
+Politics
+0:00
+2:59
+4.4k Comments
 Share
 Save
-21.7k
-r/meirl
+5.3k
+r/books
 •Posted by
-u/Doomgrumps
-16 hours ago
-2
-5
-4
+u/CatholicCockney
+17 hours ago
 Join
-Me irl
-2.6k Comments
+What critically acclaimed books or authors do you think are genuinely terrible based on the quality of their work, rather than due to their personal life or politics? Why?
+spoiler
+4.2k Comments
 Share
 Save
-94.1k
-r/meirl
+6.9k
+r/AskReddit
 •Posted by
-u/Aztery
-12 hours ago
+u/JocelynChambers_XQ
+15 hours ago
 4
 5
+5
+Join
+What is the first thought that comes into mind after you finish masturbating?
+nsfw
+3.7k Comments
+Share
+Save
+18.1k
+r/boston
+•Posted by
+u/powsandwich
+22 hours ago
+& 2 More
+Join
+FYI- apparently the zoo is in town
+3.2k Comments
+Share
+Save
+17.1k
+r/Tinder
+•Posted by
+u/RatKing97
+8 hours ago
+6
+7
 3
 Join
-meirl
-594 Comments
+decided to update the tinder any thoughts
+3.0k Comments
 Share
 Save
-49.5k
-r/meirl
+10.6k
+r/bestof
 •Posted by
-u/pietradolce
+u/aotoni
 21 hours ago
-9
-9
-& 15 More
+r/WhitePeopleTwitter mod lays down the law wrt Abortion comments on sub
+[WhitePeopleTwitter]
+reddit.com/r/Whit...
 Join
-Meirl
-366 Comments
+1.9k Comments
+Share
+Save
+3.8k
+r/MMA
+•Posted by
+u/inooway
+10 hours ago
+2
+2
+2
+4
+& 2 More
+[SPOILER] Alexander Volkanovski vs. Max Holloway
+Spoilerspoiler
+vidsli.com/watch/...
+Join
+1.8k Comments
 Share
 Save
 Advertisement
