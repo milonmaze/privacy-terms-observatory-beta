@@ -1,152 +1,106 @@
 Found the internet!
-Trending today
-Supreme Court
-U.S. Supreme Court asks Maryland to bar protests at justices' homes
-r/politics and more
-Single-use plastic
-Single-use plastic waste is getting phased out in California under a sweeping new law
-r/news and more
-Minions
-Minions: The Rise of Gru Destroys Expectations with a Record-Setting Box Office Haul
-r/entertainment and more
-Stranger Things
-The "Stranger Things" season 4 finale gives Metallica's "Master of Puppets" the Kate Bush push
-r/entertainment and more
-Mickey Mouse
-Putin
-Popular posts
-Hot
-Everywhere
-New
-Top
-564
-r/Cricket
+Vote
+r/worldnews
 •Posted by
-u/CricketMatchBot
-6 hours ago
+u/volt1szer1
+2 hours ago
+2
+Russian cosmonauts display flag of occupied Luhansk region on ISS | Russia
+Russia/Ukraine
+theguardian.com/world/...
 Join
-Match Thread: 5th Test - India vs England, Day 3
-5th Test, India tour of England at Birmingham
-
-Cricinfo | Reddit-Stream | 🌥 🌥 🌥 🌥 🌥
-
-Innings	Score
-India	416 (Ov 84.5)
-England	284 (Ov 61.3)
-
-
-
-
-Batter	Runs	Balls	SR
-James Anderson*	6	10	60.0Bowler	Overs	Runs	Wickets
-Mohammed Siraj	11.3	66	4
-Mohammed Shami	22	78	2
-Recent : 1 . . 4 .  |  W . . 4 . 2  |  1 . . . . .  |  4 6 W 
-
-
-Day 3 - Session 2: England trail by 132 runs.
-
-Live match threads: Hungary vs Israel | Singapore vs Papua New Guinea | Germany Women vs Namibia Women | Gibraltar vs Malta |
-
-Send feedback | Schedule | Stat Help
-
-Please don't post illegal streaming links in match threads
-
-8.8k Comments
+199 Comments
 Share
 Save
-50.6k
-r/TikTokCringe
+Vote
+r/entertainment
 •Posted by
-u/sassfrass123
-22 hours ago
-3
-3
-& 30 More
+u/Datshitoverthere
+2 hours ago
+Johnny Depp’s Winning Verdict Should Be Tossed Out For New Trial, Amber Heard Says; Jury Vetting Questions Raised
+deadline.com/2022/0...
 Join
-Woman trying to get her birth control at Walgreens, is told they won't fill it.
-Politics
+330 Comments
+Share
+Save
+Vote
+r/technology
+•Posted by
+u/Sorin61
+2 hours ago
+Tesla sued by 15 Black employees alleging racial harassment. One said he was tackled at work and told to 'suck it up and be a man.'
+Business
+businessinsider.com/tesla-...
+Join
+228 Comments
+Share
+Save
+2.0k
+r/ClashRoyale
+•Posted by
+u/Jewel_Or_Junk
+9 hours ago
+Join
+Log bait in triple elixir with no rocket be like:
+Meme Monday /r/all
 0:00
-2:59
-4.4k Comments
+0:07
+40 Comments
 Share
 Save
-5.3k
-r/books
+1.7k
+r/meirl
 •Posted by
-u/CatholicCockney
-17 hours ago
+u/AmazingIce6215
+7 hours ago
 Join
-What critically acclaimed books or authors do you think are genuinely terrible based on the quality of their work, rather than due to their personal life or politics? Why?
-spoiler
-4.2k Comments
+meirl
+6 Comments
 Share
 Save
-6.9k
-r/AskReddit
+11.0k
+r/meirl
 •Posted by
-u/JocelynChambers_XQ
-15 hours ago
-4
-5
-5
-Join
-What is the first thought that comes into mind after you finish masturbating?
-nsfw
-3.7k Comments
-Share
-Save
-18.1k
-r/boston
-•Posted by
-u/powsandwich
-22 hours ago
-& 2 More
-Join
-FYI- apparently the zoo is in town
-3.2k Comments
-Share
-Save
-17.1k
-r/Tinder
-•Posted by
-u/RatKing97
-8 hours ago
+u/PacmanTheHitman
+12 hours ago
+2
 6
-7
-3
 Join
-decided to update the tinder any thoughts
-3.0k Comments
+meirl
+140 Comments
 Share
 Save
-10.6k
-r/bestof
+615
+r/meirl
 •Posted by
-u/aotoni
-21 hours ago
-r/WhitePeopleTwitter mod lays down the law wrt Abortion comments on sub
-[WhitePeopleTwitter]
-reddit.com/r/Whit...
+u/looptarded
+11 hours ago
 Join
-1.9k Comments
+Me_irl
+20 Comments
 Share
 Save
-3.8k
-r/MMA
+Vote
+r/technology
 •Posted by
-u/inooway
-10 hours ago
-2
-2
-2
-4
-& 2 More
-[SPOILER] Alexander Volkanovski vs. Max Holloway
-Spoilerspoiler
-vidsli.com/watch/...
+u/16431879196842
+1 hour ago
+Is your smartphone ruining your memory? A special report on the rise of ‘digital amnesia’
+Social Media
+theguardian.com/global...
 Join
-1.8k Comments
+4 Comments
+Share
+Save
+Vote
+r/economy
+•Posted by
+u/rhino910
+2 hours ago
+White House hits back at Jeff Bezos, saying it's 'not surprising' he thinks oil and gas companies should 'reap record profits at the expense of the American people'
+news.yahoo.com/white-...
+Join
+139 Comments
 Share
 Save
 Advertisement
