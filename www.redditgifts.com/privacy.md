@@ -1,106 +1,129 @@
 Found the internet!
-Vote
+Trending today
+Large Hadron Collider
+the Large Hadron Collider (LHC) has observed three never-before-seen particles: a new kind of “pentaquark” and the first-ever pair of “tetraquarks”, which includes a new type of tetraquark
+r/Futurology and more
+NATO
+Trudeau: Canada first NATO ally to ratify membership bids by Finland and Sweden
+Tour de France
+[Race Thread] 2022 Tour de France - Stage 5 Lille > Wallers-Arenberg (2.UWT)
+r/peloton and more
+Uvalde
+Uvalde mayor says he fears a cover-up of investigation into school massacre
+r/news and more
+John Fetterman
+Fetterman Calls for Assault Weapons Ban After July 4th Parade Massacre
+r/Pennsylvania and more
+Boris Johnson
+Boris Johnson future: 'Prime Minister should resign before he has to put up adverts for ministers in the Jobcentre'
+r/unitedkingdom and more
+Popular posts
+Hot
+Everywhere
+New
+Top
+15.7k
 r/worldnews
 •Posted by
-u/volt1szer1
-2 hours ago
+u/Cultural_Budget6627
+4 hours ago
 2
-Russian cosmonauts display flag of occupied Luhansk region on ISS | Russia
-Russia/Ukraine
-theguardian.com/world/...
+Europe wants a high-speed rail network to replace airplanes
+edition.cnn.com/travel...
 Join
-199 Comments
+887 Comments
 Share
 Save
-Vote
-r/entertainment
+66.5k
+r/WhitePeopleTwitter
 •Posted by
-u/Datshitoverthere
-2 hours ago
-Johnny Depp’s Winning Verdict Should Be Tossed Out For New Trial, Amber Heard Says; Jury Vetting Questions Raised
-deadline.com/2022/0...
+u/remmij
+13 hours ago
+2
+& 9 More
 Join
-330 Comments
+What happens when a country prioritizes guns over human lives
+5.3k Comments
 Share
 Save
-Vote
-r/technology
+60.4k
+r/antiwork
 •Posted by
-u/Sorin61
-2 hours ago
-Tesla sued by 15 Black employees alleging racial harassment. One said he was tackled at work and told to 'suck it up and be a man.'
-Business
-businessinsider.com/tesla-...
+u/Icarus-Dream
+16 hours ago
+& 6 More
+Mitch McConnell says the labor shortage will be solved when people run out of stimulus money because Americans are 'flush for the moment'
+businessinsider.com/mitch-...
 Join
-228 Comments
+7.6k Comments
 Share
 Save
-2.0k
-r/ClashRoyale
+9.1k
+r/AskReddit
 •Posted by
-u/Jewel_Or_Junk
-9 hours ago
-Join
-Log bait in triple elixir with no rocket be like:
-Meme Monday /r/all
-0:00
-0:07
-40 Comments
-Share
-Save
-1.7k
-r/meirl
-•Posted by
-u/AmazingIce6215
+u/NightAndTime
 7 hours ago
-Join
-meirl
-6 Comments
-Share
-Save
-11.0k
-r/meirl
-•Posted by
-u/PacmanTheHitman
-12 hours ago
 2
-6
+2
 Join
-meirl
-140 Comments
+What is something Porn “Normalized.”?
+nsfw
+5.9k Comments
 Share
 Save
-615
-r/meirl
+32.7k
+r/unpopularopinion
 •Posted by
-u/looptarded
-11 hours ago
+u/VVVVagabond
+17 hours ago
+4
+2
+3
+& 35 More
 Join
-Me_irl
-20 Comments
+The upper-middle-class is not your enemy
+
+The people who are making 200k-300k, who drive a Prius and own a 3 bedroom home in a nice neighborhood are not your enemies. Whenever I see people talk about class inequality or "eat the ricch" they somehow think the more well off middle-class people are the ones it's talking about? No, it's talking about the top 1% of the top 1%. I'm closer to the person making minimum wage in terms of lifestyle than I am to those guys.
+
+4.2k Comments
 Share
 Save
-Vote
-r/technology
+43.4k
+r/news
 •Posted by
-u/16431879196842
-1 hour ago
-Is your smartphone ruining your memory? A special report on the rise of ‘digital amnesia’
-Social Media
-theguardian.com/global...
+u/dremonearm
+13 hours ago
+4
+& 4 More
+More than 220 shot and killed in U.S. gun violence over July 4 holiday weekend
+cbsnews.com/news/u...
 Join
-4 Comments
+4.0k Comments
 Share
 Save
-Vote
-r/economy
+18.8k
+r/politics
 •Posted by
-u/rhino910
-2 hours ago
-White House hits back at Jeff Bezos, saying it's 'not surprising' he thinks oil and gas companies should 'reap record profits at the expense of the American people'
-news.yahoo.com/white-...
+u/segvcore
+14 hours ago
+4
+Look at My Face and Tell Me We Don’t Need Gun Control | A bullet from an assault-rifle hit me in the face at the Highland Park parade. When will it stop?
+nsfw
+thedailybeast.com/lilli-...
 Join
-139 Comments
+2.7k Comments
+Share
+Save
+37.1k
+r/assholedesign
+•Posted by
+u/Aztery
+6 hours ago
+4
+3
+Join
+And during a pandemic..
+1.5k Comments
 Share
 Save
 Advertisement
