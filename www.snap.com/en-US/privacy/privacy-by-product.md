@@ -175,9 +175,9 @@ At the moment, Amazon Camera Search is only available to Snapchatters in the US.
 
 Snap Map
 
-Snap Map lets you see where your friends are, what’s going on around them, find your favorite restaurants and bars, and even see what’s happening across the world! 
+Snap Map lets you see where your friends have been, what’s going on around them, find your favorite restaurants and bars, and even see what’s happening across the world! 
 
-You won’t appear on Snap Map until you open it for the first time and choose to share your location. If you don’t open the app for 8 hours, you won’t be visible on the Map until you open Snapchat again. You can always update the people you’re sharing your location with in Snap Map settings, or go into ‘Ghost Mode’ to hide your location from everyone. We may also remind you if you leave location sharing enabled for a while.
+You won’t appear on Snap Map until you open it for the first time and choose to share your location. If you don’t open the app for 24 hours, you won’t be visible on the Map until you open Snapchat again. You can always update the people you’re sharing your location with in Snap Map settings, or go into ‘Ghost Mode’ to hide your location from everyone. We may also remind you if you leave location sharing enabled for a while.
 
 Snaps that have been submitted to Our Story and Snap Map can also show up on the Map — but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process.
 
