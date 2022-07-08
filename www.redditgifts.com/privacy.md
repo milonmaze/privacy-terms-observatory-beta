@@ -1,129 +1,120 @@
 Found the internet!
 Trending today
-Large Hadron Collider
-the Large Hadron Collider (LHC) has observed three never-before-seen particles: a new kind of “pentaquark” and the first-ever pair of “tetraquarks”, which includes a new type of tetraquark
-r/Futurology and more
-NATO
-Trudeau: Canada first NATO ally to ratify membership bids by Finland and Sweden
-Tour de France
-[Race Thread] 2022 Tour de France - Stage 5 Lille > Wallers-Arenberg (2.UWT)
-r/peloton and more
-Uvalde
-Uvalde mayor says he fears a cover-up of investigation into school massacre
+Kyiv
+U.S. senators visit Kyiv to promote Russia 'state sponsor of terrorism' bill
+Donald Trump
+Georgia DA’s Trump investigation is making history
+r/politics and more
+Spirit Airlines
+Frontier offers $250 million reverse breakup fee if regulators block Spirit merger
+California Insulin
+Governor Gavin Newsom announces California will make its own insulin
 r/news and more
-John Fetterman
-Fetterman Calls for Assault Weapons Ban After July 4th Parade Massacre
-r/Pennsylvania and more
-Boris Johnson
-Boris Johnson future: 'Prime Minister should resign before he has to put up adverts for ministers in the Jobcentre'
-r/unitedkingdom and more
+Abortion Access Order
+Biden to announce executive action to protect abortion access
+r/politics and more
+Shinzo Abe
+Shinzo Abe, former Japanese prime minister, dies after being shot while giving speech, state broadcaster says
+r/news and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-15.7k
-r/worldnews
-•Posted by
-u/Cultural_Budget6627
-4 hours ago
-2
-Europe wants a high-speed rail network to replace airplanes
-edition.cnn.com/travel...
-Join
-887 Comments
-Share
-Save
-66.5k
-r/WhitePeopleTwitter
-•Posted by
-u/remmij
-13 hours ago
-2
-& 9 More
-Join
-What happens when a country prioritizes guns over human lives
-5.3k Comments
-Share
-Save
-60.4k
-r/antiwork
-•Posted by
-u/Icarus-Dream
-16 hours ago
-& 6 More
-Mitch McConnell says the labor shortage will be solved when people run out of stimulus money because Americans are 'flush for the moment'
-businessinsider.com/mitch-...
-Join
-7.6k Comments
-Share
-Save
-9.1k
+13.3k
 r/AskReddit
 •Posted by
-u/NightAndTime
-7 hours ago
-2
-2
+u/A5ula
+16 hours ago
+6
+8
+8
 Join
-What is something Porn “Normalized.”?
-nsfw
-5.9k Comments
+What do you want?
+12.4k Comments
 Share
 Save
-32.7k
-r/unpopularopinion
+45.4k
+r/worldnews
 •Posted by
-u/VVVVagabond
-17 hours ago
-4
-2
-3
-& 35 More
+u/HowAboutThisNameNow
+5 hours ago
+& 37 More
+Shinzo Abe, former Japanese prime minister, dies after being shot while giving speech, state broadcaster says
+news.sky.com/story/...
 Join
-The upper-middle-class is not your enemy
-
-The people who are making 200k-300k, who drive a Prius and own a 3 bedroom home in a nice neighborhood are not your enemies. Whenever I see people talk about class inequality or "eat the ricch" they somehow think the more well off middle-class people are the ones it's talking about? No, it's talking about the top 1% of the top 1%. I'm closer to the person making minimum wage in terms of lifestyle than I am to those guys.
-
-4.2k Comments
+5.2k Comments
 Share
 Save
-43.4k
-r/news
+49.9k
+r/pics
 •Posted by
-u/dremonearm
+u/girlypotatos
 13 hours ago
 4
-& 4 More
-More than 220 shot and killed in U.S. gun violence over July 4 holiday weekend
-cbsnews.com/news/u...
+4
+2
+4
 Join
-4.0k Comments
+[OC] Kid with a gun surrounded by proud boys at a pro-life event in Boise, Idaho last week
+Protest
+i.imgur.com/dGZfPp...
+8.6k Comments
 Share
 Save
-18.8k
-r/politics
+42.4k
+r/worldnews
 •Posted by
-u/segvcore
-14 hours ago
-4
-Look at My Face and Tell Me We Don’t Need Gun Control | A bullet from an assault-rifle hit me in the face at the Highland Park parade. When will it stop?
-nsfw
-thedailybeast.com/lilli-...
+u/Nerd_199
+11 hours ago
+11
+5
+9
+Ex-PM Abe attacked by unidentified man on road in Japan
+Confirmed deceased
+english.kyodonews.net/news/2...
 Join
-2.7k Comments
+8.1k Comments
 Share
 Save
-37.1k
-r/assholedesign
+90.7k
+r/news
 •Posted by
-u/Aztery
-6 hours ago
-4
-3
+u/Hrekires
+16 hours ago
+12
+9
+& 24 More
+Governor Gavin Newsom announces California will make its own insulin
+kion546.com/news/2...
 Join
-And during a pandemic..
-1.5k Comments
+6.1k Comments
+Share
+Save
+50.7k
+r/AbsoluteUnits
+•Posted by
+u/Aquaman911
+15 hours ago
+4
+2
+Join
+14 Year Old, 6’1″, 300lb Football Recruit Tyler Parker
+6.1k Comments
+Share
+Save
+90.4k
+r/interestingasfuck
+•Posted by
+u/Raoshard
+16 hours ago
+11
+13
+& 21 More
+Join
+Speakers so powerful you can see the shockwaves
+/r/ALL
+5.1k Comments
 Share
 Save
 Advertisement
