@@ -1,120 +1,94 @@
 Found the internet!
 Trending today
-Kyiv
-U.S. senators visit Kyiv to promote Russia 'state sponsor of terrorism' bill
 Donald Trump
-Georgia DA’s Trump investigation is making history
+Trump Calls On Wis. GOP To Nullify Elector Votes, Make Him Victor After Ballot Box Ruling
 r/politics and more
-Spirit Airlines
-Frontier offers $250 million reverse breakup fee if regulators block Spirit merger
-California Insulin
-Governor Gavin Newsom announces California will make its own insulin
+Sri Lanka Protests
+Sri Lanka president to resign after palace stormed - BBC News
+Amber Heard
+Insurance Company Sues Amber Heard to Keep from Paying for Johnny Depp Judgment and Legal Fees
+r/entertainment and more
+Boris Johnson
+Labour demands Boris Johnson quit immediately over 'national security risk' | It follows Boris Johnson’s admission he met a former Russian spy without either officials or his security team present
+r/unitedkingdom and more
+Women's March
+Thousands turn out for Women’s March in D.C. to pressure Biden on abortion rights
 r/news and more
-Abortion Access Order
-Biden to announce executive action to protect abortion access
-r/politics and more
-Shinzo Abe
-Shinzo Abe, former Japanese prime minister, dies after being shot while giving speech, state broadcaster says
-r/news and more
+Arizona Public Schools
+Educators no longer need a college degree to begin teaching in Arizona public schools
+r/nottheonion and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-13.3k
-r/AskReddit
+41.1k
+r/Damnthatsinteresting
 •Posted by
-u/A5ula
-16 hours ago
-6
-8
-8
-Join
-What do you want?
-12.4k Comments
-Share
-Save
-45.4k
-r/worldnews
-•Posted by
-u/HowAboutThisNameNow
+u/FutureSkeIeton
 5 hours ago
-& 37 More
-Shinzo Abe, former Japanese prime minister, dies after being shot while giving speech, state broadcaster says
-news.sky.com/story/...
+2
+5
+7
+2
 Join
-5.2k Comments
+Same location, two different times.
+Image
+306 Comments
 Share
 Save
-49.9k
+13.4k
+r/funny
+•Posted by
+u/Curious_Strike3950
+4 hours ago
+4
+Join
+This guy finally succeeds.
+0:00
+0:25
+162 Comments
+Share
+Save
+67.7k
 r/pics
 •Posted by
-u/girlypotatos
-13 hours ago
-4
-4
-2
-4
-Join
-[OC] Kid with a gun surrounded by proud boys at a pro-life event in Boise, Idaho last week
-Protest
-i.imgur.com/dGZfPp...
-8.6k Comments
-Share
-Save
-42.4k
-r/worldnews
-•Posted by
-u/Nerd_199
-11 hours ago
-11
-5
-9
-Ex-PM Abe attacked by unidentified man on road in Japan
-Confirmed deceased
-english.kyodonews.net/news/2...
-Join
-8.1k Comments
-Share
-Save
-90.7k
-r/news
-•Posted by
-u/Hrekires
-16 hours ago
-12
-9
-& 24 More
-Governor Gavin Newsom announces California will make its own insulin
-kion546.com/news/2...
-Join
-6.1k Comments
-Share
-Save
-50.7k
-r/AbsoluteUnits
-•Posted by
-u/Aquaman911
-15 hours ago
-4
-2
-Join
-14 Year Old, 6’1″, 300lb Football Recruit Tyler Parker
-6.1k Comments
-Share
-Save
-90.4k
-r/interestingasfuck
-•Posted by
-u/Raoshard
+u/SoDakZak
 16 hours ago
 11
-13
-& 21 More
+11
+& 7 More
 Join
-Speakers so powerful you can see the shockwaves
-/r/ALL
-5.1k Comments
+[OC] Wife and I accidentally went to a Michelin Star restaurant on our honeymoon in Ireland
+1/8
+4.6k Comments
+Share
+Save
+53.9k
+r/nottheonion
+•Posted by
+u/MhmmMuffin
+17 hours ago
+2
+2
+2
+Educators no longer need a college degree to begin teaching in Arizona public schools
+azfamily.com/2022/0...
+Join
+3.6k Comments
+Share
+Save
+11.3k
+r/StardewValley
+•Posted by
+u/Pikafishy
+17 hours ago
+2
+2
+Join
+I picked the d&d frog boy, you?
+Question
+3.3k Comments
 Share
 Save
 Advertisement
