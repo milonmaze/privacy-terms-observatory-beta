@@ -86,3 +86,7 @@ By continuing to browse or by clicking "I Accept", you agree to the storing of f
 
 I Accept
 Cookies Settings
+
+Registration Is Now Open for InstructureCon 2022!
+
+SAVE YOUR SEAT
