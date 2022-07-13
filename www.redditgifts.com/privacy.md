@@ -1,94 +1,93 @@
 Found the internet!
 Trending today
-Donald Trump
-Trump Calls On Wis. GOP To Nullify Elector Votes, Make Him Victor After Ballot Box Ruling
+Jan 6 Hearings
+Rep. Liz Cheney says Trump tried to contact witness in Jan. 6 investigation, Justice Department has been alerted
 r/politics and more
-Sri Lanka Protests
-Sri Lanka president to resign after palace stormed - BBC News
-Amber Heard
-Insurance Company Sues Amber Heard to Keep from Paying for Johnny Depp Judgment and Legal Fees
-r/entertainment and more
-Boris Johnson
-Labour demands Boris Johnson quit immediately over 'national security risk' | It follows Boris Johnson’s admission he met a former Russian spy without either officials or his security team present
-r/unitedkingdom and more
-Women's March
-Thousands turn out for Women’s March in D.C. to pressure Biden on abortion rights
+Three Arrows
+Three Arrows' Assets Frozen In Emergency Hearing
+r/CryptoCurrency and more
+Sri Lanka
+Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet
+Rudy Giuliani
+Photo shows Rudy Giuliani being escorted from White House after ‘nuts’ Trump election conspiracist meeting
+r/politics and more
+Inflation
+Inflation rose 9.1% in June, even more than expected, as price pressures intensify
 r/news and more
-Arizona Public Schools
-Educators no longer need a college degree to begin teaching in Arizona public schools
-r/nottheonion and more
+Robert Lewandowski
+[Gerard Romero] Bayern have informed Barcelona that if they want to finalize the signing of Lewandowski, a club executive must travel to Munich to close the deal face to face.
+r/soccer and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-41.1k
-r/Damnthatsinteresting
+11.5k
+r/DnD
 •Posted by
-u/FutureSkeIeton
-5 hours ago
+u/FallacyDog
+15 hours ago
 2
-5
-7
-2
-Join
-Same location, two different times.
-Image
-306 Comments
-Share
-Save
-13.4k
-r/funny
-•Posted by
-u/Curious_Strike3950
-4 hours ago
+3
 4
 Join
-This guy finally succeeds.
+Before I disappear for the next six months making thousands of these musical dice, I’m giving away one last set in brass. Only 48 hours left in the Kickstarter. Comment to enter! (Mod approved) [OC] [Art]
+OC
 0:00
-0:25
-162 Comments
+0:29
+9.1k Comments
 Share
 Save
-67.7k
-r/pics
+Vote
+r/space
 •Posted by
-u/SoDakZak
-16 hours ago
-11
-11
-& 7 More
+u/Soggy_Bag_6053
+2 hours ago
 Join
-[OC] Wife and I accidentally went to a Michelin Star restaurant on our honeymoon in Ireland
-1/8
-4.6k Comments
+Something behind the moon. Astronomer Jan Koet captured this video.
+0:00
+0:35
+297 Comments
 Share
 Save
-53.9k
-r/nottheonion
+22.4k
+r/AskReddit
 •Posted by
-u/MhmmMuffin
-17 hours ago
-2
-2
-2
-Educators no longer need a college degree to begin teaching in Arizona public schools
-azfamily.com/2022/0...
+u/JasonXP2000
+18 hours ago
+3
+3
+3
 Join
-3.6k Comments
+Which actor did such a kick-ass job in a certain role that you could never imagine anyone else playing it?
+nsfw
+18.7k Comments
 Share
 Save
-11.3k
-r/StardewValley
+14.2k
+r/formula1
 •Posted by
-u/Pikafishy
-17 hours ago
+u/Clorox43xD
+4 hours ago
 2
+5
 2
 Join
-I picked the d&d frog boy, you?
-Question
-3.3k Comments
+Daniel Ricciardo on his instagram
+ News /r/all
+896 Comments
+Share
+Save
+15.9k
+r/Unexpected
+•Posted by
+u/iMlaath
+4 hours ago
+2
+Join
+Falling down
+nsfw
+133 Comments
 Share
 Save
 Advertisement
