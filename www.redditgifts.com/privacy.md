@@ -1,93 +1,86 @@
 Found the internet!
 Trending today
-Jan 6 Hearings
-Rep. Liz Cheney says Trump tried to contact witness in Jan. 6 investigation, Justice Department has been alerted
-r/politics and more
-Three Arrows
-Three Arrows' Assets Frozen In Emergency Hearing
-r/CryptoCurrency and more
-Sri Lanka
-Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet
-Rudy Giuliani
-Photo shows Rudy Giuliani being escorted from White House after ‘nuts’ Trump election conspiracist meeting
-r/politics and more
-Inflation
-Inflation rose 9.1% in June, even more than expected, as price pressures intensify
+Deandre Ayton
+[Charania] The Phoenix Suns have matched the Indiana Pacers’ four-year, $133 million maximum offer sheet on Deandre Ayton, sources tell @TheAthletic @Stadium. Ayton stays in Phoenix.
+r/nba and more
+Amazon Ring
+Amazon finally admits giving cops Ring doorbell data without user consent
+r/technology and more
+Nintendo
+Nintendo Japan officially provides spousal benefits to same-sex partnerships
+Saudi Arabia
+Saudi Arabia more than doubles the amount of Russian fuel oil it imports to free up the kingdom’s own crude for export
+Elon Musk's Father
+Elon Musk’s father reveals he had child with his stepdaughter
 r/news and more
-Robert Lewandowski
-[Gerard Romero] Bayern have informed Barcelona that if they want to finalize the signing of Lewandowski, a club executive must travel to Munich to close the deal face to face.
-r/soccer and more
+Secret Service
+Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says
+r/news and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-11.5k
-r/DnD
+Vote
+r/AnimalsBeingDerps
 •Posted by
-u/FallacyDog
-15 hours ago
+u/random_andy98
+2 hours ago
 2
 3
-4
 Join
-Before I disappear for the next six months making thousands of these musical dice, I’m giving away one last set in brass. Only 48 hours left in the Kickstarter. Comment to enter! (Mod approved) [OC] [Art]
-OC
+Don't do it!
 0:00
-0:29
-9.1k Comments
+2:59
+241 Comments
 Share
 Save
-Vote
-r/space
+13.8k
+r/funny
 •Posted by
-u/Soggy_Bag_6053
-2 hours ago
+u/joblessboyy
+3 hours ago
 Join
-Something behind the moon. Astronomer Jan Koet captured this video.
+filter man
 0:00
-0:35
-297 Comments
+0:18
+138 Comments
 Share
 Save
-22.4k
+16.0k
 r/AskReddit
 •Posted by
-u/JasonXP2000
-18 hours ago
-3
-3
-3
-Join
-Which actor did such a kick-ass job in a certain role that you could never imagine anyone else playing it?
-nsfw
-18.7k Comments
-Share
-Save
-14.2k
-r/formula1
-•Posted by
-u/Clorox43xD
-4 hours ago
+u/ToeMost3146
+15 hours ago
 2
 5
-2
 Join
-Daniel Ricciardo on his instagram
- News /r/all
-896 Comments
+What celebrity would break the internet if they decided to start their porn career?
+nsfw
+8.2k Comments
 Share
 Save
-15.9k
-r/Unexpected
+22.2k
+r/facepalm
 •Posted by
-u/iMlaath
+u/tacolordY
 4 hours ago
 2
 Join
-Falling down
-nsfw
-133 Comments
+Yahoo Answers might be gone, but we still have Quora
+ 🇲​🇮​🇸​🇨​
+1.3k Comments
+Share
+Save
+17.0k
+r/MadeMeSmile
+•Posted by
+u/teem0m0
+4 hours ago
+Join
+That's.. Pretty cool
+ Family & Friends 
+78 Comments
 Share
 Save
 Advertisement
