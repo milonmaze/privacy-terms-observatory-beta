@@ -1,86 +1,94 @@
 Found the internet!
 Trending today
-Deandre Ayton
-[Charania] The Phoenix Suns have matched the Indiana Pacers’ four-year, $133 million maximum offer sheet on Deandre Ayton, sources tell @TheAthletic @Stadium. Ayton stays in Phoenix.
-r/nba and more
-Amazon Ring
-Amazon finally admits giving cops Ring doorbell data without user consent
+Ted Cruz
+Ted Cruz says SCOTUS "clearly wrong" to legalize gay marriage
+r/politics and more
+Firefox
+I've started using Mozilla Firefox and now I can never go back to Google Chrome
 r/technology and more
-Nintendo
-Nintendo Japan officially provides spousal benefits to same-sex partnerships
-Saudi Arabia
-Saudi Arabia more than doubles the amount of Russian fuel oil it imports to free up the kingdom’s own crude for export
-Elon Musk's Father
-Elon Musk’s father reveals he had child with his stepdaughter
+Jamal Khashoggi
+Ex-Khashoggi lawyer sentenced to 3 years in prison by UAE court, state media says
+Bank of America
+Bank of America fined $225 million for denying pandemic benefits
 r/news and more
-Secret Service
-Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says
-r/news and more
+Tupac Shakur
+TIL Tupac Shakur was a member of the Baltimore Young Communist League and dated the daughter of the director of the local chapter of the Communist Party USA.
+r/todayilearned and more
+Vladimir Putin
+Russia threatens Swiss newspaper over Putin caricature
 Popular posts
 Hot
 Everywhere
 New
 Top
-Vote
-r/AnimalsBeingDerps
-•Posted by
-u/random_andy98
-2 hours ago
-2
-3
-Join
-Don't do it!
-0:00
-2:59
-241 Comments
-Share
-Save
-13.8k
-r/funny
-•Posted by
-u/joblessboyy
-3 hours ago
-Join
-filter man
-0:00
-0:18
-138 Comments
-Share
-Save
-16.0k
+21.7k
 r/AskReddit
 •Posted by
-u/ToeMost3146
-15 hours ago
+u/Common-Transition973
+12 hours ago
+Join
+Non Texans , what are your thoughts when you hear 'Texas?'
+19.4k Comments
+Share
+Save
+14.2k
+r/PrequelMemes
+•Posted by
+u/johnlen1n
+3 hours ago
+Join
+What a play
+General KenOC
+75 Comments
+Share
+Save
+38.9k
+r/interestingasfuck
+•Posted by
+u/CristSchrad
+5 hours ago
 2
 5
+& 7 More
 Join
-What celebrity would break the internet if they decided to start their porn career?
-nsfw
-8.2k Comments
+An unexpected new friend while filming sleepy sharks
+/r/ALL
+0:00
+0:56
+813 Comments
 Share
 Save
-22.2k
-r/facepalm
+15.5k
+r/LeopardsAteMyFace
 •Posted by
-u/tacolordY
-4 hours ago
+u/Maagelo
+5 hours ago
+Join
+Rest in piss.
+487 Comments
+Share
+Save
+40.5k
+r/politics
+•Posted by
+u/themimeofthemollies
+16 hours ago
+3
+Ted Cruz says SCOTUS "clearly wrong" to legalize gay marriage
+newsweek.com/ted-cr...
+Join
+4.5k Comments
+Share
+Save
+25.4k
+r/WhitePeopleTwitter
+•Posted by
+u/lovely_bird22
+5 hours ago
 2
 Join
-Yahoo Answers might be gone, but we still have Quora
- 🇲​🇮​🇸​🇨​
-1.3k Comments
-Share
-Save
-17.0k
-r/MadeMeSmile
-•Posted by
-u/teem0m0
-4 hours ago
-Join
-That's.. Pretty cool
- Family & Friends 
-78 Comments
+Well said .
+637 Comments
 Share
 Save
 Advertisement
