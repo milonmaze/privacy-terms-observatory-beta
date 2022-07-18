@@ -1,94 +1,84 @@
 Found the internet!
 Trending today
-Ted Cruz
-Ted Cruz says SCOTUS "clearly wrong" to legalize gay marriage
+Uvalde
+The welcome home for a teacher in Uvalde, whole town came out to see him.
+r/PublicFreakout and more
+Steve Bannon
+Steve Bannon is going into his criminal contempt of Congress trial on Monday virtually defenseless — and already eyeing an appeal of a guilty verdict
 r/politics and more
-Firefox
-I've started using Mozilla Firefox and now I can never go back to Google Chrome
-r/technology and more
-Jamal Khashoggi
-Ex-Khashoggi lawyer sentenced to 3 years in prison by UAE court, state media says
-Bank of America
-Bank of America fined $225 million for denying pandemic benefits
-r/news and more
-Tupac Shakur
-TIL Tupac Shakur was a member of the Baltimore Young Communist League and dated the daughter of the director of the local chapter of the Communist Party USA.
-r/todayilearned and more
-Vladimir Putin
-Russia threatens Swiss newspaper over Putin caricature
+MLB Draft
+[Baseball America] With the #20 pick in the 2022 MLB Draft the Braves select Owen Murphy, RHP, Riverside-Brookfield HS (Riverside, Ill.)
+r/Braves and more
+Jennifer Lopez & Ben Affleck
+Jennifer Lopez and Ben Affleck marry at Las Vegas tunnel of love drive-thru
+r/entertainment and more
+Delta 737 MAX
+[Reuters] Delta to announce deal for 100 Boeing 737 MAX 10
+r/delta and more
+Cameron Smith
+Cameron Smith wins The Open Championship with stunning final round vs Rory McIlroy
+r/sports and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-21.7k
-r/AskReddit
+68.5k
+r/mildlyinfuriating
 •Posted by
-u/Common-Transition973
-12 hours ago
-Join
-Non Texans , what are your thoughts when you hear 'Texas?'
-19.4k Comments
-Share
-Save
-14.2k
-r/PrequelMemes
-•Posted by
-u/johnlen1n
-3 hours ago
-Join
-What a play
-General KenOC
-75 Comments
-Share
-Save
-38.9k
-r/interestingasfuck
-•Posted by
-u/CristSchrad
-5 hours ago
-2
+u/AstoundingGrape
+15 hours ago
 5
-& 7 More
-Join
-An unexpected new friend while filming sleepy sharks
-/r/ALL
-0:00
-0:56
-813 Comments
-Share
-Save
-15.5k
-r/LeopardsAteMyFace
-•Posted by
-u/Maagelo
-5 hours ago
-Join
-Rest in piss.
-487 Comments
-Share
-Save
-40.5k
-r/politics
-•Posted by
-u/themimeofthemollies
-16 hours ago
 3
-Ted Cruz says SCOTUS "clearly wrong" to legalize gay marriage
-newsweek.com/ted-cr...
+13
+& 545 More
 Join
-4.5k Comments
+My friend group forgot today is my birthday and went to see a movie we had plans to see without me
+SEE FULL IMAGE
+11.3k Comments
 Share
 Save
-25.4k
-r/WhitePeopleTwitter
+76.9k
+r/Damnthatsinteresting
 •Posted by
-u/lovely_bird22
-5 hours ago
+u/PlenitudeOpulence
+13 hours ago
+2
+12
+13
+& 21 More
+Join
+Putting a period pain simulator on a cowboy
+Video
+0:00
+3:09
+5.3k Comments
+Share
+Save
+22.7k
+r/funny
+•Posted by
+u/supermanistaken
+3 hours ago
+2
 2
 Join
-Well said .
-637 Comments
+curious for cat... terrifying for us.
+0:00
+0:09
+260 Comments
+Share
+Save
+15.3k
+r/worldnews
+•Posted by
+u/misana123
+3 hours ago
+& 4 More
+Humanity faces ‘collective suicide’ over climate crisis, warns UN chief | António Guterres tells governments ‘half of humanity is in danger zone’, as countries battle extreme heat
+theguardian.com/enviro...
+Join
+1.2k Comments
 Share
 Save
 Advertisement
