@@ -106,5 +106,3 @@ For more information, contact us at the address above, or email Privacy.Info@JPM
 
 
 CA: Accounts with a California mailing address are automatically treated as if they have limited the sharing with nonaffiliates as described on page 1. CA residents are provided a CA notice for additional choices.
-
-Si tienes alguna pregunta, por favor llama o visita una sucursal local de Chase.
