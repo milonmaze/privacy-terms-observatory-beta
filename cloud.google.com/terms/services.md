@@ -120,7 +120,7 @@ Data Catalog: Data Catalog is a fully-managed and scalable metadata management s
 
 *Data Studio: Data Studio is a data visualization and business intelligence product. It enables customers to connect to their data stored in other systems, create reports and dashboards using that data, and share them throughout their organization.
 
-Dataplex: Dataplex is an intelligent data fabric that helps customers unify distributed data and automate management and governance across that data to power analytics at scale.  
+Dataplex: Dataplex is an intelligent data fabric that helps customers unify distributed data and automate management and governance across that data to power analytics at scale.
 
 Dataflow: Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.
 
@@ -211,7 +211,7 @@ API Gateway: API Gateway is a fully-managed service that helps you develop, dep
 
 Cloud Endpoints: Cloud Endpoints is a tool that helps you to develop, deploy, secure and monitor your APIs running on Google Cloud Platform.
 
-Payment Gateway:  Payment Gateway is a managed service that provides a reliable, scalable and secure way for customers to integrate with real time payment systems like Unified Payments Interface (UPI).  
+Payment Gateway: Payment Gateway is a managed service that provides a reliable, scalable and secure way for customers to integrate with real time payment systems like Unified Payments Interface (UPI).
 
 Issuer Switch: Issuer Switch provides customers with a managed deployment of standard payment interfaces for performing payment and non-payment transactions on their users’ accounts.
 
@@ -220,7 +220,7 @@ Hybrid and Multi-cloud
 Anthos: Anthos is a solution designed for building and managing modern applications running across hybrid cloud environments. Anthos is an integrated platform incorporating cloud-based services and software components, including:
 
 Anthos Config Management: Anthos Config Management is a policy management solution for enabling consistent configuration across multiple Kubernetes clusters. Anthos Config Management allows you to specify one single source of truth and then enforce those policies on your cluster.
-Anthos Identity Service: Anthos Identity Service is an authentication service that lets customers bring existing identity solutions for authentication to multiple Anthos environments. Users can log in to and access their Anthos clusters from the command line or from the Cloud Console, all using their existing identity providers.
+Anthos Identity Service: Anthos Identity Service is an authentication service that lets customers bring existing identity solutions for authentication to multiple Anthos environments. Users can log in to and access their Anthos clusters from the command line or from the Google Cloud console, all using their existing identity providers.
 Anthos Integration with Google Cloud Platform Services: Google Cloud Platform services and components may be used in connection with Anthos deployments, including Google Kubernetes Engine (GKE), Cloud Logging, Cloud Monitoring, Traffic Director, and Google Cloud Platform Marketplace.
 Anthos Premium Software: Anthos includes the software components listed below as Premium Software.
 Anthos Service Mesh: Anthos Service Mesh is a managed service mesh service that includes (i) a managed certificate authority that issues cryptographic certificates that identify customer workloads within the Anthos Service Mesh for mutual authentication, and (ii) telemetry for customers to manage and monitor their services. Customers receive details showing an inventory of services, can understand their service dependencies, and receive metrics for monitoring their services. For clarity this service does not include Anthos Service Mesh -- Software (see below regarding Premium Software).
@@ -322,7 +322,7 @@ Resource Manager API: Resource Manager API allows you to programmatically manag
 
 Google Distributed Cloud
 
-Google Distributed Cloud - Edge:  Google Distributed Cloud - Edge allows you to run private Google Kubernetes Engine clusters on dedicated hardware, which is provided and maintained by Google on Customer premises.  This solution also provides you with a VPN connection to Google Cloud Platform, allowing you to interact with other GCP Services or other applications running in your Virtual Private Cloud.
+Google Distributed Cloud - Edge: Google Distributed Cloud - Edge allows you to run private Google Kubernetes Engine clusters on dedicated hardware, which is provided and maintained by Google on Customer premises.This solution also provides you with a VPN connection to Google Cloud Platform, allowing you to interact with other GCP Services or other applications running in your Virtual Private Cloud.
 
 Sovereign Controls by Sovereign Partners
 
@@ -356,7 +356,7 @@ IoT Core: IoT Core is a fully-managed service that allows you to easily and secu
 
 Management Tools
 
-Cloud Console App: Cloud Console app is a native mobile app that enables customers to manage key Google Cloud services. It provides monitoring, alerting, and the ability to take actions on resources.
+Google Cloud App: Google Cloud app is a native mobile app that enables customers to manage key Google Cloud services. It provides monitoring, alerting, and the ability to take actions on resources.
 
 Cloud Deployment Manager: Cloud Deployment Manager is a hosted configuration tool which allows developers and administrators to provision and manage their infrastructure on Google Cloud Platform. It uses a declarative model which allows users to define or change the resources necessary to run their applications and will then provision and manage those resources.
 
