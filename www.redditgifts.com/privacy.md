@@ -1,84 +1,114 @@
 Found the internet!
 Trending today
-Uvalde
-The welcome home for a teacher in Uvalde, whole town came out to see him.
-r/PublicFreakout and more
-Steve Bannon
-Steve Bannon is going into his criminal contempt of Congress trial on Monday virtually defenseless — and already eyeing an appeal of a guilty verdict
+Hoover Dam
+Explosion at Hoover Dam 2022
+r/Damnthatsinteresting and more
+NATO
+NATO leader tells Europe to "stop complaining" and help Ukraine
+Maryland Election
+Dan Cox, an election denier, wins the Maryland Republican primary for governor
+r/nottheonion and more
+Sri Lanka President
+Executive President of Sri Lanka Ranil Wickremesinghe
+r/srilanka and more
+Marriage Equality
+House passes bill protecting marriage equality, with 47 GOP members voting ‘yes’
 r/politics and more
-MLB Draft
-[Baseball America] With the #20 pick in the 2022 MLB Draft the Braves select Owen Murphy, RHP, Riverside-Brookfield HS (Riverside, Ill.)
-r/Braves and more
-Jennifer Lopez & Ben Affleck
-Jennifer Lopez and Ben Affleck marry at Las Vegas tunnel of love drive-thru
-r/entertainment and more
-Delta 737 MAX
-[Reuters] Delta to announce deal for 100 Boeing 737 MAX 10
-r/delta and more
-Cameron Smith
-Cameron Smith wins The Open Championship with stunning final round vs Rory McIlroy
-r/sports and more
+MLB All-Star
+Who do you think should host the 2024 MLB All-Star Game, still unannounced as of posttime?
+r/baseball and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-68.5k
-r/mildlyinfuriating
+32.4k
+r/nextfuckinglevel
 •Posted by
-u/AstoundingGrape
-15 hours ago
-5
+u/Left_Side_Pride
+14 hours ago
 3
-13
-& 545 More
+3
 Join
-My friend group forgot today is my birthday and went to see a movie we had plans to see without me
-SEE FULL IMAGE
-11.3k Comments
-Share
-Save
-76.9k
-r/Damnthatsinteresting
-•Posted by
-u/PlenitudeOpulence
-13 hours ago
-2
-12
-13
-& 21 More
-Join
-Putting a period pain simulator on a cowboy
-Video
+A badass Special Education teacher tackled a dog who mauled 12 children in an elementary school.
 0:00
-3:09
-5.3k Comments
+1:08
+5.9k Comments
 Share
 Save
-22.7k
-r/funny
+17.1k
+r/interestingasfuck
 •Posted by
-u/supermanistaken
-3 hours ago
+u/ayri_fiki
+4 hours ago
+2
 2
 2
 Join
-curious for cat... terrifying for us.
+Smuggling drugs in rocks
+/r/ALL
 0:00
-0:09
-260 Comments
+0:21
+1.1k Comments
 Share
 Save
-15.3k
-r/worldnews
+28.3k
+r/AskReddit
 •Posted by
-u/misana123
-3 hours ago
-& 4 More
-Humanity faces ‘collective suicide’ over climate crisis, warns UN chief | António Guterres tells governments ‘half of humanity is in danger zone’, as countries battle extreme heat
-theguardian.com/enviro...
+u/crazythumper7
+17 hours ago
+4
+2
+4
 Join
-1.2k Comments
+What can someone put on their car that makes you know immediately that they’re a douchebag?
+nsfw
+17.8k Comments
+Share
+Save
+15.6k
+r/wholesomememes
+•Posted by
+u/MarleekWorld
+4 hours ago
+Join
+she the best
+205 Comments
+Share
+Save
+93.6k
+r/WhitePeopleTwitter
+•Posted by
+u/suckontits
+15 hours ago
+4
+Join
+If you don’t believe in basic human rights get the f*ck out of office
+5.4k Comments
+Share
+Save
+35.3k
+r/space
+•Posted by
+u/4thDevilsAdvocate
+8 hours ago
+3
+3
+Most Americans think NASA’s $10B space telescope is a good investment, poll finds
+theverge.com/2022/7...
+Join
+1.8k Comments
+Share
+Save
+19.8k
+r/news
+•Posted by
+u/tibbut
+10 hours ago
+Secret Service turned over just one text message to January 6 panel, sources say
+theguardian.com/us-new...
+Join
+1.6k Comments
 Share
 Save
 Advertisement
