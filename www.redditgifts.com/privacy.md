@@ -1,114 +1,111 @@
 Found the internet!
 Trending today
-Hoover Dam
-Explosion at Hoover Dam 2022
-r/Damnthatsinteresting and more
-NATO
-NATO leader tells Europe to "stop complaining" and help Ukraine
-Maryland Election
-Dan Cox, an election denier, wins the Maryland Republican primary for governor
-r/nottheonion and more
-Sri Lanka President
-Executive President of Sri Lanka Ranil Wickremesinghe
-r/srilanka and more
-Marriage Equality
-House passes bill protecting marriage equality, with 47 GOP members voting ‘yes’
-r/politics and more
-MLB All-Star
-Who do you think should host the 2024 MLB All-Star Game, still unannounced as of posttime?
-r/baseball and more
+Honor Among Thieves
+Honor Among Thieves Public Servive Announcement
+r/dndmemes and more
+Game of Thrones
+House of the Dragon and all Game of Thrones seasons to be made available in 4K HDR on HBO Max
+r/television and more
+Coinbase Insider Trading
+A Coinbase Product Manager was Just Charged With Insider Trading and Arrested While Trying to Flee the Country
+r/CryptoCurrency and more
+Jan 6 Hearings
+Josh Hawley seen fleeing pro-Trump mob he ‘riled up’ with fist salute in newly released Jan. 6 footage
+r/LeopardsAteMyFace and more
+Lake Mead
+Nasa images show extreme withering of Lake Mead over 22 years
+r/environment and more
+Ukraine-Russia Grain Deal
+Deal for Ukraine grain exports due to be sealed in Istanbul
 Popular posts
 Hot
 Everywhere
 New
 Top
-32.4k
-r/nextfuckinglevel
+4.4k
+r/books
 •Posted by
-u/Left_Side_Pride
-14 hours ago
-3
-3
+u/edgy_secular_memes
+17 hours ago
 Join
-A badass Special Education teacher tackled a dog who mauled 12 children in an elementary school.
-0:00
-1:08
-5.9k Comments
+What’s the worst book you’ve ever read?
+spoilers in comments
+
+I recently read the Mothman Prophecies by John Keel and I have to by far, it’s the worst book I’ve ever read. Mothman is barely in it and most of the time it’s disorganized, utterly insane ramblings about UFOS and other supernatural phenomena and it goes into un needed detail about UFO contactees and it was so bad, it was good in some parts. It was like getting absolutely plastered by drinking the worst beer possible but still secretly enjoying it. Anyway, I was curious to know, what’s the worst book you’ve ever read?
+
+5.2k Comments
 Share
 Save
-17.1k
-r/interestingasfuck
+33.7k
+r/MadeMeSmile
 •Posted by
-u/ayri_fiki
+u/wooden_slug
 4 hours ago
-2
-2
-2
+3
+6
+4
 Join
-Smuggling drugs in rocks
-/r/ALL
+Woman passed the vibe check
+ Favorite People 
 0:00
-0:21
-1.1k Comments
+0:07
+514 Comments
 Share
 Save
-28.3k
+17.3k
 r/AskReddit
 •Posted by
-u/crazythumper7
+u/LynxExplorer
 17 hours ago
+2
+3
+6
+Join
+What made you realize the relationship was over?
+nsfw
+6.4k Comments
+Share
+Save
+32.1k
+r/Coronavirus
+•Posted by
+u/Drinkie_Zilla
+1 day ago
+3
 4
+Joe Biden tests positive for Covid
+USA
+bbc.co.uk/news/w...
+Join
+3.8k Comments
+Share
+Save
+23.8k
+r/movies
+•Posted by
+u/MarvelsGrantMan136
+18 hours ago
+3
+2
+Join
+Dungeons & Dragons: Honor Among Thieves | Official Trailer (2023 Movie)
+Trailer
+youtube.com/watch?...
+3.4k Comments
+Share
+Save
+24.4k
+r/ThatsInsane
+•Posted by
+u/SnooTangerines5364
+21 hours ago
+2
 2
 4
+& 2 More
 Join
-What can someone put on their car that makes you know immediately that they’re a douchebag?
-nsfw
-17.8k Comments
-Share
-Save
-15.6k
-r/wholesomememes
-•Posted by
-u/MarleekWorld
-4 hours ago
-Join
-she the best
-205 Comments
-Share
-Save
-93.6k
-r/WhitePeopleTwitter
-•Posted by
-u/suckontits
-15 hours ago
-4
-Join
-If you don’t believe in basic human rights get the f*ck out of office
-5.4k Comments
-Share
-Save
-35.3k
-r/space
-•Posted by
-u/4thDevilsAdvocate
-8 hours ago
-3
-3
-Most Americans think NASA’s $10B space telescope is a good investment, poll finds
-theverge.com/2022/7...
-Join
-1.8k Comments
-Share
-Save
-19.8k
-r/news
-•Posted by
-u/tibbut
-10 hours ago
-Secret Service turned over just one text message to January 6 panel, sources say
-theguardian.com/us-new...
-Join
-1.6k Comments
+Cop decks crazy woman for trying to bite him!
+3.5k Comments
 Share
 Save
 Advertisement
