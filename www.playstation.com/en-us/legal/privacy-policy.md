@@ -8,11 +8,11 @@ This Privacy Policy explains when we collect information about you, including Pe
 
 Scope of this Policy
 
-Sony Interactive Entertainment LLC, Naughty Dog LLC, Sucker Punch Productions LLC, Insomniac Games Inc., and all U.S. subsidiaries using the brand name PlayStation ("SIE", “we,” “our,” and “us”) controls the information collected when you interact with PlayStation through our Services.
+Sony Interactive Entertainment LLC, Naughty Dog LLC, Sucker Punch Productions LLC, Insomniac Games Inc., Bluepoint Games Inc., Valkyrie Entertainment LLC, and all Americas subsidiaries using the brand name PlayStation ("SIE", “we,” “our,” and “us”) controls the information collected when you interact with PlayStation through our Services.
 
 Contact Us
 
-Please contact us with any privacy questions at http://www.playstation.com/support.
+Please contact us with any privacy questions by phone at 1-800-345-7669 or online at http://www.playstation.com/support. See the bottom of this Privacy Policy for additional ways to contact us or to contact us for specific matters.
 
 Information That We Collect or Receive
 
@@ -189,26 +189,22 @@ This Privacy Statement and the confirmation page at www.esrb.org/confirm/siea-c
 
 How to Contact Us About this Privacy Policy
 
- 
+For further information on our Privacy Policy, or how users can review or change their information, please contact us at:
 
-For further information on our Privacy Policy, or how users can review or change their information, please contact us:
-
- 
-
-- Live Chat: https://support.playstation.com/LiveChatRequest
-
-- By Phone at: 1-800-345-7669
+- By Phone at: 
+1-800-345-7669
 
 - By Mail at:
-
 SONY INTERACTIVE ENTERTAINMENT CONSUMER SERVICES DEPARTMENT
-
 2207 BRIDGEPOINTE PARKWAY
-
 SAN MATEO, CALIFORNIA, 94404
+
+Online: www.playstation.com/support
+
+SIE is a licensee of ESRB's Privacy Certified Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at www.esrb.org/privacy/contact.aspx.
 
 Changes to this Policy
 
 We may revise this Privacy Policy at any time and we will update this Policy with any revisions. By continuing to access or use the Services after those changes become effective, you acknowledge and accept that PI will be handled in accordance with the revised Privacy Policy.
 
-Last Revised: 2021-09
+Last Revised: 2022-07
