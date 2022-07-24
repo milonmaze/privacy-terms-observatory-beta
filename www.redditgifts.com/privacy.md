@@ -1,111 +1,113 @@
 Found the internet!
 Trending today
-Honor Among Thieves
-Honor Among Thieves Public Servive Announcement
-r/dndmemes and more
-Game of Thrones
-House of the Dragon and all Game of Thrones seasons to be made available in 4K HDR on HBO Max
-r/television and more
-Coinbase Insider Trading
-A Coinbase Product Manager was Just Charged With Insider Trading and Arrested While Trying to Flee the Country
-r/CryptoCurrency and more
-Jan 6 Hearings
-Josh Hawley seen fleeing pro-Trump mob he ‘riled up’ with fist salute in newly released Jan. 6 footage
-r/LeopardsAteMyFace and more
-Lake Mead
-Nasa images show extreme withering of Lake Mead over 22 years
-r/environment and more
-Ukraine-Russia Grain Deal
-Deal for Ukraine grain exports due to be sealed in Istanbul
+Nuclear Power
+Nuclear power plants are struggling to stay cool - Climate change is reducing output and raising safety concerns at nuclear facilities.
+r/technology and more
+Marvel Studios
+Marvel Studios’ Black Panther: Wakanda Forever | Official Teaser
+r/marvelstudios and more
+Secret Service
+Deleted text messages from Jan 6 found on 10 Secret Service staff phones, report says
+r/politics and more
+Netflix Fees
+Netflix adds “extra home” fee, will block usage in other homes if you don’t pay
+r/technology and more
+Donald Trump
+Trump booed as he announces endorsement at Arizona rally: ‘But you like me, right?’ says Trump awkwardly as crowd voices displeasure at former president’s congressional primary pick
+r/politics and more
+Odesa Missile Strike
+Russia-Ukraine updates: US says strike on Odesa 'casts serious doubt' on Moscow's credibility
+r/UkrainianConflict and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-4.4k
-r/books
+32.9k
+r/technology
 •Posted by
-u/edgy_secular_memes
-17 hours ago
+u/Arpith2019
+13 hours ago
+Netflix adds “extra home” fee, will block usage in other homes if you don’t pay
+Business
+arstechnica.com/inform...
 Join
-What’s the worst book you’ve ever read?
-spoilers in comments
-
-I recently read the Mothman Prophecies by John Keel and I have to by far, it’s the worst book I’ve ever read. Mothman is barely in it and most of the time it’s disorganized, utterly insane ramblings about UFOS and other supernatural phenomena and it goes into un needed detail about UFO contactees and it was so bad, it was good in some parts. It was like getting absolutely plastered by drinking the worst beer possible but still secretly enjoying it. Anyway, I was curious to know, what’s the worst book you’ve ever read?
-
-5.2k Comments
+5.0k Comments
 Share
 Save
-33.7k
+12.8k
 r/MadeMeSmile
 •Posted by
-u/wooden_slug
-4 hours ago
-3
-6
+u/Capedbaldy474
+3 hours ago
 4
+4
+9
 Join
-Woman passed the vibe check
- Favorite People 
+John Cena is surprised by a fan
+ Family & Friends 
 0:00
-0:07
-514 Comments
+1:46
+472 Comments
 Share
 Save
-17.3k
+6.6k
 r/AskReddit
 •Posted by
-u/LynxExplorer
-17 hours ago
-2
-3
-6
+u/BaconBalthi
+14 hours ago
+4
 Join
-What made you realize the relationship was over?
+You’re have 5min left to live and can listen to one final piece of music. Which music do you choose?
 nsfw
-6.4k Comments
+8.7k Comments
 Share
 Save
-32.1k
-r/Coronavirus
+14.4k
+r/wholesomememes
 •Posted by
-u/Drinkie_Zilla
-1 day ago
-3
-4
-Joe Biden tests positive for Covid
-USA
-bbc.co.uk/news/w...
+u/EverythingIsFine08
+3 hours ago
+7
 Join
-3.8k Comments
+thanks mom
+Gif
+124 Comments
 Share
 Save
-23.8k
-r/movies
+10.8k
+r/news
 •Posted by
-u/MarvelsGrantMan136
-18 hours ago
-3
-2
+u/EvolvingBoner
+4 hours ago
+Woman found dead in her flat after 2 years even though residents reported horrible smell
+bbc.co.uk/news/u...
 Join
-Dungeons & Dragons: Honor Among Thieves | Official Trailer (2023 Movie)
-Trailer
-youtube.com/watch?...
-3.4k Comments
+635 Comments
 Share
 Save
-24.4k
-r/ThatsInsane
+11.7k
+r/space
 •Posted by
-u/SnooTangerines5364
-21 hours ago
+u/__Augustus_
+4 hours ago
 2
-2
-4
-& 2 More
 Join
-Cop decks crazy woman for trying to bite him!
-3.5k Comments
+I took this photo of the Moon with a 3D-printed telescope and my smartphone
+image/gif
+i.imgur.com/0uYDyp...
+177 Comments
+Share
+Save
+9.9k
+r/maybemaybemaybe
+•Posted by
+u/Big-Position960
+7 hours ago
+Join
+maybe maybe maybe
+/r/all
+5.0k Comments
 Share
 Save
 Advertisement
