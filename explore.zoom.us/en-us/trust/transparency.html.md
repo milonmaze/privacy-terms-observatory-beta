@@ -11,7 +11,7 @@ Definitions
 Data set
 Overview
 
-Released: Feb 8, 2022
+Released: July 26, 2022
 
 We are pleased to offer our transparency report for the period of July 1, 2021 through December 31, 2021. This report is designed to offer insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. Zoom believes that transparency is critical to building trust and fostering the free and open exchange of ideas.
 
@@ -25,7 +25,7 @@ We categorize the data associated with each request in our case management syste
 
 We will not update the transparency report for this reporting period other than as required by law.
 
-Here is a summary of the requests we’ve processed from July 1, 2021 through December 31, 2021, and how we responded to them. If you would like to see our 2021 - Q1/Q2 Transparency Report, use the date selection in the chart below.
+Here is a summary of the requests we’ve processed from January 1, 2022 through June 30, 2022, and how we responded to them. If you would like to see our previous Transparency Reports, use the date selection in the chart below.
 
 U.S. Requests
 
@@ -33,7 +33,7 @@ U.S. requests to Zoom can come in the form of search warrants, subpoenas (grand 
 
 Delayed-notice orders (U.S. only)
 
-In this period, 44 US requests came with a delayed notification order.
+In this period, 39 US requests came with a delayed notification order.
 
 International Requests
 
@@ -74,4 +74,4 @@ Data Set
 
 Here is the data set of all the requests included in this transparency report.
 
-To access our previous Transparency Reports, please click here.
+To access our first Transparency Report, please click here.
