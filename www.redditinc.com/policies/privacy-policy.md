@@ -1,3 +1,4 @@
+Advertisement
 Reddit Privacy Policy
 English (US)
 Revisions
@@ -240,5 +241,3 @@ Ireland
 Or:
 
 eurepresentative@reddit.com
-
-Advertisement
