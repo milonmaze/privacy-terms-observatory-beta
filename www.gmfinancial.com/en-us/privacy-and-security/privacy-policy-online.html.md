@@ -39,7 +39,7 @@ Simple Interest
 Financial Articles
 FAQ
 Payment Options
-Latest Articles
+Document Center
 COMPANY
 About Us
 Leadership
