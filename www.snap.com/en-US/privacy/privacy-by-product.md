@@ -20,6 +20,18 @@ Voice and Video Chat
 
 Snap and Chat Metadata
 
+Snapchat for Web
+
+Snapchat for Web lets you Snap, Chat, and call your Friends from the convenience of your laptop. To get started, just sign in with your Snapchat credentials. After signing in, we’ll send a push notification to your Snapchat app, just to make sure it’s really you. 
+
+Once you’re up and running, you’ll notice Snapchat for Web is very similar to the Snapchat app experience, but there are a few differences we want you to be aware of. For example, if you’re calling someone on Web, you’ll only have access to a selected set of Lenses, and not all creative tools may be available to you. And, if you receive a Snap, you won’t yet be able to view it on Snapchat for Web, you’ll have to use the Snapchat app for that.
+
+You can expect more changes to follow, and check out the below resources to learn more!
+
+How to Call, Snap, and Chat from Snapchat for Web
+
+Learn More About Snapchat for Web
+
 Stories
 
 Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group of friends.
