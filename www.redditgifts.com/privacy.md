@@ -1,119 +1,115 @@
 Found the internet!
 Trending today
-Elon Musk Affair
-Weird Nerd Defending Elon Musk - The Extended Cut
-r/HighQualityGifs and more
-GOP
-Rep. Marjorie Taylor Greene Says GOP 'Should Be Christian Nationalists' Party
-r/politics and more
-Jason Momoa
-Jason Momoa survives head-on collision with motorcyclist
-r/entertainment and more
-Moldova
-Moldova ‘very worried’ about Russia invasion: ‘nobody is safe’
-Al Gore
-Former Vice President Al Gore compares climate deniers' inaction to Uvalde law enforcement officers
-r/environment and more
-Monkeypox
-WHO declares monkeypox a global health emergency
-r/Health and more
+Net Neutrality
+Democrats revive the fight for net neutrality - Democrats put out a new bill to codify the rules
+r/technology and more
+DK Metcalf
+[Garafolo] The #Seahawks and DK Metcalf have agreed to terms on a three-year, $72 million extension with $58.2 million guaranteed, source says. Gets a $30 million signing bonus, highest ever for a WR.
+r/DynastyFF and more
+Kentucky Flooding
+‘Catastrophic’ flash flooding turns deadly, leaves Kentucky towns underwater
+r/news and more
+Lollapalooza
+Metallica give 'Stranger Things' and Eddie Munson shoutout during Lollapalooza performance of 'Master of Puppets'
+r/television and more
+Volodymyr Zelensky
+President of Ukraine Volodymyr Zelensky and the ambassadors of the G7 countries in Odessa. The purpose of the visit is to control the launch of the "grain corridor".
+r/ukraine and more
+Beyonce - Renaissance
+LISTENING POST: 6 years after 'Lemonade' Beyoncé releases 'Renaissance'! Come listen and discuss here
+r/popculturechat and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-37.1k
-r/GlobalOffensive
+7.5k
+PINNED BY MODERATORS
+r/OnePiece
 •Posted by
-u/Saucypikl
-22 hours ago
-10
-6
-8
+u/Kirosh2
+11 hours ago
+30
+25
+30
 Join
-Female streamer talks instantly gets kicked.
-Gameplay
-0:00
-0:21
-2.7k Comments
+One Piece: Chapter 1055
+Current Chapterspoiler
+6.5k Comments
 Share
 Save
-23.5k
-r/news
-•Posted by
-u/BubbaJimbo
-16 hours ago
-Florida school board rejects new sex ed textbooks - CNN
-cnn.com/2022/0...
-Join
-2.6k Comments
-Share
-Save
-22.5k
+6.1k
 r/AskReddit
 •Posted by
-u/OhmMeGag
-15 hours ago
+u/throwaway__alt_acc
+10 hours ago
 2
-5
-7
 Join
-What's the best response to an unwanted dick pic?
-nsfw
-9.1k Comments
+which animal should go extinct?
+6.4k Comments
 Share
 Save
-75.0k
-r/PublicFreakout
+44.8k
+r/entertainment
 •Posted by
-u/Codeman-crazy
-13 hours ago
-16
-11
-& 20 More
+u/PrincessBananas85
+21 hours ago
+3
+Gwyneth Paltrow under fire for saying kids of celebs "work twice as hard"
+newsweek.com/gwynet...
 Join
-Incoming medical students walk out at University of Michigan’s white coat ceremony as the keynote speaker is openly anti-abortion.
-✊Protest Freakout
-0:00
-0:24
-6.0k Comments
+5.0k Comments
 Share
 Save
-45.7k
-r/IdiotsInCars
-•Posted by
-u/Verucaschmaltz
-18 hours ago
-2
-5
-& 12 More
-Join
-Influencer blocks traffic to a hospital because she's waiting in a drive-through line to get KFC.. in the wrong lane
-503 Comments
-Share
-Save
-17.6k
+45.9k
 r/funny
 •Posted by
-u/_simmis_
-3 hours ago
-8
-& 20 More
+u/Narrow-Rip-4790
+15 hours ago
+5
+& 13 More
 Join
-My brother left me a voicemail about how f'd we are and I animated it
-801 Comments
+Tell me how I got this bruise.
+4.8k Comments
 Share
 Save
-4.9k
-r/technology
+56.4k
+r/interestingasfuck
 •Posted by
-u/Sumit316
-2 hours ago
-BMW’s heated seats as a service model has drivers seeking hacks
-Business
-wired.com/story/...
+u/AbatNaBitin
+11 hours ago
+5
+& 10 More
 Join
-670 Comments
+Scientologists stalks and harass an ex-member at an airport
+/r/ALL
+0:00
+2:35
+4.5k Comments
+Share
+Save
+13.2k
+r/worldnews
+•Posted by
+u/The_Jizzbot
+3 hours ago
+Shakira could be jailed for 8 years in Spain for tax fraud
+billboard.com/music/...
+Join
+1.1k Comments
+Share
+Save
+24.5k
+r/funny
+•Posted by
+u/superwomanii
+5 hours ago
+5
+6
+2
+Join
+Grandpa has some serious moves!
+370 Comments
 Share
 Save
 Advertisement
