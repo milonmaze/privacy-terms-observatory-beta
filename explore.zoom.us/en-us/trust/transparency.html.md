@@ -13,7 +13,7 @@ Overview
 
 Released: July 26, 2022
 
-We are pleased to offer our transparency report for the period of July 1, 2021 through December 31, 2021. This report is designed to offer insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. Zoom believes that transparency is critical to building trust and fostering the free and open exchange of ideas.
+We are pleased to offer our transparency report for the period of January 1, 2022 through June 30, 2022. This report is designed to offer insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. Zoom believes that transparency is critical to building trust and fostering the free and open exchange of ideas.
 
 What’s new in this report: In this report, we have added information about the number of delayed-notice orders we received as part of U.S. requests.
 
