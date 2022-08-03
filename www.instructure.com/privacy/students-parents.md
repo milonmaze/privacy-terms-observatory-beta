@@ -42,7 +42,7 @@ A cookie is a small data file that is sent to a user’s browser when the user v
 
 Functional cookies are used by Canvas to operate web pages, keep you logged into Canvas when you want, and display web pages correctly.
 
-Instructure uses analytics cookies (provided by Google) to collect information about how you use Canvas, such as what pages you click on, or what functionality you use the most. The information collected does not contain personal data about you. But it helps us improve Canvas and your experience using it.
+Instructure uses analytics cookies to collect information about how you use Canvas, such as what pages you click on, or what functionality you use the most. The information collected does not contain personal data about you. But it helps us improve Canvas and your experience using it.
 
 How to access your information?
 
