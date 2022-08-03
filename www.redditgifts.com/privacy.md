@@ -1,136 +1,131 @@
 Found the internet!
-Trending today
-Nichelle Nichols
-Nichelle Nichols, Lt. Uhura on 'Star Trek,' Dies at 89
-r/entertainment and more
-Donald Trump
-New: Trump’s Lawyers Are Preparing Legal Defenses Against Criminal Charges
-r/politics and more
-Veterans
-Kinzinger calls Cruz "utter fraud" after he defends vote against veterans
-r/politics and more
-Ukraine Grain Shipments
-The first vessel (since February 24th) loaded with the Ukrainian grain has left Odessa port
-r/ukraine and more
-Box Office
-Minions: Rise of Gru Global Box Office Crosses $710 Million
-r/boxoffice and more
-Nancy Pelosi
-China warns its military will 'not sit idly by' if Pelosi visits Taiwan
-r/news and more
-Popular posts
-Hot
-Everywhere
-New
-Top
-102k
-r/movies
-•Posted by
-u/fungobat
-13 hours ago
-4
-3
-& 12 More
-Please Bring Back Voice Actors, Stop Celebrity Voices
-Article
-gizmodo.com/voice-...
-Join
-3.9k Comments
+4.2k
+r/TheLetterH
+LIVE
+· 6.0k players
+the last tournament ended itself but it's not done sa
+PREDICTION
+Opinion on C
+You must be logged in
+Very Positive
+Ok
+Neutral
+Nah
+Very Negative
+See What Others Predicted
+0 of 1 predicted
+31 Comments
 Share
 Save
-12.2k
-r/politics
+Vote
+r/pokemon
 •Posted by
-u/Picture-unrelated
-2 hours ago
-2
-Sanders Says GOP Shouldn't Have Funded Wars If It Didn't Want to Take Care of Vets
-commondreams.org/news/2...
+u/CreatedFor_a_Reason
+48 minutes ago
 Join
-369 Comments
-Share
-Save
-15.4k
-r/antiwork
-•Posted by
-u/No_StopItStepbro
-3 hours ago
-7
-6
-& 6 More
-Join
-Co-worker who has never been late in 7+ years, gets fired for first time being late…
+Pokémon Scarlet & Violet | Pokémon Presents 08.03.22 Mega Thread
+Info
 
-This happened last week and today Monday we just found out he was fired for being 20 minutes late FOR HIS FIRST TIME EVER… tomorrow me and ALL my coworkers will be late and will continue to come in late until they rehire him.
+Trailers:
+
+Welcome to the Paldea region! | Pokémon Scarlet & Pokémon Violet
+
+Pokémon Scarlet & Pokémon Violet | Overview Trailer (Japanese Only)
+
+Information Roundup:
+
+Paldea is the name of the new Region.
+
+You'll have the legendaries right from the start.
+
+You can ride across Paldea in Miraidon and Koraidon.
+
+A new form of Wooper has been revealed for Pokémon Scarlet & Violet (Paldean Wooper)
+
+Another new Pokémon has been shown in for Scarlet & Violet, his name is Cetitan.
+
+A new battle mechanic has been showcased in Pokémon Scarlet & Violet. The Terastal phenomenon lets Pokémon Terastallize that can provide a boost to its moves. Some even change forms based on there Tera Type
+
+A new Pokémon has been revealed called Fidough
+
+Raid Battles make a return in Pokémon Scarlet & Violet .
+
+8 Gyms are confirmed. No set path for challenging gyms.
+
+Pokédex is greatly expanded.
+
+Multiplayer lets you explore the Paldea with 3 friends (up to 4 players)
+
+You can get a special Pikachu as an early purchase bonus; it'll be available to claim until February 2023 with the Mystery Gift feature.
+
+Artworks:
+
+Official artwork of Paldean Wooper, a Poison/Ground-type
+
+Official artwork of Fidough, a Fairy-type Pokémon
+
+Official artwork of Cetitan, an Ice-type Pokémon
+
+Official artwork of the new Rotom Phone
+
+Official artwork of the the Terastal Phenomenon
+
+Special key artwork for Pokémon Scarlet & Violet
+
+Some Cool In Game Screenshots:
+
+Friends, Terastallize, Slaking and Vigoroth, Fidough
 
 1.0k Comments
 Share
 Save
-11.5k
-r/AskReddit
+882
+r/CozyPlaces
 •Posted by
-u/sparklingshanaya
-17 hours ago
-4
-Join
-What kinky sex act would you recommend everybody try at least once?
-nsfw
-3.8k Comments
-Share
-Save
-21.1k
-r/formula1
-•Posted by
-u/dogryan100
-6 hours ago
-7
-3
-7
-Fernando Alonso to join Aston Martin F1 in 2023
- News /r/all
-astonmartinf1.com/en-GB/...
-Join
-3.6k Comments
-Share
-Save
-118k
-r/interestingasfuck
-•Posted by
-u/solateor
-11 hours ago
-2
-12
-& 62 More
-Join
-Still growing strong: 700lbs and gaining 49lbs a day
-/r/ALL
-0:00
-0:29
-3.1k Comments
-Share
-Save
-17.1k
-r/dankmemes
-•Posted by
-u/_simple_man
+u/motherly_wealth
 3 hours ago
-2
-5
 Join
-HD my ass
-🎂 fuck you and your cakeday 🎂
-195 Comments
+the living room in my MCM home
+LIVING AREAOC
+1/2
+53 Comments
 Share
 Save
-29.2k
-r/ProgrammerHumor
+1.1k
+r/YouShouldKnow
 •Posted by
-u/aspghost
-6 hours ago
-4
+u/vxvi4
+4 hours ago
+2
 Join
-Imposter Syndrome
-439 Comments
+YSK that Xylitol is being marketed under different names
+Animal & Pets
+
+Xylitol is being marketed under different names such as Birch sugar, wood sugar and under other names. So when buying some peanut butter or other treats for you pets please be extra careful and double check. Why YSK: is because Xylitol is very toxic to animals.
+
+49 Comments
+Share
+Save
+549
+r/discgolf
+•Posted by
+u/msainwilson
+2 hours ago
+Join
+So I got an ace on my birthday. I turned 61, born in 61, and on hole #6, I got a 1
+Ace
+38 Comments
+Share
+Save
+2.6k
+r/Awwducational
+•Posted by
+u/Missfit_Molly_Dolly
+6 hours ago
+Join
+The long-eared jerboa has ears that are two-thirds as long as its body.
+Not yet verified
+43 Comments
 Share
 Save
 Advertisement
