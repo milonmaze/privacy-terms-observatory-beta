@@ -66,7 +66,7 @@ A cookie is a small data file that is sent to a user’s browser when the user v
 
 Functional cookies are necessary and used to identify a user across page views without requiring the user to authenticate themselves for each page. These cookies are set when a user first logs into Canvas and remains in place until the user logs off Canvas or closes their browser.
 
-Analytics cookies are used by Instructure to improve the software, detect fraud, and troubleshoot problems that may arise in Canvas. Canvas uses Google Analytics to collect system analytic data, for example, what pages and objects are clicked by the user during a session, or the time spent on a certain page (“analytics data”). The analytics data collected by Google Analytics is anonymized and not used to identify any individual user. Google stores the analytics data for Instructure.
+Analytics cookies are used by Instructure to improve the software, detect fraud, and troubleshoot problems that may arise in Canvas. 
 
 How can institutions and individuals access the data?
 
