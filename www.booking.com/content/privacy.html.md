@@ -709,15 +709,15 @@ We rely on personal information to make automated decisions, such as providing t
 
 Personalised recommendations
 
-To improve your Booking.com experience, we provide personalised recommendation services, which make your search results more relevant to you. These results are ranked, by default, according to what we believe you will find most relevant. We do this based on your past bookings, dates and the length of your stay, the composition of the group you're travelling with, where you are from and the actions you take during your search.
+To improve your Booking.com experience, we provide personalized recommendation services, which make your search results more relevant to you. These results are ranked by default according to what we believe you’ll find most relevant. We do this based on your past bookings, dates and the length of your stay, the composition of the group you're traveling with, where you are from, and the actions you take during your search.
 
 You can turn off personalised recommendations at any time. This can be done in the following places:
 
-If you are using the app, go to your ‘Profile’, followed by ‘Settings’ and then ‘Personalisation’
+If you are using the app, go to your “Profile,” followed by “Settings,” and then “Personalization”
 
-If you are on the web, go to ‘Manage account’, followed by ‘Preferences’
+If you are on the web, go to “Manage account,” followed by “Preferences”
 
-If you are not logged in, go to ‘Manage your privacy settings’ on the main page
+If you are not logged in, go to “Manage your privacy settings” on the main page
 
 How to exercise your rights
 
