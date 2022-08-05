@@ -1,131 +1,99 @@
 Found the internet!
-4.2k
-r/TheLetterH
-LIVE
-· 6.0k players
-the last tournament ended itself but it's not done sa
-PREDICTION
-Opinion on C
-You must be logged in
-Very Positive
-Ok
-Neutral
-Nah
-Very Negative
-See What Others Predicted
-0 of 1 predicted
-31 Comments
-Share
-Save
-Vote
-r/pokemon
+Trending today
+Coral Reefs
+Parts of Great Barrier Reef show highest coral cover seen in 36 years
+r/environment and more
+Kyrsten Sinema
+Sinema says she will 'move forward' on economic bill, giving Democrats the votes to move ahead
+r/politics and more
+Ezra Miller
+‘The Flash’ Release Still a Go Despite Ezra Miller Scandals, Warner Bros. Discovery CEO ‘Very Excited’
+r/entertainment and more
+Donald Trump
+FBI Got 4,500 Kavanaugh Tips—Then Punted Them to Trump Team
+r/politics and more
+Breonna Taylor
+DOJ announces charges in connection with raid that killed Breonna Taylor
+r/politics and more
+Ron DeSantis
+DeSantis suspends state attorney for refusing to enforce laws on abortion, transgender surgery
+r/politics and more
+Popular posts
+Hot
+Everywhere
+New
+Top
+28.9k
+r/MadeMeSmile
 •Posted by
-u/CreatedFor_a_Reason
-48 minutes ago
-Join
-Pokémon Scarlet & Violet | Pokémon Presents 08.03.22 Mega Thread
-Info
-
-Trailers:
-
-Welcome to the Paldea region! | Pokémon Scarlet & Pokémon Violet
-
-Pokémon Scarlet & Pokémon Violet | Overview Trailer (Japanese Only)
-
-Information Roundup:
-
-Paldea is the name of the new Region.
-
-You'll have the legendaries right from the start.
-
-You can ride across Paldea in Miraidon and Koraidon.
-
-A new form of Wooper has been revealed for Pokémon Scarlet & Violet (Paldean Wooper)
-
-Another new Pokémon has been shown in for Scarlet & Violet, his name is Cetitan.
-
-A new battle mechanic has been showcased in Pokémon Scarlet & Violet. The Terastal phenomenon lets Pokémon Terastallize that can provide a boost to its moves. Some even change forms based on there Tera Type
-
-A new Pokémon has been revealed called Fidough
-
-Raid Battles make a return in Pokémon Scarlet & Violet .
-
-8 Gyms are confirmed. No set path for challenging gyms.
-
-Pokédex is greatly expanded.
-
-Multiplayer lets you explore the Paldea with 3 friends (up to 4 players)
-
-You can get a special Pikachu as an early purchase bonus; it'll be available to claim until February 2023 with the Mystery Gift feature.
-
-Artworks:
-
-Official artwork of Paldean Wooper, a Poison/Ground-type
-
-Official artwork of Fidough, a Fairy-type Pokémon
-
-Official artwork of Cetitan, an Ice-type Pokémon
-
-Official artwork of the new Rotom Phone
-
-Official artwork of the the Terastal Phenomenon
-
-Special key artwork for Pokémon Scarlet & Violet
-
-Some Cool In Game Screenshots:
-
-Friends, Terastallize, Slaking and Vigoroth, Fidough
-
-1.0k Comments
-Share
-Save
-882
-r/CozyPlaces
-•Posted by
-u/motherly_wealth
+u/Arpith2019
 3 hours ago
-Join
-the living room in my MCM home
-LIVING AREAOC
-1/2
-53 Comments
-Share
-Save
-1.1k
-r/YouShouldKnow
-•Posted by
-u/vxvi4
-4 hours ago
 2
 Join
-YSK that Xylitol is being marketed under different names
-Animal & Pets
-
-Xylitol is being marketed under different names such as Birch sugar, wood sugar and under other names. So when buying some peanut butter or other treats for you pets please be extra careful and double check. Why YSK: is because Xylitol is very toxic to animals.
-
-49 Comments
+Woody Harrelson on the baby who looks like him
+ Wholesome Moments 
+247 Comments
 Share
 Save
-549
-r/discgolf
+20.6k
+r/funny
 •Posted by
-u/msainwilson
-2 hours ago
+u/MasterShifu_21
+3 hours ago
+5
+4
 Join
-So I got an ace on my birthday. I turned 61, born in 61, and on hole #6, I got a 1
-Ace
-38 Comments
+Many of us have lived through this, and the pain there is real.! :)
+0:00
+0:21
+585 Comments
 Share
 Save
-2.6k
-r/Awwducational
+9.6k
+r/AskReddit
 •Posted by
-u/Missfit_Molly_Dolly
-6 hours ago
+u/BarooTangClan
+14 hours ago
+2
 Join
-The long-eared jerboa has ears that are two-thirds as long as its body.
-Not yet verified
-43 Comments
+What will make you instantly stop watching a movie or show and why?
+nsfw
+9.0k Comments
+Share
+Save
+109k
+r/mildlyinfuriating
+•Posted by
+u/disbound
+17 hours ago
+& 34 More
+Join
+The person who stole my AirPods off my flight is staying in a hotel two blocks away from me.
+i.imgur.com/bbdTu6...
+6.2k Comments
+Share
+Save
+15.3k
+r/politics
+•Posted by
+u/cannonhawk
+4 hours ago
+FBI Got 4,500 Kavanaugh Tips—Then Punted Them to Trump Team
+thedailybeast.com/fbi-ad...
+Join
+733 Comments
+Share
+Save
+5.6k
+r/canada
+•Posted by
+u/Midnightoclock
+16 hours ago
+"Poilievre is too extreme to win a general election," says man who also said that about Harper, Ford, Trump and the other Ford
+Satire
+thebeaverton.com/2022/0...
+Join
+1.4k Comments
 Share
 Save
 Advertisement
