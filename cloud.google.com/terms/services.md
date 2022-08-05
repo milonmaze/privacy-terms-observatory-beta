@@ -324,7 +324,7 @@ Resource Manager API: Resource Manager API allows you to programmatically manag
 
 Google Distributed Cloud
 
-Google Distributed Cloud - Edge: Google Distributed Cloud - Edge allows you to run private Google Kubernetes Engine clusters on dedicated hardware, which is provided and maintained by Google on Customer premises.This solution also provides you with a VPN connection to Google Cloud Platform, allowing you to interact with other GCP Services or other applications running in your Virtual Private Cloud.
+Google Distributed Cloud Edge: Google Distributed Cloud Edge allows you to run private Google Kubernetes Engine clusters on dedicated hardware, which is provided and maintained by Google on Customer premises.This solution also provides you with a VPN connection to Google Cloud Platform, allowing you to interact with other GCP Services or other applications running in your Virtual Private Cloud.
 
 Sovereign Controls by Sovereign Partners
 
