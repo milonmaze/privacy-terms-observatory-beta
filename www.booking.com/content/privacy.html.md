@@ -861,15 +861,15 @@ Privacy Infringement Report Center privacy.kisa.or.kr / 118
 
 Cyber ​​Investigation Division, Supreme Prosecutors' Office www.spo.go.kr / 1301
 
-National Police Agency Cyber ​​Security Bureau ecrm.police.go.kr
+National Police Agency Cyber ​​Security Bureau ecrm.police.go.kr/182
 
 Representative in Korea
 
 Pursuant to the Act on the Promotion of the Use of the Information Network and Information Protection, the information regarding the domestic agent is as follows:
 
-Name and representative: Booking.com Korea Limited (Representative: Su Yeon Kim)
+Name and representative: Booking.com Korea Limited (Representative: Sunyoung Cho)
 
-Address, telephone number and email address: 17F Gran Seoul, 33 Jongro, Jongro-Gu, Seoul, South Korea, +82 2 6323 8008, privacy.kr@booking.com.
+Address, phone number, and email address: 7F Gran Seoul, 33 Jongro, Jongro-Gu, Seoul, South Korea, +82 2 3483 3276, privacy.kr@booking.com.
 
 Turkey
 
