@@ -1,99 +1,113 @@
 Found the internet!
-Trending today
-Coral Reefs
-Parts of Great Barrier Reef show highest coral cover seen in 36 years
-r/environment and more
-Kyrsten Sinema
-Sinema says she will 'move forward' on economic bill, giving Democrats the votes to move ahead
-r/politics and more
-Ezra Miller
-‘The Flash’ Release Still a Go Despite Ezra Miller Scandals, Warner Bros. Discovery CEO ‘Very Excited’
-r/entertainment and more
-Donald Trump
-FBI Got 4,500 Kavanaugh Tips—Then Punted Them to Trump Team
-r/politics and more
-Breonna Taylor
-DOJ announces charges in connection with raid that killed Breonna Taylor
-r/politics and more
-Ron DeSantis
-DeSantis suspends state attorney for refusing to enforce laws on abortion, transgender surgery
-r/politics and more
-Popular posts
-Hot
-Everywhere
-New
-Top
-28.9k
-r/MadeMeSmile
+Vote
+r/nature
 •Posted by
-u/Arpith2019
+u/Motor-Ad-8858
+1 hour ago
+Western United States: Scientists Unravel The Origins Of The American Southwest’s Monsoon — High Country News
+hcn.org/articl...
+Join
+0 Comments
+Share
+Save
+Vote
+r/LiveFromNewYork
+•Posted by
+u/undecidedquoter
+26 minutes ago
+Join
+Why wasn’t Cheri Oteri’s star brighter?
+Discussion
+
+Growing up, I felt like she was the female lead to Will’s male lead. In subsequent years, I’ve certainly realized Molly and Ana were probably stronger, but I don’t know why I haven’t seen Cheri pop up in sitcoms and movies from time to time. I remember her in an episode of Curb, but not much more.
+
+2 Comments
+Share
+Save
+Vote
+r/ClashRoyale
+•Posted by
+u/Mythb0i369
+1 hour ago
+Join
+It took us 30 mins
+Art
+3 Comments
+Share
+Save
+130
+r/ffxiv
+•Posted by
+u/alabomb
 3 hours ago
+Join
+An update on AI-generated artwork
+[Meta]
+24 Comments
+Share
+Save
+4.2k
+r/PremierLeague
+LIVE
+· 7.3k players
+r/PremierLeague Predictions Tournament!
+Your predictions are in!
+May the odds be ever in your favor
+Go to Tournament
+29 Comments
+Share
+Save
+Vote
+r/atheism
+•Posted by
+u/mepper
+2 hours ago
+Kansas school board upholds anti-'Satanism' dress code while allowing Christian clothing | They ignored the pleas of a Satanist mother, who urged them to modify their act of discrimination. "It seems that certain board members are more interested in forcing their own personal religious beliefs"
+/r/all
+onlysky.media/hemant...
+Join
+63 Comments
+Share
+Save
+1.5k
+r/Weird
+•Posted by
+u/cutmylifeintofleecez
+6 hours ago
+Join
+Flooding recently uncovered three tomb stones in my backyard..
+167 Comments
+Share
+Save
+796
+r/leagueoflegends
+•Posted by
+u/ieatcheesecakes
+5 hours ago
 2
 Join
-Woody Harrelson on the baby who looks like him
- Wholesome Moments 
-247 Comments
+Minion Dematerializer is an inhumane weapon of genocide and should be promptly removed from the game
+
+Imagine being a minion - small, naive, optimistic, and yellow skinned. You’ve been accepted into an rotc program and have a nice scholarship for minion military university. You’re trained by Gru himself so you’re confident in your abilities. Surely, the 24 attack damage you’ve spent years and years grinding for will turn you into a war hero.
+
+Finally one day you’re deployed onto the battlefield. You’re part of the middle platoon, in the 3rd wave. It’s time. Walking with your brethren in kindergarten single file line, you feel grateful to be able to fight alongside the brilliant champions: for example the ionian ninja Akali, dressed up as a 2D anime school girl, donning a miniskirt and thigh highs into the battlefield.
+
+You meet the enemies in lane and you start making work of them with your rapid fire 0.66 attack speed. It’s going well until this “Now You Can See Me”, Gambit lookin ass dude casts some kind of spell and then to your left your comrade has these 3 orbs that circle around him. The orbit gets smaller and smaller until poof, your comrade disintegrates and is blinked from existence. Not only that but it makes the enemy permanently deal more damage to you and your comrades for the rest of the game. It is only a matter of time before it’s your turn…
+
+Minion Dematerializer is a weapon designed specifically to execute minions. It is a weapon of inhumane slaughter. There is no yuumi dematerializer, no gromp dematerializer, no baron dematerializer, etc etc. This is pure discrimination towards minions. Either make genocidal weapons for all the species or make none at all. Equality in genocide on the rift for all. Thank you.
+
+50 Comments
 Share
 Save
-20.6k
-r/funny
+Vote
+r/technews
 •Posted by
-u/MasterShifu_21
-3 hours ago
-5
-4
+u/EagleEyeStx
+1 hour ago
+What You Need to Know About Confidential Computing
+entrepreneur.com/articl...
 Join
-Many of us have lived through this, and the pain there is real.! :)
-0:00
-0:21
-585 Comments
-Share
-Save
-9.6k
-r/AskReddit
-•Posted by
-u/BarooTangClan
-14 hours ago
-2
-Join
-What will make you instantly stop watching a movie or show and why?
-nsfw
-9.0k Comments
-Share
-Save
-109k
-r/mildlyinfuriating
-•Posted by
-u/disbound
-17 hours ago
-& 34 More
-Join
-The person who stole my AirPods off my flight is staying in a hotel two blocks away from me.
-i.imgur.com/bbdTu6...
-6.2k Comments
-Share
-Save
-15.3k
-r/politics
-•Posted by
-u/cannonhawk
-4 hours ago
-FBI Got 4,500 Kavanaugh Tips—Then Punted Them to Trump Team
-thedailybeast.com/fbi-ad...
-Join
-733 Comments
-Share
-Save
-5.6k
-r/canada
-•Posted by
-u/Midnightoclock
-16 hours ago
-"Poilievre is too extreme to win a general election," says man who also said that about Harper, Ford, Trump and the other Ford
-Satire
-thebeaverton.com/2022/0...
-Join
-1.4k Comments
+2 Comments
 Share
 Save
 Advertisement
