@@ -138,6 +138,9 @@ Change in Corporate Structure: We may share information in connection with a mer
 Consumer Reporting Agencies: We may report the status of your account with us to consumer reporting agencies.
 Other Disclosures. We may also disclose your personal information when we are required to do so by law; with your consent; or when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or legal process.
 
+Data obtained solely through the short code program, to the extent there is any, will not be shared with any third parties for their marketing reasons/purposes.
+
+
  
 Making Changes to Your Information
 
