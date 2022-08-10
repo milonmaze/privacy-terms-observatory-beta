@@ -205,7 +205,3 @@ Our services are not intended for — and we don’t direct them to — anyone u
 Revisions to the Privacy Policy
 
 We may change this Privacy Policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the Privacy Policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepages or providing you with an in-app notification).
-
-Hi! We use cookies and similar technologies ("cookies"), including third-party cookies, on this website to help operate and improve your browsing experience, monitor performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, see our Cookie Policy! By clicking "Accept Cookies" below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the "X" to your right. Go to "Cookie Settings" or our Cookie Policy to change your cookie settings, and withdraw your consent at any time.
-
-Accept CookiesCookie Settings
