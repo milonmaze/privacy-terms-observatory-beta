@@ -248,7 +248,3 @@ We generally try to show you ads that’ll be relevant to you. We’re able to d
 We personalize the Snap Map. For example, if you visit a Place or apply a venue filter or sticker on a My Story, Our Story, Spotlight, or Snap Map submission, we may use that venue information to create a more personalized Map experience for you and your friends.
 
 We also try to personalize the content you see by using what we call “Content Interest Tags.” These tags are guesses about the content that you may be interested in based on activity, like things you search for, Stories you view, popular users you subscribe to, and types of locations you visit. So if you watch a lot of Stories about basketball, we may create “sports” and “basketball” Content Interest Tags, so we can show you more Snaps about basketball. You can reset Content Interest Tags at any time in Snapchat settings!
-
-Hi! We use cookies and similar technologies ("cookies"), including third-party cookies, on this website to help operate and improve your browsing experience, monitor performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, see our Cookie Policy! By clicking "Accept Cookies" below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the "X" to your right. Go to "Cookie Settings" or our Cookie Policy to change your cookie settings, and withdraw your consent at any time.
-
-Accept CookiesCookie Settings
