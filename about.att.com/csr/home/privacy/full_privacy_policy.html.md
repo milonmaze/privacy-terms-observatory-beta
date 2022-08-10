@@ -8,10 +8,6 @@ Your information and your privacy are important — to you and to us. This polic
 
 Most importantly, it explains the choices you can make at any time about how your information is used.
 
-We’ve recently updated our Privacy Policy.
-
-Learn more about the updates or read the prior version.
-
 When this Policy applies
 
 The information we collect
