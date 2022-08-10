@@ -74,7 +74,3 @@ LinkedIn
 Bing
 
 Pardot
-
-Hi! We use cookies and similar technologies ("cookies"), including third-party cookies, on this website to help operate and improve your browsing experience, monitor performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, see our Cookie Policy! By clicking "Accept Cookies" below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the "X" to your right. Go to "Cookie Settings" or our Cookie Policy to change your cookie settings, and withdraw your consent at any time.
-
-Accept CookiesCookie Settings
