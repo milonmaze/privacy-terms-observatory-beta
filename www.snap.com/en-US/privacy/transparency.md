@@ -134,7 +134,3 @@ January 1, 2016 - June 30, 2016
 July 1, 2015 - December 31, 2015
 January 1, 2015 - June 30, 2015
 November 1, 2014 - February 28, 2015
-
-Hi! We use cookies and similar technologies ("cookies"), including third-party cookies, on this website to help operate and improve your browsing experience, monitor performance, and for advertising purposes. For more information on how we use cookies and your cookie choices, see our Cookie Policy! By clicking "Accept Cookies" below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the "X" to your right. Go to "Cookie Settings" or our Cookie Policy to change your cookie settings, and withdraw your consent at any time.
-
-Accept CookiesCookie Settings
