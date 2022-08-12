@@ -878,7 +878,6 @@ Customers from Turkey may also use the contact details set out below for request
 The local representative for Booking.com B.V. in Turkey is Ozdagistanli Ekici Avukatlık Ortaklığı, located at Al Zambak Sok No: 2 Varyap Meridian Grand Tower A Blok K: 32 D: 270 Ataşehir-İstanbul.
 
  
- 
 Cookie statement
 
 Whenever you use our online services or apps, we use cookies and other online tracking technologies (which we’ll also refer to as “cookies” for the purpose of this Cookie Statement).
