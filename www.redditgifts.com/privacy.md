@@ -1,109 +1,93 @@
 Found the internet!
 Trending today
-Sao Paulo
-Thousands of Brazilians took to the streets of Sao Paulo Thursday in "defense of democracy" after President Jair Bolsonaro's sustained attacks on democratic institutions, weeks ahead of elections
-Field of Dreams Game
-Ken Griffey Sr. and Jr. share a game of catch as the Cubs and Reds emerge from the cornfields to kick off the second edition of MLB‘s Field of Dreams Game
-r/baseball and more
+George R.R. Martin
+George R.R. Martin new blog post: "I hope to wrap up the story line for one of the viewpoint characters of WINDS OF WINTER this week. Maybe even two."
+r/books and more
 Donald Trump
-FBI were looking for ‘classified nuclear documents’ during search of Trump’s Mar-a-Lago home, report says
+Trump's lawyer signed a statement months ago saying all classified documents had been turned over, report says. The FBI found more during its raid on Mar-a-Lago.
 r/politics and more
-CDC Guidance
-CDC ends recommendations for social distancing and quarantine for Covid-19 control, no longer recommends test-to-stay in schools
-r/news and more
-Amazon Ring Nation
-Amazon studio plans lighthearted show of Ring surveillance footage | Company with notable footage-sharing issues wants to do it more, but funny.
-r/technology and more
-Super Moon
-Took a picture of the last Super Moon of the year
-r/spaceporn and more
+Rogue One
+Star Wars' Rogue One Getting IMAX Re-Release With New Andor Footage
+r/entertainment and more
+Brittney Griner
+Russia confirms it seeks convicted arms dealer in potential prisoner swap for WNBA star Brittney Griner
+Monkeypox
+WHO holds open forum to rename monkeypox over stigmatisation concerns
+Salman Rushdie
+Salman Rushdie off ventilator and able to talk
+r/UpliftingNews and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-82.5k
-r/politics
+45.7k
+r/pcmasterrace
 •Posted by
-u/PoliticiansAlwaysLie
-14 hours ago
-3
-& 85 More
-FBI were looking for ‘classified nuclear documents’ during search of Trump’s Mar-a-Lago home, report says
-independent.co.uk/news/w...
-Join
-11.2k Comments
-Share
-Save
-28.5k
-r/HumansBeingBros
-•Posted by
-u/Sisyphusarbeit
-4 hours ago
-6
-8
-5
-Join
-The media should cover people like him more often
-456 Comments
-Share
-Save
-36.3k
-r/PublicFreakout
-•Posted by
-u/Vexiune
+u/CoffeeAddict1011
 17 hours ago
-2
+4
+3
+6
 Join
-Wild video out of DFW airport between a spirit airlines employee and passenger.
-✈️Airport Freakout
-0:00
-1:30
+Would you?
+Meme/Macro
 5.0k Comments
 Share
 Save
-27.7k
-r/news
+48.6k
+r/insaneparents
 •Posted by
-u/rawzone
-13 hours ago
-4
-2
-& 2 More
-FBI searched Trump’s home to look for nuclear documents and other items, sources say
-washingtonpost.com/nation...
+u/bubble_2107
+16 hours ago
+3
+& 26 More
 Join
-3.7k Comments
+My teen came out as lesbian. My mother-in-law cried and yelled at my husband, then sent me this.
+SMS
+1/4
+4.8k Comments
 Share
 Save
-28.3k
-r/nba
+27.8k
+r/MadeMeSmile
 •Posted by
-u/curryybacon
-19 hours ago
+u/AccomplishedTeabag
+4 hours ago
 4
-9
-8
-& 3 More
-[Charania] The NBA will retire the No. 6 league-wide honoring the late, legendary player and activist Bill Russell.
-News
-twitter.com/ShamsC...
+18
+10
 Join
-3.2k Comments
+A 98-year-old grandma is visited weekly by a friendly owl.
+ Animals
+0:00
+0:35
+437 Comments
 Share
 Save
-21.9k
-r/maybemaybemaybe
+17.9k
+r/WatchPeopleDieInside
 •Posted by
-u/peseoane
-5 hours ago
+u/chandelier_bing31
+3 hours ago
 2
+Join
+"That should have been me"- Him probably
+279 Comments
+Share
+Save
+5.2k
+r/MMA
+•Posted by
+u/redjum
+12 hours ago
 5
-7
+6
+[SPOILER] Marlon Vera vs. Dominick Cruz
+Spoilerspoiler
+vidsli.com/watch/...
 Join
-maybe maybe maybe
-/r/all
-647 Comments
+1.6k Comments
 Share
 Save
 Advertisement
