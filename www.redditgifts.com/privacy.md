@@ -1,93 +1,106 @@
 Found the internet!
 Trending today
-George R.R. Martin
-George R.R. Martin new blog post: "I hope to wrap up the story line for one of the viewpoint characters of WINDS OF WINTER this week. Maybe even two."
-r/books and more
-Donald Trump
-Trump's lawyer signed a statement months ago saying all classified documents had been turned over, report says. The FBI found more during its raid on Mar-a-Lago.
+Xbox One
+Court Documents Confirm Xbox One Sold Less Than Half PS4 Numbers
+r/gamernews and more
+Las Vegas Raiders
+Another preseason win for the Raiders. Which players impressed you the most today?
+r/raiders and more
+Albert Pujols
+Albert Pujols hits his second home run of the day and his 689th all time!
+r/baseball and more
+Taiwan
+US Taiwan: Congress team follows Pelosi with second high-level visit in a month
 r/politics and more
-Rogue One
-Star Wars' Rogue One Getting IMAX Re-Release With New Andor Footage
+Anne Hech
+Anne Heche matched with organ recipient, will be taken off life support
 r/entertainment and more
-Brittney Griner
-Russia confirms it seeks convicted arms dealer in potential prisoner swap for WNBA star Brittney Griner
-Monkeypox
-WHO holds open forum to rename monkeypox over stigmatisation concerns
-Salman Rushdie
-Salman Rushdie off ventilator and able to talk
-r/UpliftingNews and more
+Liz Cheney
+Liz Cheney’s political life is likely ending — and just beginning
+r/politics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-45.7k
-r/pcmasterrace
+12.5k
+r/funny
 •Posted by
-u/CoffeeAddict1011
-17 hours ago
-4
-3
-6
+u/MT-K7
+3 hours ago
+2
+2
+2
 Join
-Would you?
-Meme/Macro
+Unexplainable
+871 Comments
+Share
+Save
+53.4k
+r/nextfuckinglevel
+•Posted by
+u/stopkillingeachother
+11 hours ago
+8
+11
+8
+Join
+A nanobot helping a sperm with motility issues along towards an egg. These metal helixes are so small they can completely wrap around the tail of a single sperm and assist it along its journey
+0:00
+0:25
 5.0k Comments
 Share
 Save
-48.6k
-r/insaneparents
+11.2k
+r/antiwork
 •Posted by
-u/bubble_2107
-16 hours ago
-3
-& 26 More
-Join
-My teen came out as lesbian. My mother-in-law cried and yelled at my husband, then sent me this.
-SMS
-1/4
-4.8k Comments
-Share
-Save
-27.8k
-r/MadeMeSmile
-•Posted by
-u/AccomplishedTeabag
-4 hours ago
-4
-18
-10
-Join
-A 98-year-old grandma is visited weekly by a friendly owl.
- Animals
-0:00
-0:35
-437 Comments
-Share
-Save
-17.9k
-r/WatchPeopleDieInside
-•Posted by
-u/chandelier_bing31
+u/Expired_Cookiez
 3 hours ago
+3
+Join
+Preach!
+509 Comments
+Share
+Save
+11.6k
+r/AskReddit
+•Posted by
+u/ConsciousSloth
+13 hours ago
 2
 Join
-"That should have been me"- Him probably
-279 Comments
+What world event do you think was staged?
+nsfw
+7.2k Comments
 Share
 Save
-5.2k
-r/MMA
+4.0k
+r/movies
 •Posted by
-u/redjum
-12 hours ago
-5
-6
-[SPOILER] Marlon Vera vs. Dominick Cruz
-Spoilerspoiler
-vidsli.com/watch/...
+u/TheBlackSwarm
+8 hours ago
 Join
-1.6k Comments
+Who is a Nepotism kid with actual talent?
+Discussion
+
+A lot of people put a stigma around nepotism kids in Hollywood like Scott Eastwood, Lily Rose Depp etc (for good reason) but what’s an example of someone who is a product of nepotism who is actually genuinely talented and didn’t just try to coast on their parents/ relatives name?
+
+Dakota Johnson in my opinion is talented in her own right and didn’t just try to coast on her father’s (Don Johnson’s) name.
+
+3.0k Comments
+Share
+Save
+1.2k
+r/AskUK
+•Posted by
+u/alexros3
+6 hours ago
+Join
+Teachers who’ve been teaching a while, what changes have you noticed over time in the kids you teach?
+
+Trends, behaviours, capabilities, etc.
+
+1.0k Comments
 Share
 Save
 Advertisement
