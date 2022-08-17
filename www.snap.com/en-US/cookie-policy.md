@@ -8,10 +8,12 @@ How We Use Cookies
 
 Like most providers of online services, Snap Inc. uses cookies, including third-party cookies, for a number of reasons, like protecting your Snapchat data and account, helping us see which features are most popular, counting visitors to a page, understanding how you engage with web content and emails we send, improving our users’ experience, keeping our services secure, providing relevant advertising, and just generally providing you with a better, more intuitive, and satisfying experience. The cookies we use generally fall into one of the following categories.
 
-Category of cookies	Why we use these cookies
-Necessary	We use these cookies to run our site, and to identify and prevent security risks. 
+You can see which cookies we use on our sites, for what purpose(s), and for how long on our Cookie Information Page.
 
-For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password.
+Category of cookies	Why we use these cookies
+Essential	Also known as “necessary” cookies. We use these cookies to run our site and to identify and prevent security risks. 
+
+For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password or remember your cookie preferences.
 Preferences	We use these cookies to remember your settings and preferences, and to improve your experience on our site. 
 
 For example, we may use these cookies to remember your language preferences.
@@ -33,7 +35,7 @@ We may collect information about your activity on third-party services that use 
 
 Your Choices
 
-Your browser may provide you with the option to refuse some or all browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
+Your browser may provide you with the option to refuse some or all non-essential browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
 
 Browser Cookies
 
@@ -45,7 +47,7 @@ Your mobile operating system may let you opt-out from having certain device iden
 
 And of course, if your mobile device offers an uninstall process, you can always stop us from collecting information through the app by uninstalling the Snapchat app.
 
-Change Your Settings
+Website Settings
 
 You can also block certain cookies by adjusting your settings on our sites.
 
@@ -61,6 +63,8 @@ Snapfoundation.org Cookie Settings
 
 Arcadiacreativestudio.com Cookie Settings
 
+Pixy.com Cookie Settings
+
 Third-party advertising partners
 
 Twitter
@@ -74,3 +78,5 @@ LinkedIn
 Bing
 
 Pardot
+
+Facebook
