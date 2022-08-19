@@ -1,6 +1,23 @@
 Skip to main content
 GitHub Privacy Statement
 In this article
+The short version
+Summary
+GitHub Privacy Statement
+Who is responsible for the processing of your information?
+GitHub acting on your behalf
+What information GitHub collects
+How GitHub uses your information
+How we share the information we collect
+Your choices regarding our processing of your personal data
+Our use of cookies and tracking technologies
+Retention of personal data
+How GitHub secures your information
+Changes to our Privacy Statement
+License
+Contacting GitHub
+Translations
+GitHub's notice to California residents
 
 Effective date: May 31, 2022
 
