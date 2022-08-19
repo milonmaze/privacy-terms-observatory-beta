@@ -149,7 +149,6 @@ Below you will find additional privacy information, such as how we secure your d
 
 Learn more
 Top of page
-Product-specific details:
 Enterprise and developer products
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
