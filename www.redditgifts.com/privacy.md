@@ -1,57 +1,117 @@
 Found the internet!
-70
-r/funny
+Trending today
+Dr. Oz
+Dr. Oz says Pennsylvanians "do not care where you're from"
+r/politics and more
+UFC 278
+[Official] UFC 278: Usman vs. Edwards 2 - Press Conference & Post-Fight Discussion Thread
+r/MMA and more
+NASA Artemis Program
+To promote NASA’s Artemis Program I regularly set up my telescope on busy street corners to show passerby the Moon.
+r/space and more
+Artificial Embryos
+A biotech company wants to take human DNA and create artificial embryos that could be used to harvest organs for medical transplants
+r/technology and more
+Gary Busey Charged
+Gary Busey charged with sex offenses at Monster Mania Convention in N.J.
+r/news and more
+Russia-Ukraine War
+Daughter of Russian who was inspirational force behind Putin's invasion of Ukraine killed in car explosion - Russian state media
+r/news and more
+Popular posts
+Hot
+Everywhere
+New
+Top
+18.7k
+r/space
 •Posted by
-u/never0101
-3 hours ago
+u/__Augustus_
+4 hours ago
+3
+3
+& 77 More
 Join
-I feel like maybe they didn't focus group this brand name.
-i.imgur.com/xjMhl0...
-52 Comments
+To promote NASA’s Artemis Program I regularly set up my telescope on busy street corners to show passerby the Moon.
+image/gif
+i.imgur.com/xiYkf4...
+264 Comments
 Share
 Save
-Vote
-r/baseball
+19.3k
+r/AskReddit
 •Posted by
-u/mtvesuvius
-1 hour ago
+u/jollygood3440
+17 hours ago
+7
+13
+7
 Join
-[Serious] Marcell Ozuna arrested in Atlanta on DUI charges
-Serious
-247 Comments
+What is the best non-sexual, non-drug related physical sensation you’ve ever experienced?
+13.7k Comments
 Share
 Save
-Vote
-r/agedlikemilk
+63.4k
+r/worldnews
 •Posted by
-u/Lord_Ildra
-2 hours ago
+u/BeneficialStaging
+14 hours ago
+& 78 More
+Daughter of Putin Propagandist Killed in Car Bomb Outside Moscow, Reports Say
+Russia/Ukraine
+thedailybeast.com/darya-...
 Join
-A Tumblr post from 2014
-Celebrities
-SEE FULL IMAGE
-114 Comments
+5.9k Comments
 Share
 Save
-16.5k
-r/Bossfight
+85.8k
+r/mildlyinfuriating
 •Posted by
-u/RoomilyFast55
-7 hours ago
+u/boobyboobyboobs
+19 hours ago
+8
+2
+4
+Join
+There is an 11 day bin man strike in Edinburgh and this is only day two. Most of the city is like this.
+5.0k Comments
+Share
+Save
+16.8k
+r/MMA
+•Posted by
+u/redjum
+9 hours ago
+4
+2
+& 97 More
+[SPOILER] Kamaru Usman vs. Leon Edwards 2
+Spoiler r/allspoiler
+vidsli.com/watch/...
+Join
+4.6k Comments
+Share
+Save
+44.6k
+r/IdiotsInCars
+•Posted by
+u/Hour-Example1920
+21 hours ago
 3
 Join
-Exteme labour man
-267 Comments
+Road Raging Thugs get pepper sprayed after slashing tires in traffic.
+2.9k Comments
 Share
 Save
-1.2k
-r/memes
+10.3k
+r/entertainment
 •Posted by
-u/larsumaniomai
-10 hours ago
+u/lurker_bee
+15 hours ago
+Marvel star Frank Grillo rips LA's rising crime after his boxing trainer is shot and killed: 'Need to wake up'
+foxnews.com/entert...
 Join
-Can't wait to apply as T̶̛̤̖̾͒̈́͌̈́̔̄̇̐͛̀̇̈̍̆͘͝͠͝h̴̢̨̦̭̖͓̜͖͈̙̭̪̼̘̙̮̮̺̘͓̰̬̦̺̠̥̗̭̲͚͈͕͍̘̩̲̭̄̽̌̈́̈́̔͛̏̔̚̕͜͝͠ȩ̴̼͎̗̙́̂͛̑͑͆̓̍̃͛̄͒͑͗̈́̽̾̍̊̀̑̀̾̐̑̀͌̀͌̌͗̽̐̚͘͜ ̵̛͎͚̯̜̪̬́̐̈́̏͑̅̄̏̿͗̓̿͐̏͌̂̌͋̈́͆̔̐͗͘͘͝͠ͅ-̸̢̡̧̡̛̣̱̦̯͔͇͓͈̖̦̗͉̹̥̫̗̣̱̪͗͆́̀͌̎̅͝ͅ-̵̢͈̼͖̩̼̹̞̤̝̪̘̺̙͖̯̾̾̅̈̓́͝-̵͔̖̹̥̗͙̭̫̪͔̤͙̹̭̫̠̇̐̽͑͝-̵̨̛̛̪̰̹͉̩͑̍̉͆̀̾̈́̑̌̾̆̽̆̍̓̄͗̈́͌͗̈́͘͘͝͝͝
-38 Comments
+1.6k Comments
 Share
 Save
 Advertisement
