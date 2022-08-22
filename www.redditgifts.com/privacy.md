@@ -1,117 +1,116 @@
 Found the internet!
 Trending today
-Dr. Oz
-Dr. Oz says Pennsylvanians "do not care where you're from"
-r/politics and more
-UFC 278
-[Official] UFC 278: Usman vs. Edwards 2 - Press Conference & Post-Fight Discussion Thread
-r/MMA and more
-NASA Artemis Program
-To promote NASA’s Artemis Program I regularly set up my telescope on busy street corners to show passerby the Moon.
-r/space and more
-Artificial Embryos
-A biotech company wants to take human DNA and create artificial embryos that could be used to harvest organs for medical transplants
+Ohio Teacher Strike
+Over 4,000 teachers just voted to strike in Ohio!!
+r/antiwork and more
+Dennis Rodman
+Dennis Rodman says he's going to Russia to seek release of Brittney Griner
+r/nba and more
+Little League Classic
+[Zuckerman] Rob Manfred just revealed the Nationals and Phillies will play in next year's Little League Classic in Williamsport, Pa. It's the first time the Nats have been selected for a neutral-site, regular-season game in club history.
+r/phillies and more
+Imran Khan
+Imran Khan: Pakistan police charge ex-PM under terrorism act
+r/pakistan and more
+Robert Lewandowski
+46 - Robert Lewandowski has scored Barcelona's earliest LaLiga goal since Iniesta vs Recreativo in 2009 (43), the earliest away goal in the competition since Saviola vs Valladolid in 2004 (30) and the earliest of his 313 goals in BL and LaLiga combined. Pistolero.
+r/Barca and more
+Tesla
+Tesla Owner Implants Chip In Hand To Open Car, Access Data
 r/technology and more
-Gary Busey Charged
-Gary Busey charged with sex offenses at Monster Mania Convention in N.J.
-r/news and more
-Russia-Ukraine War
-Daughter of Russian who was inspirational force behind Putin's invasion of Ukraine killed in car explosion - Russian state media
-r/news and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-18.7k
-r/space
-•Posted by
-u/__Augustus_
-4 hours ago
-3
-3
-& 77 More
-Join
-To promote NASA’s Artemis Program I regularly set up my telescope on busy street corners to show passerby the Moon.
-image/gif
-i.imgur.com/xiYkf4...
-264 Comments
+175k
+r/formula1
+LIVE
+· 275k players
+7
+10
+8
+2022 /r/Formula1 Predictions Tournament
+PREDICTION
+Will Aston Martin score points at the Belgian GP?
+You must be logged in
+Yes
+No
+See What Others Predicted
+PREDICTION
+Who will win the Belgian GP?
+You must be logged in
+Max Verstappen
+Charles Leclerc
+Sergio Perez
+George Russell
+Carlos Sainz
+Someone else
+See What Others Predicted
+0 of 3 predicted
+711 Comments
 Share
 Save
-19.3k
+10.4k
+r/politics
+•Posted by
+u/DaFunkJunkie
+2 hours ago
+Fox News editor who says he was fired after calling Arizona for Biden in 2020 slams network for stoking 'paranoia and hatred' in its viewers
+businessinsider.com/ex-fox...
+Join
+236 Comments
+Share
+Save
+84.2k
+r/PublicFreakout
+•Posted by
+u/ExactlySorta
+17 hours ago
+5
+2
+& 86 More
+Join
+Police beat man in Mulberry, Arkansas
+👮Arrest Freakout
+0:00
+0:34
+8.9k Comments
+Share
+Save
+2.7k
 r/AskReddit
 •Posted by
-u/jollygood3440
-17 hours ago
-7
-13
-7
-Join
-What is the best non-sexual, non-drug related physical sensation you’ve ever experienced?
-13.7k Comments
-Share
-Save
-63.4k
-r/worldnews
-•Posted by
-u/BeneficialStaging
-14 hours ago
-& 78 More
-Daughter of Putin Propagandist Killed in Car Bomb Outside Moscow, Reports Say
-Russia/Ukraine
-thedailybeast.com/darya-...
-Join
-5.9k Comments
-Share
-Save
-85.8k
-r/mildlyinfuriating
-•Posted by
-u/boobyboobyboobs
-19 hours ago
-8
+u/azteculture
+11 hours ago
 2
-4
 Join
-There is an 11 day bin man strike in Edinburgh and this is only day two. Most of the city is like this.
-5.0k Comments
+Atheists of Reddit, why are you Athiest?
+6.7k Comments
 Share
 Save
-16.8k
-r/MMA
+54.0k
+r/suspiciouslyspecific
 •Posted by
-u/redjum
+u/WMDxJohnzo
+13 hours ago
+2
+Join
+Anyone know the meme?
+2.0k Comments
+Share
+Save
+43.8k
+r/gaming
+•Posted by
+u/sup3rn1k
 9 hours ago
-4
 2
-& 97 More
-[SPOILER] Kamaru Usman vs. Leon Edwards 2
-Spoiler r/allspoiler
-vidsli.com/watch/...
+5
+& 14 More
 Join
-4.6k Comments
-Share
-Save
-44.6k
-r/IdiotsInCars
-•Posted by
-u/Hour-Example1920
-21 hours ago
-3
-Join
-Road Raging Thugs get pepper sprayed after slashing tires in traffic.
-2.9k Comments
-Share
-Save
-10.3k
-r/entertainment
-•Posted by
-u/lurker_bee
-15 hours ago
-Marvel star Frank Grillo rips LA's rising crime after his boxing trainer is shot and killed: 'Need to wake up'
-foxnews.com/entert...
-Join
-1.6k Comments
+Kids today will never know what midnight release was like.
+1.9k Comments
 Share
 Save
 Advertisement
