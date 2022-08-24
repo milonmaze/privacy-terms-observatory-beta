@@ -1,116 +1,105 @@
 Found the internet!
 Trending today
-Ohio Teacher Strike
-Over 4,000 teachers just voted to strike in Ohio!!
-r/antiwork and more
-Dennis Rodman
-Dennis Rodman says he's going to Russia to seek release of Brittney Griner
-r/nba and more
-Little League Classic
-[Zuckerman] Rob Manfred just revealed the Nationals and Phillies will play in next year's Little League Classic in Williamsport, Pa. It's the first time the Nats have been selected for a neutral-site, regular-season game in club history.
-r/phillies and more
-Imran Khan
-Imran Khan: Pakistan police charge ex-PM under terrorism act
-r/pakistan and more
-Robert Lewandowski
-46 - Robert Lewandowski has scored Barcelona's earliest LaLiga goal since Iniesta vs Recreativo in 2009 (43), the earliest away goal in the competition since Saviola vs Valladolid in 2004 (30) and the earliest of his 313 goals in BL and LaLiga combined. Pistolero.
-r/Barca and more
-Tesla
-Tesla Owner Implants Chip In Hand To Open Car, Access Data
-r/technology and more
+Primary Elections
+Defeated GOP Extremist Laura Loomer: 'I'm Not Conceding, Because I'm A Winner!' The far-right House candidate lost, for real, to Dan Webster in a Florida Republican primary.
+r/politics and more
+Student Loan Cancellation
+AP sources: Biden set to announce $10,000 federal student loan cancellation Wednesday for many, extend repayment pause
+r/politics and more
+Plex Data Breach
+Plex was compromised, exposing usernames, emails and passwords
+r/animepiracy and more
+Gotham Knights
+Gotham Knights - Official Villains Trailer [4K]
+r/Games and more
+Richard Simmons
+Suzanne Somers: My last meeting with Richard Simmons before disappearance
+r/entertainment and more
+Dinosaur Tracks in Texas
+Dinosaur tracks from 113 million years ago uncovered due to severe drought [OC]
+r/pics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-175k
-r/formula1
-LIVE
-· 275k players
-7
-10
-8
-2022 /r/Formula1 Predictions Tournament
-PREDICTION
-Will Aston Martin score points at the Belgian GP?
-You must be logged in
-Yes
-No
-See What Others Predicted
-PREDICTION
-Who will win the Belgian GP?
-You must be logged in
-Max Verstappen
-Charles Leclerc
-Sergio Perez
-George Russell
-Carlos Sainz
-Someone else
-See What Others Predicted
-0 of 3 predicted
-711 Comments
-Share
-Save
-10.4k
-r/politics
+17.4k
+r/todayilearned
 •Posted by
-u/DaFunkJunkie
-2 hours ago
-Fox News editor who says he was fired after calling Arizona for Biden in 2020 slams network for stoking 'paranoia and hatred' in its viewers
-businessinsider.com/ex-fox...
+u/Imaginary_Emu3462
+3 hours ago
+TIL that a woman in Pennsylvania needed a life-saving liver transplant, but she kept testing positive for alcohol, which prevented her from getting a transplant, despite swearing that she hadn’t been drinking. The doctors were confused, and it later turned out that her body produced its own alcohol.
+news18.com/news/b...
 Join
-236 Comments
+553 Comments
 Share
 Save
-84.2k
-r/PublicFreakout
-•Posted by
-u/ExactlySorta
-17 hours ago
-5
-2
-& 86 More
-Join
-Police beat man in Mulberry, Arkansas
-👮Arrest Freakout
-0:00
-0:34
-8.9k Comments
-Share
-Save
-2.7k
+29.7k
 r/AskReddit
 •Posted by
-u/azteculture
-11 hours ago
-2
+u/Krakenito
+19 hours ago
+11
+14
+& 6 More
 Join
-Atheists of Reddit, why are you Athiest?
-6.7k Comments
+What can an ugly, average salary guy do to still be attractive?
+12.6k Comments
 Share
 Save
-54.0k
-r/suspiciouslyspecific
+23.9k
+r/aww
 •Posted by
-u/WMDxJohnzo
-13 hours ago
+u/thelonelyasshole
+4 hours ago
 2
+12
+7
 Join
-Anyone know the meme?
-2.0k Comments
+Capybara made his day
+0:00
+0:14
+389 Comments
 Share
 Save
-43.8k
-r/gaming
+45.4k
+r/PublicFreakout
 •Posted by
-u/sup3rn1k
-9 hours ago
-2
-5
-& 14 More
+u/TheDeadWhales
+17 hours ago
+7
+8
+6
 Join
-Kids today will never know what midnight release was like.
-1.9k Comments
+Yikes
+Cart Narcs
+0:00
+2:13
+6.1k Comments
+Share
+Save
+42.4k
+r/FuckYouKaren
+•Posted by
+u/SnixPlaysAlot
+19 hours ago
+2
+Join
+imagine this being your mom.
+Karen
+4.7k Comments
+Share
+Save
+10.0k
+r/NoStupidQuestions
+•Posted by
+u/Rqdii
+20 hours ago
+2
+Join
+How should I walk when it’s dark and there’s a woman/girl walking in front of me, alone?
+Answered
+3.1k Comments
 Share
 Save
 Advertisement
