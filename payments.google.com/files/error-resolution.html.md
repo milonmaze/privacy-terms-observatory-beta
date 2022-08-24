@@ -5,12 +5,9 @@ CUSTOMER SERVICE AND ERROR RESOLUTION POLICY
 
 FOR
 
-GOOGLE PAY ACCOUNT TRANSACTIONS
-AND
+GOOGLE PAY ACCOUNT TRANSACTIONS
 
-BILL PAYMENT TRANSACTIONS
-
-Applicability: This Google Pay Customer Service and Error Resolution Policy for Google Pay Account Transactions and Bill Payment Transactions ("Policy") applies to Person-to-Person/Peer-to-Peer Payment Transactions (“P2P Payments”), Google Pay Balance Card (“GPB Card”) transactions, Bill Payment transactions (“Bill Payments”) and other Google Pay account transactions (which transactions are collectively referred to as “Services” in this Policy) affecting a Google Pay user (“Customer”). These Services are provided to you by Google Payment Corp. ("GPC").
+Applicability: This Google Pay Customer Service and Error Resolution Policy for Google Pay Account Transactions("Policy") applies to Person-to-Person/Peer-to-Peer Payment Transactions (“P2P Payments”), Google Pay Balance Card (“GPB Card”) transactions and other Google Pay account transactions (which transactions are collectively referred to as “Services” in this Policy) affecting a Google Pay user (“Customer”). These Services are provided to you by Google Payment Corp. ("GPC").
 
 This Policy does not apply to transactions with the Processing Service for Third Parties or other Google Pay features. This Policy also does not apply to Google Pay features or other services provided to you by Google affiliates of GPC. Please see the Google Pay/Google Payments Additional Terms of Service (U.S.) for information relating to these features or other services.
 
@@ -20,7 +17,7 @@ Capitalized terms used in this Policy have the meanings stated in the Google Pay
 
 Section 1. Cancellation or Refunds Generally
 
-Except as stated in the "Cancellation or Refunds of P2P Payments" section, the “Refunds of Bill Payments” section and the "EFT Error Resolution Policy" section below, all payments processed through the Services are non-refundable to you. You may not use the Services to reverse, chargeback or cancel a completed payment transaction using the Services.
+Except as stated in the "Cancellation or Refunds of P2P Payments" section and the "EFT Error Resolution Policy" section below, all payments processed through the Services are non-refundable to you. You may not use the Services to reverse, chargeback or cancel a completed payment transaction using the Services.
 
 Section 2. Rights With Your Account Holding Financial Institution
 
@@ -38,28 +35,21 @@ The Recipient must download the Google Pay mobile app and have a qualifying Goog
 
 The Sender may request that GPC cancel the P2P Payment prior to completion of the P2P Payment as described above in this Section. The Sender may request cancellation of the P2P Payment by contacting GPC via our Contact Us page, by using one of these forms, or by calling 1-888-986-7944. GPC will use commercially reasonable efforts to cancel the P2P Payment upon request by the Sender. In the event that GPC is able to cancel the P2P Payment, the funds will be credited to the Sender’s Funding Account or Google Pay Balance that was used to fund the P2P Payment to the extent possible. GPC may deduct applicable fees from the recredited funds, to the extent permitted by applicable law. P2P Payments that have been completed as set forth in this Section are ineligible for cancellation.
 
-Section 5. Cancellation or Refunds of Bill Payments
+Section 5. EFT Error Resolution Policy
 
-GPC cannot assist with a stop payment request for any scheduled Bill Payment transaction using a Payment Method that is a credit card; in such case, you must contact your credit card issuer directly.
-
-The following applies only to a Nest Renew Premium Bill Payment which is a Recurring Payment using a Payment Method that is a debit card or that debits or charges your bank account (automated clearing house payment (ACH)-enabled). You can stop a Nest Renew Premium Bill Payment by contacting Nest Renew Premium support by calling us at 1-855-870-2997, or writing us at Google, Nest Renew 1600 Amphitheatre Parkway Mountain View, CA 94043 in time for us to receive your request at least three (3) business days or more before the scheduled date of the Bill Payment transaction. If you call, we may also require you to put your request in writing and get it to us within 14 days after your call, and your oral stop payment order will cease to be binding after the 14 day period if you fail to provide the requested written confirmation. If you order us to stop payment of a Bill Payment transaction three (3) business days or more before the payment is scheduled, and we do not do so, we will be liable for your losses or damages. GPC will not be able to stop payment of a Bill Payment transaction which has cleared at the time GPC receives your stop payment request. GPC also may not be able to stop payment if it does not have a reasonable opportunity to act on your stop payment request before the Bill Payment transaction has been processed.
-
-Section 6. EFT Error Resolution Policy
-
-This Section 6 - EFT Error Resolution Policy only applies to Google Pay transactions, Bill Payment transactions, and P2P Payments subject to the Electronic Fund Transfer Act. In particular, we apply this Section 6 - EFT Error Resolution Policy to:
+This Section 5 - EFT Error Resolution Policy only applies to Google Pay transactions and P2P Payments subject to the Electronic Fund Transfer Act. In particular, we apply this Section 5 - EFT Error Resolution Policy to:
 
 Error claims by consumer Recipients of P2P Payments;
 Error claims by consumer Senders regarding P2P Payments funded by the Sender’s Google Pay Balance, ACH debit from a checking or savings account, or debit card;
 Error claims regarding funds received by a consumer Customer to a Google Pay Balance from a debit card, or via ACH from a checking or savings account;
 Error claims regarding funds reflected in a Google Pay account or Google Pay Balance (as applicable) transferred by a consumer Customer to a debit card, or via ACH to a checking or savings account;
-Error claims regarding purchases paid for with a Google Pay Balance or GPB Card held by a consumer Customer or any other Google Pay Balance or GPB Card transaction of the consumer Customer;
-Error claims on a Google Pay Balance held by a consumer Customer; and,
-Error claims regarding your Bill Payment transaction.
+Error claims regarding purchases paid for with a Google Pay Balance or GPB Card held by a consumer Customer or any other Google Pay Balance or GPB Card transaction of the consumer Customer; and
+Error claims on a Google Pay Balance held by a consumer Customer.
 This EFT Error Resolution Policy DOES NOT apply to payments to a Seller through the Processing Service for Third Parties.
 
-A. Notification to GPC of An Error on Your Google Pay Transaction, GPB Card Transaction or with a P2P Payment Subject To This Section 6 - EFT Error Resolution Policy
+A. Notification to GPC of An Error on Your Google Pay Transaction, GPB Card Transaction or with a P2P Payment Subject To This Section 5 - EFT Error Resolution Policy
 
-In the event that you think that there is an error in your Google Pay transaction, GPB Card transaction or P2P Payment subject to this Section 6 – EFT Error Resolution Policy, or you have questions or need more information about that Google Pay transaction, GPB Card transaction or P2P Payment, please contact us via our Contact Us page, by using one of these forms, or by calling 1-888-986-7944.
+In the event that you think that there is an error in your Google Pay transaction, GPB Card transaction or P2P Payment subject to this Section 5 – EFT Error Resolution Policy, or you have questions or need more information about that Google Pay transaction, GPB Card transaction or P2P Payment, please contact us via our Contact Us page, by using one of these forms, or by calling 1-888-986-7944.
 
 We must hear from you via one of the methods described above no later than 60 days after we made available to you the FIRST statement or other documentation regarding the Google Pay transaction, GPB Card transaction or P2P Payment on which the problem or error appeared.
 
@@ -85,31 +75,7 @@ We will not send you a periodic statement listing P2P Payments you have sent fun
 
 IF YOUR GOOGLE PAY ACCOUNT USERNAME AND PASSWORD, OR YOUR GPB CARD PIN IS LOST OR STOLEN, NOTIFY US AT ONCE by calling or writing to us at the telephone number and address indicated above.
 
-B. Notification to GPC of An Error on Your Bill Payment Transaction Subject To This Section 6 - EFT Error Resolution Policy
-
-In the event that you think that there is an error in your Nest Renew Premium Bill Payment transaction subject to this Section 6 – EFT Error Resolution Policy, or you have questions or need more information about your Nest Renew Premium Bill Payment transaction, please contact Nest Renew Premium support by calling us at 1-855-870-2997, using the “Contact Us” form at http://nestrenew.google.com, or mailing or delivering your written request to Google, Nest Renew, 1600 Amphitheatre Parkway Mountain View, CA 94043.
-
-We must hear from you via one of the methods described above no later than 90 days after the date the issuer of your Payment Method made available to you the FIRST statement or other documentation on which the problem or error appeared.
-
-(1) Tell us your name and your email address associated with the Bill Payment transaction.
-
-(2) Describe the error or the transfer you are unsure about and explain as clearly as you can why you believe it is an error or why you need more information.
-
-(3) Tell us the dollar amount of the suspected error.
-
-For Bill Payments funded from your checking or savings account or from your debit card, we may extend the applicable notification period if a delay resulted from your initial attempt to notify the financial institution that maintains your checking or savings account or issued your debit card.
-
-If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days.
-
-We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will issue a provisional credit to your Payment Method debited or charged for the Bill Payment transaction in question within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not provisionally credit your account.
-
-For errors involving new users of the Bill Payment Service, we may take up to 90 days to investigate your complaint or question. For new users of the Bill Payment Service, we may take up to 20 business days to issue a provisional credit to your Payment Method debited or charged for the Bill Payment transaction in question for the amount you think is in error.
-
-We will tell you the results within 3 business days after completing our investigation. If we decide that there was no error, we will send you a written explanation by email or U.S. mail. If we had issued a provisional credit to your Payment Method debited or charged for the Bill Payment transaction in question for the error, such credit will be reversed and the written explanation will include notice of such reversal. You may ask for copies of the documents that we relied on in making our determination that there was no error.
-
-ALL QUESTIONS ABOUT TRANSACTIONS MADE USING THE BILL PAYMENT SERVICE MUST BE DIRECTED TO US (GPC), AND NOT TO THE BANK OR OTHER FINANCIAL INSTITUTION WHERE YOU HAVE YOUR PAYMENT METHOD ACCOUNT. We are responsible for the Bill Payment Service and for resolving any errors in transactions made using the Bill Payment Service.
-
-C. Unauthorized Payment Transactions
+B. Unauthorized Payment Transactions
 
 Statement of Your Liability. Please tell us IMMEDIATELY if you believe your Google Pay account username and password or your GPB Card PIN has been lost or stolen. You may contact us via our Contact Us page, by using one of these forms, by calling 1-888-986-7944, or by writing to us at:
 
@@ -129,27 +95,9 @@ If a good reason (such as a long trip or a hospital stay) prevents you from info
 
 Contact in event of unauthorized Google Pay account, GPB Card transactions or Google Pay Balance transfers. If you believe your Google Pay account username and password, your GPB Card PIN or your GPB Card has been lost or stolen or that someone has initiated a P2P Payment, GPB Card transaction or otherwise transferred money from funds we hold and reflect in your Google Pay account (if no activated Google Pay Balance) or your Google Pay Balance without your permission, contact GPC as indicated above in the "Statement of Your Liability" section.
 
-Statement of Your Liability - Bill Payment Transactions.
+C. Our Liability to You For Errors Involving Google Pay Transactions, GPB Card Transactions or P2P Payments Subject To This Section 5 - EFT Error Resolution Policy  
 
-This section only applies to Nest Renew Premium Bill Payment transactions funded by your debit card, or from your checking or savings account.
-
-Please tell us IMMEDIATELY if you believe your Nest Renew Premium Bill Payment Service username and password have been lost or stolen. You may contact Nest Renew Premium support by calling us at 1-855-870-2997, using the “Contact Us” form at http://nestrenew.google.com, or mailing or delivering your written request to
-
-Google
-
-Nest Renew
-
-1600 Amphitheatre Parkway
-
-Mountain View, CA 94043
-
-If you tell us within 4 business days after you learn of the loss or theft of your Bill Payment Service username and password, you can lose no more than $50 if someone used your Bill Payment Service username and password without your permission. If you do NOT tell us within 4 business days after you learn of the loss or theft of your Bill Payment Service username and password, and we can prove we could have stopped someone from using your Bill Payment Service username and password without your permission if you had told us, you could lose as much as $500.
-
-Also, if your Payment Method statement shows Bill Payment transactions that you did not make, please tell us at once. If you do not tell us within 90 days (after the statement was made available to you, you may not get back any money you lost after the 90 days if we can prove that we could have stopped someone from taking the money if you had told us in time. If a good reason (such as a long trip or a hospital stay) kept you from telling us within the 90-day time period, we will extend the time periods. Contact in event of unauthorized Bill Payment transactions. If you believe someone has initiated a Bill Payment or otherwise engaged in a Bill Payment transaction without your permission, contact GPC as indicated above in the "Statement of Your Liability - Bill Payment" section.
-
-D. Our Liability to You For Errors Involving Google Pay Transactions, GPB Card Transactions or P2P Payments Subject To This Section 6 - EFT Error Resolution Policy  
-
-If we do not complete a Google Pay transaction, GPB Card transaction or P2P Payment subject to this Section 6 – EFT Error Resolution Policy on time or in the correct amount according to our Terms of Service agreement, we will be liable for your losses or damages to the extent required under the federal Electronic Fund Transfer Act. However, there are some exceptions. We will not be liable, for instance:
+If we do not complete a Google Pay transaction, GPB Card transaction or P2P Payment subject to this Section 5 – EFT Error Resolution Policy on time or in the correct amount according to our Terms of Service agreement, we will be liable for your losses or damages to the extent required under the federal Electronic Fund Transfer Act. However, there are some exceptions. We will not be liable, for instance:
 
 (1) If, through no fault of ours, you do not have enough money in your Google Pay Balance, funds held by us and reflected in your Google Pay account interface (if no activated Google Pay Balance) or other Payment Method to make the Google Pay transaction, GPB Card transaction or P2P Payment.
 
@@ -171,34 +119,12 @@ If we do not complete a Google Pay transaction, GPB Card transaction or P2P Pay
 
 There may be other exceptions set forth in the Google Pay/Google Payments Additional Terms of Service (U.S.), this Customer Service and Error Resolution Policy or our other agreements with you.
 
-E. Our Liability to You For Errors Involving Bill Payment Transactions Subject To This Section 6 - EFT Error Resolution Policy
+Section 6. DISCLAIMER OF ANY OTHER LIABILITY. EXCEPT AS OTHERWISE STATED ABOVE OR AS PROVIDED BY LAW, IN NO EVENT SHALL GPC BE LIABLE FOR DAMAGES FOR DELAY, NONDELIVERY, NONPAYMENT OR UNDERPAYMENT OF A PAYMENT TRANSACTION, WHETHER CAUSED BY AN ACT OR OMISSION OF GPC, ITS EMPLOYEES, AGENTS OR OTHERWISE. THE SOLE REMEDY AGAINST GPC SHALL BE LIMITED TO REFUND TO CUSTOMER OF THE PRINCIPAL OF THE PAYMENT TRANSACTION AMOUNT PLUS FEES AND CHARGES, EXCEPT AS OTHERWISE PROVIDED BY LAW. IN NO EVENT SHALL GPC BE LIABLE FOR SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES EXCEPT AS OTHERWISE PROVIDED BY LAW.
 
-If we do not complete a Bill Payment transaction subject to this Section 6 – EFT Error Resolution Policy on time or in the correct amount according to our Terms of Service agreement with you, we will be liable for your losses or damages to the extent required under the federal Electronic Fund Transfer Act. However, there are some exceptions. We will not be liable, for instance:
-
-(1) If, through no fault of ours, your account does not have enough money to make the Bill Payment;
-
-(2) If, through no fault of ours, a biller refuses to honor a transaction using your chosen form of payment;
-
-(3) If your form of payment is not valid;
-
-(4) If the Bill Payment system was not working properly and you know about the problem with the system when you started the Bill Payment transaction;
-
-(5) If the transaction or biller account information supplied by you or a third party is incorrect or untimely;
-
-(6) If circumstances beyond our control (such as flood or fire) prevent us from completing the Bill Payment transaction, despite reasonable precautions that we have taken;
-
-(7) If the biller authorizes an amount greater than the Bill Payment transaction amount;
-
-(8) If the transaction is restricted because of potentially suspicious activity.
-
-There may be other exceptions set forth in the Google Pay/Google Payments Additional Terms of Service (U.S.), this Customer Service and Error Resolution Policy or our other agreements with you.
-
-Section 7. DISCLAIMER OF ANY OTHER LIABILITY. EXCEPT AS OTHERWISE STATED ABOVE OR AS PROVIDED BY LAW, IN NO EVENT SHALL GPC BE LIABLE FOR DAMAGES FOR DELAY, NONDELIVERY, NONPAYMENT OR UNDERPAYMENT OF A PAYMENT TRANSACTION, WHETHER CAUSED BY AN ACT OR OMISSION OF GPC, ITS EMPLOYEES, AGENTS OR OTHERWISE. THE SOLE REMEDY AGAINST GPC SHALL BE LIMITED TO REFUND TO CUSTOMER OF THE PRINCIPAL OF THE PAYMENT TRANSACTION AMOUNT PLUS FEES AND CHARGES, EXCEPT AS OTHERWISE PROVIDED BY LAW. IN NO EVENT SHALL GPC BE LIABLE FOR SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES EXCEPT AS OTHERWISE PROVIDED BY LAW.
-
-Section 8. Information Regarding State Regulators.
+Section 7. Information Regarding State Regulators.
 
 Please see the website https://support.google.com/googlepay/answer/7160765?hl=en for a list of the jurisdictions in which Google Payment Corp. holds a money transmitter or other license and information on how to contact the regulatory authority in those jurisdictions.
 
-(01-20-2021)
+(08-23-2022)
 
 Google  About Google  Privacy & Terms
