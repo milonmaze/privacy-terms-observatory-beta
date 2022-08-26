@@ -1,105 +1,101 @@
 Found the internet!
 Trending today
-Primary Elections
-Defeated GOP Extremist Laura Loomer: 'I'm Not Conceding, Because I'm A Winner!' The far-right House candidate lost, for real, to Dan Webster in a Florida Republican primary.
-r/politics and more
-Student Loan Cancellation
-AP sources: Biden set to announce $10,000 federal student loan cancellation Wednesday for many, extend repayment pause
-r/politics and more
-Plex Data Breach
-Plex was compromised, exposing usernames, emails and passwords
-r/animepiracy and more
-Gotham Knights
-Gotham Knights - Official Villains Trailer [4K]
-r/Games and more
-Richard Simmons
-Suzanne Somers: My last meeting with Richard Simmons before disappearance
+Brittney Spears & Elton John 'Hold Me Closer'
+Britney Spears and Elton John: Hold Me Closer review – a star is reborn
 r/entertainment and more
-Dinosaur Tracks in Texas
-Dinosaur tracks from 113 million years ago uncovered due to severe drought [OC]
-r/pics and more
+Amazon / Electronic Arts
+Rumor: Amazon set to buy Electronic Arts
+r/PS5 and more
+Marjorie Taylor Greene
+White House trolls Marjorie Taylor Greene for student loan criticism: ‘She had $183k in PPP loans repaid’
+r/politics and more
+Lastpass Security Breach
+LastPass confirms breach, says user data is probably safe - Neowin
+r/technology and more
+Teslas Connecting to Starlink
+Elon Musk says Tesla cars will connect to Starlink’s new cellular-broadcasting satellites
+r/teslamotors and more
+International Dog Day
+International dog day!! My labrador + Rottweiler mix. 3 year old ❤️
+r/indiasocial and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-17.4k
-r/todayilearned
-•Posted by
-u/Imaginary_Emu3462
-3 hours ago
-TIL that a woman in Pennsylvania needed a life-saving liver transplant, but she kept testing positive for alcohol, which prevented her from getting a transplant, despite swearing that she hadn’t been drinking. The doctors were confused, and it later turned out that her body produced its own alcohol.
-news18.com/news/b...
-Join
-553 Comments
-Share
-Save
-29.7k
+3.6k
 r/AskReddit
 •Posted by
-u/Krakenito
-19 hours ago
-11
-14
-& 6 More
+u/Street_Airport2996
+5 hours ago
 Join
-What can an ugly, average salary guy do to still be attractive?
-12.6k Comments
-Share
-Save
-23.9k
-r/aww
-•Posted by
-u/thelonelyasshole
-4 hours ago
-2
-12
-7
-Join
-Capybara made his day
-0:00
-0:14
-389 Comments
-Share
-Save
-45.4k
-r/PublicFreakout
-•Posted by
-u/TheDeadWhales
-17 hours ago
-7
-8
-6
-Join
-Yikes
-Cart Narcs
-0:00
-2:13
+What is keeping you from drugs?
 6.1k Comments
 Share
 Save
-42.4k
-r/FuckYouKaren
+19.9k
+r/aww
 •Posted by
-u/SnixPlaysAlot
-19 hours ago
-2
+u/fyflate89
+3 hours ago
+7
+6
+6
 Join
-imagine this being your mom.
-Karen
-4.7k Comments
+Imagine being this soft!
+0:00
+0:17
+417 Comments
 Share
 Save
-10.0k
-r/NoStupidQuestions
+5.5k
+r/OnePiece
 •Posted by
-u/Rqdii
-20 hours ago
-2
+u/Kirosh2
+10 hours ago
+20
+17
+16
 Join
-How should I walk when it’s dark and there’s a woman/girl walking in front of me, alone?
-Answered
-3.1k Comments
+One Piece: Chapter 1058
+Current Chapterspoiler
+4.3k Comments
+Share
+Save
+44.8k
+r/therewasanattempt
+•Posted by
+u/Forsaken-Garage-676
+10 hours ago
+6
+5
+3
+Join
+To rob
+SEE FULL IMAGE
+3.7k Comments
+Share
+Save
+15.8k
+r/worldnews
+•Posted by
+u/truscottwc
+3 hours ago
+Russia is at war with NATO, state TV declares, has no plans of stopping
+Russia/Ukraine
+newsweek.com/russia...
+Join
+1.7k Comments
+Share
+Save
+19.6k
+r/HolUp
+•Posted by
+u/heavenly_rocks
+4 hours ago
+Join
+This is just prostitution with extra steps
+558 Comments
 Share
 Save
 Advertisement
