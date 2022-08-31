@@ -1,105 +1,493 @@
 Found the internet!
 Trending today
-House of the Dragon
-'Game of Thrones' theme music returns for bloody 'House of the Dragon' opening titles
-r/television and more
-Taylor Swift Album Announcement
-Taylor Swift Announces All-New Album, ‘Midnights,’ Set for October 21st
-r/TaylorSwift and more
-Max Verstappen
-Max Verstappen has won 20 of the last 37 Grand Prix since Abu Dhabi 2020, with nine 2nd place finishes and a 3rd at Monaco; 5 retirements and a 7th and 9th at Silverstone and Hungary with broken cars.
-r/formula1 and more
-NASA Artemis 1 Moon Mission
-Satellite image of Artemis 1 on Pad 39B at Cape Canaveral.
-r/spaceporn and more
-Harry Kane
-Harry Kane's goals have directly earned 7 of Tottenham's 10 points this season.
-r/coys and more
-Zaporizhzhia Nuclear Power Plant
-IAEA mission heads to Ukraine's Zaporizhzhia nuclear plant near war frontline
-r/ukraine and more
+Mikhail Gorbachev
+Mikhail Gorbachev, who ended the Cold War, dies aged 92 -agencies
+Mar-A-Lago Documents
+Documents at Mar-a-Lago Were Moved and Hidden as U.S. Sought Them, Filing Suggests
+r/politics and more
+Mississippi Water Crisis
+Jackson, Mississippi Has No Safe Tap Water for the Foreseeable Future. It's a Crisis Decades in the Making
+r/politics and more
+Iran Seizes US Sea Drone
+US navy intervenes after Iran seizes American sea drone | US news
+Heatwave
+Brutal heatwave headed for US west, raising health fears
+r/climate and more
+$BBBY
+Bed Bath & Beyond Inc. Announces Strategic Changes to Strengthen its Financial Positioning, Drive Growth and Better Serve Customers | Bed Bath & Beyond
+r/BBBY and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-31.9k
-r/WhitePeopleTwitter
+27.0k
+r/funny
 •Posted by
-u/alicewonderland2
+u/PsychoSuzanne
+4 hours ago
+3
+Join
+Thank you!
+417 Comments
+Share
+Save
+12.7k
+r/AskReddit
+•Posted by
+u/EvilPilotFish
+14 hours ago
+4
+5
+Join
+What is surprisingly illegal?
+7.8k Comments
+Share
+Save
+4.4k
+r/antiwork
+•Posted by
+u/DGReddAuthor
+6 hours ago
+Join
+I have mandatory work funtime after office hours. The "Culture Club" has allowed everyone to add one song to the playlist. What's the most offensive song I can add?
+
+No, it won't come back to me, or if it does, I don't care. The song needs to be readily available on services like Spotify or Deezer. Subtlety won't really work, so stuff like Rage Against the Machine is out.
+
+Yes, this is childish. Yes, I want to make people stop talking and look at each other uncomfortably. No, the songs won't be checked ahead of time, some genius in the Culture Club has created a slackbot for this.
+
+Best case scenario is that people spit their drinks and clutch their pearls.
+
+EDIT: The suggestions so far are okay, but I need things more outright offensive. Not something you need to listen to, but something that you're forced to hear.
+
+6.8k Comments
+Share
+Save
+1.8k
+r/de
+•Posted by
+u/felixtapir
+7 hours ago
+Liebling der Mods Award
+3
+4
+Join
+Nenne eine Stadt, Andere schlagen dir die besten Restaurants und Imbisse vor - 2022
+Essen&Trinken
+
+Moin und herzlich willkommen zur fünften Ausgabe des r/de Restaurantführers!
+die Regeln für alle Neuen: Top-Level Kommentare nennen eine Stadt, die Antworten darauf sind Tipps in welchen Lokalen dieser Stadt es lecker is(s)t.
+die Threads der vorigen Jahre: 2021, 2020, 2019 und das Original 2018 von u/ShyfterEU
+
+PS: Leute ihr seid zu schnell, ich komme nicht hinterher, sortiert so lange selbstständig nach neueste
+
+🇦🇹 Österreich
+Feldkirch
+Graz
+Innsbruck
+Klagenfurt am Wörthersee
+Kufstein
+Linz
+Salzburg
+Sankt Anton
+Sankt Pölten
+Wien
+Wiener Neustadt
+
+🇨🇭 Schweriz
+Chur
+Bern
+Luzern
+St. Gallen
+Zürich
+
+🇩🇪 Deutschland
+Baden-Württemberg
+Aalen
+Bad Wildbad
+Baden-Baden
+Bruchsal
+Böblingen
+Bodenseekreis
+Esslingen am Neckar
+Friedrichshafen
+Freiburg im Breisgau
+Gaildorf
+Heidelberg
+Heilbronn
+Karslruhe
+Kirchheim unter Teck
+Konstanz
+Ludwigsburg
+Lörrach
+[Mannheim](https://www.reddit.com/r/de/comments/x26ouz/_/imhr471/
+Muggensturm
+Nagold
+Offenburg
+Pforzheim
+Ravensburg
+Reutlingen
+Rottenburg am Neckar
+Schorndorf
+Schwäbisch Gmünd
+Schwäbisch Hall
+Stuttgart
+Tübingen
+Ulm
+Urbach
+Weinheim
+
+Bayern
+Amberg
+Aschaffenburg
+Augsburg
+Bad Tölz
+Bamberg
+Bayreuth
+Coburg
+Deggendorf
+Eching bei München
+Erlangen
+Freising
+Fürth
+Füssen
+Garmisch-Partenkirchen
+Herrsching am Ammersee
+Hof (Saale)
+Ingolstadt
+Kiefersfelden
+Kempten (Allgäu)
+Landshut
+Memmingen
+Miesbach
+München
+Neumarkt in der Oberpfalz
+Nürnberg
+Passau
+Regensburg
+Rosenheim
+Rothenburg ob der Tauber
+Roth
+Schwandorf
+Schweinfurt
+Traunstein
+Wasserburg am Inn
+Weilheim
+Würzburg
+
+Berlin
+allgemein
+Spanndau
+
+Brandenburg
+Bernau bei Berlin
+Cottbus
+Eberswalde
+Frankfurt (Oder)
+Potsdam
+Wildau
+Strausberg
+
+Bremen
+Bremen
+Bremerhaven
+
+Hamburg
+allgemein
+Wilhelmsburg
+
+Hessen
+Darmstadt
+Frankfurt am Main
+Fulda
+Gießen
+Hanau
+Hattersheim am Main
+Kassel
+Limburg an der Lahn
+Maintal
+Marburg
+Oestrich-Winkel
+Offenbach am Main
+Wetzlar
+Wiesbaden
+Landkreis Darmstadt-Dieburg
+
+Mecklenburg-Vorpommern
+Insel Rügen
+Greifswald
+Rostock
+Schwerin
+Stralsund
+Waren (Müritz)
+
+Niedersachsen
+Braunlage
+Braunschweig
+Buxtehude
+Celle
+Clausthal-Zellerfeld
+Cuxhaven
+Emden
+Gifhorn
+Göttingen
+Hameln
+Hann. Münden
+Hannover
+Hessisch Oldendorf
+Hildesheim
+Jever
+Leer (Ostfriesland)
+Lüneburg
+Melle
+Oldenburg (Oldb)
+Osnabrück
+Peine
+Rotenburg (Wümme)
+Salzgitter
+Sande
+Schortens
+Stade
+Wilhelmshaven
+Wolfsburg
+
+Nordrhein-Westfalen
+Aachen
+Bergisch Gladbach
+Bielefeld
+Bochum
+Bonn
+Bottrop
+Castrop-Rauxel
+Detmold
+Dormagen
+Dorsten
+Dortmund
+Duisburg
+Düren
+Düsseldorf / Düsseldorf 2
+Essen
+Geldern
+Gelsenkirchen
+Gütersloh
+Hagen
+Hamm
+Heinsberg
+Hennef
+Herford
+Herzogenreath
+Ibbenbüren
+Iserlohn
+Kleve
+Krefeld
+Köln
+Langenfeld
+Leverkusen
+Lippstadt
+Lüdenscheid Minden
+Mönchengladbach
+Mülheim an der Ruhr
+Münster
+Neuss
+Oberhausen
+Olpe
+Paderborn / Paderborn 2
+Rastatt
+Recklinghausen
+Remscheid
+Rheine
+Schalksmühle
+Schmallenberg
+Siegen
+Soest
+Solingen
+Steinfurt
+Unna
+Viersen
+Wetter (Ruhr)
+Wolfenbüttel
+Wuppertal
+
+Rheinland-Pfalz
+Annweiler am Trifels
+Bad Kreuznach
+Kaiserslautern
+Koblenz
+Landau in der Pfalz
+Ludwigshafen am Rhein
+Mainz
+Mayen
+Trier
+Worms
+
+Saarland
+Merzig
+Neunkirchen
+Saarbrücken
+Saarlouis
+
+Sachsen
+Chemnitz
+Dresden
+Leipzig
+Zwickau
+
+Sachsen-Anhalt
+Dessau-Roßlau
+Halle (Saale)
+Magdeburg
+Zeitz
+
+Schleswig-Holstein
+Bad Segeberg
+Elmshorn
+Flensburg
+Glückstadt
+Henstedt-Ulzburg
+Husum
+Insel Föhr
+Insel Helgoland
+Itzehoe
+Kaltenkirchen
+Kiel / Kiel 2
+Lübeck
+Neumünster
+Norderstedt
+
+Thüringen
+Altenburg
+Arnstadt
+Eisenach
+Erfurt
+Gera
+Ilmenau
+Jena
+Meinungen
+Weimar
+
+Europa
+
+🇧🇪 Belgien
+Brüssel
+Gent
+
+🇩🇰 Dänemark
+Kolding
+Kopenhagen
+Roskilde
+
+🇫🇷 Frankreich
+Colmar
+Metz
+Paris
+Perpignan
+Straßburg
+
+🇪🇪 Estland
+Tallinn
+
+🇬🇷 Griechenland
+Athen
+
+🇮🇹 Italien
+Catania (Insel Sizilen)
+Florenz
+Mailand
+Neapel
+Rom
+
+🇮🇪 Irland Dublin
+
+🇱🇮 Liechtenstein
+Vaduz
+
+🇭🇷 Kroatien
+Rovinj
+
+🇱🇻 Lettland
+Riga
+
+🇱🇹 Litauen
+Kaunas
+Vilnius
+
+🇱🇺 Luxemburg
+Luxemburg
+
+🇲🇹 Malta
+ganz Malta
+Valletta
+
+🇳🇱 Niederlande
+Amsterdam
+Breda
+Eindhoven
+Maastrich
+Roermond
+Rotterdam
+
+🇳🇴 Norwegen
+Trondheim
+
+🇵🇹 Portugal Porto
+
+🇷🇸 Serbien Belgrad
+
+🇸🇰 Slowakai
+Bratislava
+
+🇪🇸 Spanien
+Madrid
+Palma de Mallorca (Insel Mallorca)
+Sa Coma (Insel Mallorca)
+Sevilla
+
+🇨🇿 Tschechien
+Prag
+
+🇬🇧 Vereinigtes Königreich
+London
+
+Rest der Welt
+
+🇦🇺 Sydney
+🇧🇷 Rio de Janeiro
+🇨🇦 Vancouver
+🇮🇱 Jerusalem
+🇮🇱 Tel Aviv
+🇮🇳 Mumbai
+🇯🇵 Tokio
+🇰🇷 Ansan
+🇰🇷 Seoul
+🇹🇷 Istanbul
+🇺🇦 Cherson
+🇺🇸 New York City
+
+3.6k Comments
+Share
+Save
+14.0k
+r/LiveFromNewYork
+•Posted by
+u/Vince_Tsung
+14 hours ago
+Join
+Very little I agree with Rob on politically but looking back was this sketch not somewhat cringy?
+Discussion
+3.2k Comments
+Share
+Save
+14.2k
+r/CasualUK
+•Posted by
+u/StunnedMoose
 3 hours ago
-Join
-Good Question
-641 Comments
-Share
-Save
-2.5k
-Today @ 1:53AM
-r/HouseOfTheDragon
-•Posted by
-u/mwthecool
-12 hours ago
-Join
-House of the Dragon - 1x02 "The Rogue Prince" - Post Episode Discussion
-No Book Spoilers spoiler
-5.3k Comments
-Share
-Save
-52.4k
-r/PublicFreakout
-•Posted by
-u/werdmouf
-17 hours ago
+2
 7
-8
-8
-& 105 More
+& 14 More
 Join
-Armed Antifa protects drag brunch in Texas
-Repost 😔
-0:00
-1:49
-9.1k Comments
-Share
-Save
-18.8k
-r/worldnews
-•Posted by
-u/1Chloe_Price
-3 hours ago
-4
-4
-& 2 More
-"Armed Forces of Ukraine break through first line of Russian defence in Kherson Oblast" – Kakhovka Operational Group
-Russia/Ukraine
-pravda.com.ua/eng/ne...
-Join
-829 Comments
-Share
-Save
-12.6k
-r/facepalm
-•Posted by
-u/smooth_calamity
-3 hours ago
-3
-3
-& 3 More
-Join
-Man arrested for....doing exactly what he was told
- 🇲​🇮​🇸​🇨​
-2.1k Comments
-Share
-Save
-32.4k
-r/IdiotsInCars
-•Posted by
-u/Zappendaddy
-19 hours ago
-3
-Join
-Who is at fault here?
-3.8k Comments
+On this day 25 years ago we lost Princess Diana. Forever in are hearts
+815 Comments
 Share
 Save
 Advertisement
