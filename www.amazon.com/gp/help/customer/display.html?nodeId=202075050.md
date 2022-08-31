@@ -37,6 +37,7 @@ Yes
 No
 ‹ All Help Topics
 Security and Privacy
+California Consumer Privacy Act Disclosures
 How Amazon Uses Your Personal Information
 How Amazon Collects Your Personal Information
 How Amazon Protects Your Personal Information
