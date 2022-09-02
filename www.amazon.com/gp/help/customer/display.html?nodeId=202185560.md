@@ -3,7 +3,7 @@ Help & Customer Service
 
 Find more solutions
 
-Digital Services and Device Support  ›  Amazon Device and Digital Services Terms, Warranties, and Notices  ›  Alexa and Alexa Device Terms, Warranties, and Notices  ›  Legal & Compliance (On-Device)  › 
+Alexa & Alexa Device Terms  ›  Legal & Compliance  ›  Legal Notices  › 
 Children's Privacy Disclosure
 Last updated: July 8, 2020
 
@@ -53,39 +53,70 @@ Yes
  
 No
 ‹ All Help Topics
-Legal & Compliance (On-Device)
 Legal Notices
-Safety & Compliance
-Children’s Privacy Disclosure
+Legal Notices for Echo (3rd Generation)
+Legal Notices for Alexa for PC
+Legal Notices for Amazon Tap
+Legal Notices for Echo Studio
+Legal Notices for Echo Dot (3rd Generation), Echo Plus (2nd Generation), Echo Sub (1st Generation), and Echo Input (1st Generation)
+Legal Notices for Echo Connect
+Legal Notices for Echo Wall Clock (Disney Mickey Mouse Edition)
+Legal Notices for Echo Dot (2nd Generation)
+Legal Notices for Echo Link
+Legal Notices for Amazon Smart Air Quality Monitor (1st Generation)
+Legal Notices for Echo, Echo Dot (1st Generation), and Echo Remote
+Legal Notices for Echo (4th Generation), Echo Dot (4th Generation), and Echo Dot with Clock (2nd Generation)
+Legal Notices for Echo Look
+Legal Notices for Echo Frames
+Legal Notices for Alexa
+Alexa Test Skills Notice
+Legal Notices for Echo (2nd Generation) and Echo Plus (1st Generation)
+Legal Notices for Echo Buds (First Generation) and Echo Buds (Second Generation)
+Legal Notices for Echo Auto
+Legal Notices for Alexa App on iOS and Android
+Legal Notices for Echo Loop
+Legal Notices for the Echo Look App
+Legal Notices for Amazon Smart Oven
+Legal Notices for Amazon Smart Plug
+Legal Notices for Echo Wall Clock
+Legal Notices for AmazonBasics Microwave
+Legal Notices for Smart Sticky Note Printer 1st Generation
+Legal Notices for Echo Dot with Clock
+Children's Privacy Disclosure
+Legal Notices for Alexa for PC (version 3.2 or greater)
 Quick solutions
 	
 
-Devices & Content
+Your Orders
 
-Deliver books, apps to your device
-
-	
-
-Digital Purchases
-
-View purchased books & apps
+Track or cancel orders
 
 	
 
-Your Subscriptions
+Returns & Refunds
 
-Edit payment info
-
-	
-
-1-Click Settings
-
-Change your address
+Exchange or return items
 
 	
 
-Digital & Device Forum
+Manage Prime
 
-Ask the community
+Cancel or view benefits
 
-Contact Us
+	
+
+Payment Settings
+
+Add or edit payment methods
+
+	
+
+Carrier Info
+
+Shipping carrier information
+
+	
+
+Account Settings
+
+Change email or password
