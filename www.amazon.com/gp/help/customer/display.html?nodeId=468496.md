@@ -218,6 +218,7 @@ No
 ‹ All Help Topics
 Legal Policies
 3rd Party Licensing Notice
+AMAZON INFLUENCER TERMS & CONDITIONS FOR SPONSORED CONTENT
 Conditions of Use
 Amazon.com Privacy Notice
 Amazon Group Companies
