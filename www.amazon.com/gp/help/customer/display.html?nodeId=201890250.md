@@ -4,7 +4,7 @@ Help & Customer Service
 Find more solutions
 
 Security and Privacy  › 
-About Cookies
+Cookies
 
 Last updated: January 1, 2020
 
@@ -19,7 +19,7 @@ Improving security.
 Delivering content, including ads, relevant to your interests on Amazon sites and third-party sites (see the Interest-Based Ads notice for how we use cookies in serving interest-based ads).
 Reporting. This allows us to measure and analyze the performance of our services.
 
-Amazon's cookies allow you to take advantage of some of Amazon's essential features. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon products and services that require you to sign in.
+Amazon’s cookies allow you to take advantage of some of Amazon's essential features. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon products and services that require you to sign in.
 
 Approved third parties may also set cookies when you interact with Amazon services. Third parties include search engines, providers of measurement and analytics services, social media networks, and advertising companies. Third parties use cookies in the process of delivering content, including ads relevant to your interests, to measure the effectiveness of their ads, and to perform services on behalf of Amazon.
 
@@ -34,6 +34,7 @@ Yes
 No
 ‹ All Help Topics
 Security and Privacy
+California Consumer Privacy Act Disclosures
 How Amazon Uses Your Personal Information
 How Amazon Collects Your Personal Information
 How Amazon Protects Your Personal Information
