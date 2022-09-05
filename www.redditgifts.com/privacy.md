@@ -1,100 +1,136 @@
 Found the internet!
 Trending today
-Arcane Emmy Award
-'Arcane' Wins the 2022 Emmy for Outstanding Animated Program
-r/leagueoflegends and more
-Korean Fertility Rate
-Korea to Triple Baby Payments After It Smashes Own Record for World’s Lowest Fertility Rate
-Liz Truss
-The more Tory voters see of Liz Truss, the less they like her, polls show | Liz Truss
-r/unitedkingdom and more
-Barack Obama
-Barack Obama Becomes First President to Win Competitive Emmy
-r/entertainment and more
-Utah vs. Florida
-[Postgame Thread] Florida Defeats Utah 29-26
+Brendan Fraser
+brendan fraser moved to tears as he receives a 6 minute standing ovation during the premiere of 'the whale'
+r/MadeMeSmile and more
+LCS 2022 Championship
+USS Sioux City (LCS 11) sailors work on 57mm gun. Aug. 23, 2022 [5436 X 3624]
+r/WarshipPorn and more
+LSU vs. Florida State
+[Gillen] For tactical reasons, Brian Kelly won’t reveal if Garrett Nussmeier or Jayden Daniels will start at QB for LSU when they take on Florida State this Sunday.
 r/CFB and more
-Patriot Front March
-Patriot Front, a group considered to be white nationalists, seen marching through downtown Indianapolis
-r/news and more
+Climate Change
+By 2080, climate change will make US cities shift to climates seen today hundreds of miles to the south
+r/Futurology and more
+Liz Truss
+Saskatchewan Attack
+At least 10 killed, dozens injured in Saskatchewan stabbings: RCMP
+r/canada and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-29.5k
-r/MadeMeSmile
-•Posted by
-u/Kaos2018
-2 hours ago
-3
-& 12 More
-Join
-How can you not love lecturer’s that try that much
- Wholesome Moments 
-361 Comments
-Share
-Save
-16.4k
-r/comics
-•Posted by
-u/Miles_the_new_kid
-5 hours ago
-Join
-I'm the Therapist Now
-OC
-104 Comments
-Share
-Save
-4.6k
+11.4k
 r/AskReddit
 •Posted by
-u/BbyBelle7
-12 hours ago
-4
-2
+u/Daredevils9
+16 hours ago
+3
+5
 Join
-Your last google search is how you died. What killed you?
-nsfw
-9.6k Comments
+What vehicle do you automatically assume is being driven by a total asshole?
+13.1k Comments
 Share
 Save
-11.0k
-r/politics
+194k
+r/MadeMeSmile
 •Posted by
-u/Routine_Chapter_9099
-4 hours ago
-2
-Trump Praises Putin, Applauds Xi for 'Iron Fist' at Pennsylvania Rally
-businessinsider.com/trump-...
+u/bewarethechameleon
+15 hours ago
+3
+7
+& 293 More
 Join
-1.1k Comments
+brendan fraser moved to tears as he receives a 6 minute standing ovation during the premiere of 'the whale'
+ Favorite People 
+0:00
+0:45
+4.8k Comments
 Share
 Save
-11.9k
-r/technology
+34.8k
+r/facepalm
 •Posted by
-u/Canal_Volphied
-4 hours ago
-2
-The super-rich ‘preppers’ planning to save themselves from the apocalypse | Tech billionaires are buying up luxurious bunkers and hiring military security to survive a societal collapse they helped create, but like everything they do, it has unintended consequences
-Society
-theguardian.com/news/2...
+u/jhrogoff
+15 hours ago
 Join
+Flat Earthers indoctrinating children from birth...
+ 🇲​🇮​🇸​🇨​
+SEE FULL IMAGE
+4.2k Comments
+Share
+Save
+6.5k
+r/CFB
+•Posted by
+u/jaybigs
+11 hours ago
+2
+& 21 More
+Join
+[Postgame Thread] Florida State Defeats LSU 24-23
+Postgame Thread
+
+Box Score provided by ESPN
+
+Team	1	2	3	4	T
+Florida State	0	7	10	7	24
+LSU	3	0	7	13	23
+Made with the r/CFB Game Thread Generator
+3.8k Comments
+Share
+Save
+20.8k
+r/news
+•Posted by
+u/scot816
+4 hours ago
+3
+& 6 More
+Black Lives Matter executive accused of 'syphoning' $10M from BLM donors, suit says
+cbsnews.com/sacram...
+Join
+2.4k Comments
+Share
+Save
+33.7k
+r/mildlyinfuriating
+•Posted by
+u/LordNelson781
+15 hours ago
+Join
+Homeowner put out a “have a heart” trap and went on vacation.
+3.6k Comments
+Share
+Save
+1.2k
+r/AskUK
+•Posted by
+u/Balboa_Island
+6 hours ago
+2
+Join
+Why don't Brits have as much 'prepper mentality' as other countries?
+
+I don't think I've ever met a single Brit who is a prepper. If some event were to happen like a natural disaster, most people wouldn't even have enough non perishable food and stocked up water to survive a week.
+
 1.4k Comments
 Share
 Save
-47.3k
-r/memes
+58.9k
+r/entertainment
 •Posted by
-u/Silly-Garbage-3296
-6 hours ago
-10
-7
+u/GroundbreakingSet187
+16 hours ago
+2
+6
 9
+& 19 More
+Brendan Fraser Breaks Down in Tears as ‘The Whale’ Gets Huge 6-Minute Standing Ovation in Venice
+variety.com/2022/f...
 Join
-Im over prepared
-408 Comments
+1.4k Comments
 Share
 Save
 Advertisement
