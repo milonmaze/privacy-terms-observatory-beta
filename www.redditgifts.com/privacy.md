@@ -1,136 +1,98 @@
 Found the internet!
 Trending today
-Brendan Fraser
-brendan fraser moved to tears as he receives a 6 minute standing ovation during the premiere of 'the whale'
-r/MadeMeSmile and more
-LCS 2022 Championship
-USS Sioux City (LCS 11) sailors work on 57mm gun. Aug. 23, 2022 [5436 X 3624]
-r/WarshipPorn and more
-LSU vs. Florida State
-[Gillen] For tactical reasons, Brian Kelly won’t reveal if Garrett Nussmeier or Jayden Daniels will start at QB for LSU when they take on Florida State this Sunday.
-r/CFB and more
-Climate Change
-By 2080, climate change will make US cities shift to climates seen today hundreds of miles to the south
-r/Futurology and more
-Liz Truss
-Saskatchewan Attack
-At least 10 killed, dozens injured in Saskatchewan stabbings: RCMP
-r/canada and more
+Trump Nuclear Documents
+Material on foreign nation’s nuclear capabilities seized at Trump’s Mar-a-Lago
+r/politics and more
+Ted Cruz
+Ted Cruz says he will vote against bill to codify same-sex marriage protections
+r/politics and more
+Netflix
+Gulf Arab countries threaten Netflix with legal action unless they remove 'offensive content' that 'violates Islamic values'
+r/technology and more
+California
+California is so hot you can use your meat thermometer to check the weather
+r/funny and more
+Jennifer Lawrence
+Jennifer Lawrence discusses gender pay gap after earning ‘$5m less’ than Leonardo DiCaprio for Don’t Look Up
+r/entertainment and more
+Steve Bannon
+Steve Bannon faces state indictment in N.Y., will surrender Thursday
+r/politics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-11.4k
+52.3k
+r/meirl
+•Posted by
+u/TerrorAreYou
+10 hours ago
+11
+7
+11
+& 3 More
+Join
+meirl
+17.7k Comments
+Share
+Save
+7.7k
 r/AskReddit
 •Posted by
-u/Daredevils9
-16 hours ago
-3
-5
-Join
-What vehicle do you automatically assume is being driven by a total asshole?
-13.1k Comments
-Share
-Save
-194k
-r/MadeMeSmile
-•Posted by
-u/bewarethechameleon
-15 hours ago
-3
-7
-& 293 More
-Join
-brendan fraser moved to tears as he receives a 6 minute standing ovation during the premiere of 'the whale'
- Favorite People 
-0:00
-0:45
-4.8k Comments
-Share
-Save
-34.8k
-r/facepalm
-•Posted by
-u/jhrogoff
-15 hours ago
-Join
-Flat Earthers indoctrinating children from birth...
- 🇲​🇮​🇸​🇨​
-SEE FULL IMAGE
-4.2k Comments
-Share
-Save
-6.5k
-r/CFB
-•Posted by
-u/jaybigs
-11 hours ago
-2
-& 21 More
-Join
-[Postgame Thread] Florida State Defeats LSU 24-23
-Postgame Thread
-
-Box Score provided by ESPN
-
-Team	1	2	3	4	T
-Florida State	0	7	10	7	24
-LSU	3	0	7	13	23
-Made with the r/CFB Game Thread Generator
-3.8k Comments
-Share
-Save
-20.8k
-r/news
-•Posted by
-u/scot816
-4 hours ago
-3
-& 6 More
-Black Lives Matter executive accused of 'syphoning' $10M from BLM donors, suit says
-cbsnews.com/sacram...
-Join
-2.4k Comments
-Share
-Save
-33.7k
-r/mildlyinfuriating
-•Posted by
-u/LordNelson781
-15 hours ago
-Join
-Homeowner put out a “have a heart” trap and went on vacation.
-3.6k Comments
-Share
-Save
-1.2k
-r/AskUK
-•Posted by
-u/Balboa_Island
-6 hours ago
+u/smokingfrog007
+9 hours ago
+4
 2
 Join
-Why don't Brits have as much 'prepper mentality' as other countries?
-
-I don't think I've ever met a single Brit who is a prepper. If some event were to happen like a natural disaster, most people wouldn't even have enough non perishable food and stocked up water to survive a week.
-
-1.4k Comments
+Redditors who haven't been infected with covid even once, good job. But how did you do it?
+7.6k Comments
 Share
 Save
-58.9k
-r/entertainment
+14.4k
+r/movies
 •Posted by
-u/GroundbreakingSet187
-16 hours ago
+u/The_Dwight_Schrute
+17 hours ago
 2
-6
-9
-& 19 More
-Brendan Fraser Breaks Down in Tears as ‘The Whale’ Gets Huge 6-Minute Standing Ovation in Venice
-variety.com/2022/f...
 Join
-1.4k Comments
+Heath Ledger's casting as Joker was famously doubted. Similarly, RDJ as Stark, Willis in Die Hard, Craig as Bond, JLaw as Katniss, etc. Are there examples of high-profile dubious casting choices where the critics were RIGHT?
+Discussion
+
+More examples include Adam Sandler in anything serious, Steve Carrell in Foxcatcher, Kristen Stewart as Diana, Pattinson as Batman, and the list goes on!
+
+What were the ones that critics said just wouldn't work ... and they were right?
+
+Only one that immediately comes to mind is Emma Stone in Aloha and MAYBE ScarJo in Ghost in the Shell (I enjoyed it!)
+
+NOTE: This is not Who was a bad actor in a big role? This is Who did critics correctly predict would not fit the part?
+
+6.2k Comments
+Share
+Save
+40.0k
+r/Damnthatsinteresting
+•Posted by
+u/truly-immaculate
+13 hours ago
+2
+Join
+This guy is wearing a 4 kilo pure gold shirt worth $211,000
+Image
+3.5k Comments
+Share
+Save
+35.1k
+r/PublicFreakout
+•Posted by
+u/terransLoc
+17 hours ago
+4
+3
+3
+Join
+good sign you are in a toxic relationship
+3.4k Comments
 Share
 Save
 Advertisement
