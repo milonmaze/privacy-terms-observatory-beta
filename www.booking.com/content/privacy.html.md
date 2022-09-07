@@ -813,6 +813,7 @@ Partner dispute
 How We Work
 Privacy & cookie statement
 Don't sell my personal information
+MSA statement
 Corporate contact
 Extranet login
 Copyright © 1996–2022 Booking.com™. All rights reserved.
