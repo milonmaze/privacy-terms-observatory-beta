@@ -82,24 +82,3 @@ International Transfers
 Regional Disclosures
 
 Contact Us
-
-CONTACT
-CAREERS
-PARTNERS AND INVESTORS
-Investors
-Partner with us
-Suppliers
-OUR COMPANY
-Leadership
-Structure and Governance
-Policies and Practices
-Archive
-Awards & Recognition
-Newsroom
-LEGAL
-Privacy
-Terms and Conditions
-AdChoices
-CA Privacy
-Do Not Sell My Personal Information
-© 2022 Procter & Gamble
