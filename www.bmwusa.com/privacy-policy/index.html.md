@@ -94,6 +94,7 @@ X4 M
 X5 M
 X6 M
 Additional M Models
+M240i Coupe
 M240i xDrive Coupe
 M235i xDrive Gran Coupe
 M440i Coupe
