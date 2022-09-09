@@ -1,98 +1,115 @@
 Found the internet!
 Trending today
-Trump Nuclear Documents
-Material on foreign nation’s nuclear capabilities seized at Trump’s Mar-a-Lago
-r/politics and more
-Ted Cruz
-Ted Cruz says he will vote against bill to codify same-sex marriage protections
-r/politics and more
-Netflix
-Gulf Arab countries threaten Netflix with legal action unless they remove 'offensive content' that 'violates Islamic values'
+North Korea
+North Korea declares itself a nuclear weapons state
 r/technology and more
-California
-California is so hot you can use your meat thermometer to check the weather
-r/funny and more
-Jennifer Lawrence
-Jennifer Lawrence discusses gender pay gap after earning ‘$5m less’ than Leonardo DiCaprio for Don’t Look Up
-r/entertainment and more
-Steve Bannon
-Steve Bannon faces state indictment in N.Y., will surrender Thursday
-r/politics and more
+Italian Grand Prix
+2022 Italian Grand Prix - Free Practice 1 Results
+r/formula1 and more
+Tim Cook
+Tim cook switch his watch to Apple Watch Ultra after the release.
+r/AppleWatch and more
+Ukraine
+Ukraine counterattack takes Russia – and everyone else – by surprise
+r/ukraine and more
+Corgis
+Corgi gets shoved too hard
+r/FunnyAnimals and more
+Queen Elizabeth II
+Three images of Queen Elizabeth during WW2 as a driver and mechanic.
+r/Damnthatsinteresting and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-52.3k
-r/meirl
+47.6k
+r/mildlyinfuriating
 •Posted by
-u/TerrorAreYou
-10 hours ago
-11
-7
-11
-& 3 More
+u/WarDoggy12
+12 hours ago
+6
+& 19 More
 Join
-meirl
-17.7k Comments
+My dog keeps randomly tearing up my moms Bible. This is the third Bible she’s had to purchase
+7.4k Comments
 Share
 Save
-7.7k
+19.2k
+r/worldnews
+•Posted by
+u/Espressodimare
+5 hours ago
+Russian troops disguise themselves as civilians and desert – General Staff
+Russia/Ukraine
+pravda.com.ua/eng/ne...
+Join
+739 Comments
+Share
+Save
+6.1k
 r/AskReddit
 •Posted by
-u/smokingfrog007
+u/Suspicious_Drive6655
+11 hours ago
+3
+2
+Join
+Which celebrity's career is basically over?
+7.2k Comments
+Share
+Save
+28.3k
+r/nextfuckinglevel
+•Posted by
+u/the-highlife-artia
+5 hours ago
+5
+2
+Join
+Ooh ooh here she comes.
+0:00
+0:23
+2.1k Comments
+Share
+Save
+5.8k
+r/OnePiece
+•Posted by
+u/Kirosh2
 9 hours ago
-4
-2
+20
+23
+17
 Join
-Redditors who haven't been infected with covid even once, good job. But how did you do it?
-7.6k Comments
+One Piece: Chapter 1059
+Current Chapterspoiler
+6.9k Comments
 Share
 Save
-14.4k
-r/movies
+16.9k
+r/cursedcomments
 •Posted by
-u/The_Dwight_Schrute
+u/BrodskyLizzie
+4 hours ago
+Join
+Cursed_Word?
+Twitter
+191 Comments
+Share
+Save
+90.3k
+r/pics
+•Posted by
+u/-Omegamart-
 17 hours ago
-2
+6
+10
+7
+& 6 More
 Join
-Heath Ledger's casting as Joker was famously doubted. Similarly, RDJ as Stark, Willis in Die Hard, Craig as Bond, JLaw as Katniss, etc. Are there examples of high-profile dubious casting choices where the critics were RIGHT?
-Discussion
-
-More examples include Adam Sandler in anything serious, Steve Carrell in Foxcatcher, Kristen Stewart as Diana, Pattinson as Batman, and the list goes on!
-
-What were the ones that critics said just wouldn't work ... and they were right?
-
-Only one that immediately comes to mind is Emma Stone in Aloha and MAYBE ScarJo in Ghost in the Shell (I enjoyed it!)
-
-NOTE: This is not Who was a bad actor in a big role? This is Who did critics correctly predict would not fit the part?
-
-6.2k Comments
-Share
-Save
-40.0k
-r/Damnthatsinteresting
-•Posted by
-u/truly-immaculate
-13 hours ago
-2
-Join
-This guy is wearing a 4 kilo pure gold shirt worth $211,000
-Image
-3.5k Comments
-Share
-Save
-35.1k
-r/PublicFreakout
-•Posted by
-u/terransLoc
-17 hours ago
-4
-3
-3
-Join
-good sign you are in a toxic relationship
-3.4k Comments
+US Treasury Secretary Janet Yellen sitting in economy on a flight
+4.0k Comments
 Share
 Save
 Advertisement
