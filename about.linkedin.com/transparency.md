@@ -1,46 +1,130 @@
 Skip to main content
 Close jump menu
-Our Transparency Report
 
+Our Transparency Center
 
-We strive for transparency and accountability in the actions we take to protect our members, how we handle inquiries for member data, and how we respond to content removal requests. We continued to see record levels of engagement on the platform during this reporting period. As more people come to LinkedIn to connect to economic opportunity, we continue to invest in technology and people to help stop and prevent abuse, and take action on those who misuse the platform.
-
-Our semi-annual Transparency Report includes both a Community Report and a Government Requests Report.
+We work to keep LinkedIn safe, trusted, and professional. We  provide our members with regular transparency updates on the actions we take to protect members, how we handle questions about member data, and how we respond to content removal requests. 
 
 Community Report
 
 
-This describes how we enforce our User Agreement and Professional Community Policies for our members globally.
+
+
+How we enforce our User Agreement and Professional Community Policies for our members globally.
 
 Go to report
+
 Government Requests Report
 
 
-This describes how we respond when governments around the world ask for member data or for content to be removed.
-
+How we respond when governments ask for member data or for content to be removed.
 
 Go to report
 
+Members
+
+Ads transparency and controls
+
+Government requests
+
 Professional Community Policies
 
-Law Enforcement Guidelines
 
-Guide: Features to Help You Control Your Feed and Conversations
+See the rules of our community that we need everyone to follow.
 
-Strengthening our Professional Community Policies to Keep Members Safe
+Visit webpage →
 
-Our Commitment to Safe Conversations
 
-Working to Keep Our Community Safe, Trusted, and Professional
+Updates to our Professional Community Policies
 
-Help Center: Recognizing and Reporting Scams
 
-Help Center: Government Requests for Data
+Learn about recent updates we’ve made to our policies. 
 
-What We Mean by Equitable Outcomes for the Global Workforce
+Read blog post →
 
-Our approach to Responsible AI
+How our content abuse defense systems work
 
- 
+
+Layers of protection help us detect and remove inappropriate content.
+
+Read blog post →
+
+Keeping your feed relevant and productive
+
+
+Investments we’ve made in the feed content experience.
+
+Read blog post  →
+
+How we address fake profiles
+
+
+
+
+Actions we take to keep you safe while engaging with the community.
+
+Read blog post →
+
+Improving the quality of jobs
+
+
+
+
+How we’re keeping the job-search experience easy, safe, and effective.
+
+Read blog post →
+
+Safety Series: What is scraping?
+
+
+We define what it is (and isn’t), what we’re doing about it, and what members can do.
+
+Read blog post →
+
+How to report inappropriate content
+
+Let us know about any content that may violate our Professional Community Policies through our Help Center.
+
+Our approach to brand safety
+
+
+How we create a safe and trusted experience for customers.
+
+Read blog post →
+
+Why am I seeing this ad?
+
+
+How our ads settings and targeting works for you.
+
+Read blog post →
+
+Brand safety standards for your campaigns
+
+
+Trusted publishers help customers reach their audiences through ad campaigns.
+
+Go to Help Center →
+
+Government requests for data
+
+
+We respect the laws that apply to us and put our members first by requiring government requests follow established legal procedures.
+
+Go to Help Center →
+
+Law enforcement guidelines
+
+
+The process we follow for law enforcement data requests, and our approach to transparency.
+
+Go to Help Center →
+
+Report defamation and copyright / trademark infringement
+
+
+We require information posted by members to be accurate, lawful, and not in violation of the rights of others.
+
+Go to Help Center →
 
 dismiss
