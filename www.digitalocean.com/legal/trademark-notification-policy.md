@@ -1,5 +1,5 @@
-Legal & Security
-Trademark Notification Policy
+Free credit active: Get started on DigitalOcean with a $100, 60-day credit for new users.
+
 Trademark Notification Policy
 
 Last Updated on March 13, 2020
@@ -48,6 +48,7 @@ API
 Pricing
 Documentation
 Release Notes
+Uptime
 Community
 Tutorials
 Meetups
@@ -56,6 +57,7 @@ CSS-Tricks
 Write for DOnations
 Droplets for Demos
 Hatch Startup Program
+deploy by DigitalOcean
 Shop Swag
 Research Program
 Currents Research
