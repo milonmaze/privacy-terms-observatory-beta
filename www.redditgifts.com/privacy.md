@@ -1,115 +1,75 @@
 Found the internet!
 Trending today
-North Korea
-North Korea declares itself a nuclear weapons state
-r/technology and more
-Italian Grand Prix
-2022 Italian Grand Prix - Free Practice 1 Results
-r/formula1 and more
-Tim Cook
-Tim cook switch his watch to Apple Watch Ultra after the release.
-r/AppleWatch and more
-Ukraine
-Ukraine counterattack takes Russia – and everyone else – by surprise
+Ukraine Border
+Border guards: Ukraine troops reach border with Russia in Kharkiv region’s north
 r/ukraine and more
-Corgis
-Corgi gets shoved too hard
-r/FunnyAnimals and more
+Ethereum Merge
+Ethereum's 99.95 % drop in energy usage will be equal to 15 big nuclear reactors, or 11 000 wind turbines
+r/CryptoCurrency and more
+Dak Prescott
+[Meirov] BREAKING: #Cowboys owner Jerry Jones tells reporters QB Dak Prescott will have to undergo hand surgery and will miss several weeks.
+r/eagles and more
+Cancer Moonshot
+Biden to sign order boosting biotech as part of cancer moonshot update
+r/politics and more
+Rail Worker Strike
+Rail-Strike deadline carries economic and political risks for Biden
+r/politics and more
 Queen Elizabeth II
-Three images of Queen Elizabeth during WW2 as a driver and mechanic.
-r/Damnthatsinteresting and more
+The secret letter of Queen Elizabeth II, everyone is forbidden to open until the year 2085
+r/australia and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-47.6k
+37.2k
 r/mildlyinfuriating
 •Posted by
-u/WarDoggy12
-12 hours ago
-6
-& 19 More
-Join
-My dog keeps randomly tearing up my moms Bible. This is the third Bible she’s had to purchase
-7.4k Comments
-Share
-Save
-19.2k
-r/worldnews
-•Posted by
-u/Espressodimare
-5 hours ago
-Russian troops disguise themselves as civilians and desert – General Staff
-Russia/Ukraine
-pravda.com.ua/eng/ne...
-Join
-739 Comments
-Share
-Save
-6.1k
-r/AskReddit
-•Posted by
-u/Suspicious_Drive6655
+u/SleezeDemon
 11 hours ago
-3
-2
-Join
-Which celebrity's career is basically over?
-7.2k Comments
-Share
-Save
-28.3k
-r/nextfuckinglevel
-•Posted by
-u/the-highlife-artia
-5 hours ago
-5
-2
-Join
-Ooh ooh here she comes.
-0:00
-0:23
-2.1k Comments
-Share
-Save
-5.8k
-r/OnePiece
-•Posted by
-u/Kirosh2
-9 hours ago
-20
-23
-17
-Join
-One Piece: Chapter 1059
-Current Chapterspoiler
-6.9k Comments
-Share
-Save
-16.9k
-r/cursedcomments
-•Posted by
-u/BrodskyLizzie
-4 hours ago
-Join
-Cursed_Word?
-Twitter
-191 Comments
-Share
-Save
-90.3k
-r/pics
-•Posted by
-u/-Omegamart-
-17 hours ago
 6
-10
-7
-& 6 More
+5
 Join
-US Treasury Secretary Janet Yellen sitting in economy on a flight
+Kids area of a hospital lobby. N is for ?
+6.7k Comments
+Share
+Save
+19.8k
+r/nba
+•Posted by
+u/IHateNull
+20 hours ago
+& 22 More
+Join
+Anthony Edwards posts blatant homophobia to his Instagram story
+streamable.com/bjhclb
+4.3k Comments
+Share
+Save
+39.8k
+r/mildlyinteresting
+•Posted by
+u/kitkat1122
+16 hours ago
+3
+4
+Join
+My church does a grape instead of juice/wine for communion
+OC
 4.0k Comments
+Share
+Save
+17.1k
+r/gaming
+•Posted by
+u/Cynthiadaly
+3 hours ago
+2
+Join
+U know u play to much games when...
+i.imgur.com/SLBteg...
+272 Comments
 Share
 Save
 Advertisement
