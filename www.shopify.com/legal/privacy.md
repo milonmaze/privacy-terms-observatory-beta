@@ -30,7 +30,7 @@ If a third party requests your personal information, we will refuse to share it 
 
 We help merchants and partners meet their privacy obligations
 
-Many of the merchants and partners using Shopify do not have the benefit of a dedicated privacy team, and it is important to us to help them meet their privacy obligations. To do this, we try to build our products and services so they can easily be used in a privacy-friendly way. We also provide detailed FAQs, documentation and whitepapers covering the most important privacy topics, and respond to privacy-related questions we receive.
+Many of the merchants and partners using Shopify do not have the benefit of a dedicated privacy team, and it is important to us to help them meet their privacy obligations. To do this, we try to build our products and services so they can easily be used in a privacy-friendly way. We also provide detailed FAQs and documentation covering the most important privacy topics, and respond to privacy-related questions we receive.
 
 Why we process your information
 
