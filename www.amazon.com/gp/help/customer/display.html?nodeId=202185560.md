@@ -3,7 +3,7 @@ Help & Customer Service
 
 Find more solutions
 
-Digital Services and Device Support  ›  Amazon Device and Digital Services Terms, Warranties, and Notices  ›  Alexa & Alexa Device Terms  ›  Legal & Compliance  ›  Legal Notices  › 
+Digital Services and Device Support  ›  Amazon Device and Digital Services Terms, Warranties, and Notices  ›  Alexa & Alexa Device Terms  › 
 Children's Privacy Disclosure
 Last updated: July 8, 2020
 
@@ -53,37 +53,14 @@ Yes
  
 No
 ‹ All Help Topics
-Legal Notices
-Legal Notices for Alexa
-Legal Notices for Echo, Echo Dot (1st Generation), and Echo Remote
-Legal Notices for Amazon Tap
-Legal Notices for Echo Dot (2nd Generation)
-Legal Notices for Echo Look
-Legal Notices for the Echo Look App
-Legal Notices for Echo (2nd Generation) and Echo Plus (1st Generation)
-Legal Notices for Echo (3rd Generation)
-Legal Notices for Echo Connect
-Legal Notices for Alexa App on iOS and Android
-Legal Notices for Echo Dot (3rd Generation), Echo Plus (2nd Generation), Echo Sub (1st Generation), and Echo Input (1st Generation)
-Legal Notices for Echo Dot with Clock
-Legal Notices for Echo Wall Clock
-Legal Notices for Echo Wall Clock (Disney Mickey Mouse Edition)
-Legal Notices for Alexa for PC
-Legal Notices for Amazon Smart Plug
-Legal Notices for AmazonBasics Microwave
-Legal Notices for Amazon Smart Oven
-Legal Notices for Echo Auto
-Legal Notices for Echo Buds (First Generation) and Echo Buds (Second Generation)
-Legal Notices for Echo Link
-Legal Notices for Echo Studio
-Legal Notices for Echo Frames
-Legal Notices for Alexa for PC (version 3.2 or greater)
-Legal Notices for Echo Loop
-Legal Notices for Echo (4th Generation), Echo Dot (4th Generation), and Echo Dot with Clock (2nd Generation)
-Legal Notices for Smart Sticky Note Printer 1st Generation
-Legal Notices for Amazon Smart Air Quality Monitor (1st Generation)
+Alexa & Alexa Device Terms
+Echo Buds Battery Life Testing Information
+Learn More About Your Sweat Resistant Echo Buds
+Learn More About Your Splash-Resistant Echo Frames
+Amazon Sidewalk Privacy and Security Whitepaper
+Alexa Guard - Sounds of Activity
+Legal & Compliance
 Children's Privacy Disclosure
-Alexa Test Skills Notice
 Quick solutions
 	
 
