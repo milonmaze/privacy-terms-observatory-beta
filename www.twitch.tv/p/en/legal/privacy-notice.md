@@ -1,31 +1,32 @@
 Legal
 Terms of Service
-Music Guidelines
+Terms of Sale
 Community Guidelines
-Account Usernames and Display Names Policy
-Community Guidelines FAQ
 Privacy Notice
 Privacy Choices
-California Privacy Disclosure
 DMCA Guidelines
+Music Guidelines
 Trademark Policy
 Trademark Guidelines
-Terms of Sale
+Account Usernames and Display Names Policy
+Accessibility Statement
 Developer Agreement
 Affiliate Program Agreement
 Supplemental Fees Statement
-Ad Choices
-Channel Points Acceptable Use Policy
 Bits Acceptable Use Policy
+Channel Points Acceptable Use Policy
 Cookie Notice
+Ad Choices
 Photosensitive Seizure Warning
 Predictions Terms and Conditions
-Modern Day Slavery Statement
 Events Code Of Conduct
-Accessibility Statement
 Transparency Report
+Community Guidelines FAQ
+Modern Day Slavery Statement
+California Privacy Disclosure
 Inhalte auf Twitch Entdecken
 Contact Us
+Right of Withdrawal
 Advertising
 Blog
 Brand
