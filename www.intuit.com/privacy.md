@@ -38,7 +38,7 @@ Manage your marketing preferences
 
 
 
-Manage your cookie preferences
+Learn more about cookies
 
 
 
