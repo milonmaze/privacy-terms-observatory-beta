@@ -61,6 +61,7 @@ Amazon Sidewalk Privacy and Security Whitepaper
 Alexa Guard - Sounds of Activity
 Legal & Compliance
 Children's Privacy Disclosure
+Fire Phone Terms
 Quick solutions
 	
 
