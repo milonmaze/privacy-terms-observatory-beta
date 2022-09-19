@@ -1,98 +1,133 @@
 Found the internet!
 Trending today
-Avatar Re-release
-James Cameron Talks ‘Avatar’s Rerelease, Moviegoing Experience
-r/movies and more
-US Migrant Situation
-AOC Accuses DeSantis, Abbott of 'Crimes Against Humanity' for Migrant Stunt
+Queen Elizabeth II
+Behind the scenes at Westminster Hall where Queen Elizabeth II is Lying-in-State. The guards who stand vigil at the coffin take a break in a back room.
+r/CasualUK and more
+Hurricane Fiona
+Hurricane Fiona Knocks Out Power to All of Puerto Rico, Governor Says
+r/TropicalWeather and more
+Biden Statement on Taiwan
+Biden tells 60 Minutes U.S. troops would defend Taiwan, but White House says this is not official U.S. policy
 r/politics and more
-Cobra Kai
-Cobra Kai creator Jon Hurwitz: The upcoming 2024 Karate Kid movie is not connected to the popular television series.
-r/movies and more
-Adobe-Figma Acquisition
-Adobe’s Figma acquisition is a $20 billion bet to control the entire creative market
-r/technology and more
-Russia-Ukraine War
-Ukraine says Mexico's peace plan is meant to help Russia regroup for a new offensive
-Matt Gaetz
-Rep. Gaetz sought Trump pardon, former White House aide testifies to Jan 6 committee
+Ron DeSantis
+Massachusetts seeks human trafficking probe targeting Florida Gov. DeSantis over migrants
 r/politics and more
+SpaceX Launch
+SpaceX Falcon9 Climbs Through the Clouds Over Cape Canaveral 09-18-2022
+Trey Lance
+[Schefter] 49ers’ QB Trey Lance suffered a significant ankle injury today that is expected to require surgery that likely will end his season, per source.
+r/nfl and more
 Popular posts
 Hot
 New
 Top
-Vote
-r/meirl
-•Posted by
-u/keterkarker88
-2 hours ago
-Join
-Meirl
-9 Comments
+93.6k
+r/wallstreetbets
+LIVE
+· 129k players
+16
+14
+7
+🔮WallStreetBets Predictions Tournament for September 2022🔮
+PREDICTION
+How will SPY close on Tuesday 9/20?
+You must be logged in
+Very Green (Above +1.25%)
+Green (+0.5% to +1.25%)
+Flat (-0.5% to +0.5%)
+Red (-0.5% to -1.25%)
+Very Red (Below -1.25%)
+See What Others Predicted
+PREDICTION
+How will General Mills close following their Earnings Report on September 21?
+You must be logged in
+Green (+2.5% or above)
+Flat (-2.5% to +2.5%)
+Red (-2.5% or below)
+See What Others Predicted
+0 of 3 predicted
+495 Comments
 Share
 Save
-2.8k
-r/thalassophobia
+59.6k
+r/Unexpected
 •Posted by
-u/solateor
-11 hours ago
+u/helosikali
+13 hours ago
+8
+8
+8
+& 2 More
 Join
-Rogue wave in Hawaii
+Hardest man in the UK
 0:00
-0:21
-95 Comments
+0:23
+2.0k Comments
 Share
 Save
-5.9k
+676
+r/Funnymemes
+•Posted by
+u/ihitbab1es
+18 hours ago
+Join
+Walking bad
+19 Comments
+Share
+Save
+800
+r/CFB
+•Posted by
+u/Fragrant_Tank
+20 hours ago
+[McMurphy] Kansas opens an 8-point favorite vs. Duke via @CircaSports . 1st time Jayhawks have been favorite vs. Power 5 team since Nov. 7, 2009 when KU was 1½-point favorite vs. Kansas State. KSU won 17-10 h/t
+Discussion
+twitter.com/Brett_...
+Join
+132 Comments
+Share
+Save
+10.8k
 r/MaliciousCompliance
 •Posted by
-u/Turkaram
-15 hours ago
+u/big-heck-nah
+17 hours ago
+3
 4
-3
-3
+4
 Join
-I created a "hostile work environment"
+You want me to coerce an inspector after someone else did the work?
 MOC
 
-I used to be a server at a major restaurant chain that you see in every mall in the US, and my particular location just happened to be in one of the wealthier parts of the country. Because of that, a large percentage of the clientele wanted their dishes a certain way. There were some oddball regulars (like the one lady who wanted a Caesar salad with no dressing but 3 whole lemons to squeeze on the lettuce) but 99% of the time they'd ask for rigatoni instead of penne in a dish, or red onion instead of yellow on a burger, or something of that nature. The thing about this chain, though, is that technically you're supposed to charge them for substitutions like that. So, for instance, if a guest wanted a different kind of dressing on a salad, it might be a 10 cent charge. Or if they wanted Swiss instead of cheddar on their burger, it would be like a 15 cent charge.
+This happened years ago. I had just started working as an independent electrician, and one day I received a call from a new customer. He was one of those people that flips homes in lower income neighborhoods. I’ll call him Todd, but honestly, I’ve forgotten what his name is. Todd asked me to meet him at a vacant house he recently bought to give him an estimate for a full rewiring job. He was 30 minutes late, so I was already unimpressed with him.
 
-As a server you were supposed to know all the upcharges, but because there were like 26 pages to the menu it was daunting enough to just memorize what we even had. But obviously no one ever charged for these things because what's an extra 15 cents on a $200 tab, especially when you're in the weeds and you're pretty sure the host stand wants you to have a mental breakdown. Not only that, but because rich people tend to be the stingiest mfers you'll ever meet, we would never charge them because they would instantly complain if you did. And the restaurant's policy was essentially "the customer is always right" no matter how wrong they were. We even had regular grifters that would order the "wrong thing" and then complain and get an entire free meal EVERY FREAKING TIME.
+Upon entering the house, which was right after a rain storm had passed through, we found an inch of water covering the hardwood floors. There was water pouring out of small holes in the columns on the front porch. Everything was soaked. Instead of showing me around, Todd called his business partner and brother and spent the next 20 minutes cussing him for not fixing the roof.
 
-So one normal day I'm serving a table and someone asks for goat cheese on their salad instead of feta, which is supposed to be one of those 10 cent changes. I obviously don't add the upcharge, just like I hadn't for any of the other countless times in over 3 years, and like 15 minutes later the new manager (I'll just call him Brad) comes along and pretty much chews me out over it. Keep in mind, this is Brad's 2nd day on the job and he came from the other side of the country to replace our beloved former manager who left to manage her own restaurant. Dude hadn't even introduced himself to me and he comes out of nowhere to yell at me for not doing the upcharge. I explained to him why I didn't, and how it was pretty much a directive from the GM not to do upcharges because of the 99% chance that a complaint and free meal would follow. But Brad just blah blah blahs some more and tells me I need to add the upcharges or I'd get written up.
+I’m standing around and listening to his man-baby rage on full display. The whole time I’m thinking there’s no way I’m going to work for this guy. His fuse was way too short and his anger was out of hand. I gave him a price, which admittedly was the “I don’t want to do this job price”, and didn’t hear back from him. Until months later…
 
-So when the next table (a party of seven that had a $500ish bill) changes literally every dish, I added the upcharges (which totaled like, $1 at most). When I dropped the check they freaked out over all the upcharges (even though I informed them of the charges when they ordered, the itemized receipt made it look so much more severe) and they demanded to speak to the manager.
+Todd called me later that year. He explained that he had found an electrician from three states away, and had paid the electrician with ceramic tiles instead of cash. The problem now? Well, he needed an inspection from the city electrical inspector. I agreed to meet the inspector for him, which I would bill him for.
 
-Instead of getting any of the other managers I had worked with for years, I grabbed Brad and made him deal with them. He ended up having to comp all $500ish because he insisted I charge an extra dollar for all the substitutions. But did he learn his lesson? Nope! So I did it over and over again to the detriment of my bank account (most people still tipped me though, so that was nice) and I got to watch tables routinely chew him out over the charges. This continued for a month or so until he finally relented, and not too long after I was suspiciously fired for "creating a hostile work environment"....while on vacation.
+I went back to the house about twenty minutes before the inspector showed up and saw numerous issues. When the inspector arrived, we walked through together. Every issue I saw, the inspector also saw. He pointed them out, and every time, I agreed with him that the work was not up to code. This inspector kept looking at me with a puzzled expression. After we did a complete walk through I finally explained to the inspector that I didn’t do any of the work and was hired to get him to pass the inspection. He asked me if I thought he should and I told him “absolutely not”. I got paid for my time, I got paid to repair all the violations, and I formed a strong relationship with that inspector, who was always lenient with me on all my future jobs.
 
-TL;DR: New manager made me upcharge people negligible amounts and ended up losing the restaurant thousands of dollars because of it
-
-EDIT: Separated into more paragraphs so it's easier to read
-
-Update: Just wanted to say thanks for the awards and for the legal stuff. Y'all would be amazed by the amount of illegal crap the restaurant industry gets away with (but that's for a different subreddit)
-
-346 Comments
+231 Comments
 Share
 Save
-99
-r/maybemaybemaybe
-•Posted by
-u/Boolink125
-12 hours ago
+1.9k
+r/RoomPorn
+Crossposted by
+u/Sunkisty
+8 hours ago
 Join
-Maybe Maybe Maybe
-6 Comments
-Share
-Save
-164
-r/funny
-•Posted by
-u/MichaelCLong
-5 hours ago
-Done
-i.imgur.com/ZEcTQh...
-Join
-8 Comments
+The interior of the Orient Express. This long-distance passenger train was created in 1883
+r/pics
+•
+Posted by
+u/Ill-Energy2640
+16 hours ago
+The interior of the Orient Express. This long-distance passenger train was created in 1883.
+spam/ban
+814 points35 comments
+15 Comments
 Share
 Save
 Advertisement
