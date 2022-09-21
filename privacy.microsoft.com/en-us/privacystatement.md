@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: June 2022 What's new?
+Last Updated: September 2022 What's new?
 Expand All
 Print
 
