@@ -1,117 +1,107 @@
 Found the internet!
 Trending today
-Andor
-Andor - Episode 1, 2 & 3 - Discussion Thread!
-r/StarWars and more
-Putin Announces Partial Mobilization
-Putin announces partial mobilization for Russians
-r/europe and more
-Aaron Judge
-Aaron Judge reaches 60 homers
-r/sports and more
-Nvidia
-me trying to make sense of Nvidia's shenanigans
-r/pcmasterrace and more
-Ron DeSantis
-Florida officials made fake 'official-looking' brochure advertising refugee benefits for migrants, lawsuit against Ron DeSantis says
-r/politics and more
-Joe Biden
-Biden to rally world leaders against Russian attempts to annex Ukraine regions | Ukraine
+Volodymyr Zelensky
+Zelensky: Putin troop mobilization ‘frank admission’ that Russian army has ‘crumbled’
 r/ukraine and more
+Taylor Swift - Midnights Mayhem
+The second Midnights Mayhem with Me has been posted on tiktok!
+r/TaylorSwift and more
+Trump Special Master
+Special master asks Trump team to back up claim FBI planted evidence
+r/politics and more
+Tropical Depression 9
+Tropical Depression Nine has formed in the Central Caribbean Sea. There is still a lot of uncertainty with the forecast for early next week, and the track could change significantly.
+r/florida and more
+Tesla Recall
+Tesla ordered to recall more than a million US cars
+r/technology and more
+CIA Podcast
+CIA Launches First Podcast, ‘The Langley Files,’ Which Reveals That Working at the Agency Is More Boring Than Hollywood Makes It Seem
+r/nottheonion and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-15.0k
-r/politics
-•Posted by
-u/DaFunkJunkie
-3 hours ago
-Florida officials made fake 'official-looking' brochure advertising refugee benefits for migrants, lawsuit against Ron DeSantis says
-businessinsider.com/florid...
-Join
-783 Comments
-Share
-Save
-23.7k
-r/AskReddit
-•Posted by
-u/Kilo_616
-14 hours ago
-5
-& 8 More
-Join
-what’s a good fucked up movie?
-16.4k Comments
-Share
-Save
-42.3k
+32.0k
 r/worldnews
 •Posted by
-u/GuyIncognito2022
-8 hours ago
-4
+u/rebelliousmuse
+3 hours ago
 7
-& 12 More
-Putin announces partial military mobilization in Russia
+3
+6
+Russians try burning down 5 military enlistment offices after announcement of mobilisation
 Russia/Ukraine
-m.jpost.com/breaki...
+pravda.com.ua/eng/ne...
 Join
-7.4k Comments
+1.1k Comments
 Share
 Save
-72.5k
-r/MadeMeSmile
+126k
+r/interestingasfuck
 •Posted by
-u/Marco280892
-5 hours ago
-10
-8
-10
+u/Snfuboop
+10 hours ago
+& 358 More
 Join
-This man is absolutely right, we need a station for every bathroom. We also make men smile by giving them this satisfaction
-  Very Reddit 
-2.1k Comments
+I built my dream ‘80s Video “Store” in my basement over 4 long years for family, friends and creative endeavors. Enjoy! #mondovideo #atl
+/r/ALL
+1/20
+4.2k Comments
 Share
 Save
-12.8k
-r/HumansBeingBros
+14.0k
+r/nba
 •Posted by
-u/787v
-3 hours ago
+u/curryybacon
+13 hours ago
+2
+2
+3
+[Charania] The Boston Celtics have suspended head coach Ime Udoka for the entire 2022-23 season.
+News
+twitter.com/ShamsC...
 Join
-Cat burger
-107 Comments
+2.5k Comments
 Share
 Save
-14.4k
+24.1k
+r/gaming
+•Posted by
+u/Rareturdinae843
+4 hours ago
+2
+2
+Join
+90s kids can't forget
+515 Comments
+Share
+Save
+46.0k
+r/facepalm
+•Posted by
+u/turnerpike20
+7 hours ago
+2
+Join
+God forbid we let our children learn about things that actually exist.
+ 🇲​🇮​🇸​🇨​
+2.2k Comments
+Share
+Save
+36.6k
 r/worldnews
 •Posted by
-u/electrictoothbrush09
+u/MastodonOk8087
 5 hours ago
-Flights out of Russia sell out after Putin orders partial call-up
+6
+2
+'How to Leave Russia,' 'How to Break Arm' Google Searches Spike After Putin Announced Drafting of Citizens to Fight Ukraine War
 Russia/Ukraine
-reuters.com/world/...
+ibtimes.sg/how-le...
 Join
-1.3k Comments
-Share
-Save
-8.3k
-r/MurderedByWords
-Crossposted by
-u/BelleAriel
-3 hours ago
-Join
-Nature is beautiful
-r/PoliticalComebacks
-•
-Posted by
-u/BelleAriel
-3 hours ago
-Nature is beautiful
-314 points4 comments
-172 Comments
+1.8k Comments
 Share
 Save
 Advertisement
