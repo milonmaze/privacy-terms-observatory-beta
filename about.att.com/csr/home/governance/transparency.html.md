@@ -178,7 +178,7 @@ Canada
 Historic: Subscriber Information
 Jan.–June 2022
 6
-Columbia
+Colombia
 IP/URL Blocking
 Jan.–June 2022
 2
