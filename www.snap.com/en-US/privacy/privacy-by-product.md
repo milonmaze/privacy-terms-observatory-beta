@@ -10,7 +10,7 @@ Voice and Video Chat allows you to check in with your Friends. If you just want 
 
 Snaps and Chats, including Voice and Video Chats, between you and your friends are private — we don’t scan their content to create profiles or show you ads. This means we typically don’t know what you’re saying or Snapping unless you ask us to (for example, if you opt-in to Voice Chat transcripts). In addition, we keep some metadata on the Snaps and Chats you send and receive.
 
-When Does Snap Inc. Delete Snaps and Chats?
+When Does Snapchat Delete Snaps and Chats?
 
 How to Create and Send Snaps
 
@@ -36,19 +36,9 @@ Stories
 
 Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group of friends.
 
-You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if your Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Snaps in your Story are posted for 24 hours, though you can remove them from your Story at any time.
+You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if your Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Keep in mind: Snaps set to viewable by ‘Everyone’ and those that are submitted to Spotlight are Public Content, and your Snap may still appear off Snapchat if it has been shared off of Snapchat! Snaps in your Story are posted for 24 hours, (unless otherwise noted), though you can remove them from your Story at any time.
 
 How to Use Stories
-
-Our Story, Spotlight & Snap Map Snaps
-
-Snaps you submit to Our Story, Spotlight, or Snap Map can show up in Spotlight, Stories, Discover, Search, on the Snap Map, or even on third-party platforms — for example when someone shares your Snap to another platform or service. Keep in mind: Snaps that are submitted to Our Story, Spotlight, and Snap Map are Public Content, and your Snap may still appear off Snapchat if it has been shared off of Snapchat! Also, Our Story, Spotlight, and Snap Map submissions may be stored indefinitely and may be visible on Snapchat for long periods of time — sometimes for months or more. If you’d like to remove a Snap you’ve submitted to Our Story, Spotlight, or Snap Map, you can do so by going to your profile.
-
-Our Story
-
-About Spotlight
-
-About Snap Map
 
 Profiles
 
@@ -68,7 +58,10 @@ Snaps submitted to Spotlight are public and other Snapchatters will be able to s
 
 As you explore and engage with more Spotlight Snaps, we will tailor your Spotlight experience and show you Spotlight Snaps we think you will like. For example, if you can’t stop watching dance challenges, we will show you more dance-related Spotlight Snaps.
 
-When you submit Snaps to Spotlight we ask you to comply with our Community Guidelines, Spotlight Terms and Spotlight Guidelines.
+When you submit Snaps to Spotlight we ask you to comply with our Community Guidelines, Spotlight Terms and Spotlight Guidelines. Your Spotlight submissions are stored on our servers until you delete them and may be visible on Snapchat for long periods of time — sometimes for months or more. If you’d like to remove a Snap you’ve submitted to Spotlight, you can do so by going to your profile.
+
+
+
 
 About Spotlight
 
@@ -191,21 +184,25 @@ Snap Map lets you see where your friends have been, what’s going on around the
 
 You won’t appear on Snap Map until you open it for the first time and choose to share your location. If you don’t open the app for 24 hours, you won’t be visible on the Map until you open Snapchat again. You can always update the people you’re sharing your location with in Snap Map settings, or go into ‘Ghost Mode’ to hide your location from everyone. We may also remind you if you leave location sharing enabled for a while.
 
-Snaps that have been submitted to Our Story and Snap Map can also show up on the Map — but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process.
+Snaps that have been submitted to Snap Map can show up on the Map — but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process. Keep in mind: Snaps that are submitted to Snap Map are Public Content, and your Snap may appear off Snapchat if it has been shared off of Snapchat! Also, Snap Map submissions may be stored indefinitely and may be visible on Snapchat for long periods of time — sometimes for months or more. If you’d like to remove a Snap you’ve submitted to Snap Map, you can do so by going to your profile.
 
 When it looks like something interesting is happening, a Story thumbnail might appear on the Map! For the most part, these are also created automatically — while Stories that are labeled as ‘Featured’ receive a more hands-on approach. Snaps posted to Snap Map are also viewable on the web at map.snapchat.com and are embeddable on other websites.
 
-Please be mindful of the Snaps that you submit to Our Story and Snap Map. Although the Map only shows the general area where a Snap was taken, things like landmarks and street signs appearing in a Snap can show where you’re at, if you’re worried about that kind of thing.
+Please be mindful of the Snaps that you submit to Snap Map. Although the Map only shows the general area where a Snap was taken, things like landmarks and street signs appearing in a Snap can show where you’re at, if you’re worried about that kind of thing.
 
 Places make it easy to interact with local businesses on the Snap Map. Just tap a Place on the Map to view the place’s listing, or tap Search at the top of the Map screen to find a Place. Places provide a personalized Map experience, and you can even order food from your favorite restaurant via one of the delivery partners.
 
 If you come across anything that violates our Community Guidelines, please reach out to us and report it!
 
+About Snap Map
+
+Finding Friends on Snap Map
+
 Location
 
 Snapchat uses your device’s GPS to offer certain location-based features. For example, we use your device’s location to provide Geofilters based on where you’re at or what’s going on around you, or we can use your location to position the Map to show you what’s nearby. We also use your location to figure out what you’d like to see — so people in France see content from French publishers, French ads, and so on.
 
-We store GPS locations for a while to help improve the Map and other features. For example, we may store some of the locations you visit the most so we can show you more relevant Search content or update your Bitmoji’s activity on the Map. We may also store location information of the Snaps you save in Memories or submit to My Story, Our Story, Spotlight, or Snap Map to personalize your experience.
+We store GPS locations for a while to help improve the Map and other features. For example, we may store some of the locations you visit the most so we can show you more relevant Search content or update your Bitmoji’s activity on the Map. We may also store location information of the Snaps you save in Memories or submit to Stories, Spotlight, or Snap Map to personalize your experience.
 
 On the new Spectacles, some features may need location data to work properly. We may use data from a few sources to derive a more accurate representation of your location. For example, if the last location of your sunglasses is not available, we may rely on Snapchat’s use of your device’s GPS to offer location-based features. 
 
@@ -225,7 +222,7 @@ You have full control over your selfie. You can change and delete it and restric
 
 Learn About Cameos
 
-Games and Minis
+Games & Minis
 
 Games are a fun way to hang out with your friends on Snapchat. You’ll be able to see your friends in a game when you're playing in a Chat with them, and they will be able to see you too. You can invite them to play games with you and enable your microphone so you can talk while you play. Depending on the game, your display name may be visible to other players, both friends and non-friends, when you play. Your friends will also be able to see your score on leaderboards unless you hide your score in Games settings.
 
@@ -245,6 +242,6 @@ We personalize your Snapchat experience based on interactions you have with your
 
 We generally try to show you ads that’ll be relevant to you. We’re able to do this by making some guesses about the things you like and don’t like. For example, if you’re constantly watching Snaps of puppies on Discover or Spotlight, you might be a “Pet & Animal Lover.” Or, if you regularly post Snaps of your sports memorabilia to My Story, our system might be able to guess that you’re a “Sports Fan.” We call guesses like these “Lifestyle Categories” and we use them to try and show you ads and content that’s relevant to your interests! If you’d like, you can always pick your own Lifestyle Categories.
 
-We personalize the Snap Map. For example, if you visit a Place or apply a venue filter or sticker on a My Story, Our Story, Spotlight, or Snap Map submission, we may use that venue information to create a more personalized Map experience for you and your friends.
+We personalize the Snap Map. For example, if you visit a Place or apply a venue filter or sticker on a Stories, Spotlight, or Snap Map submission, we may use that venue information to create a more personalized Map experience for you and your friends.
 
 We also try to personalize the content you see by using what we call “Content Interest Tags.” These tags are guesses about the content that you may be interested in based on activity, like things you search for, Stories you view, popular users you subscribe to, and types of locations you visit. So if you watch a lot of Stories about basketball, we may create “sports” and “basketball” Content Interest Tags, so we can show you more Snaps about basketball. You can reset Content Interest Tags at any time in Snapchat settings!
