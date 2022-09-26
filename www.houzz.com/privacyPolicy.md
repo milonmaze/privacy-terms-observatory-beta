@@ -251,7 +251,9 @@ Houzz Credit Cards
 Gift Cards
 Careers
 Privacy & Notice
-Terms of Use
+Terms
+Cookie Policy
+Do not sell my info
 Mobile Apps
 Copyright & Trademark
 BUSINESS SERVICES
