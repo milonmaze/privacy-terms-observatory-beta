@@ -67,16 +67,20 @@ Pixy.com Cookie Settings
 
 Third-party advertising partners
 
-Twitter
+Bing
 
-Pinterest
+Facebook
 
 Google Analytics
 
 LinkedIn
 
-Bing
-
 Pardot
 
-Facebook
+PayPal
+
+Pinterest
+
+Reddit
+
+Twitter
