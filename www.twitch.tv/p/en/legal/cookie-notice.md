@@ -24,9 +24,6 @@ Transparency Report
 Community Guidelines FAQ
 Modern Day Slavery Statement
 California Privacy Disclosure
-Inhalte auf Twitch Entdecken
-Contact Us
-Right of Withdrawal
 Advertising
 Blog
 Brand
