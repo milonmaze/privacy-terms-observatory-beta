@@ -57,6 +57,7 @@ Alexa & Alexa Device Terms
 Echo Buds Battery Life Testing Information
 Learn More About Your Sweat Resistant Echo Buds
 Learn More About Your Splash-Resistant Echo Frames
+Learn More - Do Not Send Voice Recordings
 Amazon Sidewalk Privacy and Security Whitepaper
 Alexa Guard - Sounds of Activity
 Legal & Compliance
