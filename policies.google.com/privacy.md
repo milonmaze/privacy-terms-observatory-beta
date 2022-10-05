@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective February 10, 2022 | Archived versions | Download PDF
+Effective October 4, 2022 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -47,7 +47,7 @@ When you’re signed in, we also collect information that we store with your Goo
 
 Things you create or provide to us
 
-When you create a Google Account, you provide us with personal information that includes your name and a password. You can also choose to add a phone number or payment information to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to receive updates about our services.
+When you create a Google Account, you provide us with personal information that includes your name and a password. You can also choose to add a phone number or payment information to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to communicate with Google or receive updates about our services.
 
 We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.
 
@@ -221,8 +221,6 @@ You can export a copy of content in your Google Account if you want to back it u
 
 Export your data
 
-You can also request to remove content from specific Google services based on applicable law.
-
 To delete your information, you can:
 
 Delete your content from specific Google services
@@ -232,7 +230,9 @@ Delete your entire Google Account
 
 Delete your information
 
-And finally, Inactive Account Manager allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
+Inactive Account Manager allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
+
+And finally, you can also request to remove content from specific Google services based on applicable law and our policies.
 
 There are other ways to control the information Google collects whether or not you’re signed in to a Google Account, including:
 
@@ -251,7 +251,7 @@ We do not share your personal information with companies, organizations, or indi
 
 With your consent
 
-We’ll share personal information outside of Google when we have your consent. For example, if you use Google Home to make a reservation through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant. We’ll ask for your explicit consent to share any sensitive personal information.
+We’ll share personal information outside of Google when we have your consent. For example, if you use Google Home to make a reservation through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant. We also provide you with controls to review and manage third party apps and sites you have given access to data in your Google Account. We’ll ask for your explicit consent to share any sensitive personal information.
 
 With domain administrators
 
@@ -313,7 +313,7 @@ RETAINING YOUR INFORMATION
 
 We retain the data we collect for different periods of time depending on what it is, how we use it, and how you configure your settings:
 
-Some data you can delete whenever you like, such as the content you create or upload. You can also delete activity information saved in your account, or choose to have it deleted automatically after a set period of time.
+Some data you can delete whenever you like, such as your personal info or the content you create or upload, like photos and documents. You can also delete activity information saved in your account, or choose to have it deleted automatically after a set period of time. We’ll keep this data in your Google Account until you remove it or choose to have it removed.
 Other data is deleted or anonymized automatically after a set period of time, such as advertising data in server logs.
 We keep some data until you delete your Google Account, such as information about how often you use our services.
 And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
