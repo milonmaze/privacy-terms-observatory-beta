@@ -380,11 +380,11 @@ When receiving a request, we will verify that the individual making the request 
 
 Right to Know.
 
-You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this privacy statement. You can use GitHub’s User Migration API to access and download your data. Learn more here. You may also make such a “request to know” by contacting us here.
+You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this privacy statement. You can use GitHub’s User Migration tool to access and download your data. Learn more here. You may also make such a “request to know” by contacting us here.
 
 Right to Request Deletion.
 
-You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to delete, You can use GitHub’s User Migration API to access and download your data. Learn more here. You may also make such a “request to delete” by contacting us here.
+You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to delete, you can contact us here or use the account settings here.
 
 Right to Opt-Out.
 
