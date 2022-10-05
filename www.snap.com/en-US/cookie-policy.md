@@ -13,7 +13,9 @@ You can see which cookies we use on our sites, for what purpose(s), and for how 
 Category of cookies	Why we use these cookies
 Essential	Also known as “necessary” cookies. We use these cookies to run our site and to identify and prevent security risks. 
 
-For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password or remember your cookie preferences.
+For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password or remember your cookie preferences. 
+
+On some of our sites, and in certain jurisdictions, we may also use certain session cookies to understand how you use our site during a single browsing session. These particular session cookies expire quickly — at most after 24 hours — and any data associated with them becomes anonymous at that time. Because they are essential, they may be active from the moment you access the website. However, if you wish, you can disable them — see the “Your Choices” section below.
 Preferences	We use these cookies to remember your settings and preferences, and to improve your experience on our site. 
 
 For example, we may use these cookies to remember your language preferences.
@@ -35,21 +37,21 @@ We may collect information about your activity on third-party services that use 
 
 Your Choices
 
+You may be able to adjust your cookie settings on your browser or device in addition to the settings we make available to you on our sites. See below for more information on each of the options that may be available to you.
+
+Browser Settings
+
 Your browser may provide you with the option to refuse some or all non-essential browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
 
-Browser Cookies
+Device Identifier Settings
 
-Your browser may provide you with the option to refuse some or all browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
-
-Mobile Device Identifiers
-
-Your mobile operating system may let you opt-out from having certain device identifiers used for interest-based advertising. You should refer to the instructions provided by your mobile device’s manufacturer; this information is typically available under the “settings” function of your mobile device.
+Your device operating system may let you opt-out from having certain device identifiers used for interest-based advertising. You should refer to the instructions provided by your mobile device’s manufacturer; this information is typically available under the “settings” function of your mobile device.
 
 And of course, if your mobile device offers an uninstall process, you can always stop us from collecting information through the app by uninstalling the Snapchat app.
 
 Website Settings
 
-You can also block certain cookies by adjusting your settings on our sites.
+You can also customize which cookies may be set by adjusting your settings on our sites. See the cookie menu on our sites that will allow you to do so:
 
 Snap.com Cookie Settings
 
