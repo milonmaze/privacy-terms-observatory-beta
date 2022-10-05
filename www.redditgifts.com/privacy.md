@@ -1,107 +1,126 @@
 Found the internet!
 Trending today
-Volodymyr Zelensky
-Zelensky: Putin troop mobilization ‘frank admission’ that Russian army has ‘crumbled’
-r/ukraine and more
-Taylor Swift - Midnights Mayhem
-The second Midnights Mayhem with Me has been posted on tiktok!
-r/TaylorSwift and more
-Trump Special Master
-Special master asks Trump team to back up claim FBI planted evidence
-r/politics and more
-Tropical Depression 9
-Tropical Depression Nine has formed in the Central Caribbean Sea. There is still a lot of uncertainty with the forecast for early next week, and the track could change significantly.
-r/florida and more
-Tesla Recall
-Tesla ordered to recall more than a million US cars
-r/technology and more
-CIA Podcast
-CIA Launches First Podcast, ‘The Langley Files,’ Which Reveals That Working at the Agency Is More Boring Than Hollywood Makes It Seem
-r/nottheonion and more
+North Korea Missile Launch
+South Korea and US fire missiles into sea in response to North Korea
+FC Barcelona
+Denzel Dumfries dodge vs Barcelona
+r/soccer and more
+Halloween Decorations
+Halloween decorations are out!
+r/blackcats and more
+Miss Crimea Fined
+Miss Crimea fined for singing patriotic Ukrainian song
+r/UkrainianConflict and more
+Overwatch 2 DDOS Attack
+Overwatch 2 experiencing mass DDoS attack at launch
+r/pcgaming and more
+Yom Kippur
+The Battle of Ismailia Monument in Ismailia, Egypt. A concrete monument in the form of an AK-47 with bayonet, a gift from North Korea to Egypt commemorating the casualties of the Battle of Ismailia in which North Korea allied with Egypt against Israel during the Yom Kippur War.
+r/interestingasfuck and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-32.0k
-r/worldnews
-•Posted by
-u/rebelliousmuse
-3 hours ago
-7
-3
-6
-Russians try burning down 5 military enlistment offices after announcement of mobilisation
-Russia/Ukraine
-pravda.com.ua/eng/ne...
-Join
-1.1k Comments
-Share
-Save
-126k
-r/interestingasfuck
-•Posted by
-u/Snfuboop
-10 hours ago
-& 358 More
-Join
-I built my dream ‘80s Video “Store” in my basement over 4 long years for family, friends and creative endeavors. Enjoy! #mondovideo #atl
-/r/ALL
-1/20
-4.2k Comments
-Share
-Save
-14.0k
-r/nba
-•Posted by
-u/curryybacon
-13 hours ago
-2
-2
-3
-[Charania] The Boston Celtics have suspended head coach Ime Udoka for the entire 2022-23 season.
-News
-twitter.com/ShamsC...
-Join
-2.5k Comments
-Share
-Save
-24.1k
-r/gaming
-•Posted by
-u/Rareturdinae843
+28.8k
+r/clevercomebacks
+Crossposted by
+u/BelleAriel
 4 hours ago
-2
+3
 2
 Join
-90s kids can't forget
-515 Comments
+Elon targets a guy who has stood up to Putin consistently over the last 22 years, saying that all he has done for Ukraine is tweet
+r/PoliticalComebacks
+•
+Posted by
+u/BelleAriel
+4 hours ago
+Elon targets a guy who has stood up to Putin consistently over the last 22 years, saying that all he has done for Ukraine is tweet
+2.3k points215 comments
+2.0k Comments
 Share
 Save
-46.0k
+68.6k
 r/facepalm
 •Posted by
-u/turnerpike20
-7 hours ago
+u/theguywhosteals
+11 hours ago
 2
 Join
-God forbid we let our children learn about things that actually exist.
+Integrity will remain a pipe dream
  🇲​🇮​🇸​🇨​
-2.2k Comments
+5.0k Comments
 Share
 Save
-36.6k
-r/worldnews
+23.0k
+r/AskReddit
 •Posted by
-u/MastodonOk8087
-5 hours ago
-6
-2
-'How to Leave Russia,' 'How to Break Arm' Google Searches Spike After Putin Announced Drafting of Citizens to Fight Ukraine War
-Russia/Ukraine
-ibtimes.sg/how-le...
+u/Le_0n1e-
+11 hours ago
+5
+3
 Join
-1.8k Comments
+What's something that's considered normal that creeps you out immediately?
+nsfw
+12.6k Comments
+Share
+Save
+12.2k
+r/politics
+•Posted by
+u/duderos
+3 hours ago
+Clarence Thomas Faces Calls to Recuse Himself from Trump Mar-a-Lago Case
+newsweek.com/claren...
+Join
+548 Comments
+Share
+Save
+7.4k
+r/OnePiece
+•Posted by
+u/PKS040
+14 hours ago
+12
+6
+8
+Join
+Chapter 1062 Spoilers
+Spoiler threadspoiler
+3.8k Comments
+Share
+Save
+30.8k
+r/TwoXChromosomes
+•Posted by
+u/radically_inclined
+20 hours ago
+2
+11
+& 83 More
+Join
+I desperately need a sanity check. Is there anyone else here who is completely done with conservative men and doesn't care about their feelings?
+/r/all
+
+American 25/w here. I recently made a friend with a man while I was out and about playing pokemon go. We started texting and had known each other for about two weeks before he told me that he's a conservative and to "not judge him". Fuck that. I am judging you extremely hard and I'll never be your friend. I'll never be friends with someone who votes in oppressive bigots who don't even have more than two brain cells to rub together. This guy said that I was being a bit extreme and judgmental. Huh, I wish I cared. I have one less constitutional right now and you've voted this trash in. Bye bye. I'm so completely done with conservatives that I don't even care to ask what the details of their personal views are and what legislation they support. I don't care, fuck all the way off.
+
+Quick edit! First, thank you kindly for the supportive words. And a couple awards, whoa! Thank you! I was not expecting this post to get much attention at all and should have worded it better. I was frustrated with one man in particular while writing the post, so I focused on "conservative men" more so than "conservative people."
+
+I am equally frustrated with both conservative men and women. Well, no, scratch that. While conservative women may have absolutely abhorrent politics, nobody is more butt hurt than a conservative man who can't get his dick wet.
+
+3.4k Comments
+Share
+Save
+24.9k
+r/Unexpected
+•Posted by
+u/Specialist_Bus_4213
+4 hours ago
+2
+Join
+We are sure that we are the most evolved living species on this planet?
+610 Comments
 Share
 Save
 Advertisement
