@@ -904,15 +904,12 @@ Roblox
 Fortnite
 YouTube
 More ...
+Celebrating Community
+Latino Culture
+Black Voices
+Asian Stories
+LGBTQ+ Pride
 Common Sense Media Plus
-Latino
-Inicio
-Artículos en español
-Videos en español
-En las noticias
-Colaboradores
-Recursos educativos
-Artículos sobre latinos en inglés
 Research
 About
 About Us
