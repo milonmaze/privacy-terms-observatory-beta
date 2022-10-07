@@ -1,6 +1,6 @@
 Sign in
 Contact Us
-Sign up free
+Start free
 Google Cloud Platform Services Summary
 
 The complete list of services that form Google Cloud Platform is shown below. While Google offers many other services and APIs, only the services below are covered by the Google Cloud Platform terms of service, service level agreements (if applicable), and support offerings. Offerings identified below as Software or Premium Software are not Services under the Google Cloud Platform Terms of Service and the Data Processing and Security Terms.
