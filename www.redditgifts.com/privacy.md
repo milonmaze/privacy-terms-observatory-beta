@@ -1,126 +1,135 @@
 Found the internet!
 Trending today
-North Korea Missile Launch
-South Korea and US fire missiles into sea in response to North Korea
-FC Barcelona
-Denzel Dumfries dodge vs Barcelona
-r/soccer and more
-Halloween Decorations
-Halloween decorations are out!
-r/blackcats and more
-Miss Crimea Fined
-Miss Crimea fined for singing patriotic Ukrainian song
+Elon Musk
+Elon Musk suggests he is pulling Starlink from Ukraine because ambassador was rude
 r/UkrainianConflict and more
-Overwatch 2 DDOS Attack
-Overwatch 2 experiencing mass DDoS attack at launch
-r/pcgaming and more
-Yom Kippur
-The Battle of Ismailia Monument in Ismailia, Egypt. A concrete monument in the form of an AK-47 with bayonet, a gift from North Korea to Egypt commemorating the casualties of the Battle of Ismailia in which North Korea allied with Egypt against Israel during the Yom Kippur War.
-r/interestingasfuck and more
+Vincent van Gogh 'Sunflowers'
+Just Stop Oil Activists have thrown tomato soup on Van Gogh’s Sunflowers at the National Gallery in London and glued themselves to the wall.
+r/PublicFreakout and more
+Kwasi Kwarteng
+Kwasi Kwarteng out as chancellor
+r/unitedkingdom and more
+Beijing
+Banners against Xi Jinping and CCP was raised at Sitong Bridge, Haidian District, Beijing, just ahead of the 20th Party Congress. It was later taken down and the images of it were censored in Chinese social media platforms.
+r/HongKong and more
+League of Legends World Championship
+WARHAMMER World Championship 2022
+r/totalwar and more
+Nancy Pelosi
+Jan 6th footage of Nancy Pelosi: "If [Trump] comes up here, I'm going to punch him out. And I'm gonna go to jail
+r/PublicFreakout and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-28.8k
-r/clevercomebacks
-Crossposted by
-u/BelleAriel
-4 hours ago
-3
-2
-Join
-Elon targets a guy who has stood up to Putin consistently over the last 22 years, saying that all he has done for Ukraine is tweet
-r/PoliticalComebacks
-•
-Posted by
-u/BelleAriel
-4 hours ago
-Elon targets a guy who has stood up to Putin consistently over the last 22 years, saying that all he has done for Ukraine is tweet
-2.3k points215 comments
-2.0k Comments
-Share
-Save
-68.6k
-r/facepalm
+Vote
+r/news
 •Posted by
-u/theguywhosteals
-11 hours ago
-2
+u/Adorable-Ganache6561
+2 hours ago
+Alaska snow crab season canceled as officials investigate disappearance of an estimated 1 billion crabs
+cbsnews.com/news/f...
 Join
-Integrity will remain a pipe dream
- 🇲​🇮​🇸​🇨​
-5.0k Comments
+1.7k Comments
 Share
 Save
-23.0k
+57.8k
+r/worldnews
+•Posted by
+u/mostly-sun
+12 hours ago
+2
+& 10 More
+Musk's SpaceX says it can no longer pay for critical satellite services in Ukraine, asks Pentagon to pick up the tab
+Russia/Ukraine
+edition.cnn.com/2022/1...
+Join
+8.7k Comments
+Share
+Save
+33.6k
 r/AskReddit
 •Posted by
-u/Le_0n1e-
-11 hours ago
+u/Maggie_cat
+17 hours ago
+4
+4
 5
-3
+& 2 More
 Join
-What's something that's considered normal that creeps you out immediately?
+People who go into the bathroom to “freshen up” before sex—what are you guys actually doing in there?
 nsfw
-12.6k Comments
+7.8k Comments
 Share
 Save
-12.2k
-r/politics
-•Posted by
-u/duderos
-3 hours ago
-Clarence Thomas Faces Calls to Recuse Himself from Trump Mar-a-Lago Case
-newsweek.com/claren...
-Join
-548 Comments
-Share
-Save
-7.4k
+4.7k
 r/OnePiece
 •Posted by
-u/PKS040
-14 hours ago
-12
-6
-8
-Join
-Chapter 1062 Spoilers
-Spoiler threadspoiler
-3.8k Comments
-Share
-Save
-30.8k
-r/TwoXChromosomes
-•Posted by
-u/radically_inclined
-20 hours ago
-2
+u/Kirosh2
+11 hours ago
 11
-& 83 More
+6
+5
 Join
-I desperately need a sanity check. Is there anyone else here who is completely done with conservative men and doesn't care about their feelings?
-/r/all
-
-American 25/w here. I recently made a friend with a man while I was out and about playing pokemon go. We started texting and had known each other for about two weeks before he told me that he's a conservative and to "not judge him". Fuck that. I am judging you extremely hard and I'll never be your friend. I'll never be friends with someone who votes in oppressive bigots who don't even have more than two brain cells to rub together. This guy said that I was being a bit extreme and judgmental. Huh, I wish I cared. I have one less constitutional right now and you've voted this trash in. Bye bye. I'm so completely done with conservatives that I don't even care to ask what the details of their personal views are and what legislation they support. I don't care, fuck all the way off.
-
-Quick edit! First, thank you kindly for the supportive words. And a couple awards, whoa! Thank you! I was not expecting this post to get much attention at all and should have worded it better. I was frustrated with one man in particular while writing the post, so I focused on "conservative men" more so than "conservative people."
-
-I am equally frustrated with both conservative men and women. Well, no, scratch that. While conservative women may have absolutely abhorrent politics, nobody is more butt hurt than a conservative man who can't get his dick wet.
-
-3.4k Comments
+One Piece: Chapter 1063
+Current Chapterspoiler
+4.7k Comments
 Share
 Save
-24.9k
-r/Unexpected
+22.7k
+r/gifs
 •Posted by
-u/Specialist_Bus_4213
+u/Tardigradelegs
 4 hours ago
 2
+7
+2
 Join
-We are sure that we are the most evolved living species on this planet?
-610 Comments
+Ex-circus elephant Nosey (on the left) making her first friend at an elephant sanctuary, she had not met another elephant in 29 years
+imgur.com/wNaXAH...
+580 Comments
+Share
+Save
+2.1k
+r/Funnymemes
+Crossposted by
+u/MakeMeRichIDC
+5 hours ago
+2
+Join
+Let the fun begin
+r/MakeMeRichIDC
+•
+Posted by
+u/MakeMeRichIDC
+3 days ago
+Let the fun begin
+236 points543 comments
+4.4k Comments
+Share
+Save
+38.3k
+r/technology
+•Posted by
+u/descosudajh
+14 hours ago
+Meta has burned $15 billion trying to build the metaverse — and nobody's saying exactly where the money went
+Business
+businessinsider.com/meta-l...
+Join
+2.9k Comments
+Share
+Save
+16.0k
+r/facepalm
+•Posted by
+u/Manor47
+3 hours ago
+Join
+What is wrong with these idiots?
+🇵​🇷​🇴​🇹​🇪​🇸​🇹​
+2.3k Comments
 Share
 Save
 Advertisement
