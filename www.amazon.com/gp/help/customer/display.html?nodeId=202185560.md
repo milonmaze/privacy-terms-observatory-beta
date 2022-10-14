@@ -63,6 +63,7 @@ Alexa Guard - Sounds of Activity
 Legal & Compliance
 Children's Privacy Disclosure
 Fire Phone Terms
+Ring Terms of Service
 Alexa Shopping List Savings Program
 Quick solutions
 	
