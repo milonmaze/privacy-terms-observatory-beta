@@ -1,6 +1,6 @@
 Sign in
 Contact Us
-Start free
+Start building now
 Service Specific Terms
 
 These Service Specific Terms are incorporated into the agreement under which Google has agreed to provide Google Cloud Platform (as described at https://cloud.google.com/terms/services) to Customer (the “Agreement”). If the Agreement authorizes the resale or supply of Google Cloud Platform under a Google Cloud partner or reseller program, then all references to Customer in the Service Specific Terms mean Partner or Reseller (as applicable), and all references to Customer Data in the Service Specific Terms mean Partner Data. Capitalized terms used but not defined in the Service Specific Terms have the meaning given to them in the Agreement.
