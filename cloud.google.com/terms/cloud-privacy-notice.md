@@ -1,6 +1,6 @@
 Sign in
-Contact Us
-Start building now
+Contact sales
+Get started for free
 Google Cloud Privacy Notice
 
 Effective Date: April 20, 2022
