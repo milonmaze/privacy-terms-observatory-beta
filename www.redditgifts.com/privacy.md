@@ -1,173 +1,115 @@
 Found the internet!
 Trending today
-Xi Jinping
-China's Xi says full control over Hong Kong achieved, determined on Taiwan
+Gates Foundation
+Gates Foundation pledges $1.2B to eradicate polio globally
+r/news and more
+BTS Military Service
+BTS to Reconvene in 2025 After Band Members Break for Military Service
+r/entertainment and more
+Buckingham Palace
+King Charles ‘won’t move into Buckingham Palace for five years due to £369m refurbishment’
 r/worldnews and more
-Metaverse
-Meta documents show main metaverse is losing users and falling short of goals, report says
-Semiconductors
-US sanctions on Chinese semiconductors ‘decapitate’ industry, experts say
-r/technology and more
-Vladimir Putin
-Russian revanchism runs deeper than Putin – The West should be extremely cautious about welcoming Russians who are now trying to flee Putin’s mobilization order. “These Russians still believe in punishing Ukraine, just not involving the general public.”
-r/europe and more
-Liz Truss
-Liz Truss told 'it's over' by Tory MPs as she faces mounting threat of a coup
-r/unitedkingdom and more
-LoL World Championship
+House of the Dragon
 spoiler
-Tiebreaker 1 / 2022 World Championship - Group C / Post-Match Discussion
-r/leagueoflegends and more
+House of the Dragon - 1x09 "The Green Council" - Post Episode Discussion
+r/HouseOfTheDragon and more
+Midterm Elections
+Sanders' Advice to Democrats Running in Midterms: 'Talk About the Economy'
+r/politics and more
+Kanye West Buying Parler
+Kanye West is buying ‘free speech platform’ Parler
+r/technology and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-23.8k
-r/CFB
+41.1k
+r/Funnymemes
 •Posted by
-u/CFB_Referee
-14 hours ago
-3
-2
-& 147 More
+u/WebbsPowerade
+19 hours ago
+7
+11
+4
+6
 Join
-[Postgame Thread] Tennessee Defeats Alabama 52-49
-Postgame Thread
-
-Box Score provided by ESPN
-
-Team	1	2	3	4	T
-Alabama	7	13	15	14	49
-Tennessee	21	7	6	18	52
-Made with the r/CFB Game Thread Generator
-9.0k Comments
+Lil Stuck A Battery Up My Ass
+25.7k Comments
 Share
 Save
-10.5k
-r/gifs
+28.4k
+r/ProgrammerHumor
 •Posted by
-u/Meowmarlade
+u/ambitiousfinanceguy
 4 hours ago
 Join
-Dollhouse, by me
-191 Comments
+Still slightly better than "NM fixed it"
+Meme
+454 Comments
 Share
 Save
-4.3k
+15.4k
+r/news
+•Posted by
+u/Such_Cod_5314
+4 hours ago
+Kanye West is buying conservative social media platform Parler, company says
+cnbc.com/2022/1...
+Join
+2.0k Comments
+Share
+Save
+19.2k
 r/AskReddit
 •Posted by
-u/Ryrylx
-6 hours ago
-Join
-Non-Americans, what do you think every American person has in their house?
-9.2k Comments
-Share
-Save
-11.1k
-r/IAmA
-•Posted by
-u/mytabbyanne
-21 hours ago
-& 3 More
-Join
-I am a Female Escort AMA
-Adult Industry - Livensfw
-5.6k Comments
-Share
-Save
-16.0k
-r/interestingasfuck
-•Posted by
-u/Serath4
-5 hours ago
-Join
-A pop concert in North Korea
-/r/ALL
-0:00
-0:59
-1.6k Comments
-Share
-Save
-23.5k
-r/worldnews
-•Posted by
-u/Dooraven
-14 hours ago
-U.S. grows frustrated over Europe’s delayed economic aid to Ukraine
-Russia/Ukraine
-washingtonpost.com/us-pol...
-Join
-4.2k Comments
-Share
-Save
-28.8k
-r/NintendoSwitch
-•Posted by
-u/MrLariato
-23 hours ago
-2
-11
+u/P-o-t-a-t-o-o
+13 hours ago
 3
-9
-& 3 More
+2
+5
 Join
-Bayonetta's original voice actress was only offered $4000 by Nintendo. Video explanation by herself below
-News
-
-To clarify, this is the best offer she could negotiate to reprise her role for Bayonetta 3. If you're wondering about how much that is for this kind of job, it's pretty much a disrespectful offer.
-
-
-
-
-Hellena Taylor, Bayonetta's original voice actress, explained on a 4 part thread on her twitter account why she's not back as Bayonetta. Among other things, she opens up by saying that Platinum only offered her up $4000 USD (presumably, before tax). She's also asking people to instead of spending $60 on the game, go and donate it to charity instead (just putting into text what she's saying here). I'll keep updating. For now, the videos are below
-
-Part 1: https://twitter.com/hellenataylor/status/1581289084718227456
-
-
-
-
-Part 2: https://twitter.com/hellenataylor/status/1581289973210574859
-
-
-
-
-Part 3: https://twitter.com/hellenataylor/status/1581290543619112960
-
-
-
-
-Part 4: https://twitter.com/hellenataylor/status/1581291176073707520
-
-
-
-
-This gold and reddit award thing could be donated to a charity of your choice instead, thank you.
-
-3.4k Comments
+What is the stupidest thing a large amount of people believe in?
+18.2k Comments
 Share
 Save
-32.1k
-r/mildlyinfuriating
+45.9k
+r/science
 •Posted by
-u/Imriaylde
+u/chrisdh79
 12 hours ago
 2
+3
+New study identifies an increasing disinterest in fatherhood among childless men in the United States
+Psychology
+psypost.org/2022/1...
 Join
-What common core nonsense is this?
-2.9k Comments
+7.2k Comments
 Share
 Save
-11.5k
-r/nba
+74.8k
+r/pics
 •Posted by
-u/Tomheza
+u/RespectMyAuthoriteh
 17 hours ago
-[Wojnarowski] Reporting with @Kendra_Andrews: Golden State Warriors All-Star Andrew Wiggins has agreed to a four-year, $109 million extension, his agents Drew Morrison and Steven Heumann of CAA Sports tell ESPN. Wiggins is now tied to the Warriors for five-years, $143 million.
-News
-twitter.com/wojesp...
+7
+4
+5
+& 2 More
 Join
-1.8k Comments
+When a female bodybuilder wears a dress
+5.0k Comments
+Share
+Save
+40.7k
+r/worldnews
+•Posted by
+u/gaukonigshofen
+12 hours ago
+King Charles ‘won’t move into Buckingham Palace for five years due to £369m refurbishment’
+msn.com/en-us/...
+Join
+3.4k Comments
 Share
 Save
 Advertisement
