@@ -378,4 +378,4 @@ Notifications and appeals
 
 In the event that your product is removed from Chrome Web Store, you will receive an email notification to that effect, with further instructions if applicable. Please verify that the associated publisher account with your product can receive emails from external parties and not get flagged as spam to ensure that you receive all communications in a timely manner.
 
-Last updated: Tuesday, September 28, 2021 Improve article
+Updated on Tuesday, September 28, 2021 • Improve article
