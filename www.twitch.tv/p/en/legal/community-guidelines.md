@@ -174,9 +174,35 @@ Content Labeling
 You are expected to accurately label your content to the best of your ability. When choosing a category or tag, please choose whichever best describes your content. Deliberate or extensive misuse of titles, tags, games/categories, or other metadata are prohibited.
 
 Additional Gaming Content Guidelines
-Referring Viewers to Slots, Roulette, and Dice Games
+Prohibited Gambling Content
 
-Linking to sites that include slots, roulette, or dice games, or sharing affiliate links or referral codes to such sites is not allowed.
+We do not allow users to share links or affiliate codes to sites that contain slots, roulette, or dice games.
+
+  For example, on Twitch you may not:
+
+Share a referral code to a slots site with your chat
+Include a banner with a link to online roulette games
+Verbally refer your chat to a site containing dice games
+
+Furthermore, similar to our prohibited games policy, we do not allow the sites below to be streamed on Twitch, or linked to in chat. We consider many factors in determining whether a site is allowed, including whether the site includes safety protections, such as deposit limits, waiting periods, and age verification systems. We also take into account whether streamers use or encourage VPNs to evade geoblocking, and whether the site is licensed in the US or other jurisdictions that provide sufficient consumer protections.
+
+  We do not allow the following sites or associated domains:
+
+stake.com
+rollbit.com
+duelbits.com
+roobet.com
+We may identify others as we move forward
+
+  FAQs:
+
+Are free social versions of these websites allowed? 
+
+No, we do not allow free social versions of the sites listed above.
+
+Does this policy prohibit fantasy sports, sports betting, and poker?
+
+No, we still permit broadcasting websites focused on fantasy sports, sports betting, and poker at this time.
 
 Cheating in Online Games
 
