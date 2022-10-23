@@ -12,28 +12,6 @@ Requests for customer data
 
 Government requests for customer data must comply with applicable laws. A subpoena or its local equivalent is required to request non-content data, and a warrant, court order, or its local equivalent, is required for content data.
 
-Requests by country/region
-Apply filters 
-Apply filters 
-2021 (Jul-Dec) - Global
-Requests
-
-Total number of requests
-
- 25,182
-
-Accounts/users specified in request
-
- 45,839
-Disclosures
-4.26%
-51.59%
-18.97%
-25.18%
-% Content
-% Non-Content data
-% No data found
-% Rejected
 Download previous Law Enforcement Requests Reports
 Select year
 
@@ -81,11 +59,12 @@ Does Microsoft notify users if their accounts have been compromised by third par
 Does Microsoft provide customer data in response to demands from civil litigation parties?
 Does Microsoft notify customers when civil proceeding litigants request their data and does Microsoft ever challenge nondisclosure obligations?
 Does the data include any legal demands that may have been issued pursuant to US national security orders (e.g., FISA Orders and FISA Directives)?
-How does Microsoft define a FISA order requesting disclosure of non-content?
 Expand all | Collapse all
 How many enterprise cloud customers are impacted by law enforcement requests?
 What is the difference between a consumer and an enterprise customer?
 Does Microsoft disclose additional data as a result of the CLOUD Act?
+How many disclosures involved Dynamics 365 enterprise customers?
+How many disclosures involved Azure enterprise customers?
 Does Microsoft notify its enterprise customers when law enforcement or another governmental entity requests their data?
 Expand all | Collapse all
 Does Microsoft ever remove online content at the request of a government or other parties?
