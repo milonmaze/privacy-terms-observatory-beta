@@ -3,6 +3,7 @@ Jump to content
 Translate this page
 	
 Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
+Other languages:	Afrikaans Deutsch English Nederlands català dansk español español de América Latina français italiano latviešu magyar norsk bokmål polski português português do Brasil română slovenčina svenska русский українська עברית العربية 中文（简体） 中文（繁體） 日本語
 This page documents the Wikimedia Foundation's donor privacy policy. You can make a donation to the Wikimedia Foundation at donate.wikimedia.org.
 Welcome!
 
