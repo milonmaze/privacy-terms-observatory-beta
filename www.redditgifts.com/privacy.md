@@ -1,134 +1,159 @@
 Found the internet!
 Trending today
-Boris Johnson
-Boris Johnson will run for UK leadership and has the numbers needed, minister says
-r/worldnews and more
-Iran Nuclear Files
-Iranian Hacker Group Releases Confidential Nuclear Files in Retaliation to the Islamic Republic’s Crackdown on Protesters
-r/news and more
-United States Grand Prix
-United States Grand Prix - Starting grid
-r/formula1 and more
-Kanye West
-Kanye West wants to build his own mini-city called the ‘Yecosystem’
-r/technology and more
-Goosebumps
-Author R.L. Stine celebrates 30 years of ‘Goosebumps’ at Library of Congress event
-r/entertainment and more
-Ukrainian Children
-Ukrainian children say they were taken against their will by Russian forces and placed up for adoption in Russia, where the process has been expedited
+House of the Dragon
+I am watching ‘House of the Dragon’ and can’t stop thinking about this.
+r/IASIP and more
+2022 MLB World Series
+THE PHILADELPHIA PHILLIES ARE YOUR 2022 NATIONAL LEAGUE CHAMPIONS!!!!! 8TH NL PENNANT IN FRANCHISE HISTORY!!!!! FIRST WORLD SERIES APPEARANCE SINCE 2009!!!!!
+r/philadelphia and more
+Star Wars
+‘Star Wars’ Film From Damon Lindelof And Lucasfilm Sets ‘Ms Marvel’s Sharmeen Obaid-Chinoy As Director
+r/movies and more
+Rishi Sunak
+Pound gains as Rishi Sunak leads race to become PM
+r/unitedkingdom and more
+Aaron Judge
+[Highlight] Ryan Pressly gets Aaron Judge to ground out to first for the final out, and the Astros complete the ALCS sweep over the Yankees.
+r/baseball and more
+Australian Women Sue Qatar
+Australian Women Sue Qatar Over Forced Airport Vaginal Exams
 r/worldnews and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-3.7k
-r/Cricket
+16.3k
+r/AskReddit
 •Posted by
-u/CricketMatchBot
-7 hours ago
-19
-14
-16
-4
+u/letstouchbutts121
+16 hours ago
+6
+3
+3
 Join
-Match Thread: 16th Match, Group 2 - India vs Pakistan
-🐐
-16th Match, Group 2, ICC Men's T20 World Cup at Melbourne
-
-Post Match | Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
-
-Innings	Score
-Pakistan	159/8 (Ov 20/20)
-India	160/6 (Ov 20/20)
-
-
-
-
-Batter	Runs	Balls	SR
-Ravichandran Ashwin*	1	1	100.0
-Virat Kohli	82	53	154.72Bowler	Overs	Runs	Wickets
-Mohammad Nawaz	4	42	2
-Haris Rauf	4	36	2
-Recent : 2 4 1 1 4  |  1 1 . 1 6 6  |  W 1 2 7nb 1w 3b W 1w 1  |  
-
-
-India won by 4 wickets
-
-Live match threads: Warriors vs Western Province |
-
-Send feedback | Schedule | Stat Help
-
-Please don't post illegal streaming links in match threads
-
-35.4k Comments
+ketchup doesn't exist, what sauce do you use to eat with fries?
+22.5k Comments
+Share
+Save
+15.3k
+r/facepalm
+•Posted by
+u/ShubhamG77
+9 hours ago
+Join
+Mashed potato attack on $110 million Monet painting in Germany.
+🇵​🇷​🇴​🇹​🇪​🇸​🇹​
+0:00
+1:03
+4.4k Comments
+Share
+Save
+25.3k
+r/entertainment
+•Posted by
+u/MarvelsGrantMan136
+13 hours ago
+2
+& 4 More
+Marlon Wayans Defies Cancel Culture, Says Comedies Like ‘White Chicks’ Are “Needed”: “I Ain’t Listening To This Generation”
+deadline.com/2022/1...
+Join
+3.7k Comments
+Share
+Save
+30.0k
+r/interestingasfuck
+•Posted by
+u/here4noodes
+4 hours ago
+3
+4
+6
+& 3 More
+Join
+Metros in Iran today.
+/r/ALL
+826 Comments
+Share
+Save
+50.1k
+r/worldnews
+•Posted by
+u/kittycat901
+13 hours ago
+Australian Women Sue Qatar Over Forced Airport Vaginal Exams
+huffpost.com/entry/...
+Join
+3.5k Comments
+Share
+Save
+53.0k
+r/BirdsArentReal
+LIVE
+· 96.2k players
+16
+18
+22
+& 4 More
+r/BirdsArentReal Tournament
+PREDICTION
+Which option will be second least chosen?
+You must be logged in
+Birds Aren’t Real
+pigeons are liars
+If it flies, It spies
+I hate this
+See What Others Predicted
+PREDICTION
+How many awards will this individual prediction post get?
+You must be logged in
+0 - 9
+10 - 24
+25 - 49
+50+
+See What Others Predicted
+0 of 4 predicted
+464 Comments
+Share
+Save
+20.9k
+r/PublicFreakout
+•Posted by
+u/TwisBeats
+16 hours ago
+2
+2
+Join
+Found this on Instagram stories, I guess they going to jail and this will be used as evidence.
+🥊Fightnsfw
+3.1k Comments
+Share
+Save
+Vote
+r/Futurology
+•Posted by
+u/nastratin
+2 hours ago
+Plastic recycling a "failed concept," study says, with only 5% recycled in U.S. last year as production rises
+Environment
+cbsnews.com/news/p...
+Join
+389 Comments
 Share
 Save
 8.4k
-r/pics
+r/NoStupidQuestions
 •Posted by
-u/amosmckee
-3 hours ago
-2
+u/Willr2645
+20 hours ago
 Join
-This ray of sunshine in the Amazon
-492 Comments
-Share
-Save
-24.5k
-r/CombatFootage
-•Posted by
-u/KaMeLRo
-4 hours ago
-8
-6
-& 9 More
-Join
-Insane footage showing Russian pilot's cam ejecting from shot down Su-25SM3
-Video
-0:00
-1:55
-1.5k Comments
-Share
-Save
-22.7k
-r/AskReddit
-•Posted by
-u/0Timato0
-12 hours ago
-9
-3
-Join
-Men of Reddit, what was something you didn't know about women till you got with one?
-nsfw
-12.0k Comments
-Share
-Save
-9.2k
-r/MMA
-•Posted by
-u/inooway
-17 hours ago
-8
-4
-& 4 More
-[SPOILER] Charles Oliveira vs. Islam Makhachev
-spoiler
-dubz.co/v/r42z...
-Join
-4.3k Comments
-Share
-Save
-7.0k
-r/lotr
-•Posted by
-u/inni0n
-3 hours ago
-Join
-TIL that most of the Riders of Rohan were women with beards since they owned the horses used during filming
-Movies
-183 Comments
+Why doesn’t the trolley problem have an obvious answer?
+Answered
+
+To me it seems obvious to only kill 1 person instead of 5, I don’t really see the big dilema
+
+2.2k Comments
 Share
 Save
 Advertisement
