@@ -292,7 +292,7 @@ to maintain the integrity of the Service
 to comply with our legal obligations if we have reason to believe the contents are in violation of the law,
 or with your consent.
 
-Github will provide notice regarding private repository access where not prohibited by law or if in response to a security threat or other risk to security.
+GitHub will provide notice regarding private repository access where not prohibited by law or if in response to a security threat or other risk to security.
 
 Cross-border data transfers
 
@@ -313,7 +313,7 @@ privacy [at] github [dot] com
 
 
 If you are outside of North America:
-Github Data Protection Officer
+GitHub Data Protection Officer
 c/o DP Dock DPO Services GmbH,
 Attn: GitHub BV, Gut Projensdorf,
 24161 Altenholz, Germany
