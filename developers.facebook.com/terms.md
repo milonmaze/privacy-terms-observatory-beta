@@ -379,6 +379,7 @@ Terms and Policies
 Platform Initiatives Hub
 Platform Terms
 Developer Policies
+European Commission Commitments
 Follow Us
 © 2022 Meta
 About
