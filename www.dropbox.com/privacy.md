@@ -2,15 +2,15 @@ Skip to main content
 
 The DocSend Privacy Policy can be found here.
 
-The HelloSign Privacy Policy can be found here.
+The Dropbox Sign Privacy Policy can be found here.
 
 If your organization signed a Dropbox Business or Dropbox Enterprise Agreement with Dropbox, that Agreement may have modified the privacy policy below. Please contact your organization’s Admin for details.
 
 Dropbox Privacy Policy
 
-Posted: October 29, 2021
+Posted: October 25, 2022
 
-Effective: January 14, 2022
+Effective: October 25, 2022
 
 You can see the previous Privacy Policy here.
 
@@ -81,7 +81,7 @@ Around the world. To provide you with the Services, we may store, process, and t
 
 Data Transfers. When transferring data from the European Union, the European Economic Area, the United Kingdom, and Switzerland, Dropbox relies upon a variety of legal mechanisms, such as contracts with our customers and affiliates, Standard Contractual Clauses, and the European Commission's adequacy decisions about certain countries, as applicable.
 
-EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield. Dropbox complies with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union, the European Economic Area, the United Kingdom, and Switzerland to the United States, although Dropbox does not rely on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield Frameworks as a legal basis for transfers of personal data. Dropbox has certified to the Department of Commerce that it, and its subsidiary JN Projects Inc. d/b/a HelloSign, adheres to the Privacy Shield Principles with respect to such data. You can also learn more about Privacy Shield at https://www.privacyshield.gov.
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield. Dropbox complies with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union, the European Economic Area, the United Kingdom, and Switzerland to the United States, although Dropbox does not rely on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield Frameworks as a legal basis for transfers of personal data. Dropbox has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such data. You can also learn more about Privacy Shield at https://www.privacyshield.gov.
 
 Dropbox is subject to oversight by the U.S. Federal Trade Commission. JAMS is the US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance—free of charge to you. We ask that you first submit any such complaints directly to us via privacy@dropbox.com. If you aren’t satisfied with our response, please contact JAMS at https://www.jamsadr.com/eu-us-privacy-shield. In the event your concern still isn’t addressed by JAMS, you may be entitled to a binding arbitration under Privacy Shield and its principles.
 
@@ -122,7 +122,7 @@ Plus
 Professional
 Business
 Enterprise
-HelloSign
+Dropbox Sign
 DocSend
 Plans
 Product updates
