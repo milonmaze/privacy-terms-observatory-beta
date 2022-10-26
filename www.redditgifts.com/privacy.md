@@ -1,159 +1,153 @@
 Found the internet!
 Trending today
-House of the Dragon
-I am watching ‘House of the Dragon’ and can’t stop thinking about this.
-r/IASIP and more
-2022 MLB World Series
-THE PHILADELPHIA PHILLIES ARE YOUR 2022 NATIONAL LEAGUE CHAMPIONS!!!!! 8TH NL PENNANT IN FRANCHISE HISTORY!!!!! FIRST WORLD SERIES APPEARANCE SINCE 2009!!!!!
-r/philadelphia and more
-Star Wars
-‘Star Wars’ Film From Damon Lindelof And Lucasfilm Sets ‘Ms Marvel’s Sharmeen Obaid-Chinoy As Director
-r/movies and more
+John Fetterman
+Fetterman, Oz face off on crime, inflation in Pennsylvania Senate debate
+r/politics and more
+Climate
+Emperor penguins are now a threatened species due to climate change, U.S. officials say
+iPhone USB-C
+Apple confirms the iPhone is getting USB-C, but isn’t happy about the reason why
+r/technology and more
+Matthew Perry
+Matthew Perry reveals weird, bitter feelings about Keanu Reeves
+r/entertainment and more
 Rishi Sunak
-Pound gains as Rishi Sunak leads race to become PM
-r/unitedkingdom and more
-Aaron Judge
-[Highlight] Ryan Pressly gets Aaron Judge to ground out to first for the final out, and the Astros complete the ALCS sweep over the Yankees.
-r/baseball and more
-Australian Women Sue Qatar
-Australian Women Sue Qatar Over Forced Airport Vaginal Exams
-r/worldnews and more
+Rishi Sunak confirmed his intention to meet with Zelensky in the near future. The British Prime Minister also assured that Britain's support for Ukraine will remain unchanged.
+r/UkraineWarRoom and more
+Clorox Recall
+Clorox Recalls Various Pine-Sol Products - 37 Million Units Involved
+r/CleaningTips and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-16.3k
+17.8k
+r/news
+•Posted by
+u/hugomcjohnson
+2 hours ago
+Germany to legalize cannabis use for recreational purposes
+Soft paywall
+reuters.com/world/...
+Join
+829 Comments
+Share
+Save
+12.0k
 r/AskReddit
 •Posted by
-u/letstouchbutts121
-16 hours ago
-6
-3
-3
-Join
-ketchup doesn't exist, what sauce do you use to eat with fries?
-22.5k Comments
-Share
-Save
-15.3k
-r/facepalm
-•Posted by
-u/ShubhamG77
-9 hours ago
-Join
-Mashed potato attack on $110 million Monet painting in Germany.
-🇵​🇷​🇴​🇹​🇪​🇸​🇹​
-0:00
-1:03
-4.4k Comments
-Share
-Save
-25.3k
-r/entertainment
-•Posted by
-u/MarvelsGrantMan136
-13 hours ago
+u/MKE_Now
+14 hours ago
 2
-& 4 More
-Marlon Wayans Defies Cancel Culture, Says Comedies Like ‘White Chicks’ Are “Needed”: “I Ain’t Listening To This Generation”
-deadline.com/2022/1...
-Join
-3.7k Comments
-Share
-Save
-30.0k
-r/interestingasfuck
-•Posted by
-u/here4noodes
-4 hours ago
-3
+2
 4
-6
-& 3 More
 Join
-Metros in Iran today.
-/r/ALL
-826 Comments
+What actor or actress was the most perfectly cast role in film or television?
+12.4k Comments
 Share
 Save
-50.1k
+16.6k
+r/meirl
+•Posted by
+u/404person_not_found
+3 hours ago
+Join
+meirl
+272 Comments
+Share
+Save
+14.7k
+r/MadeMeSmile
+•Posted by
+u/loes_ger
+2 hours ago
+5
+2
+2
+& 2 More
+Join
+Reddit is probably getting tired of artists but I like making fun lil adventure paintings!
+ Good Vibes 
+344 Comments
+Share
+Save
+64.4k
 r/worldnews
 •Posted by
-u/kittycat901
+u/ZK686
+12 hours ago
+3
+5
+& 3 More
+Chinese students filmed shouting at Japanese student, blocking his presentation on Taiwan at a UK university
+yahoo.com/news/c...
+Join
+5.4k Comments
+Share
+Save
+18.6k
+r/news
+•Posted by
+u/MasterpieceFit6715
 13 hours ago
-Australian Women Sue Qatar Over Forced Airport Vaginal Exams
-huffpost.com/entry/...
+School gunman had AR-15-style weapon, 600 rounds of ammo
+apnews.com/articl...
 Join
-3.5k Comments
+4.1k Comments
 Share
 Save
-53.0k
-r/BirdsArentReal
+29.5k
+r/movies
+•Posted by
+u/HRJafael
+19 hours ago
+2
+‘Batgirl’ was just the beginning: Warner Bros. Discovery to write off $2 billion in content in Q3
+News
+indiewire.com/2022/1...
+Join
+3.0k Comments
+Share
+Save
+194k
+r/wallstreetbets
 LIVE
-· 96.2k players
-16
-18
-22
-& 4 More
-r/BirdsArentReal Tournament
+· 275k players
+2
+26
+& 60 More
+🔮WallStreetBets Predictions Tournament for October 2022🔮
 PREDICTION
-Which option will be second least chosen?
+How will APPLE close on Friday 10/28, following their earnings AH on Thursday?
 You must be logged in
-Birds Aren’t Real
-pigeons are liars
-If it flies, It spies
-I hate this
+Bull Gang (above +2.5%)
+Theta Gang (between +2.5% & -2.5%)
+Bear Gang (below -2.5%)
 See What Others Predicted
 PREDICTION
-How many awards will this individual prediction post get?
+How will SPY close on Thursday 10/27?
 You must be logged in
-0 - 9
-10 - 24
-25 - 49
-50+
+Very Green (Above +1.25%)
+Green (+0.5% to +1.25%)
+Flat (-0.5% to +0.5%)
+Red (-0.5% to -1.25%)
+Very Red (Below -1.25%)
 See What Others Predicted
-0 of 4 predicted
-464 Comments
+0 of 6 predicted
+972 Comments
 Share
 Save
-20.9k
-r/PublicFreakout
+3.8k
+r/europe
 •Posted by
-u/TwisBeats
-16 hours ago
-2
-2
+u/Hematophagian
+3 hours ago
+Germany to legalize cannabis use for recreational purposes
+News
+reuters.com/world/...
 Join
-Found this on Instagram stories, I guess they going to jail and this will be used as evidence.
-🥊Fightnsfw
-3.1k Comments
-Share
-Save
-Vote
-r/Futurology
-•Posted by
-u/nastratin
-2 hours ago
-Plastic recycling a "failed concept," study says, with only 5% recycled in U.S. last year as production rises
-Environment
-cbsnews.com/news/p...
-Join
-389 Comments
-Share
-Save
-8.4k
-r/NoStupidQuestions
-•Posted by
-u/Willr2645
-20 hours ago
-Join
-Why doesn’t the trolley problem have an obvious answer?
-Answered
-
-To me it seems obvious to only kill 1 person instead of 5, I don’t really see the big dilema
-
-2.2k Comments
+426 Comments
 Share
 Save
 Advertisement
