@@ -4,7 +4,6 @@ BMW USA
 Models
 All Models
 X1
-X2
 X3
 X4
 X5
@@ -31,7 +30,6 @@ DISCOVER
 Concept Vehicles
 Sports Activity Vehicles Learn More
 X1
-X2
 X3
 X4
 X5
@@ -42,6 +40,8 @@ X4 M
 X5 M
 X6 M
 iX
+XM:
+Pre-Order
 Sedans & Gran Coupes
 2
 3
@@ -75,6 +75,7 @@ Plug-in Hybrids Learn More
 X5 xDrive45e
 330e Sedan
 530e Sedan
+XM: Pre-Order Now
 LEARN
 BMW Charging
 DISCOVER
@@ -93,10 +94,13 @@ X3 M
 X4 M
 X5 M
 X6 M
+XM: Pre-Order Now
 Additional M Models
 M240i Coupe
 M240i xDrive Coupe
 M235i xDrive Gran Coupe
+M340i Sedan
+M340i xDrive Sedan
 M440i Coupe
 M440i xDrive Coupe
 M440i xDrive Gran Coupe
@@ -177,7 +181,7 @@ G. Privacy of Children
 
 We do not knowingly collect or use any personal information from children (we define 'children' as minors younger than 13) on our Sites without prior, verifiable parental consent. We do not knowingly allow children to order our products, communicate with us, or use any of our online services.
 
-If you become aware that a child has provided us with personal information, please contact us at privacy@bmwusa.com or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. We will take all reasonable measures to delete the information as soon as possible and to not use such information for any purpose, except where necessary to protect the safety of the child or others as required by law.
+If you become aware that a child has provided us with personal information, please contact us at myprivacy@bmwna.com or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. We will take all reasonable measures to delete the information as soon as possible and to not use such information for any purpose, except where necessary to protect the safety of the child or others as required by law.
 
 
 4. Links to Other Sites
@@ -243,4 +247,4 @@ In addition, most internet browsers allow you to change your browser settings to
  11. Do Not Track
 Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, BMW NA and the Sites do not recognize DNT.
 12. Questions and Comments
-Please feel free to send your privacy-related comments or questions to privacy@bmwusa.com or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. You may also call BMW Customer Relations at 800-831-1117. Prompt 'Customer Relations.' Customer telephone calls may be recorded to protect you and our staff. In all written communications, please indicate that you are writing concerning BMWUSA.com or My BMW. We will do our best to respond to all reasonable inquiries in a timely manner.  If you’re looking for the California Consumer Privacy Notice click here.
+Please feel free to send your privacy-related comments or questions to myprivacy@bmwna.com or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. You may also call BMW Customer Relations at 800-831-1117. Prompt 'Customer Relations.' Customer telephone calls may be recorded to protect you and our staff. In all written communications, please indicate that you are writing concerning BMWUSA.com or My BMW. We will do our best to respond to all reasonable inquiries in a timely manner.  If you’re looking for the California Consumer Privacy Notice click here.
