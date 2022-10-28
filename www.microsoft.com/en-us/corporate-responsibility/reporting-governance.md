@@ -18,7 +18,7 @@ Our reporting describes those topics which we consider to be the most important 
 
  
 
-A listing of what we currently identify and categorize as our top ESG issues can be found below. In 2020, Microsoft conducted a materiality assessment focused on environmental sustainability, which can be accessed in the 2020 Environmental Sustainability Report.
+A listing of what we currently identify and categorize as our top ESG issues can be found below. Microsoft conducted a materiality assessment focused on environmental sustainability, which can be accessed in the 2020 Environmental Sustainability Report.
 
 Climate and Energy
 
@@ -32,7 +32,7 @@ Natural Resources (water, waste, and ecosystems)
 
 Privacy and Data Security/Cybersecurity
 
-Inclusive Economic Opportunity (including accessibility, skilling, racial equity)
+Inclusive Economic Growth (including accessibility, skilling, racial equity)
 
 Responsible Sourcing (including product lifecycle management)
 
@@ -44,11 +44,11 @@ CEO and senior leadership
 
 The head of TCR reports directly to Microsoft President and Vice Chair, Brad Smith, who sits on our Senior Leadership Team and reports directly to Chairman and CEO, Satya Nadella. We work together to earn the trust and confidence of the public, our customers, partners, employees, and shareholders.
 
-Regulatory and Public Policy Committee
+Environmental, Social, and Public Policy Committee
 
-The charter for the Microsoft Regulatory and Public Policy Committee includes the responsibility to "Review and provide guidance to the Board and management about the legal, regulatory, and compliance matters concerning competition and antitrust, privacy, trade, digital safety, artificial intelligence, and environmental sustainability.”
+The charter for the Microsoft Environmental, Social, and Public Policy Committee includes assisting the Board of Directors in overseeing the company’s “policies and programs and related risks that concern environmental sustainability, the social and public policy impacts of technology including privacy, digital safety, and responsible artificial intelligence, and legal, regulatory, and compliance matters relating to competition / antitrust, trade, and national security.”
 
-Read the Regulatory and Public Policy Committee charter 
+Read the committee charter 
 Corporate governance
 
 At Microsoft, our focus on corporate social responsibility fosters sustained long-term business success. Our corporate governance framework, policies, and practices are described in detail in our annual proxy statement and the corporate governance section of out Investor Relations website.
@@ -67,14 +67,15 @@ Explore our reporting resources
 Aligning our values
 Global standards
 
-We inform our disclosure strategies with careful consideration of commonly used global standards, including the Global Reporting Initiative (GRI) Sustainability Reporting Standards.
+We inform our disclosure strategies with careful consideration of commonly used global standards and we are closely following the evolution of voluntary and regulatory standards for ESG disclosures.
 
-Learn more about the Global Reporting Initiative (GRI) 
+Learn more about the International Financial Reporting Standards 
 Principles of United Nations Global Compact (UNGC)
 
-In 2006, we began endorsing the United Nations Global Compact and we file an annual Communication on Progress implementing the 10 UNGC principles. Learn more about the UN Global Compact Index at the bottom of this page.
+In 2006, we began endorsing the United Nations Global Compact and we file an annual Communication on Progress implementing the 10 UNGC principles.
 
 View our Communication on Progress report 
+Learn more about the UN Global Compact 
 United Nations Guiding Principles
 
 Microsoft was among the first companies to align our human rights work with the UN Guiding Principles on Business and Human Rights and to adopt the UN Guiding Principles Reporting Framework.
@@ -87,13 +88,4 @@ We're actively engaged in supporting the UN Sustainable Development Goals and pu
 
 Learn more about UN Sustainable Development Goals 
 Read our SDG report 
-UN Global Compact Index
-
-The following table describes the location of content relevant to each of the ten UN Global Compact principles.
-
-Expand all | Collapse all
-Human rights
-Labor
-Environment
-Anti-corruption
 Follow Microsoft
