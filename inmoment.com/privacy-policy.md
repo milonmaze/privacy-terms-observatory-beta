@@ -286,22 +286,3 @@ Please contact us if you have any complaints, questions about the Privacy Policy
 • Or write us at:  InMoment, Inc., Attn: Privacy Team/Legal, 10355 South Jordan Gateway, Suite 600, South Jordan, UT 84095 USA.
 
 Version: This Privacy Policy has been updated on 7 July 2021
-
-Drag to view
-To search this site, enter a search term
-LATEST NEWS
-
-PRESS RELEASE | FEBRUARY 1, 2022
-
-InMoment Further Extends AI-Powered Technologies to Advance Experience Improvement
-Continue Reading
-
-PRESS RELEASE | DECEMBER 9, 2021
-
-InMoment Ranked in Top 50 Insights & Analytics Report by the Insights Association
-Continue Reading
-
-PRESS RELEASE | SEPTEMBER 9, 2021
-
-InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics
-Continue Reading
