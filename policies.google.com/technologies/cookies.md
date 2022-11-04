@@ -44,7 +44,7 @@ Google services also use ‘NID’ and ‘ENID’ cookies on Google Search, and 
 
 Advertising
 
-Google uses cookies and other technologies for advertising, including serving and rendering ads, personalizing ads (depending on your settings at g.co/adsettings or your app and device level settings), limiting the number of times an ad is shown to a user, muting ads you have chosen to stop seeing, and measuring the effectiveness of ads.
+Google uses cookies for advertising, including serving and rendering ads, personalizing ads (depending on your settings at myadcenter.google.com and adssettings.google.com/partnerads), limiting the number of times an ad is shown to a user, muting ads you have chosen to stop seeing, and measuring the effectiveness of ads.
 
 The ‘NID’ cookie is used to show Google ads in Google services for signed-out users, while the ‘ANID’ and ‘IDE’ cookies are used to show Google ads on non-Google sites. If you have personalized ads enabled, the ‘ANID’ cookie is used to remember this setting and lasts for 13 months in the European Economic Area (EEA), Switzerland, and the United Kingdom (UK), and 24 months everywhere else. If you have turned off personalized ads, the ‘ANID’ cookie is used to store that setting until 2030. The ‘NID’ cookie expires 6 months after a user’s last use. The ‘IDE’ cookie lasts for 13 months in the European Economic Area (EEA), Switzerland, and the United Kingdom (UK), and 24 months everywhere else.
 
