@@ -1,117 +1,103 @@
 Found the internet!
 Trending today
-John Fetterman
-Oprah Winfrey Endorses John Fetterman, Opponent of Dr. Oz in Pennsylvania Senate Race
-r/politics and more
-Special Counsel
-DOJ mulling potential special counsel if Trump runs in 2024
-r/politics and more
-North Korea
-South Korea scrambles jets after detecting 180 North Korean warplanes north of border amid tensions
-r/worldnews and more
-Justin Verlander
-JUSTIN VERLANDER WON HIS FIRST EVER WORLD SERIES GAME
-r/mlb and more
-Early Voting
-More than 359,000 Marylanders participated in early voting
-r/maryland and more
-Twitter Layoffs
-Twitter sued for mass layoffs
+Kathy Griffin
+Comedian Kathy Griffin suspended from Twitter after mocking CEO Elon Musk
 r/news and more
+Patrick Mahomes
+[Stat Muse] Most pass attempts in a game ever: 70 — Drew Bledsoe 69 — Vinny Testaverde 68 — Patrick Mahomes tonight
+r/nfl and more
+North Korea
+Satellite Images Show Traffic On North Korea-Russia Rail Link Amid US' Covert Arms Deal Accusations
+r/ukraine and more
+Subtropical Storm Nicole
+NHC issuing advisories for the Atlantic on Subtropical Storm Nicole
+r/florida and more
+Arsenal F.C.
+🚨According to @BolavipBR , Arsenal are close to signing Danilo from Palmeiras and his replacement is likely to be Wallace from Udinese
+r/Gunners and more
+iPhone Production
+Apple warns Covid restrictions in China are hurting iPhone production
+r/technology and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-36.9k
-r/nba
+10.0k
+r/HouseOfTheDragon
 •Posted by
-u/Tomheza
-14 hours ago
+u/didihearathunder
+19 hours ago
 2
-2
-& 100 More
-[Wojnarowski] The Nets have suspended Kyrie Irving.
-News
-twitter.com/wojesp...
 Join
-6.4k Comments
+If you had a dragon, what would you name it?
+FUN POST [book free]
+6.3k Comments
 Share
 Save
-32.8k
-r/pcmasterrace
+55.1k
+r/news
 •Posted by
-u/SpetacularSunday
-18 hours ago
-6
-2
-4
+u/Fuhdawin
+10 hours ago
 3
+& 24 More
+Comedian Kathy Griffin suspended from Twitter after mocking CEO Elon Musk
+nbcnews.com/news/u...
 Join
-7900 XTX will be available for $999 and 7900 XT will be avaialble for $899 | Available December 13th
-News/Article
-4.1k Comments
+5.6k Comments
 Share
 Save
-37.8k
-r/PublicFreakout
-•Posted by
-u/kaosmode
-15 hours ago
-2
-3
-& 3 More
-Join
-Arizona Man Brutalized During Arrest After Firing At Officers
-👮Police Brutalitynsfw
-7.7k Comments
-Share
-Save
-35.5k
-r/worldnews
-•Posted by
-u/flyingcatwithhorns
-11 hours ago
-3
-3
-3
-UN votes overwhelmingly to condemn US embargo of Cuba
-apnews.com/articl...
-Join
-3.2k Comments
-Share
-Save
-26.3k
-r/WhitePeopleTwitter
-•Posted by
-u/Sully_pa
-4 hours ago
-Join
-Seriously.........
-926 Comments
-Share
-Save
-56.8k
-r/WhitePeopleTwitter
-•Posted by
-u/PlenitudeOpulence
-15 hours ago
-& 12 More
-Join
-“We’re going to codify Roe v. Wade in January so it’s the law of the land.”
-3.2k Comments
-Share
-Save
-41.3k
+17.9k
 r/politics
 •Posted by
-u/slaysia
-13 hours ago
+u/LosFeliz3000
+5 hours ago
 2
-Oprah Winfrey Endorses John Fetterman, Opponent of Dr. Oz in Pennsylvania Senate Race
-today.com/today/...
+House Analysis Confirms Corporations Use 'Cover of Inflation to Raise Prices Excessively'
+commondreams.org/news/2...
 Join
-2.0k Comments
+737 Comments
+Share
+Save
+78.6k
+r/WhitePeopleTwitter
+•Posted by
+u/PaulHasselbaink
+14 hours ago
+& 20 More
+Join
+Kathy Griffin has been permanently suspended from Twitter for impersonating Elon Musk
+4.5k Comments
+Share
+Save
+23.7k
+r/MadeMeSmile
+•Posted by
+u/TwistedLittleSoul
+5 hours ago
+6
+11
+& 10 More
+Join
+What a beautiful moment, breaking cycles isn’t easy 🤍
+ Family & Friends 
+582 Comments
+Share
+Save
+42.4k
+r/PublicFreakout
+•Posted by
+u/SkinsPunksDrunks
+15 hours ago
+2
+2
+3
+& 10 More
+Join
+Cops in Florida stop blind man walking home from jury duty
+Repost 😔
+3.9k Comments
 Share
 Save
 Advertisement
