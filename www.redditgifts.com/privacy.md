@@ -1,103 +1,127 @@
 Found the internet!
 Trending today
-Kathy Griffin
-Comedian Kathy Griffin suspended from Twitter after mocking CEO Elon Musk
-r/news and more
-Patrick Mahomes
-[Stat Muse] Most pass attempts in a game ever: 70 — Drew Bledsoe 69 — Vinny Testaverde 68 — Patrick Mahomes tonight
-r/nfl and more
-North Korea
-Satellite Images Show Traffic On North Korea-Russia Rail Link Amid US' Covert Arms Deal Accusations
-r/ukraine and more
-Subtropical Storm Nicole
-NHC issuing advisories for the Atlantic on Subtropical Storm Nicole
-r/florida and more
-Arsenal F.C.
-🚨According to @BolavipBR , Arsenal are close to signing Danilo from Palmeiras and his replacement is likely to be Wallace from Udinese
-r/Gunners and more
-iPhone Production
-Apple warns Covid restrictions in China are hurting iPhone production
+Election Results
+Election polls vs Election results
+r/WhitePeopleTwitter and more
+Meta Layoffs
+Meta says it will lay off more than 11,000 employees
 r/technology and more
+Maura Healey
+Maura Healey shatters lavender ceiling to become nation’s first lesbian governor
+r/politics and more
+Drake Lawsuit
+Vogue sues Drake and 21 Savage for $4M for using fake Vogue covers to promote their album
+r/Deuxmoi and more
+Abortion Rights
+Constitutional Amendment 2 fails: Abortion remains constitutional right in Kentucky
+r/politics and more
+Keanu Reeves
+Keanu Reeves Returns as John Wick in 'Ballerina' Spinoff
+r/movies and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-10.0k
-r/HouseOfTheDragon
+28.5k
+r/AskReddit
 •Posted by
-u/didihearathunder
-19 hours ago
+u/Youhavemystapler11
+20 hours ago
+8
+2
 2
 Join
-If you had a dragon, what would you name it?
-FUN POST [book free]
-6.3k Comments
+What’s a hill you’re willing to die on every time?
+27.1k Comments
 Share
 Save
-55.1k
-r/news
+Vote
+r/WatchPeopleDieInside
 •Posted by
-u/Fuhdawin
-10 hours ago
-3
-& 24 More
-Comedian Kathy Griffin suspended from Twitter after mocking CEO Elon Musk
-nbcnews.com/news/u...
+u/Gagliardinter
+2 hours ago
 Join
-5.6k Comments
+Mime cleans doctor's windshield and the doctor prescribes him some of his own medicine
+0:00
+0:13
+137 Comments
 Share
 Save
-17.9k
-r/politics
-•Posted by
-u/LosFeliz3000
-5 hours ago
-2
-House Analysis Confirms Corporations Use 'Cover of Inflation to Raise Prices Excessively'
-commondreams.org/news/2...
-Join
-737 Comments
-Share
-Save
-78.6k
-r/WhitePeopleTwitter
-•Posted by
-u/PaulHasselbaink
-14 hours ago
-& 20 More
-Join
-Kathy Griffin has been permanently suspended from Twitter for impersonating Elon Musk
-4.5k Comments
-Share
-Save
-23.7k
+14.0k
 r/MadeMeSmile
 •Posted by
-u/TwistedLittleSoul
-5 hours ago
-6
-11
-& 10 More
-Join
-What a beautiful moment, breaking cycles isn’t easy 🤍
- Family & Friends 
-582 Comments
-Share
-Save
-42.4k
-r/PublicFreakout
-•Posted by
-u/SkinsPunksDrunks
-15 hours ago
-2
+u/mindyour
+3 hours ago
 2
 3
-& 10 More
 Join
-Cops in Florida stop blind man walking home from jury duty
-Repost 😔
-3.9k Comments
+Man surprise his family and friends with his weight loss.
+ Small Success 
+0:00
+1:34
+495 Comments
+Share
+Save
+12.4k
+r/pics
+•Posted by
+u/cptmookie
+3 hours ago
+2
+6
+2
+& 4 More
+Join
+Today, I became a father. 🥹
+534 Comments
+Share
+Save
+21.3k
+r/nottheonion
+•Posted by
+u/Loki-L
+6 hours ago
+Tennessee voters officially ban all forms of slavery in the state
+cbsnews.com/news/s...
+Join
+800 Comments
+Share
+Save
+26.6k
+r/entertainment
+•Posted by
+u/MarvelsGrantMan136
+8 hours ago
+John Fetterman wins Pennsylvania Senate race, defeating TV doctor Mehmet Oz
+nbcnews.com/politi...
+Join
+908 Comments
+Share
+Save
+39.4k
+r/news
+•Posted by
+u/IronHe
+12 hours ago
+& 3 More
+Elon Musk sells at least $3.95 billion worth of Tesla shares after Twitter deal
+cnbc.com/2022/1...
+Join
+2.7k Comments
+Share
+Save
+20.4k
+r/worldnews
+•Posted by
+u/sayed_sameh
+9 hours ago
+2
+Putin's Military Suffers Over 700 Deaths in One Day of War: Ukraine
+Russia/Ukraine
+newsweek.com/vladim...
+Join
+1.3k Comments
 Share
 Save
 Advertisement
