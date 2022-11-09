@@ -20,7 +20,7 @@ Your Choices and Obligations
 Other Important Information
 Introduction
 
-We are a social network and online platform for professionals. People use our Services to find and be found for business opportunities, to connect with others and find information. Our Privacy Policy applies to any Member or Visitor to our Services.
+We are a social network and online platform for professionals. People use our Services to find and be found for business opportunities, to connect with others and find information. Our Privacy Policy applies to any Member or
 
 Our registered users (“Members”) share their professional identities, engage with their network, exchange knowledge and professional insights, post and view relevant content, learn and develop skills, and find business and career opportunities. Content and data on some of our Services is viewable to non-members (“Visitors”).
 
@@ -176,7 +176,7 @@ Our Services allow you to collaborate with colleagues, search for potential clie
 
 2.2 Premium Services
 
-Our premium Services help paying users to search for and contact Members through our Services, such as searching for and contacting job candidates, sales leads and co-workers, manage talent and promote content through social media.
+Our premium Services help paying users to search for and contact Members through our Services, such as searching for and contacting job candidates, sales leads and co-workers, manage talent and promote content through social
 
 We sell premium Services that provide our customers and subscribers with customized-search functionality and tools (including messaging and activity alerts) as part of our talent, marketing and sales solutions. Customers can export limited information from your profile, such as name, headline, current company, current title, and general location (e.g., Dublin), such as to manage sales leads or talent, unless you opt-out. We do not provide contact information to customers as part of these premium Services without your consent. Premium Services customers can store information they have about you in our premium Services, such as a resume or contact information or sales history. The data stored about you by these customers is subject to the policies of those customers. Other enterprise Services and features that use your data include TeamLink and Elevate (social promotion of content).
 
@@ -197,7 +197,7 @@ We target (and measure the performance of) ads to Members, Visitors and others b
 Data from advertising technologies on and off our Services, pixels, ad tags, cookies, and device identifiers;
 Member-provided information (e.g., profile, contact information, title and industry);
 Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, groups participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3;
-Information from advertising partners, vendors and publishers; and
+Information from advertising partners, vendors and publishers ; and
 Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket; using graduation dates to infer age or using first names or pronoun usage to infer gender; using your feed activity to infer your interests; or using device data to recognize you as a Member).
 
 We will show you ads called sponsored content which look similar to non-sponsored content, except that they are labeled as advertising (e.g., as “ad” or “sponsored”). If you take a social action (such as like, comment or share) on these ads, your action is associated with your name and viewable by others, including the advertiser. Subject to your settings, if you take a social action on the LinkedIn Services, that action may be mentioned with related ads. For example, when you like a company we may include your name and photo when their sponsored content is shown.
@@ -290,7 +290,7 @@ Some Members (or their employers) need, for legal or professional compliance, to
 
 3.3 Others’ Services
 
-You may link your account with others’ services so that they can look up your contacts’ profiles, post your shares on such platforms, or enable you to start conversations with your connections on such platforms. Excerpts from your profile will also appear on the services of others.
+You may link your account with others’ services so that they can look up your contacts’ profiles, post your shares on such platforms, or enable you to start conversations with your connections on such platforms. Excerpts from
 
 Subject to your settings, other services may look up your profile. When you opt to link your account with other services, personal data will become available to them. The sharing and use of that personal data will be described in, or linked to, a consent screen when you opt to link the accounts. For example, you may link your Twitter or WeChat account to share content from our Services into these other services, or your email provider may give you the option to upload your LinkedIn contacts into its own service. Third-party services have their own privacy policies, and you may be giving them permission to use your data in ways we would not. You may revoke the link with such accounts.
 
@@ -348,7 +348,7 @@ Residents in the Designated Countries and other regions may have additional 
 
 We keep some of your data even after you close your account.
 
-If you choose to close your LinkedIn account, your personal data will generally stop being visible to others on our Services within 24 hours. We generally delete closed account information within 30 days of account closure, except as noted below.
+If you choose to close your Linkedin account, your personal data will generally stop being visible to others on our Services within 24 hours. We generally delete closed account information within 30 days of account closure, except as noted below.
 
 We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have restricted your account for breach of our Professional Community Policies), enforce our User Agreement, or fulfill your request to "unsubscribe" from further messages from us. We will retain de-personalized information after your account has been closed.
 
