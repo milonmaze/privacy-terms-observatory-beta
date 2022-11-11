@@ -1,127 +1,106 @@
 Found the internet!
 Trending today
-Election Results
-Election polls vs Election results
-r/WhitePeopleTwitter and more
-Meta Layoffs
-Meta says it will lay off more than 11,000 employees
+Student Loan Forgiveness
+Federal judge in Texas blocks Biden’s student loan forgiveness plan
+r/politics and more
+Kherson
+Today Kherson has been liberated
+r/europe and more
+FTX
+FTX looks for $9.4 bln in rescue funds, Bahamas freezes some assets
 r/technology and more
-Maura Healey
-Maura Healey shatters lavender ceiling to become nation’s first lesbian governor
-r/politics and more
-Drake Lawsuit
-Vogue sues Drake and 21 Savage for $4M for using fake Vogue covers to promote their album
-r/Deuxmoi and more
-Abortion Rights
-Constitutional Amendment 2 fails: Abortion remains constitutional right in Kentucky
-r/politics and more
-Keanu Reeves
-Keanu Reeves Returns as John Wick in 'Ballerina' Spinoff
-r/movies and more
+Veterans Day
+Happy Veterans Day! May those Texas Roadhouse rolls and Golden Corral Buffet have mercy on you.
+r/AirForce and more
+Atlanta Falcons at Carolina Panthers
+The Atlanta Falcons has some NASCAR inspired game art for their upcoming match up against the Carolina Panthers
+r/NASCAR and more
+World Cup Squad
+The Netherlands 2022 World Cup Squad
+r/soccer and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-28.5k
+40.1k
+r/MakeupAddiction
+•Posted by
+u/Butt_Fucking_Smurfs
+17 hours ago
+3
+& 81 More
+Join
+I figured you people would know. Is there a makeup that would help me cover my scar? I'm rather self conscious of it and I'm tired of it being the first thing people notice.
+i.imgur.com/K2m7PM...
+13.7k Comments
+Share
+Save
+5.8k
+r/OnePiece
+•Posted by
+u/Kirosh2
+11 hours ago
+13
+12
+& 13 More
+Join
+One Piece: Chapter 1066
+Current Chapterspoiler
+4.9k Comments
+Share
+Save
+20.3k
 r/AskReddit
 •Posted by
-u/Youhavemystapler11
-20 hours ago
-8
-2
+u/YouShouldSendMeNudes
+16 hours ago
 2
 Join
-What’s a hill you’re willing to die on every time?
-27.1k Comments
+What did you try and found out it’s not for you?
+nsfw
+13.6k Comments
 Share
 Save
-Vote
-r/WatchPeopleDieInside
+45.3k
+r/antiwork
 •Posted by
-u/Gagliardinter
-2 hours ago
+u/bllshrfv
+17 hours ago
+& 2 More
 Join
-Mime cleans doctor's windshield and the doctor prescribes him some of his own medicine
-0:00
-0:13
-137 Comments
+Elon Musk’s first ever email to Twitter employees (November 9, 2022)
+4.5k Comments
 Share
 Save
-14.0k
-r/MadeMeSmile
+28.8k
+r/technology
 •Posted by
-u/mindyour
-3 hours ago
-2
-3
-Join
-Man surprise his family and friends with his weight loss.
- Small Success 
-0:00
-1:34
-495 Comments
-Share
-Save
-12.4k
-r/pics
-•Posted by
-u/cptmookie
-3 hours ago
-2
-6
-2
-& 4 More
-Join
-Today, I became a father. 🥹
-534 Comments
-Share
-Save
-21.3k
-r/nottheonion
-•Posted by
-u/Loki-L
-6 hours ago
-Tennessee voters officially ban all forms of slavery in the state
-cbsnews.com/news/s...
-Join
-800 Comments
-Share
-Save
-26.6k
-r/entertainment
-•Posted by
-u/MarvelsGrantMan136
-8 hours ago
-John Fetterman wins Pennsylvania Senate race, defeating TV doctor Mehmet Oz
-nbcnews.com/politi...
-Join
-908 Comments
-Share
-Save
-39.4k
-r/news
-•Posted by
-u/IronHe
-12 hours ago
-& 3 More
-Elon Musk sells at least $3.95 billion worth of Tesla shares after Twitter deal
-cnbc.com/2022/1...
-Join
-2.7k Comments
-Share
-Save
-20.4k
-r/worldnews
-•Posted by
-u/sayed_sameh
+u/Sorin61
 9 hours ago
 2
-Putin's Military Suffers Over 700 Deaths in One Day of War: Ukraine
-Russia/Ukraine
-newsweek.com/vladim...
+5
+2
+2
+& 4 More
+Reddit now lets you mute subreddits you don’t like
+Social Media
+arstechnica.com/gadget...
 Join
-1.3k Comments
+4.2k Comments
+Share
+Save
+83.8k
+r/mildlyinteresting
+•Posted by
+u/EvTheSmev
+21 hours ago
+2
+Join
+The shower in my hotel is a glass cube in the center of the room
+OC
+i.imgur.com/JBePNW...
+3.9k Comments
 Share
 Save
 Advertisement
