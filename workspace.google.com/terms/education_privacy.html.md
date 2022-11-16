@@ -55,17 +55,21 @@ Customer data is used to provide the core services, for example, Google processe
 
 Information we collect as you use core services
 
-As described more fully in Google’s Cloud Privacy Notice, we also collect service data through the core services, including:
+As described fully in Google’s Cloud Privacy Notice, we also collect service data through the core services, including:
+
+Your account information, which includes things like name and email address.
 
 Your activity while using the core services, which includes things like viewing and interacting with content, people with whom you communicate or share content, and other details about your usage of the services.
 
-Your apps, browsers & devices. We collect info about the apps, browser, and devices you use to access our services. This information includes browser and device type, settings, unique identifiers, operating system, mobile network information, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date and time of your request.
+Your settings, apps, browsers & devices. We collect info about your settings and the apps, browsers, and devices you use to access our services. This information includes browser and device type, settings configuration, unique identifiers, operating system, mobile network information, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date and time of your request.
 
 Your location information. We collect info about your location as determined by various technologies such as IP address and GPS.
 
-And for admins, payments and transaction data and direct communications with us.
+Your direct communications. We keep records of communications when you or your admin provide feedback, ask questions, or seek technical support.
 
-Service data is primarily used to deliver the services that schools and students use, but it’s also used to maintain and improve the services; make recommendations to optimize the use of the services; provide support; protect our users, the public, and Google; and comply with legal obligations. See the Google Cloud Privacy Notice for more information.
+And for admins, we collect data about payments and transactions.
+
+Service data is primarily used to deliver the services that schools and students use, but it’s also used to maintain and improve the services; make recommendations to optimize the use of the services; provide and improve other services you request; provide support; protect our users, customers, the public, and Google; and comply with legal obligations. See the Google Cloud Privacy Notice for more information.
 
 Additional Services
 
@@ -102,15 +106,25 @@ Your school’s admin may allow students to access Google services, such as Goog
 
 When Google shares your information
 
-We do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:
+As described fully in the Google Privacy Policy and the Google Cloud Privacy Notice, we do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:
 
-With your school’s admin: Your admin and resellers who manage your Workspace account will have access to your information, including your password and information stored in your account
+With your school’s admin: Your admin and resellers who manage your or your organization’s Workspace account will have access to your information. For example, they may be able to:
 
-With your consent: We’ll share personal information outside of Google when we have your consent.
+View account information, activity and statistics;
 
-For external processing: We may share personal information with our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy, the Google Cloud Privacy Notice, and any other appropriate confidentiality and security measures.
+Change your account password;
 
-For legal reasons: We may also share personal information if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary for legal reasons, including complying with enforceable governmental requests and protecting you and Google.
+Suspend or terminate your account access;
+
+Access your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request;
+
+Restrict your ability to delete or edit your information or your privacy settings.
+
+With your consent: We’ll share personal information outside of Google where we have you or your parent’s consent.
+
+For external processing: We share personal information with our affiliates and other trusted third party providers to process it for us as we instruct them and in compliance with our Privacy Policy, the Google Cloud Privacy Notice, and any other appropriate confidentiality and security measures.
+
+For legal reasons: We share personal information outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary for legal reasons, including complying with enforceable governmental requests and protecting you and Google.
 
 Your privacy controls
 
