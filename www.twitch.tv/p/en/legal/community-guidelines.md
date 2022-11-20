@@ -588,9 +588,9 @@ Share a referral code to a slots site with your chat
 Include a banner with a link to online roulette games
 Verbally refer your chat to a site containing dice games
 
-Furthermore, similar to our prohibited games policy , we do not allow the sites below to be streamed on Twitch, or linked to in chat. We consider many factors in determining whether a site is allowed, including whether the site includes safety protections, such as deposit limits, waiting periods, and age verification systems. We also take into account whether streamers use or encourage VPNs to evade geoblocking, and whether the site is licensed in the US or other jurisdictions that provide sufficient consumer protections.
+Furthermore, similar to our prohibited games policy, we do not allow the sites below to be streamed on Twitch, or linked to in chat. We consider many factors in determining whether a site is allowed, including whether the site includes safety protections, such as deposit limits, waiting periods, and age verification systems. We also take into account whether streamers use or encourage VPNs to evade geoblocking, and whether the site is licensed in the US or other jurisdictions that provide sufficient consumer protections.
 
-We do not allow the following sites or associated domains:
+  We do not allow the following sites or associated domains:
 
 stake.com
 rollbit.com
