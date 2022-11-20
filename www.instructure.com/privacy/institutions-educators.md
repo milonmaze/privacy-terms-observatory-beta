@@ -23,7 +23,7 @@ Institutional data is also processed by Canvas. This may include enrollments, ad
 
 User-Generated Content
 
-When participating in courses or using Canvas, users may submit exercises, assignments, tests, course materials, or learning modules (collectively “user content”). User content is stored in Canvas and may only be viewed, updated, or deleted by the submitting students, instructors, course administrators, or administrator users from the institution. Instructure is not able to directly delete, modify, or update user content except as directed by the institution. Instructure does acquire any ownership rights in user content.
+When participating in courses or using Canvas, users may submit exercises, assignments, tests, course materials, or learning modules (collectively “user content”). User content is stored in Canvas and may only be viewed, updated, or deleted by the submitting students, instructors, course administrators, or administrator users from the institution. Instructure is not able to directly delete, modify, or update user content except as directed by the institution. Instructure does not acquire any ownership rights in user content.
 
 System Data
 
