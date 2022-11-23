@@ -1,128 +1,114 @@
 Found the internet!
 Trending today
-Poland Missile Blast
-Biden said Ukraine air defence missile responsible for Poland blast - NATO source
+Jair Bolsonaro
+Bolsonaro now no longer conceding election - claiming fraudulent results due to voting software error
 r/worldnews and more
-NASA Artemis 1 Launch
-NASA's Unmanned Artemis 1 Successfully Launches from Kennedy Space Center Marking the Beginning of Mankind's Effort Return to the Moon as Early as 2024
-r/Futurology and more
-Deliveroo Leaves Australia
-Deliveroo leaves Australia
-r/australia and more
-Cleopatra's Tomb
-Archaeologists believe they may have finally found the lost tomb of Cleopatra
-r/news and more
-Donald Trump
-Captive Audience? Staff Blocks People From Leaving 'Low Energy' Trump Speech
+Alex Jones
+Judge Upholds $49 Million Verdict Against Alex Jones, Despite Cap
+r/entertainment and more
+Student Loan Debt Repayment Freeze
+Biden administration will extend student loan debt repayment holiday to June, reports say
 r/politics and more
-Luka Doncic
-[Highlight] Luka Doncic brews up some magic to beat the buzzer, giving the Mavs a 4 point lead (+replays)
-r/nba and more
+FIFA World Cup
+FIFA charges Ecuador over fan chants at World Cup opener
+r/soccer and more
+Club Q Shooting Suspect
+Club Q shooting suspect is nonbinary, defense attorneys say
+r/news and more
+Virginia Walmart Shooting
+Multiple fatalities and injuries reported in shooting at a Virginia Walmart
+r/news and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-20.5k
-r/worldnews
+30.4k
+r/news
 •Posted by
-u/flyingcatwithhorns
-4 hours ago
+u/alixnaveh
+9 hours ago
+3
 & 3 More
-Biden said Ukraine air defence missile responsible for Poland blast - NATO source
-Russia/Ukraine
-reuters.com/world/...
+Multiple fatalities and injuries reported in shooting at a Virginia Walmart
+7 killed
+cnn.com/2022/1...
 Join
+6.8k Comments
+Share
+Save
+56.2k
+r/meirl
+•Posted by
+u/Comefeelme623
+13 hours ago
+2
+4
+Join
+Meirl
+5.0k Comments
+Share
+Save
+116k
+r/pics
+•Posted by
+u/Lortekonto
+16 hours ago
+5
+7
+8
+& 7 More
+Join
+Danish Prime Minister in Rainbow Colours in Qatar
+3.1k Comments
+Share
+Save
+1.8k
+r/AskReddit
+•Posted by
+u/JeffLaRue
+2 hours ago
+Join
+What the hell is happening with all of the mass shootings in the U.S.?
 2.9k Comments
 Share
 Save
-17.6k
-r/AskReddit
+41.4k
+r/politics
 •Posted by
-u/jhffmn21
-13 hours ago
-4
-5
-3
-Join
-Americans of Reddit, what is the worst big city in the USA and why?
-15.4k Comments
-Share
-Save
-20.7k
-r/nextfuckinglevel
-•Posted by
-u/EvaRaw666
-4 hours ago
+u/Kamanar
+18 hours ago
 2
-3
+4
+2
+& 2 More
+Biden administration will extend student loan debt repayment holiday to June, reports say
+Site Altered Headline
+cnbc.com/2022/1...
 Join
-When you hire the one who really knows how to do the job..
-0:00
-0:44
-388 Comments
+2.5k Comments
 Share
 Save
-68.6k
-r/worldnews
+43.2k
+r/WhitePeopleTwitter
 •Posted by
-u/RhubarbPi3
-13 hours ago
-5
-11
-5
-Biden calls 'emergency' meeting after missile hits Poland
-apnews.com/articl...
-Join
-6.4k Comments
-Share
-Save
-14.6k
-r/aww
-•Posted by
-u/lewisisbrown
-3 hours ago
-Join
-Came back from the bathroom to find my seat had been double stolen.
-210 Comments
-Share
-Save
-23.3k
-r/facepalm
-•Posted by
-u/Annoying_house_fly
-5 hours ago
-Join
-Parenting can be tough at times.
- 🇲​🇮​🇸​🇨​
-309 Comments
-Share
-Save
-32.0k
-r/news
-•Posted by
-u/BusbyBusby
-14 hours ago
-White teacher in Texas fired after telling students his race is ‘the superior one’
-cnn.com/2022/1...
-Join
-2.1k Comments
-Share
-Save
-875
-r/CFB
-•Posted by
-u/dranowg
+u/instantlightning2
 12 hours ago
+2
 Join
-What's a CFB hill you'd be willing to die on?
-Discussion
-
-For me I think The Play is far and away the greatest moment in CFB history and not even a play like the Kick Six comes really close.
-
-Additionally, Joe Starky's call of it is among the best sports calls of all time
-
-2.1k Comments
+“Acts of terrorism will keep happening unless we get what we want” is what they are saying.
+2.5k Comments
+Share
+Save
+17.7k
+r/australia
+•Posted by
+u/falsous
+4 hours ago
+Join
+“Jesus, we’re on the f**king tele.” 🤣🤣🤣
+image
+281 Comments
 Share
 Save
 Advertisement
