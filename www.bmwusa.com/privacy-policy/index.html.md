@@ -58,6 +58,7 @@ Coupes
 2
 4
 8
+M2
 M4
 M8
 Convertibles
@@ -83,6 +84,7 @@ All-Electric Vehicles
 EXPLORE
 Plug-in Hybrid Vehicles
 THE MOST POWERFUL LETTER IN THE WORLD Learn More
+M2 Coupe
 M3
 M4
 M4 Convertible
