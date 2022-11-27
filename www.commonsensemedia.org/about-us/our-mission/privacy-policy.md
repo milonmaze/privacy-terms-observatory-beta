@@ -1,5 +1,5 @@
 Skip to main content
-For Parents For Educators For Advocates
+For Parents For Educators Our Work and Impact
 Privacy Policy/Your California Privacy Rights
 
 Community guidelines | Privacy Policy | Cookie Policy | Children's Privacy Policy | General Terms of Use | Teen Terms of Use | UK Digital Citizenship Terms of Service
@@ -853,74 +853,43 @@ Fundraising Tools – we derive or receive Donor Analysis Data from certain comm
 International transfers. We are headquartered in the United States. The Personal Data that we collect from and about you will be stored and processed in the United States and may be stored and processed in other countries outside of the EEA+. However, it is our policy to ensure that adequate contractual or other safeguards are applied to Personal Data transferred outside of the EEA+ where required by the GDPR. If you have questions about the safeguards applied to your Personal Data, you may contact us at Contact Support. 
 
 Common Sense Media
-Sign in
 Language:
 English
-Movies
-Movie Reviews
-Best Movie Lists
-Best Streaming Picks for Kids
-Common Sense Selections for Movies
-TV
-TV Reviews
-Best TV Lists
-Best Streaming Picks for Kids
-Common Sense Selections for TV
-Books
-Book Reviews
-Best Book Lists
-Common Sense Selections for Books
-Games
-Game Reviews
-Best Game Lists
-Common Sense Selections for Games
-Podcasts
-Podcast Reviews
-Best Podcast Lists
-Common Sense Selections for Podcasts
-Apps
-App Reviews
-Best App Lists
-Parent Tips and FAQs
-By Age
-Preschoolers (2-4)
-Little Kids (5-7)
-Big Kids (8-9)
-Pre-Teens (10-12)
-Teens (13+)
-By Topic
-Screen Time
-Learning
-Social Media
-Cellphones
-Online Safety
-Race and Ethnicity
-More ...
-By Platform
-TikTok
-Snapchat
-Minecraft
-Roblox
-Fortnite
-YouTube
-More ...
-Celebrating Community
-Latino Culture
-Black Voices
-Asian Stories
-LGBTQ+ Pride
-Common Sense Media Plus
-Research
-About
+Our Work and Impact
+Media Choice
+Digital Equity
+Digital Literacy and Citizenship
+Tech Accountability
+Healthy Childhood
+Our Research
+Our Current Research
+Past Research
+Archived Datasets
+Press and News
+News
+Press Releases
+Statements
+Our CEO
+Our Experts
+Our Perspectives
+Public Filings and Letters
 About Us
-Our Impact
+How We Work
+Diversity and Inclusion
 Meet Our Team
 Board of Directors
 Board of Advisors
-How We Rate
+Our Partners
+How We Rate and Review Media
+How We Rate and Review for Learning
+Our Offices
+Get Involved
 Donate
-Regional Offices
-Events
+Join as a Parent
+Join as an Educator
+Sign Up for Our Newsletters
+Request a Speaker
+Attend an Event
+Events for Educators
 We're Hiring
-CCPA: Protect Your Privacy
 Donate
