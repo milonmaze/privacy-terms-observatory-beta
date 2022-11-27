@@ -23,6 +23,7 @@ Line of Credit
 Fleet Services
 Municipal Lease
 Customizable Features
+Commercial Resources
 FAQ
 Line of Credit
 Locate a Dealership
@@ -49,7 +50,7 @@ Events
 Newsroom
 Community Involvement
 Diversity, Equity and Inclusion
-Financial Wellness Program
+Financial Literacy Program
 Suppliers
 Career Opportunities
 Diversity, Equity and Inclusion
