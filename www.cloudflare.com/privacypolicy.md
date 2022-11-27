@@ -1,8 +1,9 @@
 Cloudflare Privacy Policy
 
-This Privacy Policy is effective as of April 1, 2022.
+This Privacy Policy is effective as of November 1, 2022.
 
-We have updated our February 1, 2022 Privacy Policy to incorporate the information Cloudflare collects and processes via its subsidiary, Area 1 Security, LLC and to clarify our use of aggregated data from our 1.1.1.1 public resolver.
+We have updated our April 1, 2022 Privacy Policy to add a new Cloudflare entity (Cloudflare Korea LLC), and to clarify our liability in cases of onward transfers to third parties.
+
 
 This Cloudflare Privacy Policy (“Policy”) outlines the personal information that Cloudflare, Inc. (“Cloudflare”, “we”, “us” or “our”) gathers, how we use that personal information, and the options you have to access, correct, or delete such personal information.
 
@@ -164,7 +165,7 @@ Whenever a Cloudflare company transfers personal information originating in the 
 
 If you are accessing or using our Websites or Services or otherwise providing information to us, we may transfer your personal information outside of the EEA, the UK, or Switzerland, ensuring appropriate safeguards are in place to protect your personal information. We describe our additional safeguards here. If you have any questions about or need further information concerning the appropriate safeguards Cloudflare has in place to protect your personal information, please contact us at privacyquestions@cloudflare.com.
 
-While Cloudflare no longer relies on the EU-U.S. and the Swiss -U.S. Privacy Shield as a lawful basis for international transfers of personal information from the EEA and Switzerland to the U.S., Cloudflare remains certified under both the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks respectively as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA, the UK, and Switzerland to the United States, respectively (“Privacy Shields”). We commit to periodically review and verify the accuracy of our policies and our compliance with the Privacy Shields. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. For more information on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at: https://www.privacyshield.gov/welcome.
+While Cloudflare no longer relies on the EU-U.S. and the Swiss -U.S. Privacy Shield as a lawful basis for international transfers of personal information from the EEA and Switzerland to the U.S., Cloudflare remains certified under both the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks respectively as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA, the UK, and Switzerland to the United States, respectively (“Privacy Shields”). Cloudflare is responsible for the personal data it receives under each Privacy Shield framework and subsequently transfers to a third party agent acting on our behalf. Cloudflare complies with the Privacy Shield Principles for all onward transfers of personal data from the EEA, Switzerland, and the United Kingdom, including the onward transfer liability provisions. We commit to periodically review and verify the accuracy of our policies and our compliance with the Privacy Shields. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. For more information on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at: https://www.privacyshield.gov/welcome.
 
 If you believe that we maintain copies of your personal information within the scope of the Privacy Shields, you may direct any inquiries to SAR@cloudflare.com or via mail to: Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, Attn: Data Protection Officer. We will respond to your inquiry within 30 days of receipt and verification of your identity.
 
@@ -270,8 +271,9 @@ Attention: Data Protection Officer
 privacyquestions@cloudflare.com
 
 Cloudflare Japan K.K.
-3-1-6 Motoazabu, Minato-ku
-Tokyo, 106-0046
+Marunouchi Kitaguchi Building 9F
+1-6-5 Marunouchi, Chiyoda-ku
+Tokyo, 100-0005
 Attention: Data Protection Officer
 privacyquestions@cloudflare.com
 
@@ -294,6 +296,18 @@ Area 1 Security, LLC
 Dover, DE, 19904
 Attention: Data Protection Officer
 privacyquestions@cloudflare.com
+
+Cloudflare Korea LLC
+8-113 (Samseong-dong), Teheran-ro 507
+Gangnam-gu, Seoul, South Korea, 06168
+Attention: Data Protection Officer
+privacyquestions@cloudflare.com
+
+
+
+
+
+
 
 
 
