@@ -1,114 +1,115 @@
 Found the internet!
 Trending today
-Jair Bolsonaro
-Bolsonaro now no longer conceding election - claiming fraudulent results due to voting software error
+LSU @ Texas A&M
+[Postgame Thread] Texas A&M Defeats LSU 38-25
+r/CFB and more
+China Zero COVID Lockdown Protests
+Protests against Xi and his zero covid policy broke out in Shanghai and other cities in China
 r/worldnews and more
-Alex Jones
-Judge Upholds $49 Million Verdict Against Alex Jones, Despite Cap
-r/entertainment and more
-Student Loan Debt Repayment Freeze
-Biden administration will extend student loan debt repayment holiday to June, reports say
-r/politics and more
 FIFA World Cup
-FIFA charges Ecuador over fan chants at World Cup opener
-r/soccer and more
-Club Q Shooting Suspect
-Club Q shooting suspect is nonbinary, defense attorneys say
-r/news and more
-Virginia Walmart Shooting
-Multiple fatalities and injuries reported in shooting at a Virginia Walmart
-r/news and more
+World Cup Ratings: USA Vs. England Posts Record 20M Viewers Across Fox & Telemundo
+r/television and more
+Georgia Senate Runoff
+Voters turn out for Saturday voting in Georgia Senate runoff
+r/politics and more
+Cats
+Why is my cat sometimes going randomly into empty room or corridor and starting to meow scream out loud? Literaly I was in toilet and bf was cooking dinner and suddenly our cat decided to cry her soul out in empty room. She was not hurt or anything. Just screaming lmao.
+r/cats and more
+Vladimir Makei
 Popular posts
 Hot
 Everywhere
 New
 Top
-30.4k
-r/news
-•Posted by
-u/alixnaveh
-9 hours ago
-3
-& 3 More
-Multiple fatalities and injuries reported in shooting at a Virginia Walmart
-7 killed
-cnn.com/2022/1...
-Join
-6.8k Comments
-Share
-Save
-56.2k
-r/meirl
-•Posted by
-u/Comefeelme623
-13 hours ago
+533k
+r/memes
+LIVE
+· 980k players
+46
+55
+& 66 More
+R/MEMES MEME QUIZ #2
+PREDICTION
+Football or soccer? Most popular option wins.
+You must be logged in
+Football
+Soccer
+See What Others Predicted
+PREDICTION
+How many times will Elon Musk tweet on Friday 2nd of December (using GMT +1030 timezone)
+You must be logged in
+0 or 1
 2
+3
 4
-Join
-Meirl
-5.0k Comments
-Share
-Save
-116k
-r/pics
-•Posted by
-u/Lortekonto
-16 hours ago
 5
-7
-8
-& 7 More
-Join
-Danish Prime Minister in Rainbow Colours in Qatar
-3.1k Comments
+6 or more
+See What Others Predicted
+0 of 3 predicted
+4.2k Comments
 Share
 Save
-1.8k
+19.5k
 r/AskReddit
 •Posted by
-u/JeffLaRue
-2 hours ago
+u/Calm-Hovercraft9858
+13 hours ago
+5
+5
 Join
-What the hell is happening with all of the mass shootings in the U.S.?
-2.9k Comments
+What TV show never had a decline in quality?
+17.1k Comments
 Share
 Save
-41.4k
-r/politics
+17.8k
+r/CFB
 •Posted by
-u/Kamanar
-18 hours ago
-2
+u/CFB_Referee
+17 hours ago
 4
 2
-& 2 More
-Biden administration will extend student loan debt repayment holiday to June, reports say
-Site Altered Headline
-cnbc.com/2022/1...
+& 107 More
 Join
-2.5k Comments
+[Postgame Thread] Michigan Defeats Ohio State 45-23
+Postgame Thread
+
+Box Score provided by ESPN
+
+Team	1	2	3	4	T
+Michigan	3	14	7	21	45
+Ohio State	10	10	0	3	23
+Made with the r/CFB Game Thread Generator
+8.1k Comments
 Share
 Save
-43.2k
-r/WhitePeopleTwitter
+10.8k
+r/WatchPeopleDieInside
 •Posted by
-u/instantlightning2
-12 hours ago
-2
-Join
-“Acts of terrorism will keep happening unless we get what we want” is what they are saying.
-2.5k Comments
-Share
-Save
-17.7k
-r/australia
-•Posted by
-u/falsous
+u/makeliketome
 4 hours ago
 Join
-“Jesus, we’re on the f**king tele.” 🤣🤣🤣
-image
-281 Comments
+TV falls off wall as soon as she’s is done mounting it
+783 Comments
+Share
+Save
+9.8k
+r/MurderedByWords
+•Posted by
+u/Sad-Implement-9967
+4 hours ago
+Join
+A horse shit
+66 Comments
+Share
+Save
+19.4k
+r/Funnymemes
+•Posted by
+u/Mammoth_Western_2381
+16 hours ago
+Join
+Pick a name for this movie
+7.8k Comments
 Share
 Save
 Advertisement
