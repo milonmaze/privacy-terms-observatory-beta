@@ -1,9 +1,3 @@
-Privacy and Security
-Your Privacy
-Global Privacy Statement
-Security Center
-FAQ
-Contact Us
 Your data works for you
 
 When you work with Intuit, you get access to a platform of benefits powered by our innovative use of data that protects your privacy while powering your prosperity.
