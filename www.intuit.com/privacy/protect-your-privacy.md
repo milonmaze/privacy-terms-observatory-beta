@@ -1,9 +1,3 @@
-Privacy and Security
-Your Privacy
-Global Privacy Statement
-Security Center
-FAQ
-Contact Us
 We promise to protect your privacy
 
 As technology advances, so do our privacy practices. We keep our customers at the center of our innovation as we create new ways to keep you and your data safe.
