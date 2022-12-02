@@ -1,115 +1,139 @@
 Found the internet!
 Trending today
-LSU @ Texas A&M
-[Postgame Thread] Texas A&M Defeats LSU 38-25
-r/CFB and more
-China Zero COVID Lockdown Protests
-Protests against Xi and his zero covid policy broke out in Shanghai and other cities in China
-r/worldnews and more
 FIFA World Cup
-World Cup Ratings: USA Vs. England Posts Record 20M Viewers Across Fox & Telemundo
-r/television and more
-Georgia Senate Runoff
-Voters turn out for Saturday voting in Georgia Senate runoff
+FIFA president open to North Korea hosting World Cup
+r/worldnews and more
+Antonio Brown
+Antonio Brown: Arrest warrant issued for former Pittsburgh Steelers wide receiver
+r/news and more
+Mar-a-Lago Special Master Review
+Appeals court says FBI can use all documents seized in Mar-a-Lago search and ends special master review
 r/politics and more
+Buffalo Bills vs. New England Patriots
+Post Game Thread: Buffalo Bills (9-3) at New England Patriots (6-6)
+r/nfl and more
+Railroad Workers
+The Senate passed it 80 to 15. Railroaders won't get sick pay and any strike by them will be illegal.
+r/antiwork and more
 Cats
-Why is my cat sometimes going randomly into empty room or corridor and starting to meow scream out loud? Literaly I was in toilet and bf was cooking dinner and suddenly our cat decided to cry her soul out in empty room. She was not hurt or anything. Just screaming lmao.
+Is there a reason my cat lays on me and leaves her mouth open anytime I look at her? She looks like a doofus
 r/cats and more
-Vladimir Makei
 Popular posts
 Hot
 Everywhere
 New
 Top
-533k
+22.0k
+r/meirl
+•Posted by
+u/subodh_2302
+3 hours ago
+Join
+Meirl
+1.0k Comments
+Share
+Save
+12.9k
+r/worldnews
+•Posted by
+u/TheTelegraph
+3 hours ago
+Captured documents reveal Russia's plan to annex Ukraine in ten days and kill Zelensky
+Russia/Ukraine
+telegraph.co.uk/world-...
+Join
+820 Comments
+Share
+Save
+17.4k
+r/AskReddit
+•Posted by
+u/PM_ME_URFOOD
+16 hours ago
+2
+Join
+In hindsight, what decision bit people in the ass during the pandemic?
+nsfw
+9.2k Comments
+Share
+Save
+39.9k
+r/news
+•Posted by
+u/phrexleysnipes
+8 hours ago
+4
+Musk says Twitter will suspend Kanye West's account
+Soft paywall
+reuters.com/techno...
+Join
+5.6k Comments
+Share
+Save
+42.3k
+r/antiwork
+•Posted by
+u/summertimeandthe
+16 hours ago
+3
+& 6 More
+Join
+The Senate passed it 80 to 15. Railroaders won't get sick pay and any strike by them will be illegal.
+just a little oppression-- as a treat 
+
+https://www.forbes.com/sites/saradorn/2022/12/01/senate-approves-contract-to-avert-rail-strike-but-denies-unions-request-for-more-sick-leave/?sh=5151c3af7d6b
+
+5.0k Comments
+Share
+Save
+559k
 r/memes
 LIVE
-· 980k players
-46
-55
-& 66 More
+· 1.0m players
+& 174 More
 R/MEMES MEME QUIZ #2
 PREDICTION
-Football or soccer? Most popular option wins.
+Will MrBeast upload a video to his main YouTube channel in the next 7 days?
 You must be logged in
-Football
-Soccer
+Yes
+No
 See What Others Predicted
 PREDICTION
-How many times will Elon Musk tweet on Friday 2nd of December (using GMT +1030 timezone)
+Which of the following fruits will be the 2nd most popular?
 You must be logged in
-0 or 1
-2
-3
-4
-5
-6 or more
+Watermelon 🍉
+Banana 🍌
+Apple 🍎
+Orange 🍊
+Strawberry 🍓
+Pineapple 🍍
 See What Others Predicted
-0 of 3 predicted
-4.2k Comments
+0 of 4 predicted
+4.4k Comments
+Share
+Save
+11.3k
+r/MadeMeSmile
+•Posted by
+u/St0pX
+4 hours ago
+4
+3
+& 2 More
+Mom names her newborn daughter after her best friend
+i.imgur.com/BmXCMy...
+Join
+376 Comments
 Share
 Save
 19.5k
-r/AskReddit
+r/clevercomebacks
 •Posted by
-u/Calm-Hovercraft9858
-13 hours ago
-5
-5
+u/beerbellybegone
+6 hours ago
 Join
-What TV show never had a decline in quality?
-17.1k Comments
-Share
-Save
-17.8k
-r/CFB
-•Posted by
-u/CFB_Referee
-17 hours ago
-4
-2
-& 107 More
-Join
-[Postgame Thread] Michigan Defeats Ohio State 45-23
-Postgame Thread
-
-Box Score provided by ESPN
-
-Team	1	2	3	4	T
-Michigan	3	14	7	21	45
-Ohio State	10	10	0	3	23
-Made with the r/CFB Game Thread Generator
-8.1k Comments
-Share
-Save
-10.8k
-r/WatchPeopleDieInside
-•Posted by
-u/makeliketome
-4 hours ago
-Join
-TV falls off wall as soon as she’s is done mounting it
-783 Comments
-Share
-Save
-9.8k
-r/MurderedByWords
-•Posted by
-u/Sad-Implement-9967
-4 hours ago
-Join
-A horse shit
-66 Comments
-Share
-Save
-19.4k
-r/Funnymemes
-•Posted by
-u/Mammoth_Western_2381
-16 hours ago
-Join
-Pick a name for this movie
-7.8k Comments
+That's what makes him a genius
+611 Comments
 Share
 Save
 Advertisement
