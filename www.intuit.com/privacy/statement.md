@@ -1,9 +1,3 @@
-Privacy and Security
-Your Privacy
-Global Privacy Statement
-Security Center
-FAQ
-Contact Us
 You deserve transparency into our data use
 
 Our privacy statement spells out exactly what we do with your data after you share it with us. It has all the details about what we collect, who we share it with, and how we use it.
@@ -12,6 +6,9 @@ Français
 Français (Canada)
 Español
 Português
+
+Important Update: We are updating our privacy statement effective Jan 1, 2023.  Learn More
+
 Intuit Global Privacy Statement
 
 Last Updated: January 10, 2022
