@@ -1,9 +1,11 @@
 Skip to content
+
 Program Policies
 
 The Chrome Web Store is committed to providing a safe and secure environment for users, built on trust and transparency. For these reasons, the Chrome Web Store requires all developers to comply with both the Developer Program Policies listed below, and the Developer Agreement. When your extension is reviewed by Google, these policies act as a guiding principle for those reviews. These policies apply to the entire user experience of your application/extension/theme – including any marketing materials, user generated content, ads, landing pages, etc – unless otherwise noted.
 
 Documentation
+
 Chrome Web Store Principles
 
 The Chrome Web Store is a premier platform where users can discover and install extensions that are high-quality, trusted, and safe. Chrome strives to reflect the diversity of its developers and users, but will robustly curate the products in the store to ensure a positive experience. As we enhance and improve upon the Chrome Web Store experience, we are guided by the following core principles:
