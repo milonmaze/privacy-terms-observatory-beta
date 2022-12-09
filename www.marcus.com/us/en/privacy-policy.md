@@ -1,6 +1,8 @@
-Thanks for your interest in Marcus by Goldman Sachs®
+Welcome to Marcus!
 
-At the moment, Marcus.com and our products are only available in the US. Depending on your current location, you may be able to access your accounts here if you're a current customer. To inquire about opening new accounts or speak to an agent, call our Contact Center:
+For security purposes, please complete the challenge below and we’ll take you to marcus.com.
+
+If you’re having technical issues, please give us a call.
 
 24 hours a day / 7 days a week.
 
@@ -23,4 +25,4 @@ Marcus Invest customers: 1-833-720-6468
 
 
 
-Please note, if you now reside outside of the US, we will not be able to maintain your Marcus Invest account.
+We apologize for the inconvenience.
