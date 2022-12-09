@@ -134,5 +134,5 @@ Company
 Privacy Policy
 Terms of Use
 Report Security Issues
-Cookie Preferences
+Do Not Sell or Share My Personal Information
 Trademark
