@@ -1,95 +1,102 @@
 Found the internet!
 Trending today
-Reddit Recap
-from Reddit Recap! I'm happy with this result, WHO ELSE GOT THIS?
-r/cats and more
-Kyrsten Sinema
-U.S. Senator Sinema leaves Democratic Party, registers as independent
+Twitter
+Twitter relaunching subscriber service after debacle
 r/news and more
-Donald Trump
-Justice Department asks judge to hold Trump team in contempt over Mar-a-Lago case
-r/politics and more
-Sam Bankman-Fried to Testify
-Sam Bankman-Fried agrees to voluntarily testify at U.S. House hearing on Tuesday
-r/Wallstreetsilver and more
-Tottenham Hotspur F.C.
-[The Athletic] Pochettino: “When I was at PSG, I knew Tottenham would never want to sell Harry. And I never wanted to do anything that would affect Tottenham, because I love Tottenham.”
-r/coys and more
-The Game Awards
-Elden Ring wins Game of The Year at The Game Awards 2022
-r/Eldenring and more
+2022 Heisman Trophy
+USC QB Caleb Williams wins the 2022 Heisman Trophy
+r/CFB and more
+New York Mets
+[SNY]: The Mets are signing Kodai Senga to a 5-year, $75 million deal
+r/baseball and more
+Moon and Mars Occultation
+I used my largest telescope to observe the moon/mars occultation on Wednesday night, and captured this detailed photo. If you zoom in you can see surface details on Mars next to the craters on the moon. It was spectacular and surreal to witness live.
+r/space and more
+Dogs
+I’m 6 days past my due date and she gathered all her favorite toys and gave me these puppy dog eyes
+r/Eyebleach and more
+Kari Lake
 Popular posts
 Hot
 Everywhere
 New
 Top
-9.5k
-r/politics
+15.0k
+r/MechanicalKeyboards
 •Posted by
-u/_NewsClues_
-3 hours ago
-Sinema leaving the Democratic Party and registering as an independent
-cnn.com/2022/1...
+u/drop_official
+23 hours ago
+& 17 More
 Join
-2.0k Comments
+Drop Giveaway Day 1 - 2x Signature Series Skiiboards
+Giveaway
+1/4
+25.9k Comments
 Share
 Save
-8.6k
+4.8k
 r/AskReddit
 •Posted by
-u/alsatian01
+u/Visible-Athlete-3707
+14 hours ago
+Join
+Who is the most Badass fictional character of all time?
+6.5k Comments
+Share
+Save
+32.0k
+r/technology
+•Posted by
+u/777fer
+20 hours ago
+Parents who say their kids won't eat or shower because they're addicted to Fortnite slam Epic Games with lawsuit
+Society
+businessinsider.com/fortni...
+Join
+5.7k Comments
+Share
+Save
+16.2k
+r/meme
+•Posted by
+u/nighthawk0954
 15 hours ago
-2
 Join
-Which celebrities are distractingly attractive?
-11.1k Comments
+Name other you know.
+5.3k Comments
 Share
 Save
-30.2k
-r/cursedcomments
+39.4k
+r/news
 •Posted by
-u/AbisBitch
-6 hours ago
+u/JBupp
+22 hours ago
+Airlines are lobbying for a change to federal regulations that could put one pilot in the cockpit
+cbsnews.com/news/o...
 Join
-Cursed_ArtDegree
-Reddit
-319 Comments
+5.1k Comments
 Share
 Save
-79.9k
-r/pics
+26.8k
+r/meirl
 •Posted by
-u/FarmSuch5021
-18 hours ago
+u/idrawdickks
+13 hours ago
+Join
+Meirl
+4.5k Comments
+Share
+Save
+50.8k
+r/funny
+•Posted by
+u/PhilliesEaglesFlyer
+13 hours ago
 3
-2
-& 27 More
+4
 Join
-Victor Bout aka “The Most Dangerous Man In the World”exchanged for Griner
-11.0k Comments
-Share
-Save
-8.9k
-r/HolUp
-•Posted by
-u/KristaW_
-4 hours ago
-2
-2
-Join
-History repeating
-141 Comments
-Share
-Save
-9.3k
-r/facepalm
-•Posted by
-u/Tarrack_Obama
-4 hours ago
-Join
-0-100 real quick.
- 🇲​🇮​🇸​🇨​
-663 Comments
+I appreciate the extra tip
+4.5k Comments
 Share
 Save
 Advertisement
