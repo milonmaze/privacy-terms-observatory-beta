@@ -1,102 +1,115 @@
 Found the internet!
 Trending today
 Twitter
-Twitter relaunching subscriber service after debacle
-r/news and more
-2022 Heisman Trophy
-USC QB Caleb Williams wins the 2022 Heisman Trophy
-r/CFB and more
-New York Mets
-[SNY]: The Mets are signing Kodai Senga to a 5-year, $75 million deal
-r/baseball and more
-Moon and Mars Occultation
-I used my largest telescope to observe the moon/mars occultation on Wednesday night, and captured this detailed photo. If you zoom in you can see surface details on Mars next to the craters on the moon. It was spectacular and surreal to witness live.
-r/space and more
-Dogs
-I’m 6 days past my due date and she gathered all her favorite toys and gave me these puppy dog eyes
-r/Eyebleach and more
-Kari Lake
+Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs | Twitter has stopped paying rent on offices and is considering not paying severance packages to former employees, among other measures.
+r/technology and more
+Christmas Trees
+Well that’s a weird looking Christmas tree (OC)
+r/aww and more
+Respect for Marriage Act
+‘A blow against hate and all its forms’: Biden signs Respect for Marriage Act, repealing 1996 anti-LGBT+ law
+r/politics and more
+Alexander Ovechkin
+[SportsnetStats] Number of Games to each Alex Ovechkin milestone goal: 0-100 167; 100-200 130; 200-300 178; 300-400 162; 400-500 168; 500-600 190; 600-700 155; 700-800 162
+r/hockey and more
+TikTok Ban Bill
+TikTok would be banned from US “for good” under bipartisan bill
+r/technology and more
+FIFA World Cup
+Lionel Messi to Argentinian paper OLE: "On Sunday I will play my last World Cup match."
+r/soccer and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-15.0k
-r/MechanicalKeyboards
-•Posted by
-u/drop_official
-23 hours ago
-& 17 More
-Join
-Drop Giveaway Day 1 - 2x Signature Series Skiiboards
-Giveaway
-1/4
-25.9k Comments
-Share
-Save
-4.8k
+9.1k
 r/AskReddit
 •Posted by
-u/Visible-Athlete-3707
-14 hours ago
+u/Blippity_09
+13 hours ago
+3
+2
 Join
-Who is the most Badass fictional character of all time?
-6.5k Comments
+Who, in your opinion, is the most overrated band/artist?
+14.4k Comments
 Share
 Save
-32.0k
+65.1k
 r/technology
 •Posted by
-u/777fer
-20 hours ago
-Parents who say their kids won't eat or shower because they're addicted to Fortnite slam Epic Games with lawsuit
-Society
-businessinsider.com/fortni...
+u/pstbo
+21 hours ago
+2
+4
+& 8 More
+U.S. lawmakers unveil bipartisan bid to ban China's TikTok
+Politics
+reuters.com/world/...
 Join
-5.7k Comments
+6.9k Comments
 Share
 Save
-16.2k
-r/meme
+1.7k
+r/MechanicalKeyboards
 •Posted by
-u/nighthawk0954
-15 hours ago
+u/kbdfans
+12 hours ago
 Join
-Name other you know.
-5.3k Comments
+KBDfans Giveaway Day 3 - 6 x PBTfans Keycap Sets
+Giveaway
+1/6
+PBTfans Classic Hangul
+kbdfans.comcollec...
+6.6k Comments
 Share
 Save
-39.4k
-r/news
+24.1k
+r/pcmasterrace
 •Posted by
-u/JBupp
-22 hours ago
-Airlines are lobbying for a change to federal regulations that could put one pilot in the cockpit
-cbsnews.com/news/o...
-Join
-5.1k Comments
-Share
-Save
-26.8k
-r/meirl
-•Posted by
-u/idrawdickks
-13 hours ago
-Join
-Meirl
-4.5k Comments
-Share
-Save
-50.8k
-r/funny
-•Posted by
-u/PhilliesEaglesFlyer
-13 hours ago
+u/MirzEagle
+4 hours ago
 3
 4
 Join
-I appreciate the extra tip
-4.5k Comments
+They are literally the prebuilts target audience, not confusing or worrying them
+Discussion
+897 Comments
+Share
+Save
+41.0k
+r/Funnymemes
+•Posted by
+u/Icy_Difference5753
+16 hours ago
+3
+2
+Join
+Yours free
+5.2k Comments
+Share
+Save
+10.6k
+r/BlackPeopleTwitter
+•Posted by
+u/SoCold40
+10 hours ago
+Join
+What movie left you perplexed?
+Country Club Thread
+4.7k Comments
+Share
+Save
+25.8k
+r/politics
+•Posted by
+u/hzj5790
+21 hours ago
+2
+Lawmakers unveil bipartisan bill that aims to ban TikTok in the U.S.
+cnbc.com/2022/1...
+Join
+2.3k Comments
 Share
 Save
 Advertisement
