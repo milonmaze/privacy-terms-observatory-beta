@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: September 2022 What's new?
+Last Updated: December 2022 What's new?
 Expand All
 Print
 
@@ -29,7 +29,7 @@ Windows
 Entertainment and related services
 Cookies
 
-Most Microsoft sites use cookies, small text files placed on your device which web servers utilize in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
+Most Microsoft sites use cookies, small text files placed on your device which web servers utilize in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide personalized ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
 
 EU-U.S. and Swiss-U.S. Privacy Shield
 
@@ -76,7 +76,7 @@ How to access and control your personal data
 
 You can also make choices about the collection and use of your data by Microsoft. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use. For example, you can:
 
-Control the use of your data for interest-based advertising from Microsoft by visiting our opt-out page.
+Control the use of your data for personalized advertising from Microsoft by visiting our opt-out page.
 Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft.
 Access and clear some of your data through the Microsoft privacy dashboard.
 
