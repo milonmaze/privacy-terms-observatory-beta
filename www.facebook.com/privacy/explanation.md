@@ -1,6 +1,7 @@
 Privacy Policy
+The policy below goes into effect on January 1, 2023. Read our current policy.
 What is the Privacy Policy and what does it cover?
-Effective July 26, 2022 | View printable version | See previous versions
+Effective January 1, 2023 | View printable version | See previous versions
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use Meta Products in the way that’s right for you.
 In the Privacy Policy, we explain how we collect, use, share, retain and transfer information. We also let you know your rights. Each section of the Policy includes helpful examples and simpler language to make our practices easier to understand. We’ve also added links to resources where you can learn more about the privacy topics that interest you.
 It's important to us that you know how to control your privacy, so we also show you where you can manage your information in the settings of the Meta Products you use. You can update these settings to shape your experience.
@@ -25,7 +26,7 @@ For some of these purposes, we use information across our Products and across yo
 To use less information that’s connected to individual users, in some cases we de-identify or aggregate information. We might also anonymize it so that it no longer identifies you. We use this information in the same ways we use your information as described in this section.
 Here are the ways we use your information:
 To provide, personalize and improve our Products
-We use information we have, including any information with special protections you choose to share, to provide and improve our Products. This includes personalizing features, content and recommendations, such as your Facebook Feed, Instagram feed, Stories and ads. We don’t use profile fields about religious views, political views or who you’re “interested in” to show you ads.
+We use information we have to provide and improve our Products. This includes personalizing features, content and recommendations, such as your Facebook Feed, Instagram feed, Stories and ads. We use information with special protections you choose to provide for these purposes, but not to show you ads.
 Read more about how we use information to provide, personalize and improve our Products:
 How we show ads and other sponsored or commercial content
 How we use information to improve our Products
@@ -127,8 +128,8 @@ To promote the safety, security and integrity of Meta Products, users, employees
 We may access or preserve your information for an extended amount of time. Learn more.
 How will you know the policy has changed?
 We'll notify you before we make material changes to this Policy. You’ll have the opportunity to review the revised Policy before you choose to continue using our Products.
-Privacy notice for California residents
-If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California Privacy Notice.
+Privacy notice for United States residents
+You can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice.
 How to contact Meta with questions
 You can learn more about how privacy works on Facebook and on Instagram and in the Facebook Help Center. If you have questions about this Policy or have questions, complaints or requests regarding your information, you can contact us as described below.
 You can contact us online or by mail at:
