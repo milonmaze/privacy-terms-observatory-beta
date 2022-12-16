@@ -3,7 +3,7 @@ Contact Us
 Start free
 Google Cloud Privacy Notice
 
-Effective Date: November 15, 2022
+Effective Date: December 14, 2022
 
 This Google Cloud Privacy Notice describes how we collect and process your personal information in relation to Google Workspace (including Google Workspace for Education), Google Cloud Platform, Cloud Identity (when sold separately) and Implementation Services (together, “Cloud Services”).
 
@@ -11,5 +11,5 @@ We offer Cloud Services to our customers either directly or via our authorized p
 
 If European Union (EU), UK or Swiss data protection law applies to the processing of Service Data relating to you, you can review the ‘EU Privacy Standards and GDPR’ section below to learn more about your rights and Google’s compliance with these laws.
 
-PREVIOUS VERSIONS (Last modified November 15, 2022)
-April 20, 2022 December 7, 2021 May 30, 2021 December 7, 2020 November 12, 2020
+PREVIOUS VERSIONS (Last modified December 14, 2022)
+November 15, 2022 April 20, 2022 December 7, 2021 May 30, 2021 December 7, 2020 November 12, 2020
