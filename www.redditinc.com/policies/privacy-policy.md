@@ -8,8 +8,6 @@ October 15, 2020
 January 10, 2020
 June 8, 2018
 December 12, 2017
-We've updated our Privacy Policy. Please take a look before the changes take effect on December 15, 2022.
-This page is the updated Privacy Policy; for the version effective until December 15, 2022, click here.
 Reddit Privacy Policy
 Effective December 15, 2022. Last Revised November 15, 2022.
 
@@ -160,7 +158,7 @@ You can access your information and change or correct certain information throug
 	
 	
 Deleting Your Account		
-You may delete your account information at any time from the user preferences page. You can also submit a request to delete the personal information Reddit maintains about you by following the process described in the "Your Rights - Data Subject and Consumer Information Requests” section below. When you delete your account, your profile is no longer visible to other users and disassociated from content you posted under that account. Please note, however, that the posts, comments, and messages you submitted prior to deleting your account will still be visible to others unless you first delete the specific content. After you submit a request to delete your account, it may take up to 90 days for our purge script to complete deletion. We may also retain certain information about you as required by law or for legitimate business purposes.
+You may delete your account information at any time from the user preferences page. You can also submit a request to delete the personal information Reddit maintains about you by following the process described below this table. When you delete your account, your profile is no longer visible to other users and disassociated from content you posted under that account. Please note, however, that the posts, comments, and messages you submitted prior to deleting your account will still be visible to others unless you first delete the specific content. After you submit a request to delete your account, it may take up to 90 days for our purge script to complete deletion. We may also retain certain information about you as required by law or for legitimate business purposes.
 
 	
 	
