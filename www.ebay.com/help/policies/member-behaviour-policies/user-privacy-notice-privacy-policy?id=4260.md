@@ -1,4 +1,5 @@
 Skip to main content
+Enter your search term to display live search results. Use TAB key to navigate results.
 1.   Scope and updates of this User Privacy Notice
 2. Controller
 3.  Data protection officer and contact
@@ -143,3 +144,9 @@ Threats and offensive language policy
 Threats, offensive language and hate speech are not allowed on eBay.
 
 2 min article
+Need more help?
+Contact us
+Get the help you need from our automated assistant, or contact an agent
+Other options for you
+Ask the Community
+- opens in new window or tab
