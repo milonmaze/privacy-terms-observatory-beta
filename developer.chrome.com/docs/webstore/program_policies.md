@@ -72,9 +72,13 @@ Misleading or Unexpected Behavior
 
 Ads
 
+Affiliate Ads
+
 More documentation
 
 Deceptive Installation Tactics FAQ
+
+Affiliate Ads FAQ
 
 Building Quality Products
 
