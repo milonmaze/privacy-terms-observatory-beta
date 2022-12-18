@@ -99,3 +99,4 @@ By continuing to browse or by clicking "I Accept", you agree to the storing of f
 
 I Accept
 Cookies Settings
+InstructureCon '23 Early Registration, Be one of our first 1,000 registrants and snag our limited discount rate.REGISTER NOW
