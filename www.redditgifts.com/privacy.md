@@ -1,97 +1,130 @@
 Found the internet!
 Trending today
-Mastodon
-Twitter Suspends Accounts For Rival Mastodon And Several High-Profile Journalists
-r/technology and more
-Puerto Rico
-House passes bill allowing Puerto Rico to vote on statehood, independence
-r/UpliftingNews and more
-Harry & Meghan
-The Cringeworthy End of 'Harry & Meghan' on Netflix
-r/entertainment and more
-Berlin Aquarium
-World's largest freestanding cylindrical aquarium bursts in Berlin
+Volodymyr Zelenskyy
+The message President Zelensky wanted to share during the World Cup final. FIFA refused to broadcast it, so here it is for all to hear.
+r/worldcup and more
+Elon Musk
+Student tracking Elon Musk’s jet defends his program, considers legal threat a bluff
+r/news and more
+BLAST Premier: World Final
+m0NESY is the HLTV MVP of BLAST Premier World Final 2022!
+r/GlobalOffensive and more
+Mr. Olympia 2022
+Iranian, Hadi Choopan Is The 2022 Mr. Olympia Champion and has dedicated his gold medal to the women of Iran
 r/worldnews and more
-Tyler Lockett
-Tyler Lockett broken bone in his hand, “legit”, Pete Carroll says
-r/fantasyfootball and more
-Donald Trump
-House Democrats introduce legislation to bar Trump from office under 14th Amendment
+Jan. 6 Committee
+Trump Ominously Evokes Jan. 6, Tells Backers It's Time To 'Deal With' FBI, DOJ 'Thugs'
 r/politics and more
+Cecily Strong
+Cecily Strong Leaving ‘Saturday Night Live’
+r/television and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-16.3k
+25.9k
 r/AskReddit
 •Posted by
-u/AbelNB
-19 hours ago
-5
+u/CuriousAnimeNerd
+1 day ago
 4
-26
+5
+& 4 More
 Join
-What TV Show had the worst ending?
-18.3k Comments
+If you had the ability to bring back a Canceled Series what would it be?
+37.9k Comments
 Share
 Save
-586k
-r/memes
-LIVE
-· 1.1m players
-& 191 More
-R/MEMES MEME QUIZ #2
-PREDICTION
-Which country will win the FIFA World Cup 2022 Final?
-You must be logged in
-Argentina
-France
-See What Others Predicted
-PREDICTION
-What's the most popular way to pronounce "data"? The option with the most votes wins!
-You must be logged in
-Dah-tuh
-Day-tuh
-Other
-See What Others Predicted
-0 of 2 predicted
-4.7k Comments
-Share
-Save
-2.3k
-r/MechanicalKeyboards
+14.1k
+r/aww
 •Posted by
-u/relaxman666
-10 hours ago
+u/iklegemma
+5 hours ago
 Join
-[IQUNIX Giveaway] - 2 x Q66 Series Keyboards
-Giveaway
-1/4
-iqunix.storecollec...
-8.3k Comments
+Arctic hares are very cute in a snowball type of way.
+133 Comments
 Share
 Save
-Vote
-r/MadeMeSmile
+18.1k
+r/news
 •Posted by
-u/Parker1055
-2 hours ago
+u/graveaffairsod
+6 hours ago
+Student tracking Elon Musk’s jet defends his program, considers legal threat a bluff
+abcnews.go.com/Busine...
 Join
-The future is bright. Brick mailbox built by a student in masonry class
- Good Vibes 
-251 Comments
+978 Comments
 Share
 Save
-18.2k
+7.6k
+r/ukraine
+•Posted by
+u/TinyStrawberry23
+4 hours ago
+2
+4
+Join
+The message President Zelensky wanted to share during the World Cup final. FIFA refused to broadcast it, so here it is for all to hear.
+Social Media
+188 Comments
+Share
+Save
+39.5k
+r/pics
+•Posted by
+u/GhostofHmsVictory
+22 hours ago
+3
+3
+Join
+The new American section in a nearby shop
+SEE FULL IMAGE
+7.6k Comments
+Share
+Save
+9.5k
 r/facepalm
 •Posted by
-u/seanmashitoshi
-4 hours ago
+u/MachersHouse
+5 hours ago
 Join
-Elon Musk's poll doesn't go as planned so he redoes it and it goes even worse. When will they learn vote recounts don't go in their favor?
+I don't get how calling someone something they want to be called is an issue
  🇲​🇮​🇸​🇨​
+429 Comments
+Share
+Save
+11.4k
+r/Damnthatsinteresting
+•Posted by
+u/thefloatingidea
+5 hours ago
+Join
+How Irish ☕ is made.
+Video
 898 Comments
+Share
+Save
+28.9k
+r/news
+•Posted by
+u/monolitikw
+17 hours ago
+Ohio teacher told principal using students' preferred pronouns violated her religion. She was forced to resign, lawsuit says
+nbcnews.com/news/u...
+Join
+3.2k Comments
+Share
+Save
+5.7k
+r/nottheonion
+•Posted by
+u/Le_Rat_Mort
+7 hours ago
+TSA uncovers more than 6,000 guns at American airports, with 88 per cent loaded
+abc.net.au/news/2...
+Join
+398 Comments
 Share
 Save
 Advertisement
