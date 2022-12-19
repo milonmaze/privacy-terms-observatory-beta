@@ -1,130 +1,96 @@
 Found the internet!
 Trending today
-Volodymyr Zelenskyy
-The message President Zelensky wanted to share during the World Cup final. FIFA refused to broadcast it, so here it is for all to hear.
-r/worldcup and more
-Elon Musk
-Student tracking Elon Musk’s jet defends his program, considers legal threat a bluff
-r/news and more
-BLAST Premier: World Final
-m0NESY is the HLTV MVP of BLAST Premier World Final 2022!
-r/GlobalOffensive and more
-Mr. Olympia 2022
-Iranian, Hadi Choopan Is The 2022 Mr. Olympia Champion and has dedicated his gold medal to the women of Iran
+Russia-Ukraine War
+Russian oligarchs believe Putin tricked them into appearing to support the war in Ukraine, and got them all sanctioned, report says
 r/worldnews and more
-Jan. 6 Committee
-Trump Ominously Evokes Jan. 6, Tells Backers It's Time To 'Deal With' FBI, DOJ 'Thugs'
-r/politics and more
-Cecily Strong
-Cecily Strong Leaving ‘Saturday Night Live’
-r/television and more
+FIFA World Cup Final
+This footage of the celebrations in Buenos Aires after Argentina won the World Cup
+r/interestingasfuck and more
+Elon Musk
+Elon Musk blamed a Twitter account for a stalker. Police see no link.
+r/news and more
+Hanukkah
+[OC] Happy Hanukkah from the bestest Jewish boi!
+r/aww and more
+Lionel Messi
+Messi and Maradona, 36 years apart.
+r/soccer and more
+NY Giants vs. Washington Commanders
+Post Game Thread: New York Giants (8-5-1) at Washington Commanders (7-6-1)
+r/nfl and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-25.9k
-r/AskReddit
-•Posted by
-u/CuriousAnimeNerd
-1 day ago
-4
-5
-& 4 More
-Join
-If you had the ability to bring back a Canceled Series what would it be?
-37.9k Comments
-Share
-Save
-14.1k
-r/aww
-•Posted by
-u/iklegemma
-5 hours ago
-Join
-Arctic hares are very cute in a snowball type of way.
-133 Comments
-Share
-Save
-18.1k
-r/news
-•Posted by
-u/graveaffairsod
-6 hours ago
-Student tracking Elon Musk’s jet defends his program, considers legal threat a bluff
-abcnews.go.com/Busine...
-Join
-978 Comments
-Share
-Save
-7.6k
-r/ukraine
-•Posted by
-u/TinyStrawberry23
-4 hours ago
-2
-4
-Join
-The message President Zelensky wanted to share during the World Cup final. FIFA refused to broadcast it, so here it is for all to hear.
-Social Media
-188 Comments
-Share
-Save
-39.5k
+134k
 r/pics
 •Posted by
-u/GhostofHmsVictory
-22 hours ago
-3
-3
+u/CressCrowbits
+19 hours ago
+& 41 More
 Join
-The new American section in a nearby shop
-SEE FULL IMAGE
+Elon Musk hanging out with Jared Kushner at the World Cup Final in Qatar
 7.6k Comments
 Share
 Save
-9.5k
-r/facepalm
+94.2k
+r/meirl
 •Posted by
-u/MachersHouse
-5 hours ago
+u/Jimbo072
+21 hours ago
+4
+8
+4
 Join
-I don't get how calling someone something they want to be called is an issue
- 🇲​🇮​🇸​🇨​
-429 Comments
+meirl
+6.0k Comments
 Share
 Save
-11.4k
-r/Damnthatsinteresting
+27.5k
+r/WhitePeopleTwitter
 •Posted by
-u/thefloatingidea
-5 hours ago
+u/Travismatthew08
+19 hours ago
+4
 Join
-How Irish ☕ is made.
-Video
-898 Comments
+Serious Question....
+10.0k Comments
 Share
 Save
-28.9k
-r/news
-•Posted by
-u/monolitikw
-17 hours ago
-Ohio teacher told principal using students' preferred pronouns violated her religion. She was forced to resign, lawsuit says
-nbcnews.com/news/u...
-Join
-3.2k Comments
+596k
+r/memes
+LIVE
+· 1.1m players
+& 193 More
+R/MEMES MEME QUIZ #2
+PREDICTION
+Will this be the last predictions question for the r/Memes Meme Quiz #2 Tournament?
+You must be logged in
+Yes
+No
+See What Others Predicted
+PREDICTION
+What's the most popular way to pronounce "data"? The option with the most votes wins!
+You must be logged in
+Dah-tuh
+Day-tuh
+Other
+See What Others Predicted
+0 of 2 predicted
+4.7k Comments
 Share
 Save
-5.7k
-r/nottheonion
+23.2k
+r/entertainment
 •Posted by
-u/Le_Rat_Mort
-7 hours ago
-TSA uncovers more than 6,000 guns at American airports, with 88 per cent loaded
-abc.net.au/news/2...
+u/Zhukov-74
+21 hours ago
+& 11 More
+JK Rowling Mocks Trans Gamer For ‘Hogwarts Legacy’ Comments
+forbes.com/sites/...
 Join
-398 Comments
+4.3k Comments
 Share
 Save
 Advertisement
