@@ -1,6 +1,6 @@
 Cloudflare Cookie Policy
 
-Last Updated: August 29, 2022
+Last Updated: December 20, 2022
 
 This Cloudflare Cookie Policy (“Policy”) outlines the general policy, practices, and types of cookies that Cloudflare, Inc. (“Cloudflare,” “we,” “us,” or “our”) may use to improve our Services and your experience when visiting our Websites. For the purposes of this Policy, capitalized terms used but not defined in this Policy have the meanings given in our Privacy Policy.
 
@@ -10,7 +10,7 @@ Cookies are small pieces of text used to store information on web browsers. They
 
 We also may include tracking pixels, which are small graphic images, in our marketing communications to determine engagement. These cookies may be set by us or by third parties with whom we have partnered to assist in our marketing efforts. We may also use our Zaraz product in connection with certain third-party tools on our Websites. Zaraz loads third-party tools in the cloud using the Cloudflare network, as opposed to running third-party scripts in an end user’s browsers, and improves the speed and security of websites while offering greater control over the data that third-party tools access. While Zaraz prevents the third-party scripts from loading on your browser, in some cases you may still see third-party cookies that are associated with these third-party tools placed on your devices (subject to your consent). This allows the third-party tools to function properly.
 
-We use four categories of cookies: Strictly Necessary, Functional, Performance, and Targeting. Strictly Necessary cookies are required to deliver security and enable core site functionality and cannot be turned off. You may view a complete list of cookies and change your cookie preferences by clicking on the “Cookie Preferences” link in the footer of the Cloudflare homepage at cloudflare.com.
+We use four categories of cookies: Strictly Necessary, Functional, Performance, and Targeting. Strictly Necessary cookies are required to deliver security and enable core site functionality and cannot be turned off. You may view a complete list of cookies and change your cookie preferences by clicking on the “Cookie Preferences” or “Do Not Sell or Share My Personal Information” links in the footer of the Cloudflare homepage at cloudflare.com.
 
 Most web browsers are set to accept cookies by default, however, you may be able to delete cookies yourself through your browser’s cookie manager. To do so, please follow the instructions provided by your web browser. Please note that disabling cookies will reset your session, disable auto-login, and may adversely affect the availability and functionality of our Websites and the services we can provide to you.
 
@@ -44,9 +44,11 @@ Targeting.
 
 These third-party cookies are placed by third-party advertising platforms or networks to collect information about your visits to and actions on certain pages of our Websites so that they can deliver ads for relevant Cloudflare products and services to you later, such as when you are on certain third-party sites. These cookies also track ad performance.
 
-We do not sell, rent, or share personal information with third parties as defined under the California Consumer Privacy Act of 2018 (California Civil Code Sec. 1798.100 et seq.), nor do we do not sell, rent, or share personal information with third parties for their direct marketing purposes as defined under California Civil Code Sec. 1798.83. We do permit third parties to collect personal information as described in our Privacy Policy for the business purposes described here.
+Cloudflare does not sell your Personal Information in the conventional sense (i.e., for money). Like many companies, however, we use services that help deliver interest-based ads to you and may transfer Personal Information to business partners for their use. Making Personal Information (such as online identifiers or browsing activity) available to these companies may be considered a “sale” or “sharing” of your Personal Information under the California Consumer Privacy Act of 2018 (California Civil Code Sec. 1798.100 et seq.).
 
-You may opt out of Targeting cookies through the Cookie Preferences link on cloudflare.com or through the links listed below. If you wish to opt-out of cookies that collect information to serve you interest-based ads generally, you may opt-out by clicking here (or if located in the European Union or United Kingdom, click here).
+We do not sell, rent, or share personal information with third parties for their direct marketing purposes as defined under the California Shine the Light Act (Civil Code Sec. 1798.83). We do permit third parties to collect personal information as described in our Privacy Policy for the business purposes described here.
+
+You may opt out of Targeting cookies through the "Cookie Preferences" or “Do Not Sell or Share My Personal Information” links on cloudflare.com or through the links listed below. If you wish to opt-out of cookies that collect information to serve you interest-based ads generally, you may opt-out by clicking here (or if located in the European Union or United Kingdom, click here).
 
 Some of the Targeting cookies we use are:
 
