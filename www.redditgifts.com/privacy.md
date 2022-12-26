@@ -1,105 +1,98 @@
 Found the internet!
 Trending today
-Prince Andrew
-'He's on his own': King Charles ousts Prince Andrew from Buckingham Palace
-r/worldnews and more
-Greg Abbott
-Greg Abbott slammed as thousands lose power in Texas during bomb cyclone
-r/politics and more
-TikTok Spying
-TikTok admits to spying on U.S. users as effort to ban the app heats up
-r/Futurology and more
-Volodymyr Ezhov
-RIP S.T.A.L.K.E.R game developer Volodymyr Ezhov - involved in the creation of Alexander (RTS/RPG from 2004), Cossacks 2 (RTS, 2005), Heroes of Annihilated Empires and STALKER: Clear Sky (2008) - has been killed in Ukraine Reportedly in Bakhmut
-r/pcmasterrace and more
-Las Vegas Raiders vs. Pittsburgh Steelers
-Post Game Thread: Las Vegas Raiders (6-9) at Pittsburgh Steelers (7-8)
+Boxing Day
+It's a boxing day tradition.
+r/australia and more
+Russell Wilson
+[Highlight] Russell Wilson overcooks a pass
 r/nfl and more
-Christmas
-I’m the Talk of Every Christmas Party Thanks to This Little Hat! How Do YOU Think It Stays in Place?
-r/funny and more
+Ukraine
+Today, Ukraine will officially raise the issue of excluding the Russian Federation from the UN Security Council, – the head of the Ministry of Foreign Affairs of Ukraine, Dmytro Kuleba.
+r/ukraine and more
+COVID-19
+'The ICU is full': frontline workers of China's COVID fight say hospitals are 'overwhelmed'
+r/Coronavirus and more
+Premier League
+This Premier league poster represents Kerala
+r/Kerala and more
+Taiwan
 Popular posts
 Hot
 Everywhere
 New
 Top
-24.6k
+41.0k
 r/AskReddit
 •Posted by
-u/DoubleDDay69
-22 hours ago
-2
-3
+u/ViForYourAttention
+23 hours ago
+& 15 More
 Join
-What does Europe have that North America does not?
-22.8k Comments
+What screams “I’m a bad parent”?
+21.0k Comments
 Share
 Save
-10.6k
+5.1k
 r/movies
 •Posted by
-u/Jeff_Souza
-20 hours ago
-4
+u/Farts_Mckenzie
+16 hours ago
+2
 Join
-What movie has the perfect soundtrack?
+What was the worst movie that you saw in theatres?
 Discussion
 
-Many franchises are considered to have the most remarkable soundtracks(hp,lotr,sw...) but at the same time the composers of the songs that follow the story have all an unique style for creating the themes that are part of the film.
+For me, the answer would be, without a doubt; Lady in the Water.
 
-The composer that is considered as the father of all movie songs(at least for most people) is john willians. Probably because he was the one who revolutionized the cinema history by founding the genre 'space opera' together with George Lucas. However, there are musicians who made exceptional jobs like howard shore or hans zimmer(this one is probably the closest to the geniality of willians) that for some people are more remarkable than willians.
+It was the last nail in the coffin for me in terms of my hope that M. Night Shamylam could have a rebound after his fall from grace. The plot (im being liberal with the use of the word plot) was garbage, the idea was garbage, the execution was garbage and M. Night casts himself as a prophet in it. Aside from a few moments of unintentional comedy, it had no redeeming qualities. I got my money back for it despite having sat through all of it. The guy at the counter didnt even ask follow up questions, he was so used to doing it for that movie im guessing.
 
-For me, something that really has a big weight on forming this kind of opinion is the nostalgia relationed to the movie at the time the person watched it(like childhood or teenage years).
+What was the worst movie that you ever saw in theatres?
 
-So, what movie has the best soundtrack ever for you?
-
-16.7k Comments
+9.5k Comments
 Share
 Save
-45.4k
-r/mildlyinfuriating
+47.4k
+r/WhitePeopleTwitter
 •Posted by
-u/Eightsevenfox
-16 hours ago
-4
-4
-Join
-Went shopping today, found these in the child seat of the cart I grabbed.
-SEE FULL IMAGE
-7.4k Comments
-Share
-Save
-65.6k
-r/funny
-•Posted by
-u/whole_farted
-18 hours ago
+u/Obvious_Chapter2082
+19 hours ago
 2
+3
+& 3 More
+Join
+Women, what would you do?
+7.8k Comments
+Share
+Save
+52.2k
+r/terriblefacebookmemes
+•Posted by
+u/The_Law_Dong739
+22 hours ago
+Join
+Thanks grandpa.
+6.8k Comments
+Share
+Save
+21.5k
+r/MurderedByWords
+•Posted by
+u/beerbellybegone
+5 hours ago
+Join
+Checkmate, atheists!
+912 Comments
+Share
+Save
+19.4k
+r/Unexpected
+•Posted by
+u/DontCareHowICallMe
+5 hours ago
 2
 Join
-My white elephant gift. Can you guess what it is?
-5.1k Comments
-Share
-Save
-9.1k
-r/OldSchoolCool
-•Posted by
-u/hankmeisterr
-4 hours ago
-Join
-Kids in 1986 and 2021
-299 Comments
-Share
-Save
-42.5k
-r/politics
-•Posted by
-u/vpuetf
-14 hours ago
-Greg Abbott slammed as thousands lose power in Texas during bomb cyclone
-newsweek.com/greg-a...
-Join
-3.0k Comments
+Normal day in Russia
+898 Comments
 Share
 Save
 Advertisement
