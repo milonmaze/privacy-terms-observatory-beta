@@ -1,98 +1,87 @@
 Found the internet!
 Trending today
-Boxing Day
-It's a boxing day tradition.
-r/australia and more
-Russell Wilson
-[Highlight] Russell Wilson overcooks a pass
-r/nfl and more
-Ukraine
-Today, Ukraine will officially raise the issue of excluding the Russian Federation from the UN Security Council, – the head of the Ministry of Foreign Affairs of Ukraine, Dmytro Kuleba.
-r/ukraine and more
-COVID-19
-'The ICU is full': frontline workers of China's COVID fight say hospitals are 'overwhelmed'
-r/Coronavirus and more
-Premier League
-This Premier league poster represents Kerala
-r/Kerala and more
-Taiwan
+Luka Doncic
+[Highlight] Luka Doncic intentionally misses the FT and hits the miracle game tying shot with 1 second left
+r/nba and more
+George Santos
+Congressman-elect George Santos faces increasing calls to resign
+r/politics and more
+Pope Benedict XVI
+Former Pope Benedict is 'very sick', Pope Francis says
+r/news and more
+Ukraine Peace Talks
+Kremlin says any Ukraine peace plan must include annexed regions
+r/worldnews and more
+Southwest Airlines
+Buttigieg calls for accountability as Southwest cancellation ‘meltdown’ worsens
+r/politics and more
+Jo Mersa Marley
+Jo Mersa Marley, Grandson of Bob Marley and Son of Stephen, Dead at 31
+r/entertainment and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-41.0k
+27.3k
 r/AskReddit
 •Posted by
-u/ViForYourAttention
-23 hours ago
-& 15 More
+u/FriendshipSeveral511
+14 hours ago
+4
+7
 Join
-What screams “I’m a bad parent”?
-21.0k Comments
+You’ve just won $250 million and it’s been deposited in your bank account, what are you going to do today?
+21.6k Comments
 Share
 Save
-5.1k
-r/movies
+24.4k
+r/pcmasterrace
 •Posted by
-u/Farts_Mckenzie
-16 hours ago
+u/Exotic-Architect
+22 hours ago
+2
+& 4 More
+Join
+What browser will you be using in 2023? Please justify your choice.
+Discussion
+9.9k Comments
+Share
+Save
+50.5k
+r/PublicFreakout
+•Posted by
+u/quazziwazzi
+22 hours ago
+2
 2
 Join
-What was the worst movie that you saw in theatres?
-Discussion
-
-For me, the answer would be, without a doubt; Lady in the Water.
-
-It was the last nail in the coffin for me in terms of my hope that M. Night Shamylam could have a rebound after his fall from grace. The plot (im being liberal with the use of the word plot) was garbage, the idea was garbage, the execution was garbage and M. Night casts himself as a prophet in it. Aside from a few moments of unintentional comedy, it had no redeeming qualities. I got my money back for it despite having sat through all of it. The guy at the counter didnt even ask follow up questions, he was so used to doing it for that movie im guessing.
-
-What was the worst movie that you ever saw in theatres?
-
-9.5k Comments
+poor guy is refused his prescription because hes paying in coin rolls. says its his only form of payment at the time
+Justified Freakout
+7.3k Comments
 Share
 Save
-47.4k
-r/WhitePeopleTwitter
+38.5k
+r/therewasanattempt
 •Posted by
-u/Obvious_Chapter2082
+u/Bruggilles
 19 hours ago
 2
-3
-& 3 More
+& 9 More
 Join
-Women, what would you do?
-7.8k Comments
+to make a music video
+5.3k Comments
 Share
 Save
-52.2k
-r/terriblefacebookmemes
+9.4k
+r/fuckcars
 •Posted by
-u/The_Law_Dong739
-22 hours ago
+u/frontendben
+3 hours ago
 Join
-Thanks grandpa.
-6.8k Comments
-Share
-Save
-21.5k
-r/MurderedByWords
-•Posted by
-u/beerbellybegone
-5 hours ago
-Join
-Checkmate, atheists!
-912 Comments
-Share
-Save
-19.4k
-r/Unexpected
-•Posted by
-u/DontCareHowICallMe
-5 hours ago
-2
-Join
-Normal day in Russia
-898 Comments
+Carbrain Andrew Tate taunts Greta Thunberg on Twitter. Greta doesn't hold back in her response.
+Carbrain
+760 Comments
 Share
 Save
 Advertisement
