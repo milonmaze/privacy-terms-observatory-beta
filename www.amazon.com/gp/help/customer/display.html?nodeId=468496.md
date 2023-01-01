@@ -6,7 +6,7 @@ Find more solutions
 Security and Privacy  ›  Legal Policies  › 
 Amazon.com Privacy Notice
 
-Last updated: June 29, 2022. To see prior version, click here.
+Last updated: January 1, 2023. To see prior version, click here.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.
 
@@ -20,7 +20,7 @@ What Information Can I Access?
 What Choices Do I Have?
 Are Children Allowed to Use Amazon Services?
 EU-US and Swiss-US Privacy Shield
-California Consumer Privacy Act
+Additional State-Specific Privacy Disclosures
 Conditions of Use, Notices, and Revisions
 Related Practices and Information
 Examples of Information Collected
@@ -32,7 +32,7 @@ We collect your personal information in order to provide and continually improve
 Here are the types of personal information we collect:
 
 Information You Give Us: We receive and store any information you provide in relation to Amazon Services. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our Amazon Services.
-Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content and services available through Amazon Services. Like many websites, we use "cookies" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites. Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with. Click here to see examples of what we collect.
+Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services. Like many websites, we use "cookies" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites. Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with. Click here to see examples of what we collect.
 Information from Other Sources: We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily. Click here to see additional examples of the information we receive.
 For What Purposes Does Amazon Use Your Personal Information?
 
@@ -103,13 +103,13 @@ EU-US and Swiss-US Privacy Shield
 
 Amazon.com, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click here to learn more.
 
-California Consumer Privacy Act
+Additional State-Specific Privacy Disclosures
 
-Click here to read additional disclosures required under the California Consumer Privacy Act.
+Click here to read additional state-specific privacy disclosures as required under applicable laws.
 
 Conditions of Use, Notices, and Revisions
 
-If you choose to use Amazon Services, your use and any dispute over privacy is subject to this Notice and our Conditions of Use , including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice will change also. You should check our websites frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+If you choose to use Amazon Services, your use and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice will change also. You should check our websites frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 Related Practices and Information
 
@@ -206,9 +206,9 @@ your content, devices, services, and related settings, and communications and pe
 content that you recently viewed;
 voice recordings associated with your account;
 Your Profile (including your product Reviews, Recommendations, Reminders and personal profile);
-If you are a seller, you can access your account and other information, and adjust your communications preferences, by updating your account in Seller Central .
+If you are a seller, you can access your account and other information, and adjust your communications preferences, by updating your account in Seller Central.
 If you are an author, you can access your account and other information, and update your accounts, on the Kindle Direct Publishing (KDP) or Author Central website, as applicable.
-If you are a developer participating in our Developer Services Program, you can access your account and other information, and adjust your communications preferences, by updating your accounts in the Developer Services Portal .
+If you are a developer participating in our Developer Services Program, you can access your account and other information, and adjust your communications preferences, by updating your accounts in the Developer Services Portal.
 
 Was this information helpful?
 
