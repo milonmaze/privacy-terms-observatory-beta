@@ -381,7 +381,7 @@ Platform Terms
 Developer Policies
 European Commission Commitments
 Follow Us
-© 2022 Meta
+© 2023 Meta
 About
 Create Ad
 Careers
