@@ -716,4 +716,4 @@ Ad Choices
 Cookie Policy
 Partners
 Affiliates
-© 2022 Twitch Interactive, Inc.
+© 2023 Twitch Interactive, Inc.
