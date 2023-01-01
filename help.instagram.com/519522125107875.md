@@ -1,5 +1,4 @@
 Privacy Policy
-The policy below goes into effect on January 1, 2023. Read our current policy.
 What is the Privacy Policy and what does it cover?
 Effective January 1, 2023 | View printable version | See previous versions
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use Meta Products in the way that’s right for you.
