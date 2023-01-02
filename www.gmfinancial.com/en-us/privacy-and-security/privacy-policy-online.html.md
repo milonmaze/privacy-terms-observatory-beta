@@ -152,7 +152,12 @@ You may make changes to the information that you provide to us on the MyAccount 
  
 Do Not Track
 
-Certain web browsers may provide an option by which you may have the browser inform websites or internet services you visit that you do not wish to have your activities tracked by cookies or other persistent identifiers across time and across third-party internet websites, online or cloud computing services, online applications, or mobile applications. These are commonly called "Do Not Track" signals. At this time, the Site does not honor Do Not Track signals from web browsers because it may diminish the optimal performance of the Site. However, you may refuse or delete cookies. Please refer to your browser’s Help instructions to learn more about cookies and other technologies, and how to manage their use. If you do elect to refuse or delete cookies, you will need to repeat this process if you use another computer or change browsers. If you choose to decline cookies, some of the functionalities of websites may be impaired.
+Certain web browsers may provide an option by which you may have the browser inform websites or internet services you visit that you do not wish to have your activities tracked by cookies or other persistent identifiers across time and across third-party internet websites, online or cloud computing services, online applications, or mobile applications. These are commonly called "Do Not Track" signals. At this time, the Site does not honor Do Not Track signals from web browsers because it may diminish the optimal performance of the Site. However, you may refuse or delete cookies. Please refer to your browser’s Help instructions to learn more about cookies and other technologies, and how to manage their use. If you do elect to refuse or delete cookies, you will need to repeat this process if you use another computer or change browsers. If you choose to decline cookies, some of the functionalities of websites may be impaired..
+
+GM Financial processes Global Privacy Control preference signals. GM Financial applies the Global Privacy Control signal at the browser level. 
+Effective Date
+
+This Privacy Policy is effective as of January 1, 2023.
 
  
 Security
@@ -179,6 +184,6 @@ We may modify this Privacy Policy at any time. If we do, we will post the revise
  
 Effective Date
 
-This Privacy Policy is effective as of April 27, 2022.
+This Privacy Policy is effective as of January 1, 2023.
 
 Feedback
