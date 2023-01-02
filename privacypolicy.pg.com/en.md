@@ -37,45 +37,45 @@ We use data to help customize your experience with more products and offers rele
 
 Privacy Policy
 
-Updated October 14, 2022
+Updated December 30, 2022
 
 Download a copy of this Privacy Policy (PDF)
 
 FAQ
 
-Commonly asked questions about how we collect, store and use your data.
+Commonly asked questions about how we collect, store and use your personal data, as defined in applicable laws.
 
-Do we sell your personal information for monetary compensation?
+Do we sell your personal data for monetary compensation?
 
 No
 
-Do we share your data with third party partners?
+Do we disclose your personal data to third-party partners?
 
 Yes
 
-Do we receive information from other companies you have given data permission to?
+Do we receive personal data from other companies you have given permission to?
 
 Yes
 
-Do we use your information for better product recommendations and site experiences?
+Do we use your personal data for better product recommendations and site experiences?
 
 Yes
 
-Do we give you control of your data?
+Do we give you control of your personal data?
 
 Yes
 
-How You Control Your Data
+How You Control Your Personal Data
 
-How We Gather & Use Data
+How We Gather & Use Personal Data
 
-How We Share Data
+How We Disclose Data
 
 Types of Data We Collect
 
 Children and Personal Data
 
-How Your Information Stays Safe
+How We Protect Your Information
 
 International Transfers
 
