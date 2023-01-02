@@ -95,8 +95,9 @@ CHANGES TO THIS PRIVACY POLICY. Instructure may change this Privacy Policy from 
 
  
 
+InstructureCon '23 Early Registration, Be one of our first 1,000 registrants and snag our limited discount rate.REGISTER NOW
+
 By continuing to browse or by clicking "I Accept", you agree to the storing of first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.Privacy Policy
 
 I Accept
 Cookies Settings
-InstructureCon '23 Early Registration, Be one of our first 1,000 registrants and snag our limited discount rate.REGISTER NOW
