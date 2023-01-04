@@ -52,7 +52,7 @@ Yes
 No
 ‹ All Help Topics
 Security and Privacy
-California Consumer Privacy Act Disclosures
+Additional State-Specific Privacy Disclosures
 How Amazon Uses Your Personal Information
 How Amazon Collects Your Personal Information
 How Amazon Protects Your Personal Information
@@ -67,7 +67,7 @@ Law Enforcement Information Requests
 Communications from Amazon.com
 Legal Policies
 Your Security
-Report Unsolicited Packages or Brushing Scams
+Report Unsolicited Package or Brushing Scams
 Quick solutions
 	
 
