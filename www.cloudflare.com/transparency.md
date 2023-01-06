@@ -62,7 +62,7 @@ Support
 
 Company
 
-© 2022 Cloudflare, Inc.
+© 2023 Cloudflare, Inc.
 Privacy Policy
 Terms of Use
 Report Security Issues
