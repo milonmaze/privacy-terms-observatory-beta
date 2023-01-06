@@ -18,7 +18,7 @@ Strictly Necessary Cookies.
 
 Strictly Necessary cookies are essential to providing the Cloudflare Websites and Services to you and cannot be turned off. They provide necessary security settings or help you use our Websites’ features and Services as expected (including remembering your cookie consent preferences). Cloudflare places Strictly Necessary cookies both on Cloudflare Websites as well as on our Customers’ websites.
 
-For example, when you visit our Websites or our Customers’ websites, as part of our Services, we may place bot detection cookies (such as "_cf_bm" and cookies for CAPTCHA), and a load balancing cookie (_cflb) on the computers of visitors to our Websites and of our End Users. We do this in order to identify malicious visitors to our Websites and our Customers’ websites, to assist with web-traffic filtration, and to reduce the chance of blocking legitimate users. You can learn more about these cookies[here](https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies). You cannot turn off Strictly Necessary cookies.
+For example, when you visit our Websites or our Customers’ websites, as part of our Services, we may place bot detection cookies (such as "_cf_bm" and cookies for CAPTCHA), and a load balancing cookie (_cflb) on the computers of visitors to our Websites and of our End Users. We do this in order to identify malicious visitors to our Websites and our Customers’ websites, to assist with web-traffic filtration, and to reduce the chance of blocking legitimate users. You can learn more about these cookies [here]. You cannot turn off Strictly Necessary cookies.
 
 Functional Cookies.
 
@@ -132,7 +132,7 @@ Support
 
 Company
 
-© 2022 Cloudflare, Inc.
+© 2023 Cloudflare, Inc.
 Privacy Policy
 Terms of Use
 Report Security Issues
