@@ -25,6 +25,16 @@ Other uses of location information may include determining the appropriate langu
 
 Yahoo may classify your location as "Current" and/or "Favorite" locations. Visit our Location Help Page to learn more.
 
+Determining Your Legal Jurisdiction
+
+Yahoo uses your location information and other available signals to determine your legal jurisdiction in order to comply with applicable laws. In many cases, this determination is made by analyzing the IP address that is sent from your browser or mobile device. Yahoo may also consider or use your registration information (including billing information), the region-specific version of the product you are using (e.g., regional homepages for yahoo.com), cookie and/or mobile device identifiers, GPS coordinates, and related “device locale” information provided by your browser or mobile device. In cases where Yahoo provides services to third parties, Yahoo may rely on information provided by business partners. Note that Yahoo will retain, use, combine, and reconcile some or all of these signals over time for the purpose of determining your applicable legal jurisdiction.
+
+If you connect to Yahoo or its services through a VPN, proxy server, or other method that blocks or redacts any of the above information, Yahoo may not be able to accurately determine your legal jurisdiction, which may affect Yahoo’s ability to provide requested services or honor certain privacy rights.
+
+Use of Precise Geolocation information in Virginia
+
+The Virginia Consumer Data Protection Act requires consent for the collection of precise location data for certain commercial uses. Yahoo honors this legal requirement by truncating latitude and longitude coordinate information from geolocation data that falls within the state of Virginia to convert the data into imprecise location data. Virginia residents do not need to manage or effectuate their Precise Location Information opt-out in Yahoo’s Privacy Dashboard to receive this privacy protection.
+
 Sharing of Information
 
 Yahoo and its affiliates may share the location information it receives among other Yahoo affiliates and any companies that become affiliates. Yahoo affiliates use the information consistent with their privacy policies.
