@@ -406,6 +406,28 @@ privacyquestions@cloudflare.com
 
 
 
+Legal
+
+Website Terms of Use
+
+Self-Serve Subscription Agreement
+
+Supplemental Terms
+
+Privacy Policy
+
+Cookie Policy
+
+Trust & Safety
+
+Transparency Report
+
+Domain Registration Agreement
+
+Modern Slavery Act Statement
+
+Third Party Code of Conduct
+
 Have Questions?
 
 If you have questions about these terms or anything else about Cloudflare, please don't hesitate to contact us:
