@@ -1,14 +1,15 @@
 Transparency Report
+In this guide
 01
 Overview
 02
-U.S. requests
+U.S. Requests
 03
-International requests
+International Requests
 04
 Definitions
-04
-Data set
+05
+Data Set
 Overview
 
 Released: July 26, 2022
@@ -47,22 +48,22 @@ Definitions
 
 We use a number of terms in this report that have specific legal meanings in this context. Wherever you don’t see a particular kind of request or outcome noted in the charts, that means that there weren’t any of that type. Civil litigation requests are not reflected in this report.
 
-CLOUD Act Request - a request made pursuant to the CLOUD Act. Can demand content.
-Content - can include video content, chat logs, transcripts or profile pictures; essentially, any media that depicts what a person spoke, wrote or did. When we report disclosing “content,” that means we disclosed both content and non-content.
-Delayed-notice order (U.S. only) - an order, signed by a judge, preventing Zoom from notifying one or more users of a government request for their information for a specified period of time.
-Emergency Request (U.S. or international) - a request for user data without standard legal process, on the grounds that there is a danger of death or serious physical injury to a person.
+CLOUD Act Request – a request made pursuant to the CLOUD Act. Can demand content.
+Content – can include video content, chat logs, transcripts or profile pictures; essentially, any media that depicts what a person spoke, wrote or did. When we report disclosing “content,” that means we disclosed both content and non-content.
+Delayed-notice order (U.S. only) – an order, signed by a judge, preventing Zoom from notifying one or more users of a government request for their information for a specified period of time.
+Emergency Request (U.S. or international) – a request for user data without standard legal process, on the grounds that there is a danger of death or serious physical injury to a person.
 General information means we provided general information about the law enforcement request process, but not content or non-content.
-MLAT Request (International only) - a request made by a foreign country through the U.S. Department of Justice pursuant to a Mutual Legal Assistance Treaty. Can demand content.
-Non-content - non-content refers to metadata, or information about content. Non-content can include things like the dates and times of meetings, the IP address of a user, or information about their platform. When we report disclosing “non-content” that means we disclosed non-content only.
-Order (U.S. only) - any other type of order issued by a court. Cannot demand content.
-Other - Any other kind of request or resolution. For example, if a law enforcement officer seeks user data but without a subpoena, search warrant, or court order, or where the data owner gives written authorization to disclose their data to law enforcement.
-Preservation Request (U.S. or international) - a request to preserve (but not disclose) user information for a period of time, usually 90 or 180 days.
-Rejected - includes rejections for invalid service, legal invalidity, instances where there was no responsive data, or where the agency did not provide enough information for us to locate data.
-Search Warrant (U.S. only) - a request for a search, signed by a judge, in which a prosecutor alleges that there is “probable cause” to believe that a crime has taken place, or is about to. May demand content or non-content.
-Subpoena (U.S. only) - a request made by a government entity with investigative powers, such as a grand jury. Need not be signed by a judge, cannot demand content.
-U.S. National Security Requests - requests under the Foreign Intelligence Surveillance Act (FISA) for non-content or content information, or National Security Letters (NSLs) to request limited information about a user’s identity.
+MLAT Request (International only) – a request made by a foreign country through the U.S. Department of Justice pursuant to a Mutual Legal Assistance Treaty. Can demand content.
+Non-content – non-content refers to metadata, or information about content. Non-content can include things like the dates and times of meetings, the IP address of a user, or information about their platform. When we report disclosing “non-content” that means we disclosed non-content only.
+Order (U.S. only) – any other type of order issued by a court. Cannot demand content.
+Other – Any other kind of request or resolution. For example, if a law enforcement officer seeks user data but without a subpoena, search warrant, or court order, or where the data owner gives written authorization to disclose their data to law enforcement.
+Preservation Request (U.S. or international) – a request to preserve (but not disclose) user information for a period of time, usually 90 or 180 days.
+Rejected – includes rejections for invalid service, legal invalidity, instances where there was no responsive data, or where the agency did not provide enough information for us to locate data.
+Search Warrant (U.S. only) – a request for a search, signed by a judge, in which a prosecutor alleges that there is “probable cause” to believe that a crime has taken place, or is about to. May demand content or non-content.
+Subpoena (U.S. only) – a request made by a government entity with investigative powers, such as a grand jury. Need not be signed by a judge, cannot demand content.
+U.S. National Security Requests – requests under the Foreign Intelligence Surveillance Act (FISA) for non-content or content information, or National Security Letters (NSLs) to request limited information about a user’s identity.
 Withdrawn means that the requester withdrew the request before we made a determination on it.
-Withhold Access Request - a governmental request to restrict an individual’s access to any aspect of Zoom’s product, or to prevent or terminate a particular meeting.
+Withhold Access Request – a governmental request to restrict an individual’s access to any aspect of Zoom’s product, or to prevent or terminate a particular meeting.
 
 A note about Withhold Access Requests: Zoom does business in more than 80 countries and counting. Many countries have laws that may restrict one of its residents from participating in or hosting particular Zoom Meetings or Webinars. If Zoom receives a legally valid and appropriately scoped request from a legitimate government agency demanding that Zoom restrict one of its residents from using Zoom, we will carefully review it.
 
@@ -75,7 +76,3 @@ Data Set
 Here is the data set of all the requests included in this transparency report.
 
 To access our first Transparency Report, please click here.
-
-Zoom uses cookies and similar technologies as described in our cookie statement. You can manage your cookie settings or exercise your rights related to cookies through our Cookies Settings.
-
-Cookies Settings
