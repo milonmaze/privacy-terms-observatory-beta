@@ -1,102 +1,78 @@
 Found the internet!
 Trending today
-Al Roker
-Al Roker Makes Emotional Return to 'Today' Show Following Hospitalization
-r/entertainment and more
-Matt Gaetz
-Matt Gaetz Threatens to Resign Over McCarthy’s Speaker Fight
-r/politics and more
-Rishi Sunak
-Union fury as Rishi Sunak unveils anti-strike laws for ‘minimum service levels’
+Russia-Ukraine War
+Zelensky strips 13 pro-Russia priests of citizenship - media
 r/worldnews and more
-Kilauea Eruption
-Kilauea erupting again at summit crater after nearly month-long pause
-r/news and more
-Gianluca Vialli
-Gianluca Vialli died.
-r/soccer and more
-Bengals-Bills Game
-[Meirov] NFL just announced that Bengals-Bills will be called a no-contest.
+Jacksonville Jaguars
+[Highlight] Jaguars get the stop on 4th down and have won AFC South
 r/nfl and more
+New Mexico Democrats
+Shootings Reported at Homes and Offices of 5 New Mexico Democrats
+r/politics and more
+Cats
+Flat Cat was $5, had to have him.
+r/ThriftStoreHauls and more
+Zinedine Zidane
+[Tom Bogert] According to French outlet @lequipe, Zinedine Zidane has rejected an offer to become manager of the USMNT. L’Equipe also reports Zidane turned down Brazil and Portugal as well. Zidane won three Champions Leagues + two La Ligas as manager of Real Madrid.
+r/MLS and more
+Los Angeles Lakers vs. Sacramento Kings
+[Post Game Thread] The Los Angeles Lakers (19-21) defeat the Sacramento Kings (20-18), 136-134.
+r/nba and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-6.6k
-PINNED BY MODERATORS
-r/politics
+13.1k
+r/funny
 •Posted by
-u/PoliticsModeratorBot
-21 hours ago
-Join
-Discussion Thread: Day 3- Speaker of the United States House of Representatives Election
-Discussion
-45.4k Comments
-Share
-Save
-24.1k
-r/AskReddit
-•Posted by
-u/Montazio
-15 hours ago
-Join
-What's 100% a scam but we accepted it in our society?
-23.6k Comments
-Share
-Save
-32.7k
-r/Damnthatsinteresting
-•Posted by
-u/FridayCicero702
+u/TheVirgoCouncil
 5 hours ago
 Join
-India's tallest elephant, Thechikottukavu Ramachandran - Still alive at age 58 he has killed a record 15 people and 3 elephants in his lifetime and is branded as the most dangerous captive elephant in the state
-Video
-1.7k Comments
+My local news station published an article stating that 167 swimming pools have the same amount of water as… the Atlantic Ocean. The literal ocean 🤦🏻‍♂️
+SEE FULL IMAGE
+1.3k Comments
 Share
 Save
-35.0k
-r/WhitePeopleTwitter
+45.1k
+r/Funnymemes
 •Posted by
-u/Campfirecoverseddie2
-16 hours ago
+u/MarJulAle
+22 hours ago
 Join
-Based on previous posts I know a lot of people would pick Texas.
-10.7k Comments
+Go for it!
+36.1k Comments
 Share
 Save
-32.2k
-r/facepalm
+21.1k
+r/AskReddit
 •Posted by
-u/Knight_TheRider
-16 hours ago
+u/coffeedogsandwine
+15 hours ago
 Join
-Tipping culture is getting toxic. What if I can't afford more than what I am offering sometimes?
- 🇲​🇮​🇸​🇨​
-9.3k Comments
+People who don’t exercise or workout, why don’t you?
+19.2k Comments
 Share
 Save
-19.0k
-r/technicallythetruth
+106k
+r/pics
 •Posted by
-u/gasifiedbutcher62
-6 hours ago
+u/bestoblivion
+21 hours ago
+& 6 More
 Join
-Wow this blew up
-164 Comments
+School lunch in California (free)
+9.4k Comments
 Share
 Save
-18.1k
-r/worldnews
+7.5k
+r/Unexpected
 •Posted by
-u/Suofficer
-23 hours ago
-Kremlin: Russia to announce brief truce in Ukraine for Christmas
-Russia/Ukraine
-jpost.com/breaki...
+u/EvaRaw666
+3 hours ago
 Join
-2.3k Comments
+This is the best bar trick I've ever seen
+148 Comments
 Share
 Save
 Advertisement
