@@ -1,78 +1,92 @@
 Found the internet!
 Trending today
-Russia-Ukraine War
-Zelensky strips 13 pro-Russia priests of citizenship - media
-r/worldnews and more
-Jacksonville Jaguars
-[Highlight] Jaguars get the stop on 4th down and have won AFC South
-r/nfl and more
-New Mexico Democrats
-Shootings Reported at Homes and Offices of 5 New Mexico Democrats
+NYC Nurses Strike
+Some 7,000 nurses at two of NYC's largest hospitals poised to go on strike
+r/news and more
+Seattle Seahawks
+YOUR 2022 SEATTLE SEAHAWKS ARE GOING TO THE PLAYOFFS!!!!
+r/Seahawks and more
+Brazil
+Texas Democrat calls for US authorities to extradite Bolsonaro back to Brazil
 r/politics and more
-Cats
-Flat Cat was $5, had to have him.
-r/ThriftStoreHauls and more
-Zinedine Zidane
-[Tom Bogert] According to French outlet @lequipe, Zinedine Zidane has rejected an offer to become manager of the USMNT. L’Equipe also reports Zidane turned down Brazil and Portugal as well. Zidane won three Champions Leagues + two La Ligas as manager of Real Madrid.
-r/MLS and more
-Los Angeles Lakers vs. Sacramento Kings
-[Post Game Thread] The Los Angeles Lakers (19-21) defeat the Sacramento Kings (20-18), 136-134.
-r/nba and more
+Rep. Mike Rogers
+Rep. Mike Rogers apologizes to Matt Gaetz for losing temper during chaotic speaker votes. Rogers, R-Ala., had to be restrained as he confronted Gaetz, R-Fla., on the House floor after Kevin McCarthy suffered a defeat in the 14th ballot for speaker.
+r/politics and more
+California Storms
+California hit by more storms, braces for potential floods
+r/news and more
+Rep. Marjorie Taylor Greene
+Marjorie Taylor Greene: I Got 'Sucked Into' QAnon Theories on Internet
+r/politics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-13.1k
-r/funny
+20.9k
+r/pokemon
 •Posted by
-u/TheVirgoCouncil
+u/karkajou
 5 hours ago
 Join
-My local news station published an article stating that 167 swimming pools have the same amount of water as… the Atlantic Ocean. The literal ocean 🤦🏻‍♂️
-SEE FULL IMAGE
-1.3k Comments
+You seemed to like my vintage poster with the bug Pokémon, now it's time for the aquatics!
+ArtOC
+257 Comments
 Share
 Save
-45.1k
-r/Funnymemes
-•Posted by
-u/MarJulAle
-22 hours ago
-Join
-Go for it!
-36.1k Comments
-Share
-Save
-21.1k
+13.4k
 r/AskReddit
 •Posted by
-u/coffeedogsandwine
-15 hours ago
+u/FarajEltaira
+17 hours ago
 Join
-People who don’t exercise or workout, why don’t you?
-19.2k Comments
+what is a part of history that we consider to be a fact is 100% fake ?
+9.8k Comments
 Share
 Save
-106k
-r/pics
+934
+r/GreenBayPackers
 •Posted by
-u/bestoblivion
-21 hours ago
-& 6 More
+u/lilturk82
+10 hours ago
+2
 Join
-School lunch in California (free)
-9.4k Comments
+[Week 18] Post Game Thread: Detroit Lions @ Green Bay Packers
+Series
+5.6k Comments
 Share
 Save
-7.5k
-r/Unexpected
+19.3k
+r/interestingasfuck
 •Posted by
-u/EvaRaw666
-3 hours ago
+u/Justsoinsane
+6 hours ago
+2
 Join
-This is the best bar trick I've ever seen
-148 Comments
+On the left is an award-winning AKC French Bulldog named Arnie. On the right is Flint, a dog bred in the Netherlands by Hawbucks French Bulldogs, a breeder trying to create a healthier template for French Bulldogs.
+/r/ALL
+564 Comments
+Share
+Save
+Vote
+r/aww
+•Posted by
+u/ratihes
+2 hours ago
+Join
+Her smile when she realized he was there...
+gfycat.com/massiv...
+71 Comments
+Share
+Save
+61.3k
+r/WhitePeopleTwitter
+•Posted by
+u/Serenesis_
+18 hours ago
+Join
+Misleading America.
+4.9k Comments
 Share
 Save
 Advertisement
