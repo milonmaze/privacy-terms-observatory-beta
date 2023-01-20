@@ -1,92 +1,90 @@
 Found the internet!
 Trending today
-FTX
-FTX says $415 million in crypto was hacked
-r/technology and more
-North Carolina Substation
-Gunfire damages North Carolina substation, no outage caused
-r/news and more
 Russia-Ukraine War
-Pentagon Sends U.S. Arms Stored in Israel to Ukraine
+Biden administration announces new $2.5 billion security aid package for Ukraine
 r/worldnews and more
-Jay Briscoe
-Jay Briscoe passes away at the age of 38 [Megathread]
-r/SquaredCircle and more
-Ben Johnson
-[Pelissero] #Lions OC Ben Johnson informed interested teams he’s staying in Detroit, per sources. Johnson was slated to travel Wednesday to interview with the #Panthers. But he feels Detroit is building something special and wants to see it through. Should be a hot HC name again next year.
-r/nfl and more
-Greta Thunberg
-Greta Thunberg carried away by police during eco protest in German village
-r/pics and more
+Citizens United
+Democrats introduce constitutional amendment to reverse Citizens United campaign finance ruling
+r/politics and more
+Twitter
+Twitter changes developer terms to retroactively justify ban on third-party clients
+r/ElonJetTracker and more
+Steph Curry
+[Highlight] Steph Curry deadeyes a half court buzzer beater at halftime
+r/nba and more
+T-Mobile Data Breach
+T-Mobile says data on 37 million customers stolen
+r/news and more
+Open RPG Creative License
+Paizo announces more than 1,500 TTRPG publishers of all sizes have pledged to use the ORC license
+r/DnD and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-12.5k
-r/gaming
-•Posted by
-u/NotOnlyMagicMan
-3 hours ago
-Join
-As of today January 18th 2023 Google Stadia is shut down
-874 Comments
-Share
-Save
-23.4k
+27.8k
 r/AskReddit
 •Posted by
-u/yo_dear_joe_mama123
-20 hours ago
+u/Curious-2577
+19 hours ago
 Join
-people of reddit who are anti weed. why?
-15.1k Comments
+What’s something you learned “embarrassingly late” in life?
+24.8k Comments
 Share
 Save
-30.4k
-r/facepalm
+31.7k
+r/movies
 •Posted by
-u/PxN13
-17 hours ago
-Join
-This insane birthing plan
- 🇲​🇮​🇸​🇨​
-SEE FULL IMAGE
-9.2k Comments
-Share
-Save
-128k
-r/pics
-•Posted by
-u/gymleader_melony
-21 hours ago
-& 8 More
-Join
-Greta Thunberg carried away by police during eco protest in German village
-Protest
-8.4k Comments
-Share
-Save
-16.7k
-r/worldnews
-•Posted by
-u/Rocco89
-6 hours ago
-Ukraine interior minister among 16 killed in chopper crash near Kyiv
-Russia/Ukraine
-dailysabah.com/world/...
-Join
-805 Comments
-Share
-Save
-48.9k
-r/therewasanattempt
-•Posted by
-u/Party_Ad_5428
+u/DemiFiendRSA
 22 hours ago
+Alec Baldwin to be charged with involuntary manslaughter in ‘Rust’ Shooting
+News
+independent.co.uk/arts-e...
 Join
-To impress everyone with this “seafood” boil
-8.4k Comments
+9.4k Comments
+Share
+Save
+16.9k
+r/gifs
+•Posted by
+u/Educationalip
+5 hours ago
+Join
+Danny Devito brings his own stool.
+255 Comments
+Share
+Save
+55.9k
+r/meirl
+•Posted by
+u/YesImUrFather
+18 hours ago
+Join
+meirl
+7.2k Comments
+Share
+Save
+14.4k
+r/funny
+•Posted by
+u/kiffmeizter
+5 hours ago
+Join
+A not so impressed security guard at Paris Fashion Week
+587 Comments
+Share
+Save
+77.4k
+r/interestingasfuck
+•Posted by
+u/ofpatmoes
+21 hours ago
+& 3 More
+Join
+The Robert E. Lee Monument (Richmond, Virginia). 2013, 2020, and now.
+/r/ALL
+6.4k Comments
 Share
 Save
 Advertisement
