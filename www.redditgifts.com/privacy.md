@@ -1,90 +1,91 @@
 Found the internet!
 Trending today
-Russia-Ukraine War
-Biden administration announces new $2.5 billion security aid package for Ukraine
-r/worldnews and more
-Citizens United
-Democrats introduce constitutional amendment to reverse Citizens United campaign finance ruling
-r/politics and more
-Twitter
-Twitter changes developer terms to retroactively justify ban on third-party clients
-r/ElonJetTracker and more
-Steph Curry
-[Highlight] Steph Curry deadeyes a half court buzzer beater at halftime
+Lunar New Year
+Chinese astronauts celebrate Lunar / Chinese New Year on the "Tiangong" Space Station
+r/space and more
+Anthony Edwards
+[Highlight] Anthony Edwards dunks all over Alperen Sengun.....again.
 r/nba and more
-T-Mobile Data Breach
-T-Mobile says data on 37 million customers stolen
+Leopard 2 Tanks
+Ukrainian refugees marching toward the headquarters of the Bavarian wing of Chancellor Scholz’s SPD Party, calling on Germany to free the Leopard 2 tanks for Ukraine.
+r/ukraine and more
+Premier League
+The Golden Era of the Premier League and the most intense and evenly matched rivalry.
+r/Gunners and more
+Atlanta Protests
+Atlanta protest against shooting death of activist briefly turns violent
 r/news and more
-Open RPG Creative License
-Paizo announces more than 1,500 TTRPG publishers of all sizes have pledged to use the ORC license
-r/DnD and more
+Monterey Park Shooting
+Mass shooting in Monterey Park, CA on Lunar New Years. Multiple casualties reported
+r/news and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-27.8k
+9.6k
+r/oddlysatisfying
+•Posted by
+u/Pazluz
+4 hours ago
+Join
+Getting out every bit of cheese
+1.0k Comments
+Share
+Save
+16.8k
+r/LifeProTips
+•Posted by
+u/AdSnoo9734
+6 hours ago
+Join
+LPT: Tens of thousands of loyal employees at FB, Google, Salesforce, and Microsoft woke up to termination emails. While companies may have comfy, touchy-feely cultures, companies’ will throw you away like an old toy as soon as that saves a cent. Stay loyal only to your coworkers and your loved ones.
+Careers & Work
+
+*At least with coworkers, you can help each other out even after you leave a company.
+
+740 Comments
+Share
+Save
+14.7k
 r/AskReddit
 •Posted by
-u/Curious-2577
-19 hours ago
+u/Crrussh
+21 hours ago
 Join
-What’s something you learned “embarrassingly late” in life?
-24.8k Comments
+Who will be the most mourned/biggest deal when they die?
+12.5k Comments
 Share
 Save
-31.7k
-r/movies
-•Posted by
-u/DemiFiendRSA
-22 hours ago
-Alec Baldwin to be charged with involuntary manslaughter in ‘Rust’ Shooting
-News
-independent.co.uk/arts-e...
-Join
-9.4k Comments
-Share
-Save
-16.9k
-r/gifs
-•Posted by
-u/Educationalip
-5 hours ago
-Join
-Danny Devito brings his own stool.
-255 Comments
-Share
-Save
-55.9k
-r/meirl
-•Posted by
-u/YesImUrFather
-18 hours ago
-Join
-meirl
-7.2k Comments
-Share
-Save
-14.4k
+77.1k
 r/funny
 •Posted by
-u/kiffmeizter
-5 hours ago
+u/EtoileDuSoir
+21 hours ago
+& 6 More
 Join
-A not so impressed security guard at Paris Fashion Week
-587 Comments
+Some French comedians made a video about it's like to be American
+9.0k Comments
 Share
 Save
-77.4k
-r/interestingasfuck
+35.0k
+r/WhitePeopleTwitter
 •Posted by
-u/ofpatmoes
-21 hours ago
-& 3 More
+u/DachshundGang
+10 hours ago
 Join
-The Robert E. Lee Monument (Richmond, Virginia). 2013, 2020, and now.
-/r/ALL
-6.4k Comments
+Marijuana criminalization
+6.7k Comments
+Share
+Save
+69.1k
+r/meirl
+•Posted by
+u/Jimbo072
+20 hours ago
+Join
+meirl
+6.3k Comments
 Share
 Save
 Advertisement
