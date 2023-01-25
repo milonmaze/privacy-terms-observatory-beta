@@ -61,7 +61,7 @@ You create your LinkedIn profile (a complete profile helps you get the most from
 
 Profile
 
-You have choices about the information on your profile, such as your education, work experience, skills, photo, city or area and endorsements. Some Members may choose to complete a separate ProFinder profile. You don’t have to provide additional information on your profile; however, profile information helps you to get more from our Services, including helping recruiters and business opportunities find you. It’s your choice whether to include sensitive information on your profile and to make that sensitive information public. Please do not post or add personal data to your profile that you would not want to be publicly available.
+You have choices about the information on your profile, such as your education, work experience, skills, photo, city or area and endorsements. You don’t have to provide additional information on your profile; however, profile information helps you to get more from our Services, including helping recruiters and business opportunities find you. It’s your choice whether to include sensitive information on your profile and to make that sensitive information public. Please do not post or add personal data to your profile that you would not want to be publicly available.
 
 You give other data to us, such as by syncing your address book or calendar.
 
@@ -385,6 +385,6 @@ We currently do not share personal data with third parties for their direct mark
 
 You can contact us or use other options to resolve any complaints.
 
-If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here.If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws.
+If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here. If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws.
 
 Key Terms 
