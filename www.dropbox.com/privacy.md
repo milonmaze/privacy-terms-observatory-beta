@@ -1,5 +1,7 @@
 Skip to main content
 
+Dropbox's Privacy Policy will be changing effective April 3, 2023. Click here to review.
+
 The DocSend Privacy Policy can be found here.
 
 The Dropbox Sign Privacy Policy can be found here.
