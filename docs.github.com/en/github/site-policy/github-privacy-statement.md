@@ -281,7 +281,7 @@ Cross-border data transfers
 
 GitHub may store and process your personal data in your region, in the United States, and in any other country where GitHub or its affiliates, subsidiaries, or service providers operate facilities.
 
-We transfer personal data from the European Union, the United Kingdom, and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection. For example, their laws may not guarantee you the same rights, or there may not be a privacy supervisory authority there that is capable of addressing your complaints. When we engage in such transfers, we use a variety of legal mechanisms, including contracts, such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data. To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, see this article on the European Commission website. You may request a copy of the Standard Contractual Clauses using the contact details provided in the section entitled “Contacting GitHub” below.
+We transfer personal data from the European Union, the United Kingdom, and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection. For example, their laws may not guarantee you the same rights, or there may not be a privacy supervisory authority there that is capable of addressing your complaints. When we engage in such transfers, we use a variety of legal mechanisms, including contracts, such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data. You may request a copy of the Standard Contractual Clauses using the contact details provided in the section entitled “Contacting GitHub” below.
 
 How to Contact Us
 
@@ -298,7 +298,7 @@ United States
 
 Privacy contact form
 
-Github Data Protection Officer
+GitHub Data Protection Officer
 
 c/o DP Dock DPO Services GmbH,
 Attn: GitHub BV, Gut Projensdorf,
