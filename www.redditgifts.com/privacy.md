@@ -1,98 +1,67 @@
 Found the internet!
 Trending today
-George Kittle
-[Highlight] George Kittle makes a hell of a grab
-r/nfl and more
-Meme Monday
-A few years back part of my job was making league memes. This is Mr. Grabs, and until this day I cannot believe he wasn't approved by the department head. Thought I'd share so he can at last be seen.
-r/LeagueOfMemes and more
-The Last of Us
-spoiler
-The Last of Us HBO S01E02 - "Infected" Post-Episode Discussion Thread
-r/thelastofus and more
-Pakistan Power Outage
-BBC News - Pakistan power cut: Major cities without electricity after grid breakdown
-r/collapse and more
-Joe Burrow
-Joe Burrow in Seinfeld sweats post game
-r/seinfeld and more
+Rick and Morty
+Adult Swim Severs Ties With ‘Rick And Morty’ Co-Creator Justin Roiland
+r/rickandmorty and more
 Leopard 2 Tanks
+Germany to send Leopard 2 tanks to Ukraine — reports
+r/worldnews and more
+Cats
+First time cat owner, are they always this cute??
+r/aww and more
+Conor McGregor
+Conor McGregor accused of attacking woman on his yacht, prompting her to jump off boat to escape
+r/sports and more
+Kevin McCarthy
+McCarthy will block Democrats Schiff, Swalwell from intelligence committee
+r/politics and more
+NASA
+NASA to partner with DARPA to demonstrate first nuclear thermal rocket engine in space!
+r/space and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-9.1k
-r/Damnthatsinteresting
+7.8k
+r/HumansBeingBros
 •Posted by
-u/scot816
+u/CC20057
 3 hours ago
 Join
-Anthony Borges was 15 when he shielded twenty students from the Parkland shooter by blocking a classroom door almost 5 years ago (Feb 14, 2018). Taking several bullets himself and surviving while securing the door, he was dubbed "the real Iron Man".
-Image
-268 Comments
+Vetenarian removes toy stuck in dogs throat
+120 Comments
 Share
 Save
-30.8k
-r/AskReddit
-•Posted by
-u/ApprehensiveShock655
-19 hours ago
-Join
-What’s the worst part of having a child?
-16.1k Comments
-Share
-Save
-19.1k
-r/antiwork
-•Posted by
-u/xxkurwiszonxx
-4 hours ago
-Join
-And his fanboys will still defend him😐
-445 Comments
-Share
-Save
-4.7k
-r/thelastofus
-•Posted by
-u/AutoModerator
-11 hours ago
-Join
-The Last of Us HBO S01E02 - "Infected" Post-Episode Discussion Thread
-HBO Showspoiler
-7.4k Comments
-Share
-Save
-35.1k
-r/WhitePeopleTwitter
-•Posted by
-u/TechSupport20
-20 hours ago
-Join
-Go ahead!
-6.2k Comments
-Share
-Save
-8.9k
+4.1k
 r/Funnymemes
 •Posted by
-u/SweetBritt1904
-14 hours ago
+u/Guitar81
+12 hours ago
 Join
-An M&M
-5.4k Comments
+This one hurts, it's a tough one
+5.9k Comments
 Share
 Save
-40.3k
-r/LifeProTips
+50.4k
+r/WhitePeopleTwitter
 •Posted by
-u/According-Anybody508
-19 hours ago
+u/Travismatthew08
+23 hours ago
 Join
-LPT: In most cases you don't need to wash your clothes with hot water. Heating the water takes up almost 90% of the energy expenditure of a washing machine. Most detergents nowadays don't even need high temperatures and work fine in the cold. It's better for your wallet and the environment.
-Clothing
-2.2k Comments
+Caption This.
+10.4k Comments
+Share
+Save
+29.7k
+r/PublicFreakout
+•Posted by
+u/ImYourRealDadHey
+14 hours ago
+Join
+2 lady’s flipping a guys car after he burnt the Quran
+Repost 😔
+7.7k Comments
 Share
 Save
 Advertisement
