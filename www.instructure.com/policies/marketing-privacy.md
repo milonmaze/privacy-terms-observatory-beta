@@ -1,7 +1,14 @@
 Skip to main content
+
 Marketing Privacy | Policy
 
-Instructure Marketing Privacy Policy
+Languages:
+
+English
+German
+Dutch
+Spanish
+Portuguese
 
 Last Updated: September 10, 2022
 
@@ -92,8 +99,6 @@ Phone: 0800 358 4330
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may also contact our U.S.-based third-party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
 
 CHANGES TO THIS PRIVACY POLICY. Instructure may change this Privacy Policy from time to time. If we make any changes to this Policy, we will change the “Last Updated” date above. We encourage you to visit this page from time to time for the latest on our privacy practices.
-
- 
 
 By continuing to browse or by clicking "I Accept", you agree to the storing of first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.Privacy Policy
 
