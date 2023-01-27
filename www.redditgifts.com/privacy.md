@@ -1,67 +1,79 @@
 Found the internet!
 Trending today
-Rick and Morty
-Adult Swim Severs Ties With ‘Rick And Morty’ Co-Creator Justin Roiland
-r/rickandmorty and more
-Leopard 2 Tanks
-Germany to send Leopard 2 tanks to Ukraine — reports
-r/worldnews and more
-Cats
-First time cat owner, are they always this cute??
-r/aww and more
-Conor McGregor
-Conor McGregor accused of attacking woman on his yacht, prompting her to jump off boat to escape
-r/sports and more
-Kevin McCarthy
-McCarthy will block Democrats Schiff, Swalwell from intelligence committee
+Georgia State of Emergency
+Georgia governor declares state of emergency, activates 1,000 National Guard troops amid Atlanta protests
 r/politics and more
-NASA
-NASA to partner with DARPA to demonstrate first nuclear thermal rocket engine in space!
-r/space and more
+King Charles
+King Charles ‘tells Prince Andrew there is no place’ for him at Buckingham Palace
+r/worldnews and more
+Arizona Public Records Laws
+Arizona Republicans exempt lawmakers from the state’s open-records law
+r/politics and more
+Holocaust Remembrance Day
+Armed Forces of Ukraine commemorate the victims of the Holocaust. We share the pain of the Jewish people and all victims of Nazi terror during World War II
+r/ukraine and more
+Lost Radioactive Capsule
+Urgent public health warning issued over lost radioactive capsule in Western Australia
+r/australia and more
+Tyre Nichols
+Tyre Nichols Live Updates: 5 Officers Charged With Murder in Memphis Police Killing
+r/neoliberal and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-7.8k
-r/HumansBeingBros
+32.1k
+r/interestingasfuck
 •Posted by
-u/CC20057
-3 hours ago
+u/Rd28T
+5 hours ago
 Join
-Vetenarian removes toy stuck in dogs throat
-120 Comments
+There is currently a radioactive capsule lost somewhere on the 1400km stretch of highway between Newman and Malaga in Western Australia. It is a 8mm x 6mm cylinder used in mining equipment. Being in close proximity to it is the equivalent having 10 X-rays per hour. It fell out of a truck.
+/r/ALL
+2.7k Comments
 Share
 Save
-4.1k
-r/Funnymemes
+15.0k
+r/memes
 •Posted by
-u/Guitar81
-12 hours ago
+u/Barry_Mckockiner12
+4 hours ago
 Join
-This one hurts, it's a tough one
-5.9k Comments
+Caught in 144p
+118 Comments
 Share
 Save
-50.4k
-r/WhitePeopleTwitter
+47.5k
+r/pics
 •Posted by
-u/Travismatthew08
-23 hours ago
+u/joecooool418
+17 hours ago
 Join
-Caption This.
-10.4k Comments
+Protesters in Key West today (OC)
+7.6k Comments
 Share
 Save
-29.7k
-r/PublicFreakout
+26.1k
+r/StarWars
 •Posted by
-u/ImYourRealDadHey
-14 hours ago
+u/MrVectuvus
+18 hours ago
 Join
-2 lady’s flipping a guys car after he burnt the Quran
-Repost 😔
-7.7k Comments
+What's a dark fact about Star Wars that is rarely addressed?
+General Discussion
+6.3k Comments
+Share
+Save
+25.6k
+r/Damnthatsinteresting
+•Posted by
+u/purple-circle
+5 hours ago
+Join
+Fahim, a 15-year-old boy from Bangladesh chose a shipping container as a hiding spot while playing hide & seek with his friends. He fell asleep & was found 6 days later in a Malaysian port.
+Video
+1.1k Comments
 Share
 Save
 Advertisement
