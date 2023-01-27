@@ -115,9 +115,9 @@ Related Practices and Information
 
 Conditions of Use
 Seller Program Policies
-Help Department
+Help pages
 Most Recent Purchases
-Your Profile and Community Guidelines
+Community Guidelines
 
 Examples of Information Collected
 
