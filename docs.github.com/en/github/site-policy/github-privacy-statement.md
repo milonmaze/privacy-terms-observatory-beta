@@ -361,7 +361,7 @@ Rights. You have the right to request that we (i) disclose what personal data we
 
 Please see Your choices regarding our processing of your personal data section of the GitHub Privacy Statement for additional information on how to exercise these rights. You can use GitHub’s User Migration API to access and download your data. Learn more here.
 
-If you have a Github account, you must exercise your rights through the tools provided, which requires you to log in to your GitHub account. If you have an additional request or questions after logging in, you may contact GitHub at the address in the How to contact us section, including through our web form.
+If you have a GitHub account, you must exercise your rights through the tools provided, which requires you to log in to your GitHub account. If you have an additional request or questions after logging in, you may contact GitHub at the address in the How to contact us section, including through our web form.
 
 If you do not have an account, you may exercise your rights by contacting us as described above. We may ask for additional information to validate your request before honoring the request. To submit a request based on these rights, you can also contact us via our contact form.
 
