@@ -1,78 +1,102 @@
 Found the internet!
 Trending today
-Novak Djokovic
-Novak Djokovic wins the record 10th Australian Open title
-r/australia and more
-LeBron James
-[Buha] LeBron James on the final possession: “You saw my reaction. … It’s challenging. I don’t get it.”
-r/nba and more
-WWE Royal Rumble
-spoiler
-(Royal Rumble 2023 Spoiler) Choice made after the main event
-r/SquaredCircle and more
-Tesla
-Tesla explodes in flames on side of freeway near Sacramento
-r/technology and more
-Nadhim Zahawi
-Tory chairman Nadhim Zahawi sacked after row over tax affairs - BBC News
-r/unitedkingdom and more
-North Korea
-North Korea has denied providing arms to Moscow after the United States said the nuclear-armed state supplied rockets and missiles to Russia's private military group Wagner. Even though photos show Russian rail cars entering North Korea, picking up munitions and returning to Russia
+Patrick Mahomes
+[Highlight] Mahomes hit late with 8 seconds to go
+r/nfl and more
+Boris Johnson
+Boris Johnson says Vladimir Putin threatened to kill him 'with a missile'
 r/worldnews and more
+Philadelphia Eagles
+[NFL] The @Eagles are headed to #SuperBowlLVII! 🏆
+r/nfl and more
+Dubai Desert Classic
+Rory pips Reed in a Dubai Desert Classic
+r/golf and more
+2023 Royal Rumble
+spoiler
+[Royal Rumble Spoilers] The ending to this years Royal Rumble has been viewed over 20,050,000 times & counting across all WWE socials in under 24 hours
+r/SquaredCircle and more
+George Santos
+It Appears George Santos Also Lied About Appearing On “Hannah Montana”
+r/politics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-7.7k
-r/Funnymemes
+14.4k
+r/AskReddit
 •Posted by
-u/BirdmaskDude
-17 hours ago
+u/Zahirico1
+12 hours ago
 Join
-High on Meth
-11.9k Comments
+Which black and white movies are absolutely worth watching?
+12.7k Comments
 Share
 Save
-69.8k
-r/pics
+18.3k
+r/Damnthatsinteresting
 •Posted by
-u/energetic-dad
-20 hours ago
-Join
-Here are the mugshots (not the smiling cop PR pics) of the 5 Memphis cops who murdered Tyre Nichols
-6.3k Comments
-Share
-Save
-6.8k
-r/oddlysatisfying
-•Posted by
-u/PROXeR__OiShi
+u/Beast667Neighbour
 3 hours ago
 Join
-This is one of the most underrated short films ever
-95 Comments
+This enormous underground city that once housed around 20,000 people was accidentally discovered by a man after knocking down a wall in his basement. Archaeologists revealed that the city was 18 stories deep and had everything needed for underground life, including schools, chapels, and even stables
+Image
+804 Comments
 Share
 Save
-14.4k
-r/interestingasfuck
+8.9k
+r/pokemon
 •Posted by
-u/Senior_Novel_6505
-5 hours ago
+u/NonRock
+4 hours ago
 Join
-The Polish Legion in France, 1940.
-/r/ALL
-1.4k Comments
+Become as crabs
+ArtOC
+i.imgur.com/oneidq...
+206 Comments
 Share
 Save
-25.3k
-r/memes
+6.5k
+r/thelastofus
 •Posted by
-u/Howdyy-boi242
-6 hours ago
+u/AutoModerator
+11 hours ago
 Join
-Most Annoying people ever
-1.3k Comments
+The Last of Us HBO S01E03 - "Long Long Time" Post-Episode Discussion Thread
+HBO Showspoiler
+11.8k Comments
+Share
+Save
+57.8k
+r/therewasanattempt
+•Posted by
+u/-holdmyhand
+19 hours ago
+Join
+to show the evidence.
+5.9k Comments
+Share
+Save
+42.6k
+r/mildlyinfuriating
+•Posted by
+u/FiveOhFive91
+21 hours ago
+Join
+This kindergarten homework
+5.0k Comments
+Share
+Save
+1.8k
+r/ThelastofusHBOseries
+•Posted by
+u/LoretiTV
+11 hours ago
+Join
+[No Game Spoilers] The Last of Us - 1x03 "Long Long Time" - Post Episode Discussion
+Show Only Discussion
+2.9k Comments
 Share
 Save
 Advertisement
