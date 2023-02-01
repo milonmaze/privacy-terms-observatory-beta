@@ -1,4 +1,5 @@
 Jump to content
+Photograph your local culture, help Wikipedia and win!
 (Redirected from Donor privacy policy/en)
 Translate this page
 	
