@@ -1,4 +1,4 @@
-AT&T Website Terms of Use
+AT&T Web Services Terms of Use
 Documents
 Print
 
