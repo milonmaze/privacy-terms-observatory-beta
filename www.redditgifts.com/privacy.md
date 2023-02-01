@@ -1,101 +1,101 @@
 Found the internet!
 Trending today
-Patrick Mahomes
-[Highlight] Mahomes hit late with 8 seconds to go
+Tom Brady Retirement
+[Tom Brady retirement tweet] Truly grateful on this day. Thank you 🙏🏻❤️
 r/nfl and more
-Boris Johnson
-Boris Johnson says Vladimir Putin threatened to kill him 'with a missile'
+Missing Radioactive Capsule Found
+Missing radioactive capsule found in WA outback during frantic search
 r/worldnews and more
-Philadelphia Eagles
-[NFL] The @Eagles are headed to #SuperBowlLVII! 🏆
-r/nfl and more
-Dubai Desert Classic
-Rory pips Reed in a Dubai Desert Classic
-r/golf and more
-2023 Royal Rumble
-spoiler
-[Royal Rumble Spoilers] The ending to this years Royal Rumble has been viewed over 20,050,000 times & counting across all WWE socials in under 24 hours
-r/SquaredCircle and more
-George Santos
-It Appears George Santos Also Lied About Appearing On “Hannah Montana”
-r/politics and more
+Nikki Haley
+It's official: Nikki Haley running for president. Formal announcement Feb. 15
+r/Conservative and more
+Ukraine
+Countries that provide military aid to Ukraine (January 2023)
+r/MapPorn and more
+Green Comet
+Green comet will appear in the night sky for the first time since the Stone Age | CNN
+r/news and more
+Hulk Hogan
+Hulk Hogan 'Is Not Paralyzed' Following Back Surgery, Says Rep
+r/entertainment and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-14.4k
-r/AskReddit
+4.5k
+r/ffxiv
 •Posted by
-u/Zahirico1
-12 hours ago
+u/mirfaltnixein
+23 hours ago
+Regarding Illicit Activities in The Omega Protocol (Ultimate)
+[News]
+na.finalfantasyxiv.com/lodest...
 Join
-Which black and white movies are absolutely worth watching?
-12.7k Comments
+2.3k Comments
 Share
 Save
-18.3k
-r/Damnthatsinteresting
+6.6k
+r/DC_Cinematic
 •Posted by
-u/Beast667Neighbour
-3 hours ago
-Join
-This enormous underground city that once housed around 20,000 people was accidentally discovered by a man after knocking down a wall in his basement. Archaeologists revealed that the city was 18 stories deep and had everything needed for underground life, including schools, chapels, and even stables
-Image
-804 Comments
-Share
-Save
-8.9k
-r/pokemon
-•Posted by
-u/NonRock
-4 hours ago
-Join
-Become as crabs
-ArtOC
-i.imgur.com/oneidq...
-206 Comments
-Share
-Save
-6.5k
-r/thelastofus
-•Posted by
-u/AutoModerator
-11 hours ago
-Join
-The Last of Us HBO S01E03 - "Long Long Time" Post-Episode Discussion Thread
-HBO Showspoiler
-11.8k Comments
-Share
-Save
-57.8k
-r/therewasanattempt
-•Posted by
-u/-holdmyhand
-19 hours ago
-Join
-to show the evidence.
-5.9k Comments
-Share
-Save
-42.6k
-r/mildlyinfuriating
-•Posted by
-u/FiveOhFive91
+u/Caciulacdlac
 21 hours ago
+DC Slate Unveiled: New Batman, Supergirl Movies, a Green Lantern TV Show, and More from James Gunn, Peter Safran
+NEWS
+hollywoodreporter.com/movies...
 Join
-This kindergarten homework
+2.1k Comments
+Share
+Save
+6.0k
+r/ChainsawMan
+•Posted by
+u/JeanneDAlter
+23 hours ago
+Join
+[DISC] Chainsaw Man - Ch. 119 links
+Discussion
 5.0k Comments
 Share
 Save
-1.8k
-r/ThelastofusHBOseries
+3.5k
+r/Genshin_Impact_Leaks
 •Posted by
-u/LoretiTV
-11 hours ago
+u/Bbloopsy
+1 day ago
 Join
-[No Game Spoilers] The Last of Us - 1x03 "Long Long Time" - Post Episode Discussion
-Show Only Discussion
+Baizhu possibly isn't a healer
+Sus
+944 Comments
+Share
+Save
+18.2k
+r/PoliticalHumor
+•Posted by
+u/nuancednotion
+1 day ago
+Join
+If you see Trump like this, Get Help
+1.7k Comments
+Share
+Save
+25.4k
+r/SelfAwarewolves
+•Posted by
+u/FyrestarOmega
+23 hours ago
+Join
+Maybe we should stop the conspiracy theories
+1.1k Comments
+Share
+Save
+55.7k
+r/antiwork
+•Posted by
+u/Komeandgo
+23 hours ago
+Join
+Company got caught lowballing me
 2.9k Comments
 Share
 Save
