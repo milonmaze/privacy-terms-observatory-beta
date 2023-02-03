@@ -23,7 +23,7 @@ Events Code Of Conduct
 Transparency Report
 Community Guidelines FAQ
 Modern Day Slavery Statement
-California Privacy Disclosure
+State-Specific Privacy Disclosures
 Advertising
 Blog
 Brand
