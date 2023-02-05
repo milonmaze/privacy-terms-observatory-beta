@@ -1,89 +1,86 @@
 Found the internet!
 Trending today
-Chinese Spy Balloon Over US
-suspected Chinese spy balloon the size of three school buses spotted over Montana; Pentagon is tracking, unsure what its carrying or tracking
-r/interestingasfuck and more
-Rep, Ilhan Omar
-2 House Republicans caught saying Ilhan Omar removal was the 'stupidest vote in world' before begging reporters to not tell GOP leadership what they said
-r/politics and more
-Los Angeles Lakers
-[Highlight] AD hits the fadeaway to give the Lakers the lead and then gets the clutch block on Hali to force Pacers to foul
-r/nba and more
-Formula 1
-Ford confirms Formula 1 return for 2026
-r/formula1 and more
-Marcus Rashford
-[ManUtd] Marcus Rashford is the Premier League Player of the Month for January
-r/soccer and more
-Joe Mixon
-[Kleiman] The warrant out for Joe Mixon alleges that Mixon pointed a gun at a woman in downtown Cincinnati, according to local reports.
-r/nfl and more
+Chinese Surveillance Balloon
+China condemns US ‘attack’ on surveillance balloon as ‘overreaction’
+r/worldnews and more
+HBO Mario Kart
+HBO Mario Kart Trailer - SNL
+r/television and more
+India Bans Chinese Betting Apps
+India bans 138 betting apps, 94 loan lending apps with Chinese links
+r/worldnews and more
+Fedor Emelianenko
+spoiler
+Fedor’s sendoff. Enjoy your retirement champ.
+r/MMA and more
+Cybertruck
+Cybertruck Prototype Four Wheel Steering
+r/teslamotors and more
+Volodymyr Zelenskyy
+“There is a consensus” with Zelenskyy that Russian territory will not be attacked with Western weapons – Scholz
+r/ukraine and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-26.6k
-r/AskReddit
+95.4k
+r/interestingasfuck
 •Posted by
-u/highnrgy
-22 hours ago
-Join
-What ingredient ruins a sandwich for you?
-26.3k Comments
-Share
-Save
-17.8k
-r/nextfuckinglevel
-•Posted by
-u/Dapper-Masterpiece29
-4 hours ago
-Join
-Redbone, The 1st Native American band to reach the Top Five on Billboard Hot 100
-506 Comments
-Share
-Save
-62.4k
-r/pics
-•Posted by
-u/YNWA11JM
-21 hours ago
-Join
-This note left on my car
-8.8k Comments
-Share
-Save
-79.9k
-r/nextfuckinglevel
-•Posted by
-u/Ciocolatel
-20 hours ago
+u/phleep
+18 hours ago
 2
+& 2 More
 Join
-Oil well drilling looks absurdly dangerous
-7.5k Comments
+The Chinese Balloon Shot Down
+/r/ALL
+8.1k Comments
 Share
 Save
-8.3k
-r/nonononoyes
+6.2k
+r/WatchPeopleDieInside
 •Posted by
-u/Traditional_Mix68
-4 hours ago
+u/ghostredditorstempac
+2 hours ago
 Join
-A Real Clown!!!
-100 Comments
+A fun flight totally ruined
+164 Comments
 Share
 Save
-13.0k
-r/movies
+12.3k
+r/NoStupidQuestions
 •Posted by
-u/sha_man
-8 hours ago
-Netflix Deletes New Password Sharing Rules, Claims They Were Posted in Error
-News
-cbr.com/netfli...
+u/Alan_Darkcaster69
+16 hours ago
 Join
-1.0k Comments
+Don’t water a grease fire, don’t mess with a garage spring. What are some MORE potentially life saving tips?
+
+I saw a post about this a while ago and was wondering if anyone had more of these
+
+one I know is that if a tornado looks still, it’s moving towards you
+
+6.3k Comments
+Share
+Save
+55.9k
+r/worldnews
+•Posted by
+u/GuiltySigurdsson
+18 hours ago
+US downs Chinese balloon over ocean, moves to recover debris
+apnews.com/articl...
+Join
+6.2k Comments
+Share
+Save
+7.2k
+r/therewasanattempt
+•Posted by
+u/pandabatron
+3 hours ago
+Join
+To get to school & work going 106 mph
+1.4k Comments
 Share
 Save
 Advertisement
