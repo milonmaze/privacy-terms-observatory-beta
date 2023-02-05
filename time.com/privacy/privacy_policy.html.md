@@ -8,6 +8,7 @@ How We Use the Information We Collect
 Disclosure of Information.
 Third Party Websites
 Your California Privacy Rights: Notice to California Customers
+Disclosures to Residents of Colorado, Connecticut, Virginia, and Utah
 Special Information for Nevada Residents
 Your Opt-Out Choices
 Security of Personal Information.
@@ -132,27 +133,42 @@ Our Services provide links to third party websites or offerings where data priva
 
 California Shine the Light: California’s “Shine the Light” law, Civil Code Section 1798.83, requires businesses that disclose personal information to third parties for those third parties’ direct marketing purposes to give California customers the ability to opt-out of such disclosure. California Residents may exercise their opt-out right by going to our California Do Not Sell Page.
 
-California Consumer Privacy Act (“CCPA”):
+California Privacy Rights Act (“CPRA”):
 
-The California Consumer Privacy Act (“CCPA”) grants residents of California certain rights with respect to their personal information and requires us to provide such individuals with certain information, as described in this Section.
+The California Privacy Rights Act (“CPRA”) grants residents of California certain rights with respect to their personal information and requires us to provide such individuals with certain information, as described in this Section.
 
 Your Rights:
 
 Transparency. At the time we collect personal information, you have the right to receive notice of the categories of personal information we collect, and the purposes for which those categories of personal information will be used.
 Access/Right to Know. You have the right to request access to personal information we collected about you and information regarding the source of that personal information, the purposes for which we collect it, and the third parties and service providers with whom we share it. You can make this access request by going to our California Access/Deletion Page. If you are a print subscriber, you can also access and update much of the personal information we have collected about you through your account page.
 Deletion. You have the right to request that we erase data we have collected from you. Please note that we may have a reason to deny your deletion request or delete data in a more limited way than you anticipated, e.g., because of a legal obligation to retain it or to provide a good or service that you request. You can make this deletion request by going to our California Access/Deletion Page.
-Opt-Out of Sale. You have the right to request that we stop “selling” your personal information as that that term is defined in the California Consumer Privacy Act. A “sale” of personal information is defined broadly: “selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to another business or a third party for monetary or other valuable consideration.” Please see below for more information about our “sales” of personal information. To opt-out, please go to our California Do Not Sell Page.
+Opt-Out of Sale and Share. You have the right to request that we stop “selling” your personal information as that that term is defined in the California Privacy Rights Act. A “sale” of personal information is defined broadly: “selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to another business or a third party for monetary or other valuable consideration.” “Sharing” of personal information is defined as: “sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration, including transactions between a business and a third party for cross-context behavioral advertising for the benefit of a business in which no money is exchanged.” Please see below for more information about our “sales” or “sharing” of personal information. To opt-out, please go to our California Do Not Sell Page.
 Categories of personal information we collect: We collect the categories of information described above in the “ Information We Collect” section for the purposes described in the “ How We Use Information” section.
 Categories of personal information we disclose: We may disclose any of the categories of personal information listed above and use them for the above-listed purposes or for other business or operational purposes compatible with the context in which the personal information was collected. Our disclosures of personal information include disclosures to our “service providers,” which are companies that we engage for business purposes to conduct activities on our behalf. The categories of service providers with whom we share information and the services they provide are described above.
 Categories of personal information we “sell”: We may “sell” any of the categories of personal information listed above to third parties, except for Professional or employment-related information; and Education information. To opt-out of such sales, please go to our California Do Not Sell Page.
+Right to Request Correction of inaccurate personal information.
 
-You can also make a CCPA access, deletion or “do not sell” request by calling the following toll-free number: +1 (888) 914-9661 PIN 430210.
+You can also make a CPRA access, deletion or “do not sell” request by calling the following toll-free number: +1 (888) 914-9661 PIN 430210.
 
-6. Special Information for Nevada Residents
+6. Disclosures to Residents of Colorado, Connecticut, Virginia, and Utah
+
+The disclosures in this section apply solely to individual residents of the States of Colorado, Connecticut, Virginia, and Utah. Privacy laws in these states give residents certain rights with respect to their personal data, when they take effect over the course of 2023. Those rights include:
+
+Right to Access Information. You have the right to access and obtain a copy of your personal data.
+Right to Request Deletion. You have the right to request that we delete personal data provided by or obtained about you.
+Right to Correct. You have the right to correct inaccuracies in your personal data.
+Right to Opt-Out of Targeted Advertising. You may ask us not to use or disclose your information for the purposes of targeting advertising to you based on your personal data obtained from your activity across different businesses, services, websites, etc.
+Right to Opt Out of Personal Information Sales to third parties.
+
+To submit a request to exercise your access, deletion, or correction privacy rights, please email us at privacy@time.com with the subject line “Privacy Rights Request” and let us know in which state you live. Please see Section 8 for a description of how to exercise your right to opt-out of targeted advertising or sales.
+
+Residents of Colorado, Connecticut, and Virginia may appeal a refusal to take action on a request by contacting us by email at privacy@time.com.
+
+7. Special Information for Nevada Residents
 
 Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to other companies who will sell or license their information to others. We disclose contact information to third parties that may want to market products or services to you. To opt-out of such sales, please email us at privacy@time.com.
 
-7. Your Opt-Out Choices
+8. Your Opt-Out Choices
 
 Verification Procedures: We must verify your identity for everyone’s protection. To do so, we may require you to provide us with verification information prior to accessing any records containing personal information about you. We do this by:
 
@@ -185,25 +201,25 @@ When you make an opt-out choice, it does not necessarily mean that you will stop
 
 If you delete your cookies, you may also delete your opt-out preferences.
 
-Your browser or device may include “Do Not Track” functionality. At this time, Time does not respond to browser “Do Not Track” signals.
+To opt out of “sales” or “sharing” of personal information you can toggle your cookies off in the cookie preference center or enable Global Privacy Control (“GPC”) on your browser. To learn more about GPC, please visit http://globalprivacycontrol.org.
 
-8. Security of Personal Information
+9. Security of Personal Information
 
 We have put in place administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
 
-9. Retention of Personal Information
+10. Retention of Personal Information
 
 We will retain your personal information while you have an account with us and thereafter for as long as we have a legitimate need to retain it. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity.
 
-10. Special Note for Parents
+11. Special Note for Parents
 
 The site you are visiting is one of the Time general audience sites and is not intended for use by children. If you are under the age of 16 please do not submit any personal information through this site.
 
-11. Changes to this Privacy Policy
+12. Changes to this Privacy Policy
 
 This Privacy Policy may be updated periodically to reflect changes to our information practices. The revised Privacy Policy will be posted on this website with the date of the last modification, and we will notify of the changes if required by the applicable law. We will treat your information in accordance with the privacy policy in place at the time of collection of such information, or as you otherwise indicate your preferences. We encourage you to check whenever you use our Services to see if the policy has been updated.
 
-12. How to Contact Us
+13. How to Contact Us
 
 If you have any questions or concerns about this Privacy Policy, our data practices, or our compliance with applicable law please contact us by writing to us at privacy@time.com, or at:
 
@@ -214,14 +230,13 @@ New York, NY 10036
 
 Toll-free: 800-843-8463
 
-Toll-free number for CCPA requests: +1 (888) 914-9661 PIN 430210.
+Toll-free number for CPRA requests: +1 (888) 914-9661 PIN 430210.
 
 If you are a print subscriber located in the U.S. and have questions about your subscription, please contact us by writing to us at customerservice@time.com or at:
 
-Time Customer Service
-Attention: Consumer Affairs
-3000 University Center Drive
-Tampa, Florida 33612-6408
+TIME
+PO BOX 37263
+Boone, IA 50037-0263
 Toll-free: 800-843-8463
 
 back to top
