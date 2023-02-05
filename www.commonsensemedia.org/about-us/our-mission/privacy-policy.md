@@ -1,7 +1,4 @@
 Skip to main content
-
-Common Sense has recently updated its privacy notice. We also provide an overview of the entire policy here.
-
 For Parents For Educators Our Work and Impact
 Privacy Policy/Your California Privacy Rights
 
