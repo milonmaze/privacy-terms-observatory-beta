@@ -1,86 +1,117 @@
 Found the internet!
 Trending today
-Chinese Surveillance Balloon
-China condemns US ‘attack’ on surveillance balloon as ‘overreaction’
+Ukraine
+Zelenskyy says Russia is throwing more troops into battle as Ukraine braces for major attack
 r/worldnews and more
-HBO Mario Kart
-HBO Mario Kart Trailer - SNL
-r/television and more
-India Bans Chinese Betting Apps
-India bans 138 betting apps, 94 loan lending apps with Chinese links
+2023 Grammy Awards
+Viola Davis earns coveted EGOT with Grammy win
+r/movies and more
+2023 Pro Bowl
+[NFL] The winningest coach in Pro Bowl Games history. @EliManning
+r/nfl and more
+Chinese Balloon
+Entirely credible and cost-effective way to pop the Chinese balloon.
+r/NonCredibleDefense and more
+Hogwarts Legacy
+IGN: Hogwarts Legacy Review - 9/10
+r/Games and more
+Earthquake in Turkey
+Earthquake of magnitude 7.7 strikes Turkey
 r/worldnews and more
-Fedor Emelianenko
-spoiler
-Fedor’s sendoff. Enjoy your retirement champ.
-r/MMA and more
-Cybertruck
-Cybertruck Prototype Four Wheel Steering
-r/teslamotors and more
-Volodymyr Zelenskyy
-“There is a consensus” with Zelenskyy that Russian territory will not be attacked with Western weapons – Scholz
-r/ukraine and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-95.4k
-r/interestingasfuck
+26.5k
+r/AskReddit
 •Posted by
-u/phleep
-18 hours ago
-2
-& 2 More
+u/fire-lord-momo
+1 day ago
 Join
-The Chinese Balloon Shot Down
-/r/ALL
-8.1k Comments
+What film made you say: "Holy shit, there is still 50 minutes left"?
+16.4k Comments
 Share
 Save
-6.2k
-r/WatchPeopleDieInside
-•Posted by
-u/ghostredditorstempac
-2 hours ago
-Join
-A fun flight totally ruined
-164 Comments
-Share
-Save
-12.3k
-r/NoStupidQuestions
-•Posted by
-u/Alan_Darkcaster69
-16 hours ago
-Join
-Don’t water a grease fire, don’t mess with a garage spring. What are some MORE potentially life saving tips?
-
-I saw a post about this a while ago and was wondering if anyone had more of these
-
-one I know is that if a tornado looks still, it’s moving towards you
-
-6.3k Comments
-Share
-Save
-55.9k
+12.7k
 r/worldnews
 •Posted by
-u/GuiltySigurdsson
-18 hours ago
-US downs Chinese balloon over ocean, moves to recover debris
-apnews.com/articl...
+u/dies-IRS
+3 hours ago
+Turkey’s South Hit by a Second High-Magnitude Earthquake
+M7.5
+bloomberg.com/news/a...
 Join
-6.2k Comments
+1.2k Comments
 Share
 Save
-7.2k
-r/therewasanattempt
+20.9k
+r/nextfuckinglevel
 •Posted by
-u/pandabatron
-3 hours ago
+u/Ciocolatel
+5 hours ago
 Join
-To get to school & work going 106 mph
-1.4k Comments
+In South Korea, the solar panels in the middle of the highway have a bicycle path underneath..cyclists are protected from the sun, isolated from traffic, and the country can produce clean energy.
+850 Comments
+Share
+Save
+46.7k
+r/pics
+•Posted by
+u/SupermanRR1980
+16 hours ago
+Join
+Bennigan’s in Florida closed down and this left on the door.
+Politics
+7.7k Comments
+Share
+Save
+33.3k
+r/nba
+•Posted by
+u/DRAZZILB1424
+18 hours ago
+& 3 More
+Join
+[Charania] BREAKING: The Brooklyn Nets are trading Kyrie Irving to the Dallas Mavericks for Spencer Dinwiddie, Dorian Finney-Smith, a first-round and multiple second-round picks, sources tell @TheAthletic @Stadium.
+News
+twitter.com/ShamsC...
+6.6k Comments
+Share
+Save
+3.6k
+r/thelastofus
+•Posted by
+u/AutoModerator
+11 hours ago
+Join
+The Last of Us HBO S01E04 - "Please Hold My Hand" Post-Episode Discussion Thread
+HBO Showspoiler
+5.7k Comments
+Share
+Save
+27.2k
+r/science
+•Posted by
+u/thebelsnickle1991
+19 hours ago
+Liberals view emotions as a feature of rationality, while conservatives view it as a bug, study finds
+Psychology
+psypost.org/2023/0...
+Join
+2.6k Comments
+Share
+Save
+33.3k
+r/news
+•Posted by
+u/ThePotatoNeverBlinks
+17 hours ago
+Colorado River crisis so severe lakes Mead and Powell are unlikely to refill in our lifetimes
+Soft paywall
+latimes.com/califo...
+Join
+2.5k Comments
 Share
 Save
 Advertisement
