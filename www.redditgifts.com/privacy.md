@@ -1,117 +1,136 @@
 Found the internet!
 Trending today
-Ukraine
-Zelenskyy says Russia is throwing more troops into battle as Ukraine braces for major attack
-r/worldnews and more
-2023 Grammy Awards
-Viola Davis earns coveted EGOT with Grammy win
-r/movies and more
-2023 Pro Bowl
-[NFL] The winningest coach in Pro Bowl Games history. @EliManning
-r/nfl and more
-Chinese Balloon
-Entirely credible and cost-effective way to pop the Chinese balloon.
-r/NonCredibleDefense and more
-Hogwarts Legacy
-IGN: Hogwarts Legacy Review - 9/10
-r/Games and more
-Earthquake in Turkey
-Earthquake of magnitude 7.7 strikes Turkey
-r/worldnews and more
+LeBron James
+LeBron James breaks the NBA All-time scoring record!👑 #ScoringKing
+r/nextfuckinglevel and more
+Ron DeSantis
+Trump shares old photo of DeSantis appearing to party with teen girls when he was teacher
+r/politics and more
+Drake
+Drake, Kanye West, Lil Wayne, Eminem - Forever (Official Music Video)
+r/hiphopheads and more
+Legend of Zelda: Tears of the Kingdom
+The Legend of Zelda: Tears of the Kingdom was showing up as $70 before being taken down from the eshop
+r/gaming and more
+Phoenix Suns
+[Wojnarowski] Durant had interest in a deal to the Suns over the summer, but so far the Nets haven't shown a willingness to move him to Phoenix or anywhere else, sources tell ESPN. There have been a number of teams reaching out to Brooklyn on Durant.
+r/nba and more
+Zelenskyy Visits London
+Sunak and Zelenskyy arrive at Downing Street. Applause was heard inside as Zelenskyy entered.
+r/ukraine and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-26.5k
+1.2k
+r/nba
+•Posted by
+u/NBA_MOD
+12 hours ago
+Join
+GAME THREAD: Oklahoma City Thunder (25-28) @ Los Angeles Lakers (25-29) - (February 08, 2023)
+Game Thread
+General Information
+**TIME**     |**MEDIA**                            |**Team Subreddits**        |
+:------------|:------------------------------------|:-------------------|
+10:00 PM Eastern |**Game Preview**: [NBA.com](https://www.nba.com/game/OKC-vs-LAL-0022200821/preview) | /r/thunder          |
+09:00 PM Central |**Game Charts**: [NBA.com](https://www.nba.com/game/OKC-vs-LAL-0022200821/game-charts) | /r/lakers           |
+08:00 PM Mountain|**Play By Play**: [NBA.com](https://www.nba.com/game/OKC-vs-LAL-0022200821/play-by-play)|               |
+07:00 PM Pacific |**Box Score**: [NBA.com](https://www.nba.com/game/OKC-vs-LAL-0022200821/boxscore) |                 |
+
+
+Reddit Stream (You must click this link from the comment page.)
+
+15.2k Comments
+Share
+Save
+15.9k
+r/ProgrammerHumor
+•Posted by
+u/A_H_S_99
+4 hours ago
+Join
+Basically how Musk fanboys think any website is run
+instanceof Trend
+504 Comments
+Share
+Save
+11.8k
 r/AskReddit
 •Posted by
-u/fire-lord-momo
-1 day ago
+u/Malk_McJorma
+18 hours ago
 Join
-What film made you say: "Holy shit, there is still 50 minutes left"?
-16.4k Comments
+Are you still using cash? Why?
+12.2k Comments
 Share
 Save
-12.7k
-r/worldnews
+91.3k
+r/mildlyinfuriating
 •Posted by
-u/dies-IRS
-3 hours ago
-Turkey’s South Hit by a Second High-Magnitude Earthquake
-M7.5
-bloomberg.com/news/a...
+u/snrpro
+19 hours ago
 Join
-1.2k Comments
+I just want to get my laundry detergent for the year and get out
+sigh
+12.0k Comments
 Share
 Save
-20.9k
+14.2k
 r/nextfuckinglevel
 •Posted by
 u/Ciocolatel
-5 hours ago
+4 hours ago
 Join
-In South Korea, the solar panels in the middle of the highway have a bicycle path underneath..cyclists are protected from the sun, isolated from traffic, and the country can produce clean energy.
-850 Comments
+Andrew Cairney from Glasglow, Scotland loading all nine of The Ardblair Stones
+555 Comments
 Share
 Save
-46.7k
-r/pics
+10.8k
+r/pcgaming
 •Posted by
-u/SupermanRR1980
-16 hours ago
-Join
-Bennigan’s in Florida closed down and this left on the door.
-Politics
-7.7k Comments
-Share
-Save
-33.3k
-r/nba
-•Posted by
-u/DRAZZILB1424
-18 hours ago
-& 3 More
-Join
-[Charania] BREAKING: The Brooklyn Nets are trading Kyrie Irving to the Dallas Mavericks for Spencer Dinwiddie, Dorian Finney-Smith, a first-round and multiple second-round picks, sources tell @TheAthletic @Stadium.
-News
-twitter.com/ShamsC...
-6.6k Comments
-Share
-Save
-3.6k
-r/thelastofus
-•Posted by
-u/AutoModerator
+u/Isagi17
 11 hours ago
+Hogwarts Legacy has officially broken an all-time Twitch record for being the most-watched single-player game with 1.3 million viewers
+[Locked]
+insider-gaming.com/hogwar...
 Join
-The Last of Us HBO S01E04 - "Please Hold My Hand" Post-Episode Discussion Thread
-HBO Showspoiler
-5.7k Comments
+2.7k Comments
 Share
 Save
-27.2k
-r/science
+31.6k
+r/todayilearned
 •Posted by
-u/thebelsnickle1991
-19 hours ago
-Liberals view emotions as a feature of rationality, while conservatives view it as a bug, study finds
-Psychology
-psypost.org/2023/0...
+u/shaka_sulu
+8 hours ago
+TIL in 1915 a farmer saw his sister make her own mascara with coal and petrolium jelly and thought he could make a better product. His invention was easier to apply and won't burn a woman's eye. He named his new company Maybelline after his sister Maybel and the base material Vasaline.
+entrepreneur.com/leader...
 Join
-2.6k Comments
+518 Comments
 Share
 Save
-33.3k
-r/news
+46.3k
+r/worldnews
 •Posted by
-u/ThePotatoNeverBlinks
-17 hours ago
-Colorado River crisis so severe lakes Mead and Powell are unlikely to refill in our lifetimes
-Soft paywall
-latimes.com/califo...
+u/MrJasonMason
+23 hours ago
+2
+Roughly 1 million Tibetan children have been separated from their families and forcibly placed into state-run boarding schools, the U.N. said
+time.com/625348...
 Join
 2.5k Comments
+Share
+Save
+14.7k
+r/UpliftingNews
+•Posted by
+u/QuevedoDeMalVino
+7 hours ago
+Ukraine succeeds in bringing back 128 children forcibly removed to Russia
+pravda.com.ua/eng/ne...
+Join
+144 Comments
 Share
 Save
 Advertisement
