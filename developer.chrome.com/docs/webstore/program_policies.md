@@ -5,6 +5,7 @@ Program Policies
 The Chrome Web Store is committed to providing a safe and secure environment for users, built on trust and transparency. For these reasons, the Chrome Web Store requires all developers to comply with both the Developer Program Policies listed below, and the Developer Agreement. When your extension is reviewed by Google, these policies act as a guiding principle for those reviews. These policies apply to the entire user experience of your application/extension/theme – including any marketing materials, user generated content, ads, landing pages, etc – unless otherwise noted.
 
 Documentation
+#
 
 Chrome Web Store Principles
 
@@ -22,11 +23,15 @@ Be Useful
 
 Extensions in the Store must provide experiences that are educational, informative, entertaining, inclusive, and that result in a positive user experience. We will remove extensions that appear to provide little to no utility to users, or do not provide the reasonably expected functionality. Chrome will also strive to provide useful tools to developers to help encourage innovation.
 
+#
+
 Best Practices and Guidelines
 
 To help ensure the best experience for both users and developers, please review the below guidelines before submitting your extension to the Chrome Web Store. Following all of these guidelines doesn’t mean your extension will be automatically approved, but they will help you to avoid common mistakes that often delay the review process.
 
 Best Practices and Guidelines
+
+#
 
 Fostering a Safe Ecosystem
 
@@ -39,6 +44,8 @@ Malicious and Prohibited Products
 Hate Speech and Violent Behavior
 
 Regulated Goods and Services
+
+#
 
 Protecting User Privacy
 
@@ -57,6 +64,8 @@ Handling Requirements
 More documentation
 
 User Data FAQ
+
+#
 
 Ensuring Responsible Marketing and Monetization
 
@@ -79,6 +88,8 @@ More documentation
 Deceptive Installation Tactics FAQ
 
 Affiliate Ads FAQ
+
+#
 
 Building Quality Products
 
@@ -104,6 +115,8 @@ Spam policy FAQ
 
 Extensions quality guidelines FAQ
 
+#
+
 Technical Requirements
 
 In addition to compliance with the policies set out elsewhere in the Developer Program Policies, extensions must follow certain technical guidelines to ensure a positive user experience.
@@ -115,6 +128,8 @@ API Use
 Additional Requirements for Manifest V3
 
 2-Step Verification
+
+#
 
 Enforcement
 
