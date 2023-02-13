@@ -1,77 +1,102 @@
 Found the internet!
 Trending today
-Twitter
-Elon Musk fires a top Twitter engineer over his declining view count
-r/ElonJetTracker and more
-Netflix Subscriptions
-Canadians cancelling their Netflix subscriptions in droves following new account sharing rules
-r/technology and more
-Russia-Ukraine War
-Russia’s New Offensive in Ukraine Appears to be Beginning
-r/worldnews and more
+Chinese Laser
+Philippines: China ship hits Filipino crew with laser light
+r/anime_titties and more
+Mars Wrigley Chocolate Fines
+Mars Wrigley factory fined after two workers fall into chocolate vat
+r/nottheonion and more
+Rihanna
+Rihanna Is Pregnant, Rep Confirms Following Super Bowl Halftime Show
+r/entertainment and more
 Patrick Mahomes
-[Pelissero] Patrick Mahomes has won his second NFL MVP.
+[Albert Breer] At age 27, and after five years as a starter, @Chiefs QB @PatrickMahomes has played in five AFC title games, won three conference titles, two Super Bowls, and two NFL MVPs.
 r/nfl and more
-Golden State Warriors
-[Wojnarowski] The Blazers are trading Gary Payton II to the Warriors for five second round picks, sources tell ESPN.
-r/nba and more
-George Santos
+Lake Huron Unidentified Flying Object
+U.S. military brings down flying object over Lake Huron near Canadian border
+r/worldnews and more
+Andy Reid
+[Highlight] Terry Bradshaw tells Andy Reid to "waddle over here."
+r/nfl and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-21.8k
-r/ProgrammerHumor
-•Posted by
-u/Notalabel_4566
-5 hours ago
-Join
-I really hope this feature goes to Production
-Meme
-789 Comments
-Share
-Save
-127k
-r/mildlyinfuriating
-•Posted by
-u/FireRotor
-21 hours ago
-Join
-My SO throws her daily contacts behind the headboard of our bed.
-11.0k Comments
-Share
-Save
-12.8k
+29.5k
 r/AskReddit
 •Posted by
-u/Jhill520
-17 hours ago
-Join
-What would happen if everyone over 70 died tomorrow?
-8.5k Comments
-Share
-Save
-49.8k
-r/PublicFreakout
-•Posted by
-u/trievan
+u/finer_things_today
 21 hours ago
 Join
-Dude talks shit, says things you shouldn't say and gets absolutely obliterated at the Dallas Stars Game
-🔊 LOUD
-8.3k Comments
+What industry do you consider to be legal, organized-crime?
+18.4k Comments
 Share
 Save
-70.9k
-r/facepalm
+13.2k
+r/MadeMeSmile
 •Posted by
-u/FarmSuch5021
-15 hours ago
+u/ThePieous
+3 hours ago
+3
 Join
-Should the school and bullies who posted the video online be responsible for her death?
- 🇲​🇮​🇸​🇨​
-7.3k Comments
+[OC] "I was never afraid before you showed up..." I baked a "Last of Us"-themed strawberry pie for Valentine's Day
+ LGBT+ 
+280 Comments
+Share
+Save
+30.2k
+r/WhitePeopleTwitter
+•Posted by
+u/Travismatthew08
+20 hours ago
+Join
+Texas.
+10.2k Comments
+Share
+Save
+10.9k
+r/worldnews
+•Posted by
+u/bloomberg
+6 hours ago
+China says US balloons trespassed over their airspace more than 10 times since early 2022
+bloomberg.com/news/a...
+Join
+1.5k Comments
+Share
+Save
+9.0k
+r/europe
+•Posted by
+u/kirbythegodofchaos
+6 hours ago
+Join
+Finnish family coach (lastenvaunu) in Inter-City trains.
+Picture
+217 Comments
+Share
+Save
+58.8k
+r/worldnews
+•Posted by
+u/PatientBuilder499
+17 hours ago
+2
+U.S. military brings down flying object over Lake Huron near Canadian border
+reuters.com/world/...
+Join
+7.2k Comments
+Share
+Save
+45.9k
+r/therewasanattempt
+•Posted by
+u/Olivier70802
+13 hours ago
+Join
+to watch movie on a plane.
+5.3k Comments
 Share
 Save
 Advertisement
