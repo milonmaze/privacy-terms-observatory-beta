@@ -1,102 +1,78 @@
 Found the internet!
 Trending today
-Chinese Laser
-Philippines: China ship hits Filipino crew with laser light
-r/anime_titties and more
-Mars Wrigley Chocolate Fines
-Mars Wrigley factory fined after two workers fall into chocolate vat
-r/nottheonion and more
-Rihanna
-Rihanna Is Pregnant, Rep Confirms Following Super Bowl Halftime Show
-r/entertainment and more
-Patrick Mahomes
-[Albert Breer] At age 27, and after five years as a starter, @Chiefs QB @PatrickMahomes has played in five AFC title games, won three conference titles, two Super Bowls, and two NFL MVPs.
-r/nfl and more
-Lake Huron Unidentified Flying Object
-U.S. military brings down flying object over Lake Huron near Canadian border
+Joker: Folie à Deux
+First Image of Lady Gaga and Joaquin Phoenix in 'Joker: Folie à Deux'
+r/movies and more
+Valentine's Day
+Our 4yo wrote this on all of her friends candy bags in pre-school today and told the teacher it said Happy Valentines day…
+r/funny and more
+Ohio Chemical Spill
+Ohio officials say air quality in East Palestine is fine but not to drink the water
+r/news and more
+Flying Objects in American Airspace
+US Says 3 Mystery Objects Likely Private, With No China Link
 r/worldnews and more
-Andy Reid
-[Highlight] Terry Bradshaw tells Andy Reid to "waddle over here."
-r/nfl and more
+Bill Watterson
+Calvin and Hobbes creator Bill Watterson is releasing a new graphic novel called The Mysteries on October 10, according to publisher Simon and Schuster
+r/books and more
+Arizona Nitric Acid Spill
+Authorities have issued a hazmat alert and a 'shelter in place' warning is in effect for all individuals within a mile radius in Tucson Arizona, after a truck carrying hazardous materials overturns on the highway
+r/Damnthatsinteresting and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-29.5k
+46.7k
 r/AskReddit
 •Posted by
-u/finer_things_today
-21 hours ago
+u/wlane13
+22 hours ago
 Join
-What industry do you consider to be legal, organized-crime?
-18.4k Comments
+What actor or actress stupidly left a movie franchise or tv series thinking they were too good for it, only to be never popular again?
+25.8k Comments
 Share
 Save
-13.2k
-r/MadeMeSmile
+9.2k
+r/Damnthatsinteresting
 •Posted by
-u/ThePieous
-3 hours ago
-3
+u/Xeoft
+2 hours ago
 Join
-[OC] "I was never afraid before you showed up..." I baked a "Last of Us"-themed strawberry pie for Valentine's Day
- LGBT+ 
-280 Comments
+Passenger photo while plane flew near East Palestine, Ohio ... chemical fire after train derailed
+Image
+501 Comments
 Share
 Save
-30.2k
+13.4k
+r/memes
+•Posted by
+u/Cookie_597
+4 hours ago
+Join
+Mysterious lands
+202 Comments
+Share
+Save
+41.4k
 r/WhitePeopleTwitter
 •Posted by
-u/Travismatthew08
-20 hours ago
-Join
-Texas.
-10.2k Comments
-Share
-Save
-10.9k
-r/worldnews
-•Posted by
-u/bloomberg
-6 hours ago
-China says US balloons trespassed over their airspace more than 10 times since early 2022
-bloomberg.com/news/a...
-Join
-1.5k Comments
-Share
-Save
-9.0k
-r/europe
-•Posted by
-u/kirbythegodofchaos
-6 hours ago
-Join
-Finnish family coach (lastenvaunu) in Inter-City trains.
-Picture
-217 Comments
-Share
-Save
-58.8k
-r/worldnews
-•Posted by
-u/PatientBuilder499
+u/Visqo
 17 hours ago
-2
-U.S. military brings down flying object over Lake Huron near Canadian border
-reuters.com/world/...
 Join
-7.2k Comments
+Who’s got the answer to Number 4?
+7.7k Comments
 Share
 Save
-45.9k
-r/therewasanattempt
+10.3k
+r/formula1
 •Posted by
-u/Olivier70802
-13 hours ago
+u/Puzzleheaded-Rain230
+5 hours ago
 Join
-to watch movie on a plane.
-5.3k Comments
+2023 Mercedes W14 E Performance
+ Photo /r/all
+1.0k Comments
 Share
 Save
 Advertisement
