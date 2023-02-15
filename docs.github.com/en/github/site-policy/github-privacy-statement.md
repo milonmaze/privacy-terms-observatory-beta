@@ -25,7 +25,7 @@ Cookies and tracking technologies	Except for some of the cookies used on our Ent
 
 As described below, we may use non-essential cookies on certain pages of our website to support our enterprise marketing efforts and market our products and services to enterprise customers, for example on resources.github.com (collectively “Enterprise Marketing Pages”).
 
-We offer a page that makes all uses of cookies very transparent.
+For more information about cookies, see the list of cookies used by GitHub.
 How GitHub secures your information	We take all measures reasonably necessary to protect the confidentiality, integrity, and availability of your personal data on GitHub and to protect the resilience of our servers.
 Communication preferences	We communicate with you by email. You can control the way we contact you in your account settings, or by contacting us.
 Resolving complaints	In the unlikely event that we are unable to resolve a privacy concern quickly and thoroughly, we provide a path of dispute resolution.
@@ -98,7 +98,7 @@ Other companies with whom you choose to engage. GitHub may collect personal data
 
 Service Providers. We may also receive information from processors or service providers who process the data on our behalf, such as our payment processor who process payment and billing information in connection with our Service.
 
-Content you post on our Service. Information you store in, or contribute to, a public repository, provide for use in connection with a Community Feature or make otherwise publicly available through the Service will be collected by GitHub as described in this Privacy Statement. Such information may also be available to the GitHub user community as well as the general public. For more information, please review details regarding public repositories and community features here.
+Content you post on our Service. Information you store in, or contribute to, a public repository, provide for use in connection with a Community Feature or make otherwise publicly available through the Service will be collected by GitHub as described in this Privacy Statement. Such information may also be available to the GitHub user community as well as the general public. For more information about repositories and community features, see "About your profile."
 
 Co-branding/marketing partners. We may receive information from partners with which we offer co-branded services or engage in joint marketing activities.
 
@@ -127,7 +127,7 @@ We share personal data as described below, including with your consent or as nec
 
 Public information
 
-You may select options available through our Service to publicly display and share your name and/or username and certain other information, such as your profile, demographic data, content and files, or geolocation data. For example, if you would like your email address to remain private, even when you’re commenting on public repositories, you can adjust your setting for your email address to be private in your user profile. You can also update your local Git configuration to use your private email address. Please see more about email addresses in commit messages here.
+You may select options available through our Service to publicly display and share your name and/or username and certain other information, such as your profile, demographic data, content and files, or geolocation data. For example, if you would like your email address to remain private, even when you’re commenting on public repositories, you can adjust your setting for your email address to be private in your user profile. You can also update your local Git configuration to use your private email address. For more information, see "Setting your commit email address."
 
 Please note that if you would like to compile GitHub data, you must comply with our Terms of Service regarding information usage and privacy, and you may only use any public-facing information you gather for the purpose for which our user authorized it. For example, where a GitHub user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for the purposes of sending unsolicited emails to users or selling personal information, such as to recruiters, headhunters, and job boards, or for commercial advertising. We expect you to reasonably secure information you have gathered from GitHub, and to respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub users.
 
@@ -190,7 +190,7 @@ As a GitHub User, you can always take your data with you. You can clone your rep
 
 Communication preferences
 
-We use your email address to communicate with you, if you've said that's okay, and only for the reasons you’ve said that’s okay. For example, if you contact our Support team with a request, we respond to you via email. You have control over how your email address is used and shared with other Users on and through our Service. You may manage your communication preferences in your profile.
+We use your email address to communicate with you, if you've said that's okay, and only for the reasons you’ve said that’s okay. For example, if you contact our Support team with a request, we respond to you via email. You have control over how your email address is used and shared with other Users on and through our Service. You may manage your communication preferences in your profile's email settings.
 
 By design, the Git version control system associates many actions with a user's email address, such as commit messages. See more details regarding setting your commit email address.
 
@@ -207,7 +207,7 @@ For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gat
 
 Our emails to users may contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email communications more effective and to make sure we are not sending you unwanted email.
 
-The length of time a cookie will stay on your browser or device depends on whether it is a “persistent” or “session” cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay until they expire or are deleted. The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used. You may be able to delete cookie data as described here.
+The length of time a cookie will stay on your browser or device depends on whether it is a “persistent” or “session” cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay until they expire or are deleted. The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used. You may be able to delete cookie data. For more information, see "What are your cookie choices and controls?."
 
 What are cookies and similar technologies?
 
@@ -314,7 +314,7 @@ In the unlikely event that a dispute arises between you and GitHub regarding our
 
 Changes to our Privacy Statement
 
-GitHub may change this Privacy Statement from time to time for a variety of reasons, including to comply with new laws and regulations, to cover new features and functionality, and to increase transparency. We will provide notice of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your GitHub account. We will also update our Site Policy repository, which tracks all changes to this policy. For other changes to this Privacy Statement, we encourage Users to watch or to check our Site Policy repository frequently.
+GitHub may change this Privacy Statement from time to time for a variety of reasons, including to comply with new laws and regulations, to cover new features and functionality, and to increase transparency. We will provide notice of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your GitHub account. We will also update our Site Policy repository, which tracks all changes to this policy. For other changes to this Privacy Statement, we encourage Users to watch or to check our Site Policy repository frequently. To learn how to watch a repository, see "Configuring your watch settings for an individual repository."
 
 License
 
@@ -330,7 +330,7 @@ Below are translations of this document into other languages. In the event of an
 
 French
 
-Cliquez ici pour obtenir la version française: Déclaration de confidentialité de GitHub
+Cliquez ici pour obtenir la version française: Déclaration de confidentialité de GitHub (PDF)
 
 Other translations
 
@@ -359,7 +359,7 @@ Usage information and Interactions	Advertisers	To support GitHub’s enterprise 
 
 Rights. You have the right to request that we (i) disclose what personal data we collect, use, disclose, share, and sell, (ii) delete your personal data, (iii) correct your personal data, and (iv) restrict the use and disclosure of your sensitive data, and (v) opt-out of future “sharing” of personal data for targeted advertising purposes. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we provide your agent with detailed guidance on how to exercise your privacy rights.
 
-Please see Your choices regarding our processing of your personal data section of the GitHub Privacy Statement for additional information on how to exercise these rights. You can use GitHub’s User Migration API to access and download your data. Learn more here.
+Please see Your choices regarding our processing of your personal data section of the GitHub Privacy Statement for additional information on how to exercise these rights. You can use GitHub’s User Migration API to access and download your data. For more information, see "Requesting an archive of your personal account's data."
 
 If you have a GitHub account, you must exercise your rights through the tools provided, which requires you to log in to your GitHub account. If you have an additional request or questions after logging in, you may contact GitHub at the address in the How to contact us section, including through our web form.
 
