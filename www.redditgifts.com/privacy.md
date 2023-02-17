@@ -1,78 +1,124 @@
 Found the internet!
 Trending today
-Joker: Folie à Deux
-First Image of Lady Gaga and Joaquin Phoenix in 'Joker: Folie à Deux'
-r/movies and more
-Valentine's Day
-Our 4yo wrote this on all of her friends candy bags in pre-school today and told the teacher it said Happy Valentines day…
-r/funny and more
 Ohio Chemical Spill
-Ohio officials say air quality in East Palestine is fine but not to drink the water
+Heavily contaminated water in East Palestine, Ohio.
+r/woahdude and more
+Bruce Willis
+Bruce Willis Diagnosed With Dementia
+r/movies and more
+Matt Gaetz
+“Stunning”: Reporters who uncovered Matt Gaetz evidence baffled after DOJ drops sex trafficking case
+r/politics and more
+Alex Jones
+Bankrupt Alex Jones spends nearly $100,000 a month
 r/news and more
-Flying Objects in American Airspace
-US Says 3 Mystery Objects Likely Private, With No China Link
-r/worldnews and more
-Bill Watterson
-Calvin and Hobbes creator Bill Watterson is releasing a new graphic novel called The Mysteries on October 10, according to publisher Simon and Schuster
-r/books and more
-Arizona Nitric Acid Spill
-Authorities have issued a hazmat alert and a 'shelter in place' warning is in effect for all individuals within a mile radius in Tucson Arizona, after a truck carrying hazardous materials overturns on the highway
-r/Damnthatsinteresting and more
+India vs. Australia 2nd Test
+Match Thread: 2nd Test - India vs Australia, Day 1
+r/Cricket and more
+Russia-Ukraine War
 Popular posts
 Hot
 Everywhere
 New
 Top
-46.7k
+41.0k
 r/AskReddit
 •Posted by
-u/wlane13
-22 hours ago
+u/Airsinner
+21 hours ago
 Join
-What actor or actress stupidly left a movie franchise or tv series thinking they were too good for it, only to be never popular again?
-25.8k Comments
+What job position is 100% overvalued and overpaid?
+22.1k Comments
 Share
 Save
-9.2k
-r/Damnthatsinteresting
+39.2k
+r/meirl
 •Posted by
-u/Xeoft
-2 hours ago
-Join
-Passenger photo while plane flew near East Palestine, Ohio ... chemical fire after train derailed
-Image
-501 Comments
-Share
-Save
-13.4k
-r/memes
-•Posted by
-u/Cookie_597
-4 hours ago
-Join
-Mysterious lands
-202 Comments
-Share
-Save
-41.4k
-r/WhitePeopleTwitter
-•Posted by
-u/Visqo
-17 hours ago
-Join
-Who’s got the answer to Number 4?
-7.7k Comments
-Share
-Save
-10.3k
-r/formula1
-•Posted by
-u/Puzzleheaded-Rain230
+u/boghlx
 5 hours ago
 Join
-2023 Mercedes W14 E Performance
- Photo /r/all
-1.0k Comments
+meirl
+1.1k Comments
+Share
+Save
+1.0k
+r/Cricket
+•Posted by
+u/CricketMatchBot
+11 hours ago
+Join
+Match Thread: 2nd Test - India vs Australia, Day 1
+2nd Test, Australia tour of India at Delhi
+
+Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
+
+Innings	Score
+Australia	263 (Ov 78.4)
+India	21/0 (Ov 9)
+
+
+
+
+Batter	Runs	Balls	SR
+Rohit Sharma*	13	34	38.24
+KL Rahul	4	20	20.0Bowler	Overs	Runs	Wickets
+Nathan Lyon	2	4	0
+Matthew Kuhnemann	4	6	0
+Recent : . .  |  . . 1 . . 1  |  . . 2 . 2 .  |  1 . . 1 . .  |  
+
+
+Day 1 - India trail by 242 runs.
+
+Send feedback | Schedule | Stat Help
+
+Please don't post illegal streaming links in match threads
+
+14.9k Comments
+Share
+Save
+12.6k
+r/wholesomememes
+•Posted by
+u/Khaleena788
+5 hours ago
+Join
+Reference Letter to the Toothfairy
+213 Comments
+Share
+Save
+32.9k
+r/Gunners
+LIVE
+· 47.9k players
+3
+/r/gunners 2022-23 Prediction Tournament
+PREDICTION
+Aston Villa v Arsenal: Which keeper will face more shots?
+You must be logged in
+Martinez
+Ramsdale
+Same number of shots
+See What Others Predicted
+PREDICTION
+Aston Villa v Arsenal
+You must be logged in
+Aston Villa Win
+Draw
+Arsenal Win
+See What Others Predicted
+0 of 2 predicted
+150 Comments
+Share
+Save
+56.6k
+r/Damnthatsinteresting
+•Posted by
+u/PineBarrens89
+1 day ago
+Join
+This school district in Indiana spends $10.3K per student. Less than half what is spent on Baltimore public schools
+Video
+9.7k Comments
 Share
 Save
 Advertisement
