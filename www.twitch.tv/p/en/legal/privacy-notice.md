@@ -33,7 +33,7 @@ Help
 Jobs
 Languages
 Last modified on 02/02/2023
-Twitch.tvPrivacy Notice
+Twitch.tv Privacy Notice
 
 Last updated: February 2, 2023. To see prior versions, click here.
 
