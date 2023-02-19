@@ -52,7 +52,7 @@ Law Enforcement Information Requests
 Communications from Amazon.com
 Legal Policies
 Your Security
-Report Unsolicited Packages or Brushing Scams
+Report Unsolicited Package or Brushing Scams
 Quick solutions
 	
 
