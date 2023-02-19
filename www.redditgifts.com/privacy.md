@@ -1,124 +1,120 @@
 Found the internet!
 Trending today
-Ohio Chemical Spill
-Heavily contaminated water in East Palestine, Ohio.
-r/woahdude and more
-Bruce Willis
-Bruce Willis Diagnosed With Dementia
-r/movies and more
-Matt Gaetz
-“Stunning”: Reporters who uncovered Matt Gaetz evidence baffled after DOJ drops sex trafficking case
-r/politics and more
-Alex Jones
-Bankrupt Alex Jones spends nearly $100,000 a month
+WWE Elimination Chamber
+spoiler
+(Elimination Chamber Spoilers) Haven't seen that in the chamber before
+r/SquaredCircle and more
+Jimmy Carter
+Jimmy Carter, oldest living former U.S. president ever, is placed in hospice care
 r/news and more
-India vs. Australia 2nd Test
-Match Thread: 2nd Test - India vs Australia, Day 1
-r/Cricket and more
-Russia-Ukraine War
+Directors Guild Awards
+Daniel Kwan and Daniel Scheinert win "Outstanding Directorial Achievement in Theatrical Feature Film" for Everything Everywhere All At Once at the Directors Guild Awards
+r/movies and more
+NBA 3 Point Contest
+[Highlight] Tyrese Haliburton on fire as he unlocks $300k for the NBA Foundation by scoring 31 points in the 2023 Starry 3-Point Contest
+r/nba and more
+LCK 2023
+spoiler
+Dplus KIA vs. Liiv SANDBOX / LCK 2023 Spring - Week 5 / Post-Match Discussion
+r/leagueoflegends and more
+China Supporting Russia
+China is considering providing "lethal support" to aid Russian invasion of Ukraine, Blinken says
+r/news and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-41.0k
-r/AskReddit
-•Posted by
-u/Airsinner
-21 hours ago
-Join
-What job position is 100% overvalued and overpaid?
-22.1k Comments
-Share
-Save
-39.2k
-r/meirl
-•Posted by
-u/boghlx
-5 hours ago
-Join
-meirl
-1.1k Comments
-Share
-Save
-1.0k
+833
 r/Cricket
 •Posted by
 u/CricketMatchBot
 11 hours ago
 Join
-Match Thread: 2nd Test - India vs Australia, Day 1
+Match Thread: 2nd Test - Australia vs India, Day 3
 2nd Test, Australia tour of India at Delhi
 
-Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
+Post Match | Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
 
 Innings	Score
 Australia	263 (Ov 78.4)
-India	21/0 (Ov 9)
+India	262 (Ov 83.3)
+Australia	113 (Ov 31.1)
+India	118/4 (Ov 26.4)
 
 
 
 
 Batter	Runs	Balls	SR
-Rohit Sharma*	13	34	38.24
-KL Rahul	4	20	20.0Bowler	Overs	Runs	Wickets
-Nathan Lyon	2	4	0
-Matthew Kuhnemann	4	6	0
-Recent : . .  |  . . 1 . . 1  |  . . 2 . 2 .  |  1 . . 1 . .  |  
+Cheteshwar Pujara*	31	74	41.89
+Srikar Bharat	23	22	104.55Bowler	Overs	Runs	Wickets
+Todd Murphy	6.4	22	1
+Travis Head	1	9	0
+Recent : . . . 1  |  . 4 . . . 4  |  . 1 6 1 1 .  |  . . . 4 
 
 
-Day 1 - India trail by 242 runs.
+India won by 6 wickets
+
+Live match threads: Multan Sultans vs Islamabad United |
 
 Send feedback | Schedule | Stat Help
 
 Please don't post illegal streaming links in match threads
 
-14.9k Comments
+16.5k Comments
 Share
 Save
-12.6k
-r/wholesomememes
+8.0k
+r/AskReddit
 •Posted by
-u/Khaleena788
-5 hours ago
+u/PsychologyWareFare
+13 hours ago
 Join
-Reference Letter to the Toothfairy
-213 Comments
+To those who don’t get drunk, Why/ Why not?
+11.6k Comments
 Share
 Save
-32.9k
-r/Gunners
-LIVE
-· 47.9k players
-3
-/r/gunners 2022-23 Prediction Tournament
-PREDICTION
-Aston Villa v Arsenal: Which keeper will face more shots?
-You must be logged in
-Martinez
-Ramsdale
-Same number of shots
-See What Others Predicted
-PREDICTION
-Aston Villa v Arsenal
-You must be logged in
-Aston Villa Win
-Draw
-Arsenal Win
-See What Others Predicted
-0 of 2 predicted
-150 Comments
+6.6k
+r/funny
+•Posted by
+u/skintight_tommy
+4 hours ago
+Join
+Somebody really wants me to watch Shrek
+241 Comments
 Share
 Save
-56.6k
+36.5k
+r/pics
+•Posted by
+u/CantStopPoppin
+18 hours ago
+Join
+Evangelical Fanatics Have Been in Non-Stop Prayer for Two Weeks at Asbury university..
+9.5k Comments
+Share
+Save
+7.6k
 r/Damnthatsinteresting
 •Posted by
-u/PineBarrens89
-1 day ago
+u/InspektorBonipalia
+4 hours ago
 Join
-This school district in Indiana spends $10.3K per student. Less than half what is spent on Baltimore public schools
+An ad for married life produced by a conservative cultural center in Iran.
 Video
-9.7k Comments
+1.2k Comments
+Share
+Save
+15.9k
+r/videos
+•Posted by
+u/JohnQZoidberg
+21 hours ago
+2
+Join
+Hogwarts Legacy | Girlfriend Reviews
+youtu.be/B0TwTJ...
+7.9k Comments
 Share
 Save
 Advertisement
