@@ -62,9 +62,7 @@ Disclosure Requirements
 Handling Requirements
 
 More documentation
-
 User Data FAQ
-
 #
 
 Ensuring Responsible Marketing and Monetization
@@ -84,11 +82,8 @@ Ads
 Affiliate Ads
 
 More documentation
-
 Deceptive Installation Tactics FAQ
-
 Affiliate Ads FAQ
-
 #
 
 Building Quality Products
@@ -108,13 +103,9 @@ Minimum Functionality
 Chrome Apps
 
 More documentation
-
 Product Ranking Info
-
 Spam policy FAQ
-
 Extensions quality guidelines FAQ
-
 #
 
 Technical Requirements
