@@ -1,120 +1,105 @@
 Found the internet!
 Trending today
-WWE Elimination Chamber
-spoiler
-(Elimination Chamber Spoilers) Haven't seen that in the chamber before
-r/SquaredCircle and more
-Jimmy Carter
-Jimmy Carter, oldest living former U.S. president ever, is placed in hospice care
+Failed Russian Missile Test
+US believes Russia had failed intercontinental ballistic missile test while Biden was in Ukraine
+r/worldnews and more
+Seattle Bans Caste Discrimination
+Seattle becomes first U.S. city to ban caste discrimination
 r/news and more
-Directors Guild Awards
-Daniel Kwan and Daniel Scheinert win "Outstanding Directorial Achievement in Theatrical Feature Film" for Everything Everywhere All At Once at the Directors Guild Awards
-r/movies and more
-NBA 3 Point Contest
-[Highlight] Tyrese Haliburton on fire as he unlocks $300k for the NBA Foundation by scoring 31 points in the 2023 Starry 3-Point Contest
-r/nba and more
-LCK 2023
-spoiler
-Dplus KIA vs. Liiv SANDBOX / LCK 2023 Spring - Week 5 / Post-Match Discussion
-r/leagueoflegends and more
-China Supporting Russia
-China is considering providing "lethal support" to aid Russian invasion of Ukraine, Blinken says
-r/news and more
+Eurovision Song Contest
+Eurovision Song Contest 2023 GF Hosts: Graham Norton, Julia Sanina, Hannah Waddingham, and Alesha Dixon.
+r/eurovision and more
+Four-Day Work Week
+Bernie Sanders says it's time for a four-day work week: "With exploding technology and increased worker productivity, it's time to move toward a four-day work week with no loss of pay. Workers must benefit from technology, not just corporate CEOs."
+r/Futurology and more
+Champions League
+[TheAthletic] Liverpool had never conceded five goals in a Champions League match. Until today.
+r/soccer and more
+Jimin Solo Album
+Jimin (BTS) - 1st Solo Album ‘FACE’ (Album Packaging Preview)
+r/kpop and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-833
-r/Cricket
+34.6k
+r/Futurology
 •Posted by
-u/CricketMatchBot
-11 hours ago
+u/madazzahatter
+5 hours ago
+2
+Bernie Sanders says it's time for a four-day work week: "With exploding technology and increased worker productivity, it's time to move toward a four-day work week with no loss of pay. Workers must benefit from technology, not just corporate CEOs."
+Society
+businessinsider.com/bernie...
 Join
-Match Thread: 2nd Test - Australia vs India, Day 3
-2nd Test, Australia tour of India at Delhi
-
-Post Match | Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
-
-Innings	Score
-Australia	263 (Ov 78.4)
-India	262 (Ov 83.3)
-Australia	113 (Ov 31.1)
-India	118/4 (Ov 26.4)
-
-
-
-
-Batter	Runs	Balls	SR
-Cheteshwar Pujara*	31	74	41.89
-Srikar Bharat	23	22	104.55Bowler	Overs	Runs	Wickets
-Todd Murphy	6.4	22	1
-Travis Head	1	9	0
-Recent : . . . 1  |  . 4 . . . 4  |  . 1 6 1 1 .  |  . . . 4 
-
-
-India won by 6 wickets
-
-Live match threads: Multan Sultans vs Islamabad United |
-
-Send feedback | Schedule | Stat Help
-
-Please don't post illegal streaming links in match threads
-
-16.5k Comments
+1.8k Comments
 Share
 Save
-8.0k
-r/AskReddit
+Vote
+r/MadeMeSmile
 •Posted by
-u/PsychologyWareFare
-13 hours ago
+u/Defiant-Attention-20
+2 hours ago
+2
+& 2 More
 Join
-To those who don’t get drunk, Why/ Why not?
-11.6k Comments
+Today's my birthday, haven't gotten anything from anyone(wishes or gifts) and my little sister brought this to me. Hershey's chocolate w a lit candle
+ Wholesome Moments 
+669 Comments
 Share
 Save
-6.6k
+45.9k
+r/WhitePeopleTwitter
+•Posted by
+u/adickfish
+22 hours ago
+Join
+Red vs. Blue... who are you gonna miss?
+11.1k Comments
+Share
+Save
+37.4k
 r/funny
 •Posted by
-u/skintight_tommy
-4 hours ago
+u/mcfigdaddy
+22 hours ago
 Join
-Somebody really wants me to watch Shrek
-241 Comments
+I’m going in for surgery tomorrow. What’s something funny I can say to my surgeon before I’m put under anesthesia?
+
+I need some good material so he remembers me and doesn’t slice me up like a ham
+
+Update: Uh oh. I think this post is getting too much attention. He might be on to us…
+
+Dear Mr MySurgeonForTomorrow,
+
+Please just accept the one you find the funniest out of all these nice Redditors and may it keep your hands steady and not shaking from laughing thinking about it.
+
+Ps: please don’t cut me up like a thanksgiving ham.
+
+Sincerely, Not a ham
+
+8.0k Comments
 Share
 Save
-36.5k
-r/pics
+4.5k
+r/AskReddit
 •Posted by
-u/CantStopPoppin
-18 hours ago
+u/nekmint
+14 hours ago
 Join
-Evangelical Fanatics Have Been in Non-Stop Prayer for Two Weeks at Asbury university..
-9.5k Comments
+Redditors who still haven't had COVID what is your secret?
+7.8k Comments
 Share
 Save
-7.6k
-r/Damnthatsinteresting
+63.5k
+r/mildlyinfuriating
 •Posted by
-u/InspektorBonipalia
-4 hours ago
+u/SnodOfficial
+17 hours ago
 Join
-An ad for married life produced by a conservative cultural center in Iran.
-Video
-1.2k Comments
-Share
-Save
-15.9k
-r/videos
-•Posted by
-u/JohnQZoidberg
-21 hours ago
-2
-Join
-Hogwarts Legacy | Girlfriend Reviews
-youtu.be/B0TwTJ...
-7.9k Comments
+How people at my college park
+7.5k Comments
 Share
 Save
 Advertisement
