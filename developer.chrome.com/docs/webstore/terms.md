@@ -1,4 +1,5 @@
 Skip to content
+
 Google Chrome Web Store Developer Agreement
 
 Published on Friday, February 28, 2014 • Updated on Tuesday, June 29, 2021
