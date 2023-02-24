@@ -1,11 +1,11 @@
 Skip to main content
 Institutions & Educators Privacy | FAQ
 
-Welcome! We’ve created this page to provide answers to questions that you might have about our privacy practices and the Canvas Learning Management System. You can review our complete Product Privacy Policy for Canvas users here.
+Welcome! We’ve created this page to provide answers to questions that you might have about our privacy practises and the Canvas LMS, our virtual learning platform. You can review our complete Product Privacy Policy for Canvas users here.
 
 What is Canvas and who is Instructure?
 
-Canvas is a cloud-based Internet accessible learning management system used by your institution to facilitate positive learning outcomes. Canvas is provided by Instructure Inc., (“Instructure”) as a service provider to your institution. Canvas is used by instructors, educators, staff, administrators, parents, and students (collectively “users”) to provide and engage with e-learning courses and related content. Instructure only collects data as necessary to ensure the functionality and usability of Canvas.
+Canvas is a cloud-based Internet accessible virtual learning platform used by your institution to facilitate positive learning outcomes. Canvas is provided by Instructure Inc., (“Instructure”) as a service provider to your institution. Canvas is used by instructors, educators, staff, administrators, parents, and students (collectively “users”) to provide and engage with e-learning courses and related content. Instructure only collects data as necessary to ensure the functionality and usability of Canvas.
 
 What Data does Canvas collect?
 
@@ -14,6 +14,7 @@ Canvas processes different types of data as described below. All of these data t
 Personal Data
 
 Personal data is generally defined as information related to an identified or identifiable person. By using Canvas, personal data from a user is processed and stored by Canvas. Canvas only processes personal data to the extent necessary for the provision of user content and the operations of Canvas. Canvas receives personal data directly from the institution’s student information system, or administrative user, or users directly. Personal data elements in Canvas may contain names, email addresses, student identification numbers, and user roles (e.g., student).
+ 
 
 Canvas also allows users to enter optional information such as phone numbers, gender, personal pronouns, avatar photos, descriptive information, or links to social media. This information is voluntary and may be changed or deleted by the user at any time.
 
@@ -31,13 +32,16 @@ When using Canvas, transactional system data is generated and stored in the data
 
 One of those analytics purposes is to determine what Canvas features and functions are being used, or preferred by users. In this example, Canvas uses certain cookies to collect analytic and session data for users, but this does not contain personal data.
 
+ 
+
 Log Files
 
 Canvas generates system log files for error reporting if an internal error occurs while processing data. Log files are only used by Canvas and Instructure to solve technical issues and are deleted regularly. The collection of log files is necessary for the operation of Canvas.
 
+ 
 How does Instructure and Canvas use the data?
 
-Instructure uses data to provide Canvas and any associated services. Instructure processes data in the following ways: to create and maintain a user account; to identify a user in Canvas; to operate, maintain, and improve the functionality of Canvas; to personalize and improve a user’s experience using Canvas; to send users administrative e-mail; to respond to user comments or inquiries; and to protect, investigate, and to deter against fraudulent, unauthorized, or illegal activity. Instructure does not use data for any other purposes except as described in the governing contract with the institution and our Privacy Policy.
+Instructure uses data to provide Canvas and any associated services. Instructure processes data in the following ways: to create and maintain a user account; to identify a user in Canvas; to operate, maintain, and improve the functionality of Canvas; to personalise and improve a user’s experience using Canvas; to send users administrative e-mail; to respond to user comments or enquiries; and to protect, investigate, and to deter against fraudulent, unauthorised, or illegal activity. Instructure does not use data for any other purposes except as described in the governing contract with the institution and our Privacy Policy.
 
 Who else has access to the data?
 
