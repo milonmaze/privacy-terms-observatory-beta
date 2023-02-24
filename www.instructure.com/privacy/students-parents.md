@@ -1,11 +1,14 @@
 Skip to main content
-FAQ's for Students & Parents | Privacy
+Students & Parents Privacy | FAQ
 
-Welcome! We’ve created this page to provide answers to questions that students and parents might ask about our privacy policies and practices for our Canvas Learning Management System. If you're a university student, visit the “Institutions & Educators” page for more information. You can review our detailed Product Privacy Policy here.
+Welcome! We’ve created this page to provide answers to questions that students and parents might ask about our privacy policies and practises for Canvas LMS, our virtual learning platform. If you're a university student, visit the “Institutions & Educators” page for more information. You can review our detailed Product Privacy Policy here.
 
+ 
 What is Canvas and who is Instructure?
 
-Canvas is a Learning Management System (software) that has been purchased by your school, or teacher to provide you with online learning tools. You can access Canvas on your computer, mobile phone, or tablet. Instructure is the company that develops Canvas and operates the software.
+Canvas is a virtual learning platform (software) that has been purchased by your school, or teacher to provide you with online learning tools. You can access Canvas on your computer, mobile phone, or tablet. Instructure is the company that develops Canvas and operates the software.
+
+ 
 
 What information do we collect and where does it come from?
 
@@ -13,14 +16,16 @@ Canvas receives information about students from a few different sources which ar
 
 Canvas also receives information directly from you when you use Canvas to participate in your classes. This can include class assignments, test & quiz responses, discussion group comments, homework assignments, and conversations with teachers and other students. Canvas also receives information from your teachers such as grades for your assignments and tests, or when your teacher sends you messages.
 
+ 
+
 How do we use your information?
 
-Canvas uses your information inside of Canvas to to support teaching and learning and to help educators drive student success. Beyond enabling Canvas to work, your information may be used to...
+Canvas uses your information inside of Canvas to support teaching and learning and to help educators drive student success. Beyond enabling Canvas to work, your information may be used to...
 
 Communicate with you and provide support
 Create and administer user accounts.
 Improve Canvas functionality: For example, identifying what features are useful to our users.
-Develop and maintain security and performance of Canvas.
+Develop and maintain security and performance of Canvas.
 Exercise, enforce and comply with legal rights and obligations
 Who else has access to your information?
 
@@ -28,13 +33,17 @@ Instructure only uses your information to provide our Canvas service to you and 
 
 Instructure works with a limited number of companies to help us provide underlying services to operate Canvas. For example, Canvas is hosted on Instructure’s servers at Amazon Web Services (AWS). However, AWS does not have direct access to your information.
 
+ 
+
 What about other tools that are connected through Canvas?
 
 Your school or teacher may choose to connect their use of Canvas to other tools or services, such as a Student Information System or a video conferencing system, in order to support teaching and learning. In these cases, your school or teacher may decide if any information needs to be exchanged with Canvas.
 
-For example, a teacher may connect a math practice tool to their Canvas course, which might need student names or IDs in order to recognize individual students and send scores back to Canvas.
+For example, a teacher may connect a math practise tool to their Canvas course, which might need student names or IDs in order to recognise individual students and send scores back to Canvas.
 
-These tools or services will have their own privacy policies for schools, teachers, or students that don't involve Canvas. With most tools, users will be able to review or change the permissions that they give these tools from within Canvas.
+These tools or services will have their own privacy policies for schools, teachers, or students that don't involve Canvas. With most tools, users will be able to review or change the permissions that they give these tools from within Canvas.
+
+ 
 
 Cookies in Canvas
 
@@ -44,21 +53,23 @@ Functional cookies are used by Canvas to operate web pages, keep you logged into
 
 Instructure uses analytics cookies to collect information about how you use Canvas, such as what pages you click on, or what functionality you use the most. The information collected does not contain personal data about you. But it helps us improve Canvas and your experience using it.
 
+ 
+
 How to access your information?
 
 Canvas believes in empowering students just as we empower teachers, and so we provide several ways that students can access their own information and related data that is stored in Canvas (subject to permissions given by your institution). For example:
 
-All of your assignment submissions can be downloaded at any time.
-You can see your scores and course analytics, the same way teachers see them.
-You can see page view data and other information stored in Canvas, via the Canvas open API.
-
-Note that you will only ever have access to information you are supposed to see in Canvas.
-
+All of your assignment submissions can be downloaded at any time.
+You can see your scores and course analytics, the same way teachers see them.
+You can see page view data and other information stored in Canvas, via the Canvas open API.
+Note that you will only ever have access to information you are supposed to see in Canvas
 How to delete your information or account?
 
-Occasionally a student may want or need Canvas data permanently deleted. You can request that Instructure delete your information from Canvas, or delete your user account, or profile. If your account was set up by your school, we may need to ask your school for permission to delete your account and data since we don’t own any of your data. To delete an account or information, students and parents can submit a helpdesk ticket in Canvas , or contact their school directly.
+Occasionally a student may want or need Canvas data permanently deleted. You can request that Instructure delete your information from Canvas, or delete your user account, or profile. If your account was set up by your school, we may need to ask your school for permission to delete your account and data since we don’t own any of your data. To delete an account or information, students and parents can submit a helpdesk ticket in Canvas, or contact their school directly.
 
-If you have any questions, please reach out to privacy@instructure.com
+If you have any questions, please reach out to privacy@instructure.com
+
+ 
 
 By continuing to browse or by clicking "I Accept", you agree to the storing of first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.Privacy Policy
 
