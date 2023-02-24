@@ -56,6 +56,13 @@ Layers of protection help us detect and remove inappropriate content.
 
 Read blog post →
 
+Misinformation and inauthentic behavior
+
+
+Resources to assist members in identifying trustworthy content.
+
+Read  →
+
 Keeping your feed relevant and productive
 
 
