@@ -2,7 +2,7 @@ Jump to content
 Photograph your local culture, help Wikipedia and win!
 (Redirected from Donor privacy policy/en)
 Translate this page
-Other languages:	Afrikaans Deutsch English Nederlands Tiếng Việt català dansk español español de América Latina français italiano latviešu magyar norsk bokmål polski português português do Brasil română slovenčina svenska русский українська עברית العربية 中文（简体） 中文（繁體） 日本語
+Other languages:	Afrikaans Deutsch English Nederlands Tiếng Việt català dansk español español de América Latina français galego italiano latviešu magyar norsk bokmål polski português português do Brasil română slovenčina svenska русский українська עברית العربية 中文（简体） 中文（繁體） 日本語 한국어
 	
 This policy or procedure is maintained by the Wikimedia Foundation and applies to Foundation activities.
 Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
