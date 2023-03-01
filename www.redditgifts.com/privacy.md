@@ -1,113 +1,83 @@
 Found the internet!
 Trending today
-Nokia Smartphones
-Nokia is supporting a user's right-to-repair by releasing an easy to fix smartphone
-r/gadgets and more
-Jayson Tatum
-[Highlight] Tatum wins it @ Philly - ABC
-r/nba and more
-NATO
-Putin: Russia can't ignore NATO's nukes, West wants to liquidate Moscow
+Supercharged Aurora From Space Station
+'Absolutely unreal:' NASA astronaut snaps amazing photo of auroras from space station
+r/space and more
+Dave Grohl
+Dave Grohl showed up with no publicity to cook and serve for 500 people at Hope Mission in L.A.
+r/pics and more
+Salesforce
+Salesforce has been reportedly paying Matthew McConaughey $10 million a year to act as a 'creative adviser' despite laying off 8,000 employees last month
+r/technology and more
+Patrick Kane
+Arizona thanks Coyotes legend Patrick Kane on Instagram
+r/hockey and more
+Finland
+Finland begins building $597 million barbed wire fence on Russian border
 r/worldnews and more
-Premier League
-Premier league, away games table.
-r/Gunners and more
-Cats
-My cat thinks he’s fancy
-r/Eyebleach and more
-Mi-8 Helicopters
-Croatia prepares to send 14 Mi-8 helicopters to Ukraine
-r/worldnews and more
+Chicago Mayoral Election
+Lori Lightfoot becomes the first Chicago mayor in 40 years to lose re-election
+r/news and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-23.9k
-r/AskReddit
+6.3k
+r/comics
 •Posted by
-u/Modern_Devil
-18 hours ago
+u/skeleton_claw
+3 hours ago
 Join
-What is the most bullshit profession that actually exists?
-12.4k Comments
+Good news
+i.imgur.com/sJiChA...
+42 Comments
 Share
 Save
-6.0k
-r/Funnymemes
-•Posted by
-u/Hdhs1
-6 hours ago
-Join
-Are you saved?
-11.0k Comments
-Share
-Save
-37.7k
-r/WhitePeopleTwitter
-•Posted by
-u/Paneraiguy1
-16 hours ago
-Join
-Excellent question
-13.1k Comments
-Share
-Save
-76.7k
+53.5k
 r/facepalm
 •Posted by
-u/iFoegot
-23 hours ago
-2
-Join
-An American couple was visiting Israel when they found an unexploded bomb in the wild, believed to be from WWII. They decided to bring it back to the US. This is what happened at the airport when they brought out the bomb at the security check.
-🇵​🇷​🇴​🇹​🇪​🇸​🇹​
-6.5k Comments
-Share
-Save
-27.3k
-r/HumansBeingBros
-•Posted by
-u/westcoastcdn19
-7 hours ago
-Join
-Philippine villagers relocate a widower’s home so he could live closer to family. The journey took 2 hours
-458 Comments
-Share
-Save
-56.1k
-r/news
-•Posted by
-u/davetowers646
-23 hours ago
-& 4 More
-Residents near Ohio train derailment diagnosed with ailments associated with chemical exposure, including bronchitis
-nbcnews.com/health...
-Join
-2.6k Comments
-Share
-Save
-17.8k
-r/politics
-•Posted by
-u/southpawFA
+u/EveryoneLoveABJ
 15 hours ago
-Tennessee’s legislature gives trans youth 1 year to detransition. The state will also ban drag performances in places where minors may be present.
-lgbtqnation.com/2023/0...
 Join
-2.5k Comments
+Lady goes ballistic about a 13 Year Old Girls Swimsuit
+ 🇲​🇮​🇸​🇨​
+8.4k Comments
 Share
 Save
-9.7k
-r/movies
+85.2k
+r/WhitePeopleTwitter
 •Posted by
-u/jsun31
-7 hours ago
-"Everything Everywhere All At Once" wins Best Picture at the Producers Guild of America Awards
-News
-deadline.com/2023/0...
+u/Travismatthew08
+19 hours ago
 Join
-659 Comments
+Florida Republicans introduce a bill to eliminate the Democratic Party.
+Fascism again
+9.2k Comments
+Share
+Save
+8.2k
+r/Watchexchange
+•Posted by
+u/wavefun
+11 hours ago
+Join
+[GIVEAWAY] Win a Casio Mini-Collection by Simply Upvoting and Commenting!
+$0-$99
+1/8
+6.9k Comments
+Share
+Save
+36.6k
+r/technology
+•Posted by
+u/jacobhong
+17 hours ago
+Salesforce has been reportedly paying Matthew McConaughey $10 million a year to act as a 'creative adviser' despite laying off 8,000 employees last month
+Business
+businessinsider.com/salesf...
+Join
+1.8k Comments
 Share
 Save
 Advertisement
