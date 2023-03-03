@@ -1,83 +1,79 @@
 Found the internet!
 Trending today
-Supercharged Aurora From Space Station
-'Absolutely unreal:' NASA astronaut snaps amazing photo of auroras from space station
-r/space and more
-Dave Grohl
-Dave Grohl showed up with no publicity to cook and serve for 500 people at Hope Mission in L.A.
-r/pics and more
-Salesforce
-Salesforce has been reportedly paying Matthew McConaughey $10 million a year to act as a 'creative adviser' despite laying off 8,000 employees last month
-r/technology and more
-Patrick Kane
-Arizona thanks Coyotes legend Patrick Kane on Instagram
-r/hockey and more
-Finland
-Finland begins building $597 million barbed wire fence on Russian border
-r/worldnews and more
-Chicago Mayoral Election
-Lori Lightfoot becomes the first Chicago mayor in 40 years to lose re-election
+Alex Murdaugh
+Alex Murdaugh found guilty of murders of wife and son
 r/news and more
+Florida Senate Bill
+Florida bill would require bloggers who write about governor to register with the state
+r/politics and more
+Russia-Ukraine War
+Belgium freezes Russian assets worth EUR 58 billion
+r/worldnews and more
+Golden State Warriors
+[Slater] That's a 42-16 third quarter for the Warriors against the Clippers. +26. This comes a game after they had a 39-17 third quarter on the Timberwolves. +22.
+r/nba and more
+Haunted Mansion
+New Poster for Disney's 'Haunted Mansion'
+r/movies and more
+Star Trek: Discovery
+‘Star Trek: Discovery’ to End With Season 5, Paramount+ Pushes Premiere to 2024
+r/television and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-6.3k
-r/comics
+27.1k
+r/AskReddit
 •Posted by
-u/skeleton_claw
-3 hours ago
-Join
-Good news
-i.imgur.com/sJiChA...
-42 Comments
-Share
-Save
-53.5k
-r/facepalm
-•Posted by
-u/EveryoneLoveABJ
-15 hours ago
-Join
-Lady goes ballistic about a 13 Year Old Girls Swimsuit
- 🇲​🇮​🇸​🇨​
-8.4k Comments
-Share
-Save
-85.2k
-r/WhitePeopleTwitter
-•Posted by
-u/Travismatthew08
+u/jma7400
 19 hours ago
 Join
-Florida Republicans introduce a bill to eliminate the Democratic Party.
-Fascism again
-9.2k Comments
+Americans who are against the Biden student loan forgiveness, why?
+16.9k Comments
 Share
 Save
-8.2k
-r/Watchexchange
+51.7k
+r/Damnthatsinteresting
 •Posted by
-u/wavefun
-11 hours ago
+u/FrostcragCastle
+15 hours ago
 Join
-[GIVEAWAY] Win a Casio Mini-Collection by Simply Upvoting and Commenting!
-$0-$99
-1/8
-6.9k Comments
+A one million seat stadium concept by American artist Paul Pfeiffer.
+Image
+4.5k Comments
 Share
 Save
-36.6k
-r/technology
+59.5k
+r/WhitePeopleTwitter
 •Posted by
-u/jacobhong
-17 hours ago
-Salesforce has been reportedly paying Matthew McConaughey $10 million a year to act as a 'creative adviser' despite laying off 8,000 employees last month
-Business
-businessinsider.com/salesf...
+u/OrangeCone2011
+20 hours ago
 Join
-1.8k Comments
+You guys, I think Ted has lost his marbles
+6.1k Comments
+Share
+Save
+130k
+r/pics
+•Posted by
+u/boriswong
+23 hours ago
+2
+& 12 More
+Join
+From the ocean to the mountains in Southern California.
+4.4k Comments
+Share
+Save
+9.9k
+r/Funnymemes
+•Posted by
+u/sissyfemboy44
+15 hours ago
+Join
+What's stopping you>
+4.4k Comments
 Share
 Save
 Advertisement
