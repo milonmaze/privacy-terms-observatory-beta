@@ -1,6 +1,6 @@
 ConsumerInfo.com Privacy Policy
 
-Last Revised: 07/28/2022
+Last Revised: 02/28/2023
 
 Summary
 Personal Information We Collect
@@ -26,10 +26,10 @@ Personal Information We Collect
 
 Personal information is information that identifies you as an individual. The personal information we collect depends on how you interact with us, and the products or services you subscribe to. We collect personal information directly from you through our websites, Application Program Interfaces ("APIs"), mobile applications, and when you contact our customer service. We also collect personal information from third party sources.
 
-If you subscribe to our products or services, seek insurance quotes, apply for insurance, or seek bill negotiation services, we collect the following information from you:
+If you subscribe to our products or services, seek insurance quotes, or apply for insurance, we collect the following information from you:
 
-Your contact and identity information such as name, date of birth, postal address, e-mail address, phone number, driver's license number, vehicle information, Social Security number, job title, company name, employer, social media handle, and gender;
-Information you provide for identity verification and/or to use features in our products or services. This may include your login, authentication, automobile, insurance underwriting, identification, biometrical, financial detail, financial account information, and consumer utility service provider information, such as, from cable, cell phone, internet, landline phone, satellite television and radio, home security/alarm services, and newspaper subscription services companies;
+Your contact and identity information such as name, date of birth, postal address, e-mail address, phone number, driver's license number, vehicle information, and Social Security number;
+Information you provide for identity verification and/or to use features in our products or services. This may include your login, authentication, automobile, insurance underwriting, identification, biometrical, income, financial detail, and financial account information;
 Your credit card or other payment account information when you purchase products and services from us;
 Your children's identity information when enrolling in our child identity protection products, such as your child's name, date of birth, and Social Security number;
 Your application, user registration, third-party account log-in credentials, policy, carrier, premium, claim, and accident report information when you apply for insurance products or services;
@@ -47,19 +47,19 @@ How We Use Personal Information
 
 We use your personal information to:
 
-Verify your identity and provide you the products and services you request. Depending on the information you provide and the products or services you select, your personal information is also used to provide you with identity protection services, enable applications for credit, loans, insurance, bill negotiation services, and to access and monitor information you've asked for;
+Verify your identity and provide you the products and services you request. Depending on the information you provide and the products or services you select, your personal information is also used to provide you with identity protection services, enable applications for credit, loans, insurance, and to access and monitor information you've asked for;
 Send credit, score, identity protection, and transactional alerts to the e-mail, mobile device, and/or phone number you provide;
 Send important information to you relating to your account, the Site, our Terms and Conditions, and our policies.
 Inform you of products, services, and promotions that may be of interest to you unless you have requested that we do not send you marketing and promotional communications;
 Process payments for the products and services you purchase;
 If applicable, to verify your children's identity and provide products and services you request on behalf of your children;
 Perform everyday business functions such as audits, detecting and preventing fraud, analysis, product improvements, research, development, and security;
-Perform other services when you provide your consent and we describe the service to you. For example, we may request your information to:
-monitor your financial and utility service provider accounts
+Perform other services when you provide your consent, and we describe the service(s) to you. For example, we may request your information to:
+monitor your financial accounts
 offer features you request from companies that we partner with
 obtain your account and transaction information
-gain recurring access to your financial, utility, telecom, rental or other service account(s)
-obtain, use and store your financial and utility service provider account information
+gain recurring access to your financial, utility, telecom, rental, or other service account(s)
+obtain, use, and store your financial and service account information
 optimize our targeted marketing service
 
 Non-personal information is any information that does not reveal who you are, does not identify you individually, and/or is about a collective group of Site users. This includes information described under "Cookies, Tracking Technologies, and Targeted Advertising", and other information that does not identify you such as general demographic, publicly available, derived, inferred, or specifically expressed information from users of the Site. We may use this information and share it with third parties for any purpose. However, if we combine any non-personal information with your personal information such that it reveals who you are, we will treat the information as personal information, as long as it remains combined.
@@ -74,7 +74,7 @@ Business Partners: We share your personal information with companies that we hav
 
 Service Providers: We share your personal information with third parties who perform services on our behalf. We share information with these service providers to provide the products and services that you request and for our everyday business purposes. For example, we use service providers for billing, communicating with our customers, detecting and preventing fraud, analysis, product improvements, development, and to offer products that may be of interest to you.
 
-With Your Consent: We share your personal information with third parties you expressly authorize, consent to, or direct us to share your information with. We may also disclose Personal Information about you to other contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep Personal Information confidential and use it only for the purposes for which we disclose it to them. For example, we share information when you request products or services offered by lenders, insurance companies, and other companies that we partner with. We also share information when you ask us to access data from your financial, insurance, and/or other accounts through one or more of our third parties. We may disclose Personal Information about you to a utility service provider for bill negotiation services if the disclosure will enable the utility service provider to perform a business professional transaction.
+With Your Consent: We share your personal information with third parties you expressly authorize, consent to, or direct us to share your information with. For example, we share information when you request products or services offered by lenders, insurance companies, and other companies that we partner with. We also share information when you ask us to access data from your financial, insurance, and/or other accounts through one or more of our third parties.
 
 Legal Purposes: We share personal information with government entities and others for lawful and necessary purposes, including responding to requests from government entities or our regulators; to comply with subpoenas, law enforcement requests, and other legal processes; to enforce our Terms and Conditions; and as necessary to protect the rights, privacy, safety, or property of our customers, ourselves, and others.
 
