@@ -4,14 +4,11 @@ For customers that shop at Shopify-powered stores
 
 Introduction
 
-Shopify provides software used by our merchants to run their businesses. If you have visited or made a purchase from a merchant’s Shopify-powered store, we collect and use information about you on behalf of that particular merchant. We only use this information at the direction of our merchants—they ultimately choose how and why to use your information. If you have questions about how a specific merchant or store uses your information, please visit their privacy policy.
+Shopify provides software used by our merchants to run their businesses. If you have visited or made a purchase from a merchant’s Shopify-powered store, we collect and use information about you on behalf of that particular merchant. We use this information at the direction of our merchants—they ultimately choose how and why to use your information—and act as a processor. If you have questions about how a specific merchant or store uses your information, please visit their privacy policy.
 
 However, if you use one of our apps (like Shop), or if you use Shop Pay to store your personal information for easy checkout across Shopify-powered stores, visit our App Information page for details about how we collect and use information from those apps and services. Additionally, please review our overall privacy policy that applies to everyone whose information we process.
 
 What information we collect about you and why
-
-Please note that Shopify will never use your personal information to independently market or advertise to you, unless you are using one of our apps or services directly.
-
 What we collect	How we use it
 
 
@@ -32,4 +29,4 @@ We use service providers to help us provide services to our merchants. Outside o
 
 Your rights over your information
 
-When you visit or make a purchase from a merchant’s Shopify-powered store, the merchant you're visiting or buying from legally controls your information. As a result, Shopify doesn’t, for example, decide how long your information is retained because that decision is made by the merchant. This means Shopify can't help you access, correct, erase, or port your information without being directed to by the merchant. To make a request about your personal information, contact the specific merchant directly. If you make a request to us, we will forward your request to the relevant merchant and help them fulfill your request. If the merchant no longer exists, however, we may be able to assist you directly. We also do not and will not “sell” your customers’ information, as that term is used in California law.
+When you visit or make a purchase from a merchant’s Shopify-powered store, the merchant you're visiting or buying from legally controls your information. As a result, Shopify doesn’t, for example, decide how long your information is retained because that decision is made by the merchant. This means Shopify can't help you access, correct, erase, or port your information without being directed to by the merchant. To make a request about your personal information, contact the specific merchant directly. If you make a request to us, we will forward your request to the relevant merchant and help them fulfill your request. If the merchant no longer exists, however, we may be able to assist you directly. Please note that some data subject rights only apply in certain circumstances, and all of these rights may be limited by law.
