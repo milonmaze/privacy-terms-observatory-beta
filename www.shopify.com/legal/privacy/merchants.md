@@ -8,7 +8,7 @@ If you are a merchant using Shopify to power your business, or a Supplier or Ret
 
 What information we collect about you and why
 
-We collect personal information when you sign up for Shopify, when you use our platform, or when you otherwise provide us information. We may also use third party service providers (like Sift) to help us review accounts for fraud or other concerns. In general we need this information for you to be able to use our platform.
+We collect personal information when you sign up for Shopify, when you use our platform, or when you otherwise provide us information. We may also use third party service providers (like Sift), for example to help us review accounts for fraud or other concerns. In general we need information about you for you to be able to use our platform. We process your personal data in order to perform our contract with you or because it is in our legitimate interests to maintain our business relationship, prevent risk and fraud, provide effective services to you, improve our products and services, and to be responsive to you. In some cases, we only process your personal information with your consent.
 
 What we collect	How we use it
 
@@ -83,24 +83,20 @@ We also share your personal information with others:
 to prevent or investigate suspected fraud, threats to physical safety, illegal activity, or violations of a contract (like our Terms of Service) or our policies (like our Acceptable Use Policy)
 to help us conduct marketing and advertising
 to comply with legal requirements, or to respond to court orders, or other similar government demands (for more information, please read our Government Access Policy)
-if we merge with or are acquired by another company
+in connection with an asset sale or purchase, a share sale, purchase or merger, bankruptcy, or other business transaction or re-organisation, we will share your personal data with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as a restructuring, merger, or sale of our assets.
 
 Additionally, almost every merchant using the Shopify platform also uses non-Shopify services to support their business (for example, apps from our app store, sales channels, payment gateways, or shipping providers).
 
-Shopify doesn’t control how these services use your personal information, and you should review any other service you use to make sure it meets your privacy expectations. When you choose to use non-Shopify services, we tell you what information we will share with that service at your direction, so you can decide whether you want to use the service. You can review what access any app has to your information or your store’s information on the “App Details” page in the Shopify admin.
+Shopify doesn’t control how these services use your personal information, and you should review any other service you use to make sure it meets your privacy expectations. When you choose to use non-Shopify services, you can review what access any app has to your information or your store’s information on the “App Details” page in the Shopify admin.
 
 Your rights over your information
 
-We believe that you should be able to access and control your own personal information no matter where you live. You can access and correct a lot of your personal information directly through the Shopify admin. For information you are not able to access or correct directly within the Shopify admin, please submit a data subject request through our online portal.
-
-Because we need your personal information to provide Shopify services, we generally keep your personal information while you use Shopify products or services. If you close your store, you stop paying your subscription fees, or we terminate your account, we retain store information for two years before we begin the personal information purge process. We don’t do this immediately in case you reactivate your account, or if there is a legal complaint or audit relating to your business. If you contact us to request deletion of your store’s information, we will begin the personal information purge process after 90 days, except if we are legally required to retain specific information. If you have questions about this process, please contact our Support team. Please keep in mind that after we anonymize your personal information, we may continue to use non-identifiable information to improve our services.
-
-Finally, we do not and will not “sell” your personal information, as that term is used in California law.
+You can access and correct a lot of your personal information directly through the Shopify admin. For information you are not able to access or correct directly within the Shopify admin, please submit a data subject request through our online portal. Please refer to our Overall Privacy Policy for further information. Please note that some data subject rights only apply in certain circumstances, and all of these rights may be limited by law.
 
 Your customers’ information
 
-In order to power your business, we collect and use personal information about your customers. In general, we only collect and use this personal information as directed by you, and as further described in our Data Processing Addendum. Legally speaking, we are a “data processor” and a “service provider” as these terms are used in European and California privacy law. We will never use your customers’ information to independently market or advertise to your customers unless they are also using one of our applications or services directly. We also do not and will not “sell” your customers’ information, as that term is used in California law.
+In order to power your business, we collect and use personal information about your customers. In general, we collect and use this personal information as directed by you, and as further described in our Data Processing Addendum. Legally speaking, we are a “data processor” and a “service provider” as these terms are used in certain applicable privacy laws, including in Europe, the UK, and the US.
 
 Because you decide how the personal information of your customers will be used, you need to make sure your customers understand how you (and how we on your behalf) collect and process their personal information. You should do this by, at a minimum, posting a privacy policy on your store that describes the information you collect, how you use it, and who you share it with.
 
-To help get you started with this, you can check out our privacy policy generator. Also, if you are collecting any “sensitive” personal information from your customers (for example, information about health, race, ethnicity, genetics, biometrics, trade union membership, political opinions, philosophical or religious beliefs, criminal history, or sexual interests), you should get the affirmative, express consent from your customers to use and process this information.
+To help get you started with this, you can check out our privacy policy generator. Also, if you are collecting any “sensitive” personal information from your customers (for example, information about a consumer’s social security, drivers license, state identification card, or passport number; account log-in, financial account, debit or credit card numbers in combination with any required security codes or passwords; precise geolocation; health or genetic data, racial or ethnic origin, religious or philosophical beliefs, or union membership; contents of a consumer’s mail, email or text messages; or criminal offense data), you should get the affirmative, express consent from your customers to use and process this information.
