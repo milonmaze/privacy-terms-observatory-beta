@@ -16,9 +16,10 @@ You can expect more changes to follow, and check out the below resources to lear
 How to Call, Snap, and Chat from Snapchat for Web
 Learn More About Snapchat for Web
 Stories
-Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group of friends.
-You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if your Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Keep in mind: Snaps set to viewable by ‘Everyone’ and those that are submitted to Spotlight are Public Content, and your Snap may still appear off Snapchat if it has been shared off of Snapchat! Snaps in your Story are posted for 24 hours, (unless otherwise noted), though you can remove them from your Story at any time.
+Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group.
+You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if your Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Keep in mind: Snaps set to viewable by ‘Everyone’ and those that are submitted to Spotlight, Shared Stories, or Verified Communities are Public Content, and your Snap may still appear off Snapchat if it has been shared off of Snapchat! Snaps in your Story are posted for 24 hours (unless otherwise noted), though you can remove them from your Story at any time. Once you’ve posted a Story, your Friends and others can interact with them. For example, they may use the same Lens you used, remix the Snap, share with mutual friends, or even shop the look you’re wearing! 
 How to Use Stories
+How to Save a Private or Shared Story on Snapchat
 Profiles
 Profiles make it easy to find the info and Snapchat features that you care about the most! There are different types of Profiles on Snapchat, including My Profile, Friendship Profiles, Group Profiles, and Public Profiles.
 My Profile features your Snapchat info, like your Bitmoji, location on the Map, friend info, and more. Friendship Profile is as unique as each individual friendship, this is where you can find Snaps and messages you’ve saved, your friend’s Snapchat info like Bitmoji and location on the Map, and this is also where you can manage your friendship, and report, block, or remove the friend. Group Profiles showcase your saved Snaps and Chats within a Group Chat and your friends’ Snapchat info.
@@ -82,12 +83,14 @@ Turn on Login Verification: This is an important feature that uses two-factor au
 Don’t use unauthorized third-party apps: Unauthorized third-party applications and plugins (or tweaks) are not supported or permitted by Snapchat because they can sometimes compromise the security of your and other Snapchatters’ accounts.
 Scan
 Use Scan to find a song, shop, or even calculate a math problem! To access Scan on Snapchat, either press and hold on the Camera screen, or tap on the Camera screen and then tap ‘Scan’ in the AR Bar. Scan options will appear across the carousel. On the new Spectacles, start Scan by pressing the right button or saying “Hey Snapchat.”
+Want to shop a Snapchatter’s outfit? We’ve got you! Just tap the 👕 icon to Scan certain Story Snaps and we will show you similar shoppable products
 When you initiate Scan, images from your Camera are taken and sent to Snap’s servers where we classify what’s in the image. We then recommend Lenses or provide other Scan features to augment and complement your world. 
 To power certain Scan features, Snap partners with third parties like Amazon, Shazam, and Vivino. This means that when you press and hold on the Camera screen, certain information may be sent to these partners. For example, we may send images captured by your camera to Amazon, who’ll send back search results if they find a matching product. Similarly, we may send audio hashes captured by your microphone to Shazam, who’ll send back any matching songs.
 Voice Scan lets you do useful things like search for Lenses. To power Voice Scan, Snap has partnered with SoundHound, which provides recognition and understanding technology. When Voice Scan is used, Snap and SoundHound receive the audio recordings.
 Snap and our partners use the data collected in Scan and Voice Scan to provide you with relevant search results, track metrics around search activity, and help improve search algorithms and product features.
-Our partners do not receive data about which Snapchat account is making a search. Snap and our partners retain the images and audio collected during the search for only a short period of time.
+Our partners do not receive data about which Snapchat account is making a search and they retain the images and audio collected during the search for only a short period of time.
 At the moment, Amazon Camera Search is only available to Snapchatters in the US.
+How to Use Scan
 Snap Map
 Snap Map lets you see where your friends have been, what’s going on around them, find your favorite restaurants and bars, and even see what’s happening across the world! 
 You won’t appear on Snap Map until you open it for the first time and choose to share your location. If you don’t open the app for 24 hours, you won’t be visible on the Map until you open Snapchat again. You can always update the people you’re sharing your location with in Snap Map settings, or go into ‘Ghost Mode’ to hide your location from everyone. We may also remind you if you leave location sharing enabled for a while.
@@ -110,12 +113,6 @@ Cameos
 Cameos lets you be the star in your own short, looping videos that you can send to friends in Chat. To enable Cameos, we ask you to take a selfie to put you into fun scenes. We don’t use facial recognition software. Instead, Cameos segments the shape of your face and hair to place you into the scenes and ensure the Cameos are optimized.
 You have full control over your selfie. You can change and delete it and restrict others from using your selfie in two-person Cameos in your Snapchat settings.
 Learn About Cameos
-Games and Minis
-Games are a fun way to hang out with your friends on Snapchat. You’ll be able to see your friends in a game when you're playing in a Chat with them, and they will be able to see you too. You can invite them to play games with you and enable your microphone so you can talk while you play. Depending on the game, your display name may be visible to other players, both friends and non-friends, when you play. Your friends will also be able to see your score on leaderboards unless you hide your score in Games settings.
-Minis are a set of experiences in Snapchat. Whether it’s planning a movie night, making a deck of flashcards, or coordinating which artists to see at a music festival, Minis can bring friends together for just about anything. You’ll be able to see your friends in a Mini while you’re in a Chat with them, and they will be able to see you too. You can invite them to use a Mini. You choose which Mini you want to open and use within Snapchat.
-Learn About Games
-Learn About Minis
-Games and Minis Data and Privacy
 Personalization
 No two people are the same, so the app can tailor your Snapchat experience especially for you!
 We personalize your Snapchat experience based on interactions you have with your friends. For example, the friends you Snap with the most are usually easiest to find, and Charms and Friend Emojis give you fun insights to celebrate your friendships.
