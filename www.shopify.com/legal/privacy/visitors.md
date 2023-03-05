@@ -8,7 +8,7 @@ If you visit one of Shopify’s websites or contact Shopify support, we generall
 
 What information we collect about you and why
 
-We collect the following personal information about you when you visit one of our websites or contact Shopify support:
+We collect the following personal information about you when you visit one of our websites or contact Shopify support. We process your personal data in order to perform our contract with you or because it is in our legitimate interests to maintain our business relationship, prevent risk and fraud, provide effective services to you, improve our products and services, and to be responsive to you. In some cases, we only process your personal information with your consent.
 
 What we collect	How we use it
 
@@ -55,8 +55,8 @@ to help us conduct marketing and advertising
 
 to comply with legal requirements, or to respond to court orders or other similar government demands (for more information, please read our Government Access Policy)
 
-if we merge with or are acquired by another company
+in connection with an asset sale or purchase, a share sale, purchase or merger, bankruptcy, or other business transaction or re-organisation, we will share your personal data with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as a restructuring, merger, or sale of our assets
 
 Your rights over your information
 
-We believe that you should have the right to access and control your own personal information, no matter where you live. We retain your personal information until you tell us to delete it. Please submit a data subject request through our online portal if you would like to access or request that we delete your personal information. Please keep in mind that after we anonymize your information, we will continue to use non-identifiable information to improve our services. Finally, we do not and will not “sell” your personal information, as that term is used in California law.
+Please submit a data subject request through our online portal if you would like to access or request that we delete your personal information. Please keep in mind that after we anonymize your information, we will continue to use non-identifiable information to improve our services. Please note that some data subject rights only apply in certain circumstances, and all of these rights may be limited by law.
