@@ -1,89 +1,69 @@
 Found the internet!
 Trending today
-AEW Revolution 2023
-spoiler
-(AEW Revolution Spoilers) MJF hydrating a fan
-r/SquaredCircle and more
-Russia-Ukraine War
-Russia's Wagner chief warns of frontline collapse if forced to retreat from Bakhmut
+North Korea
+North Korea warns US: Shooting down any missile will bring war.
 r/worldnews and more
-Norfolk Southern
-Union letter says Norfolk Southern employees are reporting illness following train derailment | CNN
-r/news and more
-Bruce Willis
-Bruce Willis’ Wife Tells Paparazzi to Stop Yelling at Him After Dementia Diagnosis: Let Him Get ‘From Point A to Point B Safely’
-r/entertainment and more
-Manchester United
-[OptaJoe] 7 - Manchester United have suffered their joint-heaviest ever competitive defeat, alongside 7-0 losses to Wolves in December 1931, Aston Villa in December 1930 and Blackburn Rovers in April 1926. Crushed
-r/soccer and more
-CPAC
-Fact check: Trump delivers wildly dishonest speech at CPAC
+Fox News
+Fox News Edits Out Trump Saying He Might’ve Let Russia ‘Take Over’ Parts of Ukraine
 r/politics and more
+Lamar Jackson
+[Kimberley A. Martin] Per league sources: The #Ravens have placed the NON-EXCLUSIVE franchise tag on Lamar Jackson — at $32M @espnnfl
+r/nfl and more
+Elon Musk
+Elon Musk publicly mocks Twitter worker with disability who is unsure whether he's been laid off
+r/news and more
+Barry
+'Barry' Ending With Season 4, Premieres April 16 on HBO
+r/television and more
+Worm Moon
+The Full Worm Moon this morning, captured in Glen Allen, VA. The naming refers to earthworms that appear as the soil warms in the spring. I took multiple exposures of the Moon and blended them to get this high dynamic range image. Zoom in for details!
+r/spaceporn and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-22.6k
-r/AskReddit
+11.5k
+r/Damnthatsinteresting
 •Posted by
-u/Casspjjl
-15 hours ago
-Join
-How old are you and what's your biggest problem right now?
-22.6k Comments
-Share
-Save
-72.9k
-r/mildlyinfuriating
-•Posted by
-u/TheJedibugs
-22 hours ago
-Join
-Gonna skip a restaurant who has “rules” as the first page of their menu, thanks.
-9.8k Comments
-Share
-Save
-11.4k
-r/me_irl
-•Posted by
-u/Jackchan204
+u/tomp626
 4 hours ago
 Join
-me_irl
-178 Comments
+Taxidermist Carl Akeley posing with the leopard he killed with his bare hands after it attacked him, 1896
+Image
+520 Comments
 Share
 Save
-3.6k
-r/thelastofus
+9.3k
+r/facepalm
 •Posted by
-u/AutoModerator
-11 hours ago
+u/1Hate17Here
+4 hours ago
 Join
-The Last of Us HBO A01E08 - "When We Are in Need" Post-Episode Discussion Thread
-HBO Showspoiler
-6.8k Comments
+Ah, yes. The playmobil haircut screams superior race. (… jfc.)
+ 🇲​🇮​🇸​🇨​
+672 Comments
 Share
 Save
-1.5k
-r/ThelastofusHBOseries
+15.3k
+r/madlads
 •Posted by
-u/LoretiTV
-11 hours ago
+u/Pluckilysurfeit278
+5 hours ago
 Join
-[No Game Spoilers] The Last of Us - 1x08 "When We Are in Need" - Post Episode Discussion
-Show Only Discussion
-3.7k Comments
+epic
+139 Comments
 Share
 Save
-24.7k
-r/oddlysatisfying
+32.0k
+r/funny
 •Posted by
-u/nikamats
-6 hours ago
+u/kingofthesofas
+12 hours ago
 Join
-Architecture student drafting manually
-651 Comments
+Any guesses on what animal my 5 year old drew?
+i.imgur.com/F25Sji...
+6.9k Comments
 Share
 Save
 Advertisement
