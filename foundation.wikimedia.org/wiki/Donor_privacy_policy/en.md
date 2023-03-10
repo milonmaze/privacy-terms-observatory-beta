@@ -15,6 +15,7 @@ Wikimedia projects
 Access to nonpublic information
 Code of conduct for Wikimedia technical spaces, including events
 Donor privacy
+General disclaimer
 Human rights
 Licensing
 Privacy
