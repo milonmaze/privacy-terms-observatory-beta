@@ -100,9 +100,18 @@ Last updated: June 25, 2015
 
 Parts of the section "What information We Collect and What We Do With It" are adapted from the Automattic Privacy Policy, licensed under CC BY-SA 4.0.
 
-±
-Privacy-related pages
-
-Privacy policy · FAQ · Glossary of key terms · Wikimedia blog privacy policy · Subpoena FAQ · Access to nonpublic information · Data retention guidelines · Donor policy · Requests for user information
-
+Template:Edi
+Translate
+<translate> Privacy-related pages</translate>
+<translate> Privacy policy</translate>
+<translate> FAQ</translate>
+<translate> Glossary of key terms</translate>
+<translate> Subpoena FAQ</translate>
+<translate> Data retention guidelines</translate>
+<translate> Cookie statement</translate>
+<translate> Access to nonpublic personal data</translate>
+<translate> Confidentiality agreement</translate>
+<translate> How to sign</translate>
+<translate> Underage exemptions</translate>
+<translate> Donor privacy policy</translate>
 Categories: Privacy policyPolicies
