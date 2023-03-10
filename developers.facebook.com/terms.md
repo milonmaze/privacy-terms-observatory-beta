@@ -361,7 +361,6 @@ Social Integrations
 Social Presence
 Programs
 Developer Circles
-F8
 ThreatExchange
 Support
 Developer Support
