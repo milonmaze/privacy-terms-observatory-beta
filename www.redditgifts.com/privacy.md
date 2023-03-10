@@ -1,69 +1,80 @@
 Found the internet!
 Trending today
-North Korea
-North Korea warns US: Shooting down any missile will bring war.
-r/worldnews and more
-Fox News
-Fox News Edits Out Trump Saying He Might’ve Let Russia ‘Take Over’ Parts of Ukraine
-r/politics and more
-Lamar Jackson
-[Kimberley A. Martin] Per league sources: The #Ravens have placed the NON-EXCLUSIVE franchise tag on Lamar Jackson — at $32M @espnnfl
-r/nfl and more
-Elon Musk
-Elon Musk publicly mocks Twitter worker with disability who is unsure whether he's been laid off
+Alexandria Ocasio-Cortez
+Comedian sues Ocasio-Cortez for blocking him on Twitter after he catcalled her outside U.S. Capitol
 r/news and more
-Barry
-'Barry' Ending With Season 4, Premieres April 16 on HBO
-r/television and more
-Worm Moon
-The Full Worm Moon this morning, captured in Glen Allen, VA. The naming refers to earthworms that appear as the soil warms in the spring. I took multiple exposures of the Moon and blended them to get this high dynamic range image. Zoom in for details!
-r/spaceporn and more
+Donald Trump
+Donald Trump: I’d have let Putin annex Ukraine to end the war
+r/politics and more
+Belal Muhammad
+Number 1 contender Belal Muhammad hit me with your questions
+r/MMA and more
+Xi Jinping
+China's Xi gains unprecedented third term as president
+r/worldnews and more
+Dillon Brooks
+[Highlight] Dillon Brooks steals the inbound and gets the layup over Draymond Green, and then they have a strange interaction
+r/nba and more
+2023 DW Asteroid
 Popular posts
 Hot
 Everywhere
 New
 Top
-11.5k
+63.7k
+r/mildlyinfuriating
+•Posted by
+u/Lobsterbib
+22 hours ago
+Join
+My co-worker's handwriting.
+i.imgur.com/eU3zHd...
+8.2k Comments
+Share
+Save
+52.4k
+r/news
+•Posted by
+u/Canis_Familiaris
+23 hours ago
+& 17 More
+Senate GOP leader Mitch McConnell hospitalized after fall
+apnews.com/articl...
+Join
+6.1k Comments
+Share
+Save
+115k
 r/Damnthatsinteresting
 •Posted by
-u/tomp626
-4 hours ago
+u/Connecting_to_audio
+19 hours ago
 Join
-Taxidermist Carl Akeley posing with the leopard he killed with his bare hands after it attacked him, 1896
+An ICE Agent who helped deport many, learned he was undocumented himself and now faces deportation. Upon presenting his birth certificate to help his brother become a citizen, Raul Rodriguez learned his documents were falsified at birth and he in fact was not a US citizen. He was immediately fired.
 Image
-520 Comments
+5.1k Comments
 Share
 Save
-9.3k
+44.5k
 r/facepalm
 •Posted by
-u/1Hate17Here
-4 hours ago
+u/FuzzAldrin36
+21 hours ago
 Join
-Ah, yes. The playmobil haircut screams superior race. (… jfc.)
+She must be so proud.
  🇲​🇮​🇸​🇨​
-672 Comments
+3.8k Comments
 Share
 Save
-15.3k
-r/madlads
+35.2k
+r/IdiotsInCars
 •Posted by
-u/Pluckilysurfeit278
-5 hours ago
+u/MaxAdolphus
+22 hours ago
+2
 Join
-epic
-139 Comments
-Share
-Save
-32.0k
-r/funny
-•Posted by
-u/kingofthesofas
-12 hours ago
-Join
-Any guesses on what animal my 5 year old drew?
-i.imgur.com/F25Sji...
-6.9k Comments
+Girl pulls into neighbor’s driveway, says she can’t get out.
+3.7k Comments
 Share
 Save
 Advertisement
