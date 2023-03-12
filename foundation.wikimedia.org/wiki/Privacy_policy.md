@@ -431,18 +431,18 @@ Privacy policy (November 2008 - June 2014): effective from November 25, 2008 unt
 Privacy policy (August 2008 - November 2008): effective from August 19, 2008 until November 25, 2008
 Privacy policy (June 2006 - August 2008): effective from June 21, 2006 until August 19, 2008
 Privacy policy (April 2005 to June 2006): effective from April 2005 until June 21, 2006
-Template:Edi
++/-
 Translate
-<translate> Privacy-related pages</translate>
-<translate> Privacy policy</translate>
-<translate> FAQ</translate>
-<translate> Glossary of key terms</translate>
-<translate> Subpoena FAQ</translate>
-<translate> Data retention guidelines</translate>
-<translate> Cookie statement</translate>
-<translate> Access to nonpublic personal data</translate>
-<translate> Confidentiality agreement</translate>
-<translate> How to sign</translate>
-<translate> Underage exemptions</translate>
-<translate> Donor privacy policy</translate>
+Privacy-related pages
+Privacy policy
+FAQ
+Glossary of key terms
+Subpoena FAQ
+Data retention guidelines
+Cookie statement
+Access to nonpublic personal data
+Confidentiality agreement
+How to sign
+Underage exemptions
+Donor privacy policy
 Categories: Privacy policyPolicies
