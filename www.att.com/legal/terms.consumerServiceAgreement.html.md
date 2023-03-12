@@ -26,7 +26,7 @@ If you have postpaid AT&T Wireless service (including FirstNet Subscriber Paid U
 If you have prepaid AT&T Wireless service, you’re subject to the Prepaid Wireless Service Terms in Section 3 as well as the Wireless Service Terms in Section 2.
 If you have a DataConnect/Session-based Wireless plan, you’re subject to the Service Terms in Section 4, in addition to the Wireless Service Terms in Section 2 and (if your data plan is prepaid) the Prepaid Wireless Service Terms in Section 3.
 If you’re an AT&T Phone customer, your Service Terms are in Section 5.
-If you have AT&T Fiber, Internet, Fixed Wireless, or DSL service, your Service Terms are in Section 6.
+If you have home internet from AT&T, including AT&T Fiber, AT&T Internet, AT&T Internet Air, AT&T Fixed Wireless, or AT&T DSL service, your Service Terms are in Section 6. If your home internet service is provided via the AT&T Wireless Network, you will also be subject to the applicable sections of the Wireless Services Terms in Section 2.
 If you have Business Internet service (for small business), you’re subject to the Business Internet Service Terms in Section 7 as well as the Internet Service Terms in Section 6.
 1.2 Your AT&T Account and Account Access
 
@@ -1390,7 +1390,7 @@ Certain types of AT&T Wired Internet Services are subject to limits upon availab
 6.14 Wireless Home Internet Services
 6.14.1 Wireless Home Internet Services Description:
 
-Wireless Home Internet Services are designed to deliver internet access to a fixed location using wireless networks and include those services currently marketed by AT&T as AT&T Fixed Wireless Internet and AT&T Wireless Home Internet. Wireless Home Internet Services can be physically fixed to a location by means of externally mounted antennas or can be mobile services limited to operation in a certain location by network based restrictions. See the description, plan details and related terms for your particular Wireless Home Internet Service for more details.
+Wireless Home Internet Services are designed to deliver internet access to a fixed location using wireless networks and include those services currently marketed by AT&T as AT&T Internet Air, AT&T Fixed Wireless Internet and AT&T Wireless Home Internet. Wireless Home Internet Services can be physically fixed to a location by means of externally mounted antennas or can be mobile services limited to operation in a certain location by network based restrictions. See the description, plan details and related terms for your particular Wireless Home Internet Service for more details.
 
 To the extent that your Wireless Home Internet Service is delivered over some portion of the AT&T wireless network, your service will be subject to the AT&T’s Wireless Service Terms in Section 2 in addition to the terms which apply to AT&T Internet Services more generally. To the extent that your Wireless Home Internet Service is served via an AT&T PREPAID wireless service plan, your service will be subject to the AT&T PREPAID Service Terms in Section 3 in addition to the terms which apply to AT&T Internet Services and/or AT&T Wireless Services more generally.
 
@@ -1402,14 +1402,14 @@ Unless otherwise specified, Wireless Home Internet Services are not generally co
 
 6.14.1.2 Prohibited Network Uses:
 
-As explained in subsection 2.4, AT&T may take any and all reasonable actions necessary to restrict any Prohibited Network Uses or any other violation of AT&T’s Acceptable Use Policy, up to and including termination of service.
+As explained in subsection 2.5, AT&T may take any and all reasonable actions necessary to restrict any Prohibited Network Uses or any other violation of AT&T’s Acceptable Use Policy, up to and including termination of service.
 
 6.14.1.3 AT&T’s Network Management:
 
 With respect to your Wireless Home Internet Services, you agree that AT&T has the right to do the following:
 
 AT&T may modify, without advance notice, the permitted and prohibited activities by this Agreement;
-AT&T may engage in any reasonable network management practice to enhance customer service, to reduce network congestion, to adapt to advances and changes in technology, and/or to respond to the availability of wireless bandwidth and spectrum, including by taking any actions authorized by subsection 7.9.2;
+AT&T may engage in any reasonable network management practice to enhance customer service, to reduce network congestion, to adapt to advances and changes in technology, and/or to respond to the availability of wireless bandwidth and spectrum, including by taking any actions authorized by subsections 2.7 and 6.9;
 AT&T will provide you with advance notice of the usage threshold applicable to your data plan, or any changes to the applicable usage threshold either by a bill insert, email, text message or other appropriate means; and
 AT&T may use reasonable methods to monitor and collect customer usage information to better optimize the operation of the network. Details concerning the information that AT&T collects about its customers, and how it uses and protects that information are addressed in the AT&T Privacy Policy (see att.com/privacy).
 6.14.2 Fixed Wireless Internet Service
@@ -1470,6 +1470,57 @@ AT&T Wireless Home Internet service requires that you subscribe to an eligible w
 
 AT&T Wireless Home Internet Service does not support voice calling. However, a landline phone plugged into the available RJ11 jack on the back of the WI Device may be able to make Emergency 911 calls. 911 calls made via the AT&T Wireless Home Internet Service would be routed based on the wireless network’s automatic location technology. You will need to provide your location address to the emergency response center responsible for sending first responders (e.g., police, medical assistance, or fire) to your location. The WI Device has battery backup power and, if charged, will work in the event of a power outage. However, a landline phone connected to the WI Device would require external electric power to operate (e.g., a cordless phone) in the event of a power outage.
 
+6.14.4 AT&T Internet Air
+6.14.4.1 “AT&T Internet Air” or “AT&T Internet Air Service” 
+
+refers to a wireless high-speed internet access service that offers you a capability for acquiring or retrieving information from; generating, storing, transforming, processing, or utilizing information on; or making available information to other internet end points connected directly or indirectly via a fixed wireless connection to the AT&T network.
+
+6.14.4.2 Speed / Network Management: 
+
+The speed of AT&T Internet Air service is very dependent upon the connection the Wi-Fi Gateway can achieve with the AT&T Mobile network. Availability of 5G connectivity may depend upon your location and/or the position of the AT&T Equipment within your location. Unless otherwise specified in your plan terms or order confirmation, AT&T makes absolutely no commitment with respect to the speeds AT&T Internet Air will be able to achieve in a particular location. To maximize performance, every effort should be made to position the AT&T Equipment in the optimal position for your location. See att.com/broadbandinfo for information on the performance characteristics of different generations of the AT&T Mobile network and for network management practices applicable to AT&T Internet Air specifically and the AT&T Mobile network generally.
+
+6.14.4.3 IP Addresses: 
+
+Static IP addresses are not a standard part of the AT&T Internet Air Service. Services such as Web hosting, or hosted services such as camera, gaming server, etc. that require static IP address may not be supported by AT&T Internet Air. See Section 6.14.4.8 for more information on service limitations.
+
+6.14.4.4 Service Requirements: 
+
+To qualify for AT&T Internet Air Service, you must reside in an area eligible for AT&T Internet Air service at the time you seek to purchase Service. Service areas for AT&T Internet Air are determined by coverage and capacity availability on the local mobile network; because network capacity fluctuates, service areas for AT&T Internet Air are subject change over time. If your AT&T Internet Air service is cancelled or terminated, you may not qualify to reactivate the Service if your location is deemed no longer eligible. AT&T Internet Air requires a wireless enabled Wi-Fi Gateway with an activated AT&T SIM card to facilitate the wireless connection to the AT&T Mobile network.
+
+6.14.4.5 Changing Service Location: 
+
+You may not use the AT&T Internet Air Service at any address other than your designated Service address or move any of the AT&T Equipment to another address while you remain an AT&T Internet Air customer. If you are moving to a new residence, you must cancel your AT&T Internet Air service and return the AT&T Equipment. If you move the AT&T Equipment to a location outside your designated Service address but fail to call us at 800.288.2020 to cancel your AT&T Internet Air service your Service will not automatically be cancelled and your Service charges will continue to apply. Additionally, if you move the AT&T Equipment to a location outside your designated Service address without the express written consent of AT&T:
+
+the service may not operate as intended; and
+we have the right, in our sole discretion, to terminate your AT&T Internet Air service without notice.
+
+You will remain responsible for any Service charges until your Service is cancelled or terminated. You will also remain responsible for returning the AT&T Equipment.
+
+6.14.4.6 AT&T Internet Air Equipment: 
+
+Your AT&T Internet Air Service will include the following AT&T Equipment:
+
+(1) Wi-Fi Gateway (“WG”): The WG is designed to be installed inside your premises and is required for the Service to function. A WG allows multiple devices to connect and communicate to the internet wirelessly. Smartphones, tablets, and laptops are common devices that access the internet through a WG. A WG is designed exclusively for use indoors and has a power cord that plugs into a common electrical outlet. A battery backup is recommended in case of a power outage. Some WGs may have an external battery backup while others may have an internal battery backup.
+
+The AT&T Equipment should be installed and activated by following the set-up guide and associated tools (including the Smart Home Manager app) provided for that purpose. In order to achieve the best possible signal strength, it may be necessary to install the AT&T Equipment near a window facing the direction of the nearest wireless tower. Not following the set-up guide or electing to install the AT&T Equipment in a location that is not recommended by the set-up guide and/or the associated tools may result in degradation of Service quality, in terms of speed, bandwidth, latency and/or reliability. Similarly, once the AT&T Equipment has been installed and activated, relocating the WG within your address may result in interruption or degradation of your Service. AT&T is not responsible for any interruption or degradation of Service as a result of the AT&T Equipment being installed in a less than optimal location.
+
+You agree that, while you continue to receive the Service, neither you nor a third party will move the AT&T Equipment to any other physical location outside of your registered service location. AT&T Internet Air Service is not designed to be nomadic and may not function properly if the AT&T Equipment is moved to a location outside of your registered service location. If you require the AT&T Equipment to be moved while you continue to receive the Service, you must contact AT&T. Failure to do so may result in a failure of the Service and/or in AT&T's termination of your Service. You will remain responsible for any Service charges until your Service has been cancelled or terminated.
+
+6.14.4.7 Responsibility for and Return of AT&T Equipment: 
+
+Upon termination of your Service for any reason, AT&T shall remain the owner of the WG, and you must return the WG, undamaged, within 21 calendar days to AT&T. If the WG is not returned within 21 calendar days, or is returned damaged, you will be charged an equipment non-return fee. (See the Internet Fee Schedule for details.)
+
+6.14.4.8 Service Availability and Limitations: 
+
+In addition to the standard service availability and limitations faced by all Wireless Home Internet Services, AT&T Internet Air Service is subject to the following additional service limitations and/or Capacity Limitations:
+
+Local congestion caused by the use of network capacity by high numbers of users simultaneously using data intensive applications in the vicinity of the cell tower serving the Service address;
+blockage of the signal between the Service address and the cell tower (caused by artificial objects – building, barn, etc.);
+
+In order to ensure the best quality of service for all customers using the mobility network, during times of heavy network congestion AT&T may:
+
+temporarily prioritize services that may be most severely impacted by congestion; and/or
+temporarily de-prioritize and/or throttle services deemed likely to contribute to heavy congestion.
 6.15 DSL Internet Service
 6.15.1 DSL Service:
 
@@ -1520,10 +1571,14 @@ Access from AT&T is only available to Qualifying Households. If your residence i
 
 Participation in the Access from AT&T program is open to participants in the following “Qualifying Programs”:
 
+the Federal Communication Commission’s Affordable Connectivity Program (ACP)
 the U.S. Supplemental Nutrition Assistance Program (SNAP); and
 the Supplemental Security Income (SSI) program in the State of California (California residents only).
+the National School Lunch Program.
 
-AT&T may, in its sole discretion. expand the scope of “Qualifying Programs” for the Access from AT&T program Visit att.com/internet/access/ for more details on additional Qualifying Programs, if any
+AT&T may, in its sole discretion. expand the scope of “Qualifying Programs” for the Access from AT&T program. Access from AT&T is also available to households with income below 200% of federal poverty guidelines.
+
+Visit att.com/internet/access/ for more details on additional Qualifying Programs, if any, and for more details about qualifying based on income.
 
 6.17.5 Qualifying Home Internet Services:
 
