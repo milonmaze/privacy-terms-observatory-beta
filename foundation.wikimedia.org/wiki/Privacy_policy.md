@@ -432,7 +432,7 @@ Privacy policy (August 2008 - November 2008): effective from August 19, 2008 unt
 Privacy policy (June 2006 - August 2008): effective from June 21, 2006 until August 19, 2008
 Privacy policy (April 2005 to June 2006): effective from April 2005 until June 21, 2006
 +/-
-Translate
+translate
 Privacy-related pages
 Privacy policy
 FAQ
@@ -444,5 +444,6 @@ Access to nonpublic personal data
 Confidentiality agreement
 How to sign
 Underage exemptions
+Noticeboard
 Donor privacy policy
 Categories: Privacy policyPolicies
