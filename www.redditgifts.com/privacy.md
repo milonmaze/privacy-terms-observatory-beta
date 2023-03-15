@@ -1,100 +1,104 @@
 Found the internet!
 Trending today
-Brendan Fraser
-Brendan Fraser Wins Academy Award for Best Actor for 'The Whale'
-r/movies and more
-Everything Everywhere All At Once
-'Everything Everywhere All At Once' wins Best Picture at the 95th Academy Awards, totaling Seven Awards Won
-r/movies and more
-Signature Bank
-Regulators close New York’s Signature Bank, citing systemic risk
-r/news and more
-World Baseball Classic
-[Highlight] Joey Meneses hits his second home run of the game against USA.
-r/baseball and more
-NCAA March Madness
-The Official 2023 March Madness Bracket
-r/CollegeBasketball and more
-Ron DeSantis
-New poll suggests DeSantis' 'anti-woke' crusade may backfire: The same message that works for the Republican base doesn't work for most Americans
+Credit Suisse
+Credit Suisse shares suspended, banking crisis deepens
+r/Superstonk and more
+Erling Haaland
+[L’Équipe] Erling Haaland receives a 10/10 (The Perfect match) rating by L’Équipe, becoming the 2nd player in history to receive it twice
+r/soccer and more
+Ted Lasso
+Can’t even enjoy TV in peace now (Ted Lasso S3)
+r/chelseafc and more
+Haas Automation
+[Haas Automation]American company accused of violating sanctions, doing business with Russian arms industry
+r/formula1 and more
+Stephon Gilmore
+[Pelissero] Another big trade! The #Colts are sending five-time Pro Bowl CB Stephon Gilmore to the #Cowboys for a 2023 fifth-round compensatory pick, sources tell me and @RapSheet.
+r/nfl and more
+Elizabeth Warren
+Warren unveils bill to repeal Trump-era bank deregulation she says led to SVB, Signature collapses
 r/politics and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-18.7k
-r/worldnews
-•Posted by
-u/koavf
-4 hours ago
-Women across Iran are refusing to wear headscarves, in open defiance of the regime
-npr.org/sectio...
-Join
-416 Comments
-Share
-Save
-2.2k
-r/movies
-•Posted by
-u/LiteraryBoner
-14 hours ago
-Join
-Official Oscars Discussion Thread 2023
-18.1k Comments
-Share
-Save
-5.3k
-r/thelastofus
-•Posted by
-u/AutoModerator
-12 hours ago
-Join
-The Last of Us HBO S01E09 - "Look for the Light" Post-Episode Discussion Thread
-HBO Showspoiler
-8.6k Comments
-Share
-Save
-7.9k
-r/Funnymemes
-•Posted by
-u/Xiaoleung4
-15 hours ago
-Join
-what would you see!?
-7.5k Comments
-Share
-Save
-2.3k
-r/ThelastofusHBOseries
-•Posted by
-u/LoretiTV
-12 hours ago
-Join
-[No Game Spoilers] The Last of Us - 1x09 "Look for the Light" - Post Episode Discussion
-Show Only Discussion
-5.2k Comments
-Share
-Save
-22.1k
+Vote
 r/interestingasfuck
 •Posted by
 u/Xeoft
-4 hours ago
+2 hours ago
 Join
-The same location, just different times.
-177 Comments
+Former US President Barack Obama once came across a choir of Danish Girls practicing their singing with their balcony door open, to which he kindly asked to keep singing for him to enjoy
+832 Comments
 Share
 Save
-53.5k
-r/mildlyinteresting
+35.0k
+r/AskReddit
 •Posted by
-u/frozenflameinthewind
+u/-eDgAR-
 15 hours ago
+& 11 More
 Join
-Cici’s apparently has a “pizza challenge” it allows customers to do for a prize of $300
-OC
-4.8k Comments
+The Great Reddit Outage of 2023
+Breaking News
+6.1k Comments
+Share
+Save
+30.5k
+r/therewasanattempt
+•Posted by
+u/vectorix108
+13 hours ago
+Join
+To define “woke”
+4.4k Comments
+Share
+Save
+39.7k
+r/worldnews
+•Posted by
+u/HowAboutThisNameNow
+21 hours ago
+Russian jet collides with US drone over Black Sea
+Russia/Ukraine
+bbc.co.uk/news/w...
+Join
+3.6k Comments
+Share
+Save
+10.5k
+r/LifeProTips
+•Posted by
+u/SarcastiKatt
+13 hours ago
+Join
+LPT Request: what is something that has drastically helped your mental health that you wish you started doing earlier?
+Request
+3.1k Comments
+Share
+Save
+11.2k
+r/funny
+•Posted by
+u/illustrationsbysimon
+5 hours ago
+Join
+The Sleep Police
+Verified
+175 Comments
+Share
+Save
+17.8k
+r/movies
+•Posted by
+u/MarvelsGrantMan136
+15 hours ago
+Quentin Tarantino’s Final Film Is Coming as Filmmaker Readies ‘The Movie Critic’
+News
+hollywoodreporter.com/movies...
+Join
+1.5k Comments
 Share
 Save
 Advertisement
