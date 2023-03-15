@@ -14,6 +14,7 @@ Wikimedia policies
 Wikimedia projects
 Access to nonpublic information
 Code of conduct for Wikimedia technical spaces, including events
+Cookie statement
 Donor privacy
 General disclaimer
 Human rights
