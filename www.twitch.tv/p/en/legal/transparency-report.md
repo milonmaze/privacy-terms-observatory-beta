@@ -1,9 +1,6 @@
 Preferred Language
 English
 twitch.tv  ↗
-Transparency Report
-
-Transparency Reporting is an important measure of accountability that provides insight about how we are improving safety on Twitch.
 
 H1 2022 Transparency Report
 
