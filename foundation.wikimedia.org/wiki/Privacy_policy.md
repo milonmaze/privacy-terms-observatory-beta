@@ -7,7 +7,6 @@ This policy is approved by the Wikimedia Foundation Board of Trustees to apply t
 It may not be circumvented, eroded, or ignored by local policies.
 
 Want to help translate? Translate the missing messages.
-
 Privacy Policy
 This is a summary of the Privacy Policy. To read the full terms, scroll down or click here.
 Disclaimer: This summary is not a part of the Privacy Policy and is not a legal document. It is simply a handy reference for understanding the full Privacy Policy. Think of it as the user-friendly interface to our Privacy Policy.
@@ -47,8 +46,6 @@ Use of info
 Sharing
 Protection
 Important info
-[show]
-Contents
 
  Introduction
 
@@ -96,6 +93,9 @@ When we say…	…we mean:
 (b) when associated with one of the items in subsection (a), any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, medical conditions or disabilities, political affiliation, and religion.
 
 "third party" / "third parties"	Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by the Wikimedia Foundation. This includes other Wikimedia users and independent organizations or groups who help promote the Wikimedia movement such as Wikimedia chapters, thematic organizations, and user groups as well as volunteers, employees, directors, officers, grant recipients, and contractors of those organizations or groups.
+
+
+
 
 What This Privacy Policy Does & Doesn't Cover
 
