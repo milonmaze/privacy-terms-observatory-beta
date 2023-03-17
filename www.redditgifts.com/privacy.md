@@ -1,104 +1,76 @@
 Found the internet!
 Trending today
-Credit Suisse
-Credit Suisse shares suspended, banking crisis deepens
-r/Superstonk and more
-Erling Haaland
-[L’Équipe] Erling Haaland receives a 10/10 (The Perfect match) rating by L’Équipe, becoming the 2nd player in history to receive it twice
-r/soccer and more
-Ted Lasso
-Can’t even enjoy TV in peace now (Ted Lasso S3)
-r/chelseafc and more
-Haas Automation
-[Haas Automation]American company accused of violating sanctions, doing business with Russian arms industry
-r/formula1 and more
-Stephon Gilmore
-[Pelissero] Another big trade! The #Colts are sending five-time Pro Bowl CB Stephon Gilmore to the #Cowboys for a 2023 fifth-round compensatory pick, sources tell me and @RapSheet.
-r/nfl and more
-Elizabeth Warren
-Warren unveils bill to repeal Trump-era bank deregulation she says led to SVB, Signature collapses
-r/politics and more
+FCC
+FCC orders phone companies to block scam text messages
+r/technology and more
+NCAA March Madness
+[Post Game Thread] #15 Princeton defeats #2 Arizona, 59-55
+r/CollegeBasketball and more
+Michigan
+Gov. Whitmer signs bill expanding Michigan civil rights law to include LGBTQ protections
+r/UpliftingNews and more
+Taylor Swift
+"All Of The Girls You Loved Before" Discussion Megathread
+r/TaylorSwift and more
+France Retirement Age Bill
+Today, the President of France said he’s going to force through a raise of the retirement age without a vote. Tonight, Paris looks like this.
+r/antiwork and more
+Russia-Ukraine War
 Popular posts
 Hot
 Everywhere
 New
 Top
 Vote
-r/interestingasfuck
+r/WatchPeopleDieInside
 •Posted by
-u/Xeoft
-2 hours ago
+u/Maelarion
+1 hour ago
 Join
-Former US President Barack Obama once came across a choir of Danish Girls practicing their singing with their balcony door open, to which he kindly asked to keep singing for him to enjoy
-832 Comments
+"Wow you look like Björn Ironside."
+286 Comments
 Share
 Save
-35.0k
-r/AskReddit
+15.4k
+r/PoliticalHumor
 •Posted by
-u/-eDgAR-
-15 hours ago
-& 11 More
+u/DASTARDLYDEALER
+4 hours ago
 Join
-The Great Reddit Outage of 2023
-Breaking News
-6.1k Comments
+Thanks Socialism!
+423 Comments
 Share
 Save
-30.5k
-r/therewasanattempt
-•Posted by
-u/vectorix108
-13 hours ago
-Join
-To define “woke”
-4.4k Comments
-Share
-Save
-39.7k
+49.6k
 r/worldnews
 •Posted by
-u/HowAboutThisNameNow
-21 hours ago
-Russian jet collides with US drone over Black Sea
-Russia/Ukraine
-bbc.co.uk/news/w...
+u/pipsdontsqueak
+23 hours ago
+France's President Macron overrides parliament to pass retirement age bill
+cnbc.com/2023/0...
 Join
-3.6k Comments
+6.7k Comments
 Share
 Save
-10.5k
-r/LifeProTips
+75.4k
+r/WhitePeopleTwitter
 •Posted by
-u/SarcastiKatt
-13 hours ago
+u/Ivebeendoingurmom
+20 hours ago
 Join
-LPT Request: what is something that has drastically helped your mental health that you wish you started doing earlier?
-Request
-3.1k Comments
+Big Brother wants to control what you talk about in public
+6.4k Comments
 Share
 Save
-11.2k
-r/funny
+13.3k
+r/pcmasterrace
 •Posted by
-u/illustrationsbysimon
-5 hours ago
+u/DJay_ProGamer
+18 hours ago
 Join
-The Sleep Police
-Verified
-175 Comments
-Share
-Save
-17.8k
-r/movies
-•Posted by
-u/MarvelsGrantMan136
-15 hours ago
-Quentin Tarantino’s Final Film Is Coming as Filmmaker Readies ‘The Movie Critic’
-News
-hollywoodreporter.com/movies...
-Join
-1.5k Comments
+let's say you can only pick one, which would you choose?
+Question
+5.2k Comments
 Share
 Save
 Advertisement
