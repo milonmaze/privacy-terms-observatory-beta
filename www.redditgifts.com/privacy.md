@@ -1,76 +1,88 @@
 Found the internet!
 Trending today
-FCC
-FCC orders phone companies to block scam text messages
-r/technology and more
-NCAA March Madness
-[Post Game Thread] #15 Princeton defeats #2 Arizona, 59-55
-r/CollegeBasketball and more
-Michigan
-Gov. Whitmer signs bill expanding Michigan civil rights law to include LGBTQ protections
-r/UpliftingNews and more
-Taylor Swift
-"All Of The Girls You Loved Before" Discussion Megathread
-r/TaylorSwift and more
-France Retirement Age Bill
-Today, the President of France said he’s going to force through a raise of the retirement age without a vote. Tonight, Paris looks like this.
-r/antiwork and more
-Russia-Ukraine War
+Starlink
+SpaceX’s Starlink devices found in illegal mining sites in the Amazon
+r/worldnews and more
+Vladimir Putin
+Putin will get arrested if he comes to Germany
+r/worldnews and more
+France Pension Protests
+Iran condemns France’s brutal suppression of rallies over pension reform
+r/nottheonion and more
+Trea Turner
+Trea Turner No-Doubt GRAND SLAM retakes the lead 9-7 for Team USA
+r/baseball and more
+Klay Thompson
+[Highlight] Klay Thompson shows how many rings he has to the Grizzlies Bench
+r/nba and more
+LCK 2023
+spoiler
+T1 vs. Nongshim RedForce / LCK 2023 Spring - Week 9 / Post-Match Discussion
+r/leagueoflegends and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-Vote
-r/WatchPeopleDieInside
+28.8k
+r/funny
 •Posted by
-u/Maelarion
-1 hour ago
+u/Archi7
+6 hours ago
 Join
-"Wow you look like Björn Ironside."
-286 Comments
+A real chick magnet
+563 Comments
 Share
 Save
-15.4k
-r/PoliticalHumor
+89.9k
+r/interestingasfuck
 •Posted by
-u/DASTARDLYDEALER
-4 hours ago
+u/Papppi-56
+21 hours ago
 Join
-Thanks Socialism!
-423 Comments
+A Russian fifth grader put out an Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The eternal flame has (previously) been burning since it's erection in 1985
+4.7k Comments
 Share
 Save
-49.6k
-r/worldnews
-•Posted by
-u/pipsdontsqueak
-23 hours ago
-France's President Macron overrides parliament to pass retirement age bill
-cnbc.com/2023/0...
-Join
-6.7k Comments
-Share
-Save
-75.4k
+42.8k
 r/WhitePeopleTwitter
 •Posted by
-u/Ivebeendoingurmom
+u/Cerviliotd
 20 hours ago
 Join
-Big Brother wants to control what you talk about in public
-6.4k Comments
+Republicans are about to ban cannabis in Florida
+4.6k Comments
 Share
 Save
-13.3k
-r/pcmasterrace
+19.4k
+r/therewasanattempt
 •Posted by
-u/DJay_ProGamer
-18 hours ago
+u/Alternative_Ad6071
+5 hours ago
 Join
-let's say you can only pick one, which would you choose?
-Question
-5.2k Comments
+To push a guy into a lady
+1.9k Comments
+Share
+Save
+6.5k
+r/CollegeBasketball
+•Posted by
+u/cbbBot
+14 hours ago
+& 5 More
+Join
+[Post Game Thread] #8 Arkansas defeats #1 Kansas, 72-71
+Post Game Thread
+
+Box Score
+
+Team	1H	2H	Total
+Arkansas	27	45	72
+Kansas	35	36	71
+
+Index Thread for March 18, ^2023
+
+1.9k Comments
 Share
 Save
 Advertisement
