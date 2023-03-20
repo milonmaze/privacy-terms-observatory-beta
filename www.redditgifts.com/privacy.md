@@ -1,88 +1,69 @@
 Found the internet!
 Trending today
-Starlink
-SpaceX’s Starlink devices found in illegal mining sites in the Amazon
-r/worldnews and more
-Vladimir Putin
-Putin will get arrested if he comes to Germany
-r/worldnews and more
-France Pension Protests
-Iran condemns France’s brutal suppression of rallies over pension reform
-r/nottheonion and more
-Trea Turner
-Trea Turner No-Doubt GRAND SLAM retakes the lead 9-7 for Team USA
-r/baseball and more
-Klay Thompson
-[Highlight] Klay Thompson shows how many rings he has to the Grizzlies Bench
+Xi Jinping in Moscow
+China’s Xi calls for ‘rational way’ out of Ukraine conflict
+r/ukraine and more
+Austin Reaves
+[Buha] Austin Reaves said he’s studied James Harden and Trae Young to become better at drawing fouls.
 r/nba and more
-LCK 2023
-spoiler
-T1 vs. Nongshim RedForce / LCK 2023 Spring - Week 9 / Post-Match Discussion
-r/leagueoflegends and more
+Bruce Willis
+Demi Moore shares a touching video as Bruce Willis’ family celebrate his birthday
+r/worldnewsvideo and more
+Trea Turner
+Trea Turner picks up where he left off with another No-Doubter to go up 3-1
+r/baseball and more
+ChatGPT
+ChatGPT has spoken.
+r/BalticStates and more
+North Korea
+North Korea's Kim calls for nuclear attack readiness against U.S., South Korea
+r/worldnews and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-28.8k
-r/funny
-•Posted by
-u/Archi7
-6 hours ago
-Join
-A real chick magnet
-563 Comments
-Share
-Save
-89.9k
+75.8k
 r/interestingasfuck
 •Posted by
-u/Papppi-56
+u/PineBarrens89
+19 hours ago
+5
+Join
+1930's New York City
+5.8k Comments
+Share
+Save
+18.1k
+r/lotrmemes
+•Posted by
+u/PeakSuccessfuls
+4 hours ago
+Join
+The truth.
+Shitpost
+323 Comments
+Share
+Save
+58.7k
+r/facepalm
+•Posted by
+u/sub11m1na1
 21 hours ago
 Join
-A Russian fifth grader put out an Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The eternal flame has (previously) been burning since it's erection in 1985
-4.7k Comments
+"Cultural icon"....
+ 🇲​🇮​🇸​🇨​
+4.8k Comments
 Share
 Save
-42.8k
-r/WhitePeopleTwitter
-•Posted by
-u/Cerviliotd
-20 hours ago
-Join
-Republicans are about to ban cannabis in Florida
-4.6k Comments
-Share
-Save
-19.4k
+42.3k
 r/therewasanattempt
 •Posted by
-u/Alternative_Ad6071
-5 hours ago
+u/Low_Ad9634
+19 hours ago
 Join
-To push a guy into a lady
-1.9k Comments
-Share
-Save
-6.5k
-r/CollegeBasketball
-•Posted by
-u/cbbBot
-14 hours ago
-& 5 More
-Join
-[Post Game Thread] #8 Arkansas defeats #1 Kansas, 72-71
-Post Game Thread
-
-Box Score
-
-Team	1H	2H	Total
-Arkansas	27	45	72
-Kansas	35	36	71
-
-Index Thread for March 18, ^2023
-
-1.9k Comments
+to stop his wife from leaving him by deadlifting the car
+4.1k Comments
 Share
 Save
 Advertisement
