@@ -66,9 +66,9 @@ From time to time, you may experience some technical issues with our site. If th
 2 min article
 User Privacy Notice
 
-In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights for you.
+In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights.
  
 
-This User Privacy Notice is effective from December 23, 2021. View the previous User Privacy Notice.
+This User Privacy Notice is effective from March 24, 2023. View the previous User Privacy Notice.
 
 15 min article
