@@ -1,69 +1,90 @@
 Found the internet!
 Trending today
-Xi Jinping in Moscow
-China’s Xi calls for ‘rational way’ out of Ukraine conflict
-r/ukraine and more
-Austin Reaves
-[Buha] Austin Reaves said he’s studied James Harden and Trae Young to become better at drawing fouls.
-r/nba and more
-Bruce Willis
-Demi Moore shares a touching video as Bruce Willis’ family celebrate his birthday
-r/worldnewsvideo and more
-Trea Turner
-Trea Turner picks up where he left off with another No-Doubter to go up 3-1
-r/baseball and more
-ChatGPT
-ChatGPT has spoken.
-r/BalticStates and more
-North Korea
-North Korea's Kim calls for nuclear attack readiness against U.S., South Korea
+Uganda LGBTQ Bill
+Uganda passes bill banning identifying as LGBTQ
 r/worldnews and more
+Trea Turner
+Trea Turner does it again as he hits a solo shot to give USA a 1-0 lead!
+r/baseball and more
+$GME
+🚨🟣 GameStop Reports Fourth Quarter and Fiscal Year 2022 Results 🟣🚨
+r/Superstonk and more
+Asteroids
+Scientists have discovered the chemical compound uracil, one of the building blocks of RNA, in just 10 milligrammes of material from the asteroid Ryugu
+r/space and more
+Donald Trump
+Sources: Special counsel claims Trump deliberately misled his attorneys about classified documents, judge wrote
+r/politics and more
+Utah State Flag
+BREAKING: Utah has officially adopted a new state flag! Gov. Cox signs the banner bill.
+r/vexillology and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-75.8k
-r/interestingasfuck
+11.2k
+r/AskReddit
 •Posted by
-u/PineBarrens89
-19 hours ago
-5
+u/purple_rasberries
+21 hours ago
+7
 Join
-1930's New York City
-5.8k Comments
+What video game have you played the most?
+15.4k Comments
 Share
 Save
-18.1k
-r/lotrmemes
+21.1k
+r/funny
 •Posted by
-u/PeakSuccessfuls
+u/kontorusama
 4 hours ago
 Join
-The truth.
-Shitpost
-323 Comments
+Harry Potter, but Balenciaga.
+900 Comments
 Share
 Save
-58.7k
-r/facepalm
+54.1k
+r/Damnthatsinteresting
 •Posted by
-u/sub11m1na1
-21 hours ago
+u/Kaos2018
+17 hours ago
 Join
-"Cultural icon"....
- 🇲​🇮​🇸​🇨​
-4.8k Comments
+Countries with the most firearms in Civil hands
+Image
+7.8k Comments
 Share
 Save
-42.3k
-r/therewasanattempt
+18.2k
+r/MurderedByWords
 •Posted by
-u/Low_Ad9634
-19 hours ago
+u/thecustardgannet
+5 hours ago
 Join
-to stop his wife from leaving him by deadlifting the car
-4.1k Comments
+Don't drink the contents of the battery...
+327 Comments
+Share
+Save
+93.1k
+r/interestingasfuck
+•Posted by
+u/user678990655
+16 hours ago
+Join
+Stabilised footage of the Bigfoot film from 1967.
+6.5k Comments
+Share
+Save
+1.3k
+r/Superstonk
+•Posted by
+u/AutoModerator
+7 hours ago
+& 3 More
+Join
+$GME Daily Directory | New? Start Here! | Discussion, DRS Guide, DD Library, Monthly Forum, and FAQs
+📆 Daily Discussion
+2.7k Comments
 Share
 Save
 Advertisement
