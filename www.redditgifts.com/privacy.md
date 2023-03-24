@@ -1,90 +1,87 @@
 Found the internet!
 Trending today
-Uganda LGBTQ Bill
-Uganda passes bill banning identifying as LGBTQ
-r/worldnews and more
-Trea Turner
-Trea Turner does it again as he hits a solo shot to give USA a 1-0 lead!
-r/baseball and more
-$GME
-🚨🟣 GameStop Reports Fourth Quarter and Fiscal Year 2022 Results 🟣🚨
-r/Superstonk and more
-Asteroids
-Scientists have discovered the chemical compound uracil, one of the building blocks of RNA, in just 10 milligrammes of material from the asteroid Ryugu
-r/space and more
-Donald Trump
-Sources: Special counsel claims Trump deliberately misled his attorneys about classified documents, judge wrote
+Ash & Pikachu
+Pokémon will have its final episode with Ash Ketchum today in Japan. So Ash's English voice actress has sent this letter to her Japanese counterpart
+r/interestingasfuck and more
+Utah Social Media Law
+Utah Gov. signs laws requiring parental consent for minors to use social media
 r/politics and more
-Utah State Flag
-BREAKING: Utah has officially adopted a new state flag! Gov. Cox signs the banner bill.
-r/vexillology and more
+Gonzaga Bulldogs
+[Highlight] Julian Strawther hits the go-ahead three to give the Zags the lead. Malachi Smith strips Tyger to give the possession to Gonzaga.
+r/CollegeBasketball and more
+John Wick: Chapter 4
+Box Office Preview: ‘John Wick 4’ to Hunt Down Huge $65M-$70M U.S. Opening
+r/boxoffice and more
+Zebra Escape
+A zebra escaped from the Children's Grand Park in Seoul, South Korea on 23 March
+r/FunnyAnimals and more
+French Protests
+Bordeaux town hall set on fire in France pension protests
+r/europe and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-11.2k
-r/AskReddit
+11.8k
+r/books
 •Posted by
-u/purple_rasberries
-21 hours ago
-7
+u/not-my-other-alt
+3 hours ago
+Illinois House passes bill prohibiting book bans
+wgem.com/2023/0...
 Join
-What video game have you played the most?
-15.4k Comments
+476 Comments
 Share
 Save
-21.1k
-r/funny
+21.3k
+r/meirl
 •Posted by
-u/kontorusama
+u/kanyewest3789
 4 hours ago
 Join
-Harry Potter, but Balenciaga.
-900 Comments
+meirl
+2.4k Comments
 Share
 Save
-54.1k
-r/Damnthatsinteresting
-•Posted by
-u/Kaos2018
-17 hours ago
-Join
-Countries with the most firearms in Civil hands
-Image
-7.8k Comments
-Share
-Save
-18.2k
+12.6k
 r/MurderedByWords
 •Posted by
-u/thecustardgannet
-5 hours ago
+u/sobrique
+6 hours ago
 Join
-Don't drink the contents of the battery...
-327 Comments
+A Muslim walks into a post office...
+419 Comments
 Share
 Save
-93.1k
-r/interestingasfuck
+38.7k
+r/AskReddit
 •Posted by
-u/user678990655
-16 hours ago
+u/StirFryTaint
+23 hours ago
 Join
-Stabilised footage of the Bigfoot film from 1967.
-6.5k Comments
+If you could place any object on the surface of Mars, purely to confuse NASA scientists, what would it be?
+21.6k Comments
 Share
 Save
-1.3k
-r/Superstonk
+9.7k
+r/memes
 •Posted by
-u/AutoModerator
-7 hours ago
-& 3 More
+u/DylenwithanE
+4 hours ago
 Join
-$GME Daily Directory | New? Start Here! | Discussion, DRS Guide, DD Library, Monthly Forum, and FAQs
-📆 Daily Discussion
-2.7k Comments
+POV: what
+138 Comments
+Share
+Save
+6.2k
+r/WhitePeopleTwitter
+•Posted by
+u/thatguy9684736255
+4 hours ago
+Join
+Unhinged behavior
+431 Comments
 Share
 Save
 Advertisement
