@@ -1,4 +1,4 @@
-CLOUDFLARE TRANSPARENCY REPORT - H2 2021
+CLOUDFLARE TRANSPARENCY REPORT - H1 2022
 
 An essential part of earning and maintaining the trust of our customers is being transparent about the requests we receive from law enforcement and other governmental entities. To this end, Cloudflare publishes semi-annual updates to our Transparency Report on the requests we have received to disclose information about our customers.
 
@@ -33,14 +33,11 @@ If Cloudflare were asked to do any of these, we would exhaust all legal remedies
 
 BACKGROUND ON THE DATA
 
-The data presented below covers the period from July 1, 2021, to December 31, 2021. A request received in December 2021, but not processed until January 2022 will show as both "Requests received" and "Requests in process." Also, requests for which we are waiting for a response from law enforcement before moving forward may also be reflected in "Requests in process." The total number of domains affected and the total number of accounts affected refer only to requests which have been answered.
+The data presented below covers the period from January 1, 2022, to June 30, 2022. A request received in December 2021, but not processed until January 2022 will show as both "Requests received" and "Requests in process." Also, requests for which we are waiting for a response from law enforcement before moving forward may also be reflected in "Requests in process." The total number of domains affected and the total number of accounts affected refer only to requests which have been answered.
 
 Download Transparency Report
 
 You can subscribe to updates on our Transparency Report using an RSS Feed.
-
-
-
 
 BACKGROUND ON REQUESTS FOR USER DATA
 BACKGROUND ON REQUESTS FOR CONTENT REMOVAL OR BLOCKING
