@@ -1,9 +1,6 @@
 AT&T Consumer Service Agreement
 Documents
 Print
-
-To learn about the recent updates to this AT&T Consumer Service Agreement, go to att.com/CSA.
-
 AT&T Consumer Service Agreement
 1.0
 General Terms
