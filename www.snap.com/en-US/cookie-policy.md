@@ -75,6 +75,8 @@ Facebook
 
 Google Analytics
 
+Hubspot
+
 LinkedIn
 
 Pardot
