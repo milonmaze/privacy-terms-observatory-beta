@@ -1,79 +1,85 @@
 Found the internet!
 Trending today
-Daniel Radcliffe
-Daniel Radcliffe set to become a father for the first time!
-r/entertainment and more
-Twitter
-Twitter to un-verify people who don’t pay $8/month starting on April Fools’ Day
-r/technology and more
-ChatGPT
-A professor says he's stunned that ChatGPT went from a D grade on his economics test to an A in just 3 months
-r/technology and more
+NCAA Final Four
+The 2023 Final Four is set
+r/CollegeBasketball and more
+Israel Defense Minister
+Mass protests erupt in Israel after Netanyahu fires defense chief
+r/anime_titties and more
+Caitlin Clark
+Tonight is the fifth time this season that Caitlin Clark (41) has scored more points than the 2022 Iowa football team did in any of its games.
+r/CollegeBasketball and more
+Strike in Germany
+Largest strike in decades brings Germany to a standstill
+r/anime_titties and more
+Lebanon Time Zone Dispute
+Current time zones in Lebanon
+r/MapPorn and more
 Donald Trump
-Trump Says He’s ‘The Most Innocent Man in the History of Our Country’ at Lie-Filled Waco Rally
+Don't call them 'witch hunts.' Most Americans say investigations into Trump are fair
 r/politics and more
-Russia-Ukraine War
-Putin wanted ‘total cleansing’ of Ukraine with ‘house-to-house terror,’ leaked spy docs reveal
-r/ukraine and more
-Jonathan Majors
-Jonathan Majors Arrested in NYC Following Domestic Dispute
-r/movies and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-16.8k
-r/nextfuckinglevel
-•Posted by
-u/SinjiOnO
-3 hours ago
-Join
-British steam locomotive enthusiasts build a fully functional miniature version of the GWR King Class weighing around 200 kg (440 lb). Here's a demonstration of its power:
-405 Comments
-Share
-Save
-20.9k
-r/LifeProTips
-•Posted by
-u/DNA_H3licas3
-21 hours ago
-Join
-LPT Request: What is something you’ll avoid based on the knowledge and experience from your profession?
-Request
-10.3k Comments
-Share
-Save
-84.7k
+50.9k
 r/facepalm
 •Posted by
-u/Tara_is_a_Potato
+u/Economy-Programmer97
 20 hours ago
 Join
-Guy claims he served in the Marines. Reporter says she did too and asks his MOS (Military Occupational Service). He can’t say. Then asks him where he served. He can’t say. A classic stolen valor case.
+That’s a hole new level
  🇲​🇮​🇸​🇨​
-5.4k Comments
+7.0k Comments
 Share
 Save
-7.3k
-r/AskReddit
+51.2k
+r/mildlyinfuriating
 •Posted by
-u/EatMoarPussy
-10 hours ago
+u/nsharma2
+21 hours ago
 Join
-How do you tell your gf she has a mustache?
-5.3k Comments
+You just answered your own question
+spoiler
+SEE FULL IMAGE
+5.7k Comments
 Share
 Save
-91.7k
-r/interestingasfuck
+7.7k
+r/doodoofard
 •Posted by
-u/The-Salamanca
+u/typicalar
+18 hours ago
+Join
+Type "u/profanitycounter [self]". Trust me you won't regret it..
+Oh shid
+7.3k Comments
+Share
+Save
+28.2k
+r/worldnews
+•Posted by
+u/Sxzym
+3 hours ago
+Norway, Sweden, Finland, and Denmark struck a deal to run their 200+ advanced fighter jets as a single fleet, creating a new headache for Russia
+Russia/Ukraine
+news.yahoo.com/norway...
+Join
+1.5k Comments
+Share
+Save
+67.9k
+r/pics
+•Posted by
+u/Tronracer
 18 hours ago
 2
+& 9 More
 Join
-Another normal day of mining in Africa
-5.2k Comments
+My neighbor is a Jan 6ther and currently in prison. This is the flag above his garage.
+Politics
+4.2k Comments
 Share
 Save
 Advertisement
