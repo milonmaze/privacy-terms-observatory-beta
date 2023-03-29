@@ -34,6 +34,7 @@ Apple Music & Privacy
 Apple Music Friends & Privacy
 Apple News Newsletters & Privacy
 Apple Pay & Privacy
+Apple Pay Later & Privacy
 Apple Podcasts & Privacy
 Apple Store App & Privacy
 Apple Support App & Privacy
