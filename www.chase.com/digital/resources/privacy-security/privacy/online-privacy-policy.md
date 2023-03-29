@@ -5,35 +5,42 @@ Privacy
 selected
 Security
 Have questions?
-LAST UPDATED: DECEMBER 10, 2020
+LAST UPDATED: JANUARY 2023
 Online Privacy Policy
 
 Printer Friendly version (PDF)
 
-Your privacy is important to us. This Online Privacy Policy explains how we collect, share, use, and protect information when you visit or use this online service and any other online services offered by the U.S. banking and non-banking affiliates and subsidiaries of Chase that link to or reference this policy (collectively, our “online services”). This policy covers Chase’s many online services, including the Chase websites, Chase Mobile, and Chase-branded social media sites or pages, as well as any interactions you may have while viewing content provided through one of Chase’s digital advertising campaigns.
+Download French version (PDF)
+
+Your privacy is important to us. This Online Privacy Policy explains how we collect, share, use, and protect information when you visit or use this online service and any other online services offered by the U.S. and Canada banking and non-banking affiliates and subsidiaries of Chase that link to or reference this policy (collectively, our “online services”). This policy covers Chase’s many online services, including the Chase websites, Chase Mobile, and Chase-branded social media sites or pages, as well as any interactions you may have while viewing content provided through one of Chase’s digital advertising campaigns.
 
 As you review this Online Privacy Policy, here are a few general principles to keep in mind:
 
-Our online services are intended for a U.S. audience. If you visit or use one of our online services, your information may be transferred or processed in the United States. For non-U.S. online services, please review the privacy policy applicable to that service to understand how your information will be treated and safeguarded.
+Our online services linking to this notice are intended for a U.S. and Canadian audience. If you visit or use one of these online services, your information may be transferred or processed in the United States. For non-U.S. and non-Canadian online services, please review the privacy policy applicable to that service to understand how your information will be treated and safeguarded.
 With the exception of the Chase First Banking℠ program, our online services are not intended for children under 13. We do not knowingly collect personal information from children under 13 without parental consent. For details about our handling of children’s personal information in connection with Chase First Banking, please review our Children’s Privacy Policy.
 If you have a financial product or service with us, we will use and share any information that we collect from or about you in accordance with our U.S. Consumer Privacy Notice, which offers you certain choices with respect to the use and sharing of your personal information.
-If you are a California resident, you may have rights under the California Consumer Privacy Act. Learn more
+If you are a California resident, you may have rights under the California Consumer Privacy Act. Learn more about your CCPA rights
 about your CCPA rights
+Businesses in Canada can find additional information in the J.P. Morgan Canada Privacy Notice
+Merchants in the U.S. and Canada can find additional information in the Merchant Services' Privacy Statement
 Chase Mobile and our social media sites or pages may have additional terms from this policy about the privacy of your information. Please review the privacy policy for the specific online service you are using.
 If you have questions after reviewing this policy, please visit Frequently Asked Questions.
 Information we collect
 
-
 Personal Information
+
 When you visit or use our online services, we may collect personal information from or about you such as your name, email address, mailing address, telephone number(s), account numbers, limited location information (for example, a zip code to help you find a nearby ATM), user name and password. We may also collect payment card information, social security numbers, driver’s license numbers (or comparable) when you provide such information while using our online services and where we believe it is reasonably required for ordinary business purposes.
 
 Usage and Other Information
+
 In addition to the personal information described above, we may collect certain information about your use of our online services.  For example, we may capture the IP address of the device you use to connect to the online service, the type of operating system and browser you use, and information about the site you came from, the parts of our online service you access, and the site you visit next. We or our third-party partners may also use cookies, web beacons or other technologies to collect and store other information about your visit to, or use of, our online services.  In addition, we may later associate the usage and other information we collect online with personal information about you.
 
 Chase Mobile
+
 For your convenience, Chase offers you the ability to access some of our products and services through mobile applications and mobile-optimized websites (“Chase Mobile”).  When you interact with us through Chase Mobile, we may collect information such as unique device identifiers for your mobile device, your screen resolution and other device settings, information about your location, and analytical information about how you use your mobile device.  We may ask your permission before collecting certain information (such as precise geo-location information) through Chase Mobile.
 
 Additional Sources of Information
+
 We may also collect information about you from additional online and offline sources including from co-branded partner sites or commercially available third-party sources, such as credit reporting agencies.  We may combine this information with the personal and other information we have collected about you under this Online Privacy Policy.
 
 Use of Information
@@ -74,9 +81,7 @@ We, or our service providers, and other companies we work with may deploy and us
 
 “Cookies” are small amounts of data a website can send to a visitor’s web browser. They are often stored on the device you are using to help track your areas of interest.  Cookies may also enable us or our service providers and other companies we work with to relate your use of our online services over time to customize your experience.  Most web browsers allow you to adjust your browser settings to decline or delete cookies, but doing so may degrade your experience with our online services.
 Clear GIFs, pixel tags or web beacons—which are typically one-pixel, transparent images located on a webpage or in an email or other message—or similar technologies may be used on our sites and in some of our digital communications (such as email or other marketing messages). They may also be used when you are served advertisements or you otherwise interact with advertisements outside of our online services. These are principally used to help recognize users, assess traffic patterns and measure site or campaign engagement.
-Local Shared Objects, sometimes referred to as “flash cookies” may be stored on your hard drive using a media player or other software installed on your device. Local Shared Objects are similar to cookies in terms of their operation, but may not be managed in your browser in the same way. For more information on managing Local Shared Objects, click here
-(Opens Overlay)
-.
+Local Shared Objects, sometimes referred to as “flash cookies” may be stored on your hard drive using a media player or other software installed on your device. Local Shared Objects are similar to cookies in terms of their operation, but may not be managed in your browser in the same way.
 Online advertising
 
 You will see advertisements when you use many of our online services. These advertisements may be for our own products or services (including pre-screened offers of credit) or for products and services offered by third parties. Which advertisements you see is often determined using the information we or our affiliates, service providers and other companies that we work with have about you, including information about your relationships with us (e.g., types of accounts held, transactional information, location of banking activity). To that end, where permitted by applicable law, we may share with others the information we collect from and about you.
@@ -100,7 +105,7 @@ Chase may provide links to websites that are owned or operated by other companie
 
 Security
 
-We use reasonable physical, electronic, and procedural safeguards that comply with federal standards to protect and limit access to personal information.  This includes device safeguards and secured files and buildings.  Visit our Security Center for additional information about how we protect your Personal Information.
+We use reasonable physical, electronic, and procedural safeguards that comply with federal standards to protect and limit access to personal information.  This includes device safeguards and secured files and buildings Visit our Security Center for additional information about how we protect your Personal Information.
 
 Please note that information you send to us electronically may not be secure when it is transmitted to us.  We recommend that you do not use unsecure channels to communicate sensitive or confidential information (such as your Social Security number) to us.
 
@@ -111,5 +116,3 @@ Keeping your account information up-to-date is very important.  You may review,
 Changes to this Online Privacy Policy
 
 We may change this Online Privacy Policy from time to time.  When we do, we will let you know by appropriate means such as by posting the revised policy on this page with a new “Last Updated” date.  Any changes to this Online Privacy Policy will become effective when posted unless indicated otherwise.
-
-Printer Friendly version (PDF)
