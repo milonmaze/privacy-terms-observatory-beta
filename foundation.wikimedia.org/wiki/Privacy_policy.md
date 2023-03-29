@@ -1,12 +1,17 @@
 Jump to content
 Photograph your local culture, help Wikipedia and win!
 (Redirected from Privacy policy)
+Translate this page
 العربية azərbaycanca تۆرکجه беларуская (тарашкевіца) български روچ کپتین بلوچی বাংলা bosanski català нохчийн کوردی čeština català Cymraeg Deutsch Deutsch (Sie-Form) Zazaki Ελληνικά emiliàn e rumagnòl English Canadian English British English Esperanto español euskara فارسی suomi français Nordfriisk Frysk galego Avañe'ẽ עברית हिन्दी hrvatski magyar Bahasa Indonesia italiano 日本語 ქართული ភាសាខ្មែរ 한국어 Ripoarisch кыргызча Lëtzebuergesch Ligure lietuvių Basa Banyumasan македонски മലയാളം Bahasa Melayu မြန်မာဘာသာ مازِرونی Napulitano norsk bokmål नेपाली Nederlands nl-formal Diné bizaad occitan ਪੰਜਾਬੀ Plautdietsch polski پښتو português português do Brasil română русский Scots سنڌي ၽႃႇသႃႇတႆး සිංහල Soomaaliga shqip српски / srpski svenska Kiswahili தமிழ் తెలుగు тоҷикӣ ไทย Türkçe удмурт українська اردو Tiếng Việt მარგალური ייִדיש Yorùbá 粵語 中文 中文（简体） 中文（繁體）
-
-This policy is approved by the Wikimedia Foundation Board of Trustees to apply to all Wikimedia projects.
-It may not be circumvented, eroded, or ignored by local policies.
-
 Want to help translate? Translate the missing messages.
+	
+This policy is approved by the Wikimedia Foundation Board of Trustees.
+
+
+It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any Wikimedia project.
+
+
+Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
 Privacy Policy
 This is a summary of the Privacy Policy. To read the full terms, scroll down or click here.
 Disclaimer: This summary is not a part of the Privacy Policy and is not a legal document. It is simply a handy reference for understanding the full Privacy Policy. Think of it as the user-friendly interface to our Privacy Policy.
@@ -46,7 +51,6 @@ Use of info
 Sharing
 Protection
 Important info
-
  Introduction
 
 Welcome!
@@ -446,4 +450,4 @@ How to sign
 Underage exemptions
 Noticeboard
 Donor privacy policy
-Categories: Privacy policyPolicies
+Categories: PoliciesPrivacy policy
