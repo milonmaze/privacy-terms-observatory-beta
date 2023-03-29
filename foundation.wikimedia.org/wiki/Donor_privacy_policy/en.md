@@ -3,48 +3,61 @@ Photograph your local culture, help Wikipedia and win!
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	Afrikaans Deutsch English Nederlands Tiếng Việt català dansk español español de América Latina français galego italiano latviešu magyar norsk bokmål polski português português do Brasil română slovenčina svenska русский українська עברית العربية 中文（简体） 中文（繁體） 日本語 한국어
+Wikimedia Foundation Donor Privacy Policy
 	
 This policy or procedure is maintained by the Wikimedia Foundation and applies to Foundation activities.
 Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
-
 Wikimedia policies
 
 
-
 Wikimedia projects
+
 Access to nonpublic information
 Code of conduct for Wikimedia technical spaces, including events
 Cookie statement
+Data retention guidelines
 Donor privacy
 General disclaimer
 Human rights
 Licensing
+Office actions
 Privacy
+Terms of Use
+Terrorist and violent extremist content procedures and guidelines
 Trademarks
 Universal code of conduct
+
 Foundation Board and staff
-Code of conduct
+
+Code of Conduct
 Code of conduct of the Board of Trustees
 Conflict of interest
 Confidentiality agreement of the Board of Trustees
 Credit card usage
 Delegation of authority
 Duty entertainment
+Foreign corrupt practices act policy
 Gifts
 Non-discrimination
 Guidelines covering pluralism, internationalism, and diversity in hiring
 Travel and expense
 Travel approval
 Whistleblower
+
 Other
+
 Expense reimbursement
 Feedback privacy statement
 Friendly space policy
 Fundraising principles
 Legal policies
+Open access policy
+Phabricator Terms of Use
 Purchasing and disbursements procedures
 Requests for user information
 Service provider travel guidance
+
+vte
 This page documents the Wikimedia Foundation's donor privacy policy. You can make a donation to the Wikimedia Foundation at donate.wikimedia.org.
 Welcome!
 
