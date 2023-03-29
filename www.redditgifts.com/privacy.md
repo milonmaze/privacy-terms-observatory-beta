@@ -1,85 +1,91 @@
 Found the internet!
 Trending today
-NCAA Final Four
-The 2023 Final Four is set
-r/CollegeBasketball and more
-Israel Defense Minister
-Mass protests erupt in Israel after Netanyahu fires defense chief
-r/anime_titties and more
-Caitlin Clark
-Tonight is the fifth time this season that Caitlin Clark (41) has scored more points than the 2022 Iowa football team did in any of its games.
-r/CollegeBasketball and more
-Strike in Germany
-Largest strike in decades brings Germany to a standstill
-r/anime_titties and more
-Lebanon Time Zone Dispute
-Current time zones in Lebanon
-r/MapPorn and more
-Donald Trump
-Don't call them 'witch hunts.' Most Americans say investigations into Trump are fair
+UEFA Euro 2024
+Current top scorers in the EURO 2024 qualifiers
+r/soccer and more
+Elon Musk
+Florida charter school principal resigns after sending $100,000 check to scammer claiming to be Elon Musk promising to invest millions of dollars in her school
+r/byebyejob and more
+Mike Pence
+‘I Have Nothing to Hide,’ Says Mike Pence, Who Fought Subpoena
 r/politics and more
+Defense Production Act
+Biden invokes Defense Production Act for printed circuit board production
+r/news and more
+Paul O'Grady
+TV star and comedian Paul O'Grady has died | Ents & Arts News
+r/CasualUK and more
+Mammoth Meatball
+Scientists grow mammoth flesh in a lab to make a prehistoric meatball - but they're too afraid to eat it in case ancient protein proves DEADLY
+r/BrandNewSentence and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-50.9k
-r/facepalm
+16.6k
+r/memes
 •Posted by
-u/Economy-Programmer97
-20 hours ago
+u/elch3w
+4 hours ago
 Join
-That’s a hole new level
- 🇲​🇮​🇸​🇨​
-7.0k Comments
+PREDICTION
+Which Pokemon is associated with a meme where they looked surprised/shocked?
+You must be logged in
+Squirtle
+Snorlax
+Charmander
+Vaporeon
+Pikachu
+Magikarp
+See What Others Predicted
+27.7k predictions made
+·
+Prediction ends in 6d 21h
+62 Comments
 Share
 Save
-51.2k
-r/mildlyinfuriating
+23.2k
+r/pcmasterrace
 •Posted by
-u/nsharma2
+u/drop_official
 21 hours ago
 Join
-You just answered your own question
-spoiler
-SEE FULL IMAGE
-5.7k Comments
+[Giveaway] Drop + The Lord of the Rings Black Speech Keyboard
+Giveaway
+1/4
+28.0k Comments
 Share
 Save
-7.7k
-r/doodoofard
+24.6k
+r/AskReddit
 •Posted by
-u/typicalar
-18 hours ago
+u/Joeyniles9
+20 hours ago
 Join
-Type "u/profanitycounter [self]". Trust me you won't regret it..
-Oh shid
-7.3k Comments
+What instantly kills the vibe at a party?
+15.3k Comments
 Share
 Save
-28.2k
-r/worldnews
+13.4k
+r/rareinsults
 •Posted by
-u/Sxzym
-3 hours ago
-Norway, Sweden, Finland, and Denmark struck a deal to run their 200+ advanced fighter jets as a single fleet, creating a new headache for Russia
-Russia/Ukraine
-news.yahoo.com/norway...
+u/Guacamole35
+4 hours ago
 Join
-1.5k Comments
+He does though.
+86 Comments
 Share
 Save
-67.9k
-r/pics
+40.2k
+r/facepalm
 •Posted by
-u/Tronracer
-18 hours ago
-2
-& 9 More
+u/WandaMaximumoff
+20 hours ago
 Join
-My neighbor is a Jan 6ther and currently in prison. This is the flag above his garage.
-Politics
-4.2k Comments
+OMG
+ 🇲​🇮​🇸​🇨​
+8.1k Comments
 Share
 Save
 Advertisement
