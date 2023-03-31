@@ -1,91 +1,127 @@
 Found the internet!
 Trending today
-UEFA Euro 2024
-Current top scorers in the EURO 2024 qualifiers
-r/soccer and more
-Elon Musk
-Florida charter school principal resigns after sending $100,000 check to scammer claiming to be Elon Musk promising to invest millions of dollars in her school
-r/byebyejob and more
-Mike Pence
-‘I Have Nothing to Hide,’ Says Mike Pence, Who Fought Subpoena
+Trump Indictment
+Megathread: Manhattan Grand Jury Votes To Indict Trump
 r/politics and more
-Defense Production Act
-Biden invokes Defense Production Act for printed circuit board production
-r/news and more
-Paul O'Grady
-TV star and comedian Paul O'Grady has died | Ents & Arts News
-r/CasualUK and more
-Mammoth Meatball
-Scientists grow mammoth flesh in a lab to make a prehistoric meatball - but they're too afraid to eat it in case ancient protein proves DEADLY
-r/BrandNewSentence and more
+Ron DeSantis
+DeSantis' Disney fail is a reality check. Authoritarianism is hard.
+r/politics and more
+Brian Gillis
+LFO Singer Brian “Brizz” Gillis Dies at 47
+r/entertainment and more
+E3 Cancelled
+With E3 cancelled and likely dead, here is my favorite past moment from 2004 when Twilight Princess was first shown
+r/gaming and more
+Indian Premier League
+IPL Teams at Ahmedabad
+r/IndiaCricket and more
+Major League Baseball
+[Pitch Clock Era] - Average MLB game on Opening Day - 2Hr 45 Min
+r/baseball and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-16.6k
-r/memes
+19.3k
+r/comics
 •Posted by
-u/elch3w
+u/Pizzacakecomic
+2 hours ago
+2
+& 3 More
+Join
+Every time
+OC
+760 Comments
+Share
+Save
+16.3k
+r/politics
+•Posted by
+u/YourUncleBuck
 4 hours ago
+Lauren Boebert, whose teen son got his girlfriend pregnant, says she doesn't want to 'nitpick what the Bible says is right and wrong'
+businessinsider.com/lauren...
 Join
-PREDICTION
-Which Pokemon is associated with a meme where they looked surprised/shocked?
-You must be logged in
-Squirtle
-Snorlax
-Charmander
-Vaporeon
-Pikachu
-Magikarp
-See What Others Predicted
-27.7k predictions made
-·
-Prediction ends in 6d 21h
-62 Comments
+911 Comments
 Share
 Save
-23.2k
-r/pcmasterrace
+18.7k
+r/aww
 •Posted by
-u/drop_official
-21 hours ago
+u/vanHarten
+5 hours ago
 Join
-[Giveaway] Drop + The Lord of the Rings Black Speech Keyboard
-Giveaway
-1/4
-28.0k Comments
+What's better than a cat?
+455 Comments
 Share
 Save
-24.6k
-r/AskReddit
+77.0k
+r/politics
 •Posted by
-u/Joeyniles9
-20 hours ago
+u/PoliticsModeratorBot
+16 hours ago
+2
+10
+3
+& 345 More
 Join
-What instantly kills the vibe at a party?
-15.3k Comments
+Megathread: Manhattan Grand Jury Votes To Indict Trump
+Megathread
+26.1k Comments
 Share
 Save
-13.4k
-r/rareinsults
+150k
+r/news
 •Posted by
-u/Guacamole35
+u/rahal1996
+16 hours ago
+33
+7
+& 753 More
+Donald Trump indicted over hush money payments in Stormy Daniels probe
+independent.co.uk/news/w...
+Join
+14.8k Comments
+Share
+Save
+13.2k
+r/neoliberal
+•Posted by
+u/MrDannyOcean
+16 hours ago
+& 4 More
+Join
+⚡⚡⚡ THUNDERDOME - - - TRUMP INDICTED BY GRAND JURY IN NEW YORK ⚡⚡⚡
+Thunderdome
+
+WITH THE FORMER PRESIDENT UNDER INDICTMENT, THERE ARE NO RULES
+
+ALL CRIME IS LEGAL
+
+NO GODS, NO MODS, ONLY THUNDERDOME
+
+Sources:
+
+NYTimes
+
+Fox News
+
+CNN
+
+10.4k Comments
+Share
+Save
+11.6k
+r/news
+•Posted by
+u/Perfect-Editor-5008
 4 hours ago
+Ex-Fox News producer calls the network a 'big corporate machine that destroys people'
+nbcnews.com/news/f...
 Join
-He does though.
-86 Comments
-Share
-Save
-40.2k
-r/facepalm
-•Posted by
-u/WandaMaximumoff
-20 hours ago
-Join
-OMG
- 🇲​🇮​🇸​🇨​
-8.1k Comments
+413 Comments
 Share
 Save
 Advertisement
