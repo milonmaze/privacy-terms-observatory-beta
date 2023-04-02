@@ -1,127 +1,142 @@
 Found the internet!
 Trending today
-Trump Indictment
-Megathread: Manhattan Grand Jury Votes To Indict Trump
+Australian Grand Prix
+Ricciardo in the Red Bull garage during the Australian Grand Prix
+r/formula1 and more
+Carol Baskin
+‘Tiger King’ Star Carole Baskin Closing Big Cat Rescue Sanctuary Featured in Netflix Series & Moving Animals Out Of Florida
+r/television and more
+Tekken 8
+Tekken 8 Asuka Kazama Trailer
+r/Tekken and more
+Twitter Algorithm
+Analysis of Twitter algorithm code reveals social medium down-ranks tweets about Ukraine
+r/worldnews and more
+Donald Trump
+Trump faces felony charge, source says
 r/politics and more
-Ron DeSantis
-DeSantis' Disney fail is a reality check. Authoritarianism is hard.
-r/politics and more
-Brian Gillis
-LFO Singer Brian “Brizz” Gillis Dies at 47
-r/entertainment and more
-E3 Cancelled
-With E3 cancelled and likely dead, here is my favorite past moment from 2004 when Twilight Princess was first shown
-r/gaming and more
-Indian Premier League
-IPL Teams at Ahmedabad
-r/IndiaCricket and more
-Major League Baseball
-[Pitch Clock Era] - Average MLB game on Opening Day - 2Hr 45 Min
-r/baseball and more
+Cute Pets
+Rabbits are social animals and need company. Never keep them alone.
+r/aww and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-19.3k
-r/comics
+1.4k
+r/formula1
 •Posted by
-u/Pizzacakecomic
-2 hours ago
-2
-& 3 More
+u/F1-Bot
+9 hours ago
 Join
-Every time
-OC
-760 Comments
+2023 Australian Grand Prix - Race Discussion
+ Race
+ROUND 3: Australia 🇦🇺
+FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023
+Fri 31 Mar - Sun 2 Apr
+MelbourneSession	UTC
+Free Practice 1	Fri 01:30
+Free Practice 2	Fri 05:00
+Free Practice 3	Sat 01:30
+Qualifying	Sat 05:00
+Race	Sun 05:00
+
+Click here for start times in your area.
+
+Melbourne Grand Prix Circuit
+
+Length: 5.303 km (3.295 mi)
+
+Distance: 58 laps, 307.574 km (191.117 mi)
+
+Lap record: 🇲🇨 Charles Leclerc, Ferrari, 2022, 1:20.260
+
+2022 pole: 🇲🇨 Charles Leclerc, Ferrari, 1:17.868
+
+2022 fastest lap: 🇲🇨 Charles Leclerc, Ferrari, 1:20.260
+
+2022 winner: 🇲🇨 Charles Leclerc, Ferrari
+
+Useful links
+
+F1.com: Race
+
+Wiki: Race | Melbourne Grand Prix Circuit
+
+Live weather prediction and radar (by /u/Forzonex)
+
+Streaming & Downloads
+
+This is not the appropriate place to request or share streams and downloads. Please do not post information about streams and downloads in this thread. Thank you.
+
+Live timing leaderboard
+
+For those of you who are F1 ACCESS members, you can check the position of the drivers throughout the race on the official live timing leaderboard
+
+Race Discussion
+
+Be sure to check out the Discord as well.
+
+Good causes
+
+🇺🇦 Want to support Ukraine? Here's a list of charities.
+
+39.8k Comments
 Share
 Save
-16.3k
-r/politics
+19.6k
+r/worldnews
 •Posted by
-u/YourUncleBuck
+u/HydrolicKrane
 4 hours ago
-Lauren Boebert, whose teen son got his girlfriend pregnant, says she doesn't want to 'nitpick what the Bible says is right and wrong'
-businessinsider.com/lauren...
+Analysis of Twitter algorithm code reveals social medium down-ranks tweets about Ukraine
+Russia/Ukraine
+yahoo.com/news/a...
 Join
-911 Comments
+1.1k Comments
 Share
 Save
-18.7k
-r/aww
-•Posted by
-u/vanHarten
-5 hours ago
-Join
-What's better than a cat?
-455 Comments
-Share
-Save
-77.0k
-r/politics
-•Posted by
-u/PoliticsModeratorBot
-16 hours ago
-2
-10
-3
-& 345 More
-Join
-Megathread: Manhattan Grand Jury Votes To Indict Trump
-Megathread
-26.1k Comments
-Share
-Save
-150k
+21.3k
 r/news
 •Posted by
-u/rahal1996
-16 hours ago
-33
-7
-& 753 More
-Donald Trump indicted over hush money payments in Stormy Daniels probe
-independent.co.uk/news/w...
+u/jeetah
+13 hours ago
+San Antonio man tracks stolen truck with AirTag, kills suspected thief
+chron.com/news/l...
 Join
-14.8k Comments
+3.5k Comments
 Share
 Save
-13.2k
-r/neoliberal
+66.6k
+r/Unexpected
 •Posted by
-u/MrDannyOcean
-16 hours ago
-& 4 More
+u/shadman531
+19 hours ago
 Join
-⚡⚡⚡ THUNDERDOME - - - TRUMP INDICTED BY GRAND JURY IN NEW YORK ⚡⚡⚡
-Thunderdome
-
-WITH THE FORMER PRESIDENT UNDER INDICTMENT, THERE ARE NO RULES
-
-ALL CRIME IS LEGAL
-
-NO GODS, NO MODS, ONLY THUNDERDOME
-
-Sources:
-
-NYTimes
-
-Fox News
-
-CNN
-
-10.4k Comments
+Yup nice script
+3.5k Comments
 Share
 Save
-11.6k
-r/news
+15.5k
+r/funny
 •Posted by
-u/Perfect-Editor-5008
+u/tomstamp93
 4 hours ago
-Ex-Fox News producer calls the network a 'big corporate machine that destroys people'
-nbcnews.com/news/f...
 Join
-413 Comments
+My wife recently delivered in a German Hospital and was looking forward to her first meal… the meal.
+1.8k Comments
+Share
+Save
+40.7k
+r/worldnews
+•Posted by
+u/honeyypocky
+13 hours ago
+Russian officers used female combat soldiers as sex slaves - report
+Russia/Ukraine
+jpost.com/intern...
+Join
+3.0k Comments
 Share
 Save
 Advertisement
