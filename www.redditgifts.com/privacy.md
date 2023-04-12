@@ -1,142 +1,90 @@
 Found the internet!
 Trending today
-Australian Grand Prix
-Ricciardo in the Red Bull garage during the Australian Grand Prix
-r/formula1 and more
-Carol Baskin
-‘Tiger King’ Star Carole Baskin Closing Big Cat Rescue Sanctuary Featured in Netflix Series & Moving Animals Out Of Florida
-r/television and more
-Tekken 8
-Tekken 8 Asuka Kazama Trailer
-r/Tekken and more
-Twitter Algorithm
-Analysis of Twitter algorithm code reveals social medium down-ranks tweets about Ukraine
-r/worldnews and more
-Donald Trump
-Trump faces felony charge, source says
+Fox News
+Fox News under fire for ‘credibility problem’ over late disclosure of Murdoch role
 r/politics and more
-Cute Pets
-Rabbits are social animals and need company. Never keep them alone.
-r/aww and more
+Los Angeles Lakers
+38 year old LeBron James lifts the Lakers to the playoffs with 30 points, 10 rebounds, 6 assists, 1 steal, and 2 blocks on 12-21 shooting
+r/nba and more
+Donald Trump
+Trump defends Russia over Nord Stream pipeline explosion and hints US was responsible | Trump says he won’t answer who did it because he doesn’t want to ‘get our country in trouble’
+r/politics and more
+Inflation
+Inflation slows to 5% in March but core consumer price gains accelerate
+r/wallstreetbets and more
+Mike Conley
+[Highlight] Mike Conley hits the 3rd free throw to send the Lakers/Wolves play in game into overtime at 98-98!
+r/nba and more
+Nick Carter
+BSB's Nick Carter Sued For Sexual Assault, Battery By Singer Melissa Schuman
+r/popculturechat and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-1.4k
-r/formula1
-•Posted by
-u/F1-Bot
-9 hours ago
-Join
-2023 Australian Grand Prix - Race Discussion
- Race
-ROUND 3: Australia 🇦🇺
-FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023
-Fri 31 Mar - Sun 2 Apr
-MelbourneSession	UTC
-Free Practice 1	Fri 01:30
-Free Practice 2	Fri 05:00
-Free Practice 3	Sat 01:30
-Qualifying	Sat 05:00
-Race	Sun 05:00
-
-Click here for start times in your area.
-
-Melbourne Grand Prix Circuit
-
-Length: 5.303 km (3.295 mi)
-
-Distance: 58 laps, 307.574 km (191.117 mi)
-
-Lap record: 🇲🇨 Charles Leclerc, Ferrari, 2022, 1:20.260
-
-2022 pole: 🇲🇨 Charles Leclerc, Ferrari, 1:17.868
-
-2022 fastest lap: 🇲🇨 Charles Leclerc, Ferrari, 1:20.260
-
-2022 winner: 🇲🇨 Charles Leclerc, Ferrari
-
-Useful links
-
-F1.com: Race
-
-Wiki: Race | Melbourne Grand Prix Circuit
-
-Live weather prediction and radar (by /u/Forzonex)
-
-Streaming & Downloads
-
-This is not the appropriate place to request or share streams and downloads. Please do not post information about streams and downloads in this thread. Thank you.
-
-Live timing leaderboard
-
-For those of you who are F1 ACCESS members, you can check the position of the drivers throughout the race on the official live timing leaderboard
-
-Race Discussion
-
-Be sure to check out the Discord as well.
-
-Good causes
-
-🇺🇦 Want to support Ukraine? Here's a list of charities.
-
-39.8k Comments
-Share
-Save
-19.6k
+23.3k
 r/worldnews
 •Posted by
-u/HydrolicKrane
-4 hours ago
-Analysis of Twitter algorithm code reveals social medium down-ranks tweets about Ukraine
+u/9lobaldude
+5 hours ago
+Zelenskyy calls on world leaders to react to video of murder of Ukrainian prisoner of war
 Russia/Ukraine
-yahoo.com/news/a...
+pravda.com.ua/eng/ne...
 Join
-1.1k Comments
+1.5k Comments
 Share
 Save
-21.3k
-r/news
+14.4k
+r/AskReddit
 •Posted by
-u/jeetah
-13 hours ago
-San Antonio man tracks stolen truck with AirTag, kills suspected thief
-chron.com/news/l...
+u/Youpi_Yeah
+14 hours ago
 Join
-3.5k Comments
+What’s a podcast actually worth listening to?
+9.4k Comments
 Share
 Save
-66.6k
-r/Unexpected
+30.4k
+r/WhitePeopleTwitter
 •Posted by
-u/shadman531
+u/districtcourt
 19 hours ago
 Join
-Yup nice script
-3.5k Comments
+Conservatives think Bud Light owes them an apology. Wow, just wow.
+3.4k Comments
 Share
 Save
-15.5k
-r/funny
+61.7k
+r/news
 •Posted by
-u/tomstamp93
+u/OmarLittleFinger
+22 hours ago
+Truck carrying 40,000 pounds of toxic soil from East Palestine train derailment site crashes on highway
+cbsnews.com/news/e...
+Join
+3.3k Comments
+Share
+Save
+14.3k
+r/madlads
+•Posted by
+u/moreriposte83
 4 hours ago
 Join
-My wife recently delivered in a German Hospital and was looking forward to her first meal… the meal.
-1.8k Comments
+Well, is it mate?
+468 Comments
 Share
 Save
-40.7k
-r/worldnews
+11.0k
+r/facepalm
 •Posted by
-u/honeyypocky
-13 hours ago
-Russian officers used female combat soldiers as sex slaves - report
-Russia/Ukraine
-jpost.com/intern...
+u/Limulemur
+16 hours ago
 Join
-3.0k Comments
+Homophobes have a peculiar obsession with having babies.
+ 🇲​🇮​🇸​🇨​
+3.3k Comments
 Share
 Save
 Advertisement
