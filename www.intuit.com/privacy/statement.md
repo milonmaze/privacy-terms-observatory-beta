@@ -1,26 +1,5 @@
 You deserve transparency into our data use
 Select your preferred language
-We have updated our Global Privacy Statement
-
-Here are a few highlights of the changes to help you understand how this may impact your data.
-
-We've updated our Global Privacy Statement to address requirements in the California Privacy Rights Act (‘CPRA’), which takes effect on January 1, 2023.
-We've updated country and state requirements related to data collection, usage practices and disclosures.
-The Global Privacy Statement is now in a more easily readable format, where you can expand and close each section.
-
-Review our full statement below for complete details about the changes to our policy and to learn more about how we process personal information.
-
-
-
-
-
-
-
-
-
-
-
-
 Intuit Global Privacy Statement
 
 Last Updated: December 1, 2022
