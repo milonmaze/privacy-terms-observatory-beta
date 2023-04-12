@@ -47,3 +47,11 @@ Apple does not provide user information to any third parties where such informat
 De-Identification of Personal Data
 
 De-Identification is the process of removing the association between a set of identifying personal data and an individual such that the data can no longer be used to identify that individual. Within Apple, for data to be considered de-identified, all personal data elements must be removed, including full IP address and any identifiers linked to personal data.
+
+Accountable Data Transfer
+
+Accountability requires organizations to take responsibility for data handling and demonstrate that their practices, systems, policies, and training are achieving Apple’s compliance objectives. With ongoing oversight and assurance reviews, Apple has received privacy accountability certifications for its global privacy program since 2014 that adhere to the Asia-Pacific Economic Cooperation (APEC) Privacy Framework. In APEC countries where Apple operates, the international transfer of personal data collected abides by the APEC Cross-Border Privacy Rules (CBPR) System and the Privacy Recognition for Processors (PRP) System. Apple’s global privacy policy and practices are reviewed by an approved independent third-party Accountability Agent who monitors and enforces compliance with APEC CBPR and PRP program requirements. For remediation and external enforcement, individuals can contact our third-party dispute resolution provider.
+
+View our APEC CBPR certification
+
+View our APEC PRP certification
