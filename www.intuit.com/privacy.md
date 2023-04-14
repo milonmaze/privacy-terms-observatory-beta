@@ -2,7 +2,7 @@ Important Update: We have updated our privacy statement effective Jan 1, 2023. 
 
 We're committed to keeping your data safe
 
-When you use one of our offerings, you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices.
+When you use one of our offerings such as TurboTax, Credit Karma, QuickBooks, and Mailchimp - you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices.
 
 Manage your data
 Update your preferences
@@ -24,5 +24,3 @@ Putting your data to good use
 We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert.
 
 Learn more about how we use your data
-
-
