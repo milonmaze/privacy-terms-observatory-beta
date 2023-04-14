@@ -2,7 +2,7 @@ Sign in
 
 Privacy Policy
 
-Date of Last Revision: October 3, 2022
+Date of Last Revision: December 15, 2022
 
 You can review the previous Privacy Policy here.
 
@@ -130,6 +130,7 @@ Teachers can choose at account creation whether to receive non-transactional ema
 District and school name and/or school type (private, public, charter, homeschool, after school, organization, or other) and/or school address	Optionally provided by the Teacher at account creation or after creating an account.	At the Teacher's discretion and under their control, we will list their school in the Code.org map and database of schools that teach computer science courses.
 
 Code.org or our professional development partners may also use this information to reach out to the Teacher's school or district to discuss broader education partnerships or participation in special events.
+Verified Teacher Identification Information	Optionally provided by the Teacher when seeking “verified teacher” status if the Teacher’s status cannot be demonstrated through other proof - such as verification of the teacher’s position on a school website.	At the Teacher's discretion, and under their control, they may provide a copy of an identification (such as a school-issued ID or a state-issued ID) to our support desk as part of demonstrating their teacher status. We recommend redacting data beyond name, photo, and issuing authority. All such images are deleted after the verification is complete.
 Student section data	Collected if a Teacher decides to create a section on Code.org to manage their Students.	The Teacher may create accounts for their students (and provide each Student’s display name and, optionally, their age and gender) or direct students to create accounts themselves, and organize these Students into sections. The Teacher may assign each section a display name, a course assignment, and grade level. The section grouping data is used to simplify their view of Students across multiple sections.
 
 Teachers are encouraged to share a Code.org document with Students and parents informing them about enrollment in a Code.org section, including the privacy implications.
@@ -187,7 +188,7 @@ Technical Information
 
 To provide a personalized learning and high-quality experience for our Users, we may use various technologies that automatically record certain technical information from the User’s browser or device, including browser language settings, standard log files, web beacons, or pixel tags. This technical information may include Internet Protocol (IP) address, browser type, internet service provider (ISP), referring or exit pages, click stream data, operating system, and the dates and times the User visited the Services. This information assists us in providing the Services and understanding how our Users are using the Services.
 
-To assess information about use of our Services, we use various technological tools. For example, whether or not a User is a registered member, we may send one or more cookies to the User’s browser when they visit our Services. For more information, see the Code.org Cookie Notice.
+To assess information about use of our Services, we use various technological tools. For example, whether or not a User is a registered member, we may send one or more cookies to the User’s browser when they visit our Services. For more information, see the Code.org Cookie Notice or the Hourofcode.com Cookie Notice.
 
 We may also use pixel tags (also known as a “clear GIF” or “web beacon”), which are tiny images – typically just one pixel – that can be placed on a Web page or in an email to tell us when the recipient has displayed that page or opened that email. We may allow third-party service providers to place and read their own cookies, pixel tags, and similar technologies to collect information through the Services to perform the service we’ve requested. This technical information is collected directly and automatically by these third parties.
 
