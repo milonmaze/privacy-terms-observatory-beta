@@ -1,89 +1,76 @@
 Found the internet!
 Trending today
-Fox News
-Fox News under fire for ‘credibility problem’ over late disclosure of Murdoch role
+Justice Clarence Thomas
+Clarence Thomas sold his childhood home to GOP donor Harlan Crow and never disclosed it. The justice's 94-year-old mom still lives there
 r/politics and more
-Los Angeles Lakers
-38 year old LeBron James lifts the Lakers to the playoffs with 30 points, 10 rebounds, 6 assists, 1 steal, and 2 blocks on 12-21 shooting
-r/nba and more
-Donald Trump
-Trump defends Russia over Nord Stream pipeline explosion and hints US was responsible | Trump says he won’t answer who did it because he doesn’t want to ‘get our country in trouble’
+Ron DeSantis
+DeSantis signs six-week abortion ban into law in private late-night ceremony
 r/politics and more
-Inflation
-Inflation slows to 5% in March but core consumer price gains accelerate
-r/wallstreetbets and more
-Mike Conley
-[Highlight] Mike Conley hits the 3rd free throw to send the Lakers/Wolves play in game into overtime at 98-98!
-r/nba and more
-Nick Carter
-BSB's Nick Carter Sued For Sexual Assault, Battery By Singer Melissa Schuman
-r/popculturechat and more
+Ganondorf
+Matthew Mercer confirms that he is the voice of Ganondorf in The Legend of Zelda: Tears of the Kingdom
+r/NintendoSwitch and more
+Connor Bedard
+Bedard on Instagram
+r/canucks and more
+Russia-Ukraine War
+Russian regions cancel Victory Day parades due to ‘security concerns’ at the Ukraine border
+r/worldnews and more
+Coachella
+Mark: “Chemo to Coachella. Thanks very much to this community for all the support these past two years.”
+r/Blink182 and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-23.3k
-r/worldnews
+20.0k
+r/gaming
 •Posted by
-u/9lobaldude
-5 hours ago
-Zelenskyy calls on world leaders to react to video of murder of Ukrainian prisoner of war
-Russia/Ukraine
-pravda.com.ua/eng/ne...
+u/suiciniv22
+3 hours ago
 Join
-1.5k Comments
+I Hate When this Happens.
+709 Comments
 Share
 Save
-14.4k
+5.8k
 r/AskReddit
 •Posted by
-u/Youpi_Yeah
+u/Caseated_Omentum
 14 hours ago
 Join
-What’s a podcast actually worth listening to?
-9.4k Comments
+What song is guaranteed to make you go above the speed limit if it's played while driving?
+7.9k Comments
 Share
 Save
-30.4k
+38.9k
 r/WhitePeopleTwitter
 •Posted by
-u/districtcourt
+u/dobbyisafreepup
 19 hours ago
 Join
-Conservatives think Bud Light owes them an apology. Wow, just wow.
+Looks like someone’s going to prison
+4.3k Comments
+Share
+Save
+44.1k
+r/PublicFreakout
+•Posted by
+u/yvesroyce2
+22 hours ago
+Join
+DoorDash driver confronts woman who lied about not getting her food
 3.4k Comments
 Share
 Save
-61.7k
-r/news
+27.8k
+r/mildlyinfuriating
 •Posted by
-u/OmarLittleFinger
-22 hours ago
-Truck carrying 40,000 pounds of toxic soil from East Palestine train derailment site crashes on highway
-cbsnews.com/news/e...
+u/AutomatonVigor
+19 hours ago
+2
 Join
-3.3k Comments
-Share
-Save
-14.3k
-r/madlads
-•Posted by
-u/moreriposte83
-4 hours ago
-Join
-Well, is it mate?
-468 Comments
-Share
-Save
-11.0k
-r/facepalm
-•Posted by
-u/Limulemur
-16 hours ago
-Join
-Homophobes have a peculiar obsession with having babies.
- 🇲​🇮​🇸​🇨​
+My fiance ladies and gentlemen.
 3.3k Comments
 Share
 Save
