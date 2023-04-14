@@ -19,7 +19,7 @@ Select year
 
 FAQ
 
-The below are frequently asked questions concerning requests we receive from law enforcement agencies around the world. Additional information and FAQs related to Microsoft policies and procedures for responding to government requests for data can be found in the Data Law blog.
+The below are frequently asked questions concerning requests we receive from law enforcement agencies around the world. Responses that include statistics derived from the Law Enforcement Requests Report are updated biannually to reflect the most recent report. Additional information and FAQs related to Microsoft policies and procedures for responding to government requests for data can be found in the Data Law blog.
 
  
 
