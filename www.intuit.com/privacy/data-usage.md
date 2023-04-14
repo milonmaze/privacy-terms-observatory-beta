@@ -6,33 +6,15 @@ The perks of our platform
 
 We use the information you choose to share with us across our platform to help you reach your financial goals.
 
-
-
-
 Here’s what we mean by “platform” – when you choose to share data with us, or bring over information from third parties (like a bank or loan provider), we use that data together, not just within the individual offering(s) you’re using. This means your bookkeeping details from QuickBooks, budgets from Mint, and recommendations from Credit Karma all live together.
-
-
-
 
 This goes for everything except your tax preparation data – that stays in TurboTax and never goes anywhere except to the IRS without you telling us it’s okay first.
 
-
-
-
 Keeping your data in one place like this enables us to save you time by putting the information you choose to share with us to use. For example, if you ask us to, we can fill out a loan or credit card application for you based on what we already know about you.
-
-
-
 
 Your centralized data provides a holistic understanding of your financial situation that enables us to help you find more money, save time, and have more confidence navigating your finances. We’re constantly striving to create personalized experiences that power your prosperity in a way that’s most important to you.
 
-
-
-
 You can learn more about our platform and how we store and use your data in our Privacy Statement.
-
-
-
 
 Go to Privacy Statement
 
