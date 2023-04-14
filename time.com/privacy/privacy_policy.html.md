@@ -1,6 +1,6 @@
 PRIVACY POLICY
 
-This Privacy Policy was last updated on May 14, 2021.
+This Privacy Policy was last updated on January 30, 2023.
 
 Table of Contents
 The Information We Collect
