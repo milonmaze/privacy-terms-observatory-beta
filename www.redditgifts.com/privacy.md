@@ -1,98 +1,78 @@
 Found the internet!
 Trending today
-The Mandalorian
-The Mandalorian - S03E08 - Chapter 24 - Discussion Thread!
-r/StarWars and more
-Boston Celtics
-Celtics use pre-switching to prevent Trae Young from hunting for mismatches, wasting an entire shot clock
+Golden State Warriors
+"They say Draymond's got a history, so do we."— Steph on how the Warriors bounced back in Game 3
 r/nba and more
-Fox - Dominion Settlement
-Fox agrees to pay $787.5 million settlement to Dominion Voting Systems
-r/JusticeServed and more
-SpaceX
-Elon Musk's SpaceX and Tesla get far more government money than NPR — Musk, too, is the beneficiary of public-private partnerships
-r/technology and more
-Chris Smith
-Former NFL player Chris Smith dies at 31
-r/news and more
-Tim Curry
-Happy birthday to the great Tim Curry, born this day in 1946.
-r/OldSchoolCelebs and more
+U.S. Supreme Court
+Supreme Court Justice Clarence Thomas moves to reverse the legacy of his predecessor, Thurgood Marshall
+r/politics and more
+Dominic Raab
+Dominic Raab resigns over bullying report - BBC News
+r/unitedkingdom and more
+Snapchat AI Bot
+Snapchat AI “doesn’t know” my location, proceeds to tell me my exact location. (last photo is from my friend who asked them the same question)
+r/oddlyterrifying and more
+Eid al-Fitr
+Happy Eid Mubarak to everyone who celebrate it around the world
+r/Genshin_Impact and more
+Belgorod
+Russia-Ukraine war live: Moscow accidentally bombs own city of Belgorod | Ukraine
+r/europe and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-29.2k
-r/AskReddit
+34.3k
+r/gaming
 •Posted by
-u/Practice_Girls
-14 hours ago
+u/retroanduwu24
+19 hours ago
+Switch hacker Gary Bowser released from jail, will pay Nintendo 25-30% income ‘for the rest of his life’
+videogameschronicle.com/news/s...
 Join
-Florida state is attempting to make child rape punishable by death. Do you think child rape warrants a death penalty? Why or why not?
-11.0k Comments
+4.4k Comments
 Share
 Save
-7.1k
-r/Funnymemes
-•Posted by
-u/EmmanuelMoyta
-18 hours ago
-Join
-Quote this with a tv show or a movie that started and finished like this.
-6.1k Comments
-Share
-Save
-14.0k
+11.2k
 r/funny
 •Posted by
-u/alanboston
+u/Hashira_Oden
 3 hours ago
 Join
-Driving simulator doesn't go according to plan
-717 Comments
+We finally caught him.
+358 Comments
 Share
 Save
-16.6k
-r/nextfuckinglevel
-•Posted by
-u/DrCalFun
-3 hours ago
-Join
-This rat is so …
-867 Comments
-Share
-Save
-30.4k
-r/aww
-•Posted by
-u/pastebluepaste
-7 hours ago
-Join
-Kingfisher frozen to a bridge gets its feet thawed out & freed by a kindly gentleman
-623 Comments
-Share
-Save
-28.2k
-r/todayilearned
-•Posted by
-u/globehater
-23 hours ago
-TIL most male nudity in (non-porn) films uses prosthetic penises
-theconversation.com/how-pr...
-Join
-2.8k Comments
-Share
-Save
-62.2k
+Vote
 r/politics
 •Posted by
-u/Conan776
-21 hours ago
-It's Not Sexist to Ask an 89-Year-Old Who Isn't Showing Up to Work to Consider Retirement
-esquire.com/news-p...
+u/Ardielley
+2 hours ago
+Outrage as Florida Republicans pass bill to remove trans kids from parents, both in and out of state.
+independent.co.uk/news/w...
 Join
-2.7k Comments
+998 Comments
+Share
+Save
+50.2k
+r/pics
+•Posted by
+u/Catma222
+18 hours ago
+Join
+A sovereign citizen siting in the wild.
+4.2k Comments
+Share
+Save
+22.6k
+r/mildlyinfuriating
+•Posted by
+u/goforwrong
+15 hours ago
+Join
+Can of tuna fell right in. It was fun brainstorming ideas to get this out.
+3.8k Comments
 Share
 Save
 Advertisement
