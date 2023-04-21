@@ -9,7 +9,7 @@ We respect the laws that apply to us in the countries where we operate. In the U
 
 We never provide information to a government to fulfill a member data request without first trying to notify the individual member, except when applicable law prohibits us from doing so. We may make exceptions in certain emergencies.
 
-This report covers the six-month period between January 1 and June 30, 2022.
+This report covers the six-month period between July 1 and December 31, 2022.
 
 
 This report covers:
@@ -34,6 +34,41 @@ Global content removal requests
 2015
 2014
 2013
+ 	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
+	Accounts for which LinkedIn provided some data [2]
+Argentina	1	23	0%	0
+Austria	1	1	100%	1
+Belgium
+	2	2	100%	2
+Brazil	22	34	59%	13
+Canada
+	3	3	33%	1
+China	2	4	50%	1
+Czech Republic	1	1	100%	1
+France
+	21	23	71%	15
+Germany
+	54	63	78%	48
+India
+	65	134	26%	21
+Ireland	1	1	0%	0
+Italy
+	34	34	44%	15
+Jordan	2	2	0%	0
+Netherlands
+	5	50	100%	48
+Pakistan
+	1	1	0%	0
+Poland	1	1	0%	0
+Portugal	1	3	0%	0
+Romania	1	1	0%	0
+Spain	10	15	70%	12
+Switzerland	2	3	0%	0
+Turkey	1	1	100%	1
+United Kingdom	27	45	44%	17
+United States	391	2636	80%	949
+Venezuela	1	1	0%	0
+Total	649	3081	69%	1144
  	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
 	Accounts for which LinkedIn provided some data [2]
 Argentina	3	3	0%	0
@@ -98,6 +133,17 @@ Breakdown of U.S. government requests for data
 2015
 2014
 2013
+Requests [1]	391
+Accounts subject to requests	2,636
+Requests for which LinkedIn provided some data	80%
+Subpoenas [2]	77%
+Search warrants [3]	7%
+Court orders [4]	15%
+Other [5]	1%
+National security letters received [6]	0-499
+National security letters (accounts subject to request)
+	0-499
+FISA requests [6]	0-499
 Requests [1]	327
 Accounts subject to requests	1,114
 Requests for which LinkedIn provided some data	81%
@@ -139,6 +185,13 @@ Government requests for content removal
 2019
 2018
  	Requests	Action taken	Percentage action taken
+Australia	2	2	100%
+Canada	1	1	100%
+India	6	4	67%
+Indonesia	4	4	100%
+Turkey	10	9	90%
+Totals	23	20	87%
+ 	Requests	Action taken	Percentage action taken
 Australia	1	1	100%
 Brazil	1	1	100%
 France	1	1	100%
@@ -165,10 +218,10 @@ How our content abuse systems work to keep members safe
 
 Working together to keep LinkedIn safe
 
-New profile features to help verify identity and boost authenticity
-
 Help Center: Government Requests for Data
 
 Our approach to Responsible AI
+
+Responsible AI Principles
 
 dismiss
