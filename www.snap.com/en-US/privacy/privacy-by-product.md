@@ -15,6 +15,13 @@ Once you’re up and running, you’ll notice Snapchat for Web is very similar t
 You can expect more changes to follow, and check out the below resources to learn more!
 How to Call, Snap, and Chat from Snapchat for Web
 Learn More About Snapchat for Web
+My AI
+My AI is an experimental chatbot. It’s a fun way to get information, but it remains an evolving feature so you should always independently check answers provided by My AI before relying on any advice, and you should not share any confidential or sensitive information.
+Your conversations with My AI work differently than Chats with your Friends—we retain your interactions with My AI until you delete them. When you interact with My AI, we use that information to improve Snap’s products and personalize your experience, including ads.  You can also choose to save content with My AI if it says something funny or provides useful information you want to look at later. 
+We’re constantly working to improve and evolve My AI, but it’s possible that My AI’s responses may include biased, incorrect, harmful, or misleading content. If you do not like any responses from My AI, please let us know.
+You can expect more changes to follow, and check out the below resources to learn more!
+What is My AI on Snapchat and how do I use it?
+Staying Safe with My AI
 Stories
 Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group.
 You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if your Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Keep in mind: Snaps set to viewable by ‘Everyone’ and those that are submitted to Spotlight, Shared Stories, or Verified Communities are Public Content, and your Snap may still appear off Snapchat if it has been shared off of Snapchat! Snaps in your Story are posted for 24 hours (unless otherwise noted), though you can remove them from your Story at any time. Once you’ve posted a Story, your Friends and others can interact with them. For example, they may use the same Lens you used, remix the Snap, share with mutual friends, or even shop the look you’re wearing! 
