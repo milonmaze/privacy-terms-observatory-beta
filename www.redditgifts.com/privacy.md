@@ -1,78 +1,82 @@
 Found the internet!
 Trending today
-Golden State Warriors
-"They say Draymond's got a history, so do we."— Steph on how the Warriors bounced back in Game 3
-r/nba and more
-U.S. Supreme Court
-Supreme Court Justice Clarence Thomas moves to reverse the legacy of his predecessor, Thurgood Marshall
-r/politics and more
-Dominic Raab
-Dominic Raab resigns over bullying report - BBC News
-r/unitedkingdom and more
-Snapchat AI Bot
-Snapchat AI “doesn’t know” my location, proceeds to tell me my exact location. (last photo is from my friend who asked them the same question)
-r/oddlyterrifying and more
-Eid al-Fitr
-Happy Eid Mubarak to everyone who celebrate it around the world
-r/Genshin_Impact and more
-Belgorod
-Russia-Ukraine war live: Moscow accidentally bombs own city of Belgorod | Ukraine
-r/europe and more
+Coachella
+Blackpink Group Hug. They accomplish so much to headline Coachella! LEGENDS
+r/Coachella and more
+France Protests
+Protesters in France have gone next level and blocked the A69 highway with concrete blocks.
+r/Damnthatsinteresting and more
+Bed Bath & Beyond Bankruptcy
+Bed Bath & Beyond files for bankruptcy protection
+r/news and more
+Kherson, Ukraine
+Ukrainian forces land on left bank of Kherson Oblast
+r/worldnews and more
+Twitter Verified Accounts
+Twitter is adding verified check marks to the accounts of dead celebrities, making them look like paid Twitter Blue subscribers
+r/technology and more
+Sudan Conflict
+US evacuates American diplomatic personnel from Sudan
+r/worldnews and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-34.3k
-r/gaming
+15.3k
+r/AskReddit
 •Posted by
-u/retroanduwu24
-19 hours ago
-Switch hacker Gary Bowser released from jail, will pay Nintendo 25-30% income ‘for the rest of his life’
-videogameschronicle.com/news/s...
+u/Complete-Sweet5222
+17 hours ago
 Join
-4.4k Comments
+what is the prettiest song you ever heard in your life?
+16.6k Comments
 Share
 Save
-11.2k
-r/funny
+37.3k
+r/technology
 •Posted by
-u/Hashira_Oden
-3 hours ago
+u/Ssider69
+18 hours ago
+2
+2
+Why Are We So Afraid of Nuclear Power? It’s greener than renewables and safer than fossil fuels—but facts be damned.
+Energy
+motherjones.com/politi...
 Join
-We finally caught him.
-358 Comments
+4.8k Comments
 Share
 Save
-Vote
-r/politics
+34.0k
+r/facepalm
 •Posted by
-u/Ardielley
-2 hours ago
-Outrage as Florida Republicans pass bill to remove trans kids from parents, both in and out of state.
-independent.co.uk/news/w...
+u/1Hate17Here
+5 hours ago
 Join
-998 Comments
+Yooo! The cop really said “Yeah, I ain’t booking you. You have enough on your plate, bro.” LMAOO
+ 🇲​🇮​🇸​🇨​
+1.2k Comments
 Share
 Save
-50.2k
+28.0k
+r/PublicFreakout
+•Posted by
+u/MyDogCanSploot
+23 hours ago
+Join
+Neighborhood detain, search, and theeaten a man walking through the neighborhood
+3.6k Comments
+Share
+Save
+33.3k
 r/pics
 •Posted by
-u/Catma222
-18 hours ago
+u/Any-Environment-17
+21 hours ago
 Join
-A sovereign citizen siting in the wild.
-4.2k Comments
-Share
-Save
-22.6k
-r/mildlyinfuriating
-•Posted by
-u/goforwrong
-15 hours ago
-Join
-Can of tuna fell right in. It was fun brainstorming ideas to get this out.
-3.8k Comments
+Home of Utah State Senator who recently sponsored Anti-Trans bill
+Politics
+3.3k Comments
 Share
 Save
 Advertisement
