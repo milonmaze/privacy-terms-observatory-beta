@@ -1,82 +1,91 @@
 Found the internet!
 Trending today
-Coachella
-Blackpink Group Hug. They accomplish so much to headline Coachella! LEGENDS
-r/Coachella and more
-France Protests
-Protesters in France have gone next level and blocked the A69 highway with concrete blocks.
-r/Damnthatsinteresting and more
-Bed Bath & Beyond Bankruptcy
-Bed Bath & Beyond files for bankruptcy protection
-r/news and more
-Kherson, Ukraine
-Ukrainian forces land on left bank of Kherson Oblast
-r/worldnews and more
-Twitter Verified Accounts
-Twitter is adding verified check marks to the accounts of dead celebrities, making them look like paid Twitter Blue subscribers
-r/technology and more
-Sudan Conflict
-US evacuates American diplomatic personnel from Sudan
-r/worldnews and more
+$BBBY
+"Bed Bath & Beyond" wasted over $10 billion on stock buybacks, and has now filed for bankruptcy thanks to $5 billion in debts
+r/LeopardsAteMyFace and more
+Len Goodman
+R.I.P. Len Goodman
+r/BritishTV and more
+NASCAR
+[NASCARONFOX] Massive accident at the finish of the 2023 GEICO 500!
+r/NASCAR and more
+Kevin McCarthy
+McCarthy faces his first big test as speaker: Defusing a debt ceiling time bomb
+r/politics and more
+Ron DeSantis
+Trump says DeSantis should undergo an ‘emergency personality transplant’
+r/politics and more
+Sudan
+Sudan’s outsider: how a paramilitary leader fell out with the army and plunged the country into war
+r/anime_titties and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-15.3k
-r/AskReddit
+8.4k
+r/interestingasfuck
 •Posted by
-u/Complete-Sweet5222
-17 hours ago
+u/iowafarmboy2011
+3 hours ago
 Join
-what is the prettiest song you ever heard in your life?
-16.6k Comments
+This is Anis al-Dawla - the favorite wife of Naser al-Din Shah Qajar, who was the Shah of Qajar Iran from 1848 to 1896.
+i.imgur.com/OaH5rp...
+1.6k Comments
 Share
 Save
-37.3k
-r/technology
+33.4k
+r/MadeMeSmile
 •Posted by
-u/Ssider69
-18 hours ago
-2
-2
-Why Are We So Afraid of Nuclear Power? It’s greener than renewables and safer than fossil fuels—but facts be damned.
-Energy
-motherjones.com/politi...
+u/mindyour
+6 hours ago
 Join
-4.8k Comments
+You're never too old to have a lightsaber fight with your brother in the snow.
+ Wholesome Moments 
+421 Comments
 Share
 Save
-34.0k
+105k
 r/facepalm
 •Posted by
-u/1Hate17Here
-5 hours ago
+u/abbiebe89
+17 hours ago
 Join
-Yooo! The cop really said “Yeah, I ain’t booking you. You have enough on your plate, bro.” LMAOO
+Nashville, Tennessee Christian School refused to allow a female student to enter prom because she was wearing a suit.
  🇲​🇮​🇸​🇨​
-1.2k Comments
+6.9k Comments
 Share
 Save
-28.0k
-r/PublicFreakout
+1.6k
+r/SuccessionTV
 •Posted by
-u/MyDogCanSploot
-23 hours ago
+u/LoretiTV
+12 hours ago
 Join
-Neighborhood detain, search, and theeaten a man walking through the neighborhood
-3.6k Comments
+Succession - 4x05 "Kill List" - Post Episode Discussion
+Discussion
+5.7k Comments
 Share
 Save
-33.3k
-r/pics
+20.8k
+r/me_irl
 •Posted by
-u/Any-Environment-17
-21 hours ago
+u/wonderbodri
+6 hours ago
 Join
-Home of Utah State Senator who recently sponsored Anti-Trans bill
-Politics
-3.3k Comments
+me_irl
+307 Comments
+Share
+Save
+28.3k
+r/todayilearned
+•Posted by
+u/qualityhealth101
+11 hours ago
+TIL In 2000, when the cast of "Friends" wouldn't come down from their $1,050,000/episode salary demands, NBC's Garth Ancier produced promos saying "You've loved them for seven years, see how it all ends with the series finale of Friends this Thursday". The cast agreed to lower salaries.
+abcnews.go.com/2020/s...
+Join
+1.8k Comments
 Share
 Save
 Advertisement
