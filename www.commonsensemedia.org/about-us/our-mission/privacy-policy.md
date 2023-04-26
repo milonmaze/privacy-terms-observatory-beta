@@ -4,18 +4,6 @@ Privacy Policy/Your California Privacy Rights
 
 Community guidelines | Privacy FAQ | Privacy Policy | Cookie Policy | Children's Privacy Policy | General Terms of Use | Teen Terms of Use | UK Digital Citizenship Terms of Service| Survey Privacy Policy
 
-Our Privacy Policy describing in detail how and where we collect personal data and informing you what we use it for has been recently updated. Because our Privacy Policy is quite long, we have prepared this summary of changes for those who want to understand the changes but might prefer to read the full Privacy Policy later.
-
-Our Privacy Notice has been updated:
-
-To reflect minor changes in our collection practices, particularly regarding what data may be processed for account creation and authentication, how members can build out their user profiles, and what kinds of surveys we conduct.
-To provide greater transparency regarding the practices that relate to the data of minors by adding a definition of what we mean by "child" and "teen" that accounts for the way in which different jurisdictions legally define those terms.
-To eliminate all references to Wide Open School because CSM is not offering this program at this time.
-
-We also have improved the formatting, added links to our other notices and tried to use friendlier, easier-to-read language.
-
-Our updated Privacy Policy will go into effect January 26, 2023.
-
 Effective Date of Policy: January 26, 2023
 
 COMMON SENSE MEDIA PRIVACY POLICY
