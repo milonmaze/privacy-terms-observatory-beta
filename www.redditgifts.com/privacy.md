@@ -1,91 +1,67 @@
 Found the internet!
 Trending today
-$BBBY
-"Bed Bath & Beyond" wasted over $10 billion on stock buybacks, and has now filed for bankruptcy thanks to $5 billion in debts
-r/LeopardsAteMyFace and more
-Len Goodman
-R.I.P. Len Goodman
-r/BritishTV and more
-NASCAR
-[NASCARONFOX] Massive accident at the finish of the 2023 GEICO 500!
-r/NASCAR and more
-Kevin McCarthy
-McCarthy faces his first big test as speaker: Defusing a debt ceiling time bomb
+Ted Cruz
+Bombshell Audio Shows Ted Cruz Scheming to Steal Election
 r/politics and more
-Ron DeSantis
-Trump says DeSantis should undergo an ‘emergency personality transplant’
-r/politics and more
-Sudan
-Sudan’s outsider: how a paramilitary leader fell out with the army and plunged the country into war
-r/anime_titties and more
+Atlanta Hawks
+[Highlight] Trea Young hits the big 3 to put the Hawks up 2 with 1.8 seconds to go
+r/nba and more
+Los Angeles Clippers
+[Post Game Thread] The Phoenix Suns (4-1) eliminate the Los Angeles Clippers (1-4) in game 5 by a score of 136 - 130, behind 47 points and 10 assists from Devin Booker
+r/nba and more
+U.S. Supreme Court
+Chief Justice John Roberts will not testify before Congress about Supreme Court ethics | CNN Politics
+r/news and more
+CinemaCon 2023
+Hugh Grant Plays an Oompa Loompa in 'Wonka'; First Trailer Debuts at CinemaCon
+r/movies and more
+Colorado Passes Right-To-Repair Law
+Colorado becomes 1st to pass ‘right to repair’ for farmers .
+r/technology and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-8.4k
-r/interestingasfuck
+20.7k
+r/gaming
 •Posted by
-u/iowafarmboy2011
+u/bbpeter
 3 hours ago
 Join
-This is Anis al-Dawla - the favorite wife of Naser al-Din Shah Qajar, who was the Shah of Qajar Iran from 1848 to 1896.
-i.imgur.com/OaH5rp...
-1.6k Comments
+3 years ago I didn't know how to code, now my game is on the front page of steam
+748 Comments
 Share
 Save
-33.4k
-r/MadeMeSmile
+15.6k
+r/HumansBeingBros
 •Posted by
-u/mindyour
-6 hours ago
+u/SinjiOnO
+3 hours ago
 Join
-You're never too old to have a lightsaber fight with your brother in the snow.
- Wholesome Moments 
-421 Comments
+Fisherman Jacob Knowles regularly saves these little birds from drowning/predators when they get knocked offshore by the northerly wind
+263 Comments
 Share
 Save
-105k
+15.8k
+r/nextfuckinglevel
+•Posted by
+u/floof_mcgenius
+3 hours ago
+Join
+Street Hibachi Savant
+709 Comments
+Share
+Save
+14.9k
 r/facepalm
 •Posted by
-u/abbiebe89
-17 hours ago
+u/DullPitcha
+5 hours ago
 Join
-Nashville, Tennessee Christian School refused to allow a female student to enter prom because she was wearing a suit.
+Passive income!
  🇲​🇮​🇸​🇨​
-6.9k Comments
-Share
-Save
-1.6k
-r/SuccessionTV
-•Posted by
-u/LoretiTV
-12 hours ago
-Join
-Succession - 4x05 "Kill List" - Post Episode Discussion
-Discussion
-5.7k Comments
-Share
-Save
-20.8k
-r/me_irl
-•Posted by
-u/wonderbodri
-6 hours ago
-Join
-me_irl
-307 Comments
-Share
-Save
-28.3k
-r/todayilearned
-•Posted by
-u/qualityhealth101
-11 hours ago
-TIL In 2000, when the cast of "Friends" wouldn't come down from their $1,050,000/episode salary demands, NBC's Garth Ancier produced promos saying "You've loved them for seven years, see how it all ends with the series finale of Friends this Thursday". The cast agreed to lower salaries.
-abcnews.go.com/2020/s...
-Join
-1.8k Comments
+1.9k Comments
 Share
 Save
 Advertisement
