@@ -65,6 +65,10 @@ Acts of sexual violence and exploitation are serious offenses. Content or activi
 Non-consensual sex acts
 Coercing a guest into committing a sex act by threatening them
 Touching another person in an intimate manner without their consent
+Sharing or threatening to share private sexually explicit content without permission of the person depicted
+Offering revenge porn of another person
+Sharing leaked nude images of another person without their consent
+Creating or sharing doctored or ‘deepfake’ intimate images of an identifiable person
 Youth Safety
 
 Twitch prohibits any content or activity that endangers youth. This includes content that features or promotes child sexual abuse material (CSAM), and the sexual exploitation, sexual misconduct or grooming of youth (which is defined by this policy as minors under 18). We report all illegal content or activity to the National Center for Missing and Exploited Children, which works with global law enforcement agencies around the world, and the consequence for engaging in such activity or with such content is immediate and indefinite suspension.
@@ -426,7 +430,7 @@ Focusing your broadcast around sexual content or in-game nudity in an otherwise 
 
 Adult Nudity
 
-Users are prohibited from broadcasting or uploading content that contains depictions of real nudity. Incomplete censoring, such as pixelization, mosaics, and blurring effects, do not constitute an exemption to this policy. 
+Users are prohibited from broadcasting or uploading content that contains depictions of real nudity (which includes realistically doctored nudity). Incomplete censoring, such as pixelization, mosaics, and blurring effects, do not constitute an exemption to this policy. 
 
   For example, you may not show or promote [content warning]:
 
