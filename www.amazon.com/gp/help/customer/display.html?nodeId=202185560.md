@@ -66,6 +66,7 @@ Children's Privacy Disclosure
 Fire Phone Terms
 Ring Terms of Service
 Alexa Shopping List Savings Program
+Alexa Shopping FAQs
 Quick solutions
 	
 
