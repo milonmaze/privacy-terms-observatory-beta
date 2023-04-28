@@ -3,7 +3,7 @@ Reports
 Transparency Report
 Transparency Report
 
-At AT&T, we take our responsibility to protect your information and privacy very seriously. You can learn more by reading our Customer Privacy Issue Brief.
+At AT&T, we take our responsibility to protect your information and privacy very seriously. You can learn more by reading our Privacy Issue Brief.
 
 Download February 2023 Report
 Overview
