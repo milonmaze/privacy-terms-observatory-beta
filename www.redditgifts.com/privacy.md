@@ -1,66 +1,90 @@
 Found the internet!
 Trending today
-Ted Cruz
-Bombshell Audio Shows Ted Cruz Scheming to Steal Election
+Equal Rights Amendment
+US Equal Rights Amendment blocked again, a century after introduction
 r/politics and more
-Atlanta Hawks
-[Highlight] Trea Young hits the big 3 to put the Hawks up 2 with 1.8 seconds to go
-r/nba and more
-Los Angeles Clippers
-[Post Game Thread] The Phoenix Suns (4-1) eliminate the Los Angeles Clippers (1-4) in game 5 by a score of 136 - 130, behind 47 points and 10 assists from Devin Booker
-r/nba and more
-U.S. Supreme Court
-Chief Justice John Roberts will not testify before Congress about Supreme Court ethics | CNN Politics
-r/news and more
-CinemaCon 2023
-Hugh Grant Plays an Oompa Loompa in 'Wonka'; First Trailer Debuts at CinemaCon
-r/movies and more
-Colorado Passes Right-To-Repair Law
-Colorado becomes 1st to pass ‘right to repair’ for farmers .
-r/technology and more
+NFL Draft
+WITH THE 10th PICK IN THE 2023 NFL DRAFT THE CHICAGO BEARS SELECT DARNELL WRIGHT | OT | Tennessee
+r/CHIBears and more
+Russia-Ukraine War
+Denmark's Armed Forces confirm Russian ship was seen near the site of Nord Stream explosion
+r/worldnews and more
+Kevin McCarthy
+Kevin McCarthy Urges Ron DeSantis to End Disney Feud
+r/politics and more
+Premier League
+[Sky Sports] BREAKING: Sheffield United owner, Prince Abdullah says he intends to sell the club in the next four weeks despite Premier League promotion
+r/soccer and more
+Formula 1
+Team Upgrades for Baku
+r/formula1 and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-20.7k
-r/gaming
+12.4k
+r/AskReddit
 •Posted by
-u/bbpeter
-3 hours ago
+u/NotSoSnarky
+18 hours ago
 Join
-3 years ago I didn't know how to code, now my game is on the front page of steam
-748 Comments
+What's the best mindfuck movie?
+8.0k Comments
 Share
 Save
-15.6k
-r/HumansBeingBros
+27.0k
+r/interestingasfuck
 •Posted by
-u/SinjiOnO
-3 hours ago
-Join
-Fisherman Jacob Knowles regularly saves these little birds from drowning/predators when they get knocked offshore by the northerly wind
-263 Comments
-Share
-Save
-15.8k
-r/nextfuckinglevel
-•Posted by
-u/floof_mcgenius
-3 hours ago
-Join
-Street Hibachi Savant
-709 Comments
-Share
-Save
-14.9k
-r/facepalm
-•Posted by
-u/DullPitcha
+u/Corkusername1
 5 hours ago
 Join
-Passive income!
- 🇲​🇮​🇸​🇨​
+Hyundai’s new steering systems
+2.3k Comments
+Share
+Save
+11.9k
+r/antiwork
+•Posted by
+u/CharacterJunket8347
+3 hours ago
+Join
+May fit here. US corps take note how it’s down
+570 Comments
+Share
+Save
+14.0k
+r/WhitePeopleTwitter
+•Posted by
+u/runofthemillgayguy
+3 hours ago
+Join
+It do be facts tho
+Clubhouse
+368 Comments
+Share
+Save
+56.4k
+r/PublicFreakout
+•Posted by
+u/shroit
+18 hours ago
+& 6 More
+Join
+Right wing talkshow host emotionally abuse his now ex-wife. Believes women shouldn't be allowed to leave marriages without other party's consent. 
+Steven Crowder
+6.6k Comments
+Share
+Save
+28.7k
+r/worldnews
+•Posted by
+u/Espressodimare
+15 hours ago
+Denmark's Armed Forces confirm Russian ship was seen near the site of Nord Stream explosion
+Russia/Ukraine
+pravda.com.ua/eng/ne...
+Join
 1.9k Comments
 Share
 Save
