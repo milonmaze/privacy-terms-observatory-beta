@@ -5,6 +5,10 @@ Transparency Report
 
 Transparency Reporting is an important measure of accountability that provides insight about how we are improving safety on Twitch.
 
+H2 2022 Transparency Report
+
+H2 2022 Transparency Report
+
 H1 2022 Transparency Report
 
 H1 2022 Transparency Report
@@ -354,6 +358,7 @@ Twitch complies with data requests from law enforcement around the world in rela
 
 Subpoenas and preservation requests processed by Twitch increased 37% in H2. This is within the expected volumes of valid Subpoenas/Preservation Holds we have received from Law Enforcement.  
 
+H2 2022 Transparency Report
 H1 2022 Transparency Report
 H2 2021 Transparency Report
 H1 2021 Transparency Report
