@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: February 2023 What's new?
+Last Updated: April 2023 What's new?
 Expand All
 Print
 
@@ -45,7 +45,7 @@ Microsoft collects data from you, through our interactions with you and through 
 
 If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data. If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.
 
-You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
+You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data -required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
 
 Learn more
 Top of page
@@ -135,13 +135,9 @@ Learn more
 Top of page
 Collection of data from children
 
-For users under the age specified by law in your jurisdiction, for example under 13 in the U.S., certain Microsoft products and services will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
+For users under the age specified by law in their jurisdiction - for example under 13 in the U.S. - certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
 
-Once parental consent or authorization is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Parents or guardians can change or revoke the consent choices previously made. Learn more about parental consent and Microsoft child accounts.
-
-As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data.
-
-For more information about children and Xbox profiles, select Learn more below.
+Once parental consent or authorization is granted, the child's account is treated much like any other account. Learn more about personal and school accounts in the Microsoft account section of the Privacy Statement and Microsoft Family Safety in the product-specific section. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Parents or guardians can change or revoke the consent choices previously made. Learn more about parental consent and Microsoft child accounts. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data and information about children and Xbox profiles.
 
 Learn more
 Top of page
