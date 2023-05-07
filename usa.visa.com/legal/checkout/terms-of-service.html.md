@@ -1,10 +1,5 @@
-  
-Checking your browser before accessing usa.visa.com.
-
-This process is automatic. Your browser will redirect to your requested content shortly.
-
-Please allow up to 5 seconds…
-
-DDoS protection by Cloudflare
-
-Ray ID: 72fd5f34dbba6458
+usa.visa.com
+Checking if the site connection is secure
+usa.visa.com needs to review the security of your connection before proceeding.
+Ray ID: 7c2a0c8e4adfcecd
+Performance & security by Cloudflare
