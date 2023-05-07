@@ -17,6 +17,8 @@ Compute Engine: Compute Engine offers scalable and flexible virtual machine comp
 
 Google Cloud VMware Engine (GCVE): GCVE is a managed VMware-as-a-Service that is specifically designed for running VMware workloads on Google Cloud Platform. GCVE enables customers to run VMware virtual machines natively in a dedicated, private, software-defined data center.
 
+Workload Manager: Workload Manager is a rule-based validation service for evaluating workloads running on Google Cloud. If enabled, Workload Manager scans application workloads to detect deviations from standards, rules, and best practices that improve system quality, reliability, and performance.
+
 Storage
 
 Cloud Storage: Cloud Storage is a RESTful service for storing and accessing your data on Google's infrastructure. The service combines the performance and scalability of Google's cloud with advanced security and sharing capabilities.
@@ -85,7 +87,9 @@ Operations
 
 Cloud Debugger: Cloud Debugger connects your application's production data to your source code by inspecting the state of your application at any code location in production without stopping or slowing down your requests.
 
-Cloud Logging: Cloud Logging is a fully-managed service that performs at scale and can ingest application and system log data, as well as custom log data from thousands of VMs and containers. Cloud Logging allows you to analyze and export selected logs to long-term storage in real time. Cloud Logging includes the Error Reporting feature, which analyzes and aggregates the errors in your cloud applications and notifies you when new errors are detected.
+Cloud Logging: Cloud Logging is a fully-managed service that performs at scale and can ingest application and system log data, as well as custom log data from thousands of VMs and containers. Cloud Logging allows you to analyze and export selected logs to long-term storage in real time.
+
+Cloud Error Reporting: Cloud Error Reporting analyzes and aggregates the errors in your cloud applications and notifies you when new errors are detected.
 
 Cloud Monitoring: Cloud Monitoring provides visibility into the performance, uptime, and overall health of cloud-powered applications. Cloud Monitoring collects metrics, events, and metadata from certain Services, hosted uptime probes, application instrumentation, alert management, notifications and a variety of common application components.
 
@@ -98,6 +102,8 @@ Google Cloud Backup and DR: Google Cloud Backup and DR is a managed backup and d
 Developer Tools
 
 Artifact Registry: Artifact Registry is a service for managing container images and packages. It is integrated with Google Cloud tooling and runtimes and comes with support for native artifact protocols. This makes it simple to integrate it with your CI/CD tooling to set up automated pipelines.
+
+Assured Open Source Software (AOSS): AOSS is a service that enables enterprise and public sector users of open source software to easily incorporate into their own developer workflows the same scanned, analyzed and fuzz-tested open source software packages that Google uses.
 
 Container Registry: Container Registry is a private Docker image storage system on Google Cloud Platform. The registry can be accessed through an HTTPS endpoint, so you can pull images from your machine, whether it's a Compute Engine instance or your own hardware.
 
@@ -122,6 +128,8 @@ Cloud Data Fusion: Cloud Data Fusion is a fully-managed, cloud native, enterpris
 Cloud Life Sciences (formerly Google Genomics): Cloud Life Sciences provides services and tools for managing, processing, and transforming life sciences data.
 
 Data Catalog: Data Catalog is a fully-managed and scalable metadata management service that empowers organizations to quickly discover, manage, and understand their data in Google Cloud. It offers a central data catalog across certain Google Cloud Services that allows organizations to have a unified view of their data assets.
+
+Dataform: Dataform provides an end-to-end experience for data analysts to develop, test, version control, and schedule complex SQL workflows.
 
 Dataplex: Dataplex is an intelligent data fabric that helps customers unify distributed data and automate management and governance across that data to power analytics at scale.
 
@@ -165,7 +173,7 @@ Cloud Translation (including Cloud Translation v2 or any subsequent general avai
 
 Cloud Vision: Cloud Vision enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy to use API. It quickly classifies images into thousands of categories (e.g., "sailboat", "lion", "Eiffel Tower"), detects individual objects and faces within images, and finds and reads printed words contained within images. You can build metadata on your image catalog, moderate offensive content, or enable new marketing scenarios through image sentiment analysis. You can also analyze images uploaded in the request and integrate with your image storage on Cloud Storage.
 
-Contact Center AI (CCAI): CCAI is a solution for improving the customer experience in your contact centers using AI. CCAI encompasses Dialogflow Essentials, Dialogflow Customer Experience Edition (CX), Speech-to-Text, and Text-to-Speech, and Speaker ID.
+Contact Center AI (CCAI): CCAI is a solution for improving the customer experience in your contact centers using AI. CCAI encompasses Agent Assist, Dialogflow Essentials, Dialogflow Customer Experience Edition (CX), Speech-to-Text, and Text-to-Speech, and Speaker ID.
 
 Contact Center AI Insights: Contact Center AI Insights helps customers extract value from their contact center data. It provides a console to explore the data, find relevant information and take action on the data. Customers can run advanced analysis within the platform to extract sentiment, topics and highlight key areas from their data.
 
@@ -250,7 +258,7 @@ Cloud Run for Anthos: Cloud Run for Anthos lets you run stateless containers on 
 
 Google-Managed Multi-Cloud Services
 
-*BigQuery Omni: BigQuery Omni is a Google-managed multi-cloud analytics solution that enables analysts to access and analyze data stored on other supported public clouds from a singular BigQuery control-plane on Google Cloud.
+*BigQuery Omni: BigQuery Omni is a Google-managed multi-cloud analytics solution that enables analysts to access and analyze data stored on other supported public clouds from a singular BigQuery control-plane on GCP.
 
 Bare Metal
 
@@ -320,7 +328,6 @@ BeyondCorp Enterprise: BeyondCorp Enterprise is a solution designed to enable z
 
 On-premises Connector, which forwards Identity-Aware Proxy traffic from Google Cloud Platform to applications and VMs deployed in non-Google Cloud Platform environments.
 BCE app connector, which provides secure access to private applications in non-Google cloud environments using a remote agent installed on a customer-owned virtual machine.
-BCE client connector, which provides end users secure access to private non-web applications using a remote endpoint agent installed on customer endpoint devices.
 Endpoint Verification, which allows administrators to build an inventory of devices and set the security posture of the devices.
 Threat and Data Protection Services, which are a set of security services that work by aggregating threat intelligence and are designed to protect enterprise users from malware transfers, phishing, malicious site visits, and sensitive data leakage.
 BeyondCorp Enterprise Integration with Chrome Browser Cloud Management, which enables malware, phishing, and data leakage protection for managed Chrome browsers.
@@ -342,7 +349,7 @@ Resource Manager API: Resource Manager API allows you to programmatically manag
 
 Google Distributed Cloud
 
-Google Distributed Cloud Edge: Google Distributed Cloud Edge allows you to run private Google Kubernetes Engine clusters on dedicated hardware, which is provided and maintained by Google on Customer premises.This solution also provides you with a VPN connection to Google Cloud Platform, allowing you to interact with other Google Cloud Services or other applications running in your Virtual Private Cloud.
+Google Distributed Cloud Edge: Google Distributed Cloud Edge allows you to run private Google Kubernetes Engine clusters on dedicated hardware, which is provided and maintained by Google on Customer premises.This solution also provides you with a VPN connection to Google Cloud Platform, allowing you to interact with other GCP Services or other applications running in your Virtual Private Cloud.
 
 Sovereign Controls by Partners
 
@@ -428,6 +435,8 @@ Speech On Device: Speech On Device allows customers to deploy speech-to-text (ST
 
 Speech-to-Text On-Prem: Speech-to-Text On-Prem enables you to run Cloud Speech-to-Text models within your data center and across multiple cloud environments.
 
+Telecom Subscriber Insights: Telecom Subscriber Insights is designed to help Communication Service Providers (CSPs) securely extract insights using their own existing data sources. Telecom Subscriber Insights leverages AI models that ingest and analyze data to provide CSPs with recommended subscriber engagement actions.
+
 Google Cloud Platform Software
 
 Below is a non-exclusive list of available software components subject to the Google Cloud Platform Service Specific Terms as Software.
@@ -439,5 +448,5 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and app
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine and Anthos.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine, Anthos, and Cloud Run, while producing container and data artifacts for integration with modern CI/CD, Anthos and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine, Anthos, and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified February 16, 2023)
-February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
+PREVIOUS VERSIONS (Last modified May 2, 2023)
+April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
