@@ -36,55 +36,18 @@ National Security Letters (NSLs) are national security requests approved by the 
 
 The table below provides the number of NSLs Zoom received during this reporting period (in bands of 500 starting with 0–499) and the number of Government Specified Accounts (in ranges of 500 starting with 0–499). This range is the maximum detail Zoom may disclose regarding NSLs under U.S. law.
 
-Number of NSLs
-
-	
-
-Number of Customer Selectors Targeted by NSLs
-
-
-
-
-0–500
-
-	
-
-0–500
+Number of NSLs	Number of Customer Selectors Targeted by NSLs
+0–500	0–500
 
  
 
-Combined Number of National Security Orders or Directives for Content 
-
-	
-
-Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Content Received
-
-
-
-
-0–500
-
-	
-
-0–500
+Combined Number of National Security Orders or Directives for Content 	Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Content Received
+0–500	0–500
 
  
 
-Combined Number of National Security Orders or Directives for Non-Content
-
-	
-
-Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Non-Content 
-
-
-
-
-0–500
-
-	
-
-0–500
-
+Combined Number of National Security Orders or Directives for Non-Content	Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Non-Content 
+0–500	0–500
 International Requests
 
 Zoom receives law enforcement requests from around the globe. We screen each international (non-U.S.) request carefully to ensure that we only respond to legally valid and appropriately scoped requests. We do not provide any content internationally without process under mutual legal assistance treaties (MLATs), the U.S. Clarifying Lawful Overseas Use of Data (CLOUD) Act, or letters rogatory.
