@@ -2,8 +2,6 @@ Welcome to Marcus!
 
 For security purposes, please complete the challenge below and we’ll take you to marcus.com.
 
-Please stand by, while we are checking your browser...
-
 If you’re having technical issues, please give us a call.
 
 24 hours a day / 7 days a week.
