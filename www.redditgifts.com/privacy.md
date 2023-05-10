@@ -1,102 +1,103 @@
 Found the internet!
 Trending today
-Succession
-spoiler
-Tonight’s episode of Succession, had *everything*
-r/SuccessionTV and more
-Premier League
-[Pearce] The records just keep stacking up for Mohamed Salah and his durability is just as remarkable as his goal scoring heroics. #LFC have played 225 Premier League games since he arrived nearly six years ago and he’s played in 215 of them (96%). Legend.
-r/LiverpoolFC and more
-Taylor Swift
-spoiler
-I am so impressed that she played the entire show tonight in Nashville
-r/TaylorSwift and more
-Nikola Jokic
-[Highlight] Jokic goes into the crowd and rips the ball from the Suns owner
-r/nba and more
-MTV Awards
-The Last of Us wins Best Show at the MTV Awards
-r/ThelastofusHBOseries and more
-Formula 1
-Shakira and Tom Cruise seen together at the Formula 1 Miami Grand Prix
-r/Fauxmoi and more
+George Santos
+Exclusive: Rep. George Santos charged by Justice Department in federal probe | CNN Politics
+r/news and more
+Eurovision Song Contest
+Zoran (lead singer of let 3) in his press conference: "at wars there are no winners, in eurovision there are no losers, thank you to all the artists who didn't qualify as well, you are not losers, you are a friend of us."
+r/eurovision and more
+Denver Nuggets
+[MagicJohnson] Denver Nuggets superstar Nikola Jokic had an amazing performance even in defeat scoring 53 points and 10 assists. What can I say…he’s just a bad, bad man!
+r/denvernuggets and more
+US Debt Ceiling
+McCarthy says ‘no movement’ from meeting over debt ceiling with Biden as GOP continues holding US economy hostage
+r/politics and more
+Dianne Feinstein
+Dianne Feinstein set to return to Senate after nearly 3-month absence
+r/California and more
+NFL
+[Schefter] 🏈Week 4: Falcons vs. Jaguars in London. 🏈Week 5: Jaguars vs. Bills at Tottenham. 🏈Week 6: Ravens vs Titans at Tottenham. 🏈Week 9: Dolphins vs. Chiefs in Frankfurt. 🏈Week 10: Colts vs. Patriots in Frankfurt.
+r/nfl and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-17.1k
-r/todayilearned
+19.0k
+r/politics
 •Posted by
-u/Mary_Crone
-4 hours ago
-TIL that the moon is 1/400th the size of the sun but also 1/400th the distance from Earth which results in the moon and the sun being the same size in the sky, a coincidence not shared by any other known planet-moon combination.
-earthsky.org/space/...
+u/e-r_bridge
+3 hours ago
+Ex-Donald Trump staffers accuse him of sexual harassment in the White House
+newsweek.com/former...
 Join
-617 Comments
+902 Comments
 Share
 Save
-3.1k
+14.0k
 r/AskReddit
 •Posted by
-u/getthephenom
-11 hours ago
-Join
-Which movie can be identified by a single quote?
-10.6k Comments
-Share
-Save
-1.5k
-r/SuccessionTV
-•Posted by
-u/LoretiTV
-12 hours ago
-Join
-Succession - 4x07 "Tailgate Party" - Post Episode Discussion
-Discussion
-5.8k Comments
-Share
-Save
-37.2k
-r/news
-•Posted by
-u/Q_OANN
-21 hours ago
-7 dead after car runs into pedestrians in Brownsville, Texas, alleged driver arrested
-abcnews.go.com/US/7-d...
-Join
-4.4k Comments
-Share
-Save
-9.6k
-r/interestingasfuck
-•Posted by
-u/dannydutch1
-2 hours ago
-Join
-Avtar Singh Mauni, the proud owner of the world’s longest and heaviest turban. Weighing in at 100 pounds with a length 645meters, it takes Avtar 6 hours to put it on.
-707 Comments
-Share
-Save
-28.4k
-r/Unexpected
-•Posted by
-u/TwistyMaKneepahls
-5 hours ago
-Join
-Tattoo artists were instructed to draw "fish titties".
-274 Comments
-Share
-Save
-60.9k
-r/facepalm
-•Posted by
-u/No_Contribution2112
+u/WildeRatel
 20 hours ago
 Join
-8yr old girl pleads with disrespectful dispatcher as her mom dies
+You have to listen to one song on repeat for 24 hours straight to win 1 million dollars. What song are you choosing?
+15.3k Comments
+Share
+Save
+80.2k
+r/news
+•Posted by
+u/TSurface
+19 hours ago
+& 3 More
+Jury says Trump is liable in sexual abuse and defamation lawsuit by E. Jean Carroll
+cnbc.com/2023/0...
+Join
+4.8k Comments
+Share
+Save
+22.9k
+r/WhitePeopleTwitter
+•Posted by
+u/Big_Cycle_8630
+4 hours ago
+Join
+One of the evils of capitalism involves punishing people for helping others or showing charity.
+987 Comments
+Share
+Save
+20.8k
+r/interestingasfuck
+•Posted by
+u/FunnyTomatillo9696
+4 hours ago
+Join
+This horse couple stops drivers and makes people pat them. Every living being is happy when loved.
+457 Comments
+Share
+Save
+80.8k
+r/politics
+•Posted by
+u/Picture-unrelated
+19 hours ago
+& 15 More
+Jury finds Donald Trump sexually abused E. Jean Carroll in civil case
+Site Altered Headline
+cnn.com/2023/0...
+Join
+4.8k Comments
+Share
+Save
+43.1k
+r/facepalm
+•Posted by
+u/StunningCycle8536
+6 hours ago
+Join
+This is the best
  🇲​🇮​🇸​🇨​
-4.0k Comments
+1.5k Comments
 Share
 Save
 Advertisement
