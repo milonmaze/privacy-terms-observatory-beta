@@ -110,13 +110,13 @@ In addition to the personal data collected above, we may also collect personal d
 
 Affiliates:  We may receive information about you collected by other Zillow Group companies, businesses, brands, and affiliated entities in our family of companies, so that information you provide to one brand may be used by us to better provide you services and communicate with you.
 Business Partners: Our business partners, such as agent partners, lending partners, builders, property managers, and other real estate professionals collect personal data in connection with their services and often share some or all of this information with us. For example, we receive information about transactions you complete with partners with whom we’ve connected you through our services.
-Business Representatives: We collect professional personal data about representatives of third-party businesses, including representatives of our customers and business partners, in connection with our services and the operation of our business, which may include: 
+Business Representatives: We collect professional personal data about representatives of third-party businesses, including representatives of our customers and business partners, in connection with our services and the operation of our business, which may include:
 Contact Information: Including full name, email address, mailing address, and telephone number.
 Professional Information: Including job title, job function, company name and characteristics, professional background, and nature of the relationship with us. 
 Tax and Payment Information: Including a personal tax identification number, bank account information, and payment information where you are a representative of a sole proprietor or similar legal structure that uses personal tax and account information in lieu of separate business information.
 Inquiry Information: Including the contents of emails, texts, and other communications and, where permitted by law, recordings of calls with us. 
 Feedback Information, including information provided in response to surveys we may conduct with customers or business partners, or unsolicited feedback received regarding our services and business. 
-Office and Event Visitors: We collect personal data about visitors to our physical offices and events, which may include: 
+Office and Event Visitors: We collect personal data about visitors to our physical offices and events, which may include:
 Contact Information: Including full name, email address, mailing address, and telephone number.
 Professional Information: Including job title, job function, company name, professional background, and nature of the relationship with us. 
 Visit Information: Including the purpose of the visit and any restrictions or preferences while on premise (such as dietary restrictions). 
@@ -160,6 +160,7 @@ To detect, suppress, or prevent fraud;
 To reduce credit risk and collect debts owed to us;
 To protect the health and safety of us, our customers, or any person; or
 As otherwise required by applicable law.
+For Zillow’s policy on government and civil requests for information, please see Government and Civil Information Requests.
 Otherwise with Consent or At Your Direction: We may disclose your personal data to certain other third parties or publicly with your consent or direction. If you post a comment or review our website or a comment on our social media sites, the information you provide may be displayed publicly online for others to view.
 
 Choices About Your Data
@@ -281,7 +282,7 @@ In certain circumstances, you are permitted by law to use an authorized agent to
 
 Appealing Privacy Rights Decisions
 
-Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted via email to zgprivacy@zillowgroup.com. 
+Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted via email to privacy@zillow.com. 
 
 Minors
 
