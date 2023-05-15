@@ -1,82 +1,106 @@
 Found the internet!
 Trending today
-Turkish General Election
-Turkey votes in pivotal elections that could end Erdogan's 20-year rule
-r/news and more
-Eurovision Song Contest
-Käärijä appreciation post
-r/eurovision and more
-Mother's Day
-Happy Mother's Day
-r/wholesomememes and more
-Volodymyr Zelenskyy
-Zelenskyy responds to Trump: "Trump was president, we had a meeting. There wasn't a full-scale invasion then, but there was a war. I'm not sure he was deep into the matter then, but he didn't settle the matter. No one has solved this question."
+Turkey Election
+Turkey faces runoff election as Erdogan survives first test
+r/anime_titties and more
+Mormon Hedge Fund
+Mormon who left Wall St to work for charity blows whistle on what he says is his church's "clandestine hedge fund"
+r/atheism and more
+Succession
+From tonight‘s Succession. A programmer’s nightmare realized
+r/ProgrammerHumor and more
+Alexander Lukashenko
+Russian State Duma confirms information on Lukashenko’s illness
 r/UkrainianConflict and more
-Monty Williams
-[Charania] Breaking: The Phoenix Suns are parting ways with head coach Monty Williams, sources tell @TheAthletic @Stadium.
-r/nba and more
-Ja Morant
-Ja Morant on Instagram Live holding a gun
-r/nba and more
+Randy Orton
+Randy Orton
+r/WrestleWithThePackage and more
+Legend of Zelda: Tears of the Kingdom
+spoiler
+[TotK] Check out our Tears of the Kingdom launch party featuring three game setups, Dubious Food, and a Korok Seed hunt!
+r/zelda and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-19.7k
-r/oddlysatisfying
+14.5k
+r/AskReddit
 •Posted by
-u/SinjiOnO
-4 hours ago
+u/Head_Hauncho
+19 hours ago
 Join
-Resoling a pair of Goodyear welted shoes
-503 Comments
+What is the single best episode of television you’ve ever seen?
+15.4k Comments
 Share
 Save
-25.5k
-r/MadeMeSmile
+10.6k
+r/todayilearned
 •Posted by
-u/SinjiOnO
-4 hours ago
+u/silva_wings
+3 hours ago
+TIL the music behind the anti-piracy warning (you wouldn't steal a car etc) was stolen from the person who wrote it, Melchior Rietveldt, who sued for royalties owed
+kotaku.com/the-pa...
 Join
-The right answer to the wrong question
- Wholesome Moments 
-363 Comments
+143 Comments
 Share
 Save
-43.8k
-r/pics
+2.0k
+r/SuccessionTV
 •Posted by
-u/viovetf
-14 hours ago
-2
+u/LoretiTV
+12 hours ago
 Join
-Hundreds of white supremacists marched on Washington DC today
-Politics
+Succession - 4x08 "America Decides" - Post Episode Discussion
+Discussion
+7.4k Comments
+Share
+Save
+16.5k
+r/Wellthatsucks
+•Posted by
+u/Marty_the_Cat
+4 hours ago
+Join
+Opened the door to my Bluebird nesting box to check on the growth of the baby birds and found this snake inside. All the birds were eaten.
+1.0k Comments
+Share
+Save
+43.2k
+r/mildlyinfuriating
+•Posted by
+u/chichi-lover
+20 hours ago
+3
+Join
+I’ve watched my partner pick her nose while she drives but never made the connection of where she wipes her snot until I drove her car….
 5.4k Comments
 Share
 Save
-59.9k
-r/entertainment
+35.5k
+r/nba
 •Posted by
-u/Neo2199
+u/Turbostrider27
 22 hours ago
 2
-Anderson Cooper tells viewers they have ‘every right’ to never watch CNN again over Trump town hall
-independent.co.uk/news/w...
+2
+& 24 More
 Join
-4.9k Comments
+[Charania] Ja Morant has been suspended from all Grizzlies activities after the Memphis star was seen flashing an apparent gun in recent social media video.
+News
+twitter.com/ShamsC...
+5.2k Comments
 Share
 Save
-43.6k
-r/mildlyinfuriating
+14.5k
+r/mildlyinteresting
 •Posted by
-u/Frills66
-17 hours ago
-2
+u/Jessieface13
+11 hours ago
 Join
-Always that one person…
-3.8k Comments
+My son’s elementary school started flying a Progress Pride flag this week
+OC
+4.7k Comments
 Share
 Save
 Advertisement
