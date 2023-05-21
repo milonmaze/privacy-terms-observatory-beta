@@ -1,79 +1,68 @@
 Found the internet!
 Trending today
 G7 Summit
-Zelensky to make surprise appearance in person at G7 summit in Japan
-r/worldnews and more
-Galactic Starcruiser
-Disney World Closing Pricey ‘Star Wars’-Themed Galactic Starcruiser Experience
-r/entertainment and more
-Russia-Ukraine War
-Breaking news: US will not block export of jets to Ukraine
+President Zelensky posted a video of his latest meeting with G7 leaders in Japan. He stated: “Every decision for the defense of Ukraine brings our victory closer. I thank all our partners and allies for their support!”
 r/ukraine and more
-Rui Hachimura
-[ESPNStatsInfo] Rui Hachimura finished the 1st half 7-7 from the floor, tied with Lamar Odom for the best shooting half by a Lakers player in the last 25 postseasons. Odom did it in Game 4 of the 2008 Finals vs the Celtics.
+Nikola Jokic
+[Highlight] Nikola Jokic is called for his 4th personal foul on a controversial call
 r/nba and more
-Debt Ceiling
-Democratic Senators hold news conference on debt ceiling today
-r/pics and more
-Ron DeSantis
-DeSantis in spotlight as Disney pulls $1bn investment from Florida
+Bakhmut, Ukraine
+Putin says battle for Bakhmut is over, thanks Wagner mercenaries and Russian army
+r/worldnews and more
+Joe Biden
+Biden says he thinks he has authority to use 14th Amendment on debt ceiling
 r/politics and more
+Cute Animals
+Less reading, more pets!
+r/aww and more
+F-16 Fighter Jets
+Ukraine will receive a total of 45 F-16 fighters, which, after modernization, will be provided by the Netherlands and Denmark
+r/ukraine and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-54.1k
-r/facepalm
+12.5k
+r/interestingasfuck
 •Posted by
-u/Unusual_Fishing9348
-12 hours ago
-2
+u/Highonpepper
+3 hours ago
 Join
-"Bike Karen" Was Right After All. She Has Shown Proof She Paid for That Bike.
- 🇲​🇮​🇸​🇨​
-7.0k Comments
+Map of the planet if you are a fish.
+348 Comments
 Share
 Save
-6.2k
-r/AskReddit
+28.4k
+r/MadeMeSmile
 •Posted by
-u/phantom_avenger
-13 hours ago
+u/esberat
+5 hours ago
 Join
-What’s a considered a “kid’s movie” but is still very enjoyable to watch as an adult?
-6.1k Comments
+When you meet a person who's energy matches with yours.
+ Wholesome Moments 
+291 Comments
 Share
 Save
-50.2k
-r/mildlyinfuriating
+25.7k
+r/shitposting
 •Posted by
-u/Mean_Praline
-20 hours ago
+u/D3Machine
+5 hours ago
 Join
-$37 for 4 boxes. Only half full. Mid taste
-5.9k Comments
+Iguana 🗿
+I Miss Natter #NatterIsLoveNatterIsLife
+395 Comments
 Share
 Save
-72.4k
-r/pics
+6.4k
+r/Whatcouldgowrong
 •Posted by
-u/werdmouf
-14 hours ago
+u/RaiderOfZeHater
+3 hours ago
 Join
-Democratic Senators hold news conference on debt ceiling today
-Politics
-5.7k Comments
-Share
-Save
-22.2k
-r/WhitePeopleTwitter
-•Posted by
-u/Dizzy-String8353
-4 hours ago
-Join
-Malicious compliance right here
-389 Comments
+WCPGW if I speed up max while entering the highway?
+367 Comments
 Share
 Save
 Advertisement
