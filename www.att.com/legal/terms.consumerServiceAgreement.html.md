@@ -22,7 +22,7 @@ Please use these links to view the Service Terms for each specific Service:
 If you have postpaid AT&T Wireless service (including FirstNet Subscriber Paid User service), your Wireless Service Terms are in Section 2.
 If you have prepaid AT&T Wireless service, you’re subject to the Prepaid Wireless Service Terms in Section 3 as well as the Wireless Service Terms in Section 2.
 If you have a DataConnect/Session-based Wireless plan, you’re subject to the Service Terms in Section 4, in addition to the Wireless Service Terms in Section 2 and (if your data plan is prepaid) the Prepaid Wireless Service Terms in Section 3.
-If you’re an AT&T Phone customer, your Service Terms are in Section 5.
+If you’re an AT&T Phone or AT&T Phone – Advanced customer, your Service Terms are in Section 5.
 If you have home internet from AT&T, including AT&T Fiber, AT&T Internet, AT&T Internet Air, AT&T Fixed Wireless, or AT&T DSL service, your Service Terms are in Section 6. If your home internet service is provided via the AT&T Wireless Network, you will also be subject to the applicable sections of the Wireless Services Terms in Section 2.
 If you have Business Internet service (for small business), you’re subject to the Business Internet Service Terms in Section 7 as well as the Internet Service Terms in Section 6.
 1.2 Your AT&T Account and Account Access
@@ -929,7 +929,8 @@ Your Agreement begins on the day your Plan for Data Services are activated and c
 You agree to pay in advance for your Plan and there is no proration of charges if your Plan is terminated. You may make payments by credit card or debit card or other payment methods accepted by AT&T. In order to process your automatic renewal in a timely fashion and ensure your continued use of the service, AT&T will, depending on your plan, charge your payment method for the automatic renewal: (1) within seven days before your new plan specified period is set to begin, or (2) any time after 75% of your usage based plan has been consumed. You may cancel the automatic renewal of your service at any time and your cancellation shall take effect after we have had a reasonable opportunity to act on your notice.
 
 5.0
-AT&T Phone Service Terms
+AT&T Phone and AT&T Phone – Advanced Service Terms
+5.1 AT&T Phone Service Terms
 
 AT&T Phone Service is provided by one of the following AT&T affiliates, depending upon your service address: Southwestern Bell Telephone Company; Pacific Bell Telephone Company; Illinois Bell Telephone Company; Indiana Bell Telephone Company, Incorporated; Michigan Bell Telephone Company; Nevada Bell Telephone Company; The Ohio Bell Telephone Company; Wisconsin Bell, Inc.; or BellSouth Telecommunications, LLC (each individually and collectively referred to in the AT&T Phone Service Terms as “AT&T”). Your AT&T Phone Services are governed by this Agreement, including these AT&T Phone Service Terms and the U-verse Fee Schedule available at att.com/VoiceUverseTVFees (“U-verse Fee Schedule”).
 
@@ -937,20 +938,20 @@ You might be receiving AT&T Phone Service through an arrangement with your prope
 
 If you have any questions about your AT&T Phone Services, please call us at 800.288.2020.
 
-5.1 Term Commitment
-5.1.1 Term of Service:
+5.1.1 Term Commitment
+5.1.1.1 Term of Service:
 
 If you accepted a Service Commitment for your AT&T Phone Service, these AT&T Phone Service Terms will automatically continue on a month-to-month basis at the conclusion of your Service Commitment, and AT&T will automatically begin charging the applicable month-to-month fee. If you have no Service Commitment, these AT&T Phone Service Terms are a month-to-month agreement.
 
-5.1.2 Early Termination Fee (“ETF”):
+5.1.1.2 Early Termination Fee (“ETF”):
 
 If you terminate your AT&T Phone Service before completion of your Service Commitment, you agree to pay an ETF. The ETF amount reduces each full month of your Service Commitment that you complete.
 
-5.1.3 Your Termination Rights:
+5.1.1.3 Your Termination Rights:
 
 Within the first 14 days after we activate your AT&T Phone Service, you may terminate it for any reason without incurring an ETF (unless you would owe an ETF for a prior Service Commitment that you had ended early by entering into the new, now-terminated Service Commitment). However, you agree to pay AT&T for all fees, charges, and other amounts incurred and owed under your Agreement, and you agree to comply with Section 5.4.3 regarding equipment return. If you fail to return AT&T equipment, you will be charged an equipment non-return fee of up to $150. Some dealers may impose additional fees.
 
-5.2 Installation and Repair
+5.1.2 Installation and Repair
 
 To install or repair your AT&T Phone Service, you acknowledge that AT&T may use existing wiring, including altering the wiring and removing accessories, located within your unit (“Inside Wiring”), and that AT&T and its agents may drill, cut, and otherwise alter improvements on the premises (including walls, flooring, and/or other surfaces) in order to install, maintain, or repair AT&T Phone Service or equipment. You warrant that you own or control the Inside Wiring and premises and give AT&T and its agents permission to use, alter, and remove equipment from them. If you do not own your premises or your unit is part of a multi-tenant environment (e.g., an apartment building, condominium, or private subdivision), you warrant that you have obtained permission from any necessary party, including, but not limited to, the owner, landlord, or building manager, to allow AT&T and its agents reasonable access to install, maintain, and repair your AT&T Phone Service and equipment and to make any alterations that we deem appropriate for the work to be performed. You agree to indemnify AT&T and its agents from and against all claims by an owner, landlord, building manager, or other party in connection with installation, maintenance, repair, or provision of AT&T Phone Service.
 
@@ -958,61 +959,61 @@ You will provide AT&T and its agents with reasonable access to your premises in 
 
 You will be responsible for payment of service charges for visits by AT&T or its agents to your premises when a service request results from causes not attributable to AT&T or its agents, including, but not limited to, when you are unwilling to complete troubleshooting steps requested by AT&T. In addition to any applicable Dispatch Fee (as described in the U-Verse Fee Schedule), you are responsible for damage to and the entire cost of any necessary service, repair, or replacement of any equipment that is attributable to your improper installation, abuse, negligence, or misuse of the equipment, as determined by AT&T. We also reserve the right to charge reasonable shipping and handling fees in connection with replacement of any equipment. You understand that repair or replacement of AT&T Phone Service or equipment may (i) cause stored content to be deleted, (ii) reset personal settings, or (iii) otherwise alter the equipment.
 
-5.3 Fees and Charges
+5.1.3 Fees and Charges
 
 In return for receiving our AT&T Phone Service, you promise to pay—and agree that we may charge your credit or debit card on file with us—the charges described in subsection 1.9, the U-Verse Fee Schedule, and the following charges:
 
-5.3.1 Monthly Service Charges:
+5.1.3.1 Monthly Service Charges:
 
 Billing for the AT&T Phone Service commences when AT&T has provisioned the AT&T Phone Service. Recurring charges for each month's AT&T Phone Service will be billed one month in advance. Billing is based on a 30-day cycle. Non-recurring and usage-based charges for the AT&T Phone Service generally will be billed in the billing cycle following the transaction. Your first bill for AT&T Phone Service may include pro-rated charges for a partial monthly period prior to the beginning of your first monthly billing cycle. Upon termination, subject to applicable law, your effective date of cancellation will be the last day of your current billing cycle and you will receive AT&T Phone Service until the end of your billing cycle (exceptions may apply to certain promotional periods and must be in writing). You will not receive a prorated credit or refund for any remaining days of AT&T Phone Service in your billing cycle after termination. Your AT&T Phone Service will continue until the end of the bill cycle. A downgrade fee may apply if you make changes to your AT&T Phone Service within thirty (30) days of AT&T Phone Service provisioning or later programming orders.
 
-5.3.2 Usage Charges:
+5.1.3.2 Usage Charges:
 
 Non-recurring and usage-based charges for AT&T Phone Service generally will be billed in the billing cycle following the transaction. For a list of additional charges and fees that could apply to the AT&T Phone Service, please see the U-Verse Fee Schedule (at att.com/VoiceUverseTVFees). The Fee Schedule is incorporated into this AT&T Phone Service Terms by this reference.
 
-5.4 Equipment
+5.1.4 Equipment
 
 Equipment that AT&T provides may be new or refurbished. Any equipment or software that was not provided to you by AT&T, including batteries, is not AT&T’s responsibility, and AT&T will not provide support or maintenance of it. Depending on your service address, your AT&T Phone Service will include one of the following Equipment configurations:
 
 A Wi-Fi® Gateway (“WG”) located inside your premises, and certain service-specific equipment set forth in Sections 5.6.4 that is required for AT&T Phone Service to function (in the AT&T Phone Services Terms, the term “Equipment” is used to refer to all service-specific equipment, including the WG). If you do not purchase the Equipment from AT&T, you agree to pay a monthly equipment fee for the Equipment as part of your purchase of AT&T Phone Service for the duration of your receipt of AT&T Phone Service. Equipment fees may be included in your monthly charge for AT&T Phone Service or be charged separately (different taxes and surcharges may apply to the equipment fees, AT&T Phone Service fees, and/or the equipment fee portion of AT&T Phone Service fees). Equipment fee/purchase options depend on the Services you order and installation options you choose. The Equipment requires electrical power from your premises to operate, which you are responsible for providing.
 If you have a WG inside your premises, you may also have an Optical Network Terminal (“ONT”), which is a box that may be located inside your premises, on the outside of your premises, in a central location in a multi-tenant building, or in your garage, where AT&T’s fiber network terminates. The ONT also requires electrical power from your home to operate, which you are responsible for providing. AT&T will install your ONT device. The ONT power supply box converts the AC power in your home to the DC power required by the ONT.
 If you do not have a WG located inside your premises, your service is provided by an Intelligent Network Interface Device (“iNID”) and certain service specific equipment set forth in Sections 5.6.4 that is required for AT&T Phone Service to function (the iNID is among the service-specific equipment collectively referred to in the AT&T Phone Services Terms as “Equipment”). If you do not purchase the Equipment from AT&T, you agree to pay a monthly equipment fee for the Equipment as part of your purchase of AT&T Phone Service for the duration of your receipt of AT&T Phone Service. Equipment fees may be included in your monthly charge for AT&T Phone Service or be charged separately. Equipment fee/purchase options depend on the AT&T Phone Services you order and the installation options you choose. The iNID includes three components: (1) a unit typically located on the outside of your premises or in your garage where the AT&T network terminates (the outside unit); (2) a home networking hub, which provides wireless networking capability and is located inside your premises, (the inside unit); and (3) a power supply unit, typically located in a sheltered area either inside your premises or in an attached structure. You are responsible for providing the electrical power for the iNID.
-5.4.1 Battery Backups for AT&T-provided Equipment:
+5.1.4.1 Battery Backups for AT&T-provided Equipment:
 
 It is your responsibility to provide your own battery backup for your WG, or ONT. If there is an iNID at your premises, AT&T provides the initial battery backup, but all subsequent battery backups are your responsibility. For more information and minimum specifications regarding battery backups from third parties, see att.com/batterybackup. AT&T will not provide battery backups for customer-owned equipment.
 
-5.4.2 Management and Maintenance of AT&T Equipment:
+5.1.4.2 Management and Maintenance of AT&T Equipment:
 
 AT&T reserves the right to manage the AT&T Equipment during the time you are an AT&T customer and retains exclusive rights to data the Equipment generates. Neither you nor a third party may change, interfere with, or block access to the Equipment data or settings. You agree that you will use the Equipment only for its intended residential use, and not for any other purpose (such as on another AT&T network, or on another provider’s (non-AT&T) network). You agree to use appropriate and reasonable care in using any and all Equipment. As explained in Section 5.2, AT&T will repair or replace damaged Equipment as AT&T deems necessary. AT&T will not provide support for, or be responsible for, ongoing maintenance or management of, customer-owned equipment.
 
-5.4.3 Return of Equipment:
+5.1.4.3 Return of Equipment:
 
 Upon termination of AT&T Phone Service for any reason, you must return the Equipment, undamaged, within 21 calendar days to AT&T. If the Equipment is not returned within 21 calendar days, or is returned damaged, you will be charged for the value of the Equipment. We may retain any advance payment or deposit, or portion thereof that previously had not been refunded, if you fail to return the Equipment within this time period. If the Equipment is returned within 90 days of termination, any fees charged for the Equipment will be refunded (other than fees for damages). No refunds will be made for any Equipment returned more than 90 days after termination.
 
 In addition to termination of service, this subsection appliesif your existing Equipment is replaced or upgraded for any reason.
 
-5.5 Theft Of AT&T Equipment Or AT&T Phone Service
+5.1.5 Theft Of AT&T Equipment Or AT&T Phone Service
 
 You agree to notify AT&T immediately, in writing or by calling us at 800.288.2020, if the Equipment is stolen or if you become aware at any time that AT&T Phone Services are being stolen or fraudulently used. When you call or write, you must provide your AT&T Account number and a detailed description of the circumstances of the Equipment theft, including documentation of theft (e.g., a copy of a police report) or stolen or fraudulent use of AT&T Phone Service. You will be responsible for all charges incurred on your AT&T Account until you report the theft or fraudulent use of AT&T Phone Service. You will be responsible for stolen Equipment, but AT&T may in its sole discretion waive or reduce charges for stolen Equipment upon submission of documentation of theft or other circumstances. Failure to provide notice to AT&T of theft in a timely manner may result in the termination of your AT&T Services and additional charges to you. Unless notified otherwise by AT&T, after you report the theft or fraudulent use of the AT&T Phone Service, you will remain responsible for paying your monthly fees for AT&T Services not stolen or fraudulently used.
 
-5.6 Service
-5.6.1 Service Description:
+5.1.6 Service
+5.1.6.1 Service Description:
 
 AT&T Phone is an enhanced voice communication service that converts voice communications into Internet Protocol (IP) packets that are carried over AT&T’s IP network—i.e., “voice over IP” or “VoIP.” AT&T Phone Service includes direct-dialed calling and certain calling and call management features, as well as additional or advanced features that may be offered at additional costs, all of which AT&T, in its sole discretion, may add, modify, or delete from time to time. AT&T Phone Service also includes a telephone number or numbers that will be included in printed directories and/or directory assistance databases, and options, available at additional costs, to have numbers withheld from printed directories and/or directory assistance databases. It is not mobile or nomadic and will function only where installed.
 
-5.6.2 AT&T Phone Accounts and Subaccounts:
+5.1.6.2 AT&T Phone Accounts and Subaccounts:
 
 When you accept the AT&T Service terms, you become the main Account holder for each telephone number assigned to the AT&T Phone Service and all plans, features, and functionalities associated with each telephone number, whether those telephone numbers, plans, features, and functionalities are purchased initially or are added subsequently. You will be asked to choose a unique name for the main Account (your main Account ID). You may create up to ten subaccounts under your main Account, for others in your household. Each subaccount will have a separate password and ID. Main Account holders are responsible for all activity on their main Account and on any and all subaccounts. Violations of this Agreement in a main Account or in a subaccount can result in suspension or termination of the main Account and all subaccounts. Call histories (call logs for outgoing, answered, and missed calls) for each telephone number are accessible in the main Account and in each subaccount created under the telephone number. Main Account holders, as well as anyone provides information we deem sufficient to identify the main Account holder, can reset subaccount passwords and IDs by contacting Customer Service and can delete and recreate subaccounts. You agree to advise all subaccount holders that the main Account holder can have access to all aspects of their subaccount, including, but not limited to, feature settings, voicemail messages, and address books. All subaccount holders can therefore have no expectation of privacy vis-à-vis the main Account holder with regard to any aspect of the subaccount.
 
-5.6.3 Billing And Payments:
+5.1.6.3 Billing And Payments:
 
 For AT&T Phone service, nonrecurring and usage-based charges generally billed in the billing cycle following the transaction include, but are not limited to, international calling (including surcharges for international termination to a wireless phone number), Operator Services, Directory Assistance (411 or 800.555.1212), call trace, and overage minutes associated with defined minutes-of-use plans (e.g. Phone 200 plan). Partial minutes are rounded up for per-minute usage charges.
 
-5.6.4 AT&T Phone Equipment:
+5.1.6.4 AT&T Phone Equipment:
 
 AT&T Phone Service requires a regular touchtone landline telephone, which you must supply and which must be connected to the WG or iNID, either directly or through your home’s Inside Wiring. (Rotary and pulse phones will not work). The WG or iNID will support up to two AT&T Phone lines (telephone numbers used for inbound and outbound calling). You agree that neither you nor a third party will move Equipment used for AT&T Phone Service within your premises or to any other physical location outside of the premises where it was installed. AT&T Phone Service is not designed to be nomadic and will not function properly if the WG is moved or altered. If you require the WG to be moved, you must contact AT&T. Failure to do so may result in a failure of AT&T Phone Service and/or in AT&T’s suspension, modification, or termination of your Service.
 
-5.6.5 Interruptions, Limitations, And Modifications To Service:
+5.1.6.5 Interruptions, Limitations, And Modifications To Service:
 
 Since voice over IP is dependent on the IP network, the availability of an adequate power source, and correct Equipment configuration, AT&T does not guarantee that AT&T Phone Service will be continuous or error-free. You acknowledge and understand that AT&T cannot guarantee that voice over IP communication is secure.
 
@@ -1020,19 +1021,19 @@ You also acknowledge that AT&T may establish general practices and limits concer
 
 AT&T also limits the maximum number of days that messages will be retained; the maximum number messages that will be retained by the Service; the maximum size of any message; and the maximum disk space that will be allotted on AT&T’s servers on your behalf. You agree that AT&T will have no responsibility or liability for the deletion, for failure to store or to deliver any messages and other communications, for the modification or malformation of communications, or for other content maintained or transmitted by AT&T Phone Service. You acknowledge that AT&T reserves the right to log off Accounts or disconnect sessions that are inactive for an extended period of time. You further acknowledge that AT&T reserves the right to change these general practices and limits at any time without advance notice.
 
-5.6.6 Limitations of 911 Service:
+5.1.6.6 Limitations of 911 Service:
 
 AT&T Phone Service, which is provided via voice over IP, is not the same as traditional wireline telephone service, and 911 service doesn’t work the same as with traditional wirelines telephones. You agree to tell anyone who may use your AT&T Phone Service of the limitations of 911 service. AT&T makes no warranty that access to 911 will be uninterrupted, timely, secure, or error-free. 911 service is available only at your service address, while connected to a properly powered and configured iNID or WG (and a properly powered and configured ONT, if applicable) and after AT&T Phone Service has been properly activated. 911 service will not function if your AT&T Phone Service isn’t functioning or if there is a power or network outage, broadband connection failure, or if your service has been disconnected or suspended. Following an outage, you may be required to reset or reconfigure your Equipment before 911 service will work. AT&T strongly recommends that you maintain an alternative means of accessing 911 services, such as a cellular phone, at all times. AT&T is not responsible for any losses incurred because of an inability to dial 911 or to access emergency service personnel for any reason. And you agree to defend, indemnify, and hold harmless AT&T and its subsidiaries, affiliates, officers, agents, directors, employees, and service providers for any claim by you or anyone else relating in any way to 911 service.
 
-5.6.7 Premise Alarm and Other Device Compatibility:
+5.1.6.7 Premise Alarm and Other Device Compatibility:
 
 AT&T makes no warranty that AT&T Phone Service is appropriate for or capable of use with monitored burglar or fire alarms or medical monitoring systems or devices. Use of such systems is at your own risk. Not only may AT&T Phone Service be interrupted, delayed, or insecure, it may be incompatible with such systems or devices, and will not work in the event of a power or network outage, and may not work for other reasons. You agree to notify AT&T if you purchase a monitored burglar or fire alarm system before that system is installed, as installation may require re-writing of AT&T Phone Services at your expense. AT&T does not provide support for, or re-wiring of AT&T Phone Service in support of, medical monitoring systems or devices. Once AT&T Phone Service has been installed for use with a monitored burglar or fire alarm system, you agree that you will not modify the Inside Wiring of your home, move or reconfigure your WG in any way, or plug any telephone equipment into the back of your WG without contacting AT&T and your alarm service provider. Taking any of those actions could cause a failure of your AT&T Phone Service or alarm system. You agree to waive any claim against AT&T relating to interference with or disruption of a monitored burglar or fire alarm, medical monitoring device, or other similar systems or devices.
 
-5.6.8 Local Number Portability:
+5.1.6.8 Local Number Portability:
 
 In the event you are transferring an existing phone number for your AT&T Phone Service (i.e., porting a number to AT&T), you hereby authorize AT&T to process your order for AT&T Phone Services and to notify your existing provider of your decision to switch your local, local toll, and long distance services to AT&T Phone Service, and you represent that you are authorized to take this action. Not all telephone numbers are eligible for porting to AT&T Phone Service.
 
-5.6.9 Voicemail:
+5.1.6.9 Voicemail:
 
 AT&T Phone Service includes Voicemail, a full-featured voicemail service. AT&T does not guarantee that voicemail messages will be saved or be able to be retrieved. If you access your Voicemail voice mailbox from outside your local calling area, you may incur applicable local toll or long distance charges.
 
@@ -1042,30 +1043,123 @@ Voicemail may include a Voicemail-to-Text (“VMTT”) feature that provides aut
 
 You are solely responsible for and will comply with all applicable laws as to the content of any text messages or emails you receive from VMTT that you forward or include in a reply to any other person. You authorize AT&T or a third party working on AT&T’s behalf to listen to, and transcribe all or part of a voicemail message and to convert such voicemail message into text/email, and to use voicemail messages and transcriptions to enhance, train and improve AT&T’s speech recognition and transcription services, software and equipment. You agree that the results of benchmarking VMTT against competing products or services is AT&T confidential information requiring AT&T’s written consent to disclose. Additional charges may apply to receiving email on your wireless device from VMTT, as well as, replying to or forwarding VMTT messages via SMS (text) or email, depending on your plan. Transcription times cannot be guaranteed. You are responsible for providing a correct email address and updating the email address when changes to the email account are made.
 
-5.6.10 Prohibited Uses of AT&T Phone Service:
+5.1.6.10 Prohibited Uses of AT&T Phone Service:
 
 You agree that you will NOT use AT&T Phone Service:
 
 To engage in auto-dialing, continuous or extensive call forwarding, telemarketing, fax broadcasting or fax blasting, or for uses that result in excessive usage inconsistent with normal residential usage patterns. In addition, connection of your AT&T Phone Service to a device which converts use of AT&T Service to an outbound trunk line by more than one individual is prohibited. If AT&T determines, in its sole discretion, that you are reselling or transferring AT&T Phone service or that you are using it for any of these activities, AT&T reserves the right, without advance notice, immediately to terminate or modify your AT&T Service, or to change your call plan to a different offer on a prospective basis, and, in addition, to assess additional charges for each month in which excessive usage occurred. If you subscribe to a calling plan which includes unlimited calling of any type, unless otherwise specified by your specific plan in marketing materials associated herewith, consistent monthly use in excess of 5,000 aggregate minutes per month, taking into account all types of calling in your plan which are provided on an unlimited basis, shall be presumed to be inconsistent with these restrictions and shall be subject to the conditions above.
 As an announcement service, particularly with regard to Voicemail. Use of Voicemail service as an announcement service and/or other improper or excessive use may impair AT&T’s ability to provide reasonable service to other customers. AT&T reserves the right to cancel your AT&T Phone Service at any time, with or without notice, if as determined solely by AT&T based on its network/service design and usage experience, your messaging service is (1) being used in an improper manner including, but not limited to, using it as an announcement service or for unlawful purposes, (2) consistently generating excessive usage, (3) affecting AT&T’s ability to provide reasonable service to other customers, or (4) being used to interfere with another’s use of the voicemail system.
-5.6.11 Special Terms for North Carolina Customers:
+5.1.6.11 Special Terms for North Carolina Customers:
 
 If you reside in Durham or Concord, your AT&T Service may not include a telephone number or numbers in printed directories and/or directory assistance databases, and you may not have the option to have numbers withheld from printed directories and/or directory assistance databases.
 
-5.6.12 AT&T Phone for Business.
-5.6.12.1 AT&T Phone for Business Equipment:
+5.1.6.12 AT&T Phone for Business.
+5.1.6.12.1 AT&T Phone for Business Equipment:
 
 AT&T Phone for Business service requires a regular touchtone landline telephone, which you must supply and which must be connected to the WG, FBG, IAD or iNID, either directly or through your premise’s inside wiring. (Rotary and pulse phones will not work.) The WG, FBG or iNID will support up to two AT&T Phone for Business lines (telephone numbers used for inbound and outbound calling), additional AT&T Phone for Business lines will be supported by an Integrated Access Device (IAD) which, when necessary, will be installed in a tethered arrangement with the WG or the FBG.
 
 You agree that neither you nor a third party will move AT&T Phone for Business Equipment used for AT&T Phone for Business Service within your premises or to any other physical location outside of the premises where it was installed by AT&T. AT&T Phone for Business Service is not designed to be nomadic and will not function property if the WG, FBG or the IAD is moved or altered by a non-AT&T employee. If you require the WG, FBG or IAD to be moved, you must contact AT&T. Failure to do so may result in a failure of the service and/or in AT&T’s termination of your service.
 
-5.6.12.2 Interruptions, Limitations, and Modifications to Service:
+5.1.6.12.2 Interruptions, Limitations, and Modifications to Service:
 
 Telephone Line assignment on the WG or FBG. You acknowledge and agree that under certain service configurations, there may be a need for AT&T to keep a telephone line connected to port one of the WG or FBG. Under these circumstances, if the telephone line connected to port one (of the WG or FBG) is disconnected, AT&T will proceed to move one of the remaining lines, if existent, to populate the otherwise vacant port one to provide proper functioning of the service. You acknowledge and agree that this action will require a technician dispatch and will be billed at the associated prices prevailing for the service.
 
-5.6.12.3 Arbitration Agreement:
+5.1.6.12.3 Arbitration Agreement:
 
 If you are an AT&T Phone for Business customer, all disputes between us will be resolved through binding arbitration as prescribed by Section 1.3, except that (1) the AAA will apply its Commercial Arbitration Rules, as modified by this section and Section 1.3, unless the claims are valued at $25,000 or less; (2) AT&T will pay all AAA fees listed in Section 1.3.2.4 for arbitrations you initiate after fully complying with Section 1.3.2.2 only if your claims are valued at $25,000 or less; (3) you are eligible for the Alternative Payment and Attorney Premium in arbitrations you initiate after fully complying with Section 1.3.2.2 only if your claims are valued at $25,000 or less; and (4) the arbitrator will issue a reasoned decision only if you or AT&T requests it.
+
+5.2 AT&T Phone – Advanced
+
+AT&T Phone – Advanced Service is provided by one of the following AT&T affiliates, depending upon your service address: Southwestern Bell Telephone Company; Pacific Bell Telephone Company; Illinois Bell Telephone Company; Indiana Bell Telephone Company, Incorporated; Michigan Bell Telephone Company; Nevada Bell Telephone Company; The Ohio Bell Telephone Company; Wisconsin Bell, Inc.; or BellSouth Telecommunications, LLC (each individually and collectively referred to in the AT&T Phone – Advanced Service Terms as “AT&T”). Your use of AT&T Phone – Advanced Services are governed by this Agreement, including these AT&T Phone – Advanced Service Terms. In the event of a conflict between these terms and other terms contained elsewhere in this Agreement, these Service Terms will apply with respect to use of AT&T Phone – Advanced Service.
+
+5.2.1 Service Description:
+
+AT&T Phone – Advanced is a fixed location enhanced voice communication service which may be delivered either over an existing broadband connection and/or through AT&T Wireless Service (cellular). AT&T Phone – Advanced Service includes direct-dialed calling and certain calling and call management features, as well as additional or advanced features that may be offered at additional costs, all of which AT&T, in its sole discretion, may add, modify, or delete from time to time. AT&T Phone – Advanced Service also includes a telephone number or numbers which may be included in printed/digital directories and/or directory assistance databases, and options, which may be available at additional costs, to have numbers withheld from such directories/databases.
+
+5.2.2 Accounts, Billing and Termination Right:
+5.2.2.1 Accounts:
+
+When you purchase AT&T Phone – Advanced, you become the Account holder for each telephone number assigned to the AT&T Phone – Advanced Service and all plans, features, and functionalities associated with each telephone number, whether those telephone numbers, plans, features, and functionalities are purchased initially or are added subsequently. Account holders are responsible for all activity on their Account. Violations of these Service Terms or the Agreement can result in suspension and/or termination of the Account and/or AT&T Phone – Advanced Service.
+
+5.2.2.2 Billing:
+
+Billing begins when AT&T Phone – Advanced Service is activated on the network or 21 days following the shipment of equipment, whichever is sooner. Recurring charges for each month's AT&T Phone – Advanced Service will be billed one month in advance. Billing is based on a 30-day cycle. Non-recurring and usage-based charges for the AT&T Phone – Advanced Service generally will be billed in the billing cycle following the transaction. Your first bill for AT&T Phone – Advanced Service may include pro-rated charges for a partial monthly period prior to the beginning of your first monthly billing cycle. Upon termination, subject to applicable law, your effective date of cancellation will be the last day of your current billing cycle and you will receive AT&T Phone – Advanced Service until the end of your billing cycle (exceptions may apply to certain promotional periods and must be in writing). You will not receive a prorated credit or refund for any remaining days of AT&T Phone – Advanced Service in your billing cycle after termination. Your AT&T Phone – Advanced Service will continue until the end of the billing cycle. A fee may apply if you make changes to your AT&T Phone – Advanced Service within thirty (30) days of activation or through other change orders.
+
+5.2.2.3 Termination Right:
+
+Within the first 14 days after we activate your AT&T Phone – Advanced Service, you may terminate it for any reason without incurring termination charges.
+
+5.2.3 Equipment, Premise Alarm and Other Device Compatibility, Power and Battery Backup and Management, Maintenance, and Modification of Equipment:
+5.2.3.1 Equipment:
+
+Your AT&T Phone – Advanced Service requires an AT&T Phone – Advanced device (“Equipment”) located inside your premises for the AT&T Phone – Advanced Service to function. You will own the Equipment and will purchase the Equipment from AT&T by paying a one-time charge, or, if the option is made available by AT&T, pay for the Equipment over an extended period of time through a recurring monthly charge on your bill. Equipment fees may be included in your monthly bill for AT&T Phone – Advanced Service or charged separately (different taxes and surcharges may apply to AT&T Phone – Advanced Service fees, and/or the Equipment fee).
+
+Equipment that AT&T provides may be new or refurbished. Any equipment or software that was not provided to you by AT&T, including batteries, is not AT&T’s responsibility, and AT&T will not provide support or maintenance of it. The Equipment requires electrical power from your premises to operate, which you are responsible for providing. The Equipment must be installed and activated by following the set-up guide and associated tools provided for that purpose. In order to achieve the best possible signal strength when using the cellular network, it may be necessary to install the Equipment near a window facing the direction of the nearest wireless tower. Not following the set-up guide or electing to install the Equipment in a location that is not recommended by the set-up guide and/or the associated tools may result in degradation of AT&T Phone – Advanced Service quality and/or reliability. Similarly, once the Equipment has been installed and activated, relocating the Equipment within your address may result in interruption or degradation of your AT&T Phone – Advanced Service. AT&T is not responsible for any interruption or degradation of AT&T Phone – Advanced Service as a result of the Equipment being installed in a less than optimal location.
+
+AT&T reserves the right to charge reasonable shipping and handling fees in connection with replacement of the Equipment. You understand that repair, replacement, or updates to the AT&T Phone – Advanced Service or the Equipment may (i) cause stored content to be deleted, (ii) reset personal settings, or (iii) otherwise alter the Equipment.
+
+A standard touchtone landline telephone, which you must supply, and which must be connected to the Equipment (rotary and pulse phones will not work), is required for AT&T Phone – Advanced Service to provide calling functionality.
+
+5.2.3.2 Premise Alarm and Other Device Compatibility:
+
+AT&T makes no warranty that AT&T Phone – Advanced Service is appropriate for use with all monitored burglar or fire alarms or medical monitoring systems or similar systems or devices. Use of such systems with AT&T Phone – Advanced Service is at your own risk. Not only may AT&T Phone – Advanced Service be interrupted, delayed, or insecure, it may be incompatible with such systems or devices, and may not work in the event of a power or network outage, and may not work for other reasons. You agree to notify AT&T if you purchase a monitored burglar or fire alarm system, or medical monitoring system or device after installation, as support for these devices may require professional installation and re-wiring of Inside Wiring to the Equipment at your expense. Once AT&T Phone – Advanced Service has been installed for use with a monitored burglar, fire alarm system, or medical monitoring device, you agree that you will not modify the Inside Wiring of your home, move or reconfigure your Equipment in any way, or plug any new telephone equipment into the back of your Equipment without first contacting AT&T and your alarm/device service provider. Taking any of those actions could cause a failure of your AT&T Phone – Advanced Service and/or alarm or medical monitoring system. You agree to waive any claim against AT&T relating to interference with, disruption to, or failure of a monitored burglar or fire alarm, medical monitoring device, or other similar systems or devices used with your AT&T Phone – Advanced Service.
+
+5.2.3.3 Power and Battery Backup:
+
+The Equipment requires electrical power from your premises to operate, which you are responsible for providing, and contains an integrated battery backup capable of powering the Equipment for a period of time up to 24 hours. You may choose to purchase a separate battery backup for the Equipment or other connected equipment from third party manufacturers or retailers. For more information visit att.com/batterybackup. You also agree to be solely responsible for determining when backup batteries for the Equipment require replacement and for replacing and recycling used batteries. You agree to read and follow all directions for the replacement and recycling of backup batteries. For more information and minimum specifications visit att.com/batterybackup. Devices connected to the Equipment without a separate battery backup may not function in the event of a loss of power. AT&T will have no liability for loss of any AT&T Phone – Advanced Service in the event of interruption of power, with or without battery backup present in the Equipment.
+
+5.2.3.4 Management, Maintenance, and Modification of Equipment:
+
+AT&T reserves the right to manage, maintain, and modify the Equipment during the time you are an AT&T Phone – Advanced customer and retains exclusive rights to use data which the Equipment generates. You agree that you will use the Equipment only for its intended use. You agree to use appropriate and reasonable care in using the Equipment.
+
+5.2.4 Installation by AT&T, Self-Installation and Relocation of Equipment:
+5.2.4.1 Installation by AT&T:
+
+If AT&T installs your AT&T Phone – Advanced Service, you acknowledge that, if necessary, AT&T may use existing wiring, including altering the wiring and removing accessories, located within your unit (“Inside Wiring”), and that AT&T and its agents may drill, cut, and otherwise alter improvements on the premises (including walls, flooring, and/or other surfaces) in order to install, maintain, or repair AT&T Phone – Advanced Service or Equipment. You warrant that you own or control the Inside Wiring and premises and give AT&T and its agents permission to use, alter, and remove equipment from them. If you do not own your premises or your unit is part of a multi-tenant environment (e.g., an apartment building, condominium, or private subdivision), you warrant that you have obtained permission from any necessary party, including, but not limited to, the owner, landlord, or building manager, to allow AT&T and its agents reasonable access to install, maintain, and repair your AT&T Phone – Advanced Service and Equipment and to make any alterations that we deem appropriate for the work to be performed. You agree to indemnify AT&T and its agents from and against all claims by an owner, landlord, building manager, or other party in connection with installation, maintenance, repair, or provisioning of AT&T Phone – Advanced Service. You will provide AT&T and its agents with reasonable access to your premises in order to install, and repair AT&T Phone – Advanced Service and Equipment. If you are not at the premises at the time of installation or repair, you authorize any other adult resident or adult guest at your residence to grant access to your premises for these purposes. You understand and agree that by authorizing an adult resident or adult guest to grant access to your premises, you authorize that adult to act on your behalf, including accepting this Agreement and any related agreements required in connection with the completion of the installation, activation, or repair of AT&T Phone – Advanced Service and approving any changes to them. You will be responsible for payment of service charges for visits by AT&T or its agents to your premises when a service request results from causes not attributable to AT&T or its agents, including, but not limited to, when you are unwilling to complete troubleshooting steps requested by AT&T.
+
+5.2.4.2 Self-Installation:
+
+If you are self-installing AT&T Phone – Advanced, you agree that the Equipment will not be connected to any Inside Wiring at your service location. Improperly connecting the Equipment to Inside Wiring can result in an electrical short or AT&T Phone – Advanced Service failure. You agree to defend, indemnify, and hold harmless AT&T and its subsidiaries, affiliates, officers, agents, directors, employees, and service or Equipment providers for any claim related in any way to improper connection of the Equipment to your Inside Wiring.
+
+5.2.4.3 Relocation of Equipment:
+
+While you continue to receive the AT&T Phone – Advanced Service, neither you nor a third party will move the Equipment to any other physical location outside of your registered service location. AT&T Phone – Advanced Service is not designed to be nomadic and may not function properly if Equipment is moved to a location outside of your registered service location. If you require Equipment to be moved to another location, you must notify AT&T first, and obtain a move order from AT&T. Failure to do so may result in a failure of the AT&T Phone – Advanced Service and/or AT&T's suspension and/or termination of your AT&T Phone – Advanced Service. Service charges will continue to apply.
+
+5.2.5 Interruptions Limitations and Modifications to Service, Limitations of 911 Service and Local Number Portability:
+5.2.5.1 Interruptions Limitations and Modifications to Service:
+
+Voice service is dependent on the network, the availability of an adequate power source, and correct Equipment configuration, AT&T does not guarantee that AT&T Phone – Advanced Service will be continuous or error-free. You acknowledge and understand that AT&T cannot guarantee that voice communication is secure. You also acknowledge that AT&T may establish general practices and limits concerning use of AT&T Phone – Advanced Service. AT&T Phone – Advanced Service cannot be used to make operator-assisted collect or third-party billing calls (unless the third-party Collect Call company separately handles and bills for the call), nor can AT&T Phone – Advanced Service be used to make 900/976 calls; area code 500, 700, and 710 calls; 10-10-XXX dial-around calls; or international operator or directory assistance calls. Also, the ability to call certain N11 services (211, 311, 511) may not be available. You agree that AT&T will have no responsibility or liability for the deletion, for failure to store or to deliver any messages and other communications, for the modification or malformation of communications, or for other content maintained or transmitted by AT&T Phone – Advanced Service. You acknowledge that AT&T reserves the right to log off Accounts or disconnect sessions that are inactive for an extended period of time. You further acknowledge that AT&T reserves the right to change these general practices and limits at any time without advance notice.
+
+5.2.5.2 Limitations of 911 Service:
+
+AT&T Phone – Advanced Service is not the same as traditional wireline telephone service, and 911 service doesn’t work the same as with traditional wireline telephones. You agree to tell anyone who may use your AT&T Phone – Advanced Service of the limitations of 911 service. AT&T makes no warranty that access to 911 will be uninterrupted, timely, secure, or error-free. 911 service is available only at your registered service address, while connected to properly powered Equipment and after AT&T Phone – Advanced Service has been properly activated and configured. 911 service will not function if your AT&T Phone – Advanced Service isn’t functioning or if there is an Equipment failure, power, or network outage, cellular or broadband connection failure, if the Equipment has been moved without AT&T’s prior consent, or if your AT&T Phone – Advanced Service has been disconnected or suspended. Following an outage, you may be required to reset or reconfigure the Equipment before 911 service will work. AT&T strongly recommends that you maintain an alternative means of accessing 911 services, such as a cellular phone, at all times. AT&T is not responsible for any losses incurred because of an inability to dial 911 or to access emergency service personnel for any reason. And, you agree to defend, indemnify, and hold harmless AT&T and its subsidiaries, affiliates, officers, agents, directors, employees, and service providers for any claim by you or anyone else relating in any way to your AT&T Phone – Advanced Service and 911 service.
+
+5.2.5.3 Local Number Portability:
+
+In the event you are transferring an existing phone number to your AT&T Phone – Advanced Service (i.e., porting a number), you hereby authorize AT&T to process your order for AT&T Phone – Advanced Service and to notify your existing provider of your decision to switch your local, local toll, and long distance services to AT&T Phone – Advanced Service, and you represent that you are authorized to take this action. Not all telephone numbers are eligible for porting to AT&T Phone – Advanced Service.
+
+5.2.6 Voicemail:
+
+Initially, AT&T Phone – Advanced Service will not include Voicemail. Eventually, a full-featured voicemail service may be included as part of AT&T Phone – Advanced Service. If and when Voicemail is made available, AT&T does not guarantee that voicemail messages will be saved or be able to be retrieved. If your Voicemail voice mailbox is accessed from outside the local calling area, you may incur applicable local toll or long distance charges.
+
+Voicemail service may allow you the option to integrate your AT&T wireless service voice mailbox with your AT&T Phone – Advanced Voicemail mailbox. (Wireless service from AT&T must be purchased separately.) Calls forwarded to your Voicemail voice mailbox from your wireless phone will not incur airtime charges. However, airtime charges may apply when using your wireless handset to retrieve messages. Pager notification, if available, allows notification when a message is received in your Voicemail voice mailbox. Your pager notification can have either an email address or your pager notification can have a telephone number associated with it and must be set up through the Voicemail mailbox. Pager notification equipment must be purchased separately. Other restrictions may apply.
+
+Voicemail may include a Voicemail-to-Text (“VMTT”) feature that provides automated transcription of your voicemail. AT&T is not responsible nor liable for: 1) errors in the conversion of or its inability to transcribe voicemail messages to text/email; 2) lost or misdirected messages; or 3) content that is unlawful, harmful, threatening, abusive, obscene, tortious, or otherwise objectionable. AT&T does not filter, edit or control voice, text, or email messages, or guarantee the security of messages. AT&T can interrupt, restrict or terminate VMTT without notice if your use of VMTT adversely impacts AT&T’s network (e.g., by abnormal calling patterns or an unusually large number of repeated calls and messages) or if your use is otherwise abusive, fraudulent, or does not comply with the law.
+
+You are solely responsible for and will comply with all applicable laws as to the content of any text messages or emails you receive from VMTT that you forward or include in a reply to any other person. You authorize AT&T or a third party working on AT&T’s behalf to listen to, and transcribe all or part of a voicemail message and to convert such voicemail message into text/email, and to use voicemail messages and transcriptions to enhance, train and improve AT&T’s speech recognition and transcription services, software and equipment. You agree that the results of benchmarking VMTT against competing products or services is AT&T confidential information requiring AT&T’s written consent to disclose. Additional charges may apply to receiving email on your wireless device from VMTT, as well as, replying to or forwarding VMTT messages via SMS (text) or email, depending on your plan. Transcription times cannot be guaranteed. You are responsible for providing a correct email address and updating the email address when changes to the email account are made.
+
+5.2.7 Theft of Equipment or Service, Prohibited Uses and Special Terms:
+5.2.7.1 Theft of Equipment or Service:
+
+You agree to notify AT&T immediately, in writing or by calling us at 800.288.2020, if the Equipment is stolen or if you become aware at any time that AT&T Phone – Advanced Services are being stolen or fraudulently used. When you call or write, you must provide your AT&T Account number and a detailed description of the circumstances of the Equipment theft, including documentation of theft (e.g., a copy of a police report) or stolen or fraudulent use of AT&T Phone – Advanced Service. You will be responsible for all charges incurred on your AT&T Account until you report the theft or fraudulent use of AT&T Phone – Advanced Service. Failure to provide notice to AT&T of theft in a timely manner may result in the termination of your AT&T Phone – Advanced Service and additional charges to you.
+
+5.2.7.2 Prohibited Uses:
+
+You agree that you will NOT use AT&T Phone – Advanced Service to engage in auto-dialing, continuous or extensive call forwarding, telemarketing, fax broadcasting or fax blasting, or for uses that result in excessive usage inconsistent with normal residential usage patterns. In addition, connection of your AT&T Phone – Advanced Service or Equipment to a device which converts use of AT&T Phone – Advanced Service to an outbound trunk line by more than one individual is prohibited. If AT&T determines, in its sole discretion, that you are reselling or transferring AT&T Phone – Advanced Service or that you are using it for any of these activities, AT&T reserves the right, without advance notice, immediately to terminate or suspend your AT&T Phone – Advanced Service, and, in addition, to assess additional charges for each month in which excessive usage occurred. If you subscribe to a calling plan which includes unlimited calling of any type, unless otherwise specified by your specific plan in marketing materials associated herewith, consistent monthly use in excess of 5,000 aggregate minutes per month, taking into account all types of calling in your plan which are provided on an unlimited basis, shall be presumed to be inconsistent with these restrictions and shall be subject to the conditions above.
+
+5.2.7.3 Special Terms for North Carolina Customers:
+
+If you reside in Durham or Concord, your AT&T Phone – Advanced Service may not include a telephone number or numbers in printed/digital directories and/or directory assistance databases, and/or you may not have the option to have numbers withheld from printed/digital directories or directory assistance databases.
 
 6.0
 AT&T Internet Service Terms
