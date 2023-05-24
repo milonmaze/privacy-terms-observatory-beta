@@ -50,6 +50,7 @@ Use of info
 Sharing
 Protection
 Important info
+
  Introduction
 
 Welcome!
@@ -110,7 +111,7 @@ Examples of What This Privacy Policy Covers
 This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the Wikimedia Shop) or sites or services run by third parties (such as third-party developer projects on Wikimedia Cloud Services). To understand more about what this Privacy Policy does not cover, please see below.
 
 Expand
-More on what this Privacy Policy doesn’t cover
+More on what this Privacy Policy does not cover
 
 Where community policies govern information, such as the CheckUser policy, the relevant community may add to the rules and obligations set out in this Policy. However, they are not permitted to create new exceptions or otherwise reduce the protections offered by this Policy.
 
