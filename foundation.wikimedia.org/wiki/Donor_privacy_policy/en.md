@@ -24,7 +24,7 @@ Privacy
 Terms of Use
 Terrorist and violent extremist content procedures and guidelines
 Trademarks
-Universal code of conduct
+Universal code of conduct (enforcement guidelines)
 
 Foundation Board and staff
 
@@ -247,6 +247,21 @@ Donor Privacy Policy (July 2011)
 
 Donor Privacy Policy (2009)
 
-Please note that in the event of any differences in meaning or interpretation between the original English version of this Donor Privacy Policy and a translation, the original English version takes precedence.
+Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
 
-Category: Policies/en
++/-
+translate
+Privacy-related pages
+Privacy policy
+FAQ
+Glossary of key terms
+Subpoena FAQ
+Data retention guidelines
+Cookie statement
+Access to nonpublic personal data
+Confidentiality agreement
+How to sign
+Underage exemptions
+Noticeboard
+Donor privacy policy
+Categories: Policies/enPrivacy policy/en
