@@ -1,89 +1,115 @@
 Found the internet!
 Trending today
-Netflix Password Sharing
-Netflix Launches Paid Sharing in U.S., Will Start Blocking Users With Unauthorized Passwords
-r/movies and more
-Aston Martin F1
-Official: Honda to power Aston Martin from 2026
-r/formula1 and more
-US Debt Ceiling
-Matt Gaetz Admits Republicans Are Holding America “Hostage” Over Debt Ceiling: The Florida representative literally said the quiet part out loud.
+Ken Paxton
+Texas House committee recommends impeachment of Attorney General Ken Paxton
+r/texas and more
+Russia-Ukraine War
+BREAKING: Rep. Jerry Nadler says he “wouldn’t care” if Ukraine used American F16s to strike Russian territory and “personally wouldn’t mind” if Ukraine invaded Russia.
+r/UkrainianConflict and more
+Oprah Winfrey
+Oprah Winfrey could enter politics by replacing Dianne Feinstein, report claims
+r/entertainment and more
+Donald Trump
+Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case
 r/politics and more
-Ron DeSantis
-DeSantis Set to Announce 2024 Run on Twitter With Elon Musk
-r/politics and more
-Target
-Target removes some LGBTQ merchandise from stores ahead of June Pride month after threats to workers
-r/lgbt and more
-Ted Lasso
-spoiler
-Ted Lasso - S03E11 - "Mom City" Post Episode Discussion
-r/TedLasso and more
+Miami Heat
+The Miami Heat have not been the same after this post
+r/nbacirclejerk and more
+ChatGPT
+I asked ChatGPT to design Miss Universe-style costumes but for Melbourne suburbs. Images generated with Midjourney
 Popular posts
 Hot
 Everywhere
 New
 Top
-4.5k
-r/AskReddit
-•Posted by
-u/Over-Pack-7703
-12 hours ago
-Join
-You meet your 13 year old self, but can only tell them 3 words, what do you say and why?
-9.8k Comments
-Share
-Save
-57.3k
+62.1k
 r/mildlyinfuriating
 •Posted by
-u/oliver_GD
-14 hours ago
+u/yeathink267
+19 hours ago
 Join
-The lawn guys broke my front glass door when a gravel became a projectile from their equipment. They are saying they are not liable
-5.0k Comments
+Guess how old my son is
+7.9k Comments
 Share
 Save
-16.7k
+30.6k
 r/facepalm
 •Posted by
-u/Lazy_Mouse3803
-15 hours ago
+u/danhoeg
+18 hours ago
 Join
-Woman harasses police officer in Indianapolis Indiana.
+We've Come to This: Extreme Security in "America's Safest School"....
  🇲​🇮​🇸​🇨​
-3.6k Comments
+6.2k Comments
 Share
 Save
-20.9k
-r/classicwow
+2.2k
+r/AskReddit
 •Posted by
-u/ZeldenGM
+u/PixelWigglesworth
+12 hours ago
+Join
+28 years ago, OJ was acquitted. Where were you?
+4.2k Comments
+Share
+Save
+59.1k
+r/news
+•Posted by
+u/VR6SLC
 21 hours ago
-& 6 More
+& 7 More
+Oath Keepers founder Stewart Rhodes sentenced to 18 years for seditious conspiracy in Jan. 6 attack
+apnews.com/articl...
 Join
-Rule 4 is officially suspended
-Rule Update
-
-Since the sub came out we've upheld a rule against discussion of private servers and cheats etc on the basis of a good faith that Blizzard would be running Classic to a certain standard.
-
-The standard has been pretty fucking low for a very long time but it's clear today that the mask of integrity has totally fallen from the face of greed.
-
-As such feel free to discuss other options to play all versions of Classic in a way that has a higher integrity than what Blizzard has to offer.
-
-Any bans for Rule 4 will be overturned on appeal.
-
-3.4k Comments
+3.1k Comments
 Share
 Save
-53.0k
-r/therewasanattempt
+11.2k
+r/WhitePeopleTwitter
 •Posted by
-u/HTXYSF
-22 hours ago
+u/CrunchM
+3 hours ago
 Join
-To file a complaint against a police officer
-3.4k Comments
+Policy seems to be working well
+701 Comments
+Share
+Save
+35.8k
+r/todayilearned
+•Posted by
+u/EzekielTraore
+15 hours ago
+TIL that Tina Turner had her US citizenship relinquished back in 2013 and lived in Switzerland for almost 30 years until her death.
+usatoday.com/story/...
+Join
+3.1k Comments
+Share
+Save
+10.5k
+r/NoStupidQuestions
+•Posted by
+u/ZengaStromboli
+13 hours ago
+2
+5
+& 5 More
+Join
+Can a former skinhead reach salvation?
+
+Just give it to me straight.
+
+I used to be one. Racist, sexist, homophobic, the works. I was a fucking shithead. So was my father, and his father before him. All that "southern pride" bullshit.
+
+But I changed. At least, I like to think I did. I abandoned my ways, realized I had been brainwashed, went hard left, pulled a fucking my name is earl with the people I hurt, donate to good causes, hell, even fucking protest.
+
+But, well, yet, I still feel like I can never redeem myself. I can never put more positive out that I did negative. I have trouble getting out of bed, or doing anything for myself, after realizing just how bad of a fuckup I was.
+
+It's been.. Years. Almost a decade. But.
+
+Can I be redeemed? Can I ever become a "good" person?
+
+3.0k Comments
 Share
 Save
 Advertisement
