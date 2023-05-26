@@ -1,7 +1,7 @@
 Jump to content
 (Redirected from Privacy policy)
 Translate this page
-العربية azərbaycanca تۆرکجه беларуская (тарашкевіца) български روچ کپتین بلوچی বাংলা bosanski català нохчийн کوردی čeština català Cymraeg Deutsch Deutsch (Sie-Form) Zazaki Ελληνικά emiliàn e rumagnòl English Canadian English British English Esperanto español euskara فارسی suomi français Nordfriisk Frysk galego Avañe'ẽ עברית हिन्दी hrvatski magyar Bahasa Indonesia italiano 日本語 ქართული ភាសាខ្មែរ 한국어 Ripoarisch кыргызча Lëtzebuergesch Ligure lietuvių Basa Banyumasan македонски മലയാളം Bahasa Melayu မြန်မာဘာသာ مازِرونی Napulitano norsk bokmål नेपाली Nederlands nl-formal Diné bizaad occitan ਪੰਜਾਬੀ Plautdietsch polski پښتو português português do Brasil română русский Scots سنڌي ၽႃႇသႃႇတႆး සිංහල Soomaaliga shqip српски / srpski svenska Kiswahili தமிழ் తెలుగు тоҷикӣ ไทย Türkçe удмурт українська اردو Tiếng Việt მარგალური ייִדיש Yorùbá 粵語 中文 中文（简体） 中文（繁體）
+Other languages:	Avañe'ẽ Bahasa Indonesia Bahasa Melayu Basa Banyumasan British English Bân-lâm-gú Canadian English Cebuano Cymraeg Deutsch Deutsch (Sie-Form) English Esperanto Frysk Hausa Kiswahili Kreyòl ayisyen Ligure Lëtzebuergesch Malagasy Mara Napulitano Nederlands Nederlands (informeel) Nordfriisk Oromoo Qaraqalpaqsha Ripoarisch Scots Soomaaliga Tiếng Việt Türkçe Yorùbá Zazaki asturianu azərbaycanca bosanski català dansk eesti español euskara français galego hrvatski interlingua italiano latviešu lietuvių magyar norsk bokmål occitan oʻzbekcha / ўзбекча polski português português do Brasil română sardu shqip sicilianu slovenščina suomi svenska čeština Ελληνικά башҡортса беларуская беларуская (тарашкевіца) български кыргызча македонски нохчийн русский српски / srpski тоҷикӣ удмурт українська հայերեն ייִדיש עברית اردو الدارجة العربية تۆرکجه روچ کپتین بلوچی سرائیکی سنڌي فارسی مازِرونی پښتو کوردی کٲشُر कॉशुर / کٲشُر नेपाली भोजपुरी मराठी संस्कृतम् हिन्दी অসমীয়া বাংলা ਪੰਜਾਬੀ ગુજરાતી தமிழ் తెలుగు മലയാളം සිංහල ไทย ပအိုဝ်ႏဘာႏသာႏ ဖၠုံလိက် ဘာသာ မန် မြန်မာဘာသာ მარგალური ქართული ភាសាខ្មែរ 中文 日本語 粵語 ꯃꯤꯇꯩ ꯂꯣꯟ 한국어
 Want to help translate? Translate the missing messages.
 	
 This policy is approved by the Wikimedia Foundation Board of Trustees.
@@ -11,7 +11,7 @@ It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers 
 
 
 Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
-Privacy Policy
+Wikimedia Foundation Privacy Policy
 This is a summary of the Privacy Policy. To read the full terms, scroll down or click here.
 Disclaimer: This summary is not a part of the Privacy Policy and is not a legal document. It is simply a handy reference for understanding the full Privacy Policy. Think of it as the user-friendly interface to our Privacy Policy.
 
@@ -224,8 +224,10 @@ Expand
 Operating the Wikimedia Sites, sharing your contributions and administering our Services.
 Expand
 Providing customized Services.
+
 Expand
 Sending emails with news updates and communications about items we believe may be of interest to you.
+
 Expand
 Sending optional surveys and requesting feedback.
 Expand
@@ -296,7 +298,7 @@ We do so to manage our relationship with you, to further our legitimate interest
 
 We, or particular users with certain administrative rights as described below, need to use and share your Personal Information if it is reasonably believed to be necessary to enforce or investigate potential violations of our Terms of Use, this Privacy Policy, or any Wikimedia Foundation or user community-based policies. We may also need to access and share Personal Information to investigate and defend ourselves against legal threats or actions.
 
-Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our Access to Nonpublic Information Policy. These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the Wikimedia Foundation.
+Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our Access to nonpublic personal data policy. These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the Wikimedia Foundation.
 
 We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. (Check out the list of examples in our FAQ for more information.)
 
