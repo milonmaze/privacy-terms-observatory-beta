@@ -1,115 +1,89 @@
 Found the internet!
 Trending today
-Ken Paxton
-Texas House committee recommends impeachment of Attorney General Ken Paxton
-r/texas and more
-Russia-Ukraine War
-BREAKING: Rep. Jerry Nadler says he “wouldn’t care” if Ukraine used American F16s to strike Russian territory and “personally wouldn’t mind” if Ukraine invaded Russia.
-r/UkrainianConflict and more
-Oprah Winfrey
-Oprah Winfrey could enter politics by replacing Dianne Feinstein, report claims
-r/entertainment and more
-Donald Trump
-Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case
+Monaco Grand Prix
+Helmet cam footage of a Formula 1 lap around the Monaco Street Circuit
+r/nextfuckinglevel and more
+Derrick White
+DERRICK WHITE APPRECIATION POST
+r/bostonceltics and more
+U.S. Debt Ceiling
+Progressives Condemn Biden-GOP Debt Ceiling Deal as 'Cruel and Shortsighted' — "For no real reason at all, hungry people are set to lose food while tax cheats get a free pass."
 r/politics and more
-Miami Heat
-The Miami Heat have not been the same after this post
-r/nbacirclejerk and more
+Kyiv, Ukraine
+Kyiv celebrates its birthday today. This is how the city looked like 1000 years ago.
+r/europe and more
+Britain-EU Ties
+More than half of voters now want Britain to forge closer ties with the EU, poll reveals
+r/worldnews and more
 ChatGPT
-I asked ChatGPT to design Miss Universe-style costumes but for Melbourne suburbs. Images generated with Midjourney
+A lawyer used ChatGPT for legal filing. The chatbot cited nonexistent cases it just made up
+r/technology and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-62.1k
+2.5k
+r/nba
+•Posted by
+u/NBA_MOD
+15 hours ago
+Join
+GAME THREAD: Boston Celtics (2-3) @ Miami Heat (3-2) - (May 28, 2023)
+Game Thread
+General Information
+**TIME**     |**MEDIA**                            |**Team Subreddits**        |
+:------------|:------------------------------------|:-------------------|
+08:30 PM Eastern |**Game Preview**: [NBA.com](https://www.nba.com/game/BOS-vs-MIA-0042200306/preview) | /r/bostonceltics          |
+07:30 PM Central |**Game Charts**: [NBA.com](https://www.nba.com/game/BOS-vs-MIA-0042200306/game-charts) | /r/heat           |
+06:30 PM Mountain|**Play By Play**: [NBA.com](https://www.nba.com/game/BOS-vs-MIA-0042200306/play-by-play)|               |
+05:30 PM Pacific |**Box Score**: [NBA.com](https://www.nba.com/game/BOS-vs-MIA-0042200306/boxscore) |                 |
+
+
+Reddit Stream (You must click this link from the comment page.)
+
+36.7k Comments
+Share
+Save
+16.9k
+r/aww
+•Posted by
+u/Specific-College-194
+6 hours ago
+Join
+What’s this sorcery? 😂
+157 Comments
+Share
+Save
+34.3k
+r/gaming
+•Posted by
+u/Bulwark_HD
+14 hours ago
+Join
+This has gotta end
+i.imgur.com/kMKiaw...
+5.7k Comments
+Share
+Save
+2.9k
+r/Funnymemes
+•Posted by
+u/EmmanuelMoyta
+13 hours ago
+Join
+In just 3 words.
+5.3k Comments
+Share
+Save
+34.0k
 r/mildlyinfuriating
 •Posted by
-u/yeathink267
-19 hours ago
+u/RetartedCow4774
+20 hours ago
 Join
-Guess how old my son is
-7.9k Comments
-Share
-Save
-30.6k
-r/facepalm
-•Posted by
-u/danhoeg
-18 hours ago
-Join
-We've Come to This: Extreme Security in "America's Safest School"....
- 🇲​🇮​🇸​🇨​
-6.2k Comments
-Share
-Save
-2.2k
-r/AskReddit
-•Posted by
-u/PixelWigglesworth
-12 hours ago
-Join
-28 years ago, OJ was acquitted. Where were you?
-4.2k Comments
-Share
-Save
-59.1k
-r/news
-•Posted by
-u/VR6SLC
-21 hours ago
-& 7 More
-Oath Keepers founder Stewart Rhodes sentenced to 18 years for seditious conspiracy in Jan. 6 attack
-apnews.com/articl...
-Join
-3.1k Comments
-Share
-Save
-11.2k
-r/WhitePeopleTwitter
-•Posted by
-u/CrunchM
-3 hours ago
-Join
-Policy seems to be working well
-701 Comments
-Share
-Save
-35.8k
-r/todayilearned
-•Posted by
-u/EzekielTraore
-15 hours ago
-TIL that Tina Turner had her US citizenship relinquished back in 2013 and lived in Switzerland for almost 30 years until her death.
-usatoday.com/story/...
-Join
-3.1k Comments
-Share
-Save
-10.5k
-r/NoStupidQuestions
-•Posted by
-u/ZengaStromboli
-13 hours ago
-2
-5
-& 5 More
-Join
-Can a former skinhead reach salvation?
-
-Just give it to me straight.
-
-I used to be one. Racist, sexist, homophobic, the works. I was a fucking shithead. So was my father, and his father before him. All that "southern pride" bullshit.
-
-But I changed. At least, I like to think I did. I abandoned my ways, realized I had been brainwashed, went hard left, pulled a fucking my name is earl with the people I hurt, donate to good causes, hell, even fucking protest.
-
-But, well, yet, I still feel like I can never redeem myself. I can never put more positive out that I did negative. I have trouble getting out of bed, or doing anything for myself, after realizing just how bad of a fuckup I was.
-
-It's been.. Years. Almost a decade. But.
-
-Can I be redeemed? Can I ever become a "good" person?
-
-3.0k Comments
+My sister took my phone to send herself $55 from my cashapp. Cashapp support won’t do anything about it.
+5.0k Comments
 Share
 Save
 Advertisement
