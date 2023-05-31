@@ -1,107 +1,115 @@
 Found the internet!
 Trending today
-Turkish President Erdogan Wins
-Zelenskyy congratulated Erdoğan on winning Turkish elections
-r/worldnews and more
-ChatGPT
-Good attempt ChatGPT
-r/ChatGPT and more
-Succession
-Succession - 4x10 "With Open Eyes" - Post Episode Discussion
-r/SuccessionTV and more
-Indianapolis 500
+Alexandria Ocasio-Cortez
+AOC said Elon Musk put his 'finger on the scale' during Turkey's presidential election and is 'concerned' it will set a precedent for the 2024 US election
+r/politics and more
+Chinese Fighter Jet
+Chinese jet carries out "aggressive" maneuver in front of US military plane
+r/interestingasfuck and more
+Donald Trump
+Trump Promises to Violate 14th Amendment ‘On Day One’
+r/politics and more
+John Beasley
+John Beasley, actor in Rudy and Everwood, passes away
+r/movies and more
+Ted Lasso
 spoiler
-[OT] Winner of the 107th Running of the Indianapolis 500
-r/formula1 and more
-Lindsey Graham
-Iowa Partial Building Collapse
-Partial building collapse in Davenport Iowa 23/5/28
+Ted lasso using mikel tactics.
+r/Gunners and more
+Al Pacino
+Al Pacino's Girlfriend 8 Months Pregnant
+r/entertainment and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-6.8k
-PINNED BY MODERATORS
-r/SuccessionTV
+24.7k
+r/AskReddit
 •Posted by
-u/LoretiTV
-12 hours ago
+u/Electrical-Lemon187
+21 hours ago
 2
-& 9 More
 Join
-Succession - 4x10 "With Open Eyes" - Post Episode Discussion
-Discussion
-18.3k Comments
+What’s the most disturbing secret you’ve discovered about someone close to you?
+10.9k Comments
 Share
 Save
-53.4k
-r/facepalm
+44.8k
+r/news
 •Posted by
-u/mindyour
-22 hours ago
+u/Protomize
+17 hours ago
+11-month-old girl dies after left in car for 3 hours while parents went to church: Police
+abcnews.go.com/US/11-...
 Join
-Babysitter posts photo of child on Instagram without asking her parents permission.
- 🇲​🇮​🇸​🇨​
-4.7k Comments
-Share
-Save
-2.2k
-r/Barry
-•Posted by
-u/LoretiTV
-12 hours ago
-Join
-Barry - 4x08 "wow" - Post Episode Discussion
-Discussion
 4.3k Comments
 Share
 Save
-3.1k
-r/AskReddit
+17.6k
+r/worldnews
 •Posted by
-u/Eijiro-Shoji
-16 hours ago
+u/9lobaldude
+4 hours ago
+Freedom of Russia Legion is recruiting Russians to storm Moscow – The Times
+Russia/Ukraine
+pravda.com.ua/eng/ne...
 Join
-You can permanently change the price of one item to $1. What is it?
-3.7k Comments
+889 Comments
 Share
 Save
-8.3k
-r/LifeProTips
+1.2k
+r/TedLasso
 •Posted by
-u/probableAnnouncement
-15 hours ago
+u/quaranTV
+9 hours ago
 Join
-LPT Request: Morning Routines? How do you get out of bed FAST?
-Productivity
-
-I'm stuck in a rut. Alarm goes off, I hit snooze...again and again. I want to be one of those people who leap out of bed at the first ring.
-
-Any of you manage to do that? If so, how? Any advice would be awesome!
-
-2.8k Comments
+Ted Lasso - S03E12 - "So Long, Farewell" Post Episode Discussion
+From the Modsspoiler
+3.6k Comments
 Share
 Save
-69.2k
-r/mildlyinfuriating
+13.0k
+r/comics
 •Posted by
-u/mattedak
+u/Pizzacakecomic
+3 hours ago
+2
+Join
+Great job, Twitter
+OC
+202 Comments
+Share
+Save
+37.5k
+r/WhitePeopleTwitter
+•Posted by
+u/politicalthrow99
+22 hours ago
+Join
+Moms for Liberty speaker calls for Biden's execution
+3.5k Comments
+Share
+Save
+15.9k
+r/politics
+•Posted by
+u/oranjemania
 21 hours ago
+Ron DeSantis says he will ‘destroy leftism’ in US if elected president
+theguardian.com/us-new...
 Join
-I was recommended this acupuncturist who’s suppose to be great, but after a very uncomfortable drive home, I pulled out a full needle from my ass cheek.
-Hillary 2016
-2.7k Comments
+3.3k Comments
 Share
 Save
-24.4k
-r/interestingasfuck
+22.9k
+r/gaming
 •Posted by
-u/SonicAkshay_26
-5 hours ago
+u/DamianSykora
+18 hours ago
 Join
-Dry Squirrel Asks Human for a Drink of Water.
-605 Comments
+First half of 2023 going hard
+3.1k Comments
 Share
 Save
 Advertisement
