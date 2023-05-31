@@ -397,7 +397,6 @@ Publishing
 Social Integrations
 Social Presence
 Programs
-Developer Circles
 ThreatExchange
 Support
 Developer Support
