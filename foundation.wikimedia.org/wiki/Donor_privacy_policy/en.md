@@ -22,9 +22,11 @@ Licensing
 Office actions
 Privacy
 Terms of Use
+Wikimedia Maps
 Terrorist and violent extremist content procedures and guidelines
 Trademarks
-Universal code of conduct (enforcement guidelines)
+Universal code of conduct
+Enforcement guidelines
 
 Foundation Board and staff
 
@@ -38,7 +40,6 @@ Duty entertainment
 Foreign corrupt practices act policy
 Gifts
 Non-discrimination
-Guidelines covering pluralism, internationalism, and diversity in hiring
 Travel and expense
 Travel approval
 Whistleblower
@@ -48,9 +49,10 @@ Other
 Expense reimbursement
 Feedback privacy statement
 Friendly space policy
-Fundraising principles
 Legal policies
+Non-wiki privacy policy
 Open access policy
+Peering policy
 Phabricator Terms of Use
 Purchasing and disbursements procedures
 Requests for user information
