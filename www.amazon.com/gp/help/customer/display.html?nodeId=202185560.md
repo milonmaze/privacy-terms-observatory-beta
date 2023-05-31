@@ -67,6 +67,7 @@ Fire Phone Terms
 Ring Terms of Service
 Alexa Shopping List Savings Program
 Alexa Shopping FAQs
+Declarations of Conformity for Alexa Devices and Accessories
 Quick solutions
 	
 
