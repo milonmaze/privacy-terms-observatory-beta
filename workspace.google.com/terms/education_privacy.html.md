@@ -27,7 +27,7 @@ Google Workspace for Education additional services include services we make gene
 
  
 
-This document provides the key information about both types of services. If you want to learn more, you can find additional information and examples in the following documents that also apply to Google Workspace for Education accounts. The Google Cloud Privacy Notice provides more information about data that we process while providing the core services, and the Google Privacy Policy provides more information about data that we process in additional services.
+This document provides the key information about both types of services. If you want to learn more, you can find additional information and examples in the following documents that also apply to Google Workspace for Education accounts. The Google Cloud Privacy Notice provides more information about data that we process while providing the core services, and the Google Privacy Policy provides more information about data that we process in additional services. Information provided in this notice relating to core services also applies to Other Services listed in the Services Summary, including AppSheet.
 
 Your information: what we collect & how it’s used
 
