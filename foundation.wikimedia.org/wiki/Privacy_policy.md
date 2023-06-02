@@ -101,7 +101,7 @@ When we say…	…we mean:
 
 
 
-What This Privacy Policy Does & Doesn't Cover
+What This Privacy Policy Does and Does Not Cover
 
 Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of any of the Wikimedia Sites. This Policy also applies to information that we receive from our partners or other third parties. To understand more about what this Privacy Policy covers, please see below.
 
@@ -111,7 +111,7 @@ Examples of What This Privacy Policy Covers
 This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the Wikimedia Shop) or sites or services run by third parties (such as third-party developer projects on Wikimedia Cloud Services). To understand more about what this Privacy Policy does not cover, please see below.
 
 Expand
-More on what this Privacy Policy does not cover
+More on what the Wikimedia Foundation Privacy Policy does not cover
 
 Where community policies govern information, such as the CheckUser policy, the relevant community may add to the rules and obligations set out in this Policy. However, they are not permitted to create new exceptions or otherwise reduce the protections offered by this Policy.
 
