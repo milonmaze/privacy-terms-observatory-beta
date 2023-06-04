@@ -1,115 +1,110 @@
 Found the internet!
 Trending today
-Alexandria Ocasio-Cortez
-AOC said Elon Musk put his 'finger on the scale' during Turkey's presidential election and is 'concerned' it will set a precedent for the 2024 US election
-r/politics and more
-Chinese Fighter Jet
-Chinese jet carries out "aggressive" maneuver in front of US military plane
-r/interestingasfuck and more
-Donald Trump
-Trump Promises to Violate 14th Amendment ‘On Day One’
-r/politics and more
-John Beasley
-John Beasley, actor in Rudy and Everwood, passes away
-r/movies and more
-Ted Lasso
-spoiler
-Ted lasso using mikel tactics.
-r/Gunners and more
-Al Pacino
-Al Pacino's Girlfriend 8 Months Pregnant
-r/entertainment and more
+Diablo IV
+Diablo IV Launch Megathread
+r/Diablo and more
+NBA Finals
+31 years ago today Michael Jordan hit "The Shrug" during Game 1 of the 1992 NBA Finals. He hit 6 threes in the 1st half of Game 1, scoring 35 points by halftime
+r/OldSchoolCool and more
+Taylor Swift
+President of Brazil, Lula, revisits 2018 tweet that suggested he would bring Taylor Swift to Brazil if he were re-elected: “It worked”
+r/TaylorSwift and more
+Spanish Grand Prix
+Final Starting Grid - 2023 Spanish Grand Prix
+r/formula1 and more
+French Open
+[Morgado] French Open finally puts a women's match on the night session. Hundreds of tickets ask for refunds and many seats are left unsold compared to sold out early rounds
+r/tennis and more
+Street Fighter 6
+Edited my own Master's sprite as Ryu from Street Fighter 6
+r/grandorder and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-24.7k
-r/AskReddit
+66.1k
+r/mildlyinfuriating
 •Posted by
-u/Electrical-Lemon187
-21 hours ago
+u/reedtheraccoon
+19 hours ago
 2
 Join
-What’s the most disturbing secret you’ve discovered about someone close to you?
-10.9k Comments
+My neighbor, everyone. He parks like this when his wife isn't home and moves it back when she's back so they can both park on one of the few spots with shade. This has been happening for months already and the administration doesn't do anything about it.
+i.imgur.com/ldl9hn...
+9.2k Comments
 Share
 Save
-44.8k
-r/news
+9.7k
+r/AskReddit
 •Posted by
-u/Protomize
-17 hours ago
-11-month-old girl dies after left in car for 3 hours while parents went to church: Police
-abcnews.go.com/US/11-...
+u/ShardBen314
+18 hours ago
 Join
+What is something that is way more dangerous than people think it is?
+7.4k Comments
+Share
+Save
+43.6k
+r/antiwork
+•Posted by
+u/Vapordude420
+20 hours ago
+2
+& 4 More
+Students are refusing to pay back their loans when payment pause ends
+newsweek.com/studen...
+Join
+6.1k Comments
+Share
+Save
+75.6k
+r/facepalm
+•Posted by
+u/VariousBasket125
+21 hours ago
+Join
+Guy thought hugging a jellyfish was a good idea lol
+ 🇲​🇮​🇸​🇨​
 4.3k Comments
 Share
 Save
-17.6k
-r/worldnews
+1.9k
+r/Music
 •Posted by
-u/9lobaldude
-4 hours ago
-Freedom of Russia Legion is recruiting Russians to storm Moscow – The Times
-Russia/Ukraine
-pravda.com.ua/eng/ne...
+u/OOOOOO0OOOOO
+13 hours ago
 Join
-889 Comments
-Share
-Save
-1.2k
-r/TedLasso
-•Posted by
-u/quaranTV
-9 hours ago
-Join
-Ted Lasso - S03E12 - "So Long, Farewell" Post Episode Discussion
-From the Modsspoiler
+What’s the saddest song you’ve ever heard?
+discussion
+
+No matter how many times you hear it always gives you the feels.
+
+Edit: I didn’t expect as many responses as this has generated, and I’ve been working my way through the list. But the only song I will never listen to again is Routine by Steven Wilson. It breaks me in ways I can’t put into words.
+
 3.6k Comments
 Share
 Save
-13.0k
-r/comics
+34.3k
+r/worldnews
 •Posted by
-u/Pizzacakecomic
-3 hours ago
-2
+u/rmumford
+23 hours ago
+Chinese warship nearly hits U.S. destroyer in Taiwan Strait during joint Canada-U.S. mission
+globalnews.ca/news/9...
 Join
-Great job, Twitter
-OC
-202 Comments
+3.2k Comments
 Share
 Save
-37.5k
-r/WhitePeopleTwitter
-•Posted by
-u/politicalthrow99
-22 hours ago
-Join
-Moms for Liberty speaker calls for Biden's execution
-3.5k Comments
-Share
-Save
-15.9k
+7.1k
 r/politics
 •Posted by
-u/oranjemania
-21 hours ago
-Ron DeSantis says he will ‘destroy leftism’ in US if elected president
-theguardian.com/us-new...
+u/bluelily216
+3 hours ago
+Greene flips on public release of Jan. 6 tapes, claims it could ‘put the security of the Capitol at risk’
+thehill.com/homene...
 Join
-3.3k Comments
-Share
-Save
-22.9k
-r/gaming
-•Posted by
-u/DamianSykora
-18 hours ago
-Join
-First half of 2023 going hard
-3.1k Comments
+442 Comments
 Share
 Save
 Advertisement
