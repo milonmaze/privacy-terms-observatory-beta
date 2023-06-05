@@ -3,108 +3,115 @@ Trending today
 Diablo IV
 Diablo IV Launch Megathread
 r/Diablo and more
+Zlatan Ibrahimović
+Hellas Verona fans boo Zlatan.* Zlatan Ibrahimović: “Keep booing. This is the biggest moment in your year seeing me
+r/soccercirclejerk and more
 NBA Finals
-31 years ago today Michael Jordan hit "The Shrug" during Game 1 of the 1992 NBA Finals. He hit 6 threes in the 1st half of Game 1, scoring 35 points by halftime
-r/OldSchoolCool and more
-Taylor Swift
-President of Brazil, Lula, revisits 2018 tweet that suggested he would bring Taylor Swift to Brazil if he were re-elected: “It worked”
-r/TaylorSwift and more
-Spanish Grand Prix
-Final Starting Grid - 2023 Spanish Grand Prix
-r/formula1 and more
+[Highlight] Bam with the monster dunk on MPJ (with replays)
+r/nba and more
 French Open
-[Morgado] French Open finally puts a women's match on the night session. Hundreds of tickets ask for refunds and many seats are left unsold compared to sold out early rounds
+Carlos Alcaraz' sportsmanship.
 r/tennis and more
+Across the Spider-Verse
+[FRESH DELUXE] METRO BOOMIN - METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)
+r/hiphopheads and more
 Street Fighter 6
-Edited my own Master's sprite as Ryu from Street Fighter 6
-r/grandorder and more
+street fighter 6 already has 1 million units sold. good god.
+r/Fighters and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-66.1k
-r/mildlyinfuriating
+10.8k
+r/technology
 •Posted by
-u/reedtheraccoon
-19 hours ago
+u/chrisdh79
+2 hours ago
 2
+Major Reddit communities will go dark to protest threat to third-party apps | App developers have said next month’s changes to Reddit’s API pricing could make their apps unsustainable. Now, dozens of the site’s biggest subreddits plan to go private for two days in protest.
+Social Media
+theverge.com/2023/6...
 Join
-My neighbor, everyone. He parks like this when his wife isn't home and moves it back when she's back so they can both park on one of the few spots with shade. This has been happening for months already and the administration doesn't do anything about it.
-i.imgur.com/ldl9hn...
-9.2k Comments
+561 Comments
 Share
 Save
-9.7k
-r/AskReddit
+11.9k
+r/gaming
 •Posted by
-u/ShardBen314
-18 hours ago
+u/iateyourdinner
+3 hours ago
+Diablo IV has $ 25 horse armor DLC - the circle is complete
+finance.yahoo.com/news/d...
 Join
-What is something that is way more dangerous than people think it is?
-7.4k Comments
+2.1k Comments
 Share
 Save
-43.6k
-r/antiwork
+24.3k
+r/ask
 •Posted by
-u/Vapordude420
-20 hours ago
-2
-& 4 More
-Students are refusing to pay back their loans when payment pause ends
-newsweek.com/studen...
-Join
-6.1k Comments
-Share
-Save
-75.6k
-r/facepalm
-•Posted by
-u/VariousBasket125
+u/ephraim666
 21 hours ago
 Join
-Guy thought hugging a jellyfish was a good idea lol
- 🇲​🇮​🇸​🇨​
-4.3k Comments
+As a non-smoker, does every smoker smell bad to you?
+
+I've been smoking cigarettes daily almost 10 years now, at least a pack a day, more in the weekdays. It is the norm for me, I haven't felt the smell of cigarettes on someone in a very long time, but I remember it from childhood and it was disgusting. I don't smoke inside and noone has mentioned it so far. I also have a very good hygiene and overall state. I'm curious what you, non-smokers say about this
+
+12.9k Comments
 Share
 Save
-1.9k
-r/Music
+12.4k
+r/AskReddit
 •Posted by
-u/OOOOOO0OOOOO
+u/Que_sax23
 13 hours ago
 Join
-What’s the saddest song you’ve ever heard?
-discussion
-
-No matter how many times you hear it always gives you the feels.
-
-Edit: I didn’t expect as many responses as this has generated, and I’ve been working my way through the list. But the only song I will never listen to again is Routine by Steven Wilson. It breaks me in ways I can’t put into words.
-
-3.6k Comments
+Adults who carry around a backpack, whatcha got in there?
+9.8k Comments
 Share
 Save
-34.3k
-r/worldnews
+89.1k
+r/facepalm
 •Posted by
-u/rmumford
-23 hours ago
-Chinese warship nearly hits U.S. destroyer in Taiwan Strait during joint Canada-U.S. mission
-globalnews.ca/news/9...
+u/Sufficient-Bug-9112
+12 hours ago
+2
 Join
-3.2k Comments
+British people guessing how much American healthcare cost
+ 🇲​🇮​🇸​🇨​
+6.3k Comments
 Share
 Save
-7.1k
-r/politics
+22.7k
+r/aww
 •Posted by
-u/bluelily216
-3 hours ago
-Greene flips on public release of Jan. 6 tapes, claims it could ‘put the security of the Capitol at risk’
-thehill.com/homene...
+u/Specific-College-194
+5 hours ago
 Join
-442 Comments
+Kitty practicing self control
+441 Comments
+Share
+Save
+7.7k
+r/formuladank
+•Posted by
+u/Ok_Hat1480
+4 hours ago
+Join
+Haha car go fast 
+Stop Inventing
+200 Comments
+Share
+Save
+19.1k
+r/nottheonion
+•Posted by
+u/missspiritualtramp
+21 hours ago
+The FDA says people are confusing poppers with energy shots, and dying. Experts want proof
+cbc.ca/news/h...
+Join
+1.8k Comments
 Share
 Save
 Advertisement
