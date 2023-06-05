@@ -153,81 +153,80 @@ Looker Studio Pro: Looker Studio Pro is a paid edition of Looker Studio that add
 
 Pub/Sub: Pub/Sub is designed to provide reliable, many-to-many, asynchronous messaging between applications. Publisher applications can send messages to a "topic" and other applications can subscribe to that topic to receive the messages. By decoupling senders and receivers, Pub/Sub allows developers to communicate between independently written applications.
 
-AI and Machine Learning
+AI/ML Services
 
-AI Building Blocks
+AI Solutions
 
-AutoML: AutoML is a machine learning product suite that enables developers with limited machine learning expertise to provide their data sets and obtain access to quality trained models produced by Google's transfer learning and Neural Architecture Search (Google's technology for finding, generating, evaluating, and training numerous neural architectures to automatically select a solution for the customer's application):
+Contact Center AI (CCAI): CCAI uses AI to improve the customer experience in contact centers. It includes Agent Assist, Dialogflow Essentials, Dialogflow Customer Experience Edition (CX), Insights, Speech-to-Text, Text-to-Speech, and Speaker ID.
 
-AutoML Natural Language: AutoML Natural Language enables customers to categorize input text into their own custom defined labels (supervised classification). Users can customize models to their own domain or use case.
+Contact Center AI Insights: Contact Center AI Insights helps customers extract value from their contact center data by identifying sentiment and topics and highlighting key insights in the data.
 
-AutoML Tables: AutoML Tables enables your entire team of data scientists, analysts, and developers to automatically build and deploy state-of-the-art machine learning models on structured data at increased speed and scale.
+Contact Center AI (CCAI) Platform: CCAI Platform is a contact-center-as-a-service (CCaaS) platform leveraging CCAI. It integrates directly with CRMs and queues and routes customer interactions across voice and digital channels to resource pools, including human agents.
 
-AutoML Translation: AutoML Translation is a simple and scalable translation solution that allows businesses and developers with limited machine learning expertise to customize the Google Neural Machine Translation (GNMT) model for their own domain or use-case.
+Dialogflow Essentials(ES): Dialogflow ES is a development suite for voice and text conversational apps that can connect to customer applications and telephony and digital platforms.
 
-AutoML Video: AutoML Video is a simple and flexible machine learning service that lets businesses and developers easily train custom and scalable video models for their own domain or use cases.
+Dialogflow Customer Experience Edition (CX): Dialogflow CX is a development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, and advanced IVR feature support.
 
-AutoML Vision: AutoML Vision is a simple and flexible machine learning service that lets businesses and developers with limited machine learning expertise train custom and scalable vision models for their own use cases.
+Discovery Solutions: Discovery Solutions enable customers in retail, media, and other verticals to deliver Google-quality search results and recommendations.
 
-Cloud Natural Language API: Cloud Natural Language API provides powerful natural language understanding as an easy to use API. This API enables application developers to answer the following questions: 1) What are the entities referred to in the block of text?; 2) What is the sentiment (positive or negative) for this block of text?; 3) What is the language of this block of text?; and 4) What is the syntax for this block of text (including parts of speech and dependency trees)? Users can call this API by passing in a block of text or by referring to a document in Cloud Storage.
+*Recommendations AI: Recommendations AI enables customers to build a personalized recommendation system using ML models.
+*Recommendation Engine API: Recommendation engine API is the Version 1 API of Recommendations AI.
+*Retail Search: Retail Search, powered by Google’s Retail API, allows retailers to leverage Google’s search capabilities on their retail websites and applications.
 
-Cloud Translation (including Cloud Translation v2 or any subsequent general availability version/release): Cloud Translation is a RESTful API that automatically translates text from one language to another language (e.g. French to English). You can use the API to programmatically translate text in your webpages or apps.
+Document AI: Document AI is a unified console for document processing that lets you quickly access all document processing models and tools. Customers can use Document AI's pre-trained models for document extraction, including OCR, Form Parser and specialized models.
 
-Cloud Vision: Cloud Vision enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy to use API. It quickly classifies images into thousands of categories (e.g., "sailboat", "lion", "Eiffel Tower"), detects individual objects and faces within images, and finds and reads printed words contained within images. You can build metadata on your image catalog, moderate offensive content, or enable new marketing scenarios through image sentiment analysis. You can also analyze images uploaded in the request and integrate with your image storage on Cloud Storage.
-
-Contact Center AI (CCAI): CCAI is a solution for improving the customer experience in your contact centers using AI. CCAI encompasses Agent Assist, Dialogflow Essentials, Dialogflow Customer Experience Edition (CX), Speech-to-Text, and Text-to-Speech, and Speaker ID.
-
-Contact Center AI Insights: Contact Center AI Insights helps customers extract value from their contact center data. It provides a console to explore the data, find relevant information and take action on the data. Customers can run advanced analysis within the platform to extract sentiment, topics and highlight key areas from their data.
-
-Contact Center AI (“CCAI”) Platform: CCAI Platform is an AI-driven contact-center-as-a-service (CCaaS) platform built natively on Google Cloud, leveraging Contact Center AI at its core. CCAI Platform is purpose-built to work alongside CRMs, providing organizations with a single source of truth for customer journeys. As a unified contact center platform, CCAI Platform accelerates the organization's ability to leverage and deploy AI-driven contact center functionalities without relying on multiple technology providers. CCAI Platform is a full-stack contact center platform for queuing and routing customer interactions across voice and digital channels. It provides easy routing of customer interactions to the appropriate resource pools, allowing a seamless transition to human agents.
-
-Dialogflow Essentials(ES): Dialogflow is a development suite for voice and text conversational apps including chatbots and voicebots. Dialogflow is cross-platform and can connect to your own apps (on the web, Android, iOS, and IoT) or existing platforms (e.g., Telephony platforms like Genesys, Avaya, Cisco and digital platforms like Actions on Google, Facebook Messenger, Slack). Dialogflow Essentials Edition is a paid enterprise tier of Dialogflow provided under the Google Cloud Platform Terms of Service. (The free tier of Dialogflow (Dialogflow Trial Edition) is not offered via the Google Cloud Platform Terms of Service and is instead provided under the Dialogflow Trial Edition Terms of Service).
-
-Dialogflow Customer Experience Edition (CX): Dialogflow CX is an advanced development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, advanced IVR feature support (like DTMF, barge-in, etc.), and is optimized for enterprise scale and complexity. Dialogflow CX is cross-platform and can connect to your own apps (on the web, Android, iOS, and IoT) or existing platforms (e.g., telephony platforms like Genesys, Avaya, Cisco and digital platforms). Dialogflow CX is provided under the Google Cloud Platform Terms of Service.
-
-Document AI: Document AI classifies and extracts structured data from documents to help discover insights and automate business processes.
-
-*Human-in-the-Loop AI: Human-in-the-Loop AI provides a user interface and workflow tools for human verification of data extracted from documents using Document AI.
-
-Document AI Warehouse: Document AI Warehouse is a data management and governance platform that stores, searches, and organizes documents and their extracted and tagged metadata. Document AI Warehouse is highly scalable and fully managed, requiring no customer-deployed infrastructure, and can be integrated with enterprise document workflows, applications, and repositories.
-
-Media Translation API: Media Translation API is a gRPC API that automatically translates audio from one language to another language (e.g., French to English) and supports streaming real time. You can use the API to programmatically translate audio in your apps.
-
-*Speaker ID: Speaker ID allows customers to enroll user voice prints and later verify users against a previously enrolled voice print.
-
-Speech-to-Text: Speech-to-Text allows developers to convert audio to text by applying powerful neural network models in an easy to use API.
-
-Text-to-Speech: Text-to-Speech synthesizes human-like speech based on input text in a variety of voices and languages.
-
-Timeseries Insights API: Timeseries Insights API is a service that enables large-scale time series forecasting and anomaly detection in real time. The API is designed to scale to billions of time series and their properties, and within a few seconds of implementation, detect trends, seasonality, and anomalies across the time series.
-
-Vertex AI Vision: Vertex AI Vision is a service that allows you to easily build, deploy, and manage computer vision applications with a fully managed, end-to-end application development environment.
-
-Video Intelligence API: Video Intelligence API makes videos searchable, and discoverable, by extracting metadata with an easy to use REST API. It quickly annotates videos stored in Cloud Storage, and helps you identify key noun entities of your video and when they occur within the video.
-
-Visual Inspection AI: Visual Inspection AI enables developers to train and deploy AI models to automatically detect, classify, and localize abnormalities found in images in order to improve production quality and develop enhanced analytics across multiple industries.
-
-Vertex AI, AI Platform, and Accelerators
-
-AI Platform Data Labeling: AI Platform Data Labeling is a service that helps developers obtain high quality data to train and evaluate their machine learning models. It supports labeling for image, video, text, and audio as well as management of all of your labeled data in one place.
-
-AI Platform Deep Learning Container: AI Platform Deep Learning Container is a Docker image with the most popular AI frameworks. Machine learning developers and data scientists can customize AI Platform Deep Learning Container and use it with AI Workbench (also known as Notebooks), Google Kubernetes Engine (GKE), Vertex AI, Cloud Run, Compute Engine, Kubernetes, and Docker Swarm.
-
-AI Platform Neural Architecture Search (NAS): NAS is a managed service leveraging Google's neural architecture search technology to generate, evaluate, and train numerous model architectures for a customer's application. NAS training services facilitate management of large-scale experiments.
-
-AI Platform Training and Prediction: AI Platform Training and Prediction is a managed service that enables you to easily build and use machine learning models. It provides scalable training and prediction services that work on large scale datasets.
-
-Vertex AI: Vertex AI is a service for managing the entire lifecycle of AI and machine learning development. With Vertex AI, you can (i) manage image, video, text, and tabular datasets and associated labels; (ii) build machine learning pipelines to train and evaluate models using Google Cloud algorithms or custom training code; (iii) deploy models for online or batch use cases all on scalable managed infrastructure (including additional discovery points and API endpoints for functionality replacing the legacy services of AI Platform Data Labeling, AI Platform Training and Prediction, AI Platform Neutral Architecture Search (NAS), AutoML Natural Language, AutoML Video, AutoML Vision, and AutoML Tables); (iv) manage your entire data science workflow using Vertex AI Workbench (also known as Notebooks), which offers Google and user-managed options for a notebook-based development environment, including JupyterLab instances; and (v) create realistic plans to optimize your business with Optimization AI and related functionality.
-
-Industry Solutions
+Document Workbench: Document Workbench allows you to build a custom classification, extraction or splitting model.
+*Human-in-the-Loop AI: Human-in-the-Loop AI uses Document AI to provide workflow tools for human verification of data extracted from documents.
+Document AI Warehouse: Document AI Warehouse is a highly-scalable, fully managed data management and governance platform that integrates with enterprise document workflows to store, search, and organize documents and their metadata.
 
 *Talent Solution: Talent Solution offers access to Google's machine learning, enabling company career sites, job boards, ATS, staffing agencies, and other recruitment technology platforms to improve the talent acquisition experience.
 
-Discovery Solutions: Discovery Solutions allow customers in retail, media, and other verticals to deliver Google-quality search results and recommendations on their own websites and mobile applications. 
+Pre-Trained APIs
 
-*Recommendations AI: Recommendations AI enables you to build an end-to-end personalized recommendation system based on state-of-the-art deep learning ML models, without a need for expertise in ML or recommendation system architecture.
-*Recommendationengine API: Recommendationengine API is the Version 1 API of Recommendations AI described above. This API will be deprecated in 2023 and is not accepting new customers.
-*Retail Search: Retail Search, powered by Google’s Retail API, allows retailers to leverage Google’s search capabilities on their own retail websites and mobile applications. With Retail Search, retailers receive fast, accurate, and high quality search results that help improve conversion and increase customer engagement.
+Cloud Natural Language API: Cloud Natural Language API analyzes text to identify entities, sentiment, languages, and syntax.
+
+Cloud Translation API: Cloud Translation API automatically translates text from one language to another language.
+
+Cloud Vision: Cloud Vision classifies images into categories, detects individual objects and faces, and finds and reads printed words.
+
+Media Translation API: Media Translation API is a gRPC API that automatically translates audio from one language to another language (e.g., French to English) and supports streaming real time.
+
+*Speaker ID: Speaker ID allows customers to enroll user voice prints and later verify users against a previously enrolled voice print.
+
+Speech On Device: Speech On Device deploys speech-to-text and text-to-speech services locally on embedded hardware and operating systems.
+
+Speech-to-Text: Speech-to-Text converts audio to text by applying neural network models.
+
+Text-to-Speech: Text-to-Speech synthesizes human-like speech based on input text in a variety of voices and languages.
+
+Timeseries Insights API: Timeseries Insights API enables large-scale time series forecasting and anomaly detection in real time.
+
+Video Intelligence API: Video Intelligence API analyzes videos to extract metadata, add annotations, and identify entities in a video.
+
+Visual Inspection AI: Visual Inspection AI automatically detects, classifies, and localizes abnormalities found in images to improve production quality and develop analytics.
+
+AI Platform/Vertex AI
+
+AI Platform Data Labeling: AI Platform Data Labeling helps developers label data and centrally manage labels for training and evaluating machine learning models.
+
+AI Platform Training and Prediction: AI Platform Training and Prediction enables customers to easily train and deploy.
+
+AutoML: AutoML enables customers to leverage Google's transfer learning and Neural Architecture Search to build custom models using a variety of data types. AutoML Services include AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, and AutoML Vision.
+
+Deep Learning VM and Container: Deep Learning VM and Container provides virtual machine and Docker images with AI frameworks that can be customized and used with Google Kubernetes Engine (GKE), Vertex AI, Cloud Run, Compute Engine, Kubernetes, and Docker Swarm.
+
+Vertex AI Platform: Vertex AI Platform is a service for managing the AI and machine learning development lifecycle. Customers can (i) manage datasets and associated labels; (ii) build pipelines to train and evaluate models using Google Cloud algorithms or custom training code; (iii) deploy models for online or batch use cases; (iv) manage data science workflow using Vertex AI Workbench (also known as Notebooks); and (v) create business optimization plans with Optimization AI.
+
+Vertex AI Neural Architecture Search (NAS): Vertex AI NAS leverages Google's neural architecture search technology to generate, evaluate, and train model architectures for a customer's application.
+
+Vertex AI Vision: Vertex AI Vision is a service that allows you to easily build, deploy, and manage computer vision applications with a fully managed, end-to-end application development environment.
+
+Generative AI Services
+
+Generative AI Services include: (i) Services listed in this subsection, (ii) any Service identified as a “Generative AI Service” or similar designation in the Documentation, and (iii) any feature of a Service identified as a “Generative AI Feature” or similar designation in the Documentation.
+
+Generative AI App Builder: Generative AI App Builder allows customers to leverage foundational models, conversational AI, and search technologies to create multimodal chatbots and search experiences.
+
 API Management
 
 Apigee and Apigee Edge: Apigee and Apigee Edge are full-lifecycle API management platforms that let customers design, secure, analyze, and scale APIs, giving them visibility and control.
@@ -435,8 +434,6 @@ Cloud Logging and Cloud Monitoring for Anthos: Cloud Logging and Cloud Monitorin
 
 Cloud Vision OCR On-Prem: Cloud Vision OCR On-Prem enables you to run Cloud Vision OCR models within your data center and across multiple cloud environments.
 
-Speech On Device: Speech On Device allows customers to deploy speech-to-text (STT) and text-to-speech (TTS) services locally on their custom embedded hardware and operating systems.
-
 Speech-to-Text On-Prem: Speech-to-Text On-Prem enables you to run Cloud Speech-to-Text models within your data center and across multiple cloud environments.
 
 Telecom Subscriber Insights: Telecom Subscriber Insights is designed to help Communication Service Providers (CSPs) securely extract insights using their own existing data sources. Telecom Subscriber Insights leverages AI models that ingest and analyze data to provide CSPs with recommended subscriber engagement actions.
@@ -453,5 +450,5 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and app
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine and Anthos.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine, Anthos, and Cloud Run, while producing container and data artifacts for integration with modern CI/CD, Anthos and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine, Anthos, and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified June 1, 2023)
-May 16, 2023 May 10, 2023 May 8, 2023 May 2, 2023 April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
+PREVIOUS VERSIONS (Last modified June 5, 2023)
+June 01, 2023 May 16, 2023 May 10, 2023 May 8, 2023 May 2, 2023 April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
