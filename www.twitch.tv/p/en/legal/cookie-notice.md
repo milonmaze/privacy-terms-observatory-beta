@@ -11,7 +11,7 @@ Trademark Guidelines
 Account Usernames and Display Names Policy
 Accessibility Statement
 Developer Agreement
-Affiliate Program Agreement
+Monetized Streamer Agreement
 Supplemental Fees Statement
 Bits Acceptable Use Policy
 Channel Points Acceptable Use Policy
