@@ -1,135 +1,99 @@
 Found the internet!
 Trending today
-Kelis & Bill Murray
-Singer Kelis, 43, is dating actor Bill Murray, 72
-r/entertainment and more
-Summer Game Fest
-My reaction to no Elden Ring DLC update in the 2023 Summer Game Fest:
-r/Eldenring and more
-El Niño
-El Nino planet-warming weather phase has begun
-r/worldnews and more
-Crowded Room
-Tom Holland Says He Needs to Take an Acting Break after Brutal ‘Crowded Room’ Shoot
-r/television and more
-Final Fantasy VII Rebirth
-spoiler
-FINAL FANTASY VII REBIRTH – Summer Game Fest 2023 Trailer
-r/FinalFantasy and more
-Trump Indictment
-Trump indictment news: Prosecutors ready to ask for Trump indictment on obstruction and Espionage Act charges
+Artificial Intelligence
+Goldman Sachs Predicts 300 Million Jobs Will Be Lost Or Degraded By Artificial Intelligence
+r/Futurology and more
+Ukraine
+Hungary’s actions with the Ukrainian POW’s Russia moved there demonstrates that Hungary is indirectly involved in RU war against Ukraine. The POW’s location is unknown &they’ve no contact w UA officials. Budapest is acting as RU’s agent. This isn’t how NATO member states behave.
+r/ukraine and more
+UFOs
+EXCLUSIVE: Crashed UFO recovered by the US military 'distorted space and time,' leaving one investigator 'nauseous and disoriented' when he went in and discovered it was much larger inside than out, attorney for whistleblowers reveals
+r/UFOs and more
+Diablo IV
+My Diablo IV buddies
+r/parrots and more
+French Open
+Swiatek fends off Muchova to win 3rd French Open title in 4 years
+r/sports and more
+NBA
+Conor McGregor sends Heat mascot to ER during NBA Finals Game 4
+r/nba and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-67.7k
-PINNED BY MODERATORS
-r/politics
+11.9k
+r/TheGoodPlace
 •Posted by
-u/PoliticsModeratorBot
-14 hours ago
-6
-2
-4
-& 126 More
+u/WandersFar
+22 hours ago
 Join
-Megathread: Trump Indicted by Federal Prosecutors on Charges Related to Handling of Classified Documents
-Megathread
-17.2k Comments
+Comment here to be manually approved before we go private. (Yes, Tahani, we actually do have pre-boarding.)
+No Spoilers
+11.9k Comments
 Share
 Save
-20.1k
-r/Eldenring
-•Posted by
-u/HevsCreations
-5 hours ago
-Join
-I tried my best to create Jack Black in Elden Ring...but since I couldn't get him quite perfect...this is just a tribute
-Humor
-603 Comments
-Share
-Save
-11.6k
-r/LeopardsAteMyFace
-•Posted by
-u/A-Wise-Cobbler
-4 hours ago
-A January 2018 law signed by Trump made unauthorized removal and retention of classified information of the United States government a felony crime
-Trump
-bbc.com/news/w...
-Join
-431 Comments
-Share
-Save
-14.7k
-r/worldnews
-•Posted by
-u/dead_russian_kids
-5 hours ago
-Occupiers admit hydroelectric power plant blown up by Russian sabotage group
-Russia/Ukraine
-pravda.com.ua/eng/ne...
-Join
-538 Comments
-Share
-Save
-26.3k
-r/MadeMeSmile
-•Posted by
-u/1Hate17Here
-6 hours ago
-Join
-Attention span = -46 😆
- Doggo
-168 Comments
-Share
-Save
-186k
-r/apolloapp
-•Posted by
-u/iamthatis
-21 hours ago
-3
-26
-533
-36
-& 1,349 More
-Join
-📣 Apollo will close down on June 30th. Reddit’s recent decisions and actions have unfortunately made it impossible for Apollo to continue. Thank you so, so much for all the support over the years. ❤️
-Announcement 📣
-14.3k Comments
-Share
-Save
-640
+630
 r/Cricket
 •Posted by
 u/CricketMatchBot
-6 hours ago
+5 hours ago
 Join
-Match Thread: Final - Australia vs India, Day 3
+Match Thread: Final - Australia vs India, Day 5
 Final, ICC World Test Championship at London
 
-Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
+Post Match | Cricinfo | Reddit-Stream | 🌥 🌥 🌥 🌥 🌧
 
 Innings	Score
 Australia	469 (Ov 121.3)
 India	296 (Ov 69.4)
-Australia	20/1 (Ov 9.2)Batter	Runs	Balls	SR
-Usman Khawaja*	12	31	38.71
-Marnus Labuschagne	6	17	35.29Bowler	Overs	Runs	Wickets
-Mohammed Siraj	4.2	12	1
-Shardul Thakur	1	3	0
-Recent : . . . . . .  |  . . . . 4 .  |  1 1 . . 1 .  |  1 . 
+Australia	270/8 (Ov 84.3)
+India	234 (Ov 63.3)Batter	Runs	Balls	SR
+Mohammed Shami*	13	8	162.5Bowler	Overs	Runs	Wickets
+Nathan Lyon	15.3	41	4
+Mitchell Starc	14	77	2
+Recent : W . 4 . .  |  . . . . W .  |  4 4 . 1 . 1  |  . . W 
 
 
-Day 3 - Session 2: Australia lead by 193 runs.
+Australia won by 209 runs
 
-Live match threads: United Arab Emirates vs West Indies | Germany vs Belgium |
+Live match threads: Czech Republic vs Hungary | Germany vs Belgium | Rwanda vs Uganda | Rwanda Women vs Uganda Women | Kenya Women vs Nigeria Women | Czech Republic vs Hungary |
 
 Send feedback | Schedule | Stat Help | Glossary
 
 11.2k Comments
+Share
+Save
+6.1k
+r/AskReddit
+•Posted by
+u/Mapleberries
+14 hours ago
+Join
+What's something people put on their cars that automatically makes you assume the driver is an asshole?
+6.0k Comments
+Share
+Save
+28.8k
+r/mildlyinfuriating
+•Posted by
+u/WillieNolson
+21 hours ago
+Join
+P is for?
+5.1k Comments
+Share
+Save
+71.0k
+r/facepalm
+•Posted by
+u/danhoeg
+20 hours ago
+Join
+Patience is hard. Traffic is hard.
+ 🇲​🇮​🇸​🇨​
+4.5k Comments
 Share
 Save
 Advertisement
