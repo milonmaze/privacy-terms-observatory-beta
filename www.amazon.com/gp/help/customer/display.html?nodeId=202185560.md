@@ -54,6 +54,7 @@ Yes
 No
 ‹ All Help Topics
 Alexa & Alexa Device Terms
+Device Warranty for Alexa Devices and Accessories
 Echo Buds Battery Life Testing Information
 Learn More About Your Sweat Resistant Echo Buds
 Learn More About Your Splash-Resistant Echo Frames
