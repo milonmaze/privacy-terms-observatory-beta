@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: April 2023 What's new?
+Last Updated: June 2023 What's new?
 Expand All
 Print
 
@@ -92,7 +92,11 @@ Cookies and similar technologies
 
 Cookies are small text files placed on your device to store data that can be recalled by a web server in the domain that placed the cookie. We use cookies and similar technologies for storing and honoring your preferences and settings, enabling you to sign in, providing interest-based advertising, combating fraud, analyzing how our products perform, and fulfilling other legitimate purposes. Microsoft apps use additional identifiers, such as the advertising ID in Windows described in the Advertising ID section of this privacy statement, for similar purposes.
 
-We also use “web beacons” to help deliver cookies and gather usage and performance data. Our websites may include web beacons, cookies, or similar technologies from third-party service providers.
+We also use “web beacons” to help deliver cookies and gather usage and performance data. Our websites may include web beacons, cookies, or similar technologies from Microsoft affiliates and partners as well as third parties, such as service providers acting on our behalf.
+
+Third party cookies may include: Social Media cookies designed to show you ads and content based on your social media profiles and activities on our websites; Analytics cookies to better understand how you and others use our websites so that we can make them better, and so the third parties can improve their own products and services; Advertising cookies to show you ads that are relevant to you; and Required cookies used to perform essential website functions. Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication.
+
+Please see the Learn more section below for information about our use of third party cookies, web beacons and analytics services, and other similar technologies on our websites and services. For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit our third party cookie inventory. On some of our websites, a list of third parties is available directly on the site. The third parties on these sites may not be included in the list on our third party cookie inventory.
 
 You have a variety of tools to control the data collected by cookies, web beacons, and similar technologies. For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies.
 
