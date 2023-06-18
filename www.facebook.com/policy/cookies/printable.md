@@ -1,4 +1,5 @@
 Cookies Policy
+We updated our policy on June 16, 2023. View our previous policy.
 Explore the policy
 What are cookies, and what does this policy cover?
 Why do we use cookies?
@@ -10,7 +11,7 @@ Terms of Service
 Cookies Policy
 What are cookies, and what does this policy cover?
 
-Effective October 5, 2022
+Effective June 16, 2023
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
@@ -21,7 +22,7 @@ This policy explains how we use cookies and the choices you have. Except as othe
 Return to top
 Why do we use cookies?
 
-Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. The cookies we use and how we use them[1] may change over time as we improve and update Meta Products, we typically use them for the following purposes:
 
 Authentication
 
@@ -80,6 +81,132 @@ Third-party websites and apps
 
 Our business partners may also choose to share information with Meta from cookies set in their own websites' domains, whether or not you have a Facebook account or are logged in. Specifically, cookies named _fbc or _fbp may be set on the domain of the business partner whose site you're visiting. Unlike cookies that are set on Meta's own domains, these cookies aren’t accessible by Meta when you're on a site other than the one on which they were set, including when you are on one of our domains. They serve the same purposes as cookies set in Meta's own domain, which are to personalise content (including ads), measure ads, produce analytics and provide a safer experience, as set out in this Cookies Policy.
 
+1
+
+We've listed below cookies we commonly use and the common purposes for which we use these:
+
+Cookie
+	
+Description
+	
+Lifespan
+
+
+
+c_user; xs
+
+	
+
+We use these cookies to authenticate you and keep you logged in as you navigate between Facebook Pages.
+
+	
+
+365 days
+
+
+
+
+sb; dbln
+
+	
+
+These cookies help us to identify your browser securely.
+
+	
+
+2 years
+
+
+
+
+datr
+
+	
+
+This is a unique identifier for your browser that, among other things, helps us protect you from fraud. This cookie also helps us to identify browsers used by malicious actors and to prevent cyber-security attacks.
+
+	
+
+2 years
+
+
+
+
+csrf
+
+	
+
+This cookie helps us to keep your account secure.
+
+	
+
+Session
+
+
+
+
+fr
+
+	
+
+Depending on your choices, this cookie is used to deliver, measure and improve the relevancy of ads.
+
+	
+
+90 days
+
+
+
+
+_fbp; _fbc
+
+	
+
+These cookies identify browsers for businesses using our Meta Products for the purposes of providing advertising and site analytics services.
+
+	
+
+Session
+
+
+
+
+oo
+
+	
+
+This cookie helps store your advertising preferences.
+
+	
+
+5 years
+
+
+
+
+presence
+
+	
+
+This cookie supports your use of Messenger chat windows.
+
+	
+
+30 days
+
+
+
+
+dpr; wd
+
+	
+
+These cookies help deliver an optimal experience for your device’s screen.
+
+	
+
+7 days
+
 Return to top
 Where do we use cookies?
 
@@ -93,29 +220,20 @@ Do other Companies use cookies in connection with the Meta Products?
 
 Yes, other companies use cookies on the Meta Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.
 
-For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. Learn more[1] about the companies that use cookies on the Meta Products.
+For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. Learn more[2] about the companies that use cookies on the Meta Products.
 
 Third party companies also use cookies on their own sites and apps in connection with the Meta Products. To understand how other companies use cookies, please review their policies.
 
-1
+2
 List of Companies
 
 Listed below are the names and websites of some of the companies that use cookies on the Facebook Services to provide services to us and the businesses that advertise on Facebook.
 
-Last update: September 13, 2021
+Last update: May 3, 2023
 
 Company
 	
-Website
-
-
-
-A9
-
-	
-
-https://www.a9.com
-
+Domain
 
 
 
@@ -123,43 +241,7 @@ Ada
 
 	
 
-https://www.ada.support
-
-
-
-
-Adclear
-
-	
-
-https://www.adclear.de
-
-
-
-
-Adform
-
-	
-
-https://site.adform.com
-
-
-
-
-AdGear
-
-	
-
-https://www.adgear.com
-
-
-
-
-Adition
-
-	
-
-https://www.adition.com
+ada.support
 
 
 
@@ -168,43 +250,7 @@ Adobe
 
 	
 
-https://www.mktoresp.com
-
-
-
-
-Adobe Business Catalyst
-
-	
-
-https://www.businesscatalyst.com
-
-
-
-
-Adometry
-
-	
-
-https://www.adometry.com/tv-attribution
-
-
-
-
-AdParlor
-
-	
-
-https://www.adparlor.com
-
-
-
-
-Adslot
-
-	
-
-https://www.adslot.com
+mktoresp.com
 
 
 
@@ -213,7 +259,7 @@ Akamai
 
 	
 
-https://akamaihd.net
+akamaihd.net
 
 
 
@@ -222,25 +268,25 @@ Amazon Web Services
 
 	
 
-https://www.cloudfront.net
+amazonaws.com
 
 
 
 
-Ancestry
-
-	
-
-https://www.ancestry.com
-
-
-
-
-Autodesk
+Amazon Web Services
 
 	
 
-https://www.autodesk.com
+cloudfront.net
+
+
+
+
+Chili Piper
+
+	
+
+chilipiper.com
 
 
 
@@ -249,88 +295,7 @@ Clarabridge
 
 	
 
-https://www.engagor.com
-
-
-
-
-comScore
-
-	
-
-https://www.comscore.com
-
-
-
-
-Conversant Media
-
-	
-
-https://www.conversantmedia.com
-
-
-
-
-Convertro
-
-	
-
-https://www.convertro.com
-
-
-
-
-DA Consortium
-
-	
-
-https://www.dac.co.jp
-
-
-
-
-Datalicious
-
-	
-
-https://www.datalicious.com
-
-
-
-
-DoubleClick
-
-	
-
-https://www.doubleclickbygoogle.com
-
-
-
-
-Eyereturn Marketing
-
-	
-
-https://www.eyereturnmarketing.com
-
-
-
-
-Flashtalking
-
-	
-
-https://www.flashtalking.com
-
-
-
-
-GfK
-
-	
-
-https://www.gfk.com
+engagor.com
 
 
 
@@ -339,7 +304,7 @@ Giphy
 
 	
 
-https://www.giphy.com
+giphy.com
 
 
 
@@ -348,7 +313,7 @@ Google
 
 	
 
-https://www.google.com/
+doubleclick.net
 
 
 
@@ -357,7 +322,7 @@ Google
 
 	
 
-https://www.doubleclick.net/
+google-analytics.com
 
 
 
@@ -366,7 +331,7 @@ Google
 
 	
 
-https://www.google-analytics.com
+google.com
 
 
 
@@ -375,7 +340,7 @@ Google
 
 	
 
-https://www.googleadservices.com
+googleadservices.com
 
 
 
@@ -384,7 +349,7 @@ Google
 
 	
 
-https://www.googleapis.com
+googleapis.com
 
 
 
@@ -393,7 +358,7 @@ Google
 
 	
 
-https://www.googletagmanager.com
+googletagmanager.com
 
 
 
@@ -402,7 +367,7 @@ Google
 
 	
 
-https://www.gstatic.com
+gstatic.com
 
 
 
@@ -411,7 +376,7 @@ Google
 
 	
 
-https://www.youtube.com
+youtube-nocookie.com
 
 
 
@@ -420,7 +385,16 @@ Google
 
 	
 
-https://www.ytimg.com
+youtube.com
+
+
+
+
+Google
+
+	
+
+ytimg.com
 
 
 
@@ -429,34 +403,7 @@ Hive Streaming
 
 	
 
-https://www.hivestreaming.com
-
-
-
-
-Integral Ad Science
-
-	
-
-https://www.integralads.com/
-
-
-
-
-Intuit
-
-	
-
-https://www.intuit.com
-
-
-
-
-Ipsos
-
-	
-
-https://www.ipsos.com
+hivestreaming.com
 
 
 
@@ -465,25 +412,7 @@ Jio
 
 	
 
-https://www.jio.com
-
-
-
-
-Kantar World Panel
-
-	
-
-https://www.kantarworldpanel.com
-
-
-
-
-Kenshoo
-
-	
-
-https://kenshoo.com
+jio.com
 
 
 
@@ -492,7 +421,7 @@ Linkedin
 
 	
 
-https://www.linkedin.com
+adsymptotic.com
 
 
 
@@ -501,7 +430,7 @@ Linkedin
 
 	
 
-https://www.adsymptotic.com
+licdn.com
 
 
 
@@ -510,7 +439,7 @@ Linkedin
 
 	
 
-https://www.licdn.com
+linkedin.com
 
 
 
@@ -519,16 +448,7 @@ Mapbox
 
 	
 
-https://www.mapbox.com
-
-
-
-
-Markit
-
-	
-
-https://www.markit.com
+mapbox.com
 
 
 
@@ -537,34 +457,25 @@ Maxar
 
 	
 
-https://www.digitalglobe.com
+digitalglobe.com
 
 
 
 
-Meetrics
-
-	
-
-https://www.meetrics.com
-
-
-
-
-Megaphone
+Measurement Lab
 
 	
 
-https://www.megaphone.fm/
+measurement-lab.org
 
 
 
 
-Metrix Lab
+Measurement Lab
 
 	
 
-https://www.metrixlab.com
+measurementlab.net
 
 
 
@@ -573,7 +484,7 @@ Microsoft
 
 	
 
-https://www.bing.com
+bing.com
 
 
 
@@ -582,70 +493,25 @@ Microsoft
 
 	
 
-https://www.virtualearth.net
+office.net
 
 
 
 
-Millward Brown
-
-	
-
-https://www.millwardbrowndigital.com
-
-
-
-
-Mixpanel
+Microsoft
 
 	
 
-https://www.mixpanel.com
+virtualearth.net
 
 
 
 
-Moat
-
-	
-
-https://moat.com/
-
-
-
-
-Nanigans
+OSM
 
 	
 
-https://www.nanigans.com
-
-
-
-
-Neustar
-
-	
-
-https://www.neustar.biz
-
-
-
-
-Next Audience
-
-	
-
-https://next-audience.com
-
-
-
-
-Nielsen
-
-	
-
-https://www.nielsen.com
+openstreetmap.org
 
 
 
@@ -654,34 +520,43 @@ Paypal
 
 	
 
-https://www.paypal.com
+paypal.com
 
 
 
 
-Podsights
-
-	
-
-https://www.pdst.fm
-
-
-
-
-Podtrac
+Pinterest
 
 	
 
-https://analytics.podtrac.com/
+pinterest.com
 
 
 
 
-Rakuten
+Plaid
 
 	
 
-https://marketing.rakuten.com
+plaid.com
+
+
+
+
+Plotly
+
+	
+
+plot.ly
+
+
+
+
+Recruitics
+
+	
+
+recruitics.com
 
 
 
@@ -690,7 +565,7 @@ Reddit
 
 	
 
-https://www.redditstatic.com
+reddit.com
 
 
 
@@ -699,16 +574,7 @@ Reddit
 
 	
 
-https://www.reddit.com
-
-
-
-
-Research Now
-
-	
-
-https://www.researchnow.com
+redditstatic.com
 
 
 
@@ -717,61 +583,7 @@ Salesforce
 
 	
 
-https://www.herokuapp.com
-
-
-
-
-Sapient
-
-	
-
-https://publicis.sapient.com
-
-
-
-
-Shift
-
-	
-
-https://www.shiftcomm.com
-
-
-
-
-Shopify
-
-	
-
-https://www.shopify.com
-
-
-
-
-Sizmek
-
-	
-
-https://www.sizmek.com
-
-
-
-
-Smart Adserver
-
-	
-
-https://smartadserver.com
-
-
-
-
-Spreaker
-
-	
-
-https://www.spreaker.com/
+herokuapp.com
 
 
 
@@ -780,16 +592,7 @@ Stackla
 
 	
 
-https://www.stackla.com
-
-
-
-
-Symphony Advanced Media
-
-	
-
-https://www.symphonyam.com
+stackla.com
 
 
 
@@ -798,7 +601,7 @@ Tealium
 
 	
 
-https://www.tiqcdn.com
+tiqcdn.com
 
 
 
@@ -807,7 +610,7 @@ Tenor
 
 	
 
-https://www.tenor.co
+tenor.co
 
 
 
@@ -816,7 +619,7 @@ Tenor
 
 	
 
-https://www.tenor.com
+tenor.com
 
 
 
@@ -825,34 +628,25 @@ The Trade Desk
 
 	
 
-https://www.thetradedesk.com/
+adsrvr.org
 
 
 
 
-The Trade Desk
-
-	
-
-https://www.adsrvr.org
-
-
-
-
-ThreatMetrix
+Topps Digital Services
 
 	
 
-https://www.threatmetrix.com/
+gmgpulse.com
 
 
 
 
-Trend Research
+Trusty Pay With My Bank
 
 	
 
-https://www.trendresearch.com
+paywithmybank.com
 
 
 
@@ -861,7 +655,7 @@ Twitter
 
 	
 
-https://twitter.com/
+ads-twitter.com
 
 
 
@@ -870,7 +664,7 @@ Twitter
 
 	
 
-https://www.ads-twitter.com
+t.co
 
 
 
@@ -879,7 +673,7 @@ Twitter
 
 	
 
-https://www.twimg.com
+twimg.com
 
 
 
@@ -888,16 +682,25 @@ Twitter
 
 	
 
-https://t.co
+twitter.com
 
 
 
 
-UserReport
+V Rich App
 
 	
 
-https://www.userreport.com
+vrich619.com
+
+
+
+
+Vidyard
+
+	
+
+vidyard.com
 
 
 
@@ -906,43 +709,25 @@ Visa
 
 	
 
-https://www.cardinalcommerce.com
+cardinalcommerce.com
 
 
 
 
-Visual IQ
-
-	
-
-https://www.visualiq.com
-
-
-
-
-Weborama
+Zendesk
 
 	
 
-https://www.weborama.com
+smooch.io
 
 
 
 
-White Ops
-
-	
-
-https://www.whiteops.com/
-
-
-
-
-Xaxis
+Zendesk
 
 	
 
-https://www.xaxis.com
+zendesk.com
 
 Return to top
 How can you control your Information?
