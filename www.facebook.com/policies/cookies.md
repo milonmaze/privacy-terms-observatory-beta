@@ -1,11 +1,13 @@
 Cookies Policy
+We updated our policy on June 16, 2023. View our previous policy.
 What are cookies, and what does this policy cover?
-Effective October 5, 2022 | View printable version | See previous versions
+Effective June 16, 2023 | View printable version | See previous versions
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 We use cookies if you have a Facebook account, use the Meta Products, including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the Privacy Policy will apply to our processing of the data that we collect via cookies.
 Why do we use cookies?
-Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. The cookies we use and how we use them may change over time as we improve and update Meta Products, we typically use them for the following purposes:
+
 Authentication
 Security, site and product integrity
 Advertising, recommendations, insights and measurement
