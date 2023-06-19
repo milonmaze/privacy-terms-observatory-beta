@@ -1,95 +1,119 @@
 Found the internet!
 Trending today
-Black Mirror Season 6
-Black Mirror season six review – prepare to convulse in horror on the sofa
-r/television and more
-Canadian Grand Prix
-What’s the weather forecast for the 2023 Canadian Grand Prix?
-r/GrandPrixRacing and more
-The Ashes first Test
-The Ashes First Test Day Two Highlights
-r/CricketShitpost and more
-U.S. Open
-/u/Spez wants us back open, so we're more than happy to oblige!
-r/bertstrips and more
-Diablo IV
-My Lilith Cosplay (Diablo IV)
-r/diablo4 and more
-U.S. weather warnings
-Severe weather threat grows; smoke to fill the air Father's Day weekend
+Juneteenth
+Juneteenth commemorated in Galveston, Texas, where holiday began
+r/news and more
+Demon Slayer Season 3 Finale
+Demon Slayer Season 3 Review
+r/DemonSlayerAnime and more
+The Ashes: Day Four
+Match Thread: 1st Test - England vs Australia, Day 4
+r/Cricket and more
+Bradley Beal
+[Wojnarowski] BREAKING: The Washington Wizards are finalizing a trade to send All-Star G Bradley Beal to the Phoenix Suns, sources tell ESPN. Beal’s waiving his no-trade to form a new Big 3 with Devin Booker and Kevin Durant. Teams are still working thru framework, but Beal is headed to Suns.
+r/nba and more
+r/SlowNewsDay
+Big news from Durham
+Spain wins Nations League
+Spain Won the UEFA Nations League
+r/spain and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-25.0k
-r/pcmasterrace
+16.5k
+r/AskReddit
 •Posted by
-u/Critical_Plenty_5642
+u/EmmanuelMoyta
 23 hours ago
 Join
-What Were You Playing When Your Setup Was Like This?
-Build/Battlestation
-13.4k Comments
+What's the worst possible reply to "I'm pregnant"?
+16.2k Comments
 Share
 Save
-14.5k
-r/OnePiece
+49.8k
+r/oddlyterrifying
 •Posted by
-u/DemiFiendRSA
+u/i-d-even-k-
+1 day ago
+Join
+A restraining device used to immobilize infants during circumcision
+upload.wikimedia.org/wikipe...
+7.5k Comments
+Share
+Save
+12.1k
+r/LifeProTips
+•Posted by
+u/Important-Disk-256
+17 hours ago
+Join
+LPT Request-What magically improved your life that you wish you had started sooner?
+Productivity
+5.0k Comments
+Share
+Save
+51.5k
+r/politics
+•Posted by
+u/theindependentonline
+13 hours ago
+Voters think Trump is a criminal, Biden is too old and DeSantis is a fascist, new poll finds
+independent.co.uk/news/w...
+Join
+4.4k Comments
+Share
+Save
+29.0k
+r/mildlyinfuriating
+•Posted by
+u/SeniorHumor
 16 hours ago
-2
 Join
-One Piece | Official Teaser Trailer | Netflix
-Live Action
-youtube.com/watch?...
-4.2k Comments
+She called me cheap for suggesting to split the check on our first date
+
+I went to a mall yesterday to buy a pair of sunglasses. I met the sales attendant and asked for a specific pair of sunglasses. She immediately replied that they don't carry them in-store, and I'd have to order them online. She asked if I'm interested in trying any other pairs, and I said okay. We started talking through the process, and we hit it off really quickly and realized we have so much in common. We shared a lot of things, life experiences. I complimented her hair; it was beautiful. She started showing pictures of herself with long hair from her phone, and I did too. I had a ponytail a few months ago. We had a good time and great conversations. I ended up buying the sunglasses and said thanks for the talk and that I like her.
+
+She asked what I'm doing later and if I wanted to hang out after her work. She said she'd love to continue our conversations. We exchanged Instagram IDs and added each other. We continued our conversations later that night until around 3 am.
+
+Today I asked her if she wanted to get some coffee sometime in the evening. She said okay, and I asked her to pick a place where she feels comfortable. She replied that she would text me the place and time. Around 5 pm, she texted me the address of a fancy seafood place. I reminded her that we were only planning a coffee date. She said she wants to go to this restaurant, and we could have a peaceful time talking there. I jokingly said, "Well, we're gonna have to split the bill." She didn't respond for some time. Then she said, and I quote, "If you can afford those sunglasses, you sure can afford to pay a fancy bill." I responded that I can pay the bill, but I won't because we're just getting to know each other, and that's why I suggested a coffee date.
+
+She called me cheap for not choosing to take a beautiful woman to a fancy restaurant, and I'm on the losing side.
+
+I just said it was nice knowing her.
+
+Update:
+
+Thank you to everyone for assuring me that I made a good decision. And to those who are calling me cheap in my DMs, I don't consider myself a cheap person. I would have happily paid for the coffee I suggested. My idea was for us to get to know each other better over a coffee, and if things went well, I had no issues with treating her to a nice date. I think I'm old-fashioned because when she called me cheap, I didn't feel good about it.
+
+Today, I actually made a reservation at the same seafood place she wanted to go to, but the reservation is only for myself. I didn't invite her. I went there, had a nice dinner, took a photo, and posted it on my Instagram story. She is still added to my Instagram, and she saw it. I feel bad for doing this, but I wanted to show that I'm not cheap. It's just me.
+
+Thanks.
+
+4.3k Comments
 Share
 Save
-31.5k
-r/Justrolledintotheshop
+15.0k
+r/nba
 •Posted by
-u/Due-Cheesecake9086
-23 hours ago
+u/Michael_B_Lopez
+18 hours ago
 Join
-There’s no way wearing your seat belt is bad enough to actually have to buy one of these
+[Wojnarowski] BREAKING: The Washington Wizards are finalizing a trade to send All-Star G Bradley Beal to the Phoenix Suns, sources tell ESPN. Beal’s waiving his no-trade to form a new Big 3 with Devin Booker and Kevin Durant. Teams are still working thru framework, but Beal is headed to Suns.
+News
+twitter.com/wojesp...
 4.1k Comments
 Share
 Save
-8.4k
-r/AmItheAsshole
+11.8k
+r/shittytattoos
 •Posted by
-u/Majestic_Mushroom233
-15 hours ago
+u/katerrin
+20 hours ago
 Join
-AITA for grounding my son after he told his sister he doesn't love her during family therapy?
-
-My ex-wife and I have two children together, our 14 year old daughter and 16 year old son. About nine months ago, my wife decided she never wanted to be a mother, divorced me, and basically signed away her rights to the kids, we get child support and that's it. Obviously this has been extremely hard on them, and I have them in bothqq individual and family therapy to try and help them worth through this.
-
-The issue is my son blames his sister. She's sometimes you're typical moody teen, even though she's really a wonderful kid. Her and her mother had been fighting a lot before she left, and my son thinks despite me and two therapists telling him otherwise that she's responsible for it. They've been fighting constantly, destroying eachothers stuff and constantly screaming at eachother. They've probably spent 3/4ths of the past nine months grounded for this.
-
-Family therapy hasn't been going well because of this. My son refuses to engage when it comes to his sister, and won't hear any talk that this isn't her fault. Things finally blew up two weeks ago, when the family therapist was at least trying to bring him down from fighting with her. The therapist basically said something like "I know you still love your sister-" and my son cut him off and said "No I don't, I'd still have a mother if it wasn't for her." While looking right at her.
-
-The session was more or less over after that, none of us knew what to say and my daughter looked so broken. When we left I told my son he's grounded full stop until the new school year starts, no phone, no friends, nothing. Things have been even worse at home, he won't even acknowledge she exists, and will leave the room if she enters. My own therapist said this was a mistake to punish him for speaking his mind, but I don't think he should be allowed to be so hurtful
-
-3.9k Comments
-Share
-Save
-20.7k
-r/antiwork
-•Posted by
-u/iEugene72
-22 hours ago
-Join
-My father finally said, "you're dead to me, you lazy piece of shit"
-
-Context - My father is a die hard conservative, born in 1952 and comes with all of said baggage. He and I have been back and forth regarding too many things to count. I'm trying to be genuine here, but at the same time honest, he is racist, sexist, homophobic, transphobic and overall xenophobic... He is also extremely work obsessed, I chalk that up to him failing jr high in the 70's and going straight into the work force so that's literally the only thing he knows.
-
-I am extremely fortunate to work for company I like. This being said the company provides time off. As of the time of this posting, Saturday, I have a three day weekend in observation of Juneteenth. I was texting my mother of this (that I'd be available to do dog-sitting on Monday) and received a separate text from my father of, "you're dead to me, you lazy piece of shit" ---- He then went on to explain in horribly written text of how everyone today is entitled and wants days off and does not understand a, "hard day's work" as he puts it.
-
-What bothers me more is that this type of behaviour is still prevalent and people still find the need to destroy themselves at their job, only to come home to sleep and recharge as the only reason you go back to work.
-
-3.5k Comments
+how bad is this? paid $1000 for straight lines but they look crooked
+4.1k Comments
 Share
 Save
 Advertisement
