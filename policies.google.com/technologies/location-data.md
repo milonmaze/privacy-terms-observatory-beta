@@ -26,7 +26,7 @@ Web & App Activity, for example, is a Google account setting that lets people sa
 
 To show more relevant ads
 
-Your location information can help Google show you more relevant ads. When you search for something like “plumber near me,” location information can be used to show you ads from plumbing businesses near you. Or, let’s say you’re searching for pet insurance, advertisers might show different benefits in different areas. Learn more about how location information is used to show ads.
+Your location information can help Google show you more relevant ads. When you search for something like “shoe stores near me,” location information can be used to show you ads from shoe stores near you. Or, let’s say you’re searching for pet insurance, advertisers might show different benefits in different areas. Learn more about how location information is used to show ads.
 
 To make experiences more secure
 
