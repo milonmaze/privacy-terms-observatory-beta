@@ -1,119 +1,126 @@
 Found the internet!
 Trending today
-Juneteenth
-Juneteenth commemorated in Galveston, Texas, where holiday began
+Titanic sub search continues
+Missing Titanic Sub Once Faced Massive Lawsuit Over Depths It Could Safely Travel To
+r/worldnews and more
+Nintendo Direct
+Tune in on June 21 at 7:00 a.m. PT for a #NintendoDirect livestream featuring roughly 40 minutes of information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.
+r/NintendoSwitch and more
+Summer solstice
+Thousands welcome summer solstice at Stonehenge
+r/unitedkingdom and more
+No Hard Feelings premiere
+Jennifer Lawrence on No Hard Feelings: 'It really is hard to make a comedy where you're not offending people'
+r/entertainment and more
+Cristiano Ronaldo
+Cristiano Ronaldo becomes the first man in history to reach the milestone of 200 international caps. 🧢🇵🇹
+r/football and more
+Andrew Tate charges
+Andrew Tate charged with rape and human trafficking
 r/news and more
-Demon Slayer Season 3 Finale
-Demon Slayer Season 3 Review
-r/DemonSlayerAnime and more
-The Ashes: Day Four
-Match Thread: 1st Test - England vs Australia, Day 4
-r/Cricket and more
-Bradley Beal
-[Wojnarowski] BREAKING: The Washington Wizards are finalizing a trade to send All-Star G Bradley Beal to the Phoenix Suns, sources tell ESPN. Beal’s waiving his no-trade to form a new Big 3 with Devin Booker and Kevin Durant. Teams are still working thru framework, but Beal is headed to Suns.
-r/nba and more
-r/SlowNewsDay
-Big news from Durham
-Spain wins Nations League
-Spain Won the UEFA Nations League
-r/spain and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-16.5k
-r/AskReddit
+25.4k
+r/worldnews
 •Posted by
-u/EmmanuelMoyta
-23 hours ago
+u/ganndalf
+13 hours ago
+Banging sounds heard near location of missing Titan submersible
+rollingstone.com/cultur...
 Join
-What's the worst possible reply to "I'm pregnant"?
-16.2k Comments
+7.2k Comments
 Share
 Save
-49.8k
-r/oddlyterrifying
+83.8k
+r/facepalm
 •Posted by
-u/i-d-even-k-
+u/VivianManning
 1 day ago
 Join
-A restraining device used to immobilize infants during circumcision
-upload.wikimedia.org/wikipe...
-7.5k Comments
+Why does a 13 and 14 year old has a gun?
+ 🇲​🇮​🇸​🇨​
+6.4k Comments
 Share
 Save
-12.1k
-r/LifeProTips
+57.4k
+r/technology
 •Posted by
-u/Important-Disk-256
-17 hours ago
-Join
-LPT Request-What magically improved your life that you wish you had started sooner?
-Productivity
-5.0k Comments
-Share
-Save
-51.5k
-r/politics
-•Posted by
-u/theindependentonline
+u/return2ozma
 13 hours ago
-Voters think Trump is a criminal, Biden is too old and DeSantis is a fascist, new poll finds
-independent.co.uk/news/w...
+2
+& 6 More
+Reddit starts removing moderators who changed subreddits to NSFW, behind the latest protests
+Social Media
+theverge.com/2023/6...
 Join
-4.4k Comments
+6.3k Comments
 Share
 Save
-29.0k
-r/mildlyinfuriating
+30.8k
+r/AskReddit
 •Posted by
-u/SeniorHumor
-16 hours ago
+u/hurricanehershel
+23 hours ago
+2
 Join
-She called me cheap for suggesting to split the check on our first date
+Parents who tried their best to raise their kids to be good humans but they turned out to be jerks, what do you wish you did differently?
+5.3k Comments
+Share
+Save
+3.6k
+r/AmItheAsshole
+•Posted by
+u/decordilemma
+7 hours ago
+Join
+AITA for telling my girlfriend her home decor is the reason I won’t host a work gathering at her place.
 
-I went to a mall yesterday to buy a pair of sunglasses. I met the sales attendant and asked for a specific pair of sunglasses. She immediately replied that they don't carry them in-store, and I'd have to order them online. She asked if I'm interested in trying any other pairs, and I said okay. We started talking through the process, and we hit it off really quickly and realized we have so much in common. We shared a lot of things, life experiences. I complimented her hair; it was beautiful. She started showing pictures of herself with long hair from her phone, and I did too. I had a ponytail a few months ago. We had a good time and great conversations. I ended up buying the sunglasses and said thanks for the talk and that I like her.
+I’ve (M32) been with my girlfriend (F29) for over a year now. She’s smart, funny, a bit quirky, and has a serious job with a good salary. We have a great time together and generally get along very well. The only thing is her choice in home ‘decor’ is bizarre, to put it frankly, and not something you think a normal, grown adult would be into.
 
-She asked what I'm doing later and if I wanted to hang out after her work. She said she'd love to continue our conversations. We exchanged Instagram IDs and added each other. We continued our conversations later that night until around 3 am.
+Her apartment is definitely a reflection of herself and interests. Not in the best way though.
 
-Today I asked her if she wanted to get some coffee sometime in the evening. She said okay, and I asked her to pick a place where she feels comfortable. She replied that she would text me the place and time. Around 5 pm, she texted me the address of a fancy seafood place. I reminded her that we were only planning a coffee date. She said she wants to go to this restaurant, and we could have a peaceful time talking there. I jokingly said, "Well, we're gonna have to split the bill." She didn't respond for some time. Then she said, and I quote, "If you can afford those sunglasses, you sure can afford to pay a fancy bill." I responded that I can pay the bill, but I won't because we're just getting to know each other, and that's why I suggested a coffee date.
+My girlfriend has wall dedicated to animation in one room of her apartment, like Futurama pieces and etchings of some weird triangle guy. Then there’s the wall of framed preserved insects in another room. But not insects like butterflies or moths. Instead she displays tarantulas, beetles, and large stick insects. Her bathroom has a subtle theme of the ocean-pretty common. But instead of starfish or shells, she has a little anglerfish nightlight, a small vampiric squid painting, and then a framed diagram of what apparently is a Goblin Shark right by the toilet.
 
-She called me cheap for not choosing to take a beautiful woman to a fancy restaurant, and I'm on the losing side.
+I would say a majority of her home decor and furnishings are okay. The apartment itself is very modern and sleek. It’s just the random decor and juvenile-ish themes like cartoons, insects, and bizarre ocean creatures, is off putting.
 
-I just said it was nice knowing her.
+This is where I might be the AH. I avoid bringing people over to her place, especially people from my job, because of how juvenile it looks. Everyone’s impressed when they see the high rise, but that quickly fades once you enter. The one time I brought a work colleague over they ended up telling me after that they found her insect wall terrifying. I work in finance and appearances and first impressions are important.
 
-Update:
+My office will hold casual gatherings where we get together for a few drinks, good food, and we rotate hosts. And this time, it’s my turn. The problem is my place is under some construction and not an ideal place to be right now, so I’ve been staying with my girlfriend. My girlfriend suggested that we host my colleagues here since she has the space and thinks it’ll be fun. I told her I planned on skipping my rotation and seeing if the next person would be okay with hosting early. She kept pressing on why I didn’t want them over here, so I finally said it’s because her home decor is strange and not something a grown woman would have, and also that her insect wall horrified the one colleague that did come over.
 
-Thank you to everyone for assuring me that I made a good decision. And to those who are calling me cheap in my DMs, I don't consider myself a cheap person. I would have happily paid for the coffee I suggested. My idea was for us to get to know each other better over a coffee, and if things went well, I had no issues with treating her to a nice date. I think I'm old-fashioned because when she called me cheap, I didn't feel good about it.
+My girlfriend got mad and said at the end of the day, it’s not my space and these things bring her joy. She also said that she is indeed an adult woman, which is exactly why her apartment is decorated in such a manner.
 
-Today, I actually made a reservation at the same seafood place she wanted to go to, but the reservation is only for myself. I didn't invite her. I went there, had a nice dinner, took a photo, and posted it on my Instagram story. She is still added to my Instagram, and she saw it. I feel bad for doing this, but I wanted to show that I'm not cheap. It's just me.
+I love my girlfriend, I do. And it’s okay to have different interests. But does an adult really need to decorate with them besides a few things here and there? I mean, my own mother asked if my girlfriend was autistic after she saw the entire apartment for the first time.
 
-Thanks.
+So Reddit, AITA for telling my girlfriend her home decor is the reason I won’t host a work gathering at her place?
 
 4.3k Comments
 Share
 Save
-15.0k
-r/nba
+28.3k
+r/Political_Revolution
 •Posted by
-u/Michael_B_Lopez
-18 hours ago
+u/CFJ561
+22 hours ago
+3
+2
+& 8 More
 Join
-[Wojnarowski] BREAKING: The Washington Wizards are finalizing a trade to send All-Star G Bradley Beal to the Phoenix Suns, sources tell ESPN. Beal’s waiving his no-trade to form a new Big 3 with Devin Booker and Kevin Durant. Teams are still working thru framework, but Beal is headed to Suns.
-News
-twitter.com/wojesp...
-4.1k Comments
+This man explains his reaction and tactics to confronting a Nazi
+Video 
+3.5k Comments
 Share
 Save
-11.8k
-r/shittytattoos
+15.3k
+r/mildlyinfuriating
 •Posted by
-u/katerrin
-20 hours ago
+u/sailorjameson
+16 hours ago
 Join
-how bad is this? paid $1000 for straight lines but they look crooked
-4.1k Comments
+Are low-key dates not a thing anymore?
+3.3k Comments
 Share
 Save
 Advertisement
