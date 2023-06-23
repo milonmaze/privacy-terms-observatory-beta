@@ -63,5 +63,5 @@ Company
 Privacy Policy
 Terms of Use
 Report Security Issues
-Do Not Sell or Share My Personal Information
+Your Privacy Choices
 Trademark
