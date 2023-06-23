@@ -1,5 +1,5 @@
 About Transparency Reporting
-January 1, 2022 - June 30, 2022
+July 1, 2022 - December 31, 2022
 Throughout this Transparency Report, we highlight how we enforce safety and privacy across our platform. Beyond simply reporting our data, here we provide additional context and insight into our safety principles, policies, and practices, as well as links to various safety and privacy resources.
 History of Snap’s Transparency Reporting
 Since 2015, we have produced Transparency Reports that provide important insight into the volume and nature of government requests for Snapchatters' account information and other legal notifications.
@@ -7,12 +7,16 @@ Since November 15, 2015, our policy has been to notify Snapchatters when we rece
 In 2020, we enhanced our Transparency Report to provide insights into the volume and nature of accounts reported on Snapchat for violations of our Terms of Service or Community Guidelines. We also included country-level breakdowns, available for all countries in a downloadable CSV. In 2021, we expanded our categories to include false information, trademark notices and Violative View Rate.
 Additional Safety and Privacy Resources
 Snap is committed to developing an ecosystem of safety within our platform. Here are some additional resources that explain and inform our policies, actions, and perspectives on safety and transparency.  
+Snap’s Transparency Report Explainer Guide
+Transparency reports include a lot of information that can sometimes be challenging for parents, caregivers and other stakeholders who care deeply about the safety of our community to fully understand. This explainer guide is designed to help you better understand our latest report and to help you easily compare what’s new this year.
 Safety Center
-Given that Snap is a platform for 13+ users, we believe it is imperative to inform and engage all users on how to keep the platform safe. With numerous resources, such as our Parent Guide and Community Guidelines, we aim to equip users and their parents with the tools they need to communicate and understand how to be safe on Snapchat.
+Snapchat is a platform for teens aged 13 and over, and we want to help both users and their parents understand how to use our app safely and critical protections they should be aware of. Our Safety Hub includes insights into our safety policies, a list of safety resources, guidance on how to report concerns on Snapchat, and resources for parents and caregivers. Additionally, it includes information about the Snapchat Family Center, our system of parental controls. 
 Community Guidelines
 Our Community Guidelines form the foundation of our safety principles and are intended to inform users about responsible use of Snapchat. We routinely assess our Guidelines   as just one way of actively working to help keep Snapchat safe.
 In-App Reporting 
 While safety teams and advanced AI operate 24/7 to help keep Snapchat safe, we also rely on our users to report concerns. To do so, we offer tools both in-app and online to report content and individuals that violate our policies.  
+Family Center
+Family Center is our in-app parental control tool, which helps parents get more insight into who their teens are friends with on Snapchat, and who they have been communicating with, without revealing any of the substance of those conversations.
 Here for You
 The well-being and safety of our users are paramount to us at Snap. To provide engaging and high-touch resources for our users, we have developed in-app tools like Here for You, which provides proactive in-app support to Snapchatters who may be experiencing a mental health or emotional crisis. 
 Privacy Center
