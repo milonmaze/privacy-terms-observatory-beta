@@ -1,51 +1,56 @@
 Transparency Report
-January 1, 2022 – June 30, 2022
+July 1, 2022 – December 31, 2022
 Released:
-November 29, 2022
+June 20, 2023
 Updated:
-November 29, 2022
-To provide insight into Snap’s safety efforts and the nature and volume of content reported on our platform, we publish transparency reports twice a year. We are committed to continuing to make these reports more comprehensive and informative to the many stakeholders who care deeply about our content moderation and law enforcement practices, and the well-being of our community. 
-This report covers the first half of 2022 (January 1 - June 30). As with our previous reports, we share data about the global number of in-app content and account-level reports we received and enforced against across specific categories of violations; how we responded to requests from law enforcement and governments; and our enforcement actions broken down by country. It also captures recent additions to this report, including the Violative View Rate of Snapchat content, potential trademark violations, and incidences of false information on the platform.
+June 20, 2023
+To provide insight into Snap’s safety efforts and the nature and volume of content reported on our platform, we publish transparency reports twice a year. We are committed to continuing to make these reports more comprehensive and informative to the many stakeholders who care deeply about our content moderation and law enforcement practices, as well as the  well-being of our community. 
+This report covers the second half of 2022 (July 1 - December 31). As with our previous reports, we share data about the global number of in-app content and account-level reports we received and enforced against across specific categories of policy violations; how we responded to requests from law enforcement and governments; and our enforcement actions broken down by country. It also captures recent additions to this report, including the Violative View Rate of Snapchat content, potential trademark violations, and incidences of false information on the platform.
 
-As part of our ongoing commitment toward improving our transparency reports, we are introducing several new elements to this report. For this installment and going forward, we are adding a glossary of the terms used throughout the report. Our goal is to provide increased transparency around such terms, clearly denoting what forms of violating content are included and enforced against under each category. For the first time, we are also introducing false information as a stand-alone category at the country level, building on our previous practice of reporting false information globally. 
-Additionally, we are providing increased insight into our efforts to combat Child Sexual Exploitation and Abuse Imagery (CSEAI). Moving forward, we will be sharing insight on total CSEAI content that we enforced against by removing, as well as the total number of CSEAI reports* (i.e., “CyberTips”) that we made to the U.S. National Center for Missing and Exploited Children (NCMEC). 
+As part of our ongoing commitment to continually improve our transparency reports, we are introducing a few new elements with this release. We have added a section labeled “Analysis of Content and Account Violations” wherein we assess major data changes relative to our previous reporting period. 
+In addition, we have updated how we present data in our content and account violations tables, both on the landing page and our country sub-pages. Previously, we ordered violations from most to least content enforcements. To improve consistency, our ordering now mirrors our Community Guidelines. This came at the suggestion of Snap’s Safety Advisory Board, which independently educates, challenges, raises issues to, and advises Snap on how to help keep the Snapchat community safe.
+Finally, we have updated our Glossary with links to our Community Guidelines Explainers, which provide additional context around our platform policy and operational efforts. 
 For more information about our policies for combating online harms, and plans to continue evolving our reporting practices, please read our recent Safety & Impact blog about this transparency report. 
 To find additional resources for safety and privacy on Snapchat, see our About Transparency Reporting tab at the bottom of the page.
 Overview of Content and Account Violations
-From January 1 - June 30, 2022, we enforced against 5,688,970 pieces of content globally that violated our policies. Enforcement actions include removing the offending content or terminating the account in question. 
-During the reporting period, we saw a Violative View Rate (VVR) of 0.04 percent, which means that out of every 10,000 Snap and Story views on Snapchat, 4 contained content that violated our policies. 
+From July 1 - December, 2022, Snap enforced against 6,360,594 pieces of content globally that violated our policies. 
+During the reporting period, we saw a Violative View Rate (VVR) of 0.03 percent, which means that out of every 10,000 Snap and Story views on Snapchat, 3 contained content that violated our policies.
 Total Content & Account Reports	Total Content Enforced	Total Unique Accounts Enforced
-12,942,979	5,688,970	2,860,412
+17,821,535	6,360,594	3,629,674
 Reason	Content & Account Reports	Content Enforced	% of Total Content Enforced	Unique Accounts Enforced	Turnaround Time (in median minutes)
-Sexually Explicit Content	6,853,643	4,355,143	76.6%	1,972,482	<1
-Harassment and Bullying	1,068,592	360,714	6.3%	310,762	6
-Spam	692,242	348,790	6.1%	289,511	3
-Drugs	775,145	270,810	4.8%	200,022	6
-Threats & Violence	547,914	150,199	2.6%	113,887	7
-Other Regulated Goods	79,139	71,757	1.3%	53,927	9
-Hate Speech	178,170	62,069	1.1%	52,849	8
-Weapons	73,139	27,722	0.5%	23,181	6
-Self-harm & Suicide	141,116	18,800	0.3%	16,987	7
-Impersonation	2,120,045	18,089	0.3%	16,344	<1
-False Information	413,834	4,877	0.1%	3,371	9
-Expanded Violations
+Sexual Content	7,537,979	4,328,702	67.9%	2,377,013	6
+Harassment and Bullying	4,246,917	660,317	10.4%	571,126	6
+Threats & Violence	753,467	167,811	2.6%	132,915	24
+Self-Harm & Suicide	129,785	20,054	0.3%	18,311	24
+False Information*	341,186	1,065	0.1%	812	18
+Impersonation	2,523,292	14,431	0.2%	13,927	4
+Spam	1,163,383	657,077	10.3%	523,730	4
+Drugs	654,715	293,018	4.6%	202,098	25
+Weapons	93,738	33,935	0.5%	26,347	20
+Other Regulated Goods	164,527	133,177	2.1%	97,621	26
+Hate Speech	212,546	51,007	0.8%	43,496	30
+*Correctly and consistently enforcing against false information is a dynamic process that requires up-to-date context and diligence.  As we strive to continually improve the precision of our agents’ enforcement in this category, we have chosen, since H1 2022, to report figures in the "Content Enforced" and "Unique Accounts Enforced" categories that are estimated based on a rigorous quality-assurance review of a statistically significant portion of false information enforcements.  Specifically, we sample a statistically significant portion of false information enforcements across each country and quality-check the enforcement decisions.  We then use those quality-checked enforcements to derive enforcement rates with a 95% confidence interval (+/- 5% margin of error), which we use to calculate the false information enforcements reported in the Transparency Report.  
+Analysis of Content and Account Violations
+We saw a 38% increase in total content and account reports this cycle, which can be attributed to an update in our in-app reporting menu for accounts, which, in turn, provided Snapchatters with more options for reporting. Consequently, we saw a 12% increase in total content enforced, and a 40% increase in total unique accounts enforced. In particular, Snapchatters reported more content and accounts in the Harassment & Bullying and Other Regulated Goods categories, which saw ~300% and ~100% increases in reports, respectively, and ~83% and ~86% increases in content enforcements, respectively. We also recognized ~68% increase reports and ~88% increase in content enforcements for Spam. 
+Additionally, the greater number of content and account reports resulted in increases in turnaround times for enforcing on content and accounts. The median turnaround time for all content and accounts still remains under 1 hour for all categories.    
+Overall, while we saw general increases across the board, we believe it is important to continue to improve the tools our community use to actively and accurately report violations as they appear on the platform
 Combating Child Sexual Exploitation & Abuse
-The sexual exploitation of any member of our community, especially minors, is illegal, abhorrent, and prohibited by our Community Guidelines. Preventing, detecting, and eradicating Child Sexual Exploitation and Abuse Imagery (CSEAI) on our platform is a top priority for us, and we continuously evolve our capabilities to combat these and other types of crimes.
-Our Trust and Safety teams use active technology detection tools, such as PhotoDNA robust hash-matching and Google’s Child Sexual Abuse Imagery (CSAI) Match to identify known illegal images and videos of child sexual abuse, respectively, and report them to the U.S. National Center for Missing and Exploited Children (NCMEC), as required by law. NCMEC then, in turn, coordinates with domestic or international law enforcement, as required.
-In the first half of 2022, we proactively detected and actioned 94 percent of the total child sexual exploitation and abuse violations reported here — a 6 percent increase since our prior report.
+The sexual exploitation of any member of our community, especially minors, is illegal, abhorrent, and prohibited by our Community Guidelines. Preventing, detecting, and eradicating Child Sexual Exploitation and Abuse Imagery (CSEAI) on our platform is a top priority for Snap, and we continually evolve our capabilities to combat these and other crimes.
+Our Trust & Safety team uses active technology detection tools, such as PhotoDNA robust hash-matching and Google’s Child Sexual Abuse Imagery (CSAI) Match to identify known illegal images and videos of child sexual abuse, respectively, and report them to the U.S. National Center for Missing and Exploited Children (NCMEC), as required by law. NCMEC then, in turn, coordinates with domestic or international law enforcement, as required.
+In the second half of 2022, we proactively detected and actioned 94 percent of the total child sexual exploitation and abuse violations reported here.
 	Total Content Enforced	Total Account Deletions	Total Submissions to NCMEC*
-CSEAI	746,051	201,527	285,470
-*Note that each submission to NCMEC can contain multiple pieces of content. The total individual pieces of media submitted to NCMEC is equal to our total content enforced.
+CSEAI	527,787	204,490	265,285
+**Note that each submission to NCMEC can contain multiple pieces of content. The total individual pieces of media submitted to NCMEC is equal to our total content enforced.
 Terrorist and Violent Extremist Content
-During the reporting period, we removed 73 accounts for violations of our policy prohibiting terrorist and violent extremist content.
-At Snap, we remove terrorist and violent extremism content reported through multiple channels. These include encouraging users to report terrorist and violent extremist content through our in-app reporting menu, and we work closely with law enforcement to address terrorism and violent extremism content that may appear on Snap.
+During the reporting period, we removed 132 accounts for violations of our policy prohibiting terrorist and violent extremist content.
+At Snap, we remove terrorist and violent extremism content reported through multiple channels. These include encouraging users to report terrorist and violent extremist content through our in-app reporting menu, and we work closely with law enforcement to address terrorist and violent extremist content that may appear on Snap.
 Total Account Deletions
 73
 Self-harm and Suicide Content
-We care deeply about the mental health and well-being of Snapchatters, which has – and continues to – inform our decisions to build Snapchat differently. As a platform designed for communications between real friends, we believe Snapchat can play a unique role in empowering friends to help each other through difficult moments.
-When our Trust & Safety team recognises a Snapchatter in distress, they can forward self-harm prevention and support resources, and notify emergency response personnel where appropriate. The resources we share are available on our global list of safety resources, and these are publicly available to all Snapchatters.
+We care deeply about the mental health and well-being of Snapchatters, which has informed – and continues to inform – our decisions to build Snapchat differently. As a platform designed for communications between real friends, we believe Snapchat can play a unique role in empowering friends to help each other through difficult times.
+When our Trust & Safety team recognizes a Snapchatter in distress, they can forward self-harm prevention and support resources, and notify emergency response personnel when appropriate. The resources that we share are available on our global list of safety resources, and these are publicly available to all Snapchatters.
 Total Times Suicide Resources Shared
-18,801
+22,474
 Country Overview
 This section provides an overview of the enforcement of our Community Guidelines in a sampling of geographic regions. Our Guidelines apply to all content on Snapchat—and all Snapchatters—across the globe, regardless of location.
 Information for individual countries is available for download via the attached CSV file:
@@ -53,10 +58,10 @@ Information for individual countries is available for download via the attached 
 Download CSV
 
 Region	Content & Account Reports	Content Enforced	Unique Accounts Enforced
-North America	4,935,654	2,415,240	1,365,097
-Europe	3,083,479	1,278,860	658,056
-Rest of World	4,923,846	1,994,870	871,752
-Total	12,942,979	5,688,970	2,894,905
+North America	6,005,795	2,721,994	1,523,325
+Europe	3,859,365	1,218,221	745,452
+Rest of World	7,956,375	2,420,379	1,419,626
+Total	17,821,535	6,360,594	3,629,674
 
 Australia
 
