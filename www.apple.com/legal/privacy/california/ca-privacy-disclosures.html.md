@@ -32,9 +32,10 @@ Apple ID & Privacy
 Apple Messages for Business & Privacy
 Apple Music & Privacy
 Apple Music Friends & Privacy
+Apple News & Privacy
 Apple News Newsletters & Privacy
-Apple Pay & Privacy
 Apple Pay Later & Privacy
+Apple Pay & Privacy
 Apple Podcasts & Privacy
 Apple Store App & Privacy
 Apple Support App & Privacy
@@ -58,6 +59,7 @@ Maps Report an Issue & Privacy
 Messages & Privacy
 Ratings & Photos & Privacy
 Safari & Privacy
+Savings & Privacy
 Shazam & Privacy
 Sign in with Apple & Privacy
 Stocks & Privacy
@@ -65,5 +67,3 @@ TestFlight & Privacy
 TV Provider & Privacy
 Wallet & Privacy
 Wi-Fi Calling & Privacy
-
-Updated December 22, 2022
