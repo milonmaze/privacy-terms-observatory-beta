@@ -63,7 +63,7 @@ Your activity while using the core services, which includes things like viewing 
 
 Your settings, apps, browsers & devices. We collect info about your settings and the apps, browsers, and devices you use to access our services. This information includes browser and device type, settings configuration, unique identifiers, operating system, mobile network information, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date and time of your request.
 
-Your location information. We collect info about your location as determined by various technologies such as IP address and GPS.
+Your location information. We collect info about your location as determined by various technologies such as IP address.
 
 Your direct communications. We keep records of communications when you or your admin provide feedback, ask questions, or seek technical support.
 
