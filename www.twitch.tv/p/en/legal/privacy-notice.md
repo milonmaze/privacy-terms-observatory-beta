@@ -32,10 +32,10 @@ Security
 Help
 Jobs
 Languages
-Last modified on 02/02/2023
+Last modified on 06/30/2023
 Twitch.tv Privacy Notice
 
-Last updated: February 2, 2023. To see prior versions, click here.
+Last updated: June 30, 2023. To see prior versions, click here.
 
 Twitch Interactive Inc. and its affiliates are subsidiaries of Amazon.com, Inc. (“Amazon”).
 
