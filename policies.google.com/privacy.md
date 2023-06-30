@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective December 15, 2022 | Archived versions | Download PDF
+Effective July 1, 2023 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -118,7 +118,7 @@ Provide personalized services, including content and ads
 
 We use the information we collect to customize our services for you, including providing recommendations, personalized content, and customized search results. For example, Security Checkup provides security tips adapted to how you use Google products. And Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
 
-Depending on your settings, we may also show you personalized ads based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.
+Depending on your settings, we may also show you personalized ads based on your interests. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.
 
 We don’t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
 We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
@@ -334,24 +334,24 @@ When we receive formal written complaints, we respond by contacting the person w
 
 U.S. state law requirements
 
-Some U.S. state privacy laws like the California Consumer Privacy Act (CCPA) and Virginia Consumer Data Protection Act (VCDPA) require specific disclosures for state residents.
+Some U.S. state privacy laws require specific disclosures.
 
 This Privacy Policy is designed to help you understand how Google handles your information:
 
 We explain the categories of information Google collects and the sources of that information in Information Google collects.
-We explain how Google uses information in Why Google collects data.
-We explain when Google may disclose information in Sharing your information. Google does not sell your personal information. Google also does not “share” your personal information as that term is defined in the CCPA.
+We explain the purposes for which Google collects and uses information in Why Google collects data.
+We explain when Google may disclose information in Sharing your information. Google does not sell your personal information. Google also does not “share” your personal information as that term is defined in the California Consumer Privacy Act (CCPA).
 We explain how Google retains information in Retaining your information. You can also learn more about how Google anonymizes data. As described there, when Google anonymizes data to protect your privacy, we maintain policies and technical measures to avoid re-identifying that information.
 
-State laws like the CCPA and VCDPA also provide the right to request information about how Google collects, uses, and discloses your information. And they give you the right to access and correct your information, and to request that Google delete that information. The VCDPA also provides the right to opt out of certain forms of profiling and targeted advertising. Finally, the CCPA and VCDPA provide the right to not be discriminated against for exercising these privacy rights.
+U.S. state privacy laws also provide the right to request information about how Google collects, uses, and discloses your information. And they give you the right to access your information, sometimes in a portable format; correct your information; and to request that Google delete that information. Many of these laws also provide the right to opt out of certain forms of profiling and targeted advertising. They also provide the right to not be discriminated against for exercising these privacy rights. Finally, the CCPA treats certain kinds of information, like health data, as sensitive; when users provide this information, Google only uses it for purposes permitted by the CCPA, like to provide services that are requested and expected by our users.
 
 We describe the choices you have to manage your privacy and data across Google’s services in Your privacy controls. These tools allow you to access, review, update and delete your information, as well as export and download a copy of it. You can also control what information we use to show you ads, or turn off personalized ads, by visiting My Ad Center.
 
-When you use these tools, we’ll validate your request by verifying that you’re signed in to your Google Account. If you have questions or requests related to your rights under the CCPA or VCDPA, you (or your authorized agent) can also contact Google. And if you disagree with the decision on your request, you can ask Google to reconsider it by responding to the team’s email.
+When you use these tools, we’ll validate your request by verifying that you’re signed in to your Google Account. If you have questions or requests related to your rights under U.S. state privacy laws, you (or your authorized agent) can also contact Google. And if you disagree with the decision on your request, you can ask Google to reconsider it by responding to our email.
 
-You can find more information on Google’s handling of CCPA requests.
+We also provide more information on Google’s handling of CCPA requests.
 
-The CCPA also requires a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy.
+Some U.S. state privacy laws also require a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy.
 
 Categories of information we collect
 
@@ -387,7 +387,7 @@ Auditing and measurement: Google uses information for analytics and measurement 
 
 Maintaining our services: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.
 
-Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s language models and build features like Google Translate.
+Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Bard, and Cloud AI capabilities.
 
 Use of service providers: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support.
 
@@ -401,7 +401,7 @@ Other people with whom you choose to share your information, like docs or photos
 
 Third parties with your consent, such as services that integrate with Google’s services. You can review and manage third party apps and sites with access to data in your Google Account.
 
-Service providers, trusted businesses or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+Service providers, trusted businesses, or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
 
 Domain administrators, if you work or study at an organization that uses Google services.
 
