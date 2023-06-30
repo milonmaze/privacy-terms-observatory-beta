@@ -20,11 +20,11 @@ We’ll keep this data in your Google Account until you choose to remove it. And
 
 Data that expires after a specific period of time
 
-In some cases, rather than provide a way to delete data, we store it for a predetermined period of time. For each type of data, we set retention timeframes based on the reason for its collection. For example, to ensure that our services display properly on many different types of devices, we may retain browser width and height for up to 9 months. We also take steps to anonymize certain data within set time periods. For example, we anonymize advertising data in server logs by removing part of the IP address after 9 months and cookie information after 18 months.
+In some cases, rather than provide a way to delete data, we store it for a predetermined period of time. For each type of data, we set retention timeframes based on the reason for its collection. For example, to ensure that our services display properly on many different types of devices, we may retain browser width and height for up to 9 months. We also take steps to anonymize or pseudonymize certain data within set time periods. For example, we anonymize advertising data in server logs by removing part of the IP address after 9 months and cookie information after 18 months. We may also retain pseudonymized data, such as queries that have been disconnected from users’ Google Accounts, for a set period of time.
 
 Information retained until your Google Account is deleted
 
-We keep some data for the life of your Google Account if it’s useful for helping us understand how users interact with our features and how we can improve our services. For example, after you delete a specific Google search from My Activity, we might keep information about how often you search for things, but not what you searched for. When you delete your Google Account, the information about how often you search for things is also removed.
+We keep some data for the life of your Google Account if it’s useful for helping us understand how users interact with our features and how we can improve our services. For example, if you delete an address you've searched for in Google Maps, your account may still store that you've used the directions feature. That way, Google Maps can avoid showing you how to use the directions feature in the future.
 
 Information retained for extended time periods for limited purposes
 
