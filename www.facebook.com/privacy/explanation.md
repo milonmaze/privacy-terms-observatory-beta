@@ -2,6 +2,7 @@ Privacy Policy
 We updated our Privacy Policy on June 15, 2023. View our previous policy.
 What is the Privacy Policy and what does it cover?
 Effective June 15, 2023 | View printable version | See previous versions
+Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.
 Highlights
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use Meta Products in the way that’s right for you.
 In the Privacy Policy, we explain how we collect, use, share, retain and transfer information. We also let you know your rights. Each section of the Policy includes helpful examples and simpler language to make our practices easier to understand. We’ve also added links to resources where you can learn more about the privacy topics that interest you.
