@@ -1,123 +1,116 @@
 Found the internet!
 Trending today
-France riots
-France shooting: Policeman charged over teen's traffic stop death
-r/news and more
-Olivia Rodrigo new single
-Olivia Rodrigo - vampire (Official Music Video)
-r/OliviaRodrigo and more
-Travis Scott won't face charges
-Travis Scott Will Not Face Criminal Charges in Astroworld Tragedy
-r/entertainment and more
-Naomi Campbell welcomes baby
-Naomi Campbell Welcomes a Second Baby at 53: 'It's Never Too Late to Become a Mother'
-r/ThisCelebrity and more
-Caroline Wozniacki return
-Caroline Wozniacki returns to the WTA Tour at the WTA 1000 Rogers Cup
-r/tennis and more
-Virgin Galactic space flight
-Watch: Virgin Galactic launches first commercial space flight - BBC News
-r/news and more
+NBA free agency
+The Lakers and Suns are potential free agency destinations for Kevin Love, per @HPbasketball (actionnetwork.com/nba/nba-free-a…): “But the Lakers are considered one team, along with the Suns, to be on Love’s list, which is expected to continue to grow before he eventually signs.”
+r/suns and more
+The Witcher 3
+'The Witcher' Season 3’s Best Part Is Henry Cavill’s Excellent Geralt. The Departing Actor Was A Perfect Match For The Character
+r/television and more
+Tour de France
+Adam Yates tops twin brother to win initial Tour de France stage
+r/sports and more
+Indiana Jones 5
+The PostTrak for 'Indiana Jones and the Dial of Destiny' was 78% with general audiences and 3 1/2 stars and a 59% definite recommend.
+r/boxoffice and more
+r/ChatGPTPromptGenius
+Seinfeld choose-your-own-adventure text game.
+r/ChatGPTPromptGenius and more
+Austrian Grand Prix
+Formula 1 Teams as medieval knights
+r/midjourney and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-31.7k
+587
+r/Cricket
+•Posted by
+u/CricketMatchBot
+5 hours ago
+Join
+Match Thread: 2nd Test - Australia vs England, Day 5
+2nd Test, The Ashes at London
+
+Cricinfo | Reddit-Stream | 🌥 🌥 🌥 🌥 🌥
+
+Innings	Score
+Australia	416 (Ov 100.4)
+England	325 (Ov 76.2)
+Australia	279 (Ov 101.5)
+England	299/6 (Ov 70.4)Batter	Runs	Balls	SR
+Stuart Broad*	11	30	36.67
+Ben Stokes	154	209	73.68Bowler	Overs	Runs	Wickets
+Josh Hazlewood	13.4	71	1
+Mitchell Starc	19	75	2
+Recent : . . 1 .  |  . 2 . . . 1  |  . . . 1 . .  |  . . . 1 
+
+
+Day 5 - Session 2: England need 72 runs.
+
+Live match threads: United Arab Emirates vs Nepal | Ba11sy Trichy vs Chepauk Super Gillies |
+
+Send feedback | Schedule | Stat Help | Glossary
+
+21.1k Comments
+Share
+Save
+6.5k
 r/AskReddit
 •Posted by
-u/DawsonD43
-1 day ago
+u/Whatareyoudoing23452
+17 hours ago
 Join
-If it came out that we were 100% living in a simulation, what would be the biggest indicator looking back?
-15.4k Comments
+What makes you not want to date anybody right now?
+7.6k Comments
 Share
 Save
-12.3k
-r/politics
-•Posted by
-u/PoliticsModeratorBot
-23 hours ago
-Join
-Megathread: Supreme Court Strikes Down Race-Based Affirmative Action in Higher Education as Unconstitutional
-Megathread
-11.3k Comments
-Share
-Save
-34.9k
-r/news
-•Posted by
-u/chewymouse
-1 day ago
-Supreme Court Rules Against Affirmative Action
-Soft paywall
-wsj.com/articl...
-Join
-5.8k Comments
-Share
-Save
-23.8k
+39.8k
 r/mildlyinfuriating
 •Posted by
-u/AllyMarie93
+u/slangin_meds
 22 hours ago
+2
 Join
-We bought a new house earlier this year, just in time for the HOA to add new rules demanding everyone build fences around their A/C units because god forbid this thing be visible from the street.
-4.3k Comments
+My wife spits her seed shells into the door handle of our car....
+5.9k Comments
 Share
 Save
-44.6k
-r/antiwork
+4.2k
+r/NoStupidQuestions
 •Posted by
-u/thisisinsider
-17 hours ago
-South Park's creators have eliminated tipping at Denver's famed Casa Bonita. Servers now make $30 an hour — and some are mad.
-businessinsider.com/south-...
+u/Mad_Season_1994
+15 hours ago
 Join
-3.6k Comments
+Serious question: for those of you who are happily married or happily dating, what's the main reason you don't cheat on your partner?
+
+Imagine you're at a bar by yourself and see someone you consider attractive. What's stopping you from going over and making come-ons to them and going back to their place?
+
+I'm not trying to justify cheating, I promise. I'm just trying to understand what it's like to love someone as much as you love your partner and understand why you would never give in to those desires with a stranger.
+
+4.8k Comments
 Share
 Save
-37.3k
-r/doordash
+23.0k
+r/facepalm
 •Posted by
-u/meowthv
-18 hours ago
+u/Ilontersen
+19 hours ago
 Join
-Our door dasher didn’t like our no soliciting sign lol
-3.4k Comments
+Flat Earthers train children from birth to…
+ 🇲​🇮​🇸​🇨​
+4.6k Comments
 Share
 Save
-14.2k
+47.4k
 r/WhitePeopleTwitter
 •Posted by
-u/Travismatthew08
-18 hours ago
-Join
-Definitely a toss up.
-3.0k Comments
-Share
-Save
-11.6k
-r/unitedkingdom
-•Posted by
-u/topotaul
+u/Ok-Tennis330
 21 hours ago
-Royal Air Force illegally discriminated against white male recruits in bid to boost diversity, inquiry finds
-news.sky.com/story/...
 Join
-2.7k Comments
-Share
-Save
-22.6k
-r/movies
-•Posted by
-u/ICumCoffee
-22 hours ago
-Join
-Dune: Part Two | Official Trailer 2
-Trailer
-youtu.be/_YUzQa...
-2.7k Comments
+This has to be the worst fucking update of all time
+Musk stands for Moron
+4.0k Comments
 Share
 Save
 Advertisement
