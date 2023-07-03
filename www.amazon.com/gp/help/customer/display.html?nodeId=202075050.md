@@ -37,18 +37,18 @@ Yes
 No
 ‹ All Help Topics
 Security and Privacy
+Amazon and Your Personal Information
 Additional State-Specific Privacy Disclosures
 How Amazon Uses Your Personal Information
 How Amazon Collects Your Personal Information
 How Amazon Protects Your Personal Information
 Manage Your Personal Information
-Request Your Personal Information
-Amazon and Your Personal Information
 Interest-Based Ads
 EU-US and Swiss-US Privacy Shield
 About Cookies
 California Supply Chain Transparency Act Statement
 Law Enforcement Information Requests
+Request Your Personal Information
 Communications from Amazon.com
 Legal Policies
 Your Security
