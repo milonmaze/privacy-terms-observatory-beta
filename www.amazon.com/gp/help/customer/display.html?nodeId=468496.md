@@ -6,7 +6,7 @@ Find more solutions
 Security and Privacy  ›  Legal Policies  › 
 Amazon.com Privacy Notice
 
-Last updated: January 1, 2023. To see prior version, click here.
+Last updated: June 30, 2023. To see prior version, click here.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.
 
@@ -71,8 +71,8 @@ We maintain physical, electronic, and procedural safeguards in connection with t
 Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Click here for more information on how to manage the security settings of your device.
 It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not used for other online accounts. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off.
 What About Advertising?
-Third-Party Advertisers and Links to Other Websites: Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice. To adjust your advertising preferences, please go to the Advertising Preferences page.
-Use of Third-Party Advertising Services: We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of interest-based advertising by going to the Advertising Preferences page.
+Third-Party Advertisers and Links to Other Websites: Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice. To adjust your advertising preferences, please go to the Your Ads Privacy Choices page.
+Use of Third-Party Advertising Services: We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. While we do not share your specific shopping actions like purchases, product views, or searches with ad companies, we may share an advertising identifier and an estimate of the value of the ads they show you on our behalf so they can serve you with more effective Amazon ads. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of personalized advertising (such as cross-context behavioral advertising) by going to the Your Ads Privacy Choices page.
 What Information Can I Access?
 
 You can access your information, including your name, address, payment options, profile information, Prime membership, household settings, and purchase history in the "Your Account" section of the website. Click here for a list of examples that you can access.
@@ -84,7 +84,7 @@ If you have any questions as to how we collect and use your personal information
 As described above, you can choose not to provide certain information, but then you might not be able to take advantage of many of the Amazon Services.
 You can add or update certain information on pages such as those referenced in What Information Can I Access?. When you update information, we usually keep a copy of the prior version for our records.
 If you do not want to receive email or other communications from us, please adjust your Customer Communication Preferences. If you don't want to receive in-app notifications from us, please adjust your notification settings in the app or device.
-If you do not want to see interest-based ads, please adjust your Advertising Preferences.
+You may adjust your personalized advertising preferences by visiting Your Ads Privacy Choices.
 The Help feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies or other identifiers, how to have the browser notify you when you receive a new cookie, or how to block cookies altogether. Because cookies and identifiers allow you to take advantage of some essential features of Amazon Services, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Services that require you to Sign in. For more information about cookies and other identifiers, see our Cookies Notice.
 If you want to browse our websites without linking the browsing history to your account, you may do so by logging out of your account here and blocking cookies on your browser.
 You can manage the recommendations you receive in our store here, remove recommendations you don’t want to see here by selecting View All and Manage then selecting the Remove Items toggle that appears at the top of the page, and edit your browsing history here.
@@ -93,7 +93,7 @@ If you are a seller, you can add or update certain information in Seller Central
 If you are an author, you can add or update the information you have provided in the Author Portal and Author Central by accessing your accounts in the Author Portal and Author Central, respectively.
 If you shop in our physical stores, you can manage how certain data is used to analyze the performance of our products and services, as well as learn more here.
 
-In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information. If you wish to do any of these things, please contact Customer Service. Depending on your data choices, certain services may be limited or unavailable.
+In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information. If you wish to do any of these things, you may go to Data Privacy Queries. Depending on your data choices, certain services may be limited or unavailable.
 
 Are Children Allowed to Use Amazon Services?
 
@@ -220,7 +220,7 @@ Legal Policies
 3rd Party Licensing Notice
 AMAZON INFLUENCER TERMS & CONDITIONS FOR SPONSORED CONTENT
 Conditions of Use
-Report Suspicious Activity
+Report Stolen Goods
 Amazon.com Privacy Notice
 Amazon Group Companies
 Amazon Trademark Usage Guidelines
