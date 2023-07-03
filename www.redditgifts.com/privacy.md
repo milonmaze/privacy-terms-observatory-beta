@@ -1,116 +1,101 @@
 Found the internet!
 Trending today
+Formula 1
+2023 Formula 1 Aramco British Grand Prix official Poster
+r/formula1 and more
+Fireworks
+Getting hit with the full force of these fireworks
 NBA free agency
-The Lakers and Suns are potential free agency destinations for Kevin Love, per @HPbasketball (actionnetwork.com/nba/nba-free-a…): “But the Lakers are considered one team, along with the Suns, to be on Love’s list, which is expected to continue to grow before he eventually signs.”
-r/suns and more
-The Witcher 3
-'The Witcher' Season 3’s Best Part Is Henry Cavill’s Excellent Geralt. The Departing Actor Was A Perfect Match For The Character
-r/television and more
-Tour de France
-Adam Yates tops twin brother to win initial Tour de France stage
+NBA Trade Rumors: Cleveland Cavaliers reportedly ‘more open to trading Jarrett Allen than advertised’
+r/nba and more
+Twitter rate limiting
+Twitter frontend is DDoSing itself, Elon initially blocked all non-Twitter referrers and User-Agents and when this failed he started rate limiting his own users. Twitter immediately reaches the rate limit for all users and is unusable
+r/WhitePeopleTwitter and more
+Supreme Court rulings
+Josh Hawley's wife faces calls to be sanctioned over Supreme Court case
+r/politics and more
+Wimbledon
+Wimbledon are relaxing their all-white dress code to ease the stress of women's periods
 r/sports and more
-Indiana Jones 5
-The PostTrak for 'Indiana Jones and the Dial of Destiny' was 78% with general audiences and 3 1/2 stars and a 59% definite recommend.
-r/boxoffice and more
-r/ChatGPTPromptGenius
-Seinfeld choose-your-own-adventure text game.
-r/ChatGPTPromptGenius and more
-Austrian Grand Prix
-Formula 1 Teams as medieval knights
-r/midjourney and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-587
-r/Cricket
-•Posted by
-u/CricketMatchBot
-5 hours ago
-Join
-Match Thread: 2nd Test - Australia vs England, Day 5
-2nd Test, The Ashes at London
-
-Cricinfo | Reddit-Stream | 🌥 🌥 🌥 🌥 🌥
-
-Innings	Score
-Australia	416 (Ov 100.4)
-England	325 (Ov 76.2)
-Australia	279 (Ov 101.5)
-England	299/6 (Ov 70.4)Batter	Runs	Balls	SR
-Stuart Broad*	11	30	36.67
-Ben Stokes	154	209	73.68Bowler	Overs	Runs	Wickets
-Josh Hazlewood	13.4	71	1
-Mitchell Starc	19	75	2
-Recent : . . 1 .  |  . 2 . . . 1  |  . . . 1 . .  |  . . . 1 
-
-
-Day 5 - Session 2: England need 72 runs.
-
-Live match threads: United Arab Emirates vs Nepal | Ba11sy Trichy vs Chepauk Super Gillies |
-
-Send feedback | Schedule | Stat Help | Glossary
-
-21.1k Comments
-Share
-Save
-6.5k
-r/AskReddit
-•Posted by
-u/Whatareyoudoing23452
-17 hours ago
-Join
-What makes you not want to date anybody right now?
-7.6k Comments
-Share
-Save
-39.8k
-r/mildlyinfuriating
-•Posted by
-u/slangin_meds
-22 hours ago
-2
-Join
-My wife spits her seed shells into the door handle of our car....
-5.9k Comments
-Share
-Save
-4.2k
+50.3k
 r/NoStupidQuestions
 •Posted by
-u/Mad_Season_1994
-15 hours ago
+u/Prize-Report6742
+22 hours ago
 Join
-Serious question: for those of you who are happily married or happily dating, what's the main reason you don't cheat on your partner?
+My husband is 40 and has been in university for 20 years. Would that be a red flag for you?
 
-Imagine you're at a bar by yourself and see someone you consider attractive. What's stopping you from going over and making come-ons to them and going back to their place?
+He gets paid to go to school, about USD$40,000 a year equivalent. The university offers a bursary for aboriginal students, and he's been the only applicant in some time. He gets it every year. But he also gets age based grants and bursaries, none of it needs to be paid back. He describes himself as a career student because he loves being in school. It's all above board, the university even encourages it.
 
-I'm not trying to justify cheating, I promise. I'm just trying to understand what it's like to love someone as much as you love your partner and understand why you would never give in to those desires with a stranger.
+He has degrees in linguistics, history, chemistry, computer science, accounting, and is currently working on a physics degree. He loves to learn and to teach others; he's the smartest person I know. He says he stays in school because it's his "hobby" and he's paid a pretty penny for it. We're completely debt free.
 
-4.8k Comments
-Share
-Save
-23.0k
-r/facepalm
-•Posted by
-u/Ilontersen
-19 hours ago
-Join
-Flat Earthers train children from birth to…
- 🇲​🇮​🇸​🇨​
-4.6k Comments
+I think our relationship is unique in that I have no problem with it, although I'd like to see him apply himself outside a school setting. But I want to know what other people think of it. It's not something I generally tell my friends, just that he's in school part time and doing other things. His 10~ hour commitment a week puts food on our table; we don't live in luxury but live comfortably.
+
+12.8k Comments
 Share
 Save
 47.4k
-r/WhitePeopleTwitter
+r/facepalm
 •Posted by
-u/Ok-Tennis330
+u/TheExtimate
+22 hours ago
+Join
+Do they have a way of deflating those once they board?
+ 🇲​🇮​🇸​🇨​
+0:00
+0:09
+6.5k Comments
+Share
+Save
+11.1k
+r/AskReddit
+•Posted by
+u/Due_Passage_8420
+20 hours ago
+Join
+What do rich people have now that everyone will have in 5-10 years?
+5.7k Comments
+Share
+Save
+9.0k
+r/ask
+•Posted by
+u/tryanother-throwaway
 21 hours ago
 Join
-This has to be the worst fucking update of all time
-Musk stands for Moron
-4.0k Comments
+Former rich people of reddit, what is a luxury item/product you used to buy regularly that you could no longer afford and found the out a generic/ consumer brand was exactly the same?
+
+Did you realized later it was a cash grab all along?
+
+On the flip side what is a luxury product/ item you wish you could still afford but can’t and is worth every penny? Why?
+
+5.4k Comments
+Share
+Save
+12.1k
+r/mildlyinfuriating
+•Posted by
+u/shreklover257
+16 hours ago
+Join
+I accidentally bought milk that expires tomorrow
+3.8k Comments
+Share
+Save
+21.6k
+r/news
+•Posted by
+u/PM_ME_KITTYNIPPLES
+1 day ago
+DeSantis signs bill eliminating permanent alimony
+nbcmiami.com/news/l...
+Join
+3.8k Comments
 Share
 Save
 Advertisement
