@@ -1,4 +1,10 @@
+GLOBAL PRIVACY STATEMENTS
+
 You deserve transparency into our data use
+
+
+
+
 Select your preferred language
 Intuit Global Privacy Statement
 
