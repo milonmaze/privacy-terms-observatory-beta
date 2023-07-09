@@ -12,9 +12,9 @@ Definitions
 Data Set
 Overview
 
-Released: January 27, 2023
+Released: July 7, 2023
 
-We are pleased to offer our transparency report for July 1, 2022, through December 31, 2022. This report provides insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. At Zoom, transparency is critical to building trust and fostering the free and open exchange of ideas.
+We are pleased to offer our transparency report for January 1, 2023, through June 30, 2023. This report provides insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. At Zoom, transparency is critical to building trust and fostering the free and open exchange of ideas.
 
 As detailed in Zoom’s Privacy Statement and in line with our commitment to user privacy, user data is only provided to governments in response to valid and lawful requests that adhere to our Government Requests Guide.
 
@@ -22,7 +22,7 @@ Zoom employs a three-pronged approach to handling government requests: (1) our G
 
 On the back end, we have a centralized system for tracking requests, and we categorize the data associated with each request in our case management system. With the help of our policy team, we have also developed internal guidelines and quality control processes that govern our work. All of these features were built with an eye toward transparent reporting.
 
-This updated transparency report adheres to relevant legal requirements and provides a summary of the requests we have processed from July 1, 2022, through December 31, 2022, as well as information on our responses.
+This updated transparency report adheres to relevant legal requirements and provides a summary of the requests we have processed from January 1, 2023, through June 30, 2023, as well as information on our responses.
 
 U.S. Requests
 
@@ -30,7 +30,7 @@ U.S. requests to Zoom can come in the form of search warrants, subpoenas (grand 
 
 Delayed-notice orders (U.S. only)
 
-In this period, 41 out of 108 U.S. requests were accompanied by a valid delayed-notice order.
+In this period, 142 out of 54 U.S. requests were accompanied by a valid delayed-notice order.
 
 National Security Letters (NSLs) are national security requests approved by the Federal Bureau of Investigation that require companies to disclose limited information about a user’s identity, which does not cover content.
 
@@ -60,7 +60,17 @@ Definitions
 
 We use several terms in this report that have specific legal meanings in this context. The absence of a particular kind of request or outcome from the charts means that there weren’t any of that type in this period. Civil litigation requests are not reflected in this report.
 
-CLOUD Act Request – a request made under the CLOUD Act. Requests made pursuant to the CLOUD Act can demand content. 
+Account Location – the location of the target account based on billing address or registration IP address if the billing address is unavailable.
+Account Type
+
+Basic: Accounts that are subscribed to our plans that are free of charge.
+Business: Accounts subscribed to our Business plans.
+Education: Accounts used by students, faculty, staff, and alumni for pedagogical interaction within a classroom environment or the administration thereof.
+Enterprise: Accounts subscribed to our Enterprise plan.
+No Account: The target user does not have any account with Zoom.
+Pro: Accounts subscribed to our Pro plan.
+Zoom Phone: Accounts subscribed to our Zoom Phone plans.
+CLOUD Act Request – a request made under the CLOUD Act. Requests made pursuant to the CLOUD Act can demand content.
 Content – can include video content, chat logs, transcripts, meeting titles, or profile pictures; essentially, any media that depicts what a person said, wrote, or did. When we report disclosing “content,” that means we disclosed both content and non-content.
 Delayed-notice order (U.S. only) – an order signed by a judge preventing Zoom from notifying one or more users of a government request for their information for a specified period.
 Emergency Request (U.S. or international) – a request for user data without standard legal process because there is a danger of death or serious physical injury to a person.
@@ -74,9 +84,11 @@ Preservation Request (U.S. or international) – a request to preserve (but not 
 Rejected – includes rejections for invalid service or legal invalidity, instances where there was no responsive data or instances where the agency did not provide enough information for us to locate the requested data.
 Search Warrant (U.S. only) – a request for a search, signed by a judge, in which a prosecutor alleges that there is “probable cause” to believe that a crime has occurred or is about to occur. Requests made pursuant to search warrants may demand content or non-content.
 Subpoena (U.S. only) – a request made by a government entity with investigative powers, such as a grand jury. Requests made pursuant to subpoenas need not be signed by a judge and cannot demand content.
-U.S. National Security Requests – requests made under the Foreign Intelligence Surveillance Act (FISA) for non-content or content, or National Security Letters (NSLs) for non-content. 
+U.S. National Security Requests – requests made under the Foreign Intelligence Surveillance Act (FISA) for non-content or content, or National Security Letters (NSLs) for non-content.
 Withdrawn – means that the requester withdrew the request before we made a determination on it.
 Withhold Access Request – a government request to restrict an individual’s access to any aspect of Zoom’s product or to prevent or terminate a particular meeting.
+
+A note about Account Location and Type: We disclose account location and type solely when fulfilling a government request. Therefore, the account location and type reflected in the report correspond to the completed requests within the reporting period.
 
 A note about Withhold Access Requests: Many countries have laws that may restrict their residents from participating in or hosting particular Zoom Meetings or Webinars. If Zoom receives a legally valid and appropriately scoped request from a legitimate government agency demanding that Zoom restrict one of its residents from using Zoom, we will carefully review it.
 
@@ -87,3 +99,7 @@ We comply with Withhold Access Requests selectively, as we balance our commitmen
 Data Set
 
 Here is the data set of all the requests included in this transparency report.
+
+Previous Transparency Report
+
+Here is our very first Transparency Report.
