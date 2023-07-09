@@ -1,83 +1,89 @@
 Found the internet!
 Trending today
-Speak Now (Taylor's Version) released
+Speak Now (Taylor’s Version)
 Taylor Swift ‘Speak Now (Taylor’s Version)’ Vault Tracks Review: Key Co-Stars Include Hayley Williams, Fall Out Boy and… Grandmother Marjorie
 r/TaylorSwift and more
-World's hottest day. Again.
-[Science] - World records hottest day for third time in a week
-Twitter may sue over Threads
-Twitter is threatening to sue Meta over threads. Here’s the letter Twitter sent Meta
-r/EnoughMuskSpam and more
-Britney Spears
-Britney Spears hit by NBA star Victor Wembanyama’s security guard: report
-r/sports and more
-Wimbledon: Murray vs Tsitsipas
-Andy Murray scare during set point against Tsitsipas
+British Grand Prix
+Presenter Gow returns to Formula 1 after stroke
+r/formula1 and more
+Wimbledon
+The Wimbledon 2023 projected men’s quarter-finals after round 3
 r/tennis and more
-Mbappé transfer speculation
-PSG Chairman Warns Mbappe as he Faces Deadline to Decide his Exit or Stay
-r/championsleague and more
+Threads app
+Suspended Twitter account tracking Elon Musk’s jet moves to Threads
+r/news and more
+Sahara dust cloud
+Massive dust cloud heading toward US may dim the sky this weekend
+r/environment and more
+r/DidntKnowIWantedThat
+SLPT : Feeling lonely? Pay someone to follow you around.
+r/DidntKnowIWantedThat and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-10.9k
-r/ask
+26.6k
+r/AskReddit
 •Posted by
-u/Tired0fW8ting
-15 hours ago
+u/Ithaqua3406
+22 hours ago
+& 3 More
 Join
-What’s a dead give away you grew up poor?
-
-I was having a conversation with a friend and mentioned when a bar of soap gets really thin I’ve always just stuck it to the new bar and let it dry to get full use out of it. He told me that was my dead giveaway.
-
-9.4k Comments
+If you suddenly had "fuck you" money what would be the first thing you did?
+21.0k Comments
 Share
 Save
-56.5k
-r/facepalm
+52.7k
+r/meirl
 •Posted by
-u/almonakinvader
+u/iamcoollife1994
 20 hours ago
 Join
-Only Fans and Insta has everyone thinking they need to marry a BBL model. Insanity
- 🇲​🇮​🇸​🇨​
+meirl
 5.0k Comments
 Share
 Save
-42.3k
+18.7k
 r/mildlyinfuriating
 •Posted by
-u/jinswoon_
-15 hours ago
+u/urbanforestlife
+22 hours ago
 Join
-Old toilet seat broke from wear & tear, so landlord replaced it with this….
-4.1k Comments
+What the answer?
+3.3k Comments
 Share
 Save
-4.7k
-r/gaming
+20.0k
+r/politics
 •Posted by
-u/seasonedsaltdog
-11 hours ago
+u/Velvetrose-2
+1 day ago
+‘This is a death sentence for me’: Florida Republican women say they will switch parties after DeSantis approves alimony law
+orlandoweekly.com/news/t...
 Join
-whats a game that you got significantly far into, only to realize you were doing something wrong or missing a key feature/ability altogether?
-
-For me, I played bloodborne for about six hours before realizing I could use light attack with r1. I kept doing a full swing with the hunter axe for every strike. Somehow got through gascoigne and cleric beast until realizing. Yes, that took me minimum six hours, first fromsoft game. (And by far my favorite)
-
-3.7k Comments
+2.9k Comments
 Share
 Save
-48.8k
-r/TikTokCringe
+32.0k
+r/BeAmazed
 •Posted by
-u/dryintentions
-23 hours ago
+u/Z3NG3R
+18 hours ago
 Join
-How to get rid of wasps
-Cool
-3.6k Comments
+How old were you when you found out that some nail cutter's have a safe mode?
+Miscellaneous / Others
+2.8k Comments
+Share
+Save
+25.5k
+r/Weird
+•Posted by
+u/pseudo-boots
+18 hours ago
+Join
+Does anyone know what is going on here?
+2.7k Comments
 Share
 Save
 Advertisement
