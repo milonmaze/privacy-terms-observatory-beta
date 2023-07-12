@@ -30,24 +30,27 @@ U.S. requests to Zoom can come in the form of search warrants, subpoenas (grand 
 
 Delayed-notice orders (U.S. only)
 
-In this period, 142 out of 54 U.S. requests were accompanied by a valid delayed-notice order.
+In this period, 54 out of 142 U.S. requests were accompanied by a valid delayed-notice order.
 
 National Security Letters (NSLs) are national security requests approved by the Federal Bureau of Investigation that require companies to disclose limited information about a user’s identity, which does not cover content.
 
-The table below provides the number of NSLs Zoom received during this reporting period (in bands of 500 starting with 0–499) and the number of Government Specified Accounts (in ranges of 500 starting with 0–499). This range is the maximum detail Zoom may disclose regarding NSLs under U.S. law.
+The table below provides the number of NSLs Zoom received (in bands of 500 starting with 0–499) and the number of Government Specified Accounts (in ranges of 500 starting with 0–499). This range is the maximum detail Zoom may disclose regarding NSLs under U.S. law.
 
-Number of NSLs	Number of Customer Selectors Targeted by NSLs
-0–500	0–500
-
- 
-
-Combined Number of National Security Orders or Directives for Content 	Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Content Received
-0–500	0–500
+Reporting Period	Number of NSLs	Number of Customer Selectors Targeted by NSLs
+Jul 2022 – Dec 2022	0–500	0–500
+Jan 2023 – Jun 2023	0–500	0–500
 
  
 
-Combined Number of National Security Orders or Directives for Non-Content	Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Non-Content 
-0–500	0–500
+Reporting Period	Combined Number of National Security Orders or Directives for Content	Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Content Received
+Jul 2022 – Dec 2022	0–500	0–500
+Jan 2023 – Jun 2023	0–500	0–500
+
+ 
+
+Reporting Period	Combined Number of National Security Orders or Directives for Non-Content	Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Non-Content
+Jul 2022 – Dec 2022	0–500	0–500
+Jan 2023 – Jun 2023	0–500	0–500
 International Requests
 
 Zoom receives law enforcement requests from around the globe. We screen each international (non-U.S.) request carefully to ensure that we only respond to legally valid and appropriately scoped requests. We do not provide any content internationally without process under mutual legal assistance treaties (MLATs), the U.S. Clarifying Lawful Overseas Use of Data (CLOUD) Act, or letters rogatory.
