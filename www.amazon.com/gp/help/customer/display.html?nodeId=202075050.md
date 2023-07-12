@@ -12,7 +12,7 @@ What sort of information do we use to show interest-based ads?
 
 To serve you interest-based ads, we use information such as your interactions with Amazon sites, content, or services. We do not use information which on its own identifies you, such as name or e-mail address, to serve interest-based ads.
 
-As is common in the advertising industry, we use cookies, pixels, and other technologies (collectively, "cookies"), which enable us to understand the effectiveness of the interest-based ads we show you by measuring what ads are clicked or viewed, and to provide you with more useful and relevant ads. For example, if we know what ads are shown to your browser we can be careful not to show the same ads repeatedly.
+We use cookies, pixels, IP addresses, and other technologies (collectively, "advertising technologies"), which enable us to understand the effectiveness of the interest-based ads we show you by measuring what ads are clicked or viewed, and to provide you with more useful and relevant ads. For example, we use cookies or other information such as IP address to limit the number of times you are shown the same ad.
 
 See our Privacy Notice for more information about the types of information that we gather.
 
@@ -20,7 +20,7 @@ How do we work with third parties to show you interest-based ads?
 
 We work with third parties, such as advertisers, publishers, social media networks, search engines, ad serving companies, and advertising companies working on their behalf, to improve the relevance of ads we serve. In providing you interest-based ads we do not associate your interactions on unaffiliated sites with information which on its own identifies you, such as name or email address, and we do not provide any such information to advertisers or to third-party sites that display our interest-based ads. Advertisers and other third parties may assume that users who interact with or click on an interest-based ad or content are part of the group that the ad or content is directed towards (for example, users in a particular geographical area or users who purchased or browsed for classical music). Some third-parties may provide us pseudonymized information about you (such as demographic information or sites where you have been shown ads) from offline and online sources that we may use to provide you more relevant and useful advertising.
 
-Third party advertisers or advertising companies working on their behalf sometimes use cookies in the process of delivering content, including ads, directly to your browser or device, and they may automatically receive an IP address when this happens. They may also use cookies to measure the effectiveness of their ads, show you more relevant advertising content, and perform services on behalf of Amazon. For information on how to control and delete cookies (including third party cookies) please visit our Cookies notice.
+Third party advertisers or advertising companies working on their behalf sometimes use advertising technologies in the process of delivering content, including ads, directly to your browser or device, and they may automatically receive an IP address when this happens. They may also use advertising technologies to measure the effectiveness of their ads, show you more relevant advertising content, and perform services on behalf of Amazon. For information on how to control and delete cookies (including third party cookies) please visit our Cookies notice.
 
 Advertising Preferences
 
