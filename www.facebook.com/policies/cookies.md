@@ -1,5 +1,4 @@
 Cookies Policy
-We updated our policy on June 16, 2023. View our previous policy.
 What are cookies, and what does this policy cover?
 Effective June 16, 2023 | View printable version | See previous versions
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
