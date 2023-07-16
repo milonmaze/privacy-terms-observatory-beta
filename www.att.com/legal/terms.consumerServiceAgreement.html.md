@@ -1,7 +1,6 @@
 AT&T Consumer Service Agreement
 Documents
 Print
-AT&T Consumer Service Agreement
 1.0
 General Terms
 
