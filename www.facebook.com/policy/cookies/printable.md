@@ -1,5 +1,4 @@
 Cookies Policy
-We updated our policy on June 16, 2023. View our previous policy.
 Explore the policy
 What are cookies, and what does this policy cover?
 Why do we use cookies?
