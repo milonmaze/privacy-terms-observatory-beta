@@ -1,19 +1,12 @@
 GLOBAL PRIVACY STATEMENTS
 
 You deserve transparency into our data use
-
-
-
-
 Select your preferred language
 Intuit Global Privacy Statement
 
 Last Updated: December 1, 2022
 
 See previous Privacy Statements
-
-
-
 
 
 
@@ -31,9 +24,6 @@ How to contact us
 Region and state-specific terms
 
 Additional terms may apply to you based upon the country you reside in or the products you use. Please click the region or state that applies to you to learn more about additional terms and rights that may apply to you.
-
-
-
 
 
 
