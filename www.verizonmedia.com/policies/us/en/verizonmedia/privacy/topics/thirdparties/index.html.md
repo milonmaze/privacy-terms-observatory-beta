@@ -1,6 +1,6 @@
 Third Parties
 
-The following third party companies may use a variety of tools, including IP Addresses, applications (or "widgets"), web beacons, SDKs, cookies, and similar technologies when people use our brands, websites, apps, advertising services, products, services or technologies (“Services”) or see the ads provided by our advertising Services. These companies may collect information about other apps on your various devices, the websites you visit, location information, and other information. In addition, Yahoo may share non-personally identifiable information, including pseudonymous demographic information, about you with partners for Service improvements, research and analysis, to provide personalized advertising, to help them provide you more innovative experiences and content and to help Yahoo communicate with you about offers from Yahoo and our marketing partners.
+The following third party companies may use a variety of tools, including IP Addresses, applications (or "widgets"), web beacons, SDKs, cookies, and similar technologies when people use our brands, websites, apps, advertising services, products, services or technologies (“Services”) or see the ads provided by our advertising Services. These companies may collect information about other apps on your various devices, the websites you visit, location information, and other information. In addition, Yahoo may share non-personally identifiable information, including pseudonymous demographic information, about you and your use of Yahoo services with partners for Service improvements, research and analysis, to provide personalized advertising, to help them provide you more innovative experiences and content and to help Yahoo communicate with you about offers from Yahoo and our marketing partners. Yahoo contractually prohibits partners from re-identifying your pseudonymous data, unless they first obtain your consent.
 
 Analytics partners
 Application developers
@@ -61,11 +61,11 @@ YouSendIt
 
 Advertising technologies
 
-Most advertisements you see on Yahoo Services are served by Yahoo. However, we also allow certain companies to serve advertisements and collect information within our Services. These companies include third party ad servers, ad agencies, technology vendors, providers of sponsored content, research firms, and other companies that help us provide more effective advertising.
+Advertisements you see on Yahoo Services are served by Yahoo, and our partners, like Google and Taboola. We also allow certain companies to serve advertisements and collect information within our Services, and in some instances Yahoo discloses pseudonymous information to these companies as described in Section 6 of our Privacy Policy. These companies include third party ad servers, ad agencies, technology vendors, providers of sponsored content, research firms, and other companies that help us provide more effective advertising.
 
-These companies do things like help us deliver ads to people who are most likely to be interested in seeing them, keep track of the number of users who saw a particular ad or visited a particular page of one of our websites, analyze the effectiveness of our ads, and provide auditing, research and reporting for advertisers. Because your browser, app, or device communicates with the third party’s servers, these companies can collect information, including your IP address, page header information, browser or device information, just as if you had requested their webpage or used their apps directly. These companies may collect information to deliver you customized ads on both Yahoo and non-Yahoo websites, applications, and services. In some situations, Yahoo may interact with these companies outside of your browser or device, directly between our web servers.
+These companies do things like help us deliver ads to people who are most likely to be interested in seeing them, keep track of the number of users who saw a particular ad or visited a particular page of one of our websites, analyze the effectiveness of our ads, and provide auditing, research and reporting for advertisers. Because your browser, app, or device communicates with the third party’s servers, these companies can collect information, including your IP address, page header information, browser or device information, just as if you had requested their webpage or used their apps directly. As discussed at the top of this page, these companies may collect information from you and use the pseudonymous information that we may provide to them to deliver you customized ads on both Yahoo and non-Yahoo websites, applications, and services. In some situations, Yahoo may interact with these companies outside of your browser or device, directly between our web servers.
 
-The following third parties offer information about their data collection practices, and in some cases, an opt-out, on their respective websites. Please visit each company’s privacy policy to better understand the controls available to you.
+The following third parties offer information about their data collection and use practices, and in some cases, an opt-out, on their respective websites. Please visit each company’s privacy policy to better understand the controls available to you. You can also see Section 3 of the Privacy Policy to learn how you can control the use of your information.
 
 1und1
 Accuen
@@ -202,6 +202,7 @@ Gemius
 GFK
 GMI
 Goldspot Media
+Google
 GroupM Server
 GumGum
 GWIQ Audience Analytics
