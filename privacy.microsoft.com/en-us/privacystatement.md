@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: June 2023 What's new?
+Last Updated: July 2023 What's new?
 Expand All
 Print
 
@@ -11,6 +11,8 @@ Microsoft offers a wide range of products, including server products used to hel
 Please read the product-specific details in this privacy statement, which provide additional relevant information. This statement applies to the interactions Microsoft has with you and the Microsoft products listed below, as well as other Microsoft products that display this statement.
 
 Young people may prefer starting with the Privacy for young people page. That page highlights information that may be helpful for young people.
+
+For individuals in the United States, please refer to our U.S. State Data Privacy Notice and the Washington State Consumer Health Data Privacy Policy for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws.
 
 Personal data we collect
 How we use personal data
