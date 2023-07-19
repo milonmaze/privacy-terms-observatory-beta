@@ -3,7 +3,7 @@ Close jump menu
 
 Our Transparency Center
 
-We work to keep LinkedIn safe, trusted, and professional. We  provide our members with regular transparency updates on the actions we take to protect members, how we handle questions about member data, and how we respond to content removal requests. 
+We work to keep LinkedIn safe, trusted, and professional. We provide our members with regular transparency updates on the actions we take to protect members, how we handle questions about member data, and how we respond to content removal requests. 
 
 Community Report
 
@@ -134,7 +134,7 @@ The process we follow for law enforcement data requests, and our approach to tra
 
 Go to Help Center →
 
-Report defamation and copyright / trademark infringement
+Report copyright and trademark infringement
 
 
 We require information posted by members to be accurate, lawful, and not in violation of the rights of others.
