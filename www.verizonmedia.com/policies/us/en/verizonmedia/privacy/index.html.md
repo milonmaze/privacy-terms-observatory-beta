@@ -1,6 +1,6 @@
 Welcome to the Yahoo Privacy Policy
 
-Last updated: April 2022
+Last updated: July 2023
 
 About Yahoo
 
@@ -96,15 +96,15 @@ With Your Consent. We will share information with companies, organizations or i
 
 Within Yahoo. Information may also be shared within Yahoo, including with other Yahoo Services and affiliates. Yahoo affiliates may use the information in a manner consistent with their privacy policies.
 
-With Partners. We may share your information with nonaffiliated companies who are:
+With Partners. We may share your information with nonaffiliated companies who are:
 
-Trusted Partners. We provide user information to trusted partners who work on behalf of or with Yahoo based on our directions and in compliance with appropriate confidentiality measures. Learn more. 
+Trusted Partners. We provide user information to trusted partners who work on behalf of or with Yahoo based on our directions and in compliance with appropriate confidentiality measures.
 
 Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information). We may share aggregated or pseudonymous information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or other companies. For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion. We do not share personally identifiable information (like phone number or email address) with these partners, such as publishers, advertisers, ad agencies, or analytics partners.
 
 When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies. 
 
-We allow other companies that show advertisements on our webpages or apps to collect information from your browsers or devices. Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one. Like many companies, we may allow cookie matching with select partners. But, these parties are not authorized to access Yahoo cookies.
+We allow other companies that show advertisements on our webpages or apps to collect information from your browsers or devices. Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one.
 
 For Legal and Other Purposes. We may access, preserve and disclose information to investigate, prevent, or take action in connection with: (i) legal process and legal requests; (ii) enforcement of the Terms; (iii) claims that any content violates the rights of third-parties; (iv) requests for customer service; (v) technical issues; (vi) protecting the rights, property or personal safety of Yahoo, its users or the public; (vii) establishing or exercising our legal rights or defending against legal claims; or (viii) as otherwise required by law.
 
