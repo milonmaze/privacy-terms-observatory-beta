@@ -1,115 +1,80 @@
 Found the internet!
 Trending today
 Barbenheimer
-BARBENHEIMER - 1080 x 1620 - Artist: Paul Westover
-r/MoviePosterPorn and more
-r/Place
-r/place in a nutshell.
+Oppenheimer (2023) and Barbie (2023) open the same day. One is about the invention of the atomic bomb. The other is about a plastic doll. Guess which one stoked the most political outrage. Go on, take a wild fuckin' guess
+r/shittymoviedetails and more
+r/place
+They Actually, Finally, Pulled it Off
 r/place and more
-Women’s World Cup
-[World] - Spain cruise past Costa Rica 3-0 in Women's World Cup mismatch | France24
-r/AutoNewspaper and more
-Donnarumma robbed in Paris
-Donnarumma was robbed at his home last night! The footballer and his wife were tied up and stripped. The couple managed to take refuge in a hotel around 3:20 am. In shock, they were then taken to hospital. The perpetrators left with an estimated loot of 500,000 € .
-r/psg and more
 The Open Championship
-Justin Thomas hits an incredible pitch shot on the first hole of the Open championship
+Defending champ Cam Smith's 2nd shot from 232 yards into the par5 18th today at the Open championship, needing birdie to make the cut
 r/golf and more
-Tupac murder investigation
-Las Vegas police search home in connection to Tupac Shakur murder
-r/TrueCrime and more
+Actors' strike
+‘We’re not going to compromise’: Actors’ union says strike could last until 2024
+r/entertainment and more
+Hungarian Grand Prix
+Possible Race Strategies - Hungarian Grand Prix
+r/formula1 and more
+Women's World Cup
+[Fox Sports PR] The USWNT's 3-0 Women's World Cup win over Vietnam scored 5,261,000 viewers, making it the second-most watched Group Stage telecast ever on English language television. Match peaked at more than 6.5 million viewers. Next - Wed., July 26 vs. Netherlands (9:00 PM ET/FOX)
+r/MLS and more
 Popular posts
 Hot
 Everywhere
 New
 Top
-31.5k
-r/place
-•Posted by
-u/pietradolce
-23 hours ago
-59
-7
-2
-& 283 More
-Join
-I will give away 20k coins to everyone in the comments in 24 hours! FUCK SPEZ
-90.8k Comments
-Share
-Save
-3.6k
+7.4k
 r/AskReddit
 •Posted by
-u/BoredBrowsing687
-12 hours ago
-& 2 More
-Join
-An army of your username is launching a full scale attack on Earth. How screwed are we?
-10.9k Comments
-Share
-Save
-14.6k
-r/nba
-•Posted by
-u/MyMindWasAFortress
-1 day ago
-& 3 More
-JiDion banned from all NBA related events for sleeping at WNBA game
-dexerto.com/entert...
-Join
-4.4k Comments
-Share
-Save
-42.2k
-r/BeAmazed
-•Posted by
-u/Snapintech
-19 hours ago
-2
-Join
-What do you do if u r in his position?
-Nature
-4.1k Comments
-Share
-Save
-3.1k
-r/CharacterAI
-•Posted by
-u/MarieLovesMatcha
-11 hours ago
-Join
-[Announcement] - Maintenance Mode will be enabled on July 20 at 8:30pm PT as we work to restore the site fully.
-CAI  ANNOUNCEMENT
-3.7k Comments
-Share
-Save
-15.2k
-r/facepalm
-•Posted by
-u/shixiaohu172
+u/SadiePaige11
 22 hours ago
 Join
-[ Removed by Reddit ]
- 🇲​🇮​🇸​🇨​
-
-[ Removed by Reddit on account of violating the content policy. ]
-
-3.3k Comments
+How have you almost died?
+11.3k Comments
 Share
 Save
-17.0k
-r/diablo4
+43.6k
+r/place
 •Posted by
-u/Melicalol
-21 hours ago
-3
+u/midnightReader14
+18 hours ago
 4
-3
-& 21 More
+& 22 More
 Join
-Thought yall quitting? can you guys quit so I can login?
-Fluff
-3.2k Comments
+Enough of this BS, I'll give away all my 130k Reddit C0INS to everyone in the comments!
+8.8k Comments
+Share
+Save
+29.2k
+r/therewasanattempt
+•Posted by
+u/Barchizer
+19 hours ago
+Join
+to convince us that Virginia has the best BBQ.
+6.8k Comments
+Share
+Save
+14.3k
+r/pcmasterrace
+•Posted by
+u/lunchanddinner
+20 hours ago
+Join
+What game fits into the perfect category?
+Meme/Macro
+6.6k Comments
+Share
+Save
+64.4k
+r/facepalm
+•Posted by
+u/OpeningPensions
+19 hours ago
+Join
+Tell me again how we are made to eat meat.
+ 🇲​🇮​🇸​🇨​
+5.6k Comments
 Share
 Save
 Advertisement
