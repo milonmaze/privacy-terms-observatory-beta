@@ -41,7 +41,7 @@ We use your personal information to operate, provide, develop, and improve the p
 Purchase and delivery of products and services. We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers.
 Provide, troubleshoot, and improve Amazon Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services.
 Recommendations and personalization. We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with Amazon Services.
-Provide voice, image and camera services. When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. For more information about Alexa voice services , click here.
+Provide voice, image and camera services. When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. For more information about Alexa voice services, click here.
 Comply with legal obligations. In certain cases, we collect and use your personal information to comply with laws. For instance, we collect from sellers information regarding place of establishment and bank account information for identity verification and other purposes.
 Communicate with you. We use your personal information to communicate with you in relation to Amazon Services via different channels (e.g., by phone, email, chat).
 Advertising. We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads. To learn more, please read our Interest-Based Ads notice.
@@ -138,11 +138,11 @@ communicate with us by phone, email, or otherwise;
 complete a questionnaire, a support ticket, or a contest entry form;
 upload or stream images, videos or other files to Prime Photos, Amazon Drive, or other Amazon Services;
 use our services such as Prime Video;
-compile Playlists, Watchlists, Wish Lists or other gift registries;
+compile Playlists, Watchlists, Wish Lists, or other gift registries;
 participate in Discussion Boards or other community features;
 provide and rate Reviews;
 specify a Special Occasion Reminder; or
-employ Product Availability Alerts , such as Available to Order Notifications.
+employ Product Availability Alerts, such as Available to Order Notifications.
 
 As a result of those actions, you might supply us with such information as:
 
