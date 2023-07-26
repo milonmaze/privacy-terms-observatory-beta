@@ -179,7 +179,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users’
 Device signals
 Information you’ve shared through your device settings (like GPS location)
@@ -231,7 +231,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users’
 Device signals
 Information you’ve shared through your device settings
@@ -266,7 +266,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users’
 Device signals
 Information you’ve shared through your device settings
@@ -286,7 +286,7 @@ Content you create, like posts, comments or audio
 Content you provide through our camera feature or your camera roll settings, or through our voice-enabled features
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users’
 Device signals
 Information you’ve shared through your device settings
@@ -312,7 +312,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your advice apart from other users’
 Device signals
 Information you’ve shared through your device settings
@@ -362,7 +362,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users
 Device signals
 Information you’ve shared through your device settings
@@ -386,7 +386,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users'
 Device signals
 Information you’ve shared through your device settings
@@ -412,7 +412,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users'
 Device signals
 Information you’ve shared through your device settings
@@ -438,7 +438,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users'
 Device signals
 Information you’ve shared through your device settings
@@ -475,7 +475,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users’
 Device signals
 Information you’ve shared through your device settings
@@ -500,7 +500,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users’
 Device signals
 Information you’ve shared through your device settings
@@ -530,7 +530,7 @@ Hashtags you use
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users’
 Device signals
 Information you’ve shared through your device settings
@@ -557,7 +557,7 @@ The time, frequency and duration of your activities on our Products
 Friends, followers and other connections
 App, browser and device information:
 Device characteristics and device software
-What you’re doing on your device
+What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 Identifiers that tell your device apart from other users’
 Device signals
 Information you’ve shared through your device settings
