@@ -37,7 +37,7 @@ We use data to help customize your experience with more products and offers rele
 
 Privacy Policy
 
-Updated March 1, 2023
+Updated July 17, 2023
 
 Download a copy of this Privacy Policy (PDF)
 
@@ -51,7 +51,7 @@ No
 
 Do we disclose your personal data to third-party partners?
 
-Yes
+Yes, where we have a lawful basis to do so.
 
 Do we receive personal data from other companies you have given permission to?
 
@@ -59,7 +59,7 @@ Yes
 
 Do we use your personal data for better product recommendations and site experiences?
 
-Yes
+Yes, where we have a lawful basis to do so.
 
 Do we give you control of your personal data?
 
@@ -69,16 +69,18 @@ How You Control Your Personal Data
 
 How We Gather & Use Personal Data
 
-How We Disclose Data
+How We Disclose Personal Data
 
-Types of Data We Collect
+Types of Personal Data We Collect
 
-Children and Personal Data
+Legal Basis & Retention by Processing Purpose
 
-How We Protect Your Information
+Children’s Personal Data
+
+How We Protect Your Personal Information
 
 International Transfers
 
-Regional Disclosures
+Additional Regional Notices
 
 Contact Us
