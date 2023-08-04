@@ -1,7 +1,3 @@
-CLOUDFLARE TRANSPARENCY REPORT - H1 2022
-
-An essential part of earning and maintaining the trust of our customers is being transparent about the requests we receive from law enforcement and other governmental entities. To this end, Cloudflare publishes semi-annual updates to our Transparency Report on the requests we have received to disclose information about our customers.
-
 OVERVIEW
 REQUIRE DUE PROCESS
 
@@ -30,6 +26,12 @@ Cloudflare has never modified the intended destination of DNS responses at the r
 Cloudflare has never weakened, compromised, or subverted any of its encryption at the request of law enforcement or another third party.
 
 If Cloudflare were asked to do any of these, we would exhaust all legal remedies, in order to protect our customers from what we believe are illegal or unconstitutional requests.
+
+Confirmed: July 31, 2023
+
+CLOUDFLARE TRANSPARENCY REPORT - H1 2022
+
+An essential part of earning and maintaining the trust of our customers is being transparent about the requests we receive from law enforcement and other governmental entities. To this end, Cloudflare publishes semi-annual updates to our Transparency Report on the requests we have received to disclose information about our customers.
 
 BACKGROUND ON THE DATA
 
