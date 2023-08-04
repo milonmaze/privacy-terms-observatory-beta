@@ -15,18 +15,20 @@ Dealer Locator
 OnStar Insurance
 Lease End
 Current Offers
-BUSINESS FINANCING
-Business Financing
-Business Purchase
-Business Lease
-Line of Credit
-Fleet Services
+COMMERCIAL FINANCING
+Commercial MyAccount
+Financing
+Purchase
+Lease
+Lease End
 Municipal Lease
-Customizable Features
-Commercial Resources
-FAQ
 Line of Credit
-Locate a Dealership
+Fleet Solutions
+Customizable Features
+Resources
+FAQ
+Commercial MyAccount
+Consult With an Expert
 RESOURCES
 Financial Resources
 Retail Customers
