@@ -285,7 +285,7 @@ Careers
 Privacy & Notice
 Terms
 Cookie Policy
-Do not sell or share my info
+Your Privacy Choices
 Mobile Apps
 Copyright & Trademark
 BUSINESS SERVICES
