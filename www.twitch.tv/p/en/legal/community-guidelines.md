@@ -602,6 +602,8 @@ stake.com
 rollbit.com
 duelbits.com
 roobet.com
+blaze.com
+gamdom.com
 
 We may identify others as we move forward.
 
@@ -614,6 +616,10 @@ No, we do not allow free social versions of the sites listed above.
 Does this policy prohibit fantasy sports, sports betting, and poker?
 
 No, we still permit broadcasting websites focused on fantasy sports, sports betting, and poker at this time.
+
+Is sponsorship of skins gambling, such as for CSGO skins, allowed on Twitch?
+
+No, promotion or sponsorship of skins gambling is prohibited under our policy.
 
 Authenticity
 Impersonation
