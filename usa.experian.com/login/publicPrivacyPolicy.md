@@ -3,18 +3,6 @@ ConsumerInfo.com Privacy Policy
 Last Revised: 02/28/2023
 
 Summary
-Personal Information We Collect
-How We Use Personal Information
-How We Share Personal Information
-Cookies, Tracking Technologies, and Targeted Advertising
-Choices You Have
-How You Can Update Your Personal Information
-How We Secure Your Personal Information
-Your California Privacy Rights under the California Consumer Privacy Act (CCPA)
-Changes to This Policy
-Contacting Us
-Other Important Privacy Information
-Summary
 
 ConsumerInfo.com, Inc. and its subsidiaries (collectively, "we," "us," or "our") respects individual privacy and values the confidence of our subscribers and consumers. We want you to be familiar with what information we collect about you, how the information is used, and what choices you have regarding the collection and use of your information. The privacy principles that we follow concerning the collection, use, disclosure, and protection of information when providing our products and services are consistent with relevant U.S. federal and state laws.
 
@@ -43,6 +31,7 @@ Depending on the products and services that you subscribe to, we also obtain inf
 Information from other Experian companies ("affiliates"), business partners, and third-party providers, such as credit, insurance underwriting, insurance claims, and other information that enables us to provide you products and services;
 If you provide information that enables us to access data from your financial, insurance, and/or other accounts, we will obtain information from those accounts, including account details, individual payment transactions, deposits, withdrawals, and insurance information;
 Information that you provide on a third-party website in order to subscribe to our products and services. Please see additional details about third-party websites under the 'Other Important Privacy Information' section below.
+
 How We Use Personal Information
 
 We use your personal information to:
@@ -105,7 +94,9 @@ You can use a range of tools to control the collection, usage, and sharing of yo
 Opt-outs:
 
 E-mail: We may send you promotional or marketing e-mail communications containing information about other products and services offered by us or other third parties that we partner with. If you no longer wish to receive marketing or promotional e-mails from us, you may opt-out of receiving them by following the instructions included in the e-mails that we send you or opt-out in the profile section of your account. If you opt-out, we will continue to send you credit, score, identity protection, and transaction alerts via e-mail, and information related to the completion of your registration, correction of user data, change of password, and other similar communications essential to your transactions;
+
 Push: We may send push notifications or alerts to your mobile device. You can deactivate push notifications and alerts at any time by deleting the app, changing your device settings, or changing the push notification settings within the app.
+
 Text: If you consent, we may communicate with you via text ("SMS") messages at the phone number you provide. You may later opt-out of receiving SMS messages by responding to any SMS with one of the following single-word commands: "STOP," "QUIT," "CANCEL," "END," or "UNSUBSCRIBE."
 
 Controls for Cookies, Tracking Technologies, and Targeted Advertising:
