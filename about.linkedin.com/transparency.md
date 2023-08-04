@@ -106,10 +106,20 @@ How we create a safe and trusted experience for customers.
 
 Read blog post →
 
+Ad Library
+
+
+Explore a searchable collection of ads that have run on LinkedIn.
+
+Go to Ad Library →
+
 Why am I seeing this ad?
 
 
+
+
 How our ads settings and targeting works for you.
+
 
 Read blog post →
 
@@ -119,6 +129,7 @@ Brand safety standards for your campaigns
 Trusted publishers help customers reach their audiences through ad campaigns.
 
 Go to Help Center →
+
 
 Government requests for data
 
