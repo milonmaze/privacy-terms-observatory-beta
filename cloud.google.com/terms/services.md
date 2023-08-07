@@ -147,7 +147,7 @@ Datastream: Datastream is a serverless change data capture (CDC) and replication
 
 Google Earth Engine: Google Earth Engine is a platform for global-scale analysis and visualization of geospatial datasets. Google Earth Engine can be used with custom datasets, or with any of the publicly available satellite imagery hosted (and ingested on a regular basis) by Earth Engine Data Catalog. 
 
-*Looker (Google Cloud core): Looker (Google Cloud core) is a business intelligence and embedded analytics solution hosted on Google infrastructure. With Looker (Google Cloud core), customers can build semantic models using various data sources, develop customized insights from the models, and share those insights for collaboration via dashboards and other services.
+Looker (Google Cloud core): Looker (Google Cloud core) is a business intelligence and embedded analytics solution hosted on Google infrastructure. With Looker (Google Cloud core), customers can build semantic models using various data sources, develop customized insights from the models, and share those insights for collaboration via dashboards and other services.
 
 *Looker Studio: Looker Studio is a data visualization and business intelligence product. It enables customers to connect to their data stored in other systems, create reports and dashboards using that data, and share them throughout their organization.
 
