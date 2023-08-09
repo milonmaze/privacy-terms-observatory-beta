@@ -64,6 +64,7 @@ About Find My
 Amazon Sidewalk Privacy and Security Whitepaper
 Alexa Guard - Sounds of Activity
 Legal & Compliance
+Inactive Child Profile Data Deletion
 Children's Privacy Disclosure
 Fire Phone Terms
 Ring Terms of Service
