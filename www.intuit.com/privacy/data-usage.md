@@ -44,3 +44,5 @@ Offerings like TurboTax Live and QuickBooks Live connect you with certified fina
 Seamless connections to third parties
 
 Not only can we suggest which loans or credit cards might be a good fit for you based on your specific situation, but we can also help you apply for them with the click of a button. We save you the time of filling out lengthy applications by entering all that info for you from your Intuit Account, after we ask for your permission to do so.
+
+About TurboTax
