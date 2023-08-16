@@ -1,6 +1,6 @@
 Help Center
-JOIN NETFLIX
-SIGN IN
+Join Netflix
+Sign In
  Back to Help Home
 PRINT
 Privacy Statement
