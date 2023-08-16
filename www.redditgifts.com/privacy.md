@@ -1,49 +1,50 @@
 Advertisement
-Neymar to Al-Hilal
+Matty Healy and Meredith Mickelson
 
-Neymar signs two-year €160m deal with Saudi Arabia Club Al-Hilal
+1975's Matty Healy reignites love story with model Meredith Mickelson
 
-r/AlHilal
+r/popculturechat
 and more
-Musk-Zuckerberg fight
+Darren Kent dead at 36
 
-Elon Musk and Mark Zuckerberg fight ain't happening
+Darren Kent, Game of Thrones‘ Goatherd, Dead at 36
 
-r/ufc
+r/television
 and more
-Mount Etna activity
+WWC: England vs Australia
 
-[World] - Etna eruption forces closure of Sicily's Catania airport | France24
+Live: Matildas face England for a place in the Women's World Cup final
 
-r/AutoNewspaper
+r/ABCaus
 and more
-Parks and Rec cast reunite
+Genshin Impact 4.0
 
-Parks and Rec Cast on the Picket Line
+Fontaine is Massive !!! & Looks Even Bigger Than Sumeru - Genshin Impact Fontaine Trailer Breakdown
 
-r/PandR
+r/GenshinImpact
 and more
-Perseid meteor showers
+Linus Tech Tips
 
-First astrophotography attempt during Perseid Meteor Shower - would love feedback!
+The plot thickens
 
-r/astrophotography
+r/LinusTechTips
 and more
-Hawaii wildfires
+Maui wildfire
 
-Hawaii has a robust emergency siren warning system. It sat silent during the deadly wildfires
+Hawaii native Jason Momoa says he's 'devastated and heartbroken' by Maui wildfires
 
-r/technology
+r/entertainment
 and more
-r/AskReddit
-•
-20 hr. ago
-You get reincarnated as your username. What do you become?
-r/CasualUK
+Create a post
+r/Damnthatsinteresting
 •
 5 hr. ago
-A moving out gift from our Ukranian refugee family
-r/meirl
+The Red House That Survived Hawaii Wild Fires
+r/facepalm
+•
+18 hr. ago
+Friend just posted this and was utterly serious
+r/WhitePeopleTwitter
 •
 4 hr. ago
-meirl
+Alright, y’all. Place your bets. xD
