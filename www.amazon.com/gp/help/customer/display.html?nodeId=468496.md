@@ -6,7 +6,7 @@ Find more solutions
 Security and Privacy  ›  Legal Policies  › 
 Amazon.com Privacy Notice
 
-Last updated: June 30, 2023. To see prior version, click here.
+Last updated: August 11, 2023. To see prior version, click here.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.
 
@@ -19,7 +19,7 @@ What About Advertising?
 What Information Can I Access?
 What Choices Do I Have?
 Are Children Allowed to Use Amazon Services?
-EU-US and Swiss-US Privacy Shield
+EU-US and Swiss-US Data Privacy Framework
 Additional State-Specific Privacy Disclosures
 Conditions of Use, Notices, and Revisions
 Related Practices and Information
@@ -41,7 +41,7 @@ We use your personal information to operate, provide, develop, and improve the p
 Purchase and delivery of products and services. We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers.
 Provide, troubleshoot, and improve Amazon Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services.
 Recommendations and personalization. We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with Amazon Services.
-Provide voice, image and camera services. When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. For more information about Alexa voice services, click here.
+Provide voice, image and camera services. When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. For more information about Alexa voice services , click here.
 Comply with legal obligations. In certain cases, we collect and use your personal information to comply with laws. For instance, we collect from sellers information regarding place of establishment and bank account information for identity verification and other purposes.
 Communicate with you. We use your personal information to communicate with you in relation to Amazon Services via different channels (e.g., by phone, email, chat).
 Advertising. We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads. To learn more, please read our Interest-Based Ads notice.
@@ -99,9 +99,11 @@ Are Children Allowed to Use Amazon Services?
 
 Amazon does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon Services only with the involvement of a parent or guardian. We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian. For more information, please see our Children's Privacy Disclosure.
 
-EU-US and Swiss-US Privacy Shield
+EU-US and Swiss-US Data Privacy Framework
 
-Amazon.com, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click here to learn more.
+Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework*. Click here to learn more.
+
+*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so.
 
 Additional State-Specific Privacy Disclosures
 
