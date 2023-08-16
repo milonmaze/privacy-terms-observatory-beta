@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: July 2023 What's new?
+Last Updated: August 2023 What's new?
 Expand All
 Print
 
@@ -33,9 +33,9 @@ Cookies
 
 Most Microsoft sites use cookies, small text files placed on your device which web servers utilize in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide personalized ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
 
-EU-U.S. and Swiss-U.S. Privacy Shield
+EU-U.S., UK Extension, and Swiss-U.S. Data Privacy Frameworks
 
-Microsoft adheres to the principles of the EU-U.S. and Swiss-U.S. Privacy Shield frameworks, although Microsoft does not rely on the EU-U.S. Privacy Shield Framework as a legal basis for transfers of personal data in light of the judgment of the Court of Justice of the EU in Case C-311/18. To learn more, visit the U.S. Department of Commerce’s Privacy Shield website.
+Microsoft complies with the EU-U.S., UK Extension to the EU-U.S., and Swiss-U.S. Data Privacy Frameworks. To learn more, see the Where we store and process personal data section, and visit the U.S. Department of Commerce’s Data Privacy Framework website.
 
 Contact us
 
@@ -64,7 +64,7 @@ We also use the data to operate our business, which includes analyzing our perfo
 
 In carrying out these purposes, we combine data we collect from different contexts (for example, from your use of two Microsoft products) or obtain from third parties to give you a more seamless, consistent, and personalized experience, to make informed business decisions, and for other legitimate purposes.
 
-Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, our automated methods include artificial intelligence (AI), which we think of as a set of technologies that enable computers to perceive, learn, reason, and assist in decision-making to solve problems in ways that are similar to what people do. To build, train, and improve the accuracy of our automated methods of processing (including AI), we manually review some of the predictions and inferences produced by the automated methods against the underlying data from which the predictions and inferences were made. For example, we manually review short snippets of voice data that we have taken steps to de-identify to improve our speech recognition technologies. This manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf.
+Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the predictions and inferences produced by the automated methods against the underlying data from which the predictions and inferences were made. For instance, with your permission and for the purpose of improving our speech recognition technologies, we manually review short snippets of voice data that we have taken steps to de-identify. This manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf.
 
 Learn more
 Top of page
@@ -141,7 +141,7 @@ Learn more
 Top of page
 Collection of data from children
 
-For users under the age specified by law in their jurisdiction - for example under 13 in the U.S. - certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
 
 Once parental consent or authorization is granted, the child's account is treated much like any other account. Learn more about personal and school accounts in the Microsoft account section of the Privacy Statement and Microsoft Family Safety in the product-specific section. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Parents or guardians can change or revoke the consent choices previously made. Learn more about parental consent and Microsoft child accounts. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data and information about children and Xbox profiles.
 
