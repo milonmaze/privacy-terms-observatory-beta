@@ -1,50 +1,50 @@
 Advertisement
-Matty Healy and Meredith Mickelson
+Canada wildfire emergency
 
-1975's Matty Healy reignites love story with model Meredith Mickelson
+Live: Thousands leave Yellowknife as wildfire approaches
+
+r/canada
+and more
+Blue Beetle release
+
+Just watched the Blue Beetle movie and got a free comic.
+
+r/comicbooks
+and more
+Stranger Things catfish
+
+Catfisher dupes woman into sending him ten thousand dollars by impersonating Stranger Things actor, Dacre Montgomery. She divorced her husband to be with him.
 
 r/popculturechat
 and more
-Darren Kent dead at 36
+Starfield
 
-Darren Kent, Game of Thrones‘ Goatherd, Dead at 36
+Starfield is currently rated 4.9 out of 5 on Microsoft Store
 
-r/television
+r/Starfield
 and more
-WWC: England vs Australia
+Evergrande files for bankruptcy
 
-Live: Matildas face England for a place in the Women's World Cup final
+China's Evergrande files for bankruptcy
 
-r/ABCaus
+r/StockMarket
 and more
-Genshin Impact 4.0
+Dota 2 anniversary
 
-Fontaine is Massive !!! & Looks Even Bigger Than Sumeru - Genshin Impact Fontaine Trailer Breakdown
+Dota 2 :: 10-Year Anniversary Celebration
 
-r/GenshinImpact
-and more
-Linus Tech Tips
-
-The plot thickens
-
-r/LinusTechTips
-and more
-Maui wildfire
-
-Hawaii native Jason Momoa says he's 'devastated and heartbroken' by Maui wildfires
-
-r/entertainment
+r/pcgaming
 and more
 Create a post
-r/Damnthatsinteresting
+r/AskReddit
 •
-5 hr. ago
-The Red House That Survived Hawaii Wild Fires
-r/facepalm
+22 hr. ago
+What infamous movie plot hole has an explanation that you're tired of explaining?
+r/mildlyinfuriating
 •
 18 hr. ago
-Friend just posted this and was utterly serious
-r/WhitePeopleTwitter
+I was bitten by a lone star tick while hiking and now am severely allergic to meat.
+r/MadeMeSmile
 •
-4 hr. ago
-Alright, y’all. Place your bets. xD
+3 hr. ago
+Impractical Jokers making a man's day
