@@ -49,10 +49,19 @@ Learn about recent updates we’ve made to our policies. 
 
 Read blog post →
 
+Report copyright and trademark infringement
+
+
+We require information posted by members to be accurate, lawful, and not in violation of the rights of others.
+
+Go to Help Center →
+
 How our content abuse defense systems work
 
 
 Layers of protection help us detect and remove inappropriate content.
+
+
 
 Read blog post →
 
@@ -61,12 +70,16 @@ Misinformation and inauthentic behavior
 
 Resources to assist members in identifying trustworthy content.
 
+
+
 Read  →
 
 Keeping your feed relevant and productive
 
 
 Investments we’ve made in the feed content experience.
+
+
 
 Read blog post  →
 
@@ -77,6 +90,7 @@ How we address fake profiles
 
 Actions we take to keep you safe while engaging with the community.
 
+
 Read blog post →
 
 Improving the quality of jobs
@@ -85,6 +99,7 @@ Improving the quality of jobs
 
 
 How we’re keeping the job-search experience easy, safe, and effective.
+
 
 Read blog post →
 
@@ -145,10 +160,10 @@ The process we follow for law enforcement data requests, and our approach to tra
 
 Go to Help Center →
 
-Report copyright and trademark infringement
+How to contact LinkedIn under the DSA
 
 
-We require information posted by members to be accurate, lawful, and not in violation of the rights of others.
+How to contact LinkedIn's single point of contact in connection with the Digital Services Act.
 
 Go to Help Center →
 
