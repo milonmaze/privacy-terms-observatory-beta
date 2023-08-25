@@ -287,7 +287,7 @@ How to Contact Us
 
 If you have a privacy inquiry or concerns about the way GitHub is handling your personal data, please let us know immediately. We want to help. You may contact us by filling out the Privacy contact form. We will respond promptly.
 
-Our addresses are:
+Our address is:
 
 GitHub Privacy Team
 
@@ -295,16 +295,6 @@ GitHub, Inc.
 88 Colin P. Kelly Jr. St.
 San Francisco, CA 94107
 United States
-
-Privacy contact form
-
-GitHub Data Protection Officer
-
-c/o DP Dock DPO Services GmbH,
-Attn: GitHub BV, Gut Projensdorf,
-24161 Altenholz, Germany
-
-CC: GitHub BV, Vijzelstraat 68-72, 1017 HL Amsterdam, The Netherlands
 
 Privacy contact form
 
