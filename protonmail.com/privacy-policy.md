@@ -1,6 +1,6 @@
 Proton - Privacy policy
 
-Last modified: June 26th, 2023
+Last modified: August 22nd, 2023
 
 At Proton, we strongly believe in an internet where privacy is the default.
 
@@ -45,9 +45,7 @@ In order to pursue our legitimate interest of preventing the creation of account
 
 2.6 Communicating with Proton: Your communications with us, such as support requests, bug reports, or feature requests may be saved by our staff. We may also rely on third parties, such as Zendesk (see below). If you use Proton's live chat support, you consent to having the data contained within your live chat interaction processed by Zendesk Inc, the provider of Proton's live chat support platform. The legal basis for processing is our legitimate interest to troubleshoot more efficiently and improve the quality of our Services. The information you provide when you contact our support team is processed for analytics purposes (such as to obtain aggregate statistics), but we do not do any targeted advertising or any profiling.
 
-2.7 Communications from Proton: We mainly use your email address for account-related questions, communication, and recovery. By signing up to our Service, you agree to receive communications from us, which may include promotional emails. You can stop receiving emails from us by following the unsubscribe instructions included in every email we send. Alternatively, you can login
-(new window)
- to the Proton dashboard and adjust your email preferences under the ‘Account’ tab.
+2.7 Communicating with Proton's Sales team: if you are a Business customer or a business prospect and are contacting our Sales team via the dedicated forms, the data you provide is used solely for the purpose of processing your request and contacting you to assess whether our products will suit your needs. The legal basis for this processing activity is your consent.
 
 2.8 Payment information: We rely on third parties to process credit card, PayPal, and Bitcoin transactions and must therefore share payment information with them. We do not retain full credit card details, we only save your name and the last 4 digits of the credit card number. Anonymous cash or Bitcoin payments and donations are accepted. We may use your account data for payment-related matters, including but not limited to sending you emails, invoices, receipts, notices of delinquency, and alerts to update payment information. The legal basis of these processing activities is the necessity to the execution of the contract to provide the Services. In order to respect the principle of data minimisation, we reserve our right to remove payment information from our systems that is no longer valid, without notice.
 
