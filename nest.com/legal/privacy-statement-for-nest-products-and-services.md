@@ -2,7 +2,7 @@ Privacy Statement for Nest Products and Services
 
 Note: If you use your Nest devices and services with a Google Account, then your data will be handled as described in the Google Privacy Policy, and as explained in more detail in this Privacy FAQs Help Center page. Please also read Google’s commitment to privacy in the home.
 
-Policy active as of January 31, 2020. Review previous policies here. Read about our recent update here
+Policy active as of September 1, 2023. Review previous policies here.
 
 At Nest, we take your privacy seriously.
 
@@ -174,7 +174,7 @@ When we’re complying with legal obligations
 
 We process your data when we have a legal obligation to do so, for example, if we’re responding to a legal process or an enforceable governmental request.
 
-With your consent We ask for your consent to process your information for certain specific purposes and give you the right to withdraw that consent at anytime.
+With your consent We ask for your consent to process your information for certain specific purposes and give you the right to withdraw that consent at any time.
 
 In what circumstances does Nest share my information?
 
@@ -182,7 +182,7 @@ Under no circumstance do we share personal information for any commercial or mar
 
 With your permission: We may share personal information when we have your permission. One example of this would be if you invite another user to access the Products on your account as an additional authorized user. Another example is if you sign up for programs offered by our partners (e.g., energy or insurance companies); if you do this, we may share certain information with the partner. This could include things like your enrollment information and the activation status of your device. If you connect third-party devices and services to your Nest Products through the Works with Nest program, you are shown information about any proposed exchange of data. Nest or the third party will request your consent to these exchanges on your behalf and you can change your mind at any time. When you use third-party products and services integrated with the Nest Products, their own terms and privacy policies will govern your use of those products and services.
 
-For external processing: We have vendors, service providers, and technicians who help with some of our processing and storage,including helping to answer your questions. They may also assist with monitoring our servers for technical problems.  These technicians (as well as Nest employees) can access certain information about you or your account in line with this work but these technicians are not allowed to use this data for non-Nest purposes. We also have strict policies and technical barriers in place to prevent unauthorized employee access to video data.
+For external processing: We have vendors, service providers, and technicians who help with some of our processing and storage,including helping to answer your questions. They may also assist with monitoring our servers for technical problems. These technicians (as well as Nest employees) can access certain information about you or your account in line with this work but these technicians are not allowed to use this data for non-Nest purposes. We also have strict policies and technical barriers in place to prevent unauthorized employee access to video data.
 
 As part of business transitions: Upon the sale or transfer of the company and/or all or part of its assets, your personal information may be among the items sold or transferred. We will request a purchaser to treat our data under the privacy statement in place at the time of its collection.
 
@@ -210,17 +210,17 @@ If applicable law provides you the right to request access to, (receive) port, o
 
 How does Nest protect my personal information when it is transferred internationally?
 
-When we transfer personal data from the European Economic Area (“EEA”) Switzerland or the United Kingdom (“UK”) to other countries, including to the United States, we use a variety of legal mechanisms to help ensure your data is appropriately protected. Nest Labs Inc. complies with the EU-US Privacy Shield Framework and the Swiss–US Privacy Shield Framework (the “Privacy Shield”) regarding the collection, use, sharing, and retention of personal information from the EEA, Switzerland or UK to the United States, as described in our Privacy Shield certification. Nest adheres to the principles contained in the Privacy Shield (the “Principles”).
+When we transfer personal data from the European Economic Area (“EEA”) Switzerland or the United Kingdom (“UK”) to other countries, including to the United States, we use a variety of legal mechanisms to help ensure your data is appropriately protected. Nest Labs Inc. complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss–U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively, the “Data Privacy Framework” or “DPF”) regarding the collection, use, sharing, and retention of personal information received in the U.S. from the EEA, Switzerland or UK in reliance on the DPF. Nest has certified to the Department of Commerce that it adheres to the principles contained in the DPF (the “Principles”). To learn more about the DPF certification program, and to view our certification, please visit the Data Privacy Framework website.
 
-As part of our participation in Privacy Shield, if you have a dispute with us about our adherence to the Principles, you may refer a complaint to your local data protection authority and we will work with them to resolve your concern. (In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.) If you have a Privacy Shield-related complaint, please contact us at privacy@nestlabs.com.
+As part of our participation in the DPF, if you have an inquiry or complaint regarding our privacy practices in relation to our DPF certification, we encourage you to contact us at privacy@nestlabs.com. You may also refer a complaint to your local data protection authority, and we will work with them to resolve your concern. In certain circumstances, the Data Privacy Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Data Privacy Framework Principles. Nest is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (“FTC”).
 
-Privacy Shield participants are subject to the investigatory and enforcement powers of the US Federal Trade Commission and other authorized statutory bodies. Under certain circumstances (i.e. personal data sharing under the Onward Transfer Principle with third parties for external processing on our behalf), participants like us may be liable for the transfer of personal information from the EEA, Switzerland, or UK to third parties outside the EU. Learn more about Privacy Shield here.
+Nest remains responsible for any of your personal information that is shared under the Accountability for Onward Transfer Principle with third parties for external processing performed on our behalf, as described in the “In what circumstances does Nest share my information” section.
 
 We may share, as described in this Privacy Statement, information with our affiliates and subsidiaries, and third parties. We may disclose information in response to legal process and lawful requests by public authorities in the United States and other countries for the purposes of law enforcement and national security.
 
-Minors.
+Minors
 
-Only individuals aged 18 and older are permitted to act as Owners of Nest Accounts. Authorised Users must be over the age of 13 (or equivalent minimum age in the jurisdiction where they reside) and may use the Products and Services under the supervision of a parent or legal guardian and only if they agree to be bound by these Terms on your behalf. Nest Products and Services do not knowingly collect or store any personal information from anyone under the age of 13.
+Only individuals aged 18 and older are permitted to act as Owners of Nest Accounts. Authorized Users must be over the age of 13 (or equivalent minimum age in the jurisdiction where they reside) and may use the Products and Services under the supervision of a parent or legal guardian and only if they agree to be bound by these Terms on your behalf. Nest Products and Services do not knowingly collect or store any personal information from anyone under the age of 13.
 
 California requirements
 
