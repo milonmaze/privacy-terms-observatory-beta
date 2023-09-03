@@ -1,3 +1,5 @@
+PRIVACY
+
 Your data works for you
 
 When you work with Intuit, you get access to a platform of benefits powered by our innovative use of data that protects your privacy while powering your prosperity.
@@ -18,6 +20,9 @@ You can learn more about our platform and how we store and use your data in our 
 
 Go to Privacy Statement
 
+
+
+
 How we put your data to good use
 We personalize our services – just for you
 
@@ -26,6 +31,9 @@ We help you spend more time managing your finances and less time entering inform
 The right info at the right time
 
 Our offerings show you up-to-date recommendations and insights based on your data so you can make the financial decisions that are right for you. For example, cash flow insights in QuickBooks let you know the likelihood that an invoice will be paid late, so you can better prepare.
+
+
+
 
 We use artificial intelligence to show you these insights. This technology helps our services perceive, learn, reason, and predict patterns, empowering you to make decisions about your finances that are backed by data.
 
