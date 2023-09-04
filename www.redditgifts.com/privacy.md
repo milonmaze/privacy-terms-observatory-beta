@@ -1,50 +1,50 @@
 Advertisement
+Baldur's Gate 3
+
+Sing for Me - Baldur's Gate 3 Fan Art
+
+r/BaldursGate3
+and more
 Starfield
 
-Skyrim's in town map 12 years ago vs starfields.
+Starfield player takes a 7 hour journey to go to Pluto without using fast travel. In game of course.
 
-r/Starfield
+r/gaming
 and more
 One Piece on Netflix
 
-'One Piece' Review - Netflix Finally Breaks the Anime Adaptation Curse
+LUFFY IN ONE PIECE NETFLIX SERIES
 
-r/television
+r/OnePieceLiveAction
 and more
 U.S. Open Tennis
 
-The Unforgettable Upsets: Shaking the Tennis World at the US Open
+[Bastien Fachan] Ben Shelton with one of the most unique tennis seasons you’ll ever see: Australian Open QF -> 18 straight tournaments without winning two matches consecutively -> US Open QF
 
 r/tennis
 and more
 Fantasy Football
 
-Top 10 Fantasy Football Draft Values and Sleepers - Fantasy Football 2023
+This guy lost a fantasy football bet to his friends, so they made him sit at a separate table and eat dinner with a cardboard cutout of Marjorie Taylor Greene 🤣🤣🤣
 
-r/Fantasy_Football
-and more
-Baldur's Gate 3
-
-"Nice argument. Unfortunately," Baldur's Gate 3 Edition
-
-r/BaldursGate3
+r/Serverlife
 and more
 Italian Grand Prix
 
-Round 15: Italian Grand Prix, 2023 Track Maps [OC]
+Max Verstappen wins the 2023 Italian Grand Prix
 
 r/formula1
 and more
 Create a post
-r/funny
-•
-5 hr. ago
-Still deserves a raise.
 r/AskReddit
 •
-18 hr. ago
-Who is a celebrated famous person where everyone universally ignores the fact that they’re factually a giant POS?
-r/Damnthatsinteresting
+23 hr. ago
+What’s really dangerous but everyone treats it like it’s safe?
+r/whatisit
 •
-6 hr. ago
-The amount of steel that goes into the foundations of a nuclear power plant is next level.
+22 hr. ago
+Found at a gas station pump
+r/therewasanattempt
+•
+11 hr. ago
+To make a Reddit post
