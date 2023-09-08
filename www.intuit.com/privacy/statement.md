@@ -4,7 +4,7 @@ You deserve transparency into our data use
 Select your preferred language
 Intuit Global Privacy Statement
 
-Last Updated: December 1, 2022
+Last Updated: September 6, 2023
 
 See previous Privacy Statements
 
