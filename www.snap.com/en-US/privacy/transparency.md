@@ -45,7 +45,7 @@ Terrorist and Violent Extremist Content
 During the reporting period, we removed 132 accounts for violations of our policy prohibiting terrorist and violent extremist content.
 At Snap, we remove terrorist and violent extremism content reported through multiple channels. These include encouraging users to report terrorist and violent extremist content through our in-app reporting menu, and we work closely with law enforcement to address terrorist and violent extremist content that may appear on Snap.
 Total Account Deletions
-73
+132
 Self-harm and Suicide Content
 We care deeply about the mental health and well-being of Snapchatters, which has informed – and continues to inform – our decisions to build Snapchat differently. As a platform designed for communications between real friends, we believe Snapchat can play a unique role in empowering friends to help each other through difficult times.
 When our Trust & Safety team recognizes a Snapchatter in distress, they can forward self-harm prevention and support resources, and notify emergency response personnel when appropriate. The resources that we share are available on our global list of safety resources, and these are publicly available to all Snapchatters.
