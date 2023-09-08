@@ -15,6 +15,8 @@ California Consumer Privacy Notice
 Data protection notices for employees,
 contractors and applicants
 
+Switzerland Resident Privacy Notice
+
 Manage your privacy options
 
 Control how we can share your data and
@@ -59,12 +61,7 @@ Download our U.S. Online Privacy Notice in Spanish (PDF)
 Expand all
 panels
 Our Online Privacy Practices
-, closed
 Personal Information We Collect Online
-, closed
 How We Use and Share Personal Information
-, closed
 Online Behavioral Advertising
-, closed
 Additional Information
-, closed
