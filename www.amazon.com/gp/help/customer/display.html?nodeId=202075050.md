@@ -44,7 +44,7 @@ How Amazon Collects Your Personal Information
 How Amazon Protects Your Personal Information
 Manage Your Personal Information
 Interest-Based Ads
-EU-US and Swiss-US Privacy Shield
+EU-US and Swiss-US Data Privacy Framework
 About Cookies
 California Supply Chain Transparency Act Statement
 Law Enforcement Information Requests
@@ -52,7 +52,7 @@ Request Your Personal Information
 Communications from Amazon.com
 Legal Policies
 Your Security
-Report Unsolicited Package or Brushing Scams
+Report Unsolicited Packages or Brushing Scams
 Quick solutions
 	
 
