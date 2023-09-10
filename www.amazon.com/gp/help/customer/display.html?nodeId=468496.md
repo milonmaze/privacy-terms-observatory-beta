@@ -223,7 +223,7 @@ Legal Policies
 AMAZON INFLUENCER TERMS & CONDITIONS FOR SPONSORED CONTENT
 Conditions of Use
 Communications with Amazon Employees
-Report Stolen Goods
+Report Suspicious Activity
 Amazon.com Privacy Notice
 Amazon Group Companies
 Amazon Trademark Usage Guidelines
