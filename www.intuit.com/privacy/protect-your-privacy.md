@@ -1,12 +1,20 @@
+PRIVACY
+
 We promise to protect your privacy
 
 As technology advances, so do our privacy practices. We keep our customers at the center of our innovation as we create new ways to keep you and your data safe.
 
 Your data and marketing preferences
 
+
+
+
 Intuit Customers
 
 Current and past customers of Intuit products can download or delete personal data and manage marketing communication preferences.
+
+
+
 
 Your data
 
@@ -14,68 +22,51 @@ You can request to download a copy of all your data we have stored right from yo
 
 Manage your data
 
-
-
-
 Your preferences
 
 Hear from us all the time or only when something major happens in your account. You’re in control of how and when we reach out to you.
 
-
-
-
 Update your preferences
-
-Mailchimp Customers
-
-
-
+Mailchimp customers
 
 Learn more about cookies
 
-Cookies are small pieces of data we use to streamline your web experience. Cookies also assist us with our marketing and advertising activities. You can manage these preferences here.
+Cookies are small pieces of data we use to streamline your web experience. Cookies also assist us with our marketing and advertising activities. You can manage these preferences here:
 
 Learn more about cookies
+Mailchimp cookie statement
 
-Mailchimp Cookie Statement
-
-
-
-
-
-
-
-
-
-
-You can also manage your data for:
-
-Credit Karma
-
-Mailchimp
+You can also manage your data for: Credit Karma and Mailchimp
 
 
 
 
 Intuit ex-employees and applicants
 
-Worked for Intuit or applied for a job at Intuit? You can manage your data here.
-
-Intuit former employee and applicant data request
+Worked for Intuit or applied for a job at Intuit? You can manage your data at Intuit former employee and applicant data request
 
 Current employees can manage data via Insight. Former contingent workers should contact their agency to manage their data. For Credit Karma data access, please send a request to CPRAWorkerRequests@creditkarma.com.
 
-﻿Instructions for authorized agents
+Instructions for authorized agents
 
 If you are a California resident, you may have the right to use an authorized agent to exercise your rights.
 
 Data request form for authorized agents
 
+
+
+
 Being transparent
 
-Transparency matters. Learn more about the requests we process by viewing our Privacy Rights Transparency Report.
 
-View privacy rights transparency report.
+
+
+Current and past customers of Intuit products can download or delete personal data and manage marketing communication preferences.
+
+View privacy rights transparency report
+
+
+
 
 We don't sell your personal information
 
@@ -85,8 +76,3 @@ We don't sell your personal information
 We believe helping you to power your prosperity includes keeping the data you share with us safe. We promise to give you transparency and control over how your data is shared with third parties.
 
 Learn more about how we use your data
-
-
-
-
-
