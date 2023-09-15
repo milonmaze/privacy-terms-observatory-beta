@@ -1,5 +1,3 @@
-Important Update: We have updated our privacy statement effective Jan 1, 2023.  Learn More
-
 We’re committed to keeping your data safe and using AI responsibly
 
 When you use any of our offerings, including TurboTax, Credit Karma, QuickBooks, and Mailchimp, you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices, and we're intentional about how we use AI to deliver delightful experiences.
