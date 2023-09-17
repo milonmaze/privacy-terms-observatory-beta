@@ -1,216 +1,234 @@
 Advertisement
-Aaron Rodgers shares surgery update
+NFL Week 2
 
-Jets QB Aaron Rodgers says surgery for torn Achilles 'went great'
+NFL Week 2 Schedule
 
-r/sports
+r/NFLv2
 and more
-Live-action One Piece renewed
+Singapore Grand Prix
 
-'One Piece' Renewed for Season 2 on Netflix
+Singapore GP start times US EDT
 
-r/television
+r/GrandPrixRacing
 and more
-Jonathan Majors breaks up fight
+Mortal Kombat 1 release
 
-Jonathan Majors Breaking Up Intense High School Fight, First Video
+Mortal Kombat 1
+
+r/SteamDeck
+and more
+London Fashion Week
+
+Simone Ashley with Gemma Chan, Baz Luhrmann, Anna Wintour, and Versa Sharma for Vogue World London 🤩
+
+r/SimoneAshleyFans
+and more
+Premier League
+
+Who are the Premier League's most clinical strikers?
+
+r/reddevils
+and more
+Celebrity Gossip
+
+Hugh Jackman and Deborra-lee Separate After 27 Years of Marriage
 
 r/Fauxmoi
 and more
-Unity temporarily closes offices
-
-Unity temporarily closes offices amid death threats following contentious pricing changes
-
-r/gamedev
-and more
-Nipah virus in India
-
-India racing to contain deadly Nipah virus outbreak as hundreds are tested in Kerala state
-
-r/BreakingNews24hr
-and more
-Nintendo Direct
-
-Paper Mario: The Thousand-Year Door - Nintendo Direct 9.14.2023
-
-r/nintendo
-and more
 Create a post
-r/AskReddit
+r/CFB
 •
-21 hr. ago
-Americans, what is something that Europeans have/do that makes no sense to you?
-r/ask
-•
-20 hr. ago
-People attracted to men, what do you find attractive about men that most men are insecure about?
+13 hr. ago
+[Game Thread] Colorado State @ Colorado (10:00 PM ET)
+GAME	Colorado StateColorado State @ ColoradoColorado
 
-Yesterday I saw a wholesome post asking what men found attractive about women that women are insecure about and as a woman the comments section made me happy so I wanna redirect the question to anyone attracted to men: what do you find attractive that men seem to be insecure about? I'll go first, a man moaning. Hottest sound in the world
+Location	Colorado Folsom Field
+Time	10:00 PM ET
+Watch	TV: ESPN
+	Flair ¦ Discord ¦ /r/CFB Book
+	Made with the r/CFB Game Thread Generator
 
-r/madlads
-•
-3 hr. ago
-I'd say this counts
-r/AmItheAsshole
-•
-21 hr. ago
-AITA for suggesting my wife lower her standards so that she'll be less overwhelmed?
+Please keep trash talk civil, and report any comments that violate our rules.
 
-My wife (37f) and I (38m) have 3 kids, 12, 10, and 8. She is in a constant state of overwhelm and very easily irritated, constantly complaining how it's all too much. I'm of course happy to help and do my fair share for the kids or household, but it's never enough because her standards are too damn high.
-
-She insists one of us has to be up at 6:45 every morning to make sure the kids are ready and make the bus which comes at 7:45. I told her they're old enough to not need that much help already. They can all dress themselves and pour themselves cereal and milk, there's no reason we have to be up. She says that cereal isn't a good enough breakfast, they need something more substantial, especially the 12 year old, and that the 10 year old has adhd and will definitely struggle without help in the morning and anyway she wants to see them off and kiss them goodbye for the day. So she gets up, I don't, then she gets upset that I never give her a morning off when all she needs to do is just take the morning off when she wants and let the kids handle themselves.
-
-Also she is super strict about screen time during the week and is exhausted and snappy from arguing about it with the kids and upset i don't support her strict limit of 2 hours a day. I say as long as homework is done, why not until bed. She says it's not healthy for them, they need to play outside or with games and toys, read some books, just entertain themselves in more ways than 1. I agree they should enjoy other things but not seeing why we have to make such a rigid limit. She also likes to get out on weekends and do stuff like zoos, museums etc, but then complains about the planning for the outing and how grouchy the youngest gets by the end of it, and again, I say let's just chill at home and voila, you've cut the work!
-
-I'm an engaged and active parent, I'm not trying to get out of it, but I don't think I should have to help my wife dig herself out of her own self created holes. She creates the stress for herself and then turns to me to alleviate it which I think is unfair. AITA for telling her she needs to do less and then she won't need this level of help?
-
+LET'S TALK FOOTBALL!
 View full post
-r/NoStupidQuestions
-•
-14 hr. ago
-Why do males take so long to poo?
-
-All males I have dated, would come home after work and spend at least 30mins to 1 hour to poo and this would be almost daily. My ex even had a name for it. He has to go and "dominate", like what?
-
-Anyway why does males take so much longer than females?
-
-ETA: Male and Females to Men and Women I honestly wasn't thinking about the difference and didn't realise the terms would be offensive?
-
-r/therewasanattempt
-•
-5 hr. ago
-to explain how much she messed up
 r/MadeMeSmile
 •
-4 hr. ago
-A kid posed with his pilot dad in an airplane. Almost 30 years later they recreated the photo.
-r/therewasanattempt
+5 hr. ago
+Creating an arcade for your hardworking husband
+r/AskReddit
 •
-17 hr. ago
-To eat pasta with chopsticks in Italy
-r/AITAH
+16 hr. ago
+If someone gave you $1000 a day to never drink alcohol again/ever, what would you do?
+r/Cricket
 •
-18 hr. ago
-AITA for refusing to marry my high school sweetheart?
+6 hr. ago
+Match Thread: Final - Sri Lanka vs India
+Final, Asia Cup at Colombo
 
-My partner (28M) and I (29F) have been together for 12 years. We met when we were next-door neighbors as children and started dating at 16. We made it through high school, then college, and now we live together. We've both had conversations about marriage, and we agreed on it not being a priority as we're content with our lives right now. That was until I fell pregnant. I'm currently 33 weeks along, and my boyfriend proposed to me a week after we found out.
+Post Match | Cricinfo | Reddit-Stream | 🌥 🌥 🌥 🌥 🌥
 
-While I appreciate my partner's intention of wanting to do the right thing, I strongly believe that getting married solely because of the pregnancy is not a solid foundation for a lifelong commitment. My parents married only because they were about to have me, and it ended terribly. Marriage should be a thoughtful decision based on love, mutual respect, and shared aspirations, rather than a knee-jerk reaction to unexpected circumstances.
+Innings	Score
 
-He doesn't see it that way and has been pestering me about getting married throughout my pregnancy. He says now that it's his priority to get married before our baby is born because he wants our child to grow up in a traditional household. My partner has never been the conservative type and has been very liberal in his views, alongside coming from a liberal family. So, this confused and frustrated me a lot. We've gotten into big arguments over this topic.
+Sri Lanka	50 (Ov 15.2/50)
+India	51/0 (Ov 6.1/50)Batter	Runs	Balls	SR
 
-And now, I'm beginning to feel as though I should just say yes to minimize this constant tension and stress..
+Ishan Kishan*	23	18	127.78
+Shubman Gill	27	19	142.11Bowler	Overs	Runs	Wickets
+
+Charith Asalanka	0.1	1	0
+Dunith Wellalage	2	7	0
+Recent : 1  |  1 1 . . . .  |  4 . 2 1 . 4  |  . 1 . . . 4  |  1 
+
+India won by 10 wickets (with 263 balls remaining)
+
+Live match threads: South Africa vs Australia | Qatar vs Oman |
+
+Send feedback | Schedule | Stat Help | Glossary
 
 View full post
-r/mildlyinteresting
+r/todayilearned
 •
-5 hr. ago
-POV you’re short in the Netherlands and can’t see in the mirror
-r/shitposting
+3 hr. ago
+TIL that in Starship Troopers (1997) the crew used over 300,000 blank rounds. Thought to be a record at the time and due the following years of CGI, the record probably has never been broken.
+https://taskandpurpose.com/culture/starship-troopers-facts-trivia/
+r/oddlysatisfying
 •
 4 hr. ago
-Praise spez
-r/news
-•
-21 hr. ago
-Hunter Biden indicted on federal gun charges
-https://www.nbcnews.com/politics/politics-news/hunter-biden-indicted-federal-gun-charges-rcna39623
-r/funny
+LEGO bottle smashing
+r/Damnthatsinteresting
 •
 5 hr. ago
-AHOO
-r/FunnyandSad
-•
-23 hr. ago
-Americans be like: Universal Healthcare?
-r/WhitePeopleTwitter
-•
-12 hr. ago
-We’re shocked
-r/FunnyandSad
-•
-5 hr. ago
-bra-vo
-r/TikTokCringe
-•
-1 day ago
-A side of Taylor Swift I’ve never seen before
-r/gaming
-•
-22 hr. ago
-Unity Claims PlayStation, Xbox & Nintendo Will Pay Its New Runtime Fee On Behalf Of Devs
-https://twistedvoxel.com/unity-playstation-xbox-nintendo-pay-on-behalf-of-devs/
+How Christopher McCandless died (story in comments)
 r/texts
 •
-19 hr. ago
-Creepy ex coworker randomly messaged me and wont stop, for context hes at least 60 I'm 24 and hes married
+11 hr. ago
+Does my gf have a point here?
+r/AmItheAsshole
+•
+23 hr. ago
+AITA for refusing to cook separate meal for my niece ?
+
+I (F42) live with my husband (M45) and our daughters (F18 & F16). We live in a different city from our families due to work.
+
+A few months ago my sister asked me if her daughter Kate (F19) can stay with us since she was starting college in our city. She was scared of her daughter moving away for first time, especially to a big city like ours.
+
+I knew Kate from before Covid time and remembered her to be a smart sweet kid. I discussed with my husband and we agreed she can stay with us.
+
+Kate moved in around two months back. She was fine, came home on time, let us know her whereabouts, no partying.
+
+The issue was with food. She had turned vegan.
+
+Normally I cook for my family. I cook just one meal for all. And we are all diary obsessed people. Milk for cereal, butter in pancakes, cheese in everything. Eggs were our staple.
+
+Kate needed separate dishes altogether and we needed vegan substitutes for her. Since those are way more expensive, I told my sister she should give money to Kate so she can buy it. She stared telling me how family doesn't take money from family to feed kids. I told her I would feed Kate same as other kids but I won't spent excess money on her. She said thats fine.
+
+Since her mom won't buy it, Kate started buying plant based substitutes with her pocket money. For dishes like pancakes, I made food for her using her incrediants.
+
+But everytime I made a huge non vegan meal, she expected me to provide equivalent vegan meals. I drew line at that. I can't spend so much time cooking another meal. She said everyone else got to eat it while she was left with few stuff go eat. I told her she is free to cook for herself and she hated that idea.
+
+It came to a boiling point last weekend when we had a barbeque dinner with friends. She got upset that her salad was very basic, (it was good only with chicken added) and had nothing else to eat. She complained and I told her she can cook for herself. She got even more upset at that and called her mom crying about how I didn't make any good meals for her and expected her to fend for herself.
+
+My sister called me yelling at me how I didn't love her daughter and was intentionally excluding her. My parents are also taking their side.
+
+AITA ?
+
+View full post
+r/BeAmazed
+•
+8 hr. ago
+Tilly Smith, the girl who saved 100 people from Tsunami
+r/unitedkingdom
+•
+23 hr. ago
+Russell Brand accused of rape, sexual assault and emotional abuse
+https://www.mirror.co.uk/3am/celebrity-news/breaking-russell-brand-accused-rape-30955470
+r/TrueUnpopularOpinion
+•
+23 hr. ago
+A significant number of people are mentally addicted to weed, to the point they can't function in the real world when sober.
+
+Everyone loves to point to the fact that people don't have dangerous physical withdrawals from weed to make the case that you can't be addicted to it. But you absolutely can, mentally.
+
+A depressing number of people start their day by vaping or popping an edible and then try to maintain that high all day until they go to sleep. They simply cannot handle the world without it.
+
+r/awesome
+•
+8 hr. ago
+This is peak performance.
+r/news
+•
+22 hr. ago
+Russell Brand accused of sexual assault by four women
+https://www.bbc.com/news/uk-66831593
+r/dankmemes
+•
+4 hr. ago
+No, they are not the same
+r/Music
+•
+17 hr. ago
+What musical album is more of an experience / feeling than just an 'album'?
+
+I'm drunk and listening to the Dark side of the moon for the first time. It feels like a trip / experience. Wondering if there are any albums that have the same effect. Doesn't have to be the same genre
+
+r/wholesomememes
+•
+8 hr. ago
+Anon is thankful for his mom
+r/meirl
+•
+3 hr. ago
+meirl
+r/Decks
+•
+17 hr. ago
+What to do/put in the hole?
+r/therewasanattempt
+•
+20 hr. ago
+to travel safely
 r/memes
 •
 7 hr. ago
-Wonder what they're gonna do next?
-r/TwoHotTakes
+It's getting way too repetitive now
+r/nextfuckinglevel
 •
-19 hr. ago
-My sister is getting married, and this is the group text we received regarding our kids
-
-I(m) have 3 sisters. The first two, Lisa and Maggie, both have kids, and the youngest is the one getting married. At the time of the wedding, lisa's kids will 14, 11, and 8. Maggie's kids will be 9, 5, and 1.5, and mine will be 17, 14, 3.5, and 1.5. Both Maggie and I live in a different state, and will be traveling 1200+ miles to the wedding, Airbnb a house, renting cars.... ultimately spending quite a bit of money. There was early talk about how there weren't kids at the wedding, but immediate family would be ok. Bachelorette and bachelor parties are in Mexico and AZ respectively. My wife and I, as well as my 2 other sisters are in the wedding
-
-We recently received this text:
-
-Hey guys! I just want to make sure we are all aligned on my wedding and the festivities… since we are 9 months out I want to make sure you have adequate time to arrange plans
-
-No babies/children allowed at the bachelorette/ bachelor party
-
-No babies/ children allowed while we are getting ready - we need them to be watched during the day until family photos are scheduled. And even then you need someone to hold and help while photos are being done (Mom and dad will not be able to help)
-
-babies / children allow after dinner and a small part of the reception- then they need to go to the house next door.
-
-No MOH holding babies during the reception dinner as you will be making speeches
-
-No holding babies during the ceremony and we need to figure out who is holding the kids during the ceremony. Mom and Dad are not going to be able to help hold the kids at all through the day.. We have the house next door and the children can go there and we will help find a baby sitter for the night. I really want to make sure we have a chance to celebrate and we are not worrying about the kids. It is important to us that y’all are there and having a great time at our wedding. We are excited celebrate with y’all and have a stress free night!
-
-This text was specifically about Maggie and me (the two 1.5yo, 3.5yo, and 5yo are not ok to attend...we had to ask which kids specifically weren't allowed), but was sent to everyone. Maggie nurses, may continue to do so, and the 5 year old is good. My wife nurses, may continue, and my then 3.5yo has type 1 diabetes.
-
-So we are at a point where we go to the wedding, and stress about the babies. How's his blood sugar...he's low..is he getting a snack? He's high, is he getting a correction dose? If nursing, my wife won't be drinking. I also won't drink because we have to wake up to any alarms for high or low blood sugars. If it were an hour, ok...but it's looking like an all day thing.
-
-The other side is we decline to go. If it were anyone else we wouldn't deal with the hassle and politely decline the invite. This would create a mess with the family. Maybe we just decline the bachelor and bachelorette trips...or ask to be taken out of the wedding party.
-
-So, we take time off work, and spend thousands for a trip that we are ultimately going to be dreading. We won't enjoy the day/evening because we will be concerned for the babies, esp the 3.5yo and his care, and we're told it'll be a stress free night. Is this how others would feel? I really don't want to pay for a headache.
-
-View full post
-r/politics
+9 hr. ago
+In 2018, a Latvian firefighter named Tomas Jaunzems caught a woman mid-air as she jumped from her 4th story window in an attempt to end her own life.
+r/cats
 •
 23 hr. ago
-Republican sobs as she claims LGBTQ+ activists are ‘training’ children to use butt plugs and dildos
-https://www.thepinknews.com/2023/09/14/republican-butt-plugs-speech/
-r/BaldursGate3
-•
-21 hr. ago
-How do you guys manage to resist Karlach ?
-
-"Hey Soldier"
-"Hey Good Looking"
-"I LOVE YOU TOO"
-
-I want to romance Shadowheart in this playthrough but Karlach makes it pretty hard to not go for her for the 4th time.
-
-r/meirl
-•
-6 hr. ago
-Meirl
-r/marvelmemes
-•
-19 hr. ago
-Some of these lists must go through a random generator or something. I refuse to accept anything else.
-r/pics
-•
-5 hr. ago
-Greta getting arrested in Malmo.
+Just got cheated on, could use some pics of cats that don’t know how to sleep like normal cats.
 r/tumblr
 •
 4 hr. ago
-wingless pads
-r/technicallythetruth
+Colonel
+r/facepalm
 •
 5 hr. ago
-That's how it works
+Dude, she's only 12...
+r/AITAH
+•
+20 hr. ago
+AITAH for telling my GF I’m not ready to marry her
+
+My (30M) GF (30F) have been together for a year and a half. We live together in a house I bought alone. Honestly, she’s an amazing person. She’s extremely caring, thoughtful, sexy, always in “the mood”, etc. She’s a sexy saint.
+
+However, we see life very very differently. With money for instance, I make more than double her income and because of this, I pay the vast majority of the bills, which I’m honestly fine with. She helps out with groceries and some bills, it works. The problem is that, she has lots of disposable income and she treats it as such. She NEVER has money for the things she needs. Her car has problems, she needs to borrow money from me, she wants to go on vacation, she racks up massive credit card bills. She generally owes me between $1k-$4k at any given time, and when she starts paying me back, she inevitably needs to borrow more at some point. I know she’s not on drugs, she literally spends it all on useless crap; constantly replacing our dishes, for example.
+
+She’s extremely difficult to communicate with and reacts very harshly to things that make no sense to me. For example, I was engaged before we got together (she knew this). I’ve had junk mail show up with my exes name and I got absolutely blasted from her. She threatens to pack up and leave because of things like this, that I don’t think I have control over. And she will NOT explain why she’s so mad about it.
+
+Lots of things like this have been building. Recently, the straw the broke the camels back and destroyed my “spark” for her happened. She talked about marriage, having kids, etc. I asked her why she wants to get married and she said “because she wants to throw a party.” This seems wildly inappropriate and a weak reason to make such a strong commitment.
+
+So I told her I’m not ready to marry her because of the reasons above, and similar things that aren’t mentioned for length purposes. She lost her mind, cried, said she was going to pack up, said things are not salvageable, then changed her mind and wants to work it out. AITAH?
+
+View full post
+r/WhitePeopleTwitter
+•
+19 hr. ago
+Gavin Newsom is leading the way
+r/comics
+•
+3 hr. ago
+Divine Intent
