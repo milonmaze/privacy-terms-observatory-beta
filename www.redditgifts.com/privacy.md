@@ -1,54 +1,50 @@
 Advertisement
-Unity issues apology
+Payday 3 server issues
 
-I am very glad Unity posted this about upcoming policy changes!
+Server issues
 
-r/Unity3D
+r/paydaytheheist
 and more
-Blue Jackets coach resigns
+Doja Cat new album
 
-Babcock resigns as Blue Jackets head coach amid photo allegations
+Doja Cat Releases 'Scarlet' Album, Defends Artwork & Explains Meaning of Spider Image
 
-r/sports
+r/ThisCelebrity
 and more
-Russell Brand investigations
+49ers
 
-Russell Brand: BBC looking into issues raised by allegations
+GEQBUS LEADS 49ERS TO ANOTHER WIN
 
-r/television
+r/the_darnold
 and more
-Billy Miller dead at 43
+Angus Cloud's cause of death
 
-Billy Miller Dies: ‘The Young And The Restless’ Daytime Emmy Winner Was 43
-
-r/Fauxmoi
-and more
-Adele and Rich Paul
-
-Adele Causes Marriage Speculation With Rich Paul After Calling Him ‘Husband’
+Angus Cloud’s Cause of Death Revealed Nearly 2 Months After His Tragic Passing
 
 r/popculturechat
 and more
-Balmain robbery
+WWE releases
 
-Balmain gets over 50 pieces of clothing stolen right before their show
+WWE releases Elias, Top Dolla, Rick Boogs, and more (UPDATING)
 
-r/Fauxmoi
+r/CagesideSeatsPro
+and more
+Joe Jonas responds
+
+Joe Jonas Says Sophie Turner Can't Violate Divorce Judge's Order, Kids Must Stay in U.S.
+
+r/entertainment
 and more
 Create a post
 r/comics
 •
-3 hr. ago
-Never heard of it
+2 hr. ago
+[OC] Words don't hurt me
 r/mildlyinteresting
 •
-4 hr. ago
-They have baguette vending machines in France.
-r/movies
+2 hr. ago
+The president of Indonesia officially named this train "Whoosh"
+r/facepalm
 •
-15 hr. ago
-What’s a film whose cult status still baffles you?
-
-Mine is The Big Lebowski. Not because it’s not a good movie; on the contrary, I really enjoyed it. But I just don’t think I understand it on the level that many others seem to do. And while I find it entertaining, it still surprises me how popular and fiercely defended it is to this day, with some even claiming it’s the best Cohen brothers movie ever. Am I crazy? What are some of yours?
-
-EDIT: For the record, no, I am not a golfer.
+23 hr. ago
+biblical facepalm
