@@ -57,8 +57,13 @@ Alexa & Alexa Device Terms
 Device Warranty for Alexa Devices and Accessories
 Device Warranty for Smart Home
 Echo Buds Battery Life Testing Information
+Alexa Emergency Assist - Emergency Contacts FAQs
+Alexa Emergency Assist - Sound Detection FAQs
+Alexa Emergency Assist - Urgent Response FAQs
+Alexa Emergency Assist – Testing Urgent Response and Sound Detection
+Alexa Guard Transition FAQs
 Learn More About Your Sweat Resistant Echo Buds
-Learn More About Your Splash-Resistant Echo Frames
+Learn More About Your Sweat and Water Resistant Echo Frames and Carrera Smart Glasses
 Learn More - Do Not Send Voice Recordings
 About Find My
 Amazon Sidewalk Privacy and Security Whitepaper
