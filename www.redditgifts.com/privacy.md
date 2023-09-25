@@ -1,50 +1,53 @@
 Advertisement
-PayDay3
+Writers strike tentative deal
 
-Current status of PayDay 3 in a nutshell
+Deal! WGA, AMPTP Reach Historic Contract Agreement to End 146-Day Writers Strike
 
-r/paydaytheheist
+r/popculturechat
 and more
-Jujutsu Kaisen
+Taylor Swift and Travis Kelce
 
-“Next.” (Coloured by me)
+Taylor Swift and Travis Kelce leaving Arrowhead Stadium together after his game.
 
-r/JuJutsuKaisen
+r/Fauxmoi
 and more
-NFL Week 3
+Women's marathon record smashed
 
-Chicago Bears: Complete timeline of their 2023 season disaster (so far)
+Ethiopian Tigst Assefa smashes women's marathon world record in Berlin
 
-r/nfl
+r/nextfuckinglevel
 and more
-Rugby World Cup
+Dolphins beat Broncos
 
-Portugal's First Try in the Rugby World Cup 🐺🇵🇹🏉
+Mostert, Achane score 4 times each as Dolphins hang 70 on Broncos
 
-r/rugbyunion
+r/sports
 and more
-Cyberpunk 2077
+Sicilian mafia 'godfather' dies
 
-Cyberpunk 2077: Update 2.0, The free Update 2.0 for Cyberpunk 2077 is now available!
+Sicilian mafia boss Matteo Messina Denaro has died, Italian media
 
-r/cyberpunkgame
+r/worldnews
 and more
-Japan Grand Prix
+Chris Brown Popeyes lawsuit
 
-2023 Japanese Grand Prix - Free Practice 1 Results
+Chris Brown Hit With $2 Million Lawsuit Over Unpaid Popeyes Chicken Loan
 
-r/formula1
+r/entertainment
 and more
 Create a post
-r/aww
+r/comics
 •
-6 hr. ago
-Pregnante cat walk.
-r/starwarsmemes
+3 hr. ago
+My 2 Cats
+r/Music
 •
-4 hr. ago
-Love the show, just saying
+15 hr. ago
+What's the saddest song you've ever heard?
+
+For me, it's "Hold on'. I need songs with good lyrics that express emotion. Any genre is allowed, I just want songs with original lines that artists made so that the listener feels what they feel. I need to really poured my heart into it
+
 r/therewasanattempt
 •
-21 hr. ago
-To get a tip
+13 hr. ago
+to walk to work
