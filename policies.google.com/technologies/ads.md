@@ -214,4 +214,4 @@ Türkçe
 中文（简体中文）
 中文（繁體中文）
 日本語
-GoogleAbout GooglePrivacyTerms
+GoogleAbout GooglePrivacyTermsTransparency Center
