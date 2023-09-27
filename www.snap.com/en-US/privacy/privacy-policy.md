@@ -1,4 +1,3 @@
-We’ve updated our Privacy Policy, effective August 15, 2023.  You can view the prior Privacy Policy, which applies to all users until August 15, 2023, here.
 Privacy Policy
 Effective: August 15, 2023
 Snap Inc. is a technology company. Our products and services — including Snapchat, Bitmoji, Spectacles and other hardware, advertising, commerce, and others that link to this Privacy Policy — provide fast, fun, and personalized ways to express yourself, live in the moment, learn about the world, and have fun together! 
