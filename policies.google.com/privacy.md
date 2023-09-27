@@ -425,6 +425,7 @@ Specific Google services
 
 The following privacy notices provide additional information about some Google services:
 
+Chrome & the Chrome Operating System
 Payments
 Fiber
 Google Fi
