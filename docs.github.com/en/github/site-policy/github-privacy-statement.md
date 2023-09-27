@@ -401,3 +401,5 @@ Disclosures of personal data for business or commercial purposes. As indicated i
 Parties that control collection of personal data. In certain situations, we may allow a third party to control the collection of your personal data. For example, on our Enterprise Marketing Pages, advertisers may be the controllers of information they collect through their cookies.
 
 We use the categories of personal information described above for the purposes listed in the "GitHub Privacy Statement" section of our Privacy Statement. We also disclose the categories of personal information listed above for business purposes. Please see the "GitHub Privacy Statement" section of our Privacy Statement for additional details.
+
+Press alt+up to activate
