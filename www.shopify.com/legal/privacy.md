@@ -221,7 +221,7 @@ Right to Know: The right to request that we disclose to you the personal informa
 Right to Request Correction: The right to request that we correct inaccurate personal information that we maintain about you.
 Right to Request Deletion: The right to request that we delete personal information that we have collected about you.
 
-To exercise your rights, including the “right to know” and “right to delete,” please submit a request through our online portal. If you use Shop or Shop Pay, please visit https://shop.app/opt-out for instructions on how to request deletion of your information.
+To exercise your rights, including the “right to know” and “right to delete,” please submit a request through our online portal. If you use Shop or Shop Pay, please visit https://shop.app/delete-account for instructions on how to request deletion of your information.
 
 If you have visited or made a purchase from a merchant’s Shopify-powered store, please contact the specific merchant directly. If you make a request to us, we will forward your request to the relevant merchant.
 
