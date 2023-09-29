@@ -104,7 +104,7 @@ Your rights over your information
 
 If you would like to access or request that we delete your personal information, and you use any of the below services, please follow the instructions below:
 
-If you use Shop or Shop Pay: Please visit https://shop.app/opt-out for instructions on how to request deletion of your information. To make a request to access your information or another type of request, please submit a data subject request through our online portal
+If you use Shop or Shop Pay: Please visit https://shop.app/delete-account for instructions on how to request deletion of your information. To make a request to access your information or another type of request, please submit a data subject request through our online portal
 
 If you receive newsletters or marketing from us: please click ‘Unsubscribe’ from the bottom of those emails
 
