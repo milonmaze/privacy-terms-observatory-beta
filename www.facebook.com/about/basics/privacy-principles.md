@@ -4,6 +4,9 @@ Explore Guides
 Safety
 Protecting yourself and your information
 Get started
+Generative AI
+Generative AI at Meta
+Get started
 Sharing
 Control who can see what you share on Meta
 Get started
