@@ -5,9 +5,9 @@ If your organization signed a Dropbox Business, Dropbox Services, or Dropbox Ent
 
 Dropbox Privacy Policy
 
-Posted: January 17, 2023
+Posted: September 26, 2023
 
-Effective: April 3, 2023
+Effective: September 26, 2023
 
 You can see the previous Privacy Policy here.
 
