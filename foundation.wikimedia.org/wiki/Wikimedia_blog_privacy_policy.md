@@ -1,4 +1,5 @@
 Jump to content
+[dismiss]
 
 Welcome!
 
