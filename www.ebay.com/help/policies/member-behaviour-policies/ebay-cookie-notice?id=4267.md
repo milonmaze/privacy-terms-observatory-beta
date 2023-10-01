@@ -78,3 +78,4 @@ Get the help you need from our automated assistant, or contact an agent
 Other options for you
 Ask the Community
 - opens in new window or tab
+Get the help you need from our automated assistant, or contact an agent.
