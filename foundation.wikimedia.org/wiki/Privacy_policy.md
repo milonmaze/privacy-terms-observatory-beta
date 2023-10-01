@@ -1,4 +1,7 @@
 Jump to content
+
+Photograph a historic site, help Wikipedia, and win a prize. Participate in the world's largest photography competition this month! Learn more
+
 [dismiss]
 (Redirected from Privacy policy)
 Translate this page
