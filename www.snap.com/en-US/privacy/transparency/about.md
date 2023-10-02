@@ -1,5 +1,6 @@
 About Transparency Reporting
 July 1, 2022 - December 31, 2022
+
 Throughout this Transparency Report, we highlight how we enforce safety and privacy across our platform. Beyond simply reporting our data, here we provide additional context and insight into our safety principles, policies, and practices, as well as links to various safety and privacy resources.
 History of Snap’s Transparency Reporting
 Since 2015, we have produced Transparency Reports that provide important insight into the volume and nature of government requests for Snapchatters' account information and other legal notifications.
