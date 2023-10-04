@@ -1,204 +1,194 @@
-Advertisement
-Adam 'Edge' Copeland to AEW
+LoL: Worlds 2023 anthem
 
-WWE legend Adam 'Edge' Copland debuts at AEW WrestleDream
+GODS ft. NewJeans (뉴진스) (Official Music Video) | Worlds 2023 Anthem - League of Legends
 
-r/professionalwrestling
+r/leagueoflegends
 and more
-Tim Wakefield dead at 57
+Matty Healy apology
 
-RIP Tim Wakefield 1966-2023
-
-r/massachusetts
-and more
-Beyoncé tour film
-
-RENAISSANCE: A FILM BY BEYONCÉ
+Matty Healy Pledges to 'Do Better' and Asks Crowd to Applaud His Apology
 
 r/Fauxmoi
 and more
-Jrue Holiday traded to Celtics
+Ahsoka Part Eight
 
-[Woj] BREAKING: The Portland Trail Blazers are trading guard Jrue Holiday to the Boston Celtics, sources tell ESPN.
+Ahsoka - Episode 8 - Discussion Thread!
 
-r/bostonceltics
+r/StarWars
 and more
-Nobel Prize in medicine
+Netflix ‘planning price increase’
 
-Nobel Prize in medicine awarded to scientists who laid foundation for messenger RNA vaccines
+Netflix Plans Price Hike After Actors’ Strike Is Resolved (Report)
 
-r/technology
+r/television
 and more
-Taylor Swift at Chiefs-Jets game
+21 dead in Venice bus crash
 
-Taylor Swift cheers for Travis Kelce at Chiefs vs Jets game with Sophie Turner, Blake Lively, and more
+At least 21 dead after coach veers off overpass near Venice
 
-r/popculturechat
+r/worldnews
+and more
+World Animal Day
+
+🔥Skulk of foxes enjoying the summer blooms..
+
+r/NatureIsFuckingLit
 and more
 Create a post
-r/TaylorSwift
+r/mildlyinteresting
 •
-15 hr. ago
-Football (Taylor's Version) - Chiefs vs Jets Megathread
-
-We are now in our football era!
-
-Please keep discussion about today's game and photos/videos/gifs of Taylor sightings within this megathread. Most posts outside of this thread related to today's game will not be approved.
-
-Enjoy!
-
+6 hr. ago
+Flying over Antartica from chile to australia
 r/AskReddit
 •
-17 hr. ago
-What is the biggest "lie" told to people in human history?
-r/UpliftingNews
+20 hr. ago
+What is something that smells great but isn't perfume?
+r/politics
 •
-4 hr. ago
-Nobel Prize goes to scientists behind mRNA Covid vaccines
-https://www.bbc.com/news/health-66983060
-r/wholesomememes
-•
-4 hr. ago
-That's nice
-r/todayilearned
-•
-6 hr. ago
-TIL that in 2011 a court in the U.K. banned a man with a 48 IQ from having sex determining that he didn't have the mental capacity to understand the health risks associated with his actions.
-http://www.bailii.org/ew/cases/EWHC/COP/2011/101.html
-r/AITAH
-•
-12 hr. ago
-AITA for no longer seeing a girl bc she’s trans?
+20 hr. ago
+Discussion Thread: House Considers Vacating the Speaker
 
-I28m work with a trans girl. I would’ve thought she was born a female. She had asked me to the movies and we went on 2x after. On our 3rd day, she told me she was transgender. I was polite, cut the date short, and avoided her at work and was short with texting. Two nights ago she texted me this huge paragraph about how she really liked me and how I hurt her feelings and she wanted an explanation. I told her it wasn’t her but that I simply couldn’t be with someone who was born a male. She got upset and accused me of being transphobic, she said it shouldn’t matter what she was born with because she is all girl now. My two friends think I’m in the wrong because she has had the surgery. Aita
+Selected Reporting:
 
-r/movies
-•
-16 hr. ago
-What is a movie you were allowed to see at a young age that traumatized you and made you question if your parents made the right decision by letting you see it?
+AP News: McCarthy ouster vote ahead as he confronts GOP critics but says he won’t cut a deal with Democrats
 
-I’ll go first: My mom let me watch the movie Cujo when I was probably 8 or 9 years old…at night. That movie haunted me for years!! It made me nervous around dogs for a long time. Once I got older and I saw that movie in a list of movies to watch on a streaming program it made me question why the hell would she let me see that movie at such a young age?! Lol another movie I watched back then was Birds, that movie freaked me out too!
+Where to Watch:
 
-What’s yours??
+Reuters via YouTube: US House expected to vote on motion to oust Speaker Kevin McCarthy
 
-r/me_irl
-•
-6 hr. ago
-me_irl
-r/news
-•
-4 hr. ago
-Nobel Prize goes to science behind mRNA Covid vaccines
-https://www.bbc.co.uk/news/health-66983060
-r/Starfield
-•
-18 hr. ago
-It's been 1 month since Early Access. How would you personally rate Starfield?
+C-SPAN: House Session, Part 2
 
-Now that we've all had a chance to spend some time with the game, I'm curious how everyone would rate it.
-
-Did it meet your expectations?
-
-Do you like it better or worse than previous BGS games?
-
-Biggest pros and cons?
-
-Please be respectful of each other's opinions. Let's keep the hostility towards each other to a minimum and give people the chance to say their piece.
-
-r/facepalm
-•
-7 hr. ago
-Who forced him? His own lust?
-r/nextfuckinglevel
-•
-4 hr. ago
-Teacher showing the wonder of science.
-r/meirl
-•
-21 hr. ago
-Meirl
-r/comics
-•
-2 hr. ago
-This Artist Sucks
-r/oddlysatisfying
-•
-6 hr. ago
-Perfect packaging
-r/meirl
-•
-9 hr. ago
-Meirl
-r/facepalm
-•
-15 hr. ago
-I am confused
-r/AmItheAsshole
-•
-11 hr. ago
-AITA for telling my wife I'm not going to sacrifice my hobbies just so that I can babysit?
-
-My wife Jane (34F) and I (38M) have been together for 5 years. She also brought my step-daughter Emily (9F) into our marriage. We have her for four days a week (M-T) while she's at her dad's Fri-Sun.
-
-From the beginning, Jane told me Emily doesn't need a second father figure as she has her dad to fill that role. I was only supposed to be a trusted authority figure in case she ever needed anything. I didn't mind and try my best to respect that boundary. She's a sweet child anyway and doesn't cause trouble so it's not like I have to discipline her. Her father is also a good dad.
-
-Emily's dad recently got married and his wife has two kids of her own who are at their place Wednesday to Saturday and at their dads' Sunday to Tuesday. Emily and her new step-siblings don't get along at all. They're always fighting and it's pretty toxic.
-
-Emily's dad asked Jane if they change their custody schedule to match his step-kids' to keep the children apart. It's not a big deal in and of itself because we don't live far from each other so picking and dropping is no issue and she can easily be dropped off to school no matter where she stays. The issue is my wife agreed to it without consulting me.
-
-Jane is currently doing a certification course for the next 12 months and they have classes on Saturdays from 9-5pm. She asked me if I can babysit Emily on Saturdays, but I can't because I play golf with my brother and sister on Saturday mornings from 8am-1pm. This has been our tradition from before Jane and Emily came into my life and I had told Jane from much before that this is important to me and my siblings. She asked if I can move to another day but that's not possible either because my siblings also have jobs and families of their own so Saturday was the best day for us. I told her she can hire a babysitter but she doesn't want to spend money when I can do it for free.
-
-I told her that wouldn't work for me. She then got mad and said golf is stupid and I should put my step-daughter over my siblings. That pissed me off so I told her I'm not going to sacrifice my hobbies just so that she can have a free babysitter. For the record, I don't have anything against Emily. I've babysat her before and she's a good kid. If there was a family emergency or if it was an occasional occurrence, then yeah I would cancel golf for that day to take care of her but I can't give up something this important to me for 12 months continuous.
-
-She called me a selfish asshole and slept on the couch last night. So AITA?
-
-View full post
-r/nba
-•
-22 hr. ago
-[Wojnarowski] The Celtics are trading Robert Williams, Malcolm Brogdon, 2024 GSW 1st, 2029 unprotected BOS first to the Blazers, sources tell ESPN.
-twitter.com
-Open
-r/news
-•
-15 hr. ago
-Husband and wife dead after bear attack in Banff National Park, grizzly killed
-https://www.cbc.ca/news/canada/calgary/two-killed-grizzly-attack-banff-1.6983944
-r/gaming
-•
-16 hr. ago
-What games made you really emotional?
-
-I just finished GOW: Ragnarok and boy were there some hard hitting moments throughout the ending. The game hits hard as a father and a veteran. It Takes Two hit hard after going through a divorce. Anything that echoes a real life experience seems to really hit home, which makes sense. Outer Wilds was another game that wrapped up in a beautiful way.
-
-Is there anything that reaches y'all in the same way?
-
-r/UkraineWarVideoReport
-•
-4 hr. ago
-Musk trying hard to get more advertisers onboard.
-r/Landlord
-•
-18 hr. ago
-[Tenant] [USA] Is my landlord allowed to do this?
-r/FluentInFinance
-•
-19 hr. ago
-Do you consider these Billionaire Entrepreneurs to be "Self-Made"?
-r/Weird
-•
-9 hr. ago
-I just found these two rooms under my house...
-r/BaldursGate3
+r/StarWars
 •
 13 hr. ago
-Minthara makes me sad saying this, so many players do it.
-r/UkraineWarVideoReport
+Ahsoka - Episode 8 - Discussion Thread!
+https://www.reddit.com/r/StarWars/comments/16z8xq2/ahsoka_episode_8_discussion_thread/
+self.StarWars
+r/Jujutsushi
 •
-14 hr. ago
-Elon Musk's tweet about Zelensky.
+10 hr. ago
+Jujutsu Kaisen Chapter 238 Pre-Release Leaks Thread
+https://www.reddit.com/r/Jujutsushi/comments/16zd9xj/jujutsu_kaisen_chapter_238_prerelease_leaks_thread/
+r/news
+•
+17 hr. ago
+House ousts Kevin McCarthy as speaker, a first in U.S. history
+https://www.cnbc.com/2023/10/03/house-speaker-kevin-mccarthy-will-bring-gaetz-motion-to-oust-him-vote.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard
+r/politics
+•
+1 hr. ago
+Donald Trump's Properties Will Likely Be Auctioned Off, Attorney Says
+https://www.newsweek.com/donald-trump-properties-auctioned-off-fraud-trial-tristan-snell-1832011
+r/neoliberal
+•
+19 hr. ago
+🚨🚨 Motion to Vacate Speaker McCarthy Vote THUNDERDOME 🚨🚨
+
+Watch live on cspan: https://www.c-span.org/video/?530878-3/house-session-part-2&live=
+
+FINAL VOTE TALLY
+
+Vacate: 216
+
+No: 210
+
+I've seen enough, Kevin McCarthy has been removed as Speaker of the House of Representatives, the first time such an event has happened in the history of the United States.
+View full post
+r/Damnthatsinteresting
+•
+8 hr. ago
+Flying over Antartica is the quickest route from Chile to Australia
+r/MurderedByWords
+•
+8 hr. ago
+I spy with my little eye
+r/Teachers
+•
+5 hr. ago
+Parent came in to observe my class to see why their child is failing and the kid didn't know.
+
+I have a student that is failing. All she does all day in class is sleep, try to get on her phone, and ask to go to the restroom, nurse, or counselor for long periods of time. During my class, I get a knock on the door from someone in the office, and they ask to speak with me outside. I go out and see a woman who is the aforementioned student's mother.
+
+She came to observe her child in classes to see why she is failing. She tried talking to her daughter but all she told her was that the teachers don't know how to teach and that she doesn't understand them; that she turned in all of her work and her teachers haven't graded them yet. The usual excuses. The mother wanted to see for herself what was going on before she made her judgement, but told me she "doubts that all teachers don't know how to teach" and already knows her daughter "talks out of her ass". She asked what her daughter was doing now and I showed her that she was sleeping in class. The mother asked if she could go wake her up and I allowed it.
+
+The mother walked to the front of the classroom, tapped at her daughter's desk to wake her up, and proceeded to chew her out for a few minutes. I must admit, the look on that poor girl's face waking up to see her pissed off mother in the classroom was priceless. She didn't yell but everyone was quiet when she started talking so everything could be heard, then walked to the back of the room to sit and observe the rest of the lesson.
+
+I taught my lesson as usual and then met with the mother after class, who liked that my way of teaching was approachable as well as the opportunities to pass that I provided the kids even though math may not be their best subject. I spoke with the mother about what she needed to pass along with my email to contact me whenever she wanted an update.
+
+I think more parents should do surprise visits like this to see what their kid is actually doing in class when they think their parent is not looking. I know I shouldn't be too happy about this, but I found the situation hilarious even though I feel a little bad how embarrassed the girl must feel having her mother escort her straight to her classes in high school and watch her flounder through lessons she never paid attention to. I do hope this results in a positive change in her behavior and work ethic for the rest of the year.
+
+View full post
+r/memes
+•
+5 hr. ago
+Thank you, Elon.
+r/WhitePeopleTwitter
+•
+1 day ago
+Who had Zombie apocalypse for Wednesday? Be careful out there people....
+r/nextfuckinglevel
+•
+10 hr. ago
+Michael Phelps with the longest televised putt ever, 160 feet. Yes, Michael Phelps
+r/mildlyinfuriating
+•
+20 hr. ago
+Changed the baby’s diaper and when I was done I found out my 2 year old son had found a purple permanent marker and did artwork on my new crate and barrel couch 😫
+r/Weird
+•
+10 hr. ago
+there was a zit on my neck and when it popped this pearl-like thing came out of it
+r/tumblr
+•
+7 hr. ago
+Lol
+r/funny
+•
+12 hr. ago
+What's protocol here. Tickle or grab aggressively and not let go?
+r/aww
+•
+4 hr. ago
++300 cat sanctuary in Romania
+r/StandUpComedy
+•
+10 hr. ago
+I get it
+r/pics
+•
+18 hr. ago
+Selfie by Helen Hunt after she found a copy of Twister while thrift shopping
+r/OneOrangeBraincell
+•
+10 hr. ago
+The color of the cat in the pic cannot be just a coincidence
 r/worldnews
 •
-3 hr. ago
-Nobel Prize goes to scientists behind mRNA Covid vaccines
-https://www.bbc.co.uk/news/health-66983060
+11 hr. ago
+Philippines says three fishermen killed after boat rammed by ‘foreign’ vessel in South China Sea
+https://www.cnn.com/2023/10/03/asia/philippines-south-china-sea-scarborough-shoal-fishermen-dead-intl-hnk/index.html
+r/BeAmazed
+•
+13 hr. ago
+She Eats Through Her Heart
+r/todayilearned
+•
+11 hr. ago
+TIL That Terry Pratchett changed German publishers because Heyne inserted a soup advert into the text of one of his novels and wouldn't promise not to do it again.
+https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/
+r/wholesomememes
+•
+8 hr. ago
+Well, that explains Captain's perfect teeth!
+r/unpopularopinion
+•
+20 hr. ago
+Bacon does not belong on burgers
+
+Basicslly jsut the title, I have never understood why you would want to put bacon on a burger. The last thing a burger needs is more grease and if you have a really good burger, it needs very little to accompany it. Even if it's a bad burger, adding bacon to it doesn't improve it, it just masks the bad burger, so just eat a BLT and forget your bad burger. Having meat to accompany your meat is gross and unnecessary.
+
+r/mildlyinfuriating
+•
+2 hr. ago
+My $400 baby monitor has locked previously free features behind a monthly subscription.
+ 
