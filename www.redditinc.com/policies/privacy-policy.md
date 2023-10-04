@@ -1,4 +1,3 @@
-Advertisement
 Reddit Privacy Policy
 English (US)
 Revisions
