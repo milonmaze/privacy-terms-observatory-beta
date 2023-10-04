@@ -2,8 +2,6 @@ Jump to content
 
 Photograph a historic site, help Wikipedia, and win a prize. Participate in the world's largest photography competition this month! Learn more
 
-[dismiss]
-
 Welcome!
 
 This is the privacy policy for the Wikimedia Blog, the official blog of the Wikimedia Foundation (WMF) and the Wikimedia movement. We post information about new developments in wiki technology, cool things that members of the Wikimedia community do, and projects that the Wikimedia Foundation undertakes.
