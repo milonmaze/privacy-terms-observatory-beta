@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective July 1, 2023 | Archived versions | Download PDF
+Effective October 4, 2023 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -425,7 +425,6 @@ Specific Google services
 
 The following privacy notices provide additional information about some Google services:
 
-Chrome & the Chrome Operating System
 Payments
 Fiber
 Google Fi
