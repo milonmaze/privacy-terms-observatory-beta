@@ -2,6 +2,11 @@ Jump to content
 
 Photograph a historic site, help Wikipedia, and win a prize. Participate in the world's largest photography competition this month! Learn more
 
+(Redirected from Wikimedia blog privacy policy)
+	
+
+Please note: This page is kept for historical reasons and may be out-of-date or inaccurate.
+
 Welcome!
 
 This is the privacy policy for the Wikimedia Blog, the official blog of the Wikimedia Foundation (WMF) and the Wikimedia movement. We post information about new developments in wiki technology, cool things that members of the Wikimedia community do, and projects that the Wikimedia Foundation undertakes.
@@ -117,4 +122,4 @@ How to sign
 Underage exemptions
 Noticeboard
 Donor privacy policy
-Categories: Privacy policyPolicies
+Categories: Historical pagesPrivacy policyPolicies
