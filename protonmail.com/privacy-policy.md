@@ -51,7 +51,7 @@ In order to pursue our legitimate interest of preventing the creation of account
 
 2.9 Native applications: When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software (e.g. fabric.io
 (new window)
-) app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google’s Play Store or Apple’s App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and terms and conditions. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.
+) app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google’s Play Store or Apple’s App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and terms and conditions. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.
 
 Our applications do not access or track any location-based information from your device.
 
@@ -62,6 +62,7 @@ Our applications do not access or track any location-based information from your
 3. Network traffic that may go through third-parties
 
 Proton's alternative routing technology allows Proton Services to bypass many censorship blocks, but in doing so your network traffic may go through third-party networks, which we do not control. This could enable a third party to record your IP address or see that you are using Proton apps (the same information that your internet service provider is able to see). These third parties cannot see your actual data, which remain encrypted. By default, alternative routing is not used for Proton apps unless they detect that censorship measures are active on your network. Alternative routing can also be disabled in the settings panel of our mobile and desktop applications. However, doing so may cause you to be unable to access your Account from a network that is censoring Proton. Learn more
+(new window)
 
 4. Data subprocessors
 
