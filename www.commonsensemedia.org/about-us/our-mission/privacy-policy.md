@@ -4,20 +4,6 @@ Privacy Policy
 
 Community guidelines | Privacy FAQ | Privacy Policy | Cookie Policy | Children's Privacy Policy | General Terms of Use | Teen Terms of Use | UK Digital Citizenship Terms of Service| Survey Privacy Policy
 
-Our updated Privacy Policy and Terms of Use will go into effect September 12, 2023
-
-SUMMARY OF CHANGES
-
-Our Privacy Policy and Terms of Use have been recently updated. Because both documents are quite long, we have prepared this summary for those who want to understand the changes but might prefer to read the full Privacy Policy and Terms of Use later.
-
-Our Privacy Notice has been updated:
-
-To align the policy's language with the new requirements imposed on non-profit organizations by the recently enacted Colorado Privacy Act and provide additional transparency, we have added a more detailed explanation of the types of data we process and why. In addition, we have updated the section describing your privacy choices. Please note that in alignment with our values, we will always aim to provide equal privacy rights to all of our users, whether they reside in Colorado or elsewhere. We have drafted our section on choices to reflect that fact.
-We have updated our language related to payment service providers to provide greater transparency regarding our donation and payment practices.
-We have added a glossary of terms used in the Privacy Notice for the reader's convenience.
-
-Our Terms of Use have been updated to add a new bullet point to the Code of Conduct section to clarify that the Materials on our site cannot be used to train machine learning algorithms or artificial intelligence systems.
-
 Effective Date of Policy (Last Update): September 12, 2023
 
 Former version
@@ -119,7 +105,7 @@ Payment Data
 
 	
 
-Subscribers: information necessary to process payments for your Common Sense Media subscription (including affecting renewals, if and as applicable), such as name, email address, phone number, payment card information (including name as shown on your card, billing address (street address, city, state, country, ZIP code), expiration date, security code and payment card number, and associated details of subscriptions purchased from us (including any relevant payments taken).                    
+Subscribers: information necessary to process payments for your Common Sense Media subscription (including affecting renewals, if and as applicable), such as name, email address, phone number, payment card information (including name as shown on your card, billing address (street address, city, state, country, ZIP code), expiration date, security code and payment card number, and associated details of subscriptions purchased from us (including any relevant payments taken).                      
 
 Please note, although our Payment Services providers require all this information to process payments on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
 
@@ -130,7 +116,7 @@ Donation Data
 
 	
 
-Name (unless you want your donation to be anonymous), email address, phone number, payment card information (including name as shown on your card, billing address, expiration date, security code and payment card number) and the amount of your donation(s).                    
+Name (unless you want your donation to be anonymous), email address, phone number, payment card information (including name as shown on your card, billing address, expiration date, security code and payment card number) and the amount of your donation(s).                      
 
 Please note, although our Payment Services providers require all this information to process donations on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
 
@@ -261,10 +247,10 @@ Quizzes provided by Common Sense Education are available at the end of each less
 
 Common Sense quiz reports (for the entire class and individual student) are only accessible to a teacher who is authenticated with Google Classroom and who requests specific quiz reports on specified students authenticated with Google Classroom. Common Sense works with the following third party service providers to provide Google Classroom integrated quizzes through the Digital Citizenship curriculum:
 
-Learning Locker                    
+Learning Locker                      
 Learning Locker is a Learning Record Store (LRS) database-driven application and analytics tool designed specifically for the learning sector. Common Sense uses Learning Locker to store, sort and share data as recorded using the xAPI specification from Google Classroom. Learning Locker may collect and store the following information including, but not limited to: Google User ID, quiz_id, quiz name, start time, start date, quiz completion, stop time, stop date, quiz duration, quiz questions, alphanumeric answers, quiz grade, and quiz ranking. Please read Learning Locker’s privacy policy for more information.
-Google Classroom                    
-Google Classroom is a free web service developed by Google and part of the G Suite for Education to help schools streamline the process of sharing files between teachers and students. Students using Google Classroom can view assignments, submit homework, and receive grades from teachers to help them stay on track and organized. The G Suite for Education core services are the heart of Google’s educational offering to schools. The core services include Gmail, Calendar, Classroom, Contacts, Drive, Docs, Groups, Sheets, Sites, Slides, Talk/Hangouts and Vault. Please read Google Classroom’s privacy policy for more information.                    
+Google Classroom                      
+Google Classroom is a free web service developed by Google and part of the G Suite for Education to help schools streamline the process of sharing files between teachers and students. Students using Google Classroom can view assignments, submit homework, and receive grades from teachers to help them stay on track and organized. The G Suite for Education core services are the heart of Google’s educational offering to schools. The core services include Gmail, Calendar, Classroom, Contacts, Drive, Docs, Groups, Sheets, Sites, Slides, Talk/Hangouts and Vault. Please read Google Classroom’s privacy policy for more information.                      
 
 The Google Classroom service provides Common Sense with a Google Classroom authenticated teacher’s class roster of student Google IDs. Only authenticated teachers can access student first and last names associated with Google IDs for quiz reporting purposes. Common Sense requests authorization from teachers to access their Google Classroom class roster of student Google IDs in order to combine all the specified student Google IDs present in the class roster with their respective Common Sense quiz submission data and quiz grades in order to generate class and individual student quiz reports for teachers. All quiz reports are generated on-demand by the Google Classroom authenticated teacher and are not stored or retained by Common Sense. When a teacher requests a "class roster" or individual “student” quiz report, Common Sense loads the teacher’s specified Google IDs from our third-party service provider Learning Locker and matches student IDs with Google Classroom to create and display a class roster quiz report for the entire class, or individual student report to produce a Google Classroom listing that includes student names paired with quiz scores. Common Sense and our third-party service providers do not store or retain any class or individual student report data.
 
@@ -336,16 +322,16 @@ VII. YOUR PERSONAL DATA RIGHTS AND HOW TO CONTACT US
 
 A. Your Data Choices
 
-Applicable laws in some states in the United States and various countries and regions grant rights on individuals you might be entitled to. For information on the specific rights that apply in the European Economic Area, please read section VIII of this Policy. Regardless of the applicable law, Common Sense Media offers to all US residents and to the residents of other jurisdictions that use and participate in our Services the following options:
+Applicable laws in some states in the United States and various countries and regions grant rights to individuals you might be entitled to. For information on the specific rights that apply in the European Economic Area, please read section VIII of this Policy. Regardless of the applicable law, Common Sense Media offers to all US residents and to the residents of other jurisdictions that use and participate in our Services the following options:
 
-Opting out: Applicable laws provide individuals with the choice to opting-out of three types of data processing activities: targeted advertising, sale of data, and opt out of profiling or automated decision-making with legal or similar effects. Common Sense Media is not in the practice of targeting advertising, selling Personal Information, or “profiling” (as defined by applicable privacy laws) in a capacity that may produce legal or similarly significant effects and does not engage in profiling or automated decision-making with legal or similar effects. Because we do not engage on those activities, we do not offer an option to opt-out.
-Reviewing and transfer the information we have about you: You may review the Personal Information we have about you. However, we do have to take into account the privacy and interests of others when releasing information, so this is not an absolute right. You might:
+Opting out: Applicable laws provide individuals with the choice to opt out of three types of data processing activities: targeted advertising, sale of data, and automated decision-making with legal or similar effects. Common Sense Media does not engage in f targeted advertising, does not sell Personal Information, and does not profile (as defined by applicable privacy laws) or undertake automated decision-making with legal or similar effects. Because we do not engage in those activities, we do not offer an option to opt out.
+Reviewing and transferring the information we have about you: You may review the Personal Information we have about you. However, we do have to take into account the privacy and the interests of others when releasing information, so this is not an absolute right. You might:
 Request a report. You have the choice to request access to information on what categories of Personal Information we have collected and processed about you.
 Request your data. You have the choice to request access to your Personal Information in a structured, commonly used, and machine-readable format (access), and you may have the right to transmit that data to another entity (portability).
 Request to correct. You have the choice to request that we rectify inaccurate or incomplete Personal Information concerning you.
-Deleting what we have: You have the choice to request that we delete the Personal Information we have about you. Please note that we may need to retain certain information because we are legally required to do so or in order to protect our legitimate interest. Once we process a deletion request, we may be unable to provide access or support to our Services. If you choose to delete your Personal information from our systems, this will also unsubscribe you from all Common Sense Media Communications and delete other information such as your membership information, and reviews. You may re-subscribe to our communications at any time, but this will not restore your history if it has been permanently erased from our systems.
+Deleting what we have: You have the choice to request that we delete the Personal Information we have about you. Please note that we may need to retain certain information because we are legally required to do so or in order to protect our legitimate interests. Once we process a deletion request, we may be unable to provide access or support to our Services. If you choose to delete your Personal information from our systems, this will also unsubscribe you from all Common Sense Media Communications and delete other information such as your membership information, and reviews. You may re-subscribe to our communications at any time, but this will not restore your history if it has been permanently erased from our systems.
 
-Note, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+Note, that these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 
 You are entitled to exercise the options described above free from discrimination, as prohibited by applicable privacy laws. We typically do not charge any fees for exercising the choices described above, However, we may charge a reasonable fee for requests that are clearly unfounded, repetitive, or excessive. If we determine your request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
 
@@ -356,10 +342,10 @@ You may submit a request to us, or you may authorize another party to do so on y
 Recommended: Your Data Choices web form. You may submit requests to exercise your rights or any questions you may have about this Policy, or the practices of the Services, through the Privacy Requests Portal.
 Mail. You may also exercise your options by mailing us at:
 
-Corporate Headquarters                   
-Privacy Department                   
-Common Sense Media                   
-699 8th Street, Suite C150                   
+Corporate Headquarters                     
+Privacy Department                     
+Common Sense Media                     
+699 8th Street, Suite C150                     
 San Francisco, CA 94103
 
 Further notes on making requests:
@@ -399,12 +385,12 @@ How to exercise your rights? If you want to exercise any of the rights described
 Your right to complain. We would love to be able to resolve your questions, requests and complaints about your Personal Information directly. However, if you feel we have not been able to satisfactorily resolve an issue, you may contact your local data protection supervisory authority.
 
 For the contact information of the Data Protection Authorities for each Member State of the European Economic Area, please visit: https://edpb.europa.eu/about-edpb/board/members_en
-The UK's Data Protection Authority's details are below:                    
+The UK's Data Protection Authority's details are below:                      
 
-The Information Commissioner's Office                    
-Water Lane, Wycliffe House                    
-Wilmslow - Cheshire SK9 5AF                    
-Tel. +44 303 123 1113                    
+The Information Commissioner's Office                      
+Water Lane, Wycliffe House                      
+Wilmslow - Cheshire SK9 5AF                      
+Tel. +44 303 123 1113                      
 Website: https://ico.org.uk/make-a-complaint/
 
 What Personal Information do we process? The table in Section I describes the categories of Personal Information that we collect and process.
@@ -446,7 +432,7 @@ Payment Data (if applicable)
 Donation Data (if applicable)
 	
 
-To register your account on the Services, and to populate your Profile fields. To provide you with the core elements of the Services.                    
+To register your account on the Services, and to populate your Profile fields. To provide you with the core elements of the Services.                      
 
 To provide you with access to the additional features and functions of Common Sense Media where either:
 
@@ -624,9 +610,9 @@ Payment Data (where applicable)
 Donation Data (where applicable)
 	
 
-To process: (a) the payments from our subscribers (including renewals, if and as applicable); and (b) donations people make via our Services.                    
+To process: (a) the payments from our subscribers (including renewals, if and as applicable); and (b) donations people make via our Services.                      
 
-Please note that this includes making available the means by which you provide your Payment Data or Donation Data (as applicable) to Payment Services to process payments or donations (as applicable) on our behalf.                    
+Please note that this includes making available the means by which you provide your Payment Data or Donation Data (as applicable) to Payment Services to process payments or donations (as applicable) on our behalf.                      
 
 For more information, see the section titled Payment and Donation Processing (below).
 
