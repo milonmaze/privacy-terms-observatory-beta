@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last updated on December 16, 2022
+Last updated on August 8, 2023
 
 Download
 
@@ -11,7 +11,20 @@ Download
 Download/Print
 
 Privacy Policy for Goldman Sachs Bank USA’s Consumer & Small Business Platforms and Goldman Sachs & Co. LLC's Marcus Invest
-Table of Contents
+1. Introduction; What This Privacy Policy Covers; and Notice at Collection
+
+Your privacy is important to us. The purpose of this Privacy Policy (as updated from time-to-time, this “Privacy Policy”) is to explain how we collect, use, disclose and protect personal information. This Privacy Policy applies to (i) the Marcus by Goldman Sachs website, currently located at https://www.marcus.com, the Marcus by Goldman Sachs mobile app, and any other website, mobile app, or email associated with the above that is owned or operated by us, and on which this Privacy Policy appears or is linked, (ii) the Products, and (iii) any other Goldman Sachs consumer, small business, and digital advisory solutions businesses that link to this Privacy Policy, collectively, the “Services.” This Privacy Policy also covers the personal information we collect from social media sites or pages associated with our Services and your interactions with our digital advertising campaigns. 
+
+These links will take you to sections of this Privacy Policy explaining the following topics and, together with the information contained in the below sections, constitute our Notice of Collection: 
+
+The categories of personal information we collect;
+The purposes for which personal information are collected and used;
+Whether we sell or share, as defined under the California Consumer Privacy Act, as amended by the California Privacy Rights Act (collectively, the “CCPA”), personal information and a description of your right to opt out; and
+The criteria we use to determine how long to retain personal information.
+
+ 
+
+This Privacy Policy includes the following information:
 
 Introduction; What This Privacy Policy Covers; and Notice at Collection
 What Personal Information We Collect and Generate
@@ -28,34 +41,6 @@ Links and Third-Party Products and Services
 Contact Us
 Other Important Information
 Updates to this Privacy Policy
-1. Introduction; What This Privacy Policy Covers; and Notice at Collection
-
-Your privacy is important to us. The purpose of this Privacy Policy (as updated from time-to-time, this “Privacy Policy”) is to explain how we collect, use, disclose and protect personal information. This Privacy Policy applies to (i) the Marcus by Goldman Sachs website, currently located at https://www.marcus.com, the Marcus by Goldman Sachs mobile app, and any other website, mobile app, or email associated with the above that is owned or operated by us, and on which this Privacy Policy appears or is linked, (ii) the Products, and (iii) any other Goldman Sachs consumer, small business, and digital advisory solutions businesses that link to this Privacy Policy, collectively, the “Services.” This Privacy Policy also covers the personal information we collect from social media sites or pages associated with our Services and your interactions with our digital advertising campaigns. 
-
-These links will take you to sections of this Privacy Policy explaining the following topics and, together with the information contained in the below sections, constitute our Notice of Collection: 
-
-The categories of personal information we collect;
-The purposes for which personal information are collected and used;
-Whether we sell or share, as defined under the California Consumer Privacy Act, as amended by the California Privacy Rights Act (collectively, the “CCPA”), personal information and a description of your right to opt out; and
-The criteria we use to determine how long to retain personal information.
-
-This Privacy Policy includes the following information:
-
-Introduction; What This Privacy Policy Covers; and Notice at Collection
-What Personal Information We Collect and Generate
-How We Use Personal Information
-To Whom We Disclose Personal Information
-Cookies and Other Tracking Technologies
-Additional Technology
-How We Protect Information
-Reporting Security Vulnerabilities
-Retention of Personal Information
-California Residents 
-Additional Choices
-Links and Third-Party Products and Services
-Contact Us
-Other Important Information
-Updates to this Privacy Policy 
 Other Privacy Disclosures
 
 If you have signed up for, applied for, have or previously had one of our consumer Products, the Marcus Consumer Privacy Notice will apply to you. This provides more information about how we collect and share your personal information and outlines certain choices you may have. If there is a conflict between this Online Privacy Policy and any privacy notice, disclosure, policies or terms relating to any Product, the privacy notice, disclosure, policies or terms relating to the Product will govern.
@@ -90,7 +75,7 @@ Device and Online Identifiers and Related Information:  This includes online i
 Background Information:  This includes date of birth, family information, information about your personal and professional associates and associations, and any other information we are required to collect by law and regulation;
 Financial Information:  This includes credit report information, credit scores, bank account number, transaction and financial account information, account login credentials, household income data, tax documents, your authority over financial accounts, including trusted contact/beneficial interest in and other information about entities you are associated with, public company affiliations, available account balance information, source of wealth information, investment goals and experience, net worth and liquidity needs, income and other similar financial information;
 Government Identifiers:  This includes Social Security number, Tax Identification Number, national identification number, other government-issued identification number, driver’s or operator’s license number, passport number, Alien Registration Number and copies of government IDs;
-Protected Classification Characteristics:  This includes age, national origin, citizenship, nationality, marital status, sex, and veteran or military status. Please note that we do not collect information regarding gender identity, gender expression, or sexual orientation unless you provide it to us in connection with servicing your account;
+Protected Classification Characteristics:  This includes age, race, national origin, citizenship, nationality, marital status, sex, and veteran or military status. Please note that we do not collect information regarding gender identity, gender expression, or sexual orientation unless you provide it to us in connection with servicing your account. Please also note that under certain circumstances, when applying for a small business loan we may ask whether the business is minority- or women- owned, and for the principal owners' ethnicity and race.
 Purchase History: This includes customer purchase history or tendencies;
 Biometric Information: This refers to a voiceprint, which is a numerical representation of your voice when you call us (we use this to identify fraudulent activity and to enhance security). We also collect behavioral biometric data regarding how you interact with the Services;
 Internet, Application, and Network Activity: This includes data related to user activity (e.g., when and how you use the Services and interact with our communications including emails) including emails, browsing history, search and clickstream history, online website tracking information, other data related to user activity, and URL referral header information; we may collect this type of information automatically via Cookies, browser web storage, Web Beacons and similar technologies;
@@ -260,14 +245,13 @@ We do not place telemarketing calls to numbers appearing on a state or federal d
 
 12. Links and Third-Party Products and Services
 
-The Services may contain links and other functionality that connect with certain websites and applications not provided by us, including social media websites (“Third-Party Websites”). We are providing these links and functionality solely as a convenience to you. We are not responsible for and have no liability for the content, features, products, services, privacy policies or terms of service of any Third-Party Websites. The fact that we have provided a link to a Third-Party Website is not an endorsement of that Third-Party Website (including any information or content made available throughout such website) or its owners, sponsors or operators. We have not tested any information, software or products found on any Third-Party Website and therefore do not make any representations about those websites or any associated products or services. 
+The Services may contain links, QR Codes, and other functionality that connect with certain websites and applications not provided by us, including social media websites (“Third-Party Websites”). We are providing these links and functionality solely as a convenience to you. We are not responsible for and have no liability for the content, features, products, services, privacy policies or terms of service of any Third-Party Websites. The fact that we have provided a link to a Third-Party Website is not an endorsement of that Third-Party Website (including any information or content made available throughout such website) or its owners, sponsors or operators. We have not tested any information, software or products found on any Third-Party Website and therefore do not make any representations about those websites or any associated products or services.
 
 13. Contact Us
 
-In most cases, you can communicate with us through the Product. If you need to contact us for more information about this Privacy Policy or a privacy notice for a particular Product, or because you have questions or concerns, you may do so using the information listed below:
+In most cases, you can communicate with us through the Product. If you need to contact us for more information about this Privacy Policy or a privacy notice for a particular Product, or because you have other questions or concerns, you may do so using the information listed below:
 
-
-For Marcus deposits, Insights and related products, call us toll-free at 1-855-730-7283 or write us at Goldman Sachs Bank USA, PO Box 1978, Cranberry Twp, PA 16066.
+For Marcus deposits, Insights and related products, call us toll-free at 1-855-730-7283 or write us at Goldman Sachs Bank USA, PO Box 70379, Philadelphia, PA 19176-0379.
 For Marcus Invest, email us at invest-support@marcus.com or call us toll-free at 1-833-720-MINV (1-833-720-6468).
 For Marcus lending products, please call us toll-free at 1-844-MARCUS2 (1-844-627-2872) for personal loans and MarcusPay, or 1-833-906-2224 for small business loans, or write us at Goldman Sachs Bank USA, PO Box 45400, Salt Lake City, UT 84145-0400.
 For GM Rewards Cards, call toll-free at 1-833-773-0988, or write us at Goldman Sachs Bank USA, PO Box 70321, Philadelphia, PA 19176-0321.
@@ -277,7 +261,7 @@ Any natural person using the Services must be at least 18 years of age. The Serv
 
 15. Updates to this Privacy Policy
 
-We may change this Online Privacy Policy from time-to-time. If we make changes to this Privacy Policy, we will update the “Effective as of” date at the top of this page. Any changes to this Privacy Policy will become effective when posted unless indicated otherwise. Your continued use of the Services following the posting of any changes will mean that you accept those changes.
+We may change this Online Privacy Policy from time-to-time. If we make changes to this Privacy Policy, we will update the “Last updated on” date at the top of this page. Any changes to this Privacy Policy will become effective when posted unless indicated otherwise. Your continued use of the Services following the posting of any changes will mean that you accept those changes.
 
 Marcus by Goldman Sachs® is a brand of Goldman Sachs Bank USA and Goldman Sachs & Co. LLC (“GS&Co.”), which are subsidiaries of The Goldman Sachs Group, Inc. 
 
