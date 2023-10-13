@@ -1,8 +1,6 @@
 Help Center
 Join Netflix
 Sign In
-We are having technical issues on netflix.com right now
-Please try again later.
  Back to Help Home
 PRINT
 Privacy Statement
