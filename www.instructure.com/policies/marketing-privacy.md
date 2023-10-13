@@ -10,6 +10,8 @@ Dutch
 Spanish
 Portuguese
 
+Learn about Instructure's Marketing Privacy Policy. Explore how we protect your privacy and data while enhancing your online experience.
+
 Last Updated: September 10, 2022
 
 Instructure, Inc. (“Instructure,” “we,” “our,” or “us”) has prepared this Privacy Policy to describe our practices regarding the information collected from visitors to our website, https://www.instructure.com, community.canvaslms.com and any other sites that link to this Privacy Policy (collectively, “Site”). 
