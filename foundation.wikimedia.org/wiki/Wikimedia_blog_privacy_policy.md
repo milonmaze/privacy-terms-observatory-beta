@@ -13,7 +13,7 @@ This is the privacy policy for the Wikimedia Blog, the official blog of the Wiki
 
 By using this blog, you agree to be held to the terms of this blog Privacy Policy and the Wikimedia Terms of Use. If you do not wish to be held to the terms of this Privacy Policy and/or our terms of use, please do not use this blog.
 
-For the sake of clarity, definitions in this blog Privacy Policy take on the same definitions found in the main WMF Privacy Policy. As a separate website with its own Privacy Policy (what you’re reading), this blog is not covered by the general Wikimedia Privacy Policy. This Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of any part of the blog. Other WMF sites are covered by other privacy policies. If you have any questions or suggestions about this Privacy Policy or our Terms of Use, please Contact us.
+For the sake of clarity, definitions in this blog Privacy Policy take on the same definitions found in the main WMF Privacy Policy. As a separate website with its own Privacy Policy (what you are reading), this blog is not covered by the general Wikimedia Privacy Policy. This Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of any part of the blog. Other WMF sites are covered by other privacy policies. If you have any questions or suggestions about this Privacy Policy or our Terms of Use, please Contact us.
 
 Thank you!
 
@@ -45,7 +45,7 @@ We may share your information for a particular purpose, if you agree.
 
 Third-Party Service Providers
 
-As hard as we may try, we can't do it all. We may share your information (including your email address and geolocation information) with people we work with (e.g., third-party service providers, contractors, community volunteers) in order to help maintain, better understand, or improve the blog or other Wikimedia Projects and sites. In the course of providing their services to us, some of these third-party providers and contractors may also collect and retain user information, including but not limited to user emails and user geolocation information based on IP addresses, in accordance with their privacy policies and any additional requirements we may put in place with them. As necessary, we may put safeguards, such as confidentiality agreements, in place to help ensure that these service providers only use your information in the course of providing their services to us and to make sure they treat your information consistently with, and no less protective of your privacy than, the principles of this Policy.
+As hard as we may try, we cannot do it all. We may share your information (including your email address and geolocation information) with people we work with (e.g., third-party service providers, contractors, community volunteers) in order to help maintain, better understand, or improve the blog or other Wikimedia Projects and sites. In the course of providing their services to us, some of these third-party providers and contractors may also collect and retain user information, including but not limited to user emails and user geolocation information based on IP addresses, in accordance with their privacy policies and any additional requirements we may put in place with them. As necessary, we may put safeguards, such as confidentiality agreements, in place to help ensure that these service providers only use your information in the course of providing their services to us and to make sure they treat your information consistently with, and no less protective of your privacy than, the principles of this Policy.
 
 For Legal Reasons
 
@@ -65,7 +65,7 @@ To Learn and Experiment
 
 We may share non-personal or aggregated information with researchers, scholars, academics, and other interested third parties who wish to study the Wikimedia Sites, including this blog. Sharing this information helps them understand usage, viewing, and demographics statistics and patterns. They then can share their findings with us and our users so that we can all better understand and improve the Wikimedia Sites.
 
-When we give access to personal information to third-party developers or researchers, we put requirements, such as reasonable technical and contractual protections, in place to help ensure that these service providers treat your information consistently with the principles of this Policy and in accordance with our instructions. If these developers or researchers later publish their work or findings, we ask that they not disclose your personal information. Please note that, despite the obligations we impose on developers and researchers, we cannot guarantee that they will abide by our agreement, nor do we guarantee that we will regularly screen or audit their projects. (You can learn more about re-identification in the main WMF Privacy Policy’s FAQ.)
+When we give access to personal information to third-party developers or researchers, we put requirements, such as reasonable technical and contractual protections, in place to help ensure that these service providers treat your information consistently with the principles of this Policy and in accordance with our instructions. If these developers or researchers later publish their work or findings, we ask that they not disclose your personal information. Please note that, despite the obligations we impose on developers and researchers, we cannot guarantee that they will abide by our agreement, nor do we guarantee that we will regularly screen or audit their projects. (You can learn more about re-identification in the main WMF Privacy Policy's FAQ.)
 
 In general, WMF does not disclose personally-identifying information other than as described in this Privacy Policy.
 
@@ -75,7 +75,7 @@ The WMF blog may allow you to access third-party services through its interface.
 
 How Do We Protect Your Data?
 
-We strive to protect your information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your personal information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we can't guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
+We strive to protect your information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your personal information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we cannot guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
 
 Transfer of Information to the United States
 
