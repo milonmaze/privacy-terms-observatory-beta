@@ -20,7 +20,7 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 
 
 
-Because we believe that you shouldn't have to provide personal information to participate in the free knowledge movement, you may:
+Because we believe that you should not have to provide personal information to participate in the free knowledge movement, you may:
 
 Read, edit, or use any Wikimedia Site without registering an account.
 Register for an account without providing an email address or real name.
