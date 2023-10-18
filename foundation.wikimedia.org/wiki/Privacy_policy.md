@@ -434,11 +434,11 @@ Please note that in the event of any differences in meaning or interpretation be
 
 This version was approved by Amanda Keton on June 7, 2021, pursuant to the Delegation of policy-making authority by the Board, and went into effect on June 25, 2021. Previous versions can be found below:
 
-Privacy Policy (May 2018 - June 2021): effective from May 24, 2018 until June 24, 2021
-Privacy policy (June 2014 - May 2018): effective from June 6, 2014 until May 24, 2018
-Privacy policy (November 2008 - June 2014): effective from November 25, 2008 until June 6, 2014
-Privacy policy (August 2008 - November 2008): effective from August 19, 2008 until November 25, 2008
-Privacy policy (June 2006 - August 2008): effective from June 21, 2006 until August 19, 2008
+Privacy Policy (May 2018 - June 2021): effective from May 24, 2018, until June 24, 2021
+Privacy policy (June 2014 - May 2018): effective from June 6, 2014, until May 24, 2018
+Privacy policy (November 2008 - June 2014): effective from November 25, 2008, until June 6, 2014
+Privacy policy (August 2008 - November 2008): effective from August 19, 2008, until November 25, 2008
+Privacy policy (June 2006 - August 2008): effective from June 21, 2006, until August 19, 2008
 Privacy policy (April 2005 to June 2006): effective from April 2005 until June 21, 2006
 +/-
 translate
