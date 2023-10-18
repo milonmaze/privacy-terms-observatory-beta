@@ -2,6 +2,8 @@ Privacy for Users of Shopify Apps
 
 For users of Shopify’s apps, customer-facing services, or free business tools
 
+Our new Terms of Service and Privacy Policy goes into effect November 6, 2023. By continuing to use our services after this date, you accept these new terms and have read the new privacy policy.
+
 Introduction
 
 Shopify offers a range of apps and services meant to make it easier for you to buy things online and track your orders. For example, we offer Shop to help you track purchases you have made online, and Shop Pay to help you quickly complete a transaction on Shopify-powered stores. When you use these apps, or if you use any of our free business tools, we use your personal information to provide you with and improve the specific service you are using. Additionally, please review our overall privacy policy that applies to everyone whose information Shopify processes.
