@@ -1,51 +1,50 @@
-Israel-Hamas war
+World Cup Qualifiers
 
-Gaza health ministry: 2,750 Palestinians killed, 9,700 wounded in Israeli strikes on Gaza since Oct 7
+Lionel Messi beautiful skills vs Peru
 
-r/worldnews
+r/soccer
 and more
-Suzanne Somers dead at 76
+'Avatar: The Last Airbender' live action
 
-Suzanne Somers dead at 76 following cancer battle
+The live action cast so far.
 
-r/television
+r/TheLastAirbender
 and more
-'Rick and Morty' voice actors
+Phillies crush Diamondbacks
 
-‘Rick and Morty’ New Voice Actors Revealed, Ian Cardoni (Rick) and Harry Belden (Morty)
+[Highlight] The Phillies win NLCS game 2 in a blowout!
 
-r/rickandmorty
+r/baseball
 and more
-Poland election
+Halo Infinite Season 5
 
-Poland's opposition leader Donald Tusk declares election victory
+Halo Infinite Season 5 content overview + release times!
 
-r/worldnews
+r/XboxSeriesX
 and more
-Jets' first win over Eagles
+X trials new user charge
 
-Jets upset Eagles to take down last undefeated team
+X will begin charging new users $1 a year
 
-r/sports
+r/technology
 and more
-Minecraft Live
+Diablo IV for Steam
 
-Minecraft Live 2023 Has Ended What Are Your Thoughts?
+Diablo IV now available on Steam
 
-r/Minecraft
+r/pcgaming
 and more
 Create a post
-r/worldnews
+r/pcmasterrace
 •
 22 hr. ago
-Israel resumes water supply to southern Gaza after U.S. pressure
-https://www.axios.com/2023/10/15/israel-resumes-water-supply-to-southern-gaza-after-us-pressure
-r/funnyvideos
+[Giveaway] 3x Drop CSTM80 Keyboards
+r/funny
 •
-5 hr. ago
-Ricky Gervais' devastating Golden Globe 2020 speech, uncensored
-r/BeAmazed
+3 hr. ago
+Guy in white is living every gym bro's dream
+r/pics
 •
 4 hr. ago
-Physics is amazing
+Jim Jordan after he failed to secure the speakership on the first vote by 17 votes.
  
