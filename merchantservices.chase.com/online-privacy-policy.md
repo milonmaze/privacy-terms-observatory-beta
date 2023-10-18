@@ -5,7 +5,7 @@ Privacy
 selected
 Security
 Have questions?
-LAST UPDATED: JANUARY 2023
+LAST UPDATED: SEPTEMBER 2023
 Online Privacy Policy
 
 Printer Friendly version (PDF)
@@ -18,7 +18,7 @@ As you review this Online Privacy Policy, here are a few general principles to k
 
 Our online services linking to this notice are intended for a U.S. and Canadian audience. If you visit or use one of these online services, your information may be transferred or processed in the United States. For non-U.S. and non-Canadian online services, please review the privacy policy applicable to that service to understand how your information will be treated and safeguarded.
 With the exception of the Chase First Banking℠ program, our online services are not intended for children under 13. We do not knowingly collect personal information from children under 13 without parental consent. For details about our handling of children’s personal information in connection with Chase First Banking, please review our Children’s Privacy Policy.
-If you have a financial product or service with us, we will use and share any information that we collect from or about you in accordance with our U.S. Consumer Privacy Notice, which offers you certain choices with respect to the use and sharing of your personal information.
+If you are a U.S. consumer and have a financial product or service with us, we will use and share any information that we collect from or about you in accordance with our U.S. Consumer Privacy Notice, which offers you certain choices with respect to the use and sharing of your personal information.
 If you are a California resident, you may have rights under the California Consumer Privacy Act. Learn more about your CCPA rights
 about your CCPA rights
 Businesses in Canada can find additional information in the J.P. Morgan Canada Privacy Notice
@@ -29,7 +29,7 @@ Information we collect
 
 Personal Information
 
-When you visit or use our online services, we may collect personal information from or about you such as your name, email address, mailing address, telephone number(s), account numbers, limited location information (for example, a zip code to help you find a nearby ATM), user name and password. We may also collect payment card information, social security numbers, driver’s license numbers (or comparable) when you provide such information while using our online services and where we believe it is reasonably required for ordinary business purposes.
+When you visit or use our online services, we may collect personal information from or about you including your name, email address, mailing address, telephone number(s), account numbers, limited location information, user name and password. We may also collect payment card information, tax identification numbers, driver’s license numbers (or comparable) when you provide such information while using our online services and where we believe it is reasonably required for ordinary business purposes.
 
 Usage and Other Information
 
@@ -45,7 +45,7 @@ We may also collect information about you from additional online and offline sou
 
 Use of Information
 
-We use the information discussed above in a number of ways, such as:
+We use the information discussed above in the following ways:
 
 Processing applications and transactions;
 Verifying your identity (such as when you access your account information);
@@ -53,7 +53,7 @@ Preventing fraud and enhancing the security of your account or our online servic
 Responding to your requests and communicating with you;
 Managing your preferences;
 Performing analytics concerning your use of our online services, including your responses to our emails and the pages and advertisements you view;
-Providing you tailored content and marketing messages; Operating, evaluating and improving our business (including developing new products and services; improving existing products and services; performing data analytics; and performing accounting, auditing and other internal functions);
+Providing you tailored content and marketing messages; operating, evaluating and improving our business (including developing new products and services; improving existing products and services; performing data analytics; and performing accounting, auditing and other internal functions);
 Complying with and enforcing applicable legal requirements, relevant industry standards, contractual obligations and our policies; and
 For any other purposes that we may specifically disclose at the time you provide or we collect your information.
 
@@ -62,29 +62,29 @@ We may also use data that we collect on an aggregate or anonymous basis (such th
 
 Disclosure of Information
 
-We may share the information we collect from and about you with our affiliates and other third parties.  For example, we may share your information with:
+We may share the information we collect from and about you with our affiliates and other third parties as described below.  In particular, we may share your information with:
 
 Chase third-party service providers;
 Chase affiliated websites and businesses in an effort to bring you improved service across our family of products and services, when permissible under relevant laws and regulations;
-Other companies to bring you co-branded services, products or programs;   
+Other companies to bring you co-branded services, products or programs that you have requested;   
 Third parties or affiliates in connection with a corporate transaction, such as a sale, consolidation or merger of Chase businesses; and
 Other third parties to comply with legal requirements such as the demands of applicable subpoenas and court orders; to verify or enforce our terms of use, our other rights, or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect the rights, property or security of our customers or third parties.
 
-Where appropriate, we will limit sharing of your information in accordance with the choices you have provided us in response to our U.S. Consumer Privacy Notice.
+Where appropriate, we will limit sharing of your information in accordance with the choices you have provided us.
 
 We may share anonymous or aggregated information with third parties to help deliver products, services, and content that are better tailored to the users of our online services and for other purposes.
 
 Understanding Cookies, Web Beacons and Other Tracking Technologies
 
 
-We, or our service providers, and other companies we work with may deploy and use cookies, web beacons, local shared objects and other tracking technologies for various purposes, such as fraud prevention and monitoring our advertising and marketing campaign performance. Some of these tracking tools may detect characteristics or settings of the specific device you use to access our online services.
+We, or our service providers, and other companies we work with may deploy and use cookies, web beacons, local shared objects and other tracking technologies for the following purposes: fraud prevention and monitoring our advertising and marketing campaign performance. Some of these tracking tools may detect characteristics or settings of the specific device you use to access our online services.
 
 “Cookies” are small amounts of data a website can send to a visitor’s web browser. They are often stored on the device you are using to help track your areas of interest.  Cookies may also enable us or our service providers and other companies we work with to relate your use of our online services over time to customize your experience.  Most web browsers allow you to adjust your browser settings to decline or delete cookies, but doing so may degrade your experience with our online services.
 Clear GIFs, pixel tags or web beacons—which are typically one-pixel, transparent images located on a webpage or in an email or other message—or similar technologies may be used on our sites and in some of our digital communications (such as email or other marketing messages). They may also be used when you are served advertisements or you otherwise interact with advertisements outside of our online services. These are principally used to help recognize users, assess traffic patterns and measure site or campaign engagement.
 Local Shared Objects, sometimes referred to as “flash cookies” may be stored on your hard drive using a media player or other software installed on your device. Local Shared Objects are similar to cookies in terms of their operation, but may not be managed in your browser in the same way.
 Online advertising
 
-You will see advertisements when you use many of our online services. These advertisements may be for our own products or services (including pre-screened offers of credit) or for products and services offered by third parties. Which advertisements you see is often determined using the information we or our affiliates, service providers and other companies that we work with have about you, including information about your relationships with us (e.g., types of accounts held, transactional information, location of banking activity). To that end, where permitted by applicable law, we may share with others the information we collect from and about you.
+You will see advertisements when you use many of our online services. These advertisements may be for our own products or services (including pre-screened offers of credit) or for products and services offered by third parties. Which advertisements you see is often determined using the information we or our affiliates, service providers and other companies that we work with have about you, including information about your relationships with us (e.g., types of accounts held, transactional information, location of banking activity). To that end, where permitted by applicable law, we may share with others the information we collect from and about you as stated in this policy under Information We Collect.
 
 Online behavioral advertising (also known as “OBA” or “interest-based advertising”) refers to the practice of collecting information from a computer or device regarding a visitor’s web-browsing activities across non-affiliated websites over time in order to deliver advertisements that may be of interest to that visitor based on their browsing history. Through OBA, we hope to deliver advertisements that are most likely to be of interest to you using information about your other web-browsing activities (e.g., the web pages you visit, search terms you enter, and the way you move through our online services on your computer or device) or your personal profile (e.g., demographic or location information). Certain companies we work with may set cookies and use related tracking technologies, such as the clear GIFs discussed above, throughout our online services or in our communications to support these OBA efforts. If you do not want your information collected and used by the companies we work with for OBA purposes, you can opt out of this form of OBA by following the instructions in the next section.
 
@@ -96,7 +96,7 @@ There are two (2) ways that you can opt out of OBA from certain Chase ads on thi
 (Opens Overlay)
 . Another way to opt out of OBA is by clicking on the Advertising Options Icon featured on certain Chase ads on third-party websites. When clicked it (i) describes the collection and uses of data gathered at the relevant third-party website and (ii) provides a way for you to opt out of data collection and use by the third parties listed for the purposes of OBA.  If you choose to opt out, our service provider will communicate your opt out election to the relevant third-party advertising partners and a cookie will be placed on your browser indicating your decision to opt out.
 
-Bear in mind that because cookies are stored by your browser, if you use different browsers on your computer, or multiple computers and devices that have browsers and you do not wish to have cookies collect information for OBA purposes, you will need to opt out of OBA from each browser on each of the computers and devices that you use.  Please note that even if you opt out of OBA, you may still receive advertisements from us; they just won’t be customized based on your web-browsing activities on third-party websites.
+Bear in mind that because cookies are stored by your browser, if you use different browsers on your computer, or multiple computers and devices that have browsers and you do not wish to have cookies collect information for OBA purposes, you will need to opt out of OBA from each browser on each of the computers and devices that you use.  Please note that even if you opt out of OBA, you may still receive advertisements from us; however, they won’t be customized based on your web-browsing activities on third-party websites.
 
 
 Linking to Third-Party Websites
@@ -105,13 +105,13 @@ Chase may provide links to websites that are owned or operated by other companie
 
 Security
 
-We use reasonable physical, electronic, and procedural safeguards that comply with federal standards to protect and limit access to personal information.  This includes device safeguards and secured files and buildings Visit our Security Center for additional information about how we protect your Personal Information.
+We use reasonable physical, electronic, and procedural safeguards that comply with legal and regulatory standards to protect and limit access to personal information.  This includes device safeguards and secured files and buildings Visit our Security Center for additional information about how we protect your Personal Information.
 
-Please note that information you send to us electronically may not be secure when it is transmitted to us.  We recommend that you do not use unsecure channels to communicate sensitive or confidential information (such as your Social Security number) to us.
+Please note that information you send to us electronically may not be secure when it is transmitted to us.  We recommend that you do not use unsecure channels to communicate sensitive or confidential information (such as your tax identification number) to us.
 
 Updating Your Information
 
-Keeping your account information up-to-date is very important.  You may review, or update certain account information by logging in and accessing the “Customer Center” section.  If you cannot change the incorrect information online, or you prefer to request changes offline, please use the Contact Us option on our site, or call or write to us using the contact information listed on your account statements, records, or other account materials.  You can also speak to one of our branch representatives, your financial advisor, or your designated account representative.
+Keeping your account information up-to-date is very important.  You may review, or update certain account information by logging in and accessing the “Customer Center” section.  If you cannot change the incorrect information online, or you prefer to request changes offline, please use the Contact Us option on our site, or call or write to us using the contact information listed on your account statements, records, or other account materials.  You can also speak to one of our branch representatives, your Financial Advisor, or your designated account representative.
 
 Changes to this Online Privacy Policy
 
