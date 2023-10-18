@@ -9,7 +9,7 @@ Please note: This page is kept for historical reasons and may be out-of-date or 
 
 Welcome!
 
-This is the privacy policy for the Wikimedia Blog, the official blog of the Wikimedia Foundation (WMF) and the Wikimedia movement. We post information about new developments in wiki technology, cool things that members of the Wikimedia community do, and projects that the Wikimedia Foundation undertakes.
+This is the privacy policy for the Wikimedia Blog, the official blog of the Wikimedia Foundation ("WMF") and the Wikimedia movement. We post information about new developments in wiki technology, cool things that members of the Wikimedia community do, and projects that the Wikimedia Foundation undertakes.
 
 By using this blog, you agree to be held to the terms of this blog Privacy Policy and the Wikimedia Terms of Use. If you do not wish to be held to the terms of this Privacy Policy and/or our terms of use, please do not use this blog.
 
@@ -75,7 +75,7 @@ The WMF blog may allow you to access third-party services through its interface.
 
 How Do We Protect Your Data?
 
-We strive to protect your information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your personal information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we cannot guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
+We strive to protect your information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your personal information. Unfortunately, there is no such thing as completely secure data transmission or storage, so we cannot guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
 
 Transfer of Information to the United States
 
