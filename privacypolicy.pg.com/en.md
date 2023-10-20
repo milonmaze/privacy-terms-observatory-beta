@@ -37,7 +37,7 @@ We use data to help customize your experience with more products and offers rele
 
 Privacy Policy
 
-Updated August 22, 2023
+Updated October 23, 2023
 
 Download a copy of this Privacy Policy (PDF)
 
