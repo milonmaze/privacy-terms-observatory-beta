@@ -72,10 +72,3 @@ In our User Privacy Notice we have compiled all essential information about our 
 This User Privacy Notice is effective from March 24, 2023. View the previous User Privacy Notice.
 
 15 min article
-Need more help?
-Contact us
-Get the help you need from our automated assistant, or contact an agent
-Other options for you
-Ask the Community
-- opens in new window or tab
-Get the help you need from our automated assistant, or contact an agent.
