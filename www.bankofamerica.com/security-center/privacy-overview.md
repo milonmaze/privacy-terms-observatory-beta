@@ -23,7 +23,6 @@ Control how we can share your data and
 market to you
 
 Opt-out of ads based on your online activity
- layer
 
 See how to receive promotional emails
 
