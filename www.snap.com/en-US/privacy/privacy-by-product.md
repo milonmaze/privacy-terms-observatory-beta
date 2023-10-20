@@ -33,13 +33,13 @@ How My AI Uses Location Data
 Stories
 
 Snaps and Chats are like snippets of a personal conversation, while Stories are more like, well, a story you’re telling to a larger group.
-You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if your Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Keep in mind: Snaps set to viewable by ‘Everyone’ and those that are submitted to Spotlight, Shared Stories, or Verified Communities are Public Content, and your Snap may still appear off Snapchat if it has been shared off of Snapchat! Snaps in your Story are posted for 24 hours (unless otherwise noted), though you can remove them from your Story at any time. Once you’ve posted a Story, your Friends and others can interact with them. For example, they may use the same Lens you used, remix the Snap, share with mutual friends, or even shop the look you’re wearing! 
+You can share Snaps in your Story with just your friends, or with the entire Snapchat community. Sometimes, if your Story is set to viewable by 'Everyone' and becomes popular, it may be featured in Discover and other places so more people can see it! Keep in mind: Snaps set to viewable by ‘Everyone’ and those that are submitted to Spotlight, Shared Stories, or Verified Communities are Public Content, and your Snap may still appear off Snapchat if it has been shared off of Snapchat! Snaps in your Story are posted for 24 hours (unless otherwise noted), though you can remove them from your Story at any time. Once you’ve posted a Story, your Friends and others can interact with them. For example, they may use the same Lens you used, remix the Snap, share with mutual friends, or even shop the look you’re wearing!  
 How to Use Stories
 How to Save a Private or Shared Story on Snapchat
 
 Profiles
 
-Profiles make it easy to find the info and Snapchat features that you care about the most! There are different types of Profiles on Snapchat, including My Profile, Friendship Profiles, Group Profiles, and Public Profiles.
+Profiles make it easy to find the info and Snapchat features that you care about the most! There are different types of Profiles on Snapchat, including My Profile, Friendship Profiles, Group Profiles, and Public Profiles.
 My Profile features your Snapchat info, like your Bitmoji, location on the Map, friend info, and more. Friendship Profile is as unique as each individual friendship, this is where you can find Snaps and messages you’ve saved, your friend’s Snapchat info like Bitmoji and location on the Map, and this is also where you can manage your friendship, and report, block, or remove the friend. Group Profiles showcase your saved Snaps and Chats within a Group Chat and your friends’ Snapchat info.
 Public Profiles enable Snapchatters to be discovered in the app. If you want a Public Profile, you will need to create one first. Once you’ve created a Public Profile, you can showcase your favorite public Snaps and share your Lenses and other information. Other Snapchatters will be able to subscribe to your Public Profile. Your subscriber count is turned off by default, but if you want you can turn it on in Settings.
 About Profiles
@@ -49,7 +49,7 @@ Spotlight
 Spotlight allows you to discover the world of Snapchat in one place and shines a light on the most entertaining Snaps, no matter who created them!
 Snaps submitted to Spotlight are public and other Snapchatters will be able to share them both on and off Snapchat or even ‘Remix’ them. For example, they may take your funny dance Snap and layer a reaction over it. Your Profile is where you will be able to control and see an overview of Spotlight Snaps you’ve submitted. You can also favorite Spotlight Snaps and when you do, we will add it to your favorites list and use it to personalize your Spotlight experience.
 As you explore and engage with more Spotlight Snaps, we will tailor your Spotlight experience and show you Spotlight Snaps we think you will like. For example, if you can’t stop watching dance challenges, we will show you more dance-related Spotlight Snaps.
-When you submit Snaps to Spotlight we ask you to comply with our Community Guidelines, Spotlight Terms and Spotlight Guidelines. Your Spotlight submissions are stored on our servers until you delete them and may be visible on Snapchat for long periods of time — sometimes for months or more. If you’d like to remove a Snap you’ve submitted to Spotlight, you can do so by going to your profile.
+When you submit Snaps to Spotlight we ask you to comply with our Community Guidelines, Spotlight Terms and Spotlight Guidelines. Your Spotlight submissions are stored on our servers until you delete them and may be visible on Snapchat for long periods of time — sometimes for months or more. If you’d like to remove a Snap you’ve submitted to Spotlight, you can do so by going to your profile.
 About Spotlight
 Spotlight Guidelines
 
@@ -76,7 +76,7 @@ If you haven’t opened a connected app or website in 90 days, we’ll automatic
 
 
 
-Size and Style
+Size and Style Solutions
 
 Our size and style solutions use your measurements, past purchases, and returns to recommend and advertise clothing and footwear that fit you. We use your measurements as they are — and we don’t infer anything else.
 2D Try On lets you visualise what new clothes and footwear might look like on you. Use the Photoshoot lens on Snapchat or choose from an existing photo to automatically generate — without human review — a 2D Try On Image showing you wearing a selected product. These images may be saved to your Snapchat account and device if using 2D Try On on Snapchat, but are otherwise promptly deleted.
@@ -89,21 +89,21 @@ Advertising
 
 We are committed to creating products that make Snapchat better for everyone, which is why our ad products are built from scratch. These include things like movie trailers in Discover or Sponsored Filters and Lenses.
 Every single person is different, and no one is going to like every ad they see. If an ad isn’t relevant to you or you don’t think it belongs on Snapchat, you can always let us know by tapping ⋮ , then tapping ⓘ to report the ad to us!
-We want to show you ads that are relevant to you and your interests — but we don’t want to serve ads that are so custom-tailored that they’re invasive or uncomfortable. It’s a difficult balance and we may not always get it right, so we’re always counting on Snapchatters for their feedback. Share your experience with us, if you have a moment!
+We want to show you ads that are relevant to you and your interests — but we don’t want to serve ads that are so custom-tailored that they’re invasive or uncomfortable. It’s a difficult balance and we may not always get it right, so we’re always counting on Snapchatters for their feedback. Share your experience with us, if you have a moment!
 
 Spectacles
 
 Spectacles are sunglasses that capture your world, the way you see it. Just press the button to save the moment, in the moment — without having a phone get in the way. We specifically made Spectacles sunglasses because they’re meant to be used when you’re out in the world — whether you’re on an adventure or just going about your day.
 Whenever you take a photo or video with Spectacles, LEDs will light up to let your friends know that you’re taking a Snap or recording a video.
 Our Community Guidelines have always asked Snapchatters to be thoughtful and respect people’s privacy — and that same philosophy applies to Spectacles, down to their design!
-We are constantly innovating Spectacles — different generations have their own unique and exciting features. The new Spectacles overlay immersive Lenses on the world around you and incorporate some of the Scan features described below.
+We are constantly innovating Spectacles — different generations have their own unique and exciting features. The new Spectacles overlay immersive Lenses on the world around you and incorporate some of the Scan features described below.
 Learn About Spectacles
 
 Pixy
 
 Pixy is a small, smart drone that captures your world from new perspectives, right from the palm of your hand. Choose from four preset flight paths, and with the press of a button, Pixy can hover, float, orbit, and follow your lead.  
 Pixy needs some info about you to fly and work. For example, in order for Pixy to follow you when it flies, Pixy needs to figure out where your face is in the camera frame. To do this, Pixy uses “object detection,” which is an algorithm designed to help a computer generally understand what objects are in an image. For example, it lets Pixy know that a face is a face or that a body is a body. But, object detection isn’t the same as facial identification. This means that while Pixy can tell what is or isn’t a face, it can’t identify specific faces! And Pixy does not retain the above information once the flight ends.
-Pixy is meant to be used when you’re out and about in the world — but because it flies, make sure you stay safe and follow the rules! Learn more about some of your obligations and review our Policies and Safety page.
+Pixy is meant to be used when you’re out and about in the world — but because it flies, make sure you stay safe and follow the rules! Learn more about some of your obligations and review our Policies and Safety page.
 Whenever you take a photo or video with Pixy, an LED will light up to let you and your friends know that you’re taking a Snap or recording a video.
 Our Community Guidelines have always asked Snapchatters to be thoughtful and respect people’s privacy — and that same philosophy applies to our physical products like Pixy.  
 Learn About Pixy
@@ -117,12 +117,12 @@ Account Security
 
 It’s hard to have a sense of privacy if you don’t feel safe and secure too. That’s why we provide you with features like Login Verification (a form of two-factor authentication) to secure your account, and why we take considerable efforts to secure our own infrastructure. But there are also a few extra steps you can take to keep your Snapchat account especially secure:
 Pick a strong and unique password: It may be easier to use the same password for all your apps, but to make sure your account’s secure, try flexing your creative muscles to come up with a long, unique one — and no, “Password123” isn’t going to fool anyone. If you have trouble remembering passwords, consider using a password manager to generate secure passwords that you don’t have to memorize! Whatever your method, remember: never share your password with anyone, just to be safe.
-Turn on Login Verification: This is an important feature that uses two-factor authentication to add an extra layer of security, if your password is ever compromised.
-Don’t use unauthorized third-party apps: Unauthorized third-party applications and plugins (or tweaks) are not supported or permitted by Snapchat because they can sometimes compromise the security of your and other Snapchatters’ accounts.
+Turn on Login Verification: This is an important feature that uses two-factor authentication to add an extra layer of security, if your password is ever compromised.
+Don’t use unauthorized third-party apps: Unauthorized third-party applications and plugins (or tweaks) are not supported or permitted by Snapchat because they can sometimes compromise the security of your and other Snapchatters’ accounts.
 
 Scan
 
-Use Scan to find a song, shop, or even calculate a math problem! To access Scan on Snapchat, either press and hold on the Camera screen, or tap on the Camera screen and then tap ‘Scan’ in the AR Bar. Scan options will appear across the carousel. On the new Spectacles, start Scan by pressing the right button or saying “Hey Snapchat.”
+Use Scan to find a song, shop, or even calculate a math problem! To access Scan on Snapchat, either press and hold on the Camera screen, or tap on the Camera screen and then tap ‘Scan’ in the AR Bar. Scan options will appear across the carousel. On the new Spectacles, start Scan by pressing the right button or saying “Hey Snapchat.”
 Want to shop a Snapchatter’s outfit? We’ve got you! Just tap the 👕 icon to Scan certain Story Snaps and we will show you similar shoppable products
 When you initiate Scan, images from your Camera are taken and sent to Snap’s servers where we classify what’s in the image. We then recommend Lenses or provide other Scan features to augment and complement your world. 
 To power certain Scan features, Snap partners with third parties like Amazon, Shazam, and Vivino. This means that when you press and hold on the Camera screen, certain information may be sent to these partners. For example, we may send images captured by your camera to Amazon, who’ll send back search results if they find a matching product. Similarly, we may send audio hashes captured by your microphone to Shazam, who’ll send back any matching songs.
@@ -165,7 +165,7 @@ Learn About Cameos
 Personalization
 
 No two people are the same, so the app can tailor your Snapchat experience especially for you!
-We personalize your Snapchat experience based on interactions you have with your friends. For example, the friends you Snap with the most are usually easiest to find, and Charms and Friend Emojis give you fun insights to celebrate your friendships.
-We generally try to show you ads that’ll be relevant to you. We’re able to do this by making some guesses about the things you like and don’t like. For example, if you’re constantly watching Snaps of puppies on Discover or Spotlight, you might be a “Pet & Animal Lover.” Or, if you regularly post Snaps of your sports memorabilia to My Story, our system might be able to guess that you’re a “Sports Fan.” We call guesses like these “Lifestyle Categories” and we use them to try and show you ads and content that’s relevant to your interests! If you’d like, you can always pick your own Lifestyle Categories.
+We personalize your Snapchat experience based on interactions you have with your friends. For example, the friends you Snap with the most are usually easiest to find, and Charms and Friend Emojis give you fun insights to celebrate your friendships.
+We generally try to show you ads that’ll be relevant to you. We’re able to do this by making some guesses about the things you like and don’t like. For example, if you’re constantly watching Snaps of puppies on Discover or Spotlight, you might be a “Pet & Animal Lover.” Or, if you regularly post Snaps of your sports memorabilia to My Story, our system might be able to guess that you’re a “Sports Fan.” We call guesses like these “Lifestyle Categories” and we use them to try and show you ads and content that’s relevant to your interests! If you’d like, you can always pick your own Lifestyle Categories.
 We personalize the Snap Map. For example, if you visit a Place or apply a venue filter or sticker on a Stories, Spotlight, or Snap Map submission, we may use that venue information to create a more personalized Map experience for you and your friends.
-We also try to personalize the content you see by using what we call “Content Interest Tags.” These tags are guesses about the content that you may be interested in based on activity, like things you search for, Stories you view, popular users you subscribe to, and types of locations you visit. So if you watch a lot of Stories about basketball, we may create “sports” and “basketball” Content Interest Tags, so we can show you more Snaps about basketball. You can reset Content Interest Tags at any time in Snapchat settings!
+We also try to personalize the content you see by using what we call “Content Interest Tags.” These tags are guesses about the content that you may be interested in based on activity, like things you search for, Stories you view, popular users you subscribe to, and types of locations you visit. So if you watch a lot of Stories about basketball, we may create “sports” and “basketball” Content Interest Tags, so we can show you more Snaps about basketball. You can reset Content Interest Tags at any time in Snapchat settings!
