@@ -5,16 +5,18 @@ SEARCH
 LOG IN
 LEASE OR BUY
 Lease or Buy
+Current Offers
 Buy a GM Vehicle
 Lease a GM Vehicle
 Lease End
-Current Offers
 Car Shopping Resources
 Extended Protection
 Dealer Locator
 OnStar Insurance
-Lease End
+
+
 Current Offers
+Lease End
 COMMERCIAL FINANCING
 Commercial MyAccount
 Financing
