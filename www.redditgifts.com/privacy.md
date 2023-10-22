@@ -1,65 +1,65 @@
-LoL Worlds 2023
+Spider-Man 2
 
-BEAUTIFUL CHAOS | Swiss Stage Day 2 Tease | Worlds 2023
+Spider-Man PS5 and Spider-Man 2 PS5 comparison
 
-r/leagueoflegends
+r/PhotoModePhantoms
 and more
-Spider-Man 2 launch
+US Grand Prix
 
-One hour to go! Y'all ready for this?
+2023 US Grand Prix - Sprint Race Classification
 
-r/playstation
+r/formula1
 and more
-Lupita Nyong'o breakup
+Rugby World Cup
 
-Lupita Nyong'o announces break up on Instagram
+England faces defeats to South Africa in both Cricket World Cup and Rugby World Cup on same day
 
-r/Fauxmoi
+r/Cricket
 and more
-Jaguars at Saints
+NFL Week 7
 
-[World] - Jaguars hold off Saints for dramatic NFL triumph
+Mike Edwards was fined 16k for this hit on Russell Wilson [Highlight]
 
-r/FRANCE24auto
+r/nfl
 and more
-Blink-182 new album
+Super Mario Bros. Wonder
 
-NYC Listening Party
+Super Mario Bros. Wonder releases...
 
-r/Blink182
+r/Mario
 and more
-Cities: Skylines 2 reviews
+NHL
 
-Cities: Skylines 2 Review (IGN: 6/10)
+Travis Dermott quietly using Pride Tape today
 
-r/pcgaming
+r/hockey
 and more
 Create a post
 r/Cricket
 •
 7 hr. ago
-Match Thread: 18th Match - Australia vs Pakistan
-18th Match, ICC Cricket World Cup at Bengaluru
+Match Thread: 21st Match - India vs New Zealand
+21st Match, ICC Cricket World Cup at Dharamsala
 
-Cricinfo | Reddit-Stream | 🌥 ☁️ 🌥 🌥 🌥
+Cricinfo | Reddit-Stream | 🌧 ☀️ ☀️ ☀️ ☀️
 
 Innings	Score
 
-Australia	367/9 (Ov 50/50)
-Pakistan	84/0 (Ov 13.5/50)
+New Zealand	273 (Ov 50/50)
+India	89/2 (Ov 14.4/50)
 
-Score/Win Prediction : 24.3%
+Score/Win Prediction : 52.04%
 
 Batter	Runs	Balls	SR
 
-Abdullah Shafique*	37	42	88.1
-Imam-ul-Haq	40	41	97.56Bowler	Overs	Runs	Wickets
+Shreyas Iyer*	12	5	240.0
+Virat Kohli	5	12	41.67Bowler	Overs	Runs	Wickets
 
-Pat Cummins	3.5	27	0
-Adam Zampa	2	9	0
-Recent : . 1lb .  |  . 1 . 4 6 1  |  1 4 . 1 1 1  |  1 1 . 1 . 
+Mitchell Santner	3.4	15	0
+Lockie Ferguson	2	12	2
+Recent : . 4 . .  |  . 1 . . . .  |  . W . 4 . 4  |  . . 1 4 
 
-Pakistan need 284 runs from 36.1 overs.
+India need 185 runs from 35.2 overs.
 
 Send feedback | Schedule | Stat Help | Glossary
 
@@ -67,163 +67,166 @@ View full post
 r/AskReddit
 •
 19 hr. ago
-What small upgrade made a huge difference at your house?
-r/worldnews
-•
-11 hr. ago
-Israel war: Israeli foreign minister says Gaza territory will shrink after war
-https://www.washingtonexaminer.com/policy/foreign/israeli-fm-gaza-territory-shrink-after-war
-r/therewasanattempt
-•
-21 hr. ago
-To protest in front of a bus
-r/unpopularopinion
-•
-19 hr. ago
-The Witcher 3 is a mediocre game at best
-
-The Witcher 3 was genuinely one of the most boring games I have ever played, I went in with high expectations just because i heard so many people say its one of the greatest games of all time, only to be met with a bland world, slow exploration, sloppy combat, and a find ciri quest on repeat for 30 hours. I swear people are deluding themselves if they think this game is good, it has good graphics (for its time) and a somewhat compelling story, but god damn its so boring to play. I have no idea what people see in this game.
-
-r/Damnthatsinteresting
-•
-3 hr. ago
-Snake found in one of the village in India
-r/politics
-•
-15 hr. ago
-Discussion Thread: Biden Delivers Oval Office Address on Israel-Hamas and Russia-Ukraine Wars
-https://www.reddit.com/r/politics/comments/17bwhti/discussion_thread_biden_delivers_oval_office/
-r/Funnymemes
-•
-17 hr. ago
-Only 4 words
-r/comics
-•
-3 hr. ago
-Tired
-r/shitposting
-•
-5 hr. ago
-You gotta watch out for that one
-r/nextfuckinglevel
-•
-4 hr. ago
-how an anime was made years ago
-r/leagueoflegends
-•
-3 hr. ago
-G2 Esports vs. Weibo Gaming / 2023 World Championship - Swiss Round 2 / Post-Match Discussion
-WORLDS 2023
-
-Official page | Leaguepedia | Liquipedia | Eventvods.com | New to LoL
-
-G2 Esports 1-0 Weibo Gaming
-
-G2 | Leaguepedia | Liquipedia | Website | Twitter | Facebook | YouTube | Subreddit
-WBG | Leaguepedia | Liquipedia
-
-MATCH 1: G2 vs. WBG
-
-Winner: G2 Esports in 38m | Game Breakdown
-
-	Bans 1	Bans 2	G	K	T	D/B
-
-G2	poppy rumble jarvaniv	nautilus jax	75.5k	26	9	H2 B8 E9
-WBG	draven kalista maokai	renekton leesin	75.1k	23	7	C1 CT3 H4 M5 B6 M7-Soul B10G2	26-23-79	vs	23-26-43	WBG
-
-BrokenBlade yone 3	6-4-10	TOP	9-6-7	3 ksante TheShy
-Yike rell 3	3-4-20	JNG	5-4-10	1 vi Weiwei
-Caps orianna 1	6-4-16	MID	5-5-10	2 azir Xiaohu
-Hans Sama xayah 2	9-6-10	BOT	4-4-7	1 kaisa Light
-Mikyx rakan 2	2-5-23	SUP	0-7-9	4 leona Crisp
-
-This thread was created by the Post-Match Team.
-
-View full post
-r/texts
-•
-19 hr. ago
-My bf doesn’t like dates…
-r/AmItheAsshole
-•
-23 hr. ago
-AITA for telling my son I am not buying him new food since he ruined his and he can be hungry for a few hours
-
-It’s been a long day, I have a son named Jack that is 14. He is a horrible picky eater so getting lunch out on the town is a nightmare most of the time. Now I had all the kids with me to go visit a relative in the hospital, everyone got grabbed out of school for it.
-
-The hospital was a 3 hour drive and we went up this morning. By lunch everyone was starving so we stopped by Chick Fi La. There is a trend of putting the mac and cheese on the sandwich with a sauce. Jack mentioned this and I told him I will not buy him more food if he does it and he doesn’t like it.
-
-Well he did it and he hated it. Now everything was touching so he couldn’t just eat the sandwich after taking it off. I didn’t buy him more food like I said and he didn’t eat his concoction that he made.
-
-After that we drove back home and he was really hungry. My wife came home and he started telling her how I starved him. We got in argument for not buying him more even though we could afford it.Both of them think I am a huge jerk for this.
-
-AITA should I have just bought more.
-
-He doesn’t have sensory issue and he is only allergic to cats. We had him tested. If he doesn’t find the taste up to his liking he won’t eat it. This includes leftovers, same meal he liked before isnt worth eating as a leftover
-
-Guys this kids has been tested, the school checks for being on the spectrum, he’s not on it. Yes I know what AFRID is, he doesn’t have it.
-
-View full post
-r/FunnyandSad
-•
-23 hr. ago
-I think it's omnidirectional HAHAAAA
-r/gaming
-•
-16 hr. ago
-Game cancellations that still hurt you to this day
-
-For me it's Mercenaries 3 and Command and Conquer: Generals 2. Fuck you, EA.
-
-r/tumblr
-•
-4 hr. ago
-General Electric, the Sailor
+What outdated slang do you still say to this day?
 r/clevercomebacks
 •
-2 hr. ago
-Atleast the students would complete their homework
+5 hr. ago
+She just got buried six feet deep
+r/worldnews
+•
+22 hr. ago
+About 100,000 turn out in London for pro-Palestine rally
+https://www.theguardian.com/world/2023/oct/21/about-100000-turn-out-in-london-for-pro-palestine-rally
+r/therewasanattempt
+•
+6 hr. ago
+To bully a kid
+r/tumblr
+•
+5 hr. ago
+Damn
+r/meirl
+•
+22 hr. ago
+meirl
+r/facepalm
+•
+1 day ago
+Sounds like your ex wife made the right decision
+r/meirl
+•
+7 hr. ago
+meirl
+r/AmItheAsshole
+•
+22 hr. ago
+AITA for kicking my 72 year old MIL out of the house at night, because she threw away my things?
+
+I (36F) live with my husband (41M). I have a decent relationship with my MIL, compared to a lot of the horror stories I hear from friends, she’s quite sweet and warm. She is, however, a little… over-controlling? Overprotective? I’m not sure of the exact word, but she has very strong ideas about things and no sense of boundaries. For example, when she stays at our house she takes over the kitchen completely and insists on cooking all our meals. She cooks wonderfully, but she won’t let me help her at all, and puts everything away in the wrong places - and then insists that her way is more logical.
+
+She only really comes for holidays, though, and I do like her a lot. So I don’t mind putting up with these mild annoyances. I’m currently pregnant with our little girl, who will be born in a few months. This is a miracle - I really didn’t think it would happen, especially so late, but we got lucky. When my MIL heard, she was super excited and said she would come over to help us get ready for the baby. She offered to stay for the next 6 months or so to help out, because my husband and I both work long hours and it will be hard to handle the baby on top of this. She is also pretty emotionally invested in this, because she truly sees herself as part of our family. She arrived a few days ago and set herself up, then she started with the cleaning.
+
+I like collecting things from garage sales and such. Things like little sculptures and books and baskets, stuff a lot of people would consider utter junk. Our house is definitely overstuffed, but it’s reasonably tidy and doesn’t seem like a hoarder’s house or anything. My MIL, on the other hand, likes everything surgically clean. Yesterday I came home from work to find the house like a war zone, she went through my cabinets and cleared out everything she considered junk, and had apparently made several trips to goodwill before I got home. I was really angry and I asked her why she would ever do this. She said the house has to be tidy for the baby, and that it would be “dangerous” for the baby to be in my cluttered house.
+
+Then she took the next huge bag of stuff and tried to walk out the door. I kind of lost it, and I told her she could get out right now. She was shocked that I was serious, and she said she doesn’t have anywhere to go and it’s so late. It was about 9:30. I booked her a hotel room and called a taxi.
+
+My husband came home an hour later, and when I told him what happened, he was furious with me. He says I disrespected his mom and was ungrateful for everything she’s trying to do for us. AITA?
+
+View full post
+r/aww
+•
+6 hr. ago
+The most patient cat in the world
+r/pics
+•
+23 hr. ago
+Painted my house, to mixed reviews
+r/news
+•
+19 hr. ago
+Detroit synagogue president Samantha Woll found dead outside her home
+https://www.freep.com/story/news/local/michigan/detroit/2023/10/21/samantha-woll-dead-isaac-agree-downtown-detroit-synagogue-president/71271616007/?utm_campaign=snd-autopilot
+r/texts
+•
+18 hr. ago
+Went on 1 date with this guy who was a lot younger than he said he was. Went downhill after…
+r/CFB
+•
+11 hr. ago
+[Postgame Thread] Utah Defeats USC 34-32
+
+Box Score provided by ESPN
+
+Team	1	2	3	4	T
+
+Utah	14	0	14	6	34
+USC	14	0	3	15	32
+Made with the r/CFB Game Thread Generator
+r/NatureIsFuckingLit
+•
+5 hr. ago
+🔥 Curious and friendly Giraffe approaches man in South Africa
+r/NoStupidQuestions
+•
+19 hr. ago
+I always hear the phrase "talk to YOUR doctor" Do people actually have there "own" doctor they see regularly?
+
+Obviously I dont mean a personal doctor like rich people, but does anyone actually see the same doctor multiple times?
+
+I usually just go to urgent care when I am sick and need meds to treat it (this was twice this year also its only $20 for me to go) or go to specialists directly through my insurance. I've found primary care doctors to be a waste of time and whenever I do go to one I never see that same one ever again. I have gone to see a couple per year to establish care but always have a bad experience.
+
+I am not light on the medical visits either, I go to some sort of doctor 10-20 times or so per year and probably Should be using a pcp if I had one (for giving out referral and managing care) but do not. I dont need them for referral as I have ppo insurance, I can also order blood tests online and get them filled at the local labcorp. This isn't my preference but the only way I can get things to happen. Relying on pcp would take ages and often they don't even take me seriously.
+
+I do not have a pcp I would call "mine" as in having some sort of relationship established. Rarely do I see the same person twice. I do have my psychiatrist though but we dont talk about my physical health or other problems.
+
+Edit: This post has gotten me like a million notifications so I stopped responding to every comment. Sorry if I dont respond
+
+A few things, no "mommy and daddy" dont need to make my appointments. I've made several appointments to several different primary cares within the last 7 years. Also they live several states away anyway
+
+I am US based, west coast specifically.
+
+I dont go to urgent care that much, only when sick. Its a $20 copay for me and generally a better experience than regular PCPs.
+
+Also, yes I see the typo of "there" in the title
+
+Also again this is the main point:
+
+I do not have a pcp I would call "mine" as in having some sort of relationship established. Or seeing them multiple times.
+
+And I have tried yes. Its a weird thing for some of yall to be so angry and make so many crazy assumptions. Relax, I am not making fun of your doctor.
+
+Edit again: For the non Americans, urgent care is not the same as ER in the US. Basically just a no appointment clinic.
+
+View full post
 r/europe
 •
 20 hr. ago
-Condemnation of Hamas and recognition of Israel's right to defend itself: overwhelming support for the European Parliament | Israel Hayom
-https://newsrnd.com/news/2023-10-19-condemnation-of-hamas-and-recognition-of-israel-s-right-to-defend-itself--overwhelming-support-for-the-european-parliament-%7C-israel-hayom.BkWE46CZa.html
-r/NatureIsFuckingLit
+About 100,000 protesters join pro-Palestinian march through London
+https://www.reuters.com/world/about-100000-protesters-join-pro-palestinian-march-through-london-2023-10-21/
+r/nextfuckinglevel
 •
-9 hr. ago
-🔥 Insect transformations 🔥
-r/ContagiousLaughter
+7 hr. ago
+She ensured he started his stay in confined spaces soon enough
+r/shitposting
 •
-9 hr. ago
-He nailed it😂
-r/FunnyandSad
+4 hr. ago
+Quora Moments
+r/MMA
 •
-8 hr. ago
-There's a name for that
-r/news
+18 hr. ago
+[SPOILER] Islam Makhachev vs. Alexander Volkanovski
+https://dubz.cc/c/58507b
+r/shitposting
 •
-1 day ago
-Trump attorney Sidney Powell pleads guilty in Georgia election subversion case
-https://www.cnn.com/2023/10/19/politics/sidney-powell-fulton-county-georgia-2020-election-subversion/index.html
-r/Weird
+12 hr. ago
+Expecto Patronum
+r/SipsTea
 •
-16 hr. ago
-The pad of my middle finger is suddenly huge and I didn't do anything to it
-r/Wellthatsucks
-•
-22 hr. ago
-My neighbor is mad that we have security cameras facing her property.
-r/mildlyinfuriating
+14 hr. ago
+The perfect man
+r/todayilearned
 •
 21 hr. ago
-How my neighbor’s landscapers cleared the leaves from her property (right). My property (left) starts at the fence line.
-r/canada
+TIL average onset of menstruation for girls in 1840 was age 17. In 2000 it was 12 years old.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7806408/
+r/tf2
 •
-20 hr. ago
-Trudeau not ready to accept U.S. finding that Palestinian outfit was behind Gaza hospital blast
-https://www.cbc.ca/news/politics/trudeau-hospital-blast-gaza-1.7001656
-r/MadeMeSmile
+16 hr. ago
+The Heavy is now a playable character in the last video game you played. What happens?
+r/gaming
 •
-9 hr. ago
-Newly adopted dog from a shelter. The dog won't let go of the new owner's hand for a moment
+17 hr. ago
+People who had an N64, was the controller really that bad?
+
+So, lately when people talk about the N64 they mention how bad and uncomfortable the controller was. i grew up with an N64 (and still have mine) and i never had any issue with it. So i'm wondering if I just have the right sized hands for it or if's the nickelback effect where people just ape one another. Or maybe it's just that it's coming from people who are younger and are just used to way different controllers and thus find it hard to grasp?
+
+r/clevercomebacks
+•
+19 hr. ago
+Not the response I'd want my car to provoke either.
+r/todayilearned
+•
+6 hr. ago
+TIL when Conan O'Brien reached a settlement with NBC over the Tonight Show drama, he was awarded $45 million, $12 million of which was for his staff who had moved with Conan to Los Angeles from New York when he left Late Night.
+https://en.wikipedia.org/wiki/Conan_O%27Brien#Late_Night_(1993%E2%80%932009)
  
