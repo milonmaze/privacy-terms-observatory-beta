@@ -32,7 +32,7 @@ Members
 
 Ads transparency and controls
 
-Government requests
+Government requests and disclosures
 
 Professional Community Policies
 
@@ -165,6 +165,16 @@ How to contact LinkedIn under the DSA
 
 How to contact LinkedIn's single point of contact in connection with the Digital Services Act.
 
+Go to Help Center →
+
+DSA Transparency Report
+
+
+
+
+Information regarding LinkedIn’s content moderation in the EU under the Digital Services Act.
+
 Go to Help Center →
+
 
 dismiss
