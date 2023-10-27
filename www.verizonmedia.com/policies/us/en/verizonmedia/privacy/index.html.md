@@ -4,6 +4,7 @@ Last updated: July 2023
 
 About Yahoo
 
+
 Yahoo, previously known as Verizon Media, is a technology and media company that provides a range of services. We serve our consumers, partners, advertisers and talent through our portfolio of digital platforms, products and services offered under our AOL, Yahoo and other brands.
 
 We provide control tools to help you manage your experience with us. If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy. If you have not yet agreed to this Privacy Policy, the legacy Yahoo Privacy Policy or legacy Oath Privacy Policy (for AOL) still apply to your account. For Yahoo products or services that are accessed without signing in to an account, this Privacy Policy applies to those products and services as of May 25, 2018. If you are creating a new account, the terms below apply starting today.
@@ -11,15 +12,18 @@ We provide control tools to help you manage your experience with us. If you have
 Except as set out elsewhere in this Privacy Policy, when we refer to ‘Yahoo’, it means Yahoo Inc., the US-established company that supplies the Services to you (and acts as data controller of the personal data Yahoo collects when you use those Services).
 Our Privacy Pledge
 
+
 Our commitment is to put users first. We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.
 
 This Privacy Policy is meant to help you understand what information Yahoo, its affiliates and its house of global brands (“Yahoo,” “us,” “our” or “we”) collect, why we collect it and what we do with it. This policy applies to Yahoo brands, websites, apps, advertising services, products, services or technologies (we’ll collectively refer to these as “Services”). Additional privacy practices for certain Services can be found in Details for Specific Products and Services.
 
 Your Controls
 
+
 We believe you should have tools to control your information. You can find controls to manage or review your account information, marketing preferences, location data, and search history at Privacy Controls. Some of our Services provide additional controls and privacy practices. (See, Details for Specific Products and Services)
 
 Information Collection and Use - General
+
 
 Certain categories of information collected by Yahoo are necessary to use our Services, such as the information you must provide when registering for some Services. We may collect and combine information when you interact with Yahoo Services information outlined below:
 
@@ -57,6 +61,7 @@ When we obtain information from third-parties or other companies, such as those 
 
 How We Use This Information
 
+
 We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in. We also may use the information we have about you for the following purposes: 
 
 Provide, maintain, improve, and develop relevant features, content, and Services.
@@ -90,6 +95,7 @@ We provide you with controls to manage your experience with us. For example, you
 If you are located in the European Union or European Economic Area or in the UK (EU/EEA/UK), please see Section 10 “Our Legal Bases for Processing Information” for more information that applies to your use of our Services.
 How We Share This Information
 
+
 Yahoo shares information within its affiliated brands and companies. We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with third-party apps and widgets). We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Yahoo unless one of the following circumstances applies:
 
 With Your Consent. We will share information with companies, organizations or individuals outside of Yahoo when we have your consent. 
@@ -114,15 +120,18 @@ New Ownership. If the ownership or control of all or part of Yahoo or a specifi
 
 Details for Specific Products and Services
 
+
 Additional privacy practices for certain Yahoo Services are included here.
 
 Information Security and Data Retention
+
 
 Yahoo has technical, administrative and physical safeguards in place to help protect against unauthorized access, use or disclosure of customer information we collect or store. 
 
 Yahoo will retain your personal information for as long as necessary to provide the applicable Yahoo Services to you. In some cases, Yahoo has certain business or legal requirements that result in an obligation to retain your personal information for an extended period of time. These obligations may include financial record keeping, ensuring continuity of our products or services, security, fraud, and abuse prevention, or compliance with our legal obligations. In some limited cases, we may keep data for longer than needed for the purposes set out in the Yahoo Privacy Dashboard, such as: (i) replicating or backing up certain data to “offline” storage for disaster recovery purposes; (ii) truncating, redacting or summarizing raw data, log files and database records into statistical aggregate data or probabilistic data structures to understand long term trends; (iii) maintaining de-identified data for varying periods for research, reporting and product testing or development (in these cases, unique identifiers and linkages to existing data about you are broken or removed so that this data is no longer associated with you, your browser, or device); or (iv) keeping and using certain data to comply with our legal obligations, resolve disputes or enforce our agreements (for example, we might keep data associated with an account subject to litigation or a request from law enforcement). For specific information about your personal information or how your personal information is processed by a particular Yahoo product or service you may interact with, please log into the Yahoo Privacy Dashboard.
 
 Protecting Children’s Privacy
+
 
 Our Services are for a general audience. We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law. With parental permission, a child under age 13 might have a Yahoo Family Account. Visit Children's Privacy & Family Accounts to learn more about children’s privacy at Yahoo.
 
@@ -138,13 +147,16 @@ The United States and other non-EU/EEA/UK countries have different laws on data 
 
 Other Important Information
 
+
 This Privacy Policy Applies Only to Yahoo. This Privacy Policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some affiliated products may have different privacy policies and practices that are not subject to this Privacy Policy. 
 
 Changes
 
+
 We may update this Privacy Policy from time to time, so you should check it periodically. If we make changes that are material we will provide you with appropriate notice before such changes take effect.
 
 Questions & Suggestions
+
 
 If you have questions, suggestions, or wish to make a complaint, please complete a feedback form or you can contact us at:
 
