@@ -1,50 +1,53 @@
-Nuggets win over Lakers
+1989 (Taylor's Version)
 
-Jokic's triple-double halts Lakers comeback, Nuggets win on Opening Night
+Taylor Swift in her 1989 (Taylor's Version)' prologue:
 
-r/sports
+r/Fauxmoi
 and more
-Hurricane Otis hits Mexico
+Five Nights at Freddy’s reviews
 
-Hurricane Otis Makes Landfall in Acapulco, Mexico As A Category 5 Hurricane
+IGN gave the FNaF Movie a 4/10.
 
-r/worldnews
+r/fivenightsatfreddys
 and more
-Cities: Skylines 2
+Fantastic Beasts franchise ‘parked’
 
-Cities: Skylines 2: Immediately change these 5 graphics options for a big performance boost
+Fantastic Beasts: JK Rowling franchise has been ‘parked’, director says
 
-r/CitiesSkylines
+r/entertainment
 and more
-Arsenal beat Sevilla 2-1
+Maine shooter still at large
 
-UCL MOTM - GABRIEL JESUS 📞
+Suspect at large after 2 active shooter incidents in area of Lewiston, Maine, sheriff says
 
-r/Gunners
+r/news
 and more
-Richard Roundtree dead at 81
+Batman: Arkham Knight suit
 
-Richard Roundtree Dies: ‘Shaft’ Star Was 81
+Batman: Arkham Knight Receives Update Featuring "The Batman" Suit
 
-r/movies
+r/PS4
 and more
-Apple announces October event
+Alan Wake 2 released
 
-Apple Announces October Event for Macs: 'Scary Fast'
+‘Alan Wake 2’ Reviews Are In, And They Are Scary Good
 
-r/apple
+r/gaming
 and more
 Create a post
-r/AskReddit
-•
-15 hr. ago
-What's a movie that no human should ever suffer through?
-r/texts
-•
-22 hr. ago
-Bf got caught…insults me
-r/therewasanattempt
+r/gaming
 •
 17 hr. ago
-To work a real job
+What are some franchises where the second game is the best one?
+
+Title
+
+r/mildlyinteresting
+•
+4 hr. ago
+One of my mums snow globes has gone black
+r/perfectlycutscreams
+•
+5 hr. ago
+root bear
  
