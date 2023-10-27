@@ -8,7 +8,7 @@ When you visit our Products, you’ll almost always see ads. These ads come in m
 The ads that you see on our Products are sometimes provided by us, but also by our advertising technology partners. 
 You decide whether you want the ads that you see to be personalised for you. Some of our users prefer to see ads that are matched to their interests, devices and location.  Others don’t - and that’s okay too! We give you the control to decide what works best for you. 
 We also provide ads to you on our partners’ websites, apps and connected TVs through our Services.
-You can manage how we and our partners use your data to personalize ads on our Products and <hoverServices in Your Privacy Controls.
+You can manage how we and our partners use your data to personalize ads on our Products and
 Most advertisers want to show users personalised ads because advertisers believe ads that related to their users’ interests or behaviours are most effective. As a result, most of our advertising business focuses on showing personalised ads. However, we do show ads that aren’t based on users’ interests, devices and location as well (often called ‘contextual’ ads).
 
 The following steps describe the lifecycle of our interaction with a user, from the first time we interact with him, to the measurement and reporting of a personalised ad that we show him on our Products or through our Services. 
