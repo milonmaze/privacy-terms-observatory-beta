@@ -476,6 +476,7 @@ Integration of Apple’s TrueDepth API into Yahoo applications may allow you to 
 The Yahoo application will require access to your device's camera in order for you to use the face filter functionality. This access may be toggled on or off at any time in your device's settings. 
 
 The camera images and any resulting data from your use of face filters are only used for the current session and to provide the face filter functionality. The live video feed that you see while using the face filters is only used for the purpose of providing the feature, and this data is not stored locally or remotely. Further any data related to your use of face filters is stored only on the device, and only for the duration of your current face filter session. Each time the home screen is presented or the application is closed, the data is deleted. Yahoo does not store or share with third parties data related to your use of the face filters functionality. 
+
 Voice and Digital Assistant Providers
 
 The voice and digital assistant providers with whom we work are listed below. These companies may provide users choices about how they collect and use information. For more information, please review their privacy policies.
