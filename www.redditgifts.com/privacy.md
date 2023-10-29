@@ -1,53 +1,77 @@
+Matthew Perry dead at 54
+
+'Friends' Star Matthew Perry Dead at 54 After Apparent Drowning
+
+r/television
+and more
 1989 (Taylor's Version)
 
-Taylor Swift in her 1989 (Taylor's Version)' prologue:
+1989 (Taylor's Version)
 
-r/Fauxmoi
+r/TaylorSwiftPictures
 and more
-Five Nights at Freddy’s reviews
+NFL Week 8
 
-IGN gave the FNaF Movie a 4/10.
+NFL Power Rankings, Week 8: Chiefs reclaim No. 1 spot; rampaging Ravens soar into top five
 
-r/fivenightsatfreddys
+r/nfl
 and more
-Fantastic Beasts franchise ‘parked’
+Mexican Grand Prix
 
-Fantastic Beasts: JK Rowling franchise has been ‘parked’, director says
+As seen in FP3 at the Mexican GP
 
-r/entertainment
+r/formuladank
 and more
-Maine shooter still at large
+NBA Opening Week
 
-Suspect at large after 2 active shooter incidents in area of Lewiston, Maine, sheriff says
+NBA opening night
 
-r/news
+r/HoosiersBasketball
 and more
-Batman: Arkham Knight suit
+Rugby World Cup
 
-Batman: Arkham Knight Receives Update Featuring "The Batman" Suit
+[Rugby World Cup on X] South Africa are Rugby World Cup champions!
 
-r/PS4
-and more
-Alan Wake 2 released
-
-‘Alan Wake 2’ Reviews Are In, And They Are Scary Good
-
-r/gaming
+r/sports
 and more
 Create a post
-r/gaming
+r/Cricket
 •
-17 hr. ago
-What are some franchises where the second game is the best one?
+7 hr. ago
+Match Thread: 29th Match - India vs England
+29th Match, ICC Cricket World Cup at Lucknow
 
-Title
+Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
 
-r/mildlyinteresting
+Innings	Score
+
+India	229/9 (Ov 50/50)
+England	41/4 (Ov 10.4/50)
+
+Score/Win Prediction : 26.51%
+
+Batter	Runs	Balls	SR
+
+Jos Buttler*	4	6	66.67
+Moeen Ali	2	7	28.57Bowler	Overs	Runs	Wickets
+
+Mohammed Siraj	2.4	19	0
+Mohammed Shami	3	4	2
+Recent : . . W  |  . 1 . . . 1w 4  |  W . . 1 . .  |  . . . 1 
+
+England need 189 runs from 39.2 overs.
+
+Live match threads: Pakistan Women vs Bangladesh Women |
+
+Send feedback | Schedule | Stat Help | Glossary
+
+View full post
+r/wholesomememes
+•
+3 hr. ago
+Daughter's Best Day
+r/clevercomebacks
 •
 4 hr. ago
-One of my mums snow globes has gone black
-r/perfectlycutscreams
-•
-5 hr. ago
-root bear
+A short history lesson
  
