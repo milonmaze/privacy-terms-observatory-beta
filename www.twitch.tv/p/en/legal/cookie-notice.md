@@ -24,6 +24,7 @@ Transparency Report
 Community Guidelines FAQ
 Modern Day Slavery Statement
 State-Specific Privacy Disclosures
+Gift Card & Gift Card Balance Terms and Conditions
 Advertising
 Blog
 Brand
