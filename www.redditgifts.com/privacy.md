@@ -1,77 +1,50 @@
-Matthew Perry dead at 54
+Matthew Perry tributes
 
-'Friends' Star Matthew Perry Dead at 54 After Apparent Drowning
+RIP Matthew Perry
 
-r/television
+r/DunderMifflin
 and more
-1989 (Taylor's Version)
+NFL Sunday results
 
-1989 (Taylor's Version)
+whoPrankedTheNfl
 
-r/TaylorSwiftPictures
+r/ProgrammerHumor
 and more
-NFL Week 8
+Tyson Fury wins
 
-NFL Power Rankings, Week 8: Chiefs reclaim No. 1 spot; rampaging Ravens soar into top five
+Absolute Unit Tyson Fury Meets Legendary Mike Tyson
 
-r/nfl
+r/AbsoluteUnits
 and more
-Mexican Grand Prix
+Hockey player Adam Johnson
 
-As seen in FP3 at the Mexican GP
-
-r/formuladank
-and more
-NBA Opening Week
-
-NBA opening night
-
-r/HoosiersBasketball
-and more
-Rugby World Cup
-
-[Rugby World Cup on X] South Africa are Rugby World Cup champions!
+American hockey player Adam Johnson dies after getting cut in the neck by a skate in England
 
 r/sports
 and more
+Dagestan airport riot
+
+Protest at Makhachkala airport, Dagestan. People are demanding that the Israelis return and not be in Dagestan. Dagestanis believe that the Israelis want to seize Dagestan like Palestine
+
+r/AskMiddleEast
+and more
+Five Nights at Freddy's
+
+Five Nights at Freddy's (1983)
+
+r/moviescirclejerk
+and more
 Create a post
-r/Cricket
+r/AskReddit
 •
-7 hr. ago
-Match Thread: 29th Match - India vs England
-29th Match, ICC Cricket World Cup at Lucknow
-
-Cricinfo | Reddit-Stream | ☀️ ☀️ ☀️ ☀️ ☀️
-
-Innings	Score
-
-India	229/9 (Ov 50/50)
-England	41/4 (Ov 10.4/50)
-
-Score/Win Prediction : 26.51%
-
-Batter	Runs	Balls	SR
-
-Jos Buttler*	4	6	66.67
-Moeen Ali	2	7	28.57Bowler	Overs	Runs	Wickets
-
-Mohammed Siraj	2.4	19	0
-Mohammed Shami	3	4	2
-Recent : . . W  |  . 1 . . . 1w 4  |  W . . 1 . .  |  . . . 1 
-
-England need 189 runs from 39.2 overs.
-
-Live match threads: Pakistan Women vs Bangladesh Women |
-
-Send feedback | Schedule | Stat Help | Glossary
-
-View full post
-r/wholesomememes
+17 hr. ago
+What is the adult version of finding out that Santa Claus doesn't exist?
+r/texts
 •
-3 hr. ago
-Daughter's Best Day
-r/clevercomebacks
+19 hr. ago
+Girlfriend lost her shit on me for no apparent reason and left me via text
+r/pics
 •
-4 hr. ago
-A short history lesson
+22 hr. ago
+My friend sent me pictures of prohibitions in Singapore
  
