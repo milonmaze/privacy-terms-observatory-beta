@@ -4,7 +4,7 @@ ADVERTISING
 
 Advertising keeps Google and many of the websites and services you use free of charge. We work hard to make sure that ads are safe, unobtrusive, and as relevant as possible. For example, you won’t see pop-up ads on Google, and we terminate the accounts of hundreds of thousands of publishers and advertisers that violate our policies each year – including ads containing malware, ads for counterfeit goods, or ads that attempt to misuse your personal information.
 
-Google is experimenting with new ways of supporting the delivery and measurement of digital advertising in ways that better protect people’s privacy online via Chrome’s Privacy Sandbox initiative. Users that participate in Chrome’s Privacy Sandbox Origin Trials may see relevant ads from Google based on Topics or FLEDGE data stored on, or shared with, their browser. Google may also measure ad performance using Attribution Reporting data stored on, or shared with, their browsers. More information on the Privacy Sandbox.
+Google advertising services are experimenting with new ways of supporting the delivery and measurement of digital advertising in ways that better protect people’s privacy online via the Privacy Sandbox initiative on Chrome and Android. Users with the relevant Privacy Sandbox settings enabled in Chrome or Android may see relevant ads from Google’s advertising services based on Topics or Protected Audience data stored on their browser or mobile device. Google’s advertising services may also measure ad performance using Attribution Reporting data stored on their browser or mobile device. More information on the Privacy Sandbox.
 
 How Google uses cookies in advertising
 
