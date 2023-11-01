@@ -1,7 +1,4 @@
 Jump to content
-
-Photograph a historic site, help Wikipedia, and win a prize. Participate in the world's largest photography competition this month! Learn more
-
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	Deutsch English Nederlands Tiếng Việt català dansk español español de América Latina français galego italiano latviešu magyar norsk bokmål polski português português do Brasil română slovenčina svenska čeština русский українська עברית العربية ไทย 中文（简体） 中文（繁體） 日本語 한국어
