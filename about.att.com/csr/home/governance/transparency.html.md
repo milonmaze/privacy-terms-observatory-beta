@@ -3,7 +3,7 @@ Reports
 Transparency Report
 Transparency Report
 
-At AT&T, we take our responsibility to protect your information and privacy very seriously. You can learn more by reading our Customer Privacy Issue Brief.
+At AT&T, we take our responsibility to protect your information and privacy very seriously. You can learn more by reading our Customer Privacy Issue Brief.
 
 Download August 2023 Report
 Overview
@@ -12,8 +12,8 @@ Like all companies, we are required by law to provide information to government 
 
 In this report, “AT&T” includes all of AT&T’s operating units as of this reporting period:
 
-AT&T Communications1 provides mobile, broadband, and other communications services to U.S.-based consumers and nearly 3 million companies globally — from the smallest business to nearly all the Fortune 1000.
-AT&T Mexico offers mobile services to people and businesses in Mexico.
+AT&T Communications1 provides mobile, broadband, and other communications services to U.S.-based consumers and nearly 3 million companies globally — from the smallest business to nearly all the Fortune 1000.
+AT&T Mexico offers mobile services to people and businesses in Mexico.
 Past Reports
 
 We maintain an archive that includes transparency reports for the past 5 years. They can be found in our ESG Reporting Archive.
@@ -23,7 +23,7 @@ National Security Demands
 
 National Security Letters (NSLs) are administrative subpoenas issued by the U.S. Federal Bureau of Investigation to compel the production of information regarding counterterrorism or counterintelligence investigations. NSLs are limited to non-content information, such as a list of phone numbers dialed or subscriber information. Legal demands issued pursuant to the Foreign Intelligence Surveillance Act (FISA) may direct us to provide content and non-content data related to national security investigations, such as international terrorism or espionage.
 
-Our reporting on NSLs and FISA orders (collectively referred to as “National Security Demands”) is governed by U.S. law.2 By statute, we are permitted to report data of demands served on us and the “customer selectors targeted” by those respective demands in specifically defined numeric ranges and for only certain time periods.
+Our reporting on NSLs and FISA orders (collectively referred to as “National Security Demands”) is governed by U.S. law.2 By statute, we are permitted to report data of demands served on us and the “customer selectors targeted” by those respective demands in specifically defined numeric ranges and for only certain time periods.
 
 National Security Letters
 January - June 2023
@@ -51,19 +51,19 @@ Civil actions include lawsuits involving private parties (e.g., a personal liabi
 
 Our Process
 
-We receive multiple types of legal demands, including subpoenas, court orders and search warrants. Before we respond to any legal demand, we determine that we have received the correct type of demand based on the applicable law for the type of information sought. For instance, in some states we must supply call detail records if we receive a subpoena. In other states, call detail records require a probable cause court order or search warrant. If the requesting agency has failed to send the correct type of demand, we reject the demand.
+We receive multiple types of legal demands, including subpoenas, court orders and search warrants. Before we respond to any legal demand, we determine that we have received the correct type of demand based on the applicable law for the type of information sought. For instance, in some states we must supply call detail records if we receive a subpoena. In other states, call detail records require a probable cause court order or search warrant. If the requesting agency has failed to send the correct type of demand, we reject the demand.
 
 Types of Legal Demands
 
 The reporting category “Total U.S. Criminal & Civil Demands” reflects the type of demand with the information requested, particularly relating to General Court Orders and search warrants.
 
-Subpoenas don’t usually require the approval of a judge and are issued by an officer of the court, e.g., an attorney. They are used in both criminal and civil cases, typically to demand (1) testimony or written business documents, such as calling records and client contracts, (2) basic subscriber information, such as the name and address listed on the billing account, and (3) data related to advertising transactions conducted using our advertising technology.
+Subpoenas don’t usually require the approval of a judge and are issued by an officer of the court, e.g., an attorney. They are used in both criminal and civil cases, typically to demand (1) testimony or written business documents, such as calling records and client contracts, (2) basic subscriber information, such as the name and address listed on the billing account, and (3) data related to advertising transactions conducted using our advertising technology.
 
-General Court Orders are signed by a judge. We consider “general” court orders to be all orders except those that contain a probable cause finding. In a criminal case, for example, a judge may issue a court order on a lesser standard than probable cause, such as “relevant to an ongoing criminal investigation.” In criminal cases, court orders are also used to demand real-time, pen register/“trap and trace” information, which provides phone numbers and other dialed information for all calls as they are made or received from the device identified in the order. In a civil case, a court order may be issued on a “relevant” or “reasonably calculated to lead to the discovery of admissible evidence” standard.
+General Court Orders are signed by a judge. We consider “general” court orders to be all orders except those that contain a probable cause finding. In a criminal case, for example, a judge may issue a court order on a lesser standard than probable cause, such as “relevant to an ongoing criminal investigation.” In criminal cases, court orders are also used to demand real-time, pen register/“trap and trace” information, which provides phone numbers and other dialed information for all calls as they are made or received from the device identified in the order. In a civil case, a court order may be issued on a “relevant” or “reasonably calculated to lead to the discovery of admissible evidence” standard.
 
 In both the criminal and civil context, general court orders have been used to demand historic information, like billing records or records relating to usage of a wireless device.
 
-Search Warrants and Probable Cause Court Orders are signed by a judge, and they are issued only upon a finding of “probable cause.” To be issued, the warrant or order must be supported by sworn testimony and sufficient evidence to believe the information demanded is evidence of a crime. Probable cause is viewed as the highest standard to demand evidence. Except in emergency circumstances, a search warrant or probable cause court order is required for all real-time precise location information (like GPS) and real-time content (such as content obtained through wiretaps). Stored content (like stored text and voice messages) generally also requires a warrant.
+Search Warrants and Probable Cause Court Orders are signed by a judge, and they are issued only upon a finding of “probable cause.” To be issued, the warrant or order must be supported by sworn testimony and sufficient evidence to believe the information demanded is evidence of a crime. Probable cause is viewed as the highest standard to demand evidence. Except in emergency circumstances, a search warrant or probable cause court order is required for all real-time precise location information (like GPS) and real-time content (such as content obtained through wiretaps). Stored content (like stored text and voice messages) generally also requires a warrant.
 Foreign-Originated Demands for Information about a U.S. Consumer or Business
 
 If we receive an international demand for information about a U.S. customer, whether an individual or business, we refer the requester to that country’s Mutual Legal Assistance Treaty (MLAT) process. We did not receive any international demands for information about a U.S. customer from a country that does not have an MLAT process. The FBI ensures that we receive the proper form of U.S. process (e.g., subpoena, court order or search warrant), subject to the limitations placed on discovery in the U.S., and that cross-border data flows are handled appropriately. All international originated demands that follow an MLAT procedure are reported in our Total Demands category.
@@ -160,8 +160,8 @@ International Demands34
 The “International Demands” category represents the number of civil and criminal legal demands originating outside the U.S. and related to AT&T’s operations in foreign countries. These demands are for (i) historic subscriber information about consumers who reside in other countries and businesses that operate in other countries; and (ii) URL/IP (website/internet address) blocking demands from foreign governments. Legal demands related to our operations in Mexico are addressed in a separate section later in the Report.
 
 The Diverse Services AT&T Provides Internationally Affect the Types and Volume of Demands We Receive
-Business Services: We provide telecommunications and IT services to the foreign offices of large multi-national business customers. In all foreign countries where we support these customers, we primarily receive demands for historic subscriber information. In those countries where AT&T also provides internet access service, we may also have received demands for IP or URL blocking.
-Consumer Mobility Services: Mexico is the only country outside of the U.S. where we provide a consumer mobility network. Accordingly, AT&T received legal demands similar to those we receive in the U.S., including demands for subscriber information, location information, real-time content and wiretaps.
+Business Services: We provide telecommunications and IT services to the foreign offices of large multi-national business customers. In all foreign countries where we support these customers, we primarily receive demands for historic subscriber information. In those countries where AT&T also provides internet access service, we may also have received demands for IP or URL blocking.
+Consumer Mobility Services: Mexico is the only country outside of the U.S. where we provide a consumer mobility network. Accordingly, AT&T received legal demands similar to those we receive in the U.S., including demands for subscriber information, location information, real-time content and wiretaps.
 A Few Additional Points
 
 Historic Subscriber Information is information such as the name and address listed on the billing account or the types of services purchased from us.
@@ -319,11 +319,11 @@ Types of Legal Demands
 
 In Mexico, there is no distinction between Subpoenas and General Court Orders as in the U.S., because the law provides that all demands for customer data must be reviewed and authorized by a judge. The legal demands are classified as follows:
 
-Historic Information: In a criminal case, court orders are used to demand subscriber information, call detail records, cell site location information, and identification data of mobile devices. In a civil case, court orders may only be used to demand subscriber information.
-Location Information in Real-Time: Legal demands for this information must be reviewed and authorized by a judge, whose ruling must be premised on certain criminal investigations defined by Mexican law and national security matters. Demands for location information seek precise GPS coordinates of the device or call detail records that reflect the location of any device processing communications. We also get demands for cell tower searches, which ask us to provide all telephone numbers registered on a particular cell tower for a certain period.
+Historic Information: In a criminal case, court orders are used to demand subscriber information, call detail records, cell site location information, and identification data of mobile devices. In a civil case, court orders may only be used to demand subscriber information.
+Location Information in Real-Time: Legal demands for this information must be reviewed and authorized by a judge, whose ruling must be premised on certain criminal investigations defined by Mexican law and national security matters. Demands for location information seek precise GPS coordinates of the device or call detail records that reflect the location of any device processing communications. We also get demands for cell tower searches, which ask us to provide all telephone numbers registered on a particular cell tower for a certain period.
 
 We do not keep track of the number of telephone numbers provided to law enforcement in connection with cell tower searches.
-Court Order for Wiretaps: In Mexico, there is a special procedure for these types of legal demands, and a judge may authorize the wiretap order, if certain legal standards are met, and the matter is related to certain criminal investigations defined by Mexican law or national security matters.
+Court Order for Wiretaps: In Mexico, there is a special procedure for these types of legal demands, and a judge may authorize the wiretap order, if certain legal standards are met, and the matter is related to certain criminal investigations defined by Mexican law or national security matters.
 Historic Information: Subscriber Information/Call Detail Records
 January - June 2023
 Location Information (Cell Site)
