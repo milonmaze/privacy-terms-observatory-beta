@@ -1,184 +1,286 @@
-Tyler Christopher dead at 50
+Fortnite OG release
 
-Tyler Christopher, ‘General Hospital’ Actor, Dies at 50
+Tomorrow will be the first time since December 6th, 2018 where there will be absolutely ZERO snow on the Fortnite map
 
-r/Fauxmoi
+r/FortNiteBR
 and more
-Sophie Turner 'moves on'
+'Gen V' season finale
 
-Sophie Turner moves on from Joe Jonas as she kisses UK aristocrat.
+How Was The Ending Of GEN V, In Your Opinion?
 
-r/popculturechat
+r/TheBoys
 and more
-Heidi Klum Halloween costume
+'Invincible' Season 2
 
-Here we go: Heidi Kium’s Halloween outfit for 2023 🦚
+It’s out!
 
-r/Fauxmoi
+r/Invincible
 and more
-James Harden and Russell Westbrook
+Storm Ciarán aftermath
 
-James Harden and Russell Westbrook... officially reunited. And it feels so good.
+Storm Ciaran kills 2, lashes Europe with strong winds and rain
 
-r/nba
+r/worldnews
 and more
-WoW Mak’Gora tournament results
+Sam Bankman-Fried found guilty
 
-Makgora Tournament Bringing WoW to 300k+ Viewers
+Sam Bankman-Fried found guilty on all seven counts
 
-r/classicwow
+r/technology
 and more
-NFL Trade Deadline
+Elvis' daughter on 'Priscilla'
 
-[Rapoport] Sources: Former No. 2 overall pick #Commanders DE Chase Young is being traded to the #49ers. Incredible. Likely a mid-round pick in 2024. After dealing Montez Sweat to the #Bears, Washington now trades Young to one of the NFL’s best.
+Lisa Marie Presley asked Sofia Coppola to change Elvis' portrayal in Priscilla before her death
 
-r/49ers
+r/movies
 and more
 Create a post
-r/AskReddit
-•
-21 hr. ago
-What is something you know is real but others don’t seem to believe in?
-r/MapPorn
-•
-4 hr. ago
-Fonts that countries use in their tourism board logos
-r/worldnews
-•
-19 hr. ago
-Israel strikes Gaza’s Jabalya refugee camp
-https://www.cnn.com/2023/10/31/middleeast/jabalya-blast-gaza-intl/index.html?utm_term=link&utm_content=2023-10-31T18%3A09%3A45&utm_medium=social&utm_source=twCNN
 r/gaming
 •
-20 hr. ago
-What are the games that you paid the full price for, but later wished you hadn't?
+19 hr. ago
+Random line from a video game that fans of it instantly know.
 
-For me were BF 2042 and Anthem.
+I'll start:
 
-r/aww
+What are ye buuuyin'? What are ye seeelin'? Ahhh. I'll buy it at a high price. Hyhyhy, thank ye.
+
+r/AskReddit
 •
-7 hr. ago
-She likes watching the swirly toilet water, not even hiding the flusher can stop her
-r/LeopardsAteMyFace
+23 hr. ago
+Forget drugs, smoking and alcohol, what is something BAD for your health that people don't talk about enough?
+r/pics
 •
 3 hr. ago
-"Children" of the Con
-r/me_irl
+Mongolian brothers one is a monk and the other one is a parkourist.
+r/pcmasterrace
 •
-4 hr. ago
-me irl
-r/tumblr
-•
-7 hr. ago
-That's one for the bucket list
-r/AITAH
-•
-19 hr. ago
-I refuse to stay for my child, AITAH ?
+18 hr. ago
+I'd like to give my 3080 to someone.
 
-I never wanted to be a father. I'm the oldest of six kids and most of my childhood and teen years were spent being a third parent to my younger siblings.
+https://preview.redd.it/id-like-to-give-my-3080-to-someone-v0-vs8euslevzxb1.jpg?width=4080&format=pjpg&auto=webp&s=6f537c07e2f6b5289d0d9b0142e163c6935d7036
 
-My ex girlfriend knew this from the start of our relationship in 2017. She said she was fine with it. Then at some point during the pandemic she got severe baby fever which she admitted probably happened because both her sister and best friend had their babies between late 2020 and mid 2021. She said she didn't think she wanted to be a mom until then and her mind couldn't change back. I told her no but if this was something she felt strongly about we could break up and she could find a man who wants to be a father.
+I built a new PC a couple of months ago, and since then my 3080 has been sitting around unused.
 
-We went on a break for a few months before she asked me to get back together. She said she had time to think and while still wanted to be a mom, would try to just be cool being an aunty. Then we move to mid 22 where she tells me she's pregnant, it's mine and she's not getting an abortion. I asked how and she admitted she'd been off her BC for some time. I was furious. She had our baby earlier this year and I just can't do it. I never wanted to be a dad. She knew this six years ago. I get that her mind changed but then she said she'd be chill about having a baby so I thought we would genuinely move past that. I expected it to come up again but not a pregnancy.
+I'm not really concerned with money/trying to sell it, but I know someone out there could certainly use it.
 
-I've told her I'm leaving. I make good money and will pay child support. But I never wanted this. She didn't at first then she did then she went and did all of this to me. So now I'm looking like a massive A-Hole to everyone from friends to family to random people we're loosely acquainted with because I'm the dad who's ditching his child.
+So....here I am. Looking to give this beast of a card to someone in need. I'm not looking to give this to someone who wants to upgrade their 3060. I'd really like to see it go to someone who will get a major upgrade out of it.
 
-AITAH?
-
-Edit: I have not been replying due to work and commuting home. For all the why not a vasectomy questions: here's the thing, I like kids. I had great experiences with my siblings when I was young and with my younger cousins. So despite not wanting to be a dad, I did hold out on the off chance that one day something might change, I'd put my past behind me. It was a 'For the 1% - 5% chance I start wanting to have a child' choice. Essentially I never wanted to be a dad but like my gf's mind changed, I was always aware of the possibility that my mind could change at some point. People are complicated sometimes.
+Comment here what you're currently rocking (maybe some pictures as proof??) and I'll select someone at random by end of day tomorrow.
 
 View full post
-r/europe
-•
-15 hr. ago
-Israel's Gaza attack 'beyond proportionality', Norway says
-https://euobserver.com/nordics/157640
 r/news
 •
 23 hr. ago
-Bud Light brewer is still struggling to sell the beer in North America over trans promotion backlash
-https://apnews.com/article/bud-light-anheuser-busch-inbev-earnings-9de40c5189f9e8d11c142dc3961dde46
-r/movies
-•
-19 hr. ago
-Any movies where the "bad guy" is revealed to be the "good guy"?
-
-So there's plenty of movies that lead the audience to believe a character is in the right, or helps the protagonist, or is the protagonist, only to reveal at the end that they had an ulterior motive or evil plan or betrayal in mind.
-
-But what about the opposite? What films make the audience root against a character and then show us that they were right the whole time?
-
-Spoilers allowed, I'm just looking for something that fits this theme.
-
-Edit: Would you guys agree with me that Mr. Nevercracker from Monster House counts? Yay or nay?
-
-Edit 2: Loving the discussion here guys, so many movies to watch now, thanks! I do have to say that I'm seeing some popular answers like Star Wars (Vader) and Megamind, however those don't really fit what I'm asking for. I said characters that "were right the whole time". Megamind wasn't right until the last 20 minutes and Vader spent a grand total of 90 seconds being right.
-
-View full post
-r/pics
-•
-12 hr. ago
-I bought over $100 worth of candy for this Halloween an nobody had stopped by my house.
-r/politics
-•
-3 hr. ago
-Ron DeSantis Can’t “Shoe” Away Latest Humiliating Revelation
-https://newrepublic.com/post/176517/ron-desantis-lifts-shoes-rumor-confrontation
+Students walk out of Hillary Clinton’s class to protest Columbia ‘shaming’ pro-Palestinian demonstrators | Hillary Clinton
+https://www.theguardian.com/us-news/2023/nov/02/hillary-clinton-columbia-walkout-palestine
 r/nextfuckinglevel
 •
-7 hr. ago
-Olympic Gold Medalist, Katie Ledecky, swims with a glass of chocolate milk on her head
-r/funny
+4 hr. ago
+Draining water using a bottle
+r/MadeMeSmile
+•
+5 hr. ago
+Adorable couple getting free sideline passes
+r/ProgrammerHumor
+•
+4 hr. ago
+devUserForeverLove
+r/NameMyCat
+•
+18 hr. ago
+Name my kitten the most bizarre name you can come up with
+r/nonononoyes
 •
 3 hr. ago
-Well, if she loves him very much...
-r/wholesomememes
+Boy steals ball in public view
+r/NoStupidQuestions
+•
+23 hr. ago
+What are dishwashers like? We only hear them in stories...
+
+As a Filipino I only learned about the existence of dishwashers through american tv shows, and thought why don't we have that?
+
+Then comes denial where I think maybe americans or western people are disgusting cause there's no way a machine would clean dishes thoroughly,
+
+Then comes anger cause I fucking want one and we don't have it.
+
+Then comes bargaining where I would think I would get out of college and be rich, buy a condo, live alone, and buy that mothafucking dishwasher.
+
+Depression is like 5 minutes ago as I just finished a mountain load of dishes cause we're like a fucking tribe here 3 families always eating together cause of "tradition" and "we're close"
+
+Acceptance is now as I finish writing this that I would never have the convenience of a dishwasher cause that just isn't in my blood.
+
+Anyways how effective are those stupid machines anyway? Dishwasher boy
+
+View full post
+r/texts
+•
+16 hr. ago
+Girlfriend ran out of gas on highway, am I wrong?
+r/leagueoflegends
+•
+2 hr. ago
+GEN.G vs. Bilibili Gaming / 2023 World Championship - Quarter-Final / Post-Match Discussion
+WORLDS 2023
+
+Official page | Leaguepedia | Liquipedia | Live Discussion | Eventvods.com | New to LoL
+
+Gen.G 2-3 Bilibili Gaming
+
+BLG advances to face Weibo in Semifinals. Meanwhile Gen.G is eliminated from Worlds 2023
+
+GEN | Leaguepedia | Liquipedia | Website | Twitter | Facebook | YouTube
+BLG | Leaguepedia | Liquipedia | Website | Twitter
+
+MATCH 1: GEN vs. BLG
+
+Winner: Bilibili Gaming in 30m
+Match History | Game Breakdown
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+GEN	neeko renekton xayah	rumble ksante	48.5k	5	3	None
+BLG	rakan maokai sylas	poppy sejuani	59.1k	14	8	C1 H2 HT3 H4 O5 O6 B7 E8GEN	5-14-6	vs	14-5-36	BLG
+
+Doran jax 1	1-4-0	TOP	4-1-5	4 aatrox Bin
+Peanut rell 3	0-4-3	JNG	5-1-7	3 jarvaniv XUN
+Chovy azir 2	2-1-0	MID	2-1-8	2 orianna Yagao
+Peyz aphelios 2	2-3-0	BOT	2-0-5	1 kalista Elk
+Delight tahmkench 3	0-2-3	SUP	1-2-11	1 renataglasc ON
+MATCH 2: BLG vs. GEN
+
+Winner: Bilibili Gaming in 28m
+Match History | Game Breakdown
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+BLG	sylas rakan poppy	yone akali	58.7k	15	10	C1 H2 M3 H4 I5 B6 I7 B8
+GEN	jax neeko kalista	jinx ashe	42.3k	3	0	NoneBLG	15-3-29	vs	3-15-5	GEN
+
+Bin rumble 2	2-2-4	TOP	1-6-0	2 aatrox Doran
+XUN jarvaniv 1	5-0-8	JNG	0-3-2	1 maokai Peanut
+Yagao orianna 2	1-0-3	MID	1-3-1	3 azir Chovy
+Elk xayah 3	7-0-2	BOT	1-1-0	1 aphelios Peyz
+ON renataglasc 3	0-1-12	SUP	0-2-2	4 milio Delight
+MATCH 3: GEN vs. BLG
+
+Winner: Gen.G in 46m
+Match History | Game Breakdown
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+GEN	jax xayah renataglasc	aphelios kalista	90.3k	13	11	H2 H4 C5 C6 B8 C9 B10 C11 B12
+BLG	rakan sylas rumble	zeri draven	77.1k	9	5	I1 O3 C7GEN	13-9-33	vs	9-13-19	BLG
+
+Doran aatrox 2	5-2-6	TOP	0-3-2	2 renekton Bin
+Peanut maokai 1	1-2-9	JNG	2-0-5	1 jarvaniv XUN
+Chovy yone 2	0-2-5	MID	3-3-5	1 orianna Yagao
+Peyz kaisa 3	7-1-3	BOT	4-4-3	3 caitlyn Elk
+Delight nautilus 3	0-2-10	SUP	0-3-4	4 braum ON
+MATCH 4: BLG vs. GEN
+
+Winner: Gen.G in 36m
+Match History
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+BLG	sylas rakan yone	nautilus kaisa	60.1k	11	4	I3 H4 B6 O7
+GEN	xayah renataglasc jax	caitlyn aphelios	69.1k	20	8	HT1 H2 O5 B8 O9BLG	11-20-30	vs	20-11-58	GEN
+
+Bin ksante 2	2-4-4	TOP	2-2-15	1 rumble Doran
+XUN jarvaniv 1	6-3-4	JNG	6-2-7	1 vi Peanut
+Yagao neeko 2	0-4-7	MID	5-2-8	2 akali Chovy
+Elk ashe 3	3-4-7	BOT	6-3-11	3 kalista Peyz
+ON tahmkench 3	0-5-8	SUP	1-2-17	4 rell Delight
+MATCH 5: BLG vs. GEN
+
+Winner: Bilibili Gaming in 34m
+Match History | Game Breakdown
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+BLG	sylas rakan aatrox	nautilus kalista	63.3k	14	10	HT1 M3 H4 C7 B8
+GEN	xayah renataglasc jax	caitlyn aphelios	56.0k	6	4	H2 C5 C6BLG	14-6-45	vs	6-14-14	GEN
+
+Bin rumble 1	3-3-8	TOP	0-3-2	1 gnar Doran
+XUN jarvaniv 2	5-1-8	JNG	0-3-6	1 vi Peanut
+Yagao orianna 2	3-1-9	MID	2-3-1	2 akali Chovy
+Elk senna 3	2-1-10	BOT	4-1-1	3 kaisa Peyz
+ON tahmkench 3	1-0-10	SUP	0-4-4	4 rell Delight
+
+This thread was created by the Post-Match Team.
+
+View full post
+r/rareinsults
+•
+23 hr. ago
+"The food equivalent of a suicide note" 💀
+r/TheBoys
+•
+14 hr. ago
+Gen V - 1x08 "Guardians of Godolkin" - Episode Discussion
+https://www.reddit.com/r/TheBoys/comments/17mhe7o/gen_v_1x08_guardians_of_godolkin_episode/
+r/interestingasfuck
+•
+23 hr. ago
+History professor refuses to repeat history
+r/funny
+•
+7 hr. ago
+The many jobs of an assistant photographer
+r/pcmasterrace
+•
+7 hr. ago
+Cheap or expensive?
+r/BeAmazed
+•
+22 hr. ago
+Muscle mass and strength are not the same thing!
+r/tumblr
 •
 6 hr. ago
-That’s one impactful woman
+Plot twist
+r/worldnews
+•
+7 hr. ago
+Over 8,000 rockets fired, 250,000 Israelis evacuate from their homes: IDF
+https://www.business-standard.com/world-news/over-8-000-rockets-fired-250-000-israelis-evacuate-from-their-homes-idf-123110300324_1.html
+r/HumansBeingBros
+•
+4 hr. ago
+Freeing two tangled stags
+r/politics
+•
+4 hr. ago
+Dolly Parton criticises Tennessee’s anti-trans bills: ‘I just want everybody to be treated good’
+https://www.thepinknews.com/2023/11/03/dolly-parton-tennessee-anti-trans-bills/
 r/technology
 •
 17 hr. ago
-DoorDash now warns you that your food might get cold if you don’t tip
-https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning
+Teen boys use AI to make fake nudes of classmates, sparking police probe
+https://arstechnica.com/tech-policy/2023/11/deepfake-nudes-of-high-schoolers-spark-police-probe-in-nj/
 r/mildlyinteresting
 •
 6 hr. ago
-They sent me three "handwritten" notes instead of one
-r/meirl
+Not Only Did My Box of "90" Treats Have Only 75 Candies, But Also Only 1 Sour Patch Kids
+r/nba
 •
-3 hr. ago
-meirl
-r/Eldenring
+10 hr. ago
+Victor Wembanyama with a new career-high tonight in a win against Phoenix: 34 MINS │ 38 PTS │ 10 REB │ 2 AST │ 2 BLK │ 15-26 FG │ 3-6 3P │ 5-6 FT │ +21 +/-
+
+Box Score
+
+Victor Wembanyama with a new career-high tonight in a win against Phoenix: 34 MINS │ 38 PTS │ 10 REB │ 2 AST │ 2 BLK │ 15-26 FG │ 3-6 3P │ 5-6 FT │ +21 +/-
+
+Wet Bananas went crazy!
+
+r/politics
+•
+23 hr. ago
+Legal experts: NY AG “set up” Don Jr. on witness stand — and now he could be criminally prosecuted
+https://www.salon.com/2023/11/02/legal-experts-ny-ag-set-up-don-jr-on-witness-stand--and-now-he-could-be-criminally-prosecuted/?utm_source=ironsource
+r/OldSchoolCool
 •
 22 hr. ago
-Comment as if the DLC has been out for a month.
-r/PoliticalHumor
-•
-4 hr. ago
-Ronny Twinkletoes is at it again
-r/comics
-•
-7 hr. ago
-No such thing as a favorite child [OC]
-r/mildlyinfuriating
-•
-16 hr. ago
-Drove a rental car for 4.5 hours to get to Fort Worth for a Lauryn Hill concert. Rented an air bnb. Arranged for child care. Took off of work. Get there and the show has been canceled 1.5 hours before doors open. & i was worried she was gonna show up late.
-r/BeAmazed
-•
-11 hr. ago
-“Don’t ever, ever call me a self-made man” - Arnold Schwarzenegger
-r/Damnthatsinteresting
-•
-14 hr. ago
-US Army personnel at Fort Sill launched Halloween candy to kids using a M142 HIMARS rocket system
-r/Overwatch
-•
-20 hr. ago
-Support nerfs are here
-r/Eyebleach
-•
-9 hr. ago
-Nap time
+What did they call the girls high-hair styles in the late 80’s where you grew up? I graduated in upstate NY in 1990. We called our bangs our “bouf”. Teachers called them “mall bangs,” and my dad called them my “rooster-doo.”
  
