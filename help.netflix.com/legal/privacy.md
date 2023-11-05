@@ -1,6 +1,8 @@
 Help Center
 Join Netflix
 Sign In
+Wait times for chat support are longer than usual right now
+Check back later, or search our Help Center for answers.
  Back to Help Home
 PRINT
 Privacy Statement
