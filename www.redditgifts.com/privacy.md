@@ -1,80 +1,57 @@
-BlizzCon 2023
+Attack on Titan finale
 
-BlizzCon 2023 Megathread!
+WE DID IT ! NUMBER ONE ACROSS ALL STREAMIMG PLATFORMS !
 
-r/classicwow
+r/attackontitan
 and more
-Fortnite OG
+Jay Weinberg leaves Slipknot
 
-It's time to drop into #FortniteOG!
+Jay Weinberg has officially left Slipknot.
 
-r/FortNiteBR
+r/drums
 and more
-NFL Week 9
+Northern lights
 
-[NFL] NFL Power Rankings, Week 9: Eagles, Ravens and Dolphins top board after shakeup; Chiefs, 49ers fall
+Rare northern lights in Norway!
 
-r/nfl
+r/spaceporn
 and more
-Brazilian Grand Prix
+Eagles beat Cowboys 28-23
 
-Horner: F1 sprint format doesn’t work for fans, drivers or teams
+Madhuvan on eagles vs cowboys
 
-r/formula1
+r/GoosetheBand
 and more
-NBA
+Biggest day in Fornite History
 
-Refs throw a completely fair and perfect jump ball
+Yesterday was the biggest day in Fortnite's history, absolutely insane.
+
+r/FortniteCompetitive
+and more
+Draymond Green
+
+[Highlight] Draymond Green gets hit with his own signature move
 
 r/nba
 and more
-Cricket World Cup
-
-Kohli scores his 49th ODI hundred equaling Tendulkar's record
-
-r/Cricket
-and more
 Create a post
-r/BeAmazed
+r/meirl
 •
-4 hr. ago
-Amazing, words don't come easy, space is beautiful
-r/Cricket
+3 hr. ago
+me_irl
+r/nextfuckinglevel
 •
-7 hr. ago
-Match Thread: 37th Match - India vs South Africa
-37th Match, ICC Cricket World Cup at Kolkata
-
-Cricinfo | Reddit-Stream | ☁️ ☁️ ☁️ 🌥 🌥
-
-Innings	Score
-
-India	326/5 (Ov 50/50)
-South Africa	40/4 (Ov 13/50)
-
-Score/Win Prediction : 4.26%
-
-Batter	Runs	Balls	SR
-
-Rassie van der Dussen*	13	31	41.94
-David Miller	0	1	0.0Bowler	Overs	Runs	Wickets
-
-Ravindra Jadeja	3	10	2
-Mohammed Shami	2	9	1
-Recent : W .  |  . . 1 . . .  |  1 . . . . .  |  1 1 . 1 W .  |  
-
-South Africa need 287 runs from 37 overs.
-
-Send feedback | Schedule | Stat Help | Glossary
-
-View full post
-r/NoStupidQuestions
+6 hr. ago
+Salute to the guy who didn't hesitate to help the kid.
+r/AmItheAsshole
 •
 20 hr. ago
-What do white people have for Thanksgiving?
+AITA for letting my 16 year old daughter drink a glass of wine?
 
-I ask this genuinely and respectfully, my sister and I are both black and both sides of our family serve a lot of soul food and typical african american or southern food (gumbo, candied yams, sweet potato pie, mac and cheese, collard greens, hot water corn bread, etc.) plus standard thanksgiving food like turkey and stuffing and we just recently asked ourselves what do white people serve because we genuinely don’t know.
+Last night, I (F46) had a glass of wine while watching a movie with my daughter (F16), and she asked me if she could try some. Normally, I'm strict with my children when it comes to alcoholic beverages, but I didn't think a little wine would hurt, so I poured her a glass. I told her that this would be a once-in-a-blue-moon exception.
 
-I’m actually curious non-black families (all family’s not just white one’s) eat during thanksgiving but white families are the ones I know the least about.
+My husband (M48), on the other hand, was not okay with this. When he came into the living room and saw her with the wine in her hand, he lost his mind. He started shouting at me, asking why the hell I let her drink alcohol underaged, and said she could easily become addicted to it. I immediately felt bad and apologized, but my husband is still pissed with me over this. I don't think he trusts me anymore.
+
+AITA?
 
  
