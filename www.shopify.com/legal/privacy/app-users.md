@@ -1,115 +1,109 @@
-Privacy for Users of Shopify Apps
+Shopify Consumer Privacy Policy
 
-For users of Shopify’s apps, customer-facing services, or free business tools
+Last Updated: November 6, 2023
 
-Our new Terms of Service and Privacy Policy goes into effect November 6, 2023. By continuing to use our services after this date, you accept these new terms and have read the new privacy policy.
+1. Introduction
 
-Introduction
+This privacy policy describes the personal data that Shopify receives and/or processes (which may include collecting, organizing, structuring, storing, using, or disclosing) when you interact with Shopify or use Shopify Consumer Services, as defined in the Consumer Terms of Service, including while shopping with a merchant that uses or is powered by Shopify's platform (“Shopify Merchants” or “Merchants”). Additionally, please review our overall privacy policy that applies to everyone whose information we process. If any provisions in this policy conflict with provisions of the overall privacy policy, the provisions in this policy will apply.
 
-Shopify offers a range of apps and services meant to make it easier for you to buy things online and track your orders. For example, we offer Shop to help you track purchases you have made online, and Shop Pay to help you quickly complete a transaction on Shopify-powered stores. When you use these apps, or if you use any of our free business tools, we use your personal information to provide you with and improve the specific service you are using. Additionally, please review our overall privacy policy that applies to everyone whose information Shopify processes.
+2. What Personal Data We Receive
 
-What information we collect about you and why
+Personal Data is any information from or about an identified or identifiable person, but does not include aggregated or anonymized information. We receive Personal Data when you use or interact with Shopify or Shopify services, which may include the following categories:
 
-Shopify collects the following personal information about you when you use one of our apps. We process your personal data in order to perform our contract with you or because it is in our legitimate interests to maintain our business relationship, prevent risk and fraud, provide effective services to you, improve our products and services, and to be responsive to you. In some cases, we only process your personal information with your consent.
+Profile and Contact Information: We receive contact or other profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us. We may link this information to the different devices or accounts you use when you interact with Shopify or use the Shopify Consumer Services.
 
-What we collect	How we use it
+Device Information: We receive information about the computers, phones, and other devices you use or interact with Shopify or Shopify Consumer Services, including IP address (which may be used to determine general location), device identifiers, cookie IDs, the browser you use, your network connection, or other unique identifiers or device information.
 
+Payment Information: We receive payment information when you use Shop Pay or make a purchase through Shopify services, such as your payment card number and expiration date.
 
-Information you provide about yourself, like your name, address, email address, and phone number.
+Use of Shopify Consumer Services: We receive information regarding your use of or interactions with Shopify Consumer Services, whether or not you are logged in to Shopify, such as your interactions with Shopify Merchants, the Shop(s) you visit, the products you view and visit, the product reviews and ratings you post and share, your order history, your interactions with Shop.app/search or other marketing activities related to the Shopify Consumer Services, and favorited Shops.
 
-	
-To provide you with - and improve - the app or service you are trying to use (e.g., to confirm your identity, to contact you about our products or services, to complete transactions)
-To pre-fill order information if you are trying to checkout through a Shopify-powered store
-To provide you with recommendations of other stores near the addresses you provide
-To advertise and market Shopify services or features to you
-To determine if you are eligible for specific offers or payment methods
-To comply with legal requirements
+Settings and Privacy Preferences: We receive information about your settings and preferences on Shopify and our Merchants, as well as information about your browser and device privacy settings.
 
+Communications with Shopify: We receive information, including message and email content, when you communicate with Shopify (such as for customer support inquiries, taking surveys, participating in promotions or research).
 
+Social Network Accounts. If you choose to link, connect, or login to Shopify Consumer Services through a third party online service, you direct the service to send us certain information about you controlled by that service, such as profile information. This sharing is subject to the applicable privacy notices and your privacy settings of that service.
 
-Payment information you provide, such as your payment card number or bank account number.
+Email and Shopping Service Integrations. We receive information from email messages in the inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history. We do not use this information for advertising or marketing purposes.
 
-	
-To pre-fill your payment information if you are trying to checkout through a Shopify-powered store or choose to pay for a transaction using Shop Pay
-To determine if you are eligible for specific offers or payment methods
+3. How We Use Your Personal Data
 
+Shopify uses Personal Data for the following purposes depending on how you interact with us or which Shopify services you use and based on your activity across all devices where you log in to, or interact with, Shopify or Shopify services:
 
+Provide, Improve, and Customize Shopify Services: To provide customized Shopify services to you, including by displaying your purchase history and order status in one place, providing easy payment options when you shop, recommending products, Merchants and Shop(s) and customizing the products featured for you, and to improve Shopify services, including based on your use of Shopify Consumer Services and activity with our Merchant(s).
 
-If using Shop: Information from email messages in the email inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history.
+Track and Implement Your Privacy Preferences and Settings: To track and implement your settings and privacy preferences with Shopify and our Merchants.
 
-	
-In order to provide services through Shop (and improve the product), we use automated software to identify shopping-related emails in Gmail or Outlook inboxes that you connect to Shop so that we can display within the app information about specific orders you have made, stores you have engaged with in the past, and other related information. Note that by connecting email inboxes or transferring emails to Shop, no humans will have access to the content of your email messages unless you specifically allow this type of access.
-To personalize your experience using our apps and services (e.g., by changing how we may order items that we show you)
-In order to access these emails, an independent third party auditor has taken a look at how Shop uses and protects your email information, and has confirmed that we meet Google’s standards. Shop’s use and transfer to any other app of information received from Google Accounts will adhere to Google API Services User Data Policy, including the Limited Use requirements.
-If you connect your Outlook account, you can revoke Shop’s access at any time by visiting https://account.live.com/consent/Manage and/or https://myapps.microsoft.com
-We do NOT use this information to provide you with marketing or advertising from other stores or services
+Perform Product Research and Development: To develop, test, and improve Shopify services, including troubleshooting our products and services, developing new or improved Shopify services, and analyzing your use of and interactions with Shopify services.
 
+Advertise, Market and Promote Shopify: To market, advertise, and promote Shopify services on and off Shopify, including for personalized communications or advertisements relating to the Shopify services on third-party services.
 
+Provide Customized Advertising for our Merchants: To provide advertising services to our Merchants, which may include personalized advertising.
 
-If using Shop: Information about your device’s precise location, but only when you consent to Shop accessing this information.
+Communicate with You: To communicate with you about Shopify services, including about product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us.
 
-	
-To provide you with recommendations of stores near your device’s location
+Authentication, Integrity, Security, and Safety: To authenticate your account, provide a secure payment and shopping experience, and to detect, investigate, and prevent malicious conduct, fraudulent activity or unsafe experiences, address security threats, protect public safety, and secure Shopify Services for you and our Merchants.
 
+Legal Reasons: To comply with applicable law or respond to valid legal process, including requests from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our terms or policies.
 
+Shopify may also aggregate, de-identify, and/or anonymize any information collected through the Shopify services in such a way that we cannot reasonably link information to you or your device. We may use such aggregate, de-identified, or anonymous information for any purpose, including, for example, to improve the Shopify service.
 
-If using Shop: Information about purchases you have made through other marketplaces or platforms, such as Amazon, which you choose to connect through Shop.
+4. How We Process Your Personal Data on Behalf of Shopify Merchants
 
-	
-To provide and improve Shop -- in particular, to identify specific orders you have made, so that we can display those orders and related information (e.g., a list of stores you have made purchases from)
-To personalize your experience using our apps and services (e.g., by changing how we may order items that we show you)
-To determine if you are eligible for specific offers or payment methods
-We do NOT use this information to provide you with marketing or advertising from other stores or services
+Shopify also processes your Personal Data from Merchants you interact or shop with in order to help Merchants run their Shop(s) and to provide business services to our Merchants. When Shopify processes Personal Data in this way, we are acting at the direction of the Merchant, and the Merchants' terms of service and privacy policy apply—not Shopify's. For more information about how Merchants collect and use personal information when you visit and make purchases in their Shop(s), review the Merchant's terms and privacy policy.
 
+In addition, some Merchants may instruct us to use Personal Data they share with us for targeted advertising for these and other Merchants using these services on third-party sites. You may have the ability to opt out of allowing a Merchant to share your information with us for these purposes directly on that Merchant's site, such as through the Global Privacy Control. We also offer you choices about how Shopify uses personal information merchants share with us for ad services here.
 
+5. Third-Parties Who May Receive Personal Data
 
-If using Shop: Information about purchases you have made through Shopify stores, which we access from Shopify’s platform.
+Depending on which Shopify services you use or interact with, Shopify may provide Personal Data to the following categories of third parties:
 
-	
-To provide and improve Shop -- in particular, to identify specific orders you have made, so that we can display those orders and related information (e.g., a list of stores you have made purchases from)
-To personalize your experience using our apps and services (e.g., by changing how we may order items that we show you)
-To determine if you are eligible for specific offers or payment methods
-To detect, prevent or otherwise address fraud
-We do NOT use this information to provide you with marketing or advertising from other stores or services
+Vendors: Shopify works with third-party service providers to provide, support, and improve Shopify services and technical infrastructure, for business services such as payment processing, including in relation to purchases made when you use Shopify Services, and for marketing and business analytics.
 
+Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and business analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to third parties for personalized advertising services may be considered “sharing” for cross-context behavioral advertising, or “targeted advertising,” as defined by applicable law. You may opt-out of our sharing of Personal Data for cross-context behavioral advertising or targeted advertising by using the relevant settings available here. Please see Your Privacy Rights and Choices below for additional information.
 
+Change of Control: We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Shopify's business or assets, including in connection with bankruptcy or similar proceedings.
 
-Information about how you access and use Shopify apps, websites, and other services, including information about the device and browser you use, your network connection, your IP address, submissions through the app, and details about how you browse through our apps and sites. We collect some of this information by using “cookies” or other similar technologies directly from your device. For more information about how we use these technologies, see our Cookie Policy.
+Legal Reasons: We may share Personal Data as needed to: (1) comply with applicable law or respond to, investigate, or participate in valid legal process and proceedings, including from law enforcement or government agencies; (2) enforce or investigate potential violations of its Terms of Service or policies; (3) detect, prevent, or investigate potential fraud, abuse, or safety and security concerns, including threats to the public; (4) meet our corporate and social responsibility commitments; (5) protect our and our Merchants and users' rights and property; and (6) resolve disputes and enforce agreements.
 
-	
-To provide you use of, and to improve, our apps and services (e.g., identifying ways to make our platform easier to use or navigate)
-To personalize your experience using our apps and services (e.g., by changing how we may order items that we show you)
-To advertise and market products or features to you
-To maintain the security of the service
-To detect or prevent fraud or spam
+Sharing at Your Discretion: Where you provide consent, we share your information as described at the time of consent, such as when connecting with a third party application or website.
 
+6. Third Party Partners & Integrations
 
+Parts of Shopify services may link to third party services. Shopify doesn't own or control these third parties. When you interact with these third parties and choose to use their services, your use is subject to the privacy policies of those providers.
 
-Copies you provide of your government-issued identification.
+7. Your Privacy Rights and Choices
 
-	
-To verify that we are speaking with you if you contact us
-To comply with legal requirements
-When and why we share your information with others
+You may have certain rights to manage your Personal Data depending on where you live. To exercise any privacy rights available to you, please visit our privacy portal. Depending on your jurisdiction, the following rights may apply, subject to certain exceptions:
 
-When you use Shop or another Shopify app to make a purchase, we share your personal information with the specific merchant from whom you make the purchase. When you use Shop to log in or sign up to a merchant’s website or other offering, we share your personal information with the specific merchant to whose website or other offering you log in or sign up. We also rely on a number of service providers, including our subprocessors, to help us provide you with our services, which often requires us to share personal information. We also share your personal information with others:
+Access and Portability: Right to request access to your Personal Data.
 
-to prevent or investigate suspected fraud, threats to physical safety, illegal activity, or violations of a contract (like our Terms of Service) or our policies (like our Acceptable Use Policy)
+Correction / Rectification: Right to correct inaccurate or incomplete Personal Data in certain circumstances.
 
-to help us conduct marketing and advertising (although if you use Shop we DO NOT share information from your connected email account or from purchases you have made through Shopify stores to help us market or advertise to you)
+Deletion / Erasure: Right to delete Personal Data about you.
 
-to comply with legal requirements, or to respond to court orders or other similar government demands (for more information, please read our Government Access Policy)
+Right to opt out of “sharing” for cross-context behavioral advertising or targeted advertising. Right to opt-out of the “sharing” of your Personal Data for cross context behavioral advertising or targeted advertising (as further described in the Third-Parties Who May Receive Personal Data section).
 
-in connection with an asset sale or purchase, a share sale, purchase or merger, bankruptcy, or other business transaction or re-organisation, we will share your personal data with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as a restructuring, merger, or sale of our assets
+You can also update your account information or request to deactivate or delete your account directly through your in-app settings. You may have additional rights available to you. Please see our overall privacy policy for more information.
 
-Your rights over your information
+8. Retention
 
-If you would like to access or request that we delete your personal information, and you use any of the below services, please follow the instructions below:
+We retain Personal Data for as long as we have an ongoing business need to do so (e.g., to provide the Shopify services, to comply with applicable legal, tax, or accounting requirements, for security and fraud detection or prevention, or in connection with backup or disaster recovery processes), unless a different retention period is permitted or required by applicable law.
 
-If you use Shop or Shop Pay: Please visit https://shop.app/delete-account for instructions on how to request deletion of your information. To make a request to access your information or another type of request, please submit a data subject request through our online portal
+The criteria used to determine our retention periods include the following:
 
-If you receive newsletters or marketing from us: please click ‘Unsubscribe’ from the bottom of those emails
+The length of time we have an ongoing relationship with you and provide Shopify services to you (for example, for as long as you have an account with us or keep using our services);
 
-For all other services, please submit a data subject request through our online portal
+Whether you modify or delete your information through your accounts;
 
-For further information, please see our Overall Privacy Policy. Please keep in mind that after we anonymize your information, we will continue to use aggregated non-identifiable information to improve our services. Please note that some data subject rights only apply in certain circumstances, and all of these rights may be limited by law.
+Whether Shopify has a legal obligation to keep the data (for example, certain laws require Shopify to keep records of your transactions for a certain period of time); or
+
+Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, the applicable statutes of limitations, litigation, or regulatory investigation).
+
+9. How to Contact Us
+
+To exercise your rights, please visit our Privacy Portal. For questions or concerns related to this Privacy Policy, you may contact us.
+
+10. Changes to this Privacy Policy
+
+We may update this Privacy Policy periodically to account for changes in our collection and/or processing of Personal Data, and we will post the updated Privacy Policy on our website, with a “Last Updated” date at the top.
