@@ -1,57 +1,50 @@
-Attack on Titan finale
+'Grand Theft Auto VI'
 
-WE DID IT ! NUMBER ONE ACROSS ALL STREAMIMG PLATFORMS !
+Rockstar games announces GTA 6 trailer coming in December
 
-r/attackontitan
+r/gaming
 and more
-Jay Weinberg leaves Slipknot
+Patrick Dempsey 'Sexiest Man'
 
-Jay Weinberg has officially left Slipknot.
+Patrick Dempsey Is PEOPLE's 2023 Sexiest Man
 
-r/drums
+r/Fauxmoi
 and more
-Northern lights
+'Genshin Impact' 4.2
 
-Rare northern lights in Norway!
+4.2 Launcher Image
 
-r/spaceporn
+r/Genshin_Impact
 and more
-Eagles beat Cowboys 28-23
+'The White Lotus' S3 plans
 
-Madhuvan on eagles vs cowboys
+'The White Lotus' Creator Mike White Teases Supersized Season 3: 'Longer, Bigger, Crazier'
 
-r/GoosetheBand
+r/television
 and more
-Biggest day in Fornite History
+Live-action 'Zelda' movie
 
-Yesterday was the biggest day in Fortnite's history, absolutely insane.
+Legend of Zelda movie coming soon!
 
-r/FortniteCompetitive
+r/Breath_of_the_Wild
 and more
-Draymond Green
+TikTok stops Creator Fund
 
-[Highlight] Draymond Green gets hit with his own signature move
+TikTok Is Shutting Down its $2 Billion Creator Fund
 
-r/nba
+r/technology
 and more
 Create a post
-r/meirl
+r/mildlyinfuriating
 •
-3 hr. ago
-me_irl
-r/nextfuckinglevel
+22 hr. ago
+Neighbor wants Halloween Decorations down Nov 1st.
+r/funny
 •
-6 hr. ago
-Salute to the guy who didn't hesitate to help the kid.
-r/AmItheAsshole
+4 hr. ago
+Thats what men do
+r/AskReddit
 •
 20 hr. ago
-AITA for letting my 16 year old daughter drink a glass of wine?
-
-Last night, I (F46) had a glass of wine while watching a movie with my daughter (F16), and she asked me if she could try some. Normally, I'm strict with my children when it comes to alcoholic beverages, but I didn't think a little wine would hurt, so I poured her a glass. I told her that this would be a once-in-a-blue-moon exception.
-
-My husband (M48), on the other hand, was not okay with this. When he came into the living room and saw her with the wine in her hand, he lost his mind. He started shouting at me, asking why the hell I let her drink alcohol underaged, and said she could easily become addicted to it. I immediately felt bad and apologized, but my husband is still pissed with me over this. I don't think he trusts me anymore.
-
-AITA?
-
+What “unforgivable” act by a celebrity did the public seem to forget too easily?
  
