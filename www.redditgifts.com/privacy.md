@@ -1,114 +1,154 @@
-'The Last Airbender' trailer
+Modern Warfare III
 
-Avatar: The Last Airbender - Official Trailer | Netflix | February 22, 2024
+Once in a generation nade throw
 
-r/television
+r/ModernWarfareIII
 and more
-'Loki' Season 2 finale
+NBA In-Season Tournament
 
-Marvel Studios’ Loki Season 2 | Season 2 Finale Tonight
+[Wojnarowski] Philadelphia 76ers guard Kelly Oubre Jr. was a pedestrian struck by a motor vehicle in Center City, Philadelphia tonight and is receiving treatment at a local hospital, a Sixers spokesman tells ESPN. Oubre Jr., is currently in stable condition.
 
-r/marvelstudios
+r/nba
 and more
-'Modern Warfare III'
+NFL Week 10
 
-Bloomberg: New ‘Call of Duty’ Draws Harsh Reviews After Rushed Development
+NFL Power Rankings, Week 10: Bengals back in top 10 for first time since Week 1; Pats lowest AFC team
 
-r/pcgaming
+r/nfl
 and more
-Keke Palmer files restraining order
+MCU: Phase Five
 
-Keke Palmer Files Restraining Order Against Darius Jackson, Asks for Full Custody of Their Son
+‘Deadpool 3’ Moves To July 2024, ‘Captain America: Brave New World’ Shifts To February 2025; 'Blade' & 'Thunderbolts' Delayed to 2025
+
+r/movies
+and more
+Grammy nominations
+
+Grammy Nominations 2024
 
 r/popculturechat
 and more
-Steam Deck OLED announced
+Cricket World Cup
 
-Valve revealed the Steam Deck OLED model.
+For the first time in World Cup history, the top five players have scored 50+ scores in an innings
 
-r/gaming
-and more
-Jezebel shuts down
-
-Jezebel shuts down, lays off staff in ‘excruciating’ decision, parent company says
-
-r/technology
+r/Cricket
 and more
 Create a post
-r/technicallythetruth
+r/leagueoflegends
 •
-4 hr. ago
-I wish I didn't exist, he said.
-r/memes
+3 hr. ago
+T1 vs. JD Gaming / 2023 World Championship - Semi-Final / Post-Match Discussion
+WORLDS 2023 PLAYOFFS
+
+Official page | Leaguepedia | Liquipedia | Live Discussion | Eventvods.com | New to LoL
+
+T1 3-1 JD Gaming
+
+- T1 advance to the Grand Finals and will face Weibo Gaming!
+
+- JD Gaming have been eliminated from the tournament.
+
+T1 | Leaguepedia | Liquipedia | Website | Twitter | Facebook | YouTube
+JDG | Leaguepedia | Liquipedia | Website | Twitter
+
+MATCH 1: T1 vs. JDG
+
+Winner: T1 in 24m
+Game Breakdown
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+T1	rakan neeko jarvaniv	nautilus renataglasc	48.2k	23	7	HT3 H4 O5
+JDG	ashe poppy kalista	senna caitlyn	38.1k	8	0	CT1 H2T1	23-8-57	vs	8-23-22	JDG
+
+Zeus aatrox 2	8-3-3	TOP	3-7-5	1 rumble 369
+Oner rell 2	2-2-16	JNG	2-6-4	2 vi Kanavi
+Faker orianna 1	6-0-13	MID	2-3-3	1 akali knight
+Gumayusi jhin 3	4-1-10	BOT	1-2-6	3 xayah Ruler
+Keria bard 3	3-2-15	SUP	0-5-4	4 alistar MISSING
+MATCH 2: JDG vs. T1
+
+Winner: JD Gaming in 38m
+Game Breakdown
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+JDG	rumble poppy akali	gwen rell	77.4k	20	11	H1 I5 B6 I7 B8 I9
+T1	rakan neeko jarvaniv	nautilus blitzcrank	63.3k	7	3	M2 HT3 H4JDG	20-7-54	vs	7-20-19	T1
+
+369 ksante 3	5-0-6	TOP	2-3-0	4 aatrox Zeus
+Kanavi vi 2	4-4-8	JNG	1-7-6	3 maokai Oner
+knight orianna 1	1-1-15	MID	0-3-3	2 azir Faker
+Ruler kalista 2	5-1-10	BOT	2-3-5	1 caitlyn Gumayusi
+MISSING senna 3	5-1-15	SUP	2-4-5	1 ashe Keria
+MATCH 3: T1 vs. JDG
+
+Winner: T1 in 30m
+Game Breakdown
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+T1	rakan neeko jarvaniv	akali ksante	55.3k	18	6	CT1 H2 O3 H4 C5 B6 C9
+JDG	rumble orianna poppy	pyke bard	54.6k	10	4	C7 B8T1	18-10-42	vs	10-18-20	JDG
+
+Zeus aatrox 3	6-4-4	TOP	1-4-5	4 renekton 369
+Oner rell 2	2-3-11	JNG	2-4-5	2 wukong Kanavi
+Faker azir 2	3-1-9	MID	2-2-4	3 taliyah knight
+Gumayusi kalista 1	4-1-5	BOT	4-3-1	1 varus Ruler
+Keria renataglasc 3	3-1-13	SUP	1-5-5	1 ashe MISSING
+MATCH 4: JDG vs. T1
+
+Winner: T1 in 31m
+Game Breakdown
+
+	Bans 1	Bans 2	G	K	T	D/B
+
+JDG	rumble poppy rell	ashe renataglasc	51.4k	6	3	H1 H3
+T1	rakan neeko kalista	kaisa xayah	64.1k	16	11	CT2 C4 B5 O6 O7 B8JDG	6-16-14	vs	16-6-38	T1
+
+369 aatrox 2	0-3-2	TOP	1-0-4	3 yone Zeus
+Kanavi belveth 2	2-6-2	JNG	1-1-14	1 jarvaniv Oner
+knight orianna 1	0-4-4	MID	8-2-3	2 azir Faker
+Ruler zeri 3	4-2-1	BOT	6-0-4	1 varus Gumayusi
+MISSING lulu 3	0-1-5	SUP	0-3-13	4 bard Keria
+
+Patch 13.19
+
+This thread was created by the Post-Match Team.
+
+View full post
+r/interesting
 •
-4 hr. ago
-Why????
-r/hockey
+3 hr. ago
+Footage of Londoners in 1931
+r/Cricket
 •
-11 hr. ago
-Game Thread: Edmonton Oilers (2-8-1) at San Jose Sharks (1-10-1) - 09 Nov 2023 - 07:30PM PST
+7 hr. ago
+Match Thread: 45th Match - India vs Netherlands
+45th Match, ICC Cricket World Cup at Bengaluru
 
-Edmonton Oilers (2-8-1) at San Jose Sharks (1-10-1)
-SAP Center at San Jose
+Cricinfo | Reddit-Stream | 🌥 🌥 🌥 🌥 🌥
 
-Comment with all tables
+Innings	Score
 
-Live Updates
-Time Clock
+India	410/4 (Ov 50/50)
+Netherlands	80/3 (Ov 17/50)
 
-FINALTeams	1st	2nd	3rd	Total
+Score/Win Prediction : 3.64%
 
-EDM	0	1	1	2
-SJS	1	1	1	3Team	Shots	Hits	Blocks	FOW%	Giveaways	Takeaways	Power Play	PIM
+Batter	Runs	Balls	SR
 
-EDM	41	15	12	44.8%	9	6	0/4	4
-SJS	18	15	34	55.2%	8	9	0/2	8Period	Time	Team	Strength	Description
+Scott Edwards*	4	5	80.0
+Sybrand Engelbrecht	7	18	38.89Bowler	Overs	Runs	Wickets
 
-1st	18:35	SJS	Even	Fabian Zetterlund (4) wrist shot, assist(s): Tomas Hertl (7), William Eklund (2)
-2nd	01:56	EDM	Even	Darnell Nurse (3) wrist shot, assist(s): Leon Draisaitl (10), Warren Foegele (3)
-2nd	09:05	SJS	Even	Tomas Hertl (2) wrist shot, assist(s): Fabian Zetterlund (2), Nikita Okhotiuk (1)
-3rd	01:53	SJS	Even	Filip Zadina (3) wrist shot, assist(s): Nico Sturm (1), Ryan Carpenter (1)
-3rd	17:34	EDM	Even	Ryan Nugent-Hopkins (3) wrist shot, assist(s): Evan Bouchard (8), Mattias Ekholm (3)Period	Time	Team	Type	Min	Description
+Kuldeep Yadav	4	8	1
+Ravindra Jadeja	1	3	1
+Recent : . 1  |  1 . . 1 . .  |  W . 2 1 . .  |  . 1 . . . 4  |  
 
-1st	02:13	SJS	MIN	2	Nikita Okhotiuk slashing against Zach Hyman
-1st	11:12	SJS	MIN	2	Nico Sturm boarding against Zach Hyman
-3rd	05:43	EDM	MIN	2	Ryan Nugent-Hopkins hooking against Fabian Zetterlund
-3rd	07:15	SJS	MIN	2	William Eklund hooking against Ryan McLeod
-3rd	10:47	EDM	MIN	2	Ryan Nugent-Hopkins holding against Nikita Okhotiuk
-3rd	17:48	SJS	MIN	2	Mikael Granlund tripping against Connor McDavid
+Netherlands need 331 runs from 33 overs.
 
-Officials:
-
-Referees: Tom Chmielewski, Morgan MacPhee
-
-Linesmen: Caleb Apperson, David Brisebois
-
-Time
-PT	MT	CT	ET	AT	UTC
-
-07:30PM	08:30PM	09:30PM	10:30PM	11:30PM	03:30AM
-Game Info:
-	
-
-TV	SNW, ESPN+, HULU
-Other	Preview - Boxscore - Recap
-GameCenter	On NHL.com
-Thread Notes:
-
-Keep it civil
-
-Sort by new for best results
-
-This thread is completely bot-generated, unfortunately it can only be as accurate as the sites it pulls data from
-
-If you have any suggestions for improvements please message u/TeroTheTerror
-
-Thanks to u/Sentry07 and u/Obelisk29 for their code!
-
-Subscribe:
-Oilers and Sharks
-
-Join the discussion in the /r/Hockey Discord.
+Send feedback | Schedule | Stat Help | Glossary
 
 View full post
  
