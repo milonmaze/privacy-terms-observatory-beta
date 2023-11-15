@@ -1,6 +1,7 @@
 Sign in
 Contact Us
 Start free
+Register now for Google Cloud Next '24 in Las Vegas April 9-11 to take advantage of early bird pricing of $999 USD.
 Google Cloud Privacy Notice
 
 Effective Date: August 21, 2023
