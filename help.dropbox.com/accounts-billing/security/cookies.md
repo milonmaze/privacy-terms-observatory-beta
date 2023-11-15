@@ -1,5 +1,5 @@
 Use of cookies and similar technologies
-Updated Sep 26, 2023
+Updated Nov 14, 2023
 
 Dropbox uses cookies and similar technologies, such as pixels, to provide, improve, protect, and promote our services. For the purposes of this policy we will refer to all of these technologies as “cookies.” This page includes information on the what, who, and how of these technologies in connection with the Dropbox website and services.
 
@@ -52,7 +52,7 @@ Categories of data collected for these purposes include authentication data, uni
 
 	
 
-These cookies are set to expire after times ranging from 30 days to 4 years.
+These cookies are set to expire after times ranging from 30 days to 5 years.
 
 	
 
