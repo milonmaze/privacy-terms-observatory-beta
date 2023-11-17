@@ -1,7 +1,66 @@
 Jump to content
 (Redirected from Donor privacy policy/en)
 Translate this page
-Other languages:	Deutsch English Nederlands Tiếng Việt català dansk español español de América Latina français galego italiano latviešu magyar norsk bokmål polski português português do Brasil română slovenčina svenska čeština русский українська עברית العربية ไทย 中文（简体） 中文（繁體） 日本語 한국어
+Other languages:	
+Deutsch
+ 
+English
+ 
+Nederlands
+ 
+Tiếng Việt
+ 
+català
+ 
+dansk
+ 
+español
+ 
+español de América Latina
+ 
+français
+ 
+galego
+ 
+italiano
+ 
+latviešu
+ 
+magyar
+ 
+norsk bokmål
+ 
+polski
+ 
+português
+ 
+português do Brasil
+ 
+română
+ 
+slovenčina
+ 
+svenska
+ 
+čeština
+ 
+русский
+ 
+українська
+ 
+עברית
+ 
+العربية
+ 
+ไทย
+ 
+中文（简体）
+ 
+中文（繁體）
+ 
+日本語
+ 
+한국어
 	
 This policy or procedure is maintained by the Wikimedia Foundation.
 Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
