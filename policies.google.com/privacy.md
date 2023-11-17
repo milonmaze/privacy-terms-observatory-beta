@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective October 4, 2023 | Archived versions | Download PDF
+Effective November 15, 2023 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
