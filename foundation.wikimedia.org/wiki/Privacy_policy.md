@@ -1,7 +1,246 @@
 Jump to content
 (Redirected from Privacy policy)
 Translate this page
-Other languages:	Avañe'ẽ Bahasa Indonesia Bahasa Melayu Basa Banyumasan British English Bân-lâm-gú Canadian English Cebuano Cymraeg Deutsch Deutsch (Sie-Form) English Esperanto Frysk Hausa Kiswahili Kreyòl ayisyen Ligure Lëtzebuergesch Malagasy Mara Napulitano Nederlands Nederlands (informeel) Nordfriisk Oromoo Qaraqalpaqsha Ripoarisch Scots Soomaaliga Tiếng Việt Türkçe Yorùbá Zazaki asturianu azərbaycanca bosanski català dansk eesti español euskara français galego hrvatski interlingua italiano latviešu lietuvių magyar norsk bokmål occitan oʻzbekcha / ўзбекча polski português português do Brasil română sardu shqip sicilianu slovenščina suomi svenska čeština Ελληνικά башҡортса беларуская беларуская (тарашкевіца) български кыргызча македонски нохчийн русский српски / srpski тоҷикӣ удмурт українська հայերեն ייִדיש עברית اردو الدارجة العربية تۆرکجه روچ کپتین بلوچی سرائیکی سنڌي فارسی مازِرونی پښتو کوردی کٲشُر कॉशुर / کٲشُر नेपाली भोजपुरी मराठी संस्कृतम् हिन्दी অসমীয়া বাংলা ਪੰਜਾਬੀ ગુજરાતી தமிழ் తెలుగు മലയാളം සිංහල ไทย ပအိုဝ်ႏဘာႏသာႏ ဖၠုံလိက် ဘာသာ မန် မြန်မာဘာသာ მარგალური ქართული ភាសាខ្មែរ 中文 日本語 粵語 ꠍꠤꠟꠐꠤ ꯃꯤꯇꯩ ꯂꯣꯟ 한국어
+Other languages:	
+Avañe'ẽ
+ 
+Bahasa Indonesia
+ 
+Bahasa Melayu
+ 
+Basa Banyumasan
+ 
+British English
+ 
+Bân-lâm-gú
+ 
+Canadian English
+ 
+Cebuano
+ 
+Cymraeg
+ 
+Deutsch
+ 
+Deutsch (Sie-Form)
+ 
+English
+ 
+Esperanto
+ 
+Frysk
+ 
+Hausa
+ 
+Kiswahili
+ 
+Kreyòl ayisyen
+ 
+Ligure
+ 
+Lëtzebuergesch
+ 
+Malagasy
+ 
+Mara
+ 
+Napulitano
+ 
+Nederlands
+ 
+Nederlands (informeel)
+ 
+Nordfriisk
+ 
+Oromoo
+ 
+Qaraqalpaqsha
+ 
+Ripoarisch
+ 
+Scots
+ 
+Soomaaliga
+ 
+Tiếng Việt
+ 
+Türkçe
+ 
+Yorùbá
+ 
+Zazaki
+ 
+asturianu
+ 
+azərbaycanca
+ 
+bosanski
+ 
+català
+ 
+dansk
+ 
+eesti
+ 
+español
+ 
+euskara
+ 
+français
+ 
+galego
+ 
+hrvatski
+ 
+interlingua
+ 
+italiano
+ 
+latviešu
+ 
+lietuvių
+ 
+magyar
+ 
+norsk bokmål
+ 
+occitan
+ 
+oʻzbekcha / ўзбекча
+ 
+polski
+ 
+português
+ 
+português do Brasil
+ 
+română
+ 
+sardu
+ 
+shqip
+ 
+sicilianu
+ 
+slovenščina
+ 
+suomi
+ 
+svenska
+ 
+čeština
+ 
+Ελληνικά
+ 
+башҡортса
+ 
+беларуская
+ 
+беларуская (тарашкевіца)
+ 
+български
+ 
+кыргызча
+ 
+македонски
+ 
+нохчийн
+ 
+русский
+ 
+српски / srpski
+ 
+тоҷикӣ
+ 
+удмурт
+ 
+українська
+ 
+հայերեն
+ 
+ייִדיש
+ 
+עברית
+ 
+اردو
+ 
+الدارجة
+ 
+العربية
+ 
+تۆرکجه
+ 
+روچ کپتین بلوچی
+ 
+سرائیکی
+ 
+سنڌي
+ 
+فارسی
+ 
+مازِرونی
+ 
+پښتو
+ 
+کوردی
+ 
+کٲشُر
+ 
+कॉशुर / کٲشُر
+ 
+नेपाली
+ 
+भोजपुरी
+ 
+मराठी
+ 
+संस्कृतम्
+ 
+हिन्दी
+ 
+অসমীয়া
+ 
+বাংলা
+ 
+ਪੰਜਾਬੀ
+ 
+ગુજરાતી
+ 
+தமிழ்
+ 
+తెలుగు
+ 
+മലയാളം
+ 
+සිංහල
+ 
+ไทย
+ 
+ပအိုဝ်ႏဘာႏသာႏ
+ 
+ဖၠုံလိက်
+ 
+ဘာသာ မန်
+ 
+မြန်မာဘာသာ
+ 
+მარგალური
+ 
+ქართული
+ 
+ភាសាខ្មែរ
+ 
+中文
+ 
+日本語
+ 
+粵語
+ 
+ꠍꠤꠟꠐꠤ
+ 
+ꯃꯤꯇꯩ ꯂꯣꯟ
+ 
+한국어
 Want to help translate? Translate the missing messages.
 	
 This policy is approved by the Wikimedia Foundation Board of Trustees.
