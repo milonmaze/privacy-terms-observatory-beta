@@ -47,44 +47,41 @@ Environmental, Social, and Public Policy Committee
 
 The charter for the Microsoft Environmental, Social, and Public Policy Committee includes assisting the Board of Directors in overseeing the company’s “policies and programs and related risks that concern environmental sustainability, the social and public policy impacts of technology including privacy, digital safety, and responsible artificial intelligence, and legal, regulatory, and compliance matters relating to competition / antitrust, trade, and national security.”
 
-Read the committee charter 
+Read the committee charter
 Corporate governance
 
 At Microsoft, our focus on corporate responsibility fosters sustained long-term business success. Our corporate governance framework, policies, and practices are described in detail in our annual proxy statement and the corporate governance section of our Investor Relations website.
 
-Learn about our corporate governance 
+Learn about our corporate governance
 Compliance and ethics
 
 Our compliance and ethics policies and programs include our Standards of Business Conduct, which applies to employees, executive officers, Board of Directors, and Microsoft subsidiaries and controlled affiliates (where Microsoft directly or indirectly owns more than 50 percent of the voting control).
 
-Read more about our compliance and ethics policies 
+Read more about our compliance and ethics policies
 Reporting our progress
 
 We want to help customers make informed choices about our products and services and ensure stakeholders can evaluate how we are meeting our commitments and responsibilities. Our reporting materials include both a fiscal year-end report on our progress, as well as an array of related supplemental reports and resources.
 
-Explore our reporting resources 
+Explore our reporting resources
 Aligning our values
 Global standards
 
 We inform our disclosure strategies with careful consideration of commonly used global standards and we are closely following the evolution of voluntary and regulatory standards for ESG disclosures.
 
-Learn more about the International Financial Reporting Standards 
+Learn more about the International Financial Reporting Standards
 Principles of United Nations Global Compact (UNGC)
 
 In 2006, we began endorsing the United Nations Global Compact and we file an annual Communication on Progress implementing the 10 UNGC principles.
 
-View our Communication on Progress report 
-Learn more about the UN Global Compact 
+View our Communication on Progress report Learn more about the UN Global Compact
 United Nations Guiding Principles
 
 Microsoft was among the first companies to align our human rights work with the UN Guiding Principles on Business and Human Rights and to adopt the UN Guiding Principles Reporting Framework.
 
-View the UN Guiding Principles on Business and Human Rights 
-Download the Microsoft Annual Human Rights Report (PDF) 
+View the UN Guiding Principles on Business and Human Rights Download the Microsoft Annual Human Rights Report (PDF)
 Sustainable Development Goals
 
 We're actively engaged in supporting the UN Sustainable Development Goals and publicly report how Microsoft contributes to the global effort to achieve the SDGs.
 
-Learn more about UN Sustainable Development Goals 
-Read our SDG report 
+Learn more about UN Sustainable Development Goals Read our SDG report
 Follow Microsoft
