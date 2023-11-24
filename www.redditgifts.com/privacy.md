@@ -1,49 +1,49 @@
-Sam Altman to join Microsoft
+Dublin clashes
 
-Microsoft hires former OpenAI CEO Sam Altman
-
-r/technology
-and more
-Argentina elects Javier Milei
-
-Fiery right-wing populist Javier Milei wins Argentina's presidency and promises 'drastic' changes
+Dublin riot sees clashes with police after five hurt in stabbings
 
 r/worldnews
 and more
-Broncos beat Vikings 21-20
+Dolly Parton's halftime show
 
-Jerry Judy's fake pass catches defender off guard and causes Collinsworth to crack up
+Dolly Parton Wears Dallas Cowboys Cheerleader Uniform as She Performs Her Hits During Thanksgiving Game Halftime Show
 
-r/DenverBroncos
+r/entertainment
 and more
-'Splatoon 3' Splatfest winner
+Paris Hilton new baby
 
-On My Quest To Shake Many Hands, I May Have Went A Bit Too Far In Tricolor…
+Paris Hilton announces she’s having a baby girl
 
-r/splatoon
+r/popculturechat
 and more
-Faker wins fourth LoL Worlds
+49ers defeat Seahawks 31-13
 
-[ENGSUB] Full press conference with T1 post Worlds finals; Faker "I actually had a goal for myself. I visualized myself losing at the finals on a 3-0, then I tried to place myself in a mindset -- I should be able to smile, even if I lost 3-0 [...] I enjoyed the process that arose from that goal."
+McCaffrey, Samuel dominate as 49ers roll past Seahawks
 
-r/leagueoflegends
+r/sports
 and more
-Waterhouse reveals pregnancy
+Oscar Pistorius new parole bid
 
-Suki Waterhouse Confirms She’s Pregnant, Expecting First Child with Robert Pattinson!
+South African Olympic runner Oscar Pistorius up for parole 10 years after killing his girlfriend
+
+r/news
+and more
+Diddy's new lawsuit
+
+Sean Combs Accused of Drugging, Sexually Assaulting Woman in New 'Revenge Porn' Lawsuit
 
 r/entertainment
 and more
 r/meirl
 •
-6 hr. ago
+3 hr. ago
 meirl
 r/AskReddit
 •
-14 hr. ago
-What was the movie that left you thinking, "What the hell did I just watch?"?
+18 hr. ago
+What phrase or word instantly makes you roll your eyes?
 r/facepalm
 •
-4 hr. ago
-modern problems require modern solutions
+2 hr. ago
+I know right
  
