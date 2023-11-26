@@ -85,12 +85,6 @@ When shopping for clothes and footwear on partner websites, or using certain bro
 We’ll only collect personal data about your clothing and footwear shopping if you agree or you ask us to provide you with our size and style solutions.
 Learn About Size and Style Privacy
 
-Advertising
-
-We are committed to creating products that make Snapchat better for everyone, which is why our ad products are built from scratch. These include things like movie trailers in Discover or Sponsored Filters and Lenses.
-Every single person is different, and no one is going to like every ad they see. If an ad isn’t relevant to you or you don’t think it belongs on Snapchat, you can always let us know by tapping ⋮ , then tapping ⓘ to report the ad to us!
-We want to show you ads that are relevant to you and your interests — but we don’t want to serve ads that are so custom-tailored that they’re invasive or uncomfortable. It’s a difficult balance and we may not always get it right, so we’re always counting on Snapchatters for their feedback. Share your experience with us, if you have a moment!
-
 Spectacles
 
 Spectacles are sunglasses that capture your world, the way you see it. Just press the button to save the moment, in the moment — without having a phone get in the way. We specifically made Spectacles sunglasses because they’re meant to be used when you’re out in the world — whether you’re on an adventure or just going about your day.
@@ -161,11 +155,3 @@ Cameos
 Cameos lets you be the star in your own short, looping videos that you can send to friends in Chat. To enable Cameos, we ask you to take a selfie to put you into fun scenes. We don’t use facial recognition software. Instead, Cameos segments the shape of your face and hair to place you into the scenes and ensure the Cameos are optimized.
 You have full control over your selfie. You can change and delete it and restrict others from using your selfie in two-person Cameos in your Snapchat settings.
 Learn About Cameos
-
-Personalization
-
-No two people are the same, so the app can tailor your Snapchat experience especially for you!
-We personalize your Snapchat experience based on interactions you have with your friends. For example, the friends you Snap with the most are usually easiest to find, and Charms and Friend Emojis give you fun insights to celebrate your friendships.
-We generally try to show you ads that’ll be relevant to you. We’re able to do this by making some guesses about the things you like and don’t like. For example, if you’re constantly watching Snaps of puppies on Discover or Spotlight, you might be a “Pet & Animal Lover.” Or, if you regularly post Snaps of your sports memorabilia to My Story, our system might be able to guess that you’re a “Sports Fan.” We call guesses like these “Lifestyle Categories” and we use them to try and show you ads and content that’s relevant to your interests! If you’d like, you can always pick your own Lifestyle Categories.
-We personalize the Snap Map. For example, if you visit a Place or apply a venue filter or sticker on a Stories, Spotlight, or Snap Map submission, we may use that venue information to create a more personalized Map experience for you and your friends.
-We also try to personalize the content you see by using what we call “Content Interest Tags.” These tags are guesses about the content that you may be interested in based on activity, like things you search for, Stories you view, popular users you subscribe to, and types of locations you visit. So if you watch a lot of Stories about basketball, we may create “sports” and “basketball” Content Interest Tags, so we can show you more Snaps about basketball. You can reset Content Interest Tags at any time in Snapchat settings!
