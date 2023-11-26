@@ -1,3 +1,6 @@
+33% OFF
+Black Friday Sale
+View deals
 Proton - Privacy policy
 
 Last modified: August 22nd, 2023
