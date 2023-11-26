@@ -1,23 +1,13 @@
-SALE
+skip to main content
 0
-Sign In
-Join as a Pro
-PHOTOS
- 
-SHOP BY DEPARTMENT
- 
-FIND PROFESSIONALS
- 
-STORIES & ADVICE
- 
-SALE
+Sign InJoin as a Pro
 PRIVACY POLICY
 
-Houzz is the leading platform for home remodeling and design, providing an all-in-one software solution for industry professionals and tools for homeowners to update their homes from start to finish. Using Houzz, people can find ideas and inspiration, hire professionals, and shop for products. As part of the Houzz platform, Houzz Pro provides home industry professionals with a business management and marketing SaaS solution that helps them to win projects, collaborate with clients and teams, and run their business efficiently and profitably. 
+Houzz is the leading platform for home remodeling and design, providing an all-in-one software solution for industry professionals and tools for homeowners to update their homes from start to finish. Using Houzz, people can find ideas and inspiration, hire professionals, and shop for products. As part of the Houzz platform, Houzz Pro provides home industry professionals with a business management and marketing SaaS solution that helps them to win projects, collaborate with clients and teams, and run their business efficiently and profitably.
 
 This Privacy Policy describes what personal information we collect through the Platform (defined below), how we use this information, how this information may be shared, and what choices and rights you have with respect to this information. Access and use of our Platform is subject to this Privacy Policy. The collection of personal data of job applicants is governed by the Job Applicant Privacy Notice.
 
-Our “Platform” is made up of www.houzz.com, www.ivy.co, and all of the related websites, mobile apps, products, software, services, programs, and networks offered by Houzz, including our plug-ins and browser extensions. 
+Our “Platform” is made up of www.houzz.com, www.ivy.co, and all of the related websites, mobile apps, products, software, services, programs, and networks offered by Houzz, including our plug-ins and browser extensions.
 
 The terms “we,” “us,” “our,” or “Houzz” refer to the “Houzz Group,” including Houzz Inc., Houzz Shop LLC, and their corporate affiliates. By “you,” we are referring to visitors and users of any part of our Platform.
 
@@ -33,7 +23,7 @@ We collect information that you provide us, including your account and profile i
 
 Account and Profile Information. When you create an account on our Platform, we collect information you provide us, like your name, email address, interests, gender, age, and profile information. If you are a professional, you may also provide us information related to your business, including a business description and areas served.
 
-Content You Submit. We collect information and content that you submit, share, or create across our Platform and on other websites that link to this Privacy Policy. This includes information and content submitted, shared, or created including but not limited to your company information, profile picture, reviews, messages, comments, searches, photos, style preferences, ideabooks, discussion, project details, project costs, project timelines, change orders, and invoices. 
+Content You Submit. We collect information and content that you submit, share, or create across our Platform and on other websites that link to this Privacy Policy. This includes information and content submitted, shared, or created including but not limited to your company information, profile picture, reviews, messages, comments, searches, photos, style preferences, ideabooks, discussion, project details, project costs, project timelines, change orders, and invoices.
 
 Purchases. If you purchase or sell products or services or make or receive payments within our Platform, we collect certain information in order to complete your purchases, sales, and payments, such as your phone number, address, and payment method (for example, credit card or bank account information). If you participate in our Trade Program or Business Program, you may be asked to provide proof that you are eligible for the program or for a tax exemption.
 
@@ -92,7 +82,7 @@ We may use your communications generally for quality assurance purposes and trai
 
 We may use your log-in information, cookie information, device information, IP addresses, and other information to identify you and log your use across devices, our Platform, and third-party sites. We may use this information to personalize your experience on our Platform.
 
-For your convenience, we and our payment processors will store information about the payment method you use in connection with the Platform. Note that while our payment processors may store your complete credit card number, Houzz does not. You may remove or change your payment method on Houzz through your settings. If you would like to change your payment method on Ivy and you use a credit card, please go to your Ivy settings. 
+For your convenience, we and our payment processors will store information about the payment method you use in connection with the Platform. Note that while our payment processors may store your complete credit card number, Houzz does not. You may remove or change your payment method on Houzz through your settings. If you would like to change your payment method on Ivy and you use a credit card, please go to your Ivy settings.
 
 If you make purchases on Houzz as a visitor and subsequently create an account, for your reference, we will make information available to you about any prior purchases completed using the email address for your account.
 
@@ -104,11 +94,11 @@ We do not rent or sell your personal contact information (such as your email add
 
 Platform Visitors and Users
 
-One of the main purposes of having a Houzz account is to share home renovation and design ideas with others. Through Houzz, others have the ability to find, contact, view, and follow your profile and public activity on Houzz (for example, if you "like'' content on our Platform or if you create an ideabook and do not mark it private) and link it to your username. You can customize your Houzz profile and whether users may follow you through your Houzz settings. Your Houzz content (for example, ideabooks, photos, notes on others' photos, projects, discussions, and social media profiles), followers, and others you follow are publicly viewable on the Platform and open to comments by other Houzz users. If you would like to make certain of your content private, please click here for more information. If you are a professional, or merchant on Houzz, we may also display the following information in order to help visitors and users evaluate you: aggregated information on our Platform about your Platform activity (e.g. response rate), and information that is publicly available from third parties. 
+One of the main purposes of having a Houzz account is to share home renovation and design ideas with others. Through Houzz, others have the ability to find, contact, view, and follow your profile and public activity on Houzz (for example, if you "like'' content on our Platform or if you create an ideabook and do not mark it private) and link it to your username. You can customize your Houzz profile and whether users may follow you through your Houzz settings. Your Houzz content (for example, ideabooks, photos, notes on others' photos, projects, discussions, and social media profiles), followers, and others you follow are publicly viewable on the Platform and open to comments by other Houzz users. If you would like to make certain of your content private, please click here for more information. If you are a professional, or merchant on Houzz, we may also display the following information in order to help visitors and users evaluate you: aggregated information on our Platform about your Platform activity (e.g. response rate), and information that is publicly available from third parties.
 
 Professionals, Merchants, and Other Businesses on our Platform
 
-If you request us to find professionals for you, your project information (including the contact information) that you provide will be made available to a limited number of professionals that we believe may be suitable for your project. Such professionals are independent from Houzz and their use of your data is not covered by this Privacy Policy. Professionals and merchants that participate on the Houzz Platform may view your public activities on our Platform and receive feedback you provide to us about your engagement with them. For example, if you requested us to find professionals for you and provide us feedback about your level of interest in these professionals, we may convey such feedback to them. In addition, a professional or merchant can view your public activities on our Platform that are interactions with their content (for example, that you added one of their photos to your non-private ideabook on a particular date, as identified by the username for your profile and any photo or public identifiers you provide for your profile). When you receive messages from professionals through the Platform, Houzz and the professionals can track your interaction with these messages, including whether you opened the messages or documents shared with these messages. A professional or merchant cannot see your non-public account information or see private activity (for example, if your ideabook is private). 
+If you request us to find professionals for you, your project information (including the contact information) that you provide will be made available to a limited number of professionals that we believe may be suitable for your project. Such professionals are independent from Houzz and their use of your data is not covered by this Privacy Policy. Professionals and merchants that participate on the Houzz Platform may view your public activities on our Platform and receive feedback you provide to us about your engagement with them. For example, if you requested us to find professionals for you and provide us feedback about your level of interest in these professionals, we may convey such feedback to them. In addition, a professional or merchant can view your public activities on our Platform that are interactions with their content (for example, that you added one of their photos to your non-private ideabook on a particular date, as identified by the username for your profile and any photo or public identifiers you provide for your profile). When you receive messages from professionals through the Platform, Houzz and the professionals can track your interaction with these messages, including whether you opened the messages or documents shared with these messages. A professional or merchant cannot see your non-public account information or see private activity (for example, if your ideabook is private).
 
 Service Providers and Partners
 
@@ -182,11 +172,11 @@ Houzz may process your personal data among affiliates of the Houzz Group outside
 
 Historically, Houzz has complied with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information (as defined in these Frameworks) transferred from countries in the European Economic Area (“EEA”), United Kingdom (”UK”), and Switzerland, as applicable, to the United States. On July 16, 2020, however, the Court of Justice of the European Union issued a judgment declaring as “invalid” the European Commission’s Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States. That decision does not relieve participants in the EU-U.S. Privacy Shield of their obligations under the EU-U.S. Privacy Shield Framework.
 
-We may receive from the EEA, UK, and Switzerland some or all of the information listed in the Collection of Information section of this Privacy Policy. Some of that information may qualify as personal information. We may use the personal information we receive from the EEA, UK, and Switzerland for the purposes set forth in this Privacy Policy or as you may otherwise be notified. In case we transfer personal data outside of the EEA, the UK, or Switzerland, we will make sure that (a) the recipient is based in a jurisdiction that the European Commission has decided maintains an adequate level of protection for personal data, or (b) the recipient has enacted appropriate safeguards under Article 46 of the GDPR (such as for example Binding Corporate Rules or EU Standard Contractual Clauses). 
+We may receive from the EEA, UK, and Switzerland some or all of the information listed in the Collection of Information section of this Privacy Policy. Some of that information may qualify as personal information. We may use the personal information we receive from the EEA, UK, and Switzerland for the purposes set forth in this Privacy Policy or as you may otherwise be notified. In case we transfer personal data outside of the EEA, the UK, or Switzerland, we will make sure that (a) the recipient is based in a jurisdiction that the European Commission has decided maintains an adequate level of protection for personal data, or (b) the recipient has enacted appropriate safeguards under Article 46 of the GDPR (such as for example Binding Corporate Rules or EU Standard Contractual Clauses).
 
 Onward Transfer
 
-In the Sharing Your Information section of this Privacy Policy we describe our data sharing practices. We may also be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+In the Sharing Your Information section of this Privacy Policy we describe our data sharing practices. We may also be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 We may use third parties to process data on our behalf as described in this Privacy Policy.
 
@@ -206,13 +196,13 @@ This section provides notice and specific information to consumers in California
 
 We share information with third-party partners to display personalized ads and content on other platforms, for which you have the right to opt-out. You may opt-out of sharing your personal information for these purposes by visiting “Your Privacy Choices” located in the footer of this website, or by adjusting your account settings here. Additionally, you may use an Opt-out Preference Signal or Universal Opt-out Mechanism to notify us of your privacy preference. We will recognize your opt-out preference, as opting-out of the sale or sharing of your personal information with third parties as defined by applicable law. We will apply your opt-out preference only to the browser or device used to signal your preference. When you login to our Platform, we will apply your opt-out preference to your account.
 
-As provided in our Terms of Use, use of the Houzz Platform by anyone under 18 years of age is strictly prohibited. Consequently, we do not knowingly disclose information regarding individuals under 18 years of age to third parties in exchange for consideration. We do not use or disclose sensitive personal information for purposes other than those set forth in the CCPA. 
+As provided in our Terms of Use, use of the Houzz Platform by anyone under 18 years of age is strictly prohibited. Consequently, we do not knowingly disclose information regarding individuals under 18 years of age to third parties in exchange for consideration. We do not use or disclose sensitive personal information for purposes other than those set forth in the CCPA.
 
-In addition to the rights described above and in the Your Choices and Rights section, California residents may also, subject to certain exceptions, request us to provide information about how we have used and shared your personal information. Residents of California, Virginia, Colorado, and Connecticut also have the right to request correction of inaccurate personal information. Residents of Virginia, Colorado, and Connecticut have the right to confirm whether Houzz is processing their personal information. Please submit these requests for information, as well as requests to access, correct, or delete your information, through this online support form, through your privacy settings, or by emailing us at privacy@houzz.com. Residents of California, Virginia, Colorado, and Connecticut may appeal Houzz’s decision regarding their request by contacting us at privacy@houzz.com. If we deny your request, we will notify you and provide our reasons for the denial and instructions regarding the rights you may have under applicable laws to appeal the decision. If the appeal is denied, we will notify you of your rights under applicable laws to contact the Attorney General to submit a complaint. Consistent with applicable privacy laws, except to the extent reasonably related to the value of your personal information, we will not treat you differently for exercising your rights under these laws. 
+In addition to the rights described above and in the Your Choices and Rights section, California residents may also, subject to certain exceptions, request us to provide information about how we have used and shared your personal information. Residents of California, Virginia, Colorado, and Connecticut also have the right to request correction of inaccurate personal information. Residents of Virginia, Colorado, and Connecticut have the right to confirm whether Houzz is processing their personal information. Please submit these requests for information, as well as requests to access, correct, or delete your information, through this online support form, through your privacy settings, or by emailing us at privacy@houzz.com. Residents of California, Virginia, Colorado, and Connecticut may appeal Houzz’s decision regarding their request by contacting us at privacy@houzz.com. If we deny your request, we will notify you and provide our reasons for the denial and instructions regarding the rights you may have under applicable laws to appeal the decision. If the appeal is denied, we will notify you of your rights under applicable laws to contact the Attorney General to submit a complaint. Consistent with applicable privacy laws, except to the extent reasonably related to the value of your personal information, we will not treat you differently for exercising your rights under these laws.
 
 Your authorized agent may exercise your data protection rights on your behalf via this online support form or by emailing us at privacy@houzz.com. We may still require you to directly verify your identity and confirm that you have provided the authorized agent permission to submit the request. Please keep in mind that if we do not receive adequate proof that you are authorized to act on the consumer’s behalf, we may deny the request. Whether you submit your request directly or through an authorized agent, generally, the only means Houzz has to verify your identity is for you to respond to a specific Houzz email from the Houzz support team from the email address associated with your Houzz account or to click a confirmation or similar button in a specific Houzz email from the email address associated with your Houzz account.
 
-We collect, use, and disclose personal information for the following purposes: 
+We collect, use, and disclose personal information for the following purposes:
 
 to provide and improve our Platform and its features and functionality;
 to evaluate use of our Platform for our business purposes and to provide and improve our products and services;
@@ -222,13 +212,13 @@ to provide feedback to professionals and merchants on our Platform;
 to communicate with you as described in our agreements with you (for example, the Houzz Terms of Use) or this Privacy Policy;
 to prevent fraud and to maintain a quality experience for our business purposes or legal reasons (for example, the Houzz Terms of Use);
 to enforce compliance with our agreements with you (for example, the Houzz Terms of Use) and applicable law; to comply with our legal obligations; to prosecute or defend a lawsuit, arbitration, or similar legal proceeding; to respond to lawful requests by public authorities (including national security or law enforcement requirements);
-to perform research and analysis for our business purposes and to conduct journalist research; 
+to perform research and analysis for our business purposes and to conduct journalist research;
 to award badges and similar designations and if you decide to participate, to administer surveys, contests, and promotions;
 to inform your contacts who have accounts on our Platform that you also have joined our Platform and follow them on your behalf so that you may view their public activities on our Platform;
-to provide quality assurance purposes and training; 
+to provide quality assurance purposes and training;
 to understand and help manage the quality of requests received, and responses sent, by professionals and sellers on our Platform and to provide them with feedback;
 to review your communications and improve user experience, including using automated technology. Learn more.
-to identify you and log your use across devices, our Platform, and third-party sites; 
+to identify you and log your use across devices, our Platform, and third-party sites;
 to store information about the payment method you use in connection with the Platform;
 to make information available to you about any prior purchases completed using the email address for your account if you make purchases on Houzz as a visitor and subsequently create an account; and
 to show you all of your payments, as well as invoices, proposals, retainers, and similar documents on a per-project basis if you are a client on Ivy.
@@ -259,8 +249,8 @@ Effective June 16, 2023
 
 Click here for the prior revision (modified January 1, 2023)
 
- 
-United States		
+United States
+Select country
 United States
 United Kingdom
 Australia
@@ -276,7 +266,7 @@ Ireland
 Singapore
 New Zealand
 India
-© 2023 Houzz Inc.
+© 2023 Houzz Inc.
 COMPANY
 About Houzz
 Houzz Credit Cards
@@ -290,7 +280,9 @@ Mobile Apps
 Copyright & Trademark
 BUSINESS SERVICES
 For Professionals
-Management Software
+Remodeling Software
+Floor Planner
+Contractor Leads
 For Brands
 Trade Program
 Buttons & Badges
@@ -298,10 +290,13 @@ GET HELP
 Your Orders
 Shipping & Delivery
 Return Policy
+Houzz Canada
 Review Professionals
 Suggested Professionals
 Accessibility
 Houzz Support
+Contact
+Sign In
 CONNECT WITH US
 Houzz Blog
 Twitter
