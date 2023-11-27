@@ -106,7 +106,3 @@ Here is the data set of all the requests included in this transparency report.
 Previous Transparency Report
 
 Here is our very first Transparency Report.
-
-Zoom uses cookies and similar technologies as described in our cookie statement. You can manage your cookie settings or exercise your rights related to cookies through our Cookies Settings.
-
-Cookies Settings
