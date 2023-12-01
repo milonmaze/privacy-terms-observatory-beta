@@ -1,7 +1,7 @@
 Cookies Policy
-We updated our policy on November 2, 2023. View our previous policy.
+The policy below goes into effect on December 12, 2023. Read our current policy.
 What are cookies, and what does this policy cover?
-Effective November 2, 2023 | View printable version | See previous versions
+Effective December 12, 2023 | View printable version | See previous versions
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 We use cookies if you have a Facebook or Instagram account, use the Meta Products, including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the Privacy Policy will apply to our processing of the data that we collect via cookies.
