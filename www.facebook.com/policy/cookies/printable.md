@@ -1,5 +1,5 @@
 Cookies Policy
-We updated our policy on November 2, 2023. View our previous policy.
+The policy below goes into effect on December 12, 2023. Read our current policy.
 Explore the policy
 What are cookies, and what does this policy cover?
 Why do we use cookies?
@@ -11,7 +11,7 @@ Terms of Service
 Cookies Policy
 What are cookies, and what does this policy cover?
 
-Effective November 2, 2023
+Effective December 12, 2023
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
@@ -33,7 +33,7 @@ Security, site and product integrity
 
 We use cookies to help us keep your account, data and the Meta Products safe and secure.
 
-For example: Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely, as well as “datr." "Datr" is a unique identifier for your browser that, amongst other things, helps us protect you from fraud. For example, it helps us identify trusted browsers where you have logged in before. “Datr” has a lifespan of two years.
+For example: Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely, as well as “datr." "Datr" is a unique identifier for your browser that, amongst other things, helps us protect you from fraud. For example, it helps us identify trusted browsers where you have logged in before. “Datr” has a lifespan of 400 days.
 
 We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Meta Products.
 
@@ -56,7 +56,7 @@ Cookies also allow us to provide insights about the people who use the Meta Prod
 
 For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
 
-We also use cookies, such as our "oo" cookie, which has a lifespan of five years, to help you opt out of seeing ads from Meta based on your activity on third-party websites. Learn more about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
+We also use cookies, such as our "oo" cookie, which has a lifespan of 400 days, to help you opt out of seeing ads from Meta based on your activity on third-party websites. Learn more about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
 
 Site features and services
 
@@ -114,7 +114,7 @@ These cookies help us to identify your browser securely.
 
 	
 
-2 years
+400 days
 
 
 
@@ -127,7 +127,7 @@ This is a unique identifier for your browser that, among other things, helps us 
 
 	
 
-2 years
+400 days
 
 
 
@@ -166,7 +166,7 @@ These cookies identify browsers for businesses using our Meta Products for the p
 
 	
 
-Session
+90 days
 
 
 
@@ -179,7 +179,7 @@ This cookie helps store your advertising preferences.
 
 	
 
-5 years
+400 days
 
 
 
