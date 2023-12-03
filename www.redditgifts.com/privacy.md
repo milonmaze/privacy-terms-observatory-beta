@@ -1,49 +1,57 @@
-Cybertruck prices revealed
+GTA 6
 
-Tesla Cybertruck Pricing
+December 5th is Trailer Day
 
-r/teslamotors
+r/GTA6
 and more
-'Path of Exile 2' trailer
+NFL Week 13
 
-Path of Exile 2: Mercenary Gameplay Walkthrough
+NFL Power Rankings, Week 13: Steelers crack top 10, while Lions tumble out of top five
 
-r/pathofexile
+r/nfl
 and more
-Furiosa: A Mad Max Saga
+'House of the Dragon' Season 2
 
-Official Poster for 'Furiosa'
+Official Posters for 'House of the Dragon' Season 2
 
-r/movies
+r/HouseOfTheDragon
 and more
-The Completionist
+'The 100 Best Songs of 2023'
 
-Karl Jobst New Video - The Open Hand Charity
+The 100 Best Songs of 2023
 
-r/TheCompletionist
+r/popheads
 and more
-Jeremy Allen White & Rosalía
+World of Warcraft
 
-Jeremy Allen White and Rosalia Are Dating After Sparking Romance Rumors
+Anduin if Baine showed up instead of Thrall
 
-r/Fauxmoi
+r/wow
 and more
-Tiger Woods returns to golf
+Premier League
 
-Tiger Woods returns to competitive golf with 'squirrely' 75, soreness play
+PL panel "backs" VAR decisions in Wolves defeat. Whilst the panel agrees several decisions were wrong, they weren't wrong enough to be "clear and obvious errors".
 
-r/sports
+r/PremierLeague
 and more
-r/meirl
+r/CFB
 •
-3 hr. ago
-meirl
-r/AskReddit
+14 hr. ago
+[Postgame Thread] Alabama Defeats Georgia 27-24
+
+Box Score provided by ESPN
+
+Team	1	2	3	4	T
+
+Georgia	7	0	3	14	24
+Alabama	3	14	3	7	27
+Made with the r/CFB Game Thread Generator
+r/nextfuckinglevel
 •
-19 hr. ago
-What was cool in 2013 but not anymore in 2023?
-r/wholesomememes
+6 hr. ago
+Peter Lammer is a chef in a restaurant in Germany. He was involved in a motorcycle accident, and after rehabilitation, doctors advised him to retire. Together with his friends, he came up with this effective mobile seat.
+r/facepalm
 •
-4 hr. ago
-I guess this does not require a caption
+1 day ago
+Dude just found out what makeup is
  
