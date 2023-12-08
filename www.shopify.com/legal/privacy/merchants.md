@@ -1,3 +1,4 @@
+Skip to Content
 Privacy for Merchants
 
 For merchants using Shopify to power their stores
@@ -10,66 +11,41 @@ What information we collect about you and why
 
 We collect personal information when you sign up for Shopify, when you use our platform, or when you otherwise provide us information. We may also use third party service providers (like Sift), for example to help us review accounts for fraud or other concerns. In general we need information about you for you to be able to use our platform. We process your personal data in order to perform our contract with you or because it is in our legitimate interests to maintain our business relationship, prevent risk and fraud, provide effective services to you, improve our products and services, and to be responsive to you. In some cases, we only process your personal information with your consent.
 
-What we collect	How we use it
-
-
-Information you provide us about you and your business, like your name, the name of your staff or other individuals associated with your business, company name, address, email address, and phone number.
-
-	
+WHAT WE COLLECT	HOW WE USE IT
+Information you provide us about you and your business, like your name, the name of your staff or other individuals associated with your business, company name, address, email address, and phone number.	
 To provide you with the use of our platform and other related services (e.g., to confirm your identity, to contact you about issues with the platform, to invoice you)
 To advertise and market products or features to you
 To comply with legal requirements
 To prevent fraudulent use of our services
 
-
-
-Payment information you provide us, such as your credit or debit card number or your bank account number. If you use Shopify Capital, we also collect information that you may choose to make available to us about your business’s bank accounts or financial assets.
-
-	
+Payment information you provide us, such as your credit or debit card number or your bank account number. If you use Shopify Capital, we also collect information that you may choose to make available to us about your business’s bank accounts or financial assets.	
 To provide you with the use of our platform and other related services
 To charge for our services
 To provide Shopify Payments
 To provide Shopify Capital
 To provide Shopify Installments
-To provide Shopify Balance
 To provide Shopify Markets
 
-
-
-Information about how you access Shopify websites, your account, and our platform, including information about the device and browser you use, your network connection, your IP address, and details about how you browse our websites and platform. We collect some of this information by using “cookies” or other similar technologies directly from your device. For more information about how we use these technologies, see our Cookie Policy.
-
-	
+Information about how you access Shopify websites, your account, and our platform, including information about the device and browser you use, your network connection, your IP address, and details about how you browse our websites and platform. We collect some of this information by using “cookies” or other similar technologies directly from your device. For more information about how we use these technologies, see our Cookie Policy.	
 To provide you use of, and to improve, our platform and other related services (e.g., identifying ways to make our platform easier to use or navigate)
 To personalize the platform for you (e.g., by showing you apps in our app store that we believe may be useful to you)
 To advertise and market products or features to you
 To prevent fraudulent use of our services
 
-
-
-If you use Shopify Payments, we collect more specific information you provide us about your business, including your business address, business type, business ID number, bank account information, date of birth (if you are an individual business owner), and in some circumstances, government-issued identification (such as your Social Security Number, Social Information Number, Employer Identification Number, or Tax Identification Number).
-
-	
+If you use Shopify Payments, we collect more specific information you provide us about your business, including your business address, business type, business ID number, bank account information, date of birth (if you are an individual business owner), and in some circumstances, government-issued identification (such as your Social Security Number, Social Information Number, Employer Identification Number, or Tax Identification Number).	
 To create and manage your Shopify Payments account
 To provide you with the Shopify Payments services
 To conduct fraud and risk monitoring
 To comply with legal requirements (such as “know your customer”, anti-money laundering, or anti-terrorism laws)
 To provide tax documentation
 
-
-
-Copies of government-issued and/or a picture of yourself holding your identification that you provide us.
-
-	
+Copies of government-issued and/or a picture of yourself holding your identification that you provide us.	
 If we need to verify your identity (e.g., to protect you against identity theft or fraud)
 To verify that we are speaking with you if you contact us
 To help us determine or verify account ownership
 To comply with legal requirements
 
-
-
-If your business is listed on Shop, you may voluntarily disclose personal data revealing the racial or ethnic origin or sexual orientation of the business owner.
-
-	
+If your business is listed on Shop, you may voluntarily disclose personal data revealing the racial or ethnic origin or sexual orientation of the business owner.	
 To highlight collections of stores for the purpose of promoting diverse businesses
 
 We also work with companies that provide us with information about merchants or prospective merchants (for example, to protect against fraud or if we’re sponsoring an event).
@@ -92,6 +68,10 @@ Shopify doesn’t control how these services use your personal information, and 
 Your rights over your information
 
 You can access and correct a lot of your personal information directly through the Shopify admin. For information you are not able to access or correct directly within the Shopify admin, please submit a data subject request through our online portal. Please refer to our Overall Privacy Policy for further information. Please note that some data subject rights only apply in certain circumstances, and all of these rights may be limited by law.
+
+How long we retain your information
+
+Because we need your personal information to provide Shopify services, we generally keep your personal information while you use Shopify products or services. If you close your store, you stop paying your subscription fees, or we terminate your account, we retain store information for two years before we begin the process of deleting or anonymizing personal information. We don’t do this immediately in case you reactivate your account, or if there is a legal complaint or audit relating to your business. If you contact us to request deletion of your store’s information, we will begin the process of deleting or anonymizing personal information after 90 days, except if we are legally required to retain specific information. If you have questions about this process, please contact our Support team. Please keep in mind that after we anonymize your personal information, we may continue to use non-identifiable information to improve our services.
 
 Your customers’ information
 
