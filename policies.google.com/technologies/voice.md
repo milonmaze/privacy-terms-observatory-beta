@@ -16,6 +16,7 @@ Dansk
 Deutsch
 Eesti
 English
+English (India)
 English (United Kingdom)
 Español
 Español (Latinoamérica)
