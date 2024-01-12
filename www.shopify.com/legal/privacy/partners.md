@@ -1,3 +1,4 @@
+Skip to Content
 Privacy for Shopify Partners
 
 For Shopify Partners who develop apps, build stores, refer merchants, or help merchants operate their stores
@@ -10,37 +11,21 @@ What information we collect about you and why
 
 We collect the following personal information about you when you sign up as a Shopify partner or affiliate, or when you otherwise provide us with this information. We process your personal data in order to perform our contract with you or because it is in our legitimate interests to maintain our business relationship, prevent risk and fraud, provide effective services to you, improve our products and services, and to be responsive to you. In some cases, we only process your personal information with your consent.
 
-What we collect	How we use it
-
-
-Information you provide about yourself and your business, like your name, company name, address, email address, and phone number.
-
-	
+WHAT WE COLLECT	HOW WE USE IT
+Information you provide about yourself and your business, like your name, company name, address, email address, and phone number.	
 To provide you with the use of our platform and other related services (e.g., to confirm your identity, to contact you about issues with the platform, to invoice you)
 To advertise and market products or features to you
 To comply with legal requirements
 
-
-
-Payment information you provide, such as your credit or debit card number or your bank account number.
-
-	
+Payment information you provide, such as your credit or debit card number or your bank account number.	
 To process payments from you, or to remit payments to you
 
-
-
-Information about how you access Shopify websites, your account, and our platform, including information about the device and browser you use, your network connection, your IP address, communication with Merchants, and details about how you browse our websites and platform. We collect some of this information by using “cookies” or other similar technologies directly from your device. For more information about how we use these technologies, see our Cookie Policy.
-
-	
+Information about how you access Shopify websites, your account, and our platform, including information about the device and browser you use, your network connection, your IP address, communication with Merchants, and details about how you browse our websites and platform. We collect some of this information by using “cookies” or other similar technologies directly from your device. For more information about how we use these technologies, see our Cookie Policy.	
 To provide you use of, and to improve, our platform and other related services (e.g., identifying ways to make our platform easier to use or navigate)
 To personalize the platform for you (e.g., by showing you apps in our app store that we believe may be useful to you)
 To advertise and market products or features to you
 
-
-
-Copies you provide of government-issued identification you provide us.
-
-	
+Copies you provide of government-issued identification you provide us.	
 If we need to verify your identity (e.g., to protect you against identity theft or fraud)
 To verify that we are speaking with you if you contact us
 To comply with legal requirements
@@ -66,4 +51,4 @@ When you sign up for the partner program you remain in the program until you tel
 
 Merchants that use your services
 
-Shopify Partners provide a range of critical services to our merchants. When merchants sign up to use your services (for example, when they install an app you have developed), we will provide you with their personal information on the merchant’s instruction. When we do this, we are acting on behalf of our merchants. It is your responsibility to protect our merchant’s personal information and process it safely and securely in accordance with applicable law, our Partner Program Agreement, API License &amp; Terms of Use and any other terms governing other Shopify services you may use. Shopify also requires you to provide merchants with a clear and transparent privacy policy to help them understand your privacy practices, and how you use the personal information they provide you. If you develop an app that you would like to list on Shopify’s App Store, that app will also require a privacy policy. To help you with this, we have prepared a template App Privacy Policy that you can use as a starting point to help explain what information you collect, and how you use and disclose that information.
+Shopify Partners provide a range of critical services to our merchants. When merchants sign up to use your services (for example, when they install an app you have developed), we will provide you with their personal information on the merchant’s instruction. When we do this, we are acting on behalf of our merchants. It is your responsibility to protect our merchant’s personal information and process it safely and securely in accordance with applicable law, our Partner Program Agreement, API License & Terms of Use and any other terms governing other Shopify services you may use. Shopify also requires you to provide merchants with a clear and transparent privacy policy to help them understand your privacy practices, and how you use the personal information they provide you. If you develop an app that you would like to list on Shopify’s App Store, that app will also require a privacy policy. To help you with this, we have prepared a template App Privacy Policy that you can use as a starting point to help explain what information you collect, and how you use and disclose that information.

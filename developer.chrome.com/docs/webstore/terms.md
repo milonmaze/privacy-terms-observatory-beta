@@ -1,3 +1,4 @@
+Sign in
 Extensions
 Chrome Web Store - Program Policies
 Home
@@ -6,6 +7,7 @@ Extensions
 Chrome Web Store - Program Policies
 Was this helpful?
 Google Chrome Web Store Developer Agreement
+bookmark_border
 On this page
 Definitions
 1. Introduction
@@ -13,9 +15,6 @@ Definitions
 3. Pricing and Payments
 4. Use of the Web Store by You
 This developer agreement was updated on May 4, 2021.
-
-Branding Guidelines | Rating Guidelines | Program Policies | User Data FAQ | Developer Agreement
-
 Definitions
 
 Google: Google LLC, a Delaware limited liability company with principal place of business at 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States; Google Ireland Limited, a company incorporated in Ireland with principal place of business at Gordon House, Barrow Street, Dublin 4, Ireland; or Google Asia Pacific Pte. Limited, a company incorporated in Singapore with principal place of business at 70 Pasir Panjang Road, #03-71, Mapletree Business City, Singapore 117371. Google may update the Google entities and their addresses from time to time.
