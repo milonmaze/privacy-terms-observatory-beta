@@ -71,19 +71,21 @@ Cloud VPN: Cloud VPN allows you to connect to your Virtual Private Cloud (VPC) n
 
 Google Cloud Armor: Google Cloud Armor offers a policy framework and rules language for customizing access to internet-facing applications and deploying defenses against denial of service attacks as well as targeted application attacks. Components of Google Cloud Armor include: L3/L4 volumetric DDos Protection, preconfigured web-application firewall (WAF) rules, and custom rules language.
 
-Google Cloud Armor Managed Protection Plus: Google Cloud Armor Managed Protection Plus is a managed application protection service subscription that bundles Google Cloud Armor WAF and DDoS Protection with additional services and capabilities including DDoS response support, DDoS bill protection, and Google Cloud Armor Adaptive Protection, which is Google’s machine-learning based solution to protect internet-facing endpoints from network and application-based attacks.
+Google Cloud Armor Managed Protection Plus: Google Cloud Armor Managed Protection Plus is a managed application protection service subscription that bundles Google Cloud Armor WAF and DDoS Protection with additional services and capabilities including DDoS response support, DDoS bill protection, and Google Cloud Armor Adaptive Protection, which is Google's machine-learning based solution to protect internet-facing endpoints from network and application-based attacks.
 
-Media CDN: Media CDN is a content delivery network that leverages Google’s global edge cache nodes to deliver exceptional caching efficiency and end user experiences.
+Media CDN: Media CDN is a content delivery network that leverages Google's global edge cache nodes to deliver exceptional caching efficiency and end user experiences.
 
 Network Connectivity Center: Network Connectivity Center is a hub-and-spoke model for network connectivity management in Google Cloud that facilitates connecting a customer's resources to its cloud network.
 
-Network Intelligence Center: Network Intelligence Center is Google Cloud’s comprehensive network monitoring, verification, and optimization platform across the Google Cloud, multi-cloud, and on-prem environments.
+Network Intelligence Center: Network Intelligence Center is Google Cloud's comprehensive network monitoring, verification, and optimization platform across the Google Cloud, multi-cloud, and on-prem environments.
 
 Network Service Tiers: Network Service Tiers enable you to select different quality networks (tiers) for outbound traffic to the internet: the Standard Tier primarily utilizes third party transit providers while the Premium Tier leverages Google's private backbone and peering surface for outbound data transfer.
 
 Service Directory: Service Directory is a managed service that offers customers a single place to publish, discover and connect their services in a consistent way, regardless of their environment. Service Directory supports services in Google Cloud, multi-cloud, and on-prem environments and can scale up to thousands of services and endpoints for a single project.
 
 Spectrum Access System: Spectrum Access System enables you to access the Citizens Broadband Radio Service (CBRS) in the United States, the 3.5 GHz band that is available for shared commercial use. You can use Spectrum Access System to register your CBRS devices, manage your CBRS deployments, and access a non-production test environment (if offered).
+
+Telecom Network Automation: Telecom Network Automation is Google Cloud's implementation of open source Nephio that delivers simple, carrier grade, cloud-native automation to support the creation of intent driven networks.
 
 Traffic Director: Traffic Director is Google Cloud Platform's traffic management service for open service meshes.
 
@@ -181,7 +183,7 @@ Discovery Solutions: Discovery Solutions enable customers in retail, media, and 
 
 *Recommendations AI: Recommendations AI enables customers to build a personalized recommendation system using ML models.
 *Recommendation Engine API: Recommendation engine API is the Version 1 API of Recommendations AI.
-*Retail Search: Retail Search, powered by Google’s Retail API, allows retailers to leverage Google’s search capabilities on their retail websites and applications.
+*Retail Search: Retail Search, powered by Google's Retail API, allows retailers to leverage Google's search capabilities on their retail websites and applications.
 
 Document AI: Document AI is a unified console for document processing that lets you quickly access all document processing models and tools. Customers can use Document AI's pre-trained models for document extraction, including OCR, Form Parser and specialized models.
 
@@ -190,6 +192,8 @@ Document Workbench: Document Workbench allows you to build a custom classificati
 Document AI Warehouse: Document AI Warehouse is a highly-scalable, fully managed data management and governance platform that integrates with enterprise document workflows to store, search, and organize documents and their metadata.
 
 *Talent Solution: Talent Solution offers access to Google's machine learning, enabling company career sites, job boards, ATS, staffing agencies, and other recruitment technology platforms to improve the talent acquisition experience.
+
+Translation Hub: Translation Hub is a fully-managed document translation solution for organizations seeking to empower their employees to translate documents on demand into many different languages.
 
 Pre-Trained APIs
 
@@ -256,10 +260,6 @@ Cloud Endpoints: Cloud Endpoints is a tool that helps you to develop, deploy, se
 
 Integration Connectors: Integration Connectors is a platform that allows customers to connect to business applications, technologies and other data sources using native protocols of each target application. The connectivity established through these connectors helps manage access to various data sources which can be used with other services like Application Integration through a consistent, standard interface.
 
-Payment Gateway: Payment Gateway is a managed service that provides a reliable, scalable and secure way for customers to integrate with real time payment systems like Unified Payments Interface (UPI).
-
-Issuer Switch: Issuer Switch provides customers with a managed deployment of standard payment interfaces for performing payment and non-payment transactions on their users’ accounts.
-
 Container Services
 
 Google Kubernetes Engine: Google Kubernetes Engine, powered by the open source container scheduler Kubernetes, enables you to run containers on Google Cloud Platform. Kubernetes Engine takes care of provisioning and maintaining the underlying virtual machine cluster, scaling your application, and operational logistics such as logging, monitoring, and cluster health management. Services include:
@@ -273,7 +273,7 @@ GKE Enterprise Premium Software: GKE Enterprise includes the software components
 Service Mesh: Service Mesh is a managed service mesh service that includes (i) a managed certificate authority that issues cryptographic certificates that identify customer workloads within the Service Mesh for mutual authentication, and (ii) telemetry for customers to manage and monitor their services. Customers receive details showing an inventory of services, can understand their service dependencies, and receive metrics for monitoring their services. For clarity this service does not include Service Mesh -- Software (see below regarding Premium Software).
 GKE Autopilot: GKE Autopilot is a mode of operation in GKE in which Google manages cluster configuration, including nodes, scaling, security, and other preconfigured settings. Autopilot clusters are optimized to run most production workloads, and provision compute resources based on Kubernetes manifests. The streamlined configuration follows GKE best practices and recommendations for cluster and workload setup, scalability, and security.
 Connect: Connect is a service that enables both users and Google-hosted components to interact with clusters through a connection to the in-cluster Connect software agent.
-GKE Hub: GKE Hub is centralized control-plane that enables a user to register clusters running in a variety of environments, including Google’s cloud, on premises in customer datacenters, or other third party clouds. GKE Hub provides a way for customers to centrally manage features and services on customer-registered clusters.
+GKE Hub: GKE Hub is centralized control-plane that enables a user to register clusters running in a variety of environments, including Google's cloud, on premises in customer datacenters, or other third party clouds. GKE Hub provides a way for customers to centrally manage features and services on customer-registered clusters.
 Google-Managed Multi-Cloud Services
 
 *BigQuery Omni: BigQuery Omni is a Google-managed multi-cloud analytics solution that enables analysts to access and analyze data stored on other supported public clouds from a singular BigQuery control-plane on GCP.
@@ -328,7 +328,7 @@ Key Access Justifications (KAJ): KAJ provides a justification for every request 
 
 Risk Manager: Risk Manager allows customers to scan their cloud environments and generate reports around their compliance with industry-standard security best practices, including CIS benchmarks. Customers then have the ability to share these reports with insurance providers and brokers.
 
-Security Command Center: Security Command Center is Google Cloud’s centralized vulnerability and threat reporting service. Security Command Center provides asset inventory and discovery and allows you to identify misconfigurations, vulnerabilities and threats, helping you to mitigate and remediate risks.
+Security Command Center: Security Command Center is Google Cloud's centralized vulnerability and threat reporting service. Security Command Center provides asset inventory and discovery and allows you to identify misconfigurations, vulnerabilities and threats, helping you to mitigate and remediate risks.
 
 Sensitive Data Protection (formerly Cloud Data Loss Prevention or DLP): Sensitive Data Protection is a fully-managed service enabling customers to discover, classify, de-identify, and protect sensitive data, such as personally identifiable information.
 
@@ -429,7 +429,7 @@ Media and Gaming
 
 Live Stream API: Live Stream API is a cloud-based live encoder that processes high-quality contribution feeds for 24x7 live linear or live events and prepares the streams for digital distribution. It compresses the video and audio elementary streams with the latest video codecs and packages the streams in standardized container formats to reach all IP connected devices.
 
-Transcoder API: Transcoder API can batch convert media files into optimized formats to enable streaming across web, mobile, and living room devices. It provides fast, easy to use, large-scale processing of advanced codecs while utilizing Google’s storage, networking, and delivery infrastructure.
+Transcoder API: Transcoder API can batch convert media files into optimized formats to enable streaming across web, mobile, and living room devices. It provides fast, easy to use, large-scale processing of advanced codecs while utilizing Google's storage, networking, and delivery infrastructure.
 
 Video Stitcher API: Video Stitcher API enables users to dynamically insert content or ads using server-side video insertion technology. Video and ads are conditioned into a single stream for video on demand (VOD) or live streams to deliver flexible and target personalization at scale.
 
@@ -468,5 +468,5 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and app
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified November 15, 2023)
-November 01, 2023 October 26, 2023 October 12, 2023 October 11, 2023 September 25, 2023 August 28, 2023 August 24, 2023 August 14, 2023 July 27, 2023 July 12, 2023 June 29, 2023 June 22, 2023 June 13, 2023 June 7, 2023 June 5, 2023 June 1, 2023 May 16, 2023 May 10, 2023 May 8, 2023 May 2, 2023 April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
+PREVIOUS VERSIONS (Last modified December 20, 2023)
+December 12, 2023 November 15, 2023 November 01, 2023 October 26, 2023 October 12, 2023 October 11, 2023 September 25, 2023 August 28, 2023 August 24, 2023 August 14, 2023 July 27, 2023 July 12, 2023 June 29, 2023 June 22, 2023 June 13, 2023 June 7, 2023 June 5, 2023 June 1, 2023 May 16, 2023 May 10, 2023 May 8, 2023 May 2, 2023 April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
