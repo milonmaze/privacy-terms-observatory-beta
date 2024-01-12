@@ -1,5 +1,4 @@
 Cookies Policy
-The policy below goes into effect on December 12, 2023. Read our current policy.
 Explore the policy
 What are cookies, and what does this policy cover?
 Why do we use cookies?
