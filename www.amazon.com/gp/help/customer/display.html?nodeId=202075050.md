@@ -47,6 +47,7 @@ Interest-Based Ads
 EU-US and Swiss-US Data Privacy Framework
 About Cookies
 California Supply Chain Transparency Act Statement
+Human Rights and Environmental Complaints
 Law Enforcement Information Requests
 Request Your Personal Information
 Communications from Amazon.com
