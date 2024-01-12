@@ -78,7 +78,7 @@ United Nations Guiding Principles
 
 Microsoft was among the first companies to align our human rights work with the UN Guiding Principles on Business and Human Rights and to adopt the UN Guiding Principles Reporting Framework.
 
-View the UN Guiding Principles on Business and Human Rights Download the Microsoft Annual Human Rights Report (PDF)
+View the UN Guiding Principles on Business and Human Rights View the Microsoft Human Rights Report (PDF)
 Sustainable Development Goals
 
 We're actively engaged in supporting the UN Sustainable Development Goals and publicly report how Microsoft contributes to the global effort to achieve the SDGs.
