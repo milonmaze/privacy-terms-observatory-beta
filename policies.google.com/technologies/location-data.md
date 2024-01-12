@@ -98,6 +98,9 @@ Some apps need access to your device location in the background, such as Find My
 For more information on how location works on your Android device, see here.
 
 How are Location History and Web & App Activity saved in my Google Account?
+
+Over the coming months and continuing in 2024, the Location History setting will change. Current Location History users are being notified when this change affects their account and, once they are notified, they will begin seeing the name Timeline in their account and app settings. For those already using Timeline, including users who turned on Timeline directly, the information provided in this page about location data in Location History applies to their use of Timeline. Learn more.
+
 Location History and Web & App Activity
 
 Location History and Web & App Activity are Google Account settings that use location. Here’s an overview of each. Keep in mind, other features or products may also collect or store location information.
@@ -231,6 +234,7 @@ Dansk
 Deutsch
 Eesti
 English
+English (India)
 English (United Kingdom)
 Español
 Español (Latinoamérica)
