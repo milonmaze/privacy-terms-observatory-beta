@@ -1,3 +1,4 @@
+Sign in
 Extensions
 Chrome Web Store - Program Policies
 Program Policies
