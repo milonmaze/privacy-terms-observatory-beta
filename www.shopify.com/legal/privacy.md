@@ -1,8 +1,10 @@
+Skip to Content
+
+UPDATED MARCH 2, 2023
+
 Privacy Policy
 
 How Shopify handles your data
-
-Updated March 2, 2023
 
 Introduction
 
@@ -20,11 +22,11 @@ Our values
 
 Trust is the foundation of the Shopify platform and includes trusting us to do the right thing with your information. Three main values guide us as we develop our products and services. These values should help you better understand how we think about your information and privacy.
 
-Your information belongs to you
+ Your information belongs to you
 
 We carefully analyze what types of information we need to provide our services, and we try to limit the information we collect to only what we really need. Where possible, we delete or anonymize this information when we no longer need it. When building and improving our products, our engineers work closely with our privacy and security teams to build with privacy in mind. In all of this work our guiding principle is that your information belongs to you, and we aim to only use your information to your benefit.
 
-We protect your information from others
+ We protect your information from others
 
 If a third party requests your personal information, we will refuse to share it unless you give us permission or we are legally required. When we are legally required to share your personal information, we will tell you in advance, unless we are legally forbidden.
 
@@ -88,7 +90,7 @@ One of the ways in which we are able to help merchants using Shopify is by using
 
 How we protect your information
 
-Our teams work tirelessly to protect your information, and to ensure the security and integrity of our platform. We also have independent auditors assess the security of our data storage and systems that process financial information. However, we all know that no method of transmission over the Internet, and method of electronic storage, can be 100% secure. This means we cannot guarantee the absolute security of your personal information. You can find more information about our security measures at https://www.shopify.com/security.
+Our teams work tirelessly to protect your information, and to ensure the security and integrity of our platform. We also have independent auditors assess the security of our data storage and systems that process financial information. However, we all know that no method of transmission over the Internet, and method of electronic storage, can be 100% secure. This means we cannot guarantee the absolute security of your personal information. You can find more information about our security measures at /security.
 
 How we use “cookies” and other tracking technologies
 
@@ -102,22 +104,16 @@ If you are a merchant, partner, Shop user, Shopify employee, website visitor or 
 
 If you have questions about how a merchant or store processes your personal information, you should contact the merchant or visit their privacy policy.
 
-Shopify Inc.
+Shopify Commerce Singapore Pte. Ltd.
+Attn: Data Protection Officer
+77 Robinson Road,
+#13-00 Robinson 77,
+Singapore 068896
 
-
-ATTN: Chief Privacy Officer
-151 O’Connor Street
-Ground floor,
-Ottawa, ON K2P 2L8
-Canada
-
-   
 
 If you are located in the EEA, the UK, the Middle East, South America, or Africa:
 
 Shopify International Ltd.
-
-
 Attn: Data Protection Officer
 c/o Intertrust Ireland
 2nd Floor 1-2 Victoria Buildings
@@ -125,17 +121,15 @@ Haddington Road
 Dublin 4, D04 XN32
 Ireland
 
-   
 
 If you are located in Asia, Australia, or New Zealand:
 
 Shopify Commerce Singapore Pte. Ltd.
-
-
 Attn: Data Protection Officer
 77 Robinson Road,
 #13-00 Robinson 77,
 Singapore 068896
+
 
 United States Regional Privacy Notice
 
@@ -151,44 +145,28 @@ We do not “sell” your personal information as that term is defined under US 
 
 Here is a summary of the categories of personal information we may have collected about you over the past 12 months and with whom we may have disclosed that information to, depending on how you use Shopify.
 
-Categories of personal information collected	Recipients of personal information
-
+CATEGORIES OF PERSONAL INFORMATION COLLECTED	RECIPIENTS OF PERSONAL INFORMATION
 
 Identifiers, including name, email address, mailing address, phone number;
-
 Personal information categories listed in the California Customer Records statute, including name, mailing and billing address, phone number, credit or debit card information;
-
 Commercial information, including products you purchase, place in your shopping cart, favorite or review (if you are a customer) and information you provide us about you and your business (if you are a merchant);
-
 Photos and videos, which may include face imagery, if you choose to provide them.
-
 Internet or other electronic network activity information, including information regarding the device and browser you use, network connection, IP address, and how you browse through our apps and sites;
-
 Geolocation data, including your mailing and billing address;
-
 Inferences, or information derived from other personal information about you, which could include your preferences, interests, and other information used to personalize your experience;
-
 Other information you provide; and
-
 Sensitive personal information, which may include:
-
 Government-issued identifiers, including social security, driver’s license, state identification card, or passport number;
 Your account access credentials (such as account log-in, financial account, debit or credit card number in combination with any required security access code, password, or credentials allowing access to an account);
 Your device’s precise location (if you are a Shop App user, but only when you allow Shop to access this information);
 Information you voluntarily disclose that may reveal certain characteristics about you such as your racial or ethnic origin or sexual orientation
 The contents of email messages in the email inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history (if you use Shop).
 	
-
 Companies who help us provide you with our services, including cloud storage providers, payment processors, fulfillment partners, security vendors, email providers, marketplaces and data analytics vendors;
-
 Advertisers and marketing vendors;
-
 Merchants whose shops you visit or make purchases from;
-
 Partners who provide a range of services to merchants, such as by developing apps or themes for use by merchants, serving as an affiliate that refers potential merchants to us, or helping merchants build or manage stores;
-
 Law enforcement or other third parties in connection with legal requests, to comply with applicable law or to prevent harm.
-
 Why we collect and share your Personal Information
 
 We use and share your personal information for the purposes set out in the Shopify Privacy Policies. For categories of sensitive personal information that we collect, we only use or disclose such information either with your specific consent when required, or as otherwise permitted by law.
