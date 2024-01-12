@@ -31,7 +31,7 @@ Cloudflare has never weakened, compromised, or subverted any of its encryption a
 
 If Cloudflare were asked to do any of these, we would exhaust all legal remedies, in order to protect our customers from what we believe are illegal or unconstitutional requests.
 
-Accurate as of November 26, 2023
+Accurate as of December 13, 2023
 
 BACKGROUND ON THE DATA
 
