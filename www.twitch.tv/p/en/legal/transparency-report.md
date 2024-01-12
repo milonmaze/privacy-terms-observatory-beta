@@ -383,4 +383,4 @@ Ad Choices
 Cookie Policy
 Partners
 Affiliates
-© 2023 Twitch Interactive, Inc.
+© 2024 Twitch Interactive, Inc.
