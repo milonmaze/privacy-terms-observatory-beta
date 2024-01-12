@@ -60,6 +60,8 @@ Ripoarisch
  
 Scots
  
+Simple English
+ 
 Soomaaliga
  
 Tiếng Việt
