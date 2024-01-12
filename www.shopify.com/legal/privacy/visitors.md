@@ -1,3 +1,4 @@
+Skip to Content
 Privacy for Shopify Visitors
 
 For people who visit Shopify’s websites or contact Shopify support
@@ -10,39 +11,23 @@ What information we collect about you and why
 
 We collect the following personal information about you when you visit one of our websites or contact Shopify support. We process your personal data in order to perform our contract with you or because it is in our legitimate interests to maintain our business relationship, prevent risk and fraud, provide effective services to you, improve our products and services, and to be responsive to you. In some cases, we only process your personal information with your consent.
 
-What we collect	How we use it
-
-
-Information about you that you provide us about yourself, like your name, address, email address, and phone number.
-
-	
+WHAT WE COLLECT	HOW WE USE IT
+Information about you that you provide us about yourself, like your name, address, email address, and phone number.	
 To provide you use of, and to improve, the app or service you are trying to use (e.g., to confirm your identity, to contact you about issues with the platform, to invoice you)
 To verify that we are speaking with you
 To advertise and market products or features to you
 To comply with legal requirements
 
-
-
-Payment information you provide us, such as your payment card number or bank account number.
-
-	
+Payment information you provide us, such as your payment card number or bank account number.	
 To enable you to make a payment
 
-
-
-Information about how you access and use Shopify apps, websites, and other services, including information about the device and browser you use, your network connection, your IP address, and details about how you browse through our apps and sites, including search terms you may enter. We collect some of this information by using “cookies” or other similar technologies directly from your device. For more information about how we use these technologies, see our Cookie Policy.
-
-	
+Information about how you access and use Shopify apps, websites, and other services, including information about the device and browser you use, your network connection, your IP address, and details about how you browse through our apps and sites, including search terms you may enter. We collect some of this information by using “cookies” or other similar technologies directly from your device. For more information about how we use these technologies, see our Cookie Policy.	
 To provide you use of, and to improve, our websites and related services (e.g., identifying ways to make our platform easier to use or navigate)
 To personalize your experience using our websites (e.g., by changing the layout of our webpages)
 To advertise and market products or features to you
 To provide app developers aggregated analytics relating to their app listing on Shopify’s App Store
 
-
-
-Copies of your government-issued identification.
-
-	
+Copies of your government-issued identification.	
 To verify that we are speaking with you if you contact us
 To comply with other legal requirements
 When and why we share your information with others
