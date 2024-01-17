@@ -30,7 +30,7 @@ Your location information can help Google show you more relevant ads. When you s
 
 To make experiences more secure
 
-Google uses information about the general area that you’re in to provide some basic services, such as keeping your account safe by detecting unusual activity, or a sign-in from a new city.
+Google uses information about your location to provide some basic services, such as keeping your account safe by detecting unusual activity, or a sign-in from a new city.
 
 To show anonymous community trends, estimates, and for research
 
@@ -82,7 +82,7 @@ If you’re not signed in to your Google Account, Google may store some location
 
 From home or work addresses you saved
 
-You might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work.
+You might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and to show you more useful ads.
 
 You can edit or delete your home or work addresses anytime in your Google Account.
 
