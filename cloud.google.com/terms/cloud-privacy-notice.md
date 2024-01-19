@@ -4,7 +4,7 @@ Start free
 Register now for Google Cloud Next '24 in Las Vegas April 9-11 to take advantage of early bird pricing of $999 USD.
 Google Cloud Privacy Notice
 
-Effective Date: August 21, 2023
+Effective Date: January 18, 2024
 
 This Google Cloud Privacy Notice describes how we collect and process your personal information in relation to Google Workspace (including Google Workspace for Education), Google Cloud Platform, Google Cloud Marketplace, Cloud Identity (when sold separately) and Implementation Services (together, “Cloud Services”).
 
@@ -14,5 +14,5 @@ If European Union (EU), UK or Swiss data protection law applies to the processin
 
 If your organization has entered into our Google Workspace for Education Service Data Addendum, please review the Supplemental Google Cloud Privacy Notice together with this notice.
 
-PREVIOUS VERSIONS (Last modified August 21, 2023)
-June 30, 2023 January 25, 2023 December 14, 2022 November 15, 2022 April 20, 2022 December 7, 2021 May 30, 2021 December 7, 2020 November 12, 2020
+PREVIOUS VERSIONS (Last modified January 18, 2024)
+August 21, 2023 June 30, 2023 January 25, 2023 December 14, 2022 November 15, 2022 April 20, 2022 December 7, 2021 May 30, 2021 December 7, 2020 November 12, 2020
