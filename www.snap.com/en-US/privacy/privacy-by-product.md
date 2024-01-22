@@ -58,8 +58,7 @@ Memories
 Memories makes it easy to look back on Snaps you’ve saved and even edit and resend them!
 Memories was developed with privacy and security in mind. Early on, we recognized that just because you want to be able to look back on something, doesn’t mean that you want everyone else to be able to, too!
 After all, diaries and photo albums exist for a reason — they’re something private you keep to look back on a memory, or share them with someone special. That’s why only you can view your own Memories!
-Keeping Memories backed up online helps keep them from being lost, but that shouldn’t mean you have to sacrifice your privacy or security. That’s why we made “My Eyes Only,” which lets you keep your Snaps safe and encrypted, and protected behind a password you choose. That way, even if someone steals your device and logs in to Snapchat somehow, those private Snaps are still safe.
-Without the password, no one can view the things you’ve saved to My Eyes Only — not even us! Be careful, though, because if you forget your password, there’s no way to recover those encrypted Snaps.
+Keeping Memories backed up online helps keep them from being lost, but that shouldn’t mean you have to sacrifice your privacy or security. That’s why we made “My Eyes Only,” which lets you keep your Snaps safe and encrypted, and protected behind a password you choose. That way, even if someone steals your device and logs in to Snapchat somehow, those private Snaps are still safe. Without the password, no one can view the things that are saved in My Eyes Only — not even us! Be careful, though, because if you forget your password, there’s no way to recover those encrypted Snaps.
 How to Use Memories
 
 Lenses
