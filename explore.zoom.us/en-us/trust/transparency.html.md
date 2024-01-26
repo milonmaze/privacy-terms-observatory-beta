@@ -12,9 +12,9 @@ Definitions
 Data Set
 Overview
 
-Released: July 7, 2023
+Released: Jan 25, 2024
 
-We are pleased to offer our transparency report for January 1, 2023, through June 30, 2023. This report provides insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. At Zoom, transparency is critical to building trust and fostering the free and open exchange of ideas.
+We are pleased to offer our transparency report for July 1, 2023, through December 31, 2023. This report provides insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. At Zoom, transparency is critical to building trust and fostering the free and open exchange of ideas.
 
 As detailed in Zoom’s Privacy Statement and in line with our commitment to user privacy, user data is only provided to governments in response to valid and lawful requests that adhere to our Government Requests Guide.
 
@@ -22,7 +22,7 @@ Zoom employs a three-pronged approach to handling government requests: (1) our G
 
 On the back end, we have a centralized system for tracking requests, and we categorize the data associated with each request in our case management system. With the help of our policy team, we have also developed internal guidelines and quality control processes that govern our work. All of these features were built with an eye toward transparent reporting.
 
-This updated transparency report adheres to relevant legal requirements and provides a summary of the requests we have processed from January 1, 2023, through June 30, 2023, as well as information on our responses.
+This updated transparency report adheres to relevant legal requirements and provides a summary of the requests we have processed from July 1, 2023, through December 31, 2023, as well as information on our responses.
 
 U.S. Requests
 
@@ -30,7 +30,7 @@ U.S. requests to Zoom can come in the form of search warrants, subpoenas (grand 
 
 Delayed-notice orders (U.S. only)
 
-In this period, 54 out of 142 U.S. requests were accompanied by a valid delayed-notice order.
+In this period, 67 out of 199 U.S. requests were accompanied by a valid delayed-notice order.
 
 National Security Letters (NSLs) are national security requests approved by the Federal Bureau of Investigation that require companies to disclose limited information about a user’s identity, which does not cover content.
 
@@ -39,18 +39,21 @@ The table below provides the number of NSLs Zoom received (in bands of 500 start
 Reporting Period	Number of NSLs	Number of Customer Selectors Targeted by NSLs
 Jul 2022 – Dec 2022	0–500	0–500
 Jan 2023 – Jun 2023	0–500	0–500
+Jul 2023 – Dec 2023	0–500	0–500
 
  
 
 Reporting Period	Combined Number of National Security Orders or Directives for Content	Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Content Received
 Jul 2022 – Dec 2022	0–500	0–500
 Jan 2023 – Jun 2023	0–500	0–500
+Jul 2023 – Dec 2023	0–500	0–500
 
  
 
 Reporting Period	Combined Number of National Security Orders or Directives for Non-Content	Combined Number of Customer Selectors Targeted Under National Security Orders or Directives for Non-Content
 Jul 2022 – Dec 2022	0–500	0–500
 Jan 2023 – Jun 2023	0–500	0–500
+Jul 2023 – Dec 2023	0–500	0–500
 International Requests
 
 Zoom receives law enforcement requests from around the globe. We screen each international (non-U.S.) request carefully to ensure that we only respond to legally valid and appropriately scoped requests. We do not provide any content internationally without process under mutual legal assistance treaties (MLATs), the U.S. Clarifying Lawful Overseas Use of Data (CLOUD) Act, or letters rogatory.
