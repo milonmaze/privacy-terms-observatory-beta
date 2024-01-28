@@ -1,6 +1,6 @@
 Cloudflare Cookie Policy
 
-Last Updated: January 26, 2023
+Last Updated: October 19, 2023
 
 This Cloudflare Cookie Policy (“Policy”) outlines the general policy, practices, and types of cookies that Cloudflare, Inc. (“Cloudflare,” “we,” “us,” or “our”) may use to improve our Services and your experience when visiting our Websites. For the purposes of this Policy, capitalized terms used but not defined in this Policy have the meanings given in our Privacy Policy.
 
@@ -10,7 +10,7 @@ Cookies are small pieces of text used to store information on web browsers. They
 
 We also may include tracking pixels, which are small graphic images, in our marketing communications to determine engagement. These cookies may be set by us or by third parties with whom we have partnered to assist in our marketing efforts. We may also use our Zaraz product in connection with certain third-party tools on our Websites. Zaraz loads third-party tools in the cloud using the Cloudflare network, as opposed to running third-party scripts in an end user’s browsers, and improves the speed and security of websites while offering greater control over the data that third-party tools access. While Zaraz prevents the third-party scripts from loading on your browser, in some cases you may still see third-party cookies that are associated with these third-party tools placed on your devices (subject to your consent). This allows the third-party tools to function properly.
 
-We use four categories of cookies: Strictly Necessary, Functional, Performance, and Targeting. Strictly Necessary cookies are required to deliver security and enable core site functionality and cannot be turned off. You may view a complete list of cookies and change your cookie preferences by clicking on the “Cookie Preferences” or “Do Not Sell or Share My Personal Information” links in the footer of the Cloudflare homepage at cloudflare.com.
+We use four categories of cookies: Strictly Necessary, Functional, Performance, and Targeting. Strictly Necessary cookies are required to deliver security and enable core site functionality and cannot be turned off. You may view a complete list of cookies and change your cookie preferences by clicking on the “Cookie Preferences” link (or, in the United States, the “Your Privacy Choices” link) in the footer of the Cloudflare homepage at cloudflare.com.
 
 Most web browsers are set to accept cookies by default, however, you may be able to delete cookies yourself through your browser’s cookie manager. To do so, please follow the instructions provided by your web browser. Please note that disabling cookies will reset your session, disable auto-login, and may adversely affect the availability and functionality of our Websites and the services we can provide to you.
 
@@ -18,7 +18,7 @@ Strictly Necessary Cookies.
 
 Strictly Necessary cookies are essential to providing the Cloudflare Websites and Services to you and cannot be turned off. They provide necessary security settings or help you use our Websites’ features and Services as expected (including remembering your cookie consent preferences). Cloudflare places Strictly Necessary cookies both on Cloudflare Websites as well as on our Customers’ websites.
 
-For example, when you visit our Websites or our Customers’ websites, as part of our Services, we may place bot detection cookies (such as "_cf_bm"), cookies for CAPTCHA products (like cf_chl_prog, cf_clearance, cf_chl_cc_XXX, cf_chl_seq_XXX, cf_chl_rc_i and cf_chl_rc_ni), and a load balancing cookie (_cflb) on the computers of visitors to our Websites and of our End Users. We do this in order to identify malicious visitors to our Websites and our Customers’ websites, to assist with web-traffic filtration, and to reduce the chance of blocking legitimate users. You can learn more about these cookies [here]. You cannot turn off Strictly Necessary cookies.
+For example, when you visit our Websites or our Customers’ websites, as part of our Services, we may place bot detection cookies (such as "_cf_bm"), cookies for CAPTCHA products (like cf_clearance, cf_chl_rc_i and cf_chl_rc_ni), and a load balancing cookie (_cflb) on the computers of visitors to our Websites and of our End Users. We do this in order to identify malicious visitors to our Websites and our Customers’ websites, to assist with web-traffic filtration, and to reduce the chance of blocking legitimate users. You can learn more about these cookies [here]. You cannot turn off Strictly Necessary cookies.
 
 Functional Cookies.
 
@@ -26,7 +26,7 @@ Functional cookies allow us to remember choices you make about the kind of exper
 
 Performance.
 
-Performance cookies help us learn how you use our Websites to help improve their performance and design. These cookies provide us with aggregated statistical information such as number of page visits, page load speeds, how long a user spends on a particular page, and the types of browsers or devices used to access our Websites. For example, we may use cookies to understand what pages you browsed before submitting a sales request form. You may opt out of these cookies through the Cookie Preferences link on cloudflare.com or through the links listed below.
+Performance cookies help us learn how you use our Websites to help improve their performance and design. These cookies provide us with aggregated statistical information such as number of page visits, page load speeds, how long a user spends on a particular page, and the types of browsers or devices used to access our Websites. For example, we may use cookies to understand what pages you browsed before submitting a sales request form. You may opt out of these cookies through the “Cookie Preferences” (or, in the United States, the “Your Privacy Choices” link) on cloudflare.com or through the links listed below.
 
 Some of the Performance cookies we use are:
 
@@ -48,7 +48,7 @@ Cloudflare does not sell your Personal Information in the conventional sense (i.
 
 We do not sell, rent, or share personal information with third parties for their direct marketing purposes as defined under the California Shine the Light Act (Civil Code Sec. 1798.83). We do permit third parties to collect personal information as described in our Privacy Policy for the business purposes described here.
 
-You may opt out of Targeting cookies through the "Cookie Preferences" or “Do Not Sell or Share My Personal Information” links on cloudflare.com or through the links listed below. If you wish to opt-out of cookies that collect information to serve you interest-based ads generally, you may opt-out by clicking here (or if located in the European Union or United Kingdom, click here).
+You may opt out of Targeting cookies through the "Cookie Preferences" (or, in the United States, the “Your Privacy Choices” link) on cloudflare.com or through the links listed below. If you wish to opt-out of cookies that collect information to serve you interest-based ads generally, you may opt-out by clicking here (or if located in the European Union or United Kingdom, click here).
 
 Some of the Targeting cookies we use are:
 
@@ -115,24 +115,27 @@ USA
 Attention: Data Protection Officer
 privacyquestions@cloudflare.com
 
-Sales
-
-Enterprise Sales
-Become a Partner
-Contact Sales:
-+1 (888) 99 FLARE
-
 Getting Started
 
-Community
+Free plans
+For enterprises
+Compare plans
+Get a recommendation
+Request a demo
+Contact sales
++1 (888) 99 FLARE
 
-Developers
+Resources
+
+Solutions
+
+Community
 
 Support
 
 Company
 
-© 2023 Cloudflare, Inc.
+© 2024 Cloudflare, Inc.
 Privacy Policy
 Terms of Use
 Report Security Issues
