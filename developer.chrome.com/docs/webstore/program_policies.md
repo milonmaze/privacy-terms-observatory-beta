@@ -63,7 +63,7 @@ Developers are critical partners in maintaining a great user experience in the C
 looks_one
 Feature Products
 looks_two
-Scam and Abuse
+Spam and Abuse
 looks_3
 Quality Guidelines
 looks_4
@@ -75,7 +75,7 @@ Chrome Apps
 description
 Product Ranking Info
 description
-Scam Policy FAQ
+Spam Policy FAQ
 description
 Extensions Quality Guidelines FAQ
 Technical Requirements
