@@ -69,7 +69,6 @@ About Find My
 Amazon Sidewalk Privacy and Security Whitepaper
 Alexa Guard - Sounds of Activity
 Legal & Compliance
-Inactive Child Profile Data Deletion
 Children's Privacy Disclosure
 Learn How We Use Alexa Geolocation Data and How to Delete It
 Fire Phone Terms
