@@ -2,6 +2,7 @@ Privacy Governance
 
 Apple is committed to respecting human rights, including the right to privacy and freedom of information and expression. Our Human Rights Policy governs how we treat everyone — from our customers and teams to our business partners and people at every level of our supply chain.
 
+
 At Apple, we design our products and services according to the principle of privacy by default and collect only the minimum amount of data necessary to provide our users with a product or service. We provide one version of our software to our users. When we do collect that data, we retain it for only so long as necessary to fulfill the purposes for which it was collected, including as described in our Privacy Policy or in our service-specific privacy notices, or as required by law.
 
 We also deploy industry-leading consent mechanisms to allow our customers to choose whether to share data such as their Location, Contacts, Reminders, Photos, Bluetooth Sharing, Microphone, Speech Recognition, Camera, Health, HomeKit, Media & Apple Music, and Motion & Fitness Data, and more with apps.
