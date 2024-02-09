@@ -1,5 +1,6 @@
 Privacy Center
 Make the privacy choices that are right for you. Learn how to manage and control your privacy on Facebook, Instagram, Messenger, and other Meta Products.
+Explore Guides
 Safety
 Protecting yourself and your information
 Get started
