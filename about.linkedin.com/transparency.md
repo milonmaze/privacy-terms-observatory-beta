@@ -8,13 +8,6 @@ We work to keep LinkedIn safe, trusted, and professional. We provide our members
 Community Report
 
 
-How we enforce our User Agreement and Professional Community Policies for our members globally.
-
-Go to report
-
-Community Report
-
-
 
 
 How we enforce our User Agreement and Professional Community Policies for our members globally.
@@ -65,6 +58,17 @@ Layers of protection help us detect and remove inappropriate content.
 
 Read blog post →
 
+Member Data Portability
+
+
+
+
+Learn about how members can access their LinkedIn data.
+
+
+
+Go to Help Center →
+
 Misinformation and inauthentic behavior
 
 
@@ -78,7 +82,6 @@ Keeping your feed relevant and productive
 
 
 Investments we’ve made in the feed content experience.
-
 
 
 Read blog post  →
