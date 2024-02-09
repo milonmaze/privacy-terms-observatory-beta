@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective January 15, 2024 | Archived versions | Download PDF
+Effective February 8, 2024 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -387,7 +387,7 @@ Auditing and measurement: Google uses information for analytics and measurement 
 
 Maintaining our services: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.
 
-Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Bard, and Cloud AI capabilities.
+Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities.
 
 Use of service providers: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support.
 
