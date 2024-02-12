@@ -1,8 +1,5 @@
 Jump to content
-
-You are invited to celebrate Wikipedia Day in Los Angeles on Saturday, February 17!
-Sign up here.
-
+Photograph your local culture, help Wikipedia and win!
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
