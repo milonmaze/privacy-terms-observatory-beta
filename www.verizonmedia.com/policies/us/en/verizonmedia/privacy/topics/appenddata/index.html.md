@@ -6,7 +6,6 @@ Information Collection & Use Practices
 We may obtain information from our partners and append it to our existing user information to better understand users’ interests and to provide more relevant content and advertising. These partners may include:
 Acxiom
 BlueKai
-Audience Partners
 comScore
 Cuebiq
 Epsilon
