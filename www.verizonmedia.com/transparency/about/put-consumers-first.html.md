@@ -6,9 +6,10 @@ We are committed to transparency. As part of this commitment, we publish informa
  Government Data 
  Removal Data 
  CSAM Report 
+ EU Digital Services Act 
 About
 
  Consumers First 
  Global Principles 
- FAQs & Glossary 
+ FAQs & Glossary - government requests 
  Other Resources 
