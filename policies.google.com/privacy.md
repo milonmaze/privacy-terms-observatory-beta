@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective February 8, 2024 | Archived versions | Download PDF
+Effective March 4, 2024 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -31,7 +31,7 @@ Google apps, sites, and devices, like Search, YouTube, and Google Home
 Platforms like the Chrome browser and Android operating system
 Products that are integrated into third-party apps and sites, like ads, analytics, and embedded Google Maps
 
-You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content like emails and photos, or see more relevant search results. And you can use many Google services when you’re signed out or without creating an account at all, like searching on Google or watching YouTube videos. You can also choose to browse the web in a private mode, like Chrome Incognito mode. And across our services, you can adjust your privacy settings to control what we collect and how your information is used.
+You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content like emails and photos, or see more relevant search results. And you can use many Google services when you’re signed out or without creating an account at all, like searching on Google or watching YouTube videos. You can also choose to browse the web in a private mode, like Chrome Incognito mode, which helps keep your browsing private from other people who use your device. And across our services, you can adjust your privacy settings to control whether we collect some types of data and how we use it.
 
 To help explain things as clearly as possible, we’ve added examples, explanatory videos, and definitions for key terms. And if you have any questions about this Privacy Policy, you can contact us.
 
@@ -116,9 +116,9 @@ We use the information we collect in existing services to help us develop new on
 
 Provide personalized services, including content and ads
 
-We use the information we collect to customize our services for you, including providing recommendations, personalized content, and customized search results. For example, Security Checkup provides security tips adapted to how you use Google products. And Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
+We use the information we collect to customize our services for you, including providing recommendations, personalized content, and customized search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
 
-Depending on your settings, we may also show you personalized ads based on your interests. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.
+Depending on your settings, we may also show you personalized ads based on your interests and activity across Google services. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.
 
 We don’t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
 We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
@@ -140,7 +140,7 @@ We use information to help improve the safety and reliability of our services. T
 
 We use different technologies to process your information for these purposes. We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services. And we analyze your content to help us detect abuse such as spam, malware, and illegal content. We also use algorithms to recognize patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.
 
-We may combine the information we collect among our services and across your devices for the purposes described above. For example, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
+We may use the information we collect across our services and across your devices for the purposes described above. For example, depending on your available settings, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
 
 If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify an email coming from you, for example.
 
@@ -269,12 +269,12 @@ We provide personal information to our affiliates and other trusted businesses o
 
 For legal reasons
 
-We will share personal information outside of Google if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:
+We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to:
 
-Meet any applicable law, regulation, legal process, or enforceable governmental request. We share information about the number and type of requests we receive from governments in our Transparency Report.
+Respond to any applicable law, regulation,legal process, or enforceable governmental request. We share information about the number and type of requests we receive from governments in our Transparency Report.
 Enforce applicable Terms of Service, including investigation of potential violations.
 Detect, prevent, or otherwise address fraud, security, or technical issues.
-Protect against harm to the rights, property or safety of Google, our users, or the public as required or permitted by law.
+Protect against harm to the rights, property or safety of Google, our users, or the public.
 
 We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.
 
