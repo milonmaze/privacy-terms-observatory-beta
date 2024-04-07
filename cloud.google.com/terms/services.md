@@ -81,6 +81,8 @@ Network Intelligence Center: Network Intelligence Center is Google Cloud's compr
 
 Network Service Tiers: Network Service Tiers enable you to select different quality networks (tiers) for outbound traffic to the internet: the Standard Tier primarily utilizes third party transit providers while the Premium Tier leverages Google's private backbone and peering surface for outbound data transfer.
 
+Secure Web Proxy (SWP): SWP provides a simple and scalable cloud-first web proxy for cloud workload protection, enabling monitoring, content inspection and granular policy control of web traffic, between Google Cloud hosted workloads and external destinations.
+
 Service Directory: Service Directory is a managed service that offers customers a single place to publish, discover and connect their services in a consistent way, regardless of their environment. Service Directory supports services in Google Cloud, multi-cloud, and on-prem environments and can scale up to thousands of services and endpoints for a single project.
 
 Spectrum Access System: Spectrum Access System enables you to access the Citizens Broadband Radio Service (CBRS) in the United States, the 3.5 GHz band that is available for shared commercial use. You can use Spectrum Access System to register your CBRS devices, manage your CBRS deployments, and access a non-production test environment (if offered).
@@ -237,15 +239,20 @@ Vertex AI Vision: Vertex AI Vision is a service that allows you to easily build,
 
 Generative AI Services
 
-*Duet AI in Google Cloud: Duet AI in Google Cloud provides AI-powered end user assistance with a wide range of Google Cloud products.
+Gemini for Google Cloud (formerly known as Duet AI for Google Cloud): Gemini for Google Cloud provides AI-powered end user assistance with a wide range of Google Cloud products. Gemini for Google Cloud is a generative AI-powered collaboration Service that provides assistance to Google Cloud end users. Gemini for Google Cloud is embedded in many Google Cloud products to provide developers, data scientists, and operators an integrated assistance experience. More details about the AI-assistance available through Gemini for Google Cloud can be found at https://cloud.google.com/gemini/docs/overview.
 
-Vertex AI Search: Allows customers to leverage foundational models and search and recommendation technologies to create multimodal semantic search and question-answering experiences.
+Gemini Code Assist (formerly known as Duet AI for Developers)
 
-Vertex AI Conversation: Allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
+Generative AI on Vertex AI: Generative AI on Vertex AI is any Service with generative AI functionality in Vertex AI, including:
 
-Generative AI on Vertex AI: Generative AI on Vertex AI includes APIs, models, and features for generative AI use cases, including Google’s large language, text-to-image, image-to-text, and multimodal model APIs that are available in Model Garden and Vertex AI Studio.
+Vertex AI API enables customers to access generative AI foundation models via an API.
 
-Generative AI Services also includes any generative AI features of a Service.
+Vertex AI Conversation allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
+Vertex AI Model Garden enables customers to access generative AI foundation models, including large language, text-to-image, image-to-text, and multimodal models.
+Vertex AI Search allows customers to leverage foundational models and search and recommendation technologies to create multimodal semantic search and question-answering experiences.
+Vertex AI Studio is a user interface in the Google Cloud console for rapidly prototyping and testing generative AI models.
+
+Generative AI Services also includes any generative AI features of a Service.
 
 API Management
 
@@ -439,6 +446,14 @@ Google Cloud Platform Premium Software
 
 Below is a list of available software components subject to the Google Cloud Platform Service Specific Terms as Premium Software.
 
+AlloyDB Omni is a downloadable version of AlloyDB that customers can run in their own datacenters, in any cloud, and on developer laptops. It is a PostgreSQL-compatible database with many of the performance and manageability enhancements implemented in AlloyDB in Google Cloud. The Developer Edition of AlloyDB Omni is Google Cloud Platform Software but is not Google Cloud Platform Premium Software.
+
+*Apigee hybrid runtime: Apigee hybrid runtime enables you to run the Apigee runtime plane in containers on Kubernetes within your data center.
+
+*Apigee Private Cloud: Apigee Private Cloud enables you to host and run Apigee entirely within your data center.
+
+Cloud Vision OCR On-Prem: Cloud Vision OCR On-Prem enables you to run Cloud Vision OCR models within your data center and across multiple cloud environments.
+
 GKE Enterprise: GKE Enterprise includes the following Premium Software components:
 
 GKE Enterprise core software: GKE Enterprise core software enables you to run containers on Kubernetes and can be deployed on premises in your own data center (Google Distributed Cloud Virtual), as well as in both private and public clouds.
@@ -446,12 +461,6 @@ Service Mesh - Software: Service Mesh - Software is a suite of tools to run a re
 Identity Service - Software: Identity Service - Software may be downloaded and installed in supported cluster types and environments to let administrators set up authentication with their preferred Identity providers for one or more GKE Enterprise clusters.
 Connect Software: Connect Software may be downloaded and installed in clusters to enable connectivity between the customer-registered cluster and Google Cloud.
 Cloud Logging and Cloud Monitoring for GKE Enterprise: Cloud Logging and Cloud Monitoring can be deployed in a range of hybrid cloud environments to enable centralized log storage, log analysis, metrics capture, metrics trending, customized alerting, and application debug tracing.
-
-*Apigee hybrid runtime: Apigee hybrid runtime enables you to run the Apigee runtime plane in containers on Kubernetes within your data center.
-
-*Apigee Private Cloud: Apigee Private Cloud enables you to host and run Apigee entirely within your data center.
-
-Cloud Vision OCR On-Prem: Cloud Vision OCR On-Prem enables you to run Cloud Vision OCR models within your data center and across multiple cloud environments.
 
 Speech-to-Text On-Prem: Speech-to-Text On-Prem enables you to run Cloud Speech-to-Text models within your data center and across multiple cloud environments.
 
@@ -462,13 +471,13 @@ Google Cloud Platform Software
 Below is a non-exclusive list of available software components subject to the Google Cloud Platform Service Specific Terms as Software.
 
 ABAP SDK for Google Cloud enables native, bi-directional integration between SAP applications and Google Cloud.
-AlloyDB Omni is a downloadable version of AlloyDB that customers can run in their own datacenters, in any cloud, and on developer laptops. It is a PostgreSQL-compatible database with many of the performance and manageability enhancements implemented in AlloyDB in Google Cloud.
 BigQuery Connector for SAP replicates, in connection with SAP Landscape Transformation Replication Server, SAP NetWeaver-based application data changes in near real-time and directly into BigQuery.
+CCAI Connector: CCAI Connector enables enterprise contact centers with on-premise legacy telephony platforms to connect with Dialogflow Essentials, Dialogflow CX, Agent Assist, and Insights.
 Config Connector is a Kubernetes add-on that allows you to manage your Google Cloud resources through Kubernetes configuration files.
 Deep Learning VM and Container: Deep Learning VM and Container provides virtual machine and Docker images with AI frameworks that can be customized and used with Google Kubernetes Engine (GKE), Vertex AI, Cloud Run, Compute Engine, Kubernetes, and Docker Swarm.
 Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and applications hosted on Google Cloud Platform. It includes the Google Cloud Command Line Interface (CLI), Cloud Client Libraries for programmatic access to Google Cloud Platform services, the gsutil, kubectl, and bq command line tools, and various service and data emulators for local platform development. The Google Cloud SDK provides the primary programmatic interfaces to Google Cloud Platform.
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified February 15, 2024)
-February 12, 2024 January 15, 2024 December 20, 2023 December 12, 2023 November 15, 2023 November 01, 2023 October 26, 2023 October 12, 2023 October 11, 2023 September 25, 2023 August 28, 2023 August 24, 2023 August 14, 2023 July 27, 2023 July 12, 2023 June 29, 2023 June 22, 2023 June 13, 2023 June 7, 2023 June 5, 2023 June 1, 2023 May 16, 2023 May 10, 2023 May 8, 2023 May 2, 2023 April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
+PREVIOUS VERSIONS (Last modified March 27, 2024)
+March 18, 2024 March 12, 2024 March 7, 2024 February 26, 2024 February 15, 2024 February 12, 2024 January 15, 2024 December 20, 2023 December 12, 2023 November 15, 2023 November 01, 2023 October 26, 2023 October 12, 2023 October 11, 2023 September 25, 2023 August 28, 2023 August 24, 2023 August 14, 2023 July 27, 2023 July 12, 2023 June 29, 2023 June 22, 2023 June 13, 2023 June 7, 2023 June 5, 2023 June 1, 2023 May 16, 2023 May 10, 2023 May 8, 2023 May 2, 2023 April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
