@@ -1,5 +1,4 @@
 Jump to content
-Photograph your local culture, help Wikipedia and win!
 (Redirected from Privacy policy)
 Translate this page
 Other languages:	
@@ -60,8 +59,6 @@ Qaraqalpaqsha
 Ripoarisch
  
 Scots
- 
-Simple English
  
 Soomaaliga
  
@@ -235,6 +232,8 @@ svenska
  
 ភាសាខ្មែរ
  
+ᱥᱟᱱᱛᱟᱲᱤ
+ 
 中文
  
 日本語
@@ -312,11 +311,11 @@ The Wikimedia movement is founded on a simple, but powerful principle: we can do
 
 We believe that information-gathering and use should go hand-in-hand with transparency. This Privacy Policy explains how the Wikimedia Foundation, the non-profit organization that hosts the Wikimedia Sites, like Wikipedia, collects, uses, and shares information we receive from you through your use of the Wikimedia Sites. It is essential to understand that, by using any of the Wikimedia Sites, you consent to the collection, transfer, processing, storage, disclosure, and use of your information as described in this Privacy Policy. That means that reading this Policy carefully is important.
 
-We believe that you shouldn't have to provide nonpublic Personal Information to participate in the free knowledge movement. You do not have to provide things like your real name, address, or date of birth to sign up for a standard account or contribute content to the Wikimedia Sites.
+We believe that you should not have to provide nonpublic Personal Information to participate in the free knowledge movement. You do not have to provide things like your real name, address, or date of birth to sign up for a standard account or contribute content to the Wikimedia Sites.
 
 We do not sell or rent your Personal Information, nor do we give it to others to sell you anything. We use it to figure out how to make the Wikimedia Sites more engaging and accessible, to see which ideas work, and to make learning and contributing more fun. Put simply: we use this information to make the Wikimedia Sites better for you.
 
-After all, it's people like you, the champions of free knowledge, who make it possible for the Wikimedia Sites to not only exist, but also grow and thrive.
+After all, it is people like you, the champions of free knowledge, who make it possible for the Wikimedia Sites to not only exist, but also grow and thrive.
 
 Definitions
 Back to top 
@@ -332,7 +331,7 @@ Because everyone (not just lawyers) should be able to easily understand how and 
 
 When we say...	...we mean:
 "the Wikimedia Foundation" / "the Foundation" / "we" / "us" / "our"	The Wikimedia Foundation, Inc., the non-profit organization that operates the Wikimedia Sites.
-"Wikimedia Sites" / "our services"	Wikimedia websites and services (regardless of language), including our main projects, such as Wikipedia and Wikimedia Commons, as well as mobile applications, Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below.
+"Wikimedia Sites" / "our services"	Wikimedia websites and services (regardless of language), including our main projects, such as Wikipedia and Wikimedia Commons, as well as mobile applications, Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Does Not Cover" section below.
 "you" / "your" / "me"	You, regardless of whether you are an individual, group, or organization, and regardless of whether you are using the Wikimedia Sites or our services on behalf of yourself or someone else.
 "this Policy" / "this Privacy Policy"	This document, entitled the "Wikimedia Foundation Privacy Policy".
 "contributions"	Content you add or changes you make to any Wikimedia Sites.
@@ -383,16 +382,16 @@ If you do create an account, you do not need to give us your name or email addre
 
 If you do not create an account, your contributions will be publicly attributed to your IP address.
 
-Want to create an account? Great! Don't want to create an account? No problem!
+Want to create an account? Great! Do not want to create an account? No problem!
 
 You are not required to create an account to read or contribute to a Wikimedia Site, except under rare circumstances. However, if you contribute without signing in, your contribution will be publicly attributed to the IP address associated with your device.
 
-If you want to create a standard account, in most cases we require only a username and a password. However, if you choose not to provide an email address, we can't help you recover your password.
+If you want to create a standard account, in most cases we require only a username and a password. However, if you choose not to provide an email address, we cannot help you recover your password.
 
 Expand
 More on Usernames
 
-To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you don't want to, you don't have to—it's as simple as that.
+To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you do not want to, you do not have to—it is as simple as that.
 
 Back to top 
 
@@ -544,7 +543,7 @@ We, or particular users with certain administrative rights as described below, n
 
 Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our Access to nonpublic personal data policy. These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the Wikimedia Foundation.
 
-We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. (Check out the list of examples in our FAQ for more information.)
+We hope that this never comes up, but we may disclose your Personal Information if we believe that it is reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. (Check out the list of examples in our FAQ for more information.)
 
 Back to top 
 
@@ -587,7 +586,7 @@ How Do We Protect Your Personal Information?
 
 We use a variety of physical and technical measures, policies, and procedures to help protect your Personal Information from unauthorized access, use, or disclosure.
 
-We strive to protect your Personal Information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your Personal Information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we can't guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
+We strive to protect your Personal Information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your Personal Information. Unfortunately, there is no such thing as completely secure data transmission or storage, so we cannot guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
 
 We will never ask for your password by email (but may send you a temporary password via email if you have requested a password reset). If you ever receive an email that requests your password, please let us know by sending it to privacy@wikimedia.org, so we can investigate the source of the email.
 
