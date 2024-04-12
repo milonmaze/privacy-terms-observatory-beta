@@ -1,39 +1,25 @@
 Privacy Center
 Make the privacy choices that are right for you. Learn how to manage and control your privacy on Facebook, Instagram, Messenger, and other Meta Products.
-Explore Guides
-Safety
-Protecting yourself and your information
-Get started
+We build privacy into our products
+Privacy Checkup
+Tools like Privacy Checkup make it easy for you to take control of your privacy.
+Private messaging
+Our messaging products offer end-to-end encryption so your conversations stay safe and secure.
+Teen privacy
+Our default settings on Facebook and Instagram help keep teens’ accounts private.
+Ads education
+We show different factors that contribute to why you saw an ad and give you options to see more ads you like.
+Privacy topics
+Get answers to your privacy questions and manage your privacy in a way that’s right for you.
+Information
+Review and manage your information across your accounts
 Generative AI
 Generative AI at Meta
-Get started
-Sharing
-Control who can see what you share on Meta
-Get started
-Security
-Keeping your information secure protects your privacy
-Get started
-Collection
-What we collect, and what you can do
-Get started
-Use
-Learn how we use your information
-Get started
-Ads
-You have options to manage the ads you see on Facebook
-Get started
-Teens
-Teen privacy explained
-Get started
+Safety
+Manage what you share to feel safer using our products
 Location
-Learn about your location privacy
-Get started
-Activity
-Everything you need to know about your activity
-Get started
-Information
-Manage information across your activity and accounts
-Get started
+Learn how to manage your location
+View all topics
 Learn more in the Privacy Policy
 What is the Privacy Policy and what does it cover?
 Privacy Policy
