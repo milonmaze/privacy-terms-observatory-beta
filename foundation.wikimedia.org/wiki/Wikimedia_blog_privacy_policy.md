@@ -1,12 +1,7 @@
 Jump to content
-
-You are invited to celebrate Wikipedia Day in Los Angeles on Saturday, February 17!
-Sign up here.
-
 (Redirected from Wikimedia blog privacy policy)
 	
-
-Please note: This page is kept for historical reasons and may be out-of-date or inaccurate.
+Please note: This page is kept for historical reasons. It is no longer being maintained and may be out-of-date or inaccurate.
 
 Welcome!
 
@@ -123,4 +118,4 @@ How to sign
 Underage exemptions
 Noticeboard
 Donor privacy policy
-Categories: Historical pagesPrivacy policyPolicies
+Categories: Historical contentPrivacy policyPolicies
