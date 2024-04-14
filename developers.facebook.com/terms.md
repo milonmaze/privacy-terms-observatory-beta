@@ -411,10 +411,9 @@ Success Stories
 Videos
 Meta for Developers Page
 Terms and Policies
-Platform Initiatives Hub
+Responsible Platform Initiatives
 Platform Terms
 Developer Policies
-European Commission Commitments
 Follow Us
 © 2024 Meta
 About
