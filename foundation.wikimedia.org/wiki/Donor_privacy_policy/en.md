@@ -1,5 +1,4 @@
 Jump to content
-Photograph your local culture, help Wikipedia and win!
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
@@ -148,7 +147,7 @@ This Donor Privacy Policy covers the collection, transfer, processing, storage, 
 
 What Information We Collect
 
-As a result of your interaction with our donation pages, making a donation, participating in a donor survey or providing feedback related to donating, or otherwise using the Wikimedia Fundraising Services, WMF may collect certain Personal Information, such as your name, contact details (such as address, phone number, email address, identification number on government-issued ID), financial information (such as bank account number), device details (such as IP address, web browser user-agent information), demographic details (such as gender or age) and information about your interests and affiliations. We also collect such Personal Information about U.S. donors through publicly-available sources and other commercially-available sources.
+As a result of your interaction with our donation pages, making a donation, participating in a donor survey or providing feedback related to donating, or otherwise using the Wikimedia Fundraising Services, WMF may collect certain Personal Information, such as your name, contact details (such as address, phone number, email address, identification number on government-issued ID), financial information (such as bank account number), device details (such as IP address, web browser user-agent information), demographic details (such as gender or age) and information about your interests and affiliations. We also collect such Personal Information about U.S. donors through publicly-available sources and other commercially available sources.
 
 We also collect or automatically receive some other information, such as:
 
@@ -275,7 +274,7 @@ From time to time, it may be necessary to modify this policy in order to accurat
 
 Your continued use of the Wikimedia Fundraising Services after any effective date of a subsequent version of this Privacy Policy constitutes acceptance of that version of the Donor Privacy Policy on your part.
 
-Contact Us
+Contact us
 
 WMF values what our donors have to say about our services and our policies. If you have questions or suggestions about this policy, or the information collected under the Donor Privacy Policy, we want to hear from you. See our Contact Us page for information on how to reach out. For more information about the privacy practices that govern the Wikimedia projects, please review our main Privacy Policy.
 
