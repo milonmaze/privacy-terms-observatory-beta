@@ -1,7 +1,7 @@
 Sign in
 Contact Us
 Start free
-Register now for Google Cloud Next '24 in Las Vegas April 9-11.
+Missed Next '24? All sessions are now available on demand. Watch now.
 Google Cloud Privacy Notice
 
 Effective Date: January 18, 2024
