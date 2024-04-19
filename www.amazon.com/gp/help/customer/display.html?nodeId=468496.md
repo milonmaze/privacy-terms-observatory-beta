@@ -6,9 +6,11 @@ Find more solutions
 Security and Privacy  ›  Legal Policies  › 
 Amazon.com Privacy Notice
 
-Last updated: August 11, 2023. To see prior version, click here.
+Last updated: March 31, 2024. To see prior version, click here.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.
+
+Please read our Additional State-Specific Privacy Disclosures and Consumer Health Data Privacy Disclosure for additional information about the processing of your personal data and your rights under applicable U.S. state data privacy laws.
 
 What Personal Information About Customers Does Amazon Collect?
 For What Purposes Does Amazon Use Your Personal Information?
@@ -20,7 +22,6 @@ What Information Can I Access?
 What Choices Do I Have?
 Are Children Allowed to Use Amazon Services?
 EU-US and Swiss-US Data Privacy Framework
-Additional State-Specific Privacy Disclosures
 Conditions of Use, Notices, and Revisions
 Related Practices and Information
 Examples of Information Collected
@@ -105,10 +106,6 @@ Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extens
 
 *We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so.
 
-Additional State-Specific Privacy Disclosures
-
-Click here to read additional state-specific privacy disclosures as required under applicable laws.
-
 Conditions of Use, Notices, and Revisions
 
 If you choose to use Amazon Services, your use and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice will change also. You should check our websites frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
@@ -140,7 +137,7 @@ communicate with us by phone, email, or otherwise;
 complete a questionnaire, a support ticket, or a contest entry form;
 upload or stream images, videos or other files to Prime Photos, Amazon Drive, or other Amazon Services;
 use our services such as Prime Video;
-compile Playlists, Watchlists, Wish Lists, or other gift registries;
+compile Playlists, Watchlists, Wish Lists , or other gift registries;
 participate in Discussion Boards or other community features;
 provide and rate Reviews;
 specify a Special Occasion Reminder; or
@@ -219,6 +216,7 @@ Yes
 No
 ‹ All Help Topics
 Legal Policies
+Consumer Health Data Privacy Disclosure
 3rd Party Licensing Notice
 AMAZON INFLUENCER TERMS & CONDITIONS FOR SPONSORED CONTENT
 Conditions of Use
