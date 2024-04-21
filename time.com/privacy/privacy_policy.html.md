@@ -1,7 +1,7 @@
 Home
 
 US PRIVACY POLICY
-This Privacy Policy was last updated on January 30, 2023.
+This Privacy Policy was last updated on January 29, 2024.
 
  
 
@@ -178,7 +178,7 @@ Categories of personal information we disclose: We may disclose any of the categ
 Categories of personal information we “sell”: We may “sell” any of the categories of personal information listed above to third parties, except for Professional or employment-related information; and Education information. To opt-out of such sales, please go to our California Do Not Sell Page.
 Right to Request Correction of inaccurate personal information.
 
-You can also make a CPRA access, deletion or “do not sell” request by calling the following toll-free number: +1 (888) 914-9661 PIN 430210.
+You can also make a CPRA access, deletion or “do not sell” request by calling the following toll-free number: +1 (866) 993-1641.
 
  
 
@@ -192,7 +192,7 @@ Right to Correct.​ You have the right to correct inaccuracies in your personal
 Right to Opt-Out of Targeted Advertising.​ You may ask us not to use or disclose your information for the purposes of targeting advertising to you based on your personal data obtained from your activity across different businesses, services, websites, etc.
 Right to Opt Out of Personal Information Sales​ to third parties.
 
-To submit a request to exercise your access, deletion, or correction privacy rights, please email us at privacy@time.com​ with the subject line “Privacy Rights Request” and let us know in which state you live. Please see Section 8 for a description of how to exercise your right to opt-out of targeted advertising or sales.
+To submit a request to exercise your access, deletion, or correction privacy rights, please make your request at this Privacy Right Request page. Please see Section 8 for a description of how to exercise your right to opt-out of targeted advertising or sales.
 
 Residents of Colorado, Connecticut, and Virginia may appeal a refusal to take action on a request by contacting us by email at privacy@time.com.
 
@@ -200,7 +200,9 @@ Residents of Colorado, Connecticut, and Virginia may appeal a refusal to take ac
 
 7. Special Information for Nevada Residents
 
-Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to other companies who will sell or license their information to others. We disclose contact information to third parties that may want to market products or services to you. To opt-out of such sales, please email us at privacy@time.com.
+Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to other companies who will sell or license their information to others. We disclose contact information to third parties that may want to market products or services to you. To opt-out of such sales, please make your request at this Privacy Right Request page.
+
+ 
 
 8. Your Opt-Out Choices
 
@@ -214,8 +216,6 @@ If you are a California resident, you may authorize another individual or a busi
 We will use the information you provide for verification only for the purpose of verification. We may have a reason under the law why we do not have to respond to your request, or respond to it in a more limited way than you anticipated. If we do, we will explain that to you in our response.
 
 Your Account and Payment Information: If you are a print subscriber, please visit the account page​ to update your contact information and payment method.
-
- 
 
 Marketing and Other Communications:
 If you wish to unsubscribe from receiving future email marketing from Time, please use the unsubscribe link that appears at the bottom of our marketing emails.
@@ -271,7 +271,7 @@ Attention: Privacy Officer
 New York, NY 10036
 Toll-free: 800-843-8463
 
-Toll-free number for CPRA requests: +1 (888) 914-9661 PIN 430210.
+Toll-free number for CPRA requests: +1 (866) 993-1641.
 
 If you are a print subscriber located in the U.S. and have questions about your subscription, please contact us by writing to us at customerservice@time.com​ or at:
 
@@ -282,4 +282,4 @@ Toll-free: 800-843-8463
 
 Powered by
 
-© 2023 TIME USA, LLC. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Service, Privacy Policy​ (Your California Privacy Rights) and Do Not Sell My Personal Information.
+© 2024 TIME USA, LLC. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Service, Privacy Policy​ (Your Privacy Rights) and Do Not Sell My Personal Information.
