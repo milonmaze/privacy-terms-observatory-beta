@@ -44,6 +44,8 @@ svenska
  
 čeština
  
+ślůnski
+ 
 русский
  
 українська
