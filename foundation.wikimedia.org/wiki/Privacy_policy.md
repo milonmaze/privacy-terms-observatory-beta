@@ -12,8 +12,6 @@ Basa Banyumasan
  
 British English
  
-Bân-lâm-gú
- 
 Canadian English
  
 Cebuano
@@ -239,6 +237,8 @@ svenska
 日本語
  
 粵語
+ 
+閩南語 / Bân-lâm-gú
  
 ꠍꠤꠟꠐꠤ
  
