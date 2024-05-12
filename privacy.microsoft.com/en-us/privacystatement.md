@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: October 2023 What's new?
+Last Updated: April 2024 What's new?
 Expand All
 Print
 
@@ -195,7 +195,18 @@ Learn more
 Top of page
 Windows
 
-Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences, and content across your computing devices from phones to tablets to the Surface Hub. Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features. In order to provide this computing experience, we collect data about you, your device, and the way you use Windows. And because Windows is personal to you, we give you choices about the personal data we collect and how we use it. Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device. Additionally, your organization may use management tools provided by Microsoft or others to access and process your data from that device, including your interaction data, diagnostic data, and the contents of your communications and files. For more information about data collection in Windows, see Data collection summary for Windows. This statement discusses Windows 10 and Windows 11 and references to Windows in this section relate to those product versions. Earlier versions of Windows (including Windows Vista, Windows 7, Windows 8, and Windows 8.1) are subject to their own privacy statements.
+Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences, and content across your computing devices from phones to tablets to the Surface Hub. Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features. In order to provide this computing experience, we collect data about you, your device, and the way you use Windows. And because Windows is personal to you, we give you choices about the personal data we collect and how we use it. Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device. Additionally, your organization may use management tools provided by Microsoft or others to access and process your data from that device, including your interaction data, diagnostic data, and the contents of your communications and files.
+
+The Windows Settings, formerly known as PC Settings, is an essential component of Microsoft Windows. It provides a convenient interface for adjusting user preferences, configuring the operating system, and managing connected devices so that you can manage user accounts, adjust network settings, and personalize various aspects of Windows. Windows provides a mechanism for apps to access various device capabilities such as the device’s camera, microphone, location, calendar, contacts, call history, messages and more, while controlling access to your personal data. Each capability has its own privacy settings page in Windows settings, so you can control which apps can use each capability. Here are some key features of Settings:
+
+Customization: You can personalize various aspects of Windows, including the look and feel, language settings, and privacy options. Windows settings uses your microphone when controlling the volume, camera when using integrated camera and location to change brightness at night time to help you customize your Windows.
+Peripheral Management: Install and manage peripherals such as printers, monitors, and external drives.
+Network Configuration: Adjust networking settings, including Wi-Fi, Ethernet, cellular and VPN connections and will use physical MAC address, IMEI and mobile number if device supports cellular.
+Account Management: Add or remove user accounts, change account settings, and manage sign-in options.
+System-Level Options: Configure display settings, notifications, power options, manage list of installed apps and more.
+Privacy & security management: configure your privacy preferences such as location, collection of diagnostic data etc. Fine-tune which individual apps and services can access device capabilities by turning them on or off.
+
+For more information about data collection in Windows, see Data collection summary for Windows. This statement discusses Windows 10 and Windows 11 and references to Windows in this section relate to those product versions. Earlier versions of Windows (including Windows Vista, Windows 7, Windows 8, and Windows 8.1) are subject to their own privacy statements.
 
 Learn more
 Top of page
