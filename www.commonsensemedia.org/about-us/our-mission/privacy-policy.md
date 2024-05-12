@@ -1,4 +1,10 @@
 Skip to main content
+
+Common Sense Media
+
+Movie & TV reviews for parents
+
+Use app
 For Parents For Educators Our Work and Impact
 Privacy Policy
 
@@ -105,7 +111,7 @@ Payment Data
 
 	
 
-Subscribers: information necessary to process payments for your Common Sense Media subscription (including affecting renewals, if and as applicable), such as name, email address, phone number, payment card information (including name as shown on your card, billing address (street address, city, state, country, ZIP code), expiration date, security code and payment card number, and associated details of subscriptions purchased from us (including any relevant payments taken).                      
+Subscribers: information necessary to process payments for your Common Sense Media subscription (including affecting renewals, if and as applicable), such as name, email address, phone number, payment card information (including name as shown on your card, billing address (street address, city, state, country, ZIP code), expiration date, security code and payment card number, and associated details of subscriptions purchased from us (including any relevant payments taken).                     
 
 Please note, although our Payment Services providers require all this information to process payments on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
 
@@ -116,7 +122,7 @@ Donation Data
 
 	
 
-Name (unless you want your donation to be anonymous), email address, phone number, payment card information (including name as shown on your card, billing address, expiration date, security code and payment card number) and the amount of your donation(s).                      
+Name (unless you want your donation to be anonymous), email address, phone number, payment card information (including name as shown on your card, billing address, expiration date, security code and payment card number) and the amount of your donation(s).                     
 
 Please note, although our Payment Services providers require all this information to process donations on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
 
@@ -245,12 +251,12 @@ B. How We Use Information Collected Through Digital Citizenship Quizzes
 
 Quizzes provided by Common Sense Education are available at the end of each lesson in the Digital Citizenship Curriculum. Each quiz includes 4-6 questions that have varied formats: multiple choice, drag and drop to complete a sentence, and drag and drop sorting. The quiz is autograded and students can see their results immediately. The quizzes are intended to assess student understanding after the teacher has completed the corresponding lesson.
 
-Common Sense quiz reports (for the entire class and individual student) are only accessible to a teacher who is authenticated with Google Classroom and who requests specific quiz reports on specified students authenticated with Google Classroom. Common Sense works with the following third party service providers to provide Google Classroom integrated quizzes through the Digital Citizenship curriculum:
+Common Sense quiz reports (for the entire class and individual student) are only accessible to a teacher who is authenticated with Google Classroom and who requests specific quiz reports on specified students authenticated with Google Classroom. Common Sense uses the data collected through Digital Citizenship Quizzes exclusively for the purpose of providing the CS Digital Curriculum services to the school districts using Common Sense's free online educational services. Common Sense works with the following third party service providers to provide Google Classroom integrated quizzes through the Digital Citizenship curriculum:
 
-Learning Locker                      
+Learning Locker                     
 Learning Locker is a Learning Record Store (LRS) database-driven application and analytics tool designed specifically for the learning sector. Common Sense uses Learning Locker to store, sort and share data as recorded using the xAPI specification from Google Classroom. Learning Locker may collect and store the following information including, but not limited to: Google User ID, quiz_id, quiz name, start time, start date, quiz completion, stop time, stop date, quiz duration, quiz questions, alphanumeric answers, quiz grade, and quiz ranking. Please read Learning Locker’s privacy policy for more information.
-Google Classroom                      
-Google Classroom is a free web service developed by Google and part of the G Suite for Education to help schools streamline the process of sharing files between teachers and students. Students using Google Classroom can view assignments, submit homework, and receive grades from teachers to help them stay on track and organized. The G Suite for Education core services are the heart of Google’s educational offering to schools. The core services include Gmail, Calendar, Classroom, Contacts, Drive, Docs, Groups, Sheets, Sites, Slides, Talk/Hangouts and Vault. Please read Google Classroom’s privacy policy for more information.                      
+Google Classroom                     
+Google Classroom is a free web service developed by Google and part of the G Suite for Education to help schools streamline the process of sharing files between teachers and students. Students using Google Classroom can view assignments, submit homework, and receive grades from teachers to help them stay on track and organized. The G Suite for Education core services are the heart of Google’s educational offering to schools. The core services include Gmail, Calendar, Classroom, Contacts, Drive, Docs, Groups, Sheets, Sites, Slides, Talk/Hangouts and Vault. Please read Google Classroom’s privacy policy for more information.                     
 
 The Google Classroom service provides Common Sense with a Google Classroom authenticated teacher’s class roster of student Google IDs. Only authenticated teachers can access student first and last names associated with Google IDs for quiz reporting purposes. Common Sense requests authorization from teachers to access their Google Classroom class roster of student Google IDs in order to combine all the specified student Google IDs present in the class roster with their respective Common Sense quiz submission data and quiz grades in order to generate class and individual student quiz reports for teachers. All quiz reports are generated on-demand by the Google Classroom authenticated teacher and are not stored or retained by Common Sense. When a teacher requests a "class roster" or individual “student” quiz report, Common Sense loads the teacher’s specified Google IDs from our third-party service provider Learning Locker and matches student IDs with Google Classroom to create and display a class roster quiz report for the entire class, or individual student report to produce a Google Classroom listing that includes student names paired with quiz scores. Common Sense and our third-party service providers do not store or retain any class or individual student report data.
 
@@ -312,7 +318,7 @@ VI. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION
 
 Links. For your convenience and information, we may provide links to websites and other third-party services and content that is not owned or operated by us. The third-party websites, services and content to which we link may have separate privacy notices or policies. We are not responsible for the privacy practices of any entity that we do not own or control. The inclusion of a link or such third-party services/content on the Services does not imply our endorsement of the linked site, or that content or service.  
 
-Security. We seek to use reasonable administrative, organizational, technical, and physical measures to help protect the Personal Information you provide to us from loss, misuse, and unauthorized disclosure, alteration, or destruction. Only authorized personnel have access to Personal Information you provide to us and each employee with access to Personal Information is obligated to maintain its integrity and confidentiality. Unfortunately, no data transmission can be guaranteed to be 100% secure or error free. If you have reason to believe that your interaction with us is no longer secure, you should immediately notify us in accordance with the section below entitled "Contacting Us." Please note that if you notify us by physical mail, this will delay the time it takes for us to respond to the problem.
+Security. We seek to use reasonable administrative, organizational, technical, and physical measures to help protect the Personal Information you provide to us from loss, misuse, and unauthorized disclosure, alteration, or destruction. Only authorized personnel have access to Personal Information you provide to us and each employee with access to Personal Information is obligated to maintain its integrity and confidentiality. Unfortunately, no data transmission can be guaranteed to be 100% secure or error free. If you have reason to believe that your interaction with us is no longer secure, you should immediately notify us in accordance with the section below entitled "Contacting Us." Please note that if you notify us by physical mail, this will delay the time it takes for us to respond to the problem. Common Sense Media follows its Data Breach Incident Response Plan to respond to incidents that could compromise Personal Information.
 
 Updating Your Personal Information. If you are a Member, you can update your Personal Information at any time by accessing your account. To do this, just click on the "My Account", "My Profile" or "My Desk" link.
 
@@ -342,10 +348,10 @@ You may submit a request to us, or you may authorize another party to do so on y
 Recommended: Your Data Choices web form. You may submit requests to exercise your rights or any questions you may have about this Policy, or the practices of the Services, through the Privacy Requests Portal.
 Mail. You may also exercise your options by mailing us at:
 
-Corporate Headquarters                     
-Privacy Department                     
-Common Sense Media                     
-699 8th Street, Suite C150                     
+Corporate Headquarters                    
+Privacy Department                    
+Common Sense Media                    
+699 8th Street, Suite C150                    
 San Francisco, CA 94103
 
 Further notes on making requests:
@@ -385,12 +391,12 @@ How to exercise your rights? If you want to exercise any of the rights described
 Your right to complain. We would love to be able to resolve your questions, requests and complaints about your Personal Information directly. However, if you feel we have not been able to satisfactorily resolve an issue, you may contact your local data protection supervisory authority.
 
 For the contact information of the Data Protection Authorities for each Member State of the European Economic Area, please visit: https://edpb.europa.eu/about-edpb/board/members_en
-The UK's Data Protection Authority's details are below:                      
+The UK's Data Protection Authority's details are below:                     
 
-The Information Commissioner's Office                      
-Water Lane, Wycliffe House                      
-Wilmslow - Cheshire SK9 5AF                      
-Tel. +44 303 123 1113                      
+The Information Commissioner's Office                     
+Water Lane, Wycliffe House                     
+Wilmslow - Cheshire SK9 5AF                     
+Tel. +44 303 123 1113                     
 Website: https://ico.org.uk/make-a-complaint/
 
 What Personal Information do we process? The table in Section I describes the categories of Personal Information that we collect and process.
@@ -432,7 +438,7 @@ Payment Data (if applicable)
 Donation Data (if applicable)
 	
 
-To register your account on the Services, and to populate your Profile fields. To provide you with the core elements of the Services.                      
+To register your account on the Services, and to populate your Profile fields. To provide you with the core elements of the Services.                     
 
 To provide you with access to the additional features and functions of Common Sense Media where either:
 
@@ -610,9 +616,9 @@ Payment Data (where applicable)
 Donation Data (where applicable)
 	
 
-To process: (a) the payments from our subscribers (including renewals, if and as applicable); and (b) donations people make via our Services.                      
+To process: (a) the payments from our subscribers (including renewals, if and as applicable); and (b) donations people make via our Services.                     
 
-Please note that this includes making available the means by which you provide your Payment Data or Donation Data (as applicable) to Payment Services to process payments or donations (as applicable) on our behalf.                      
+Please note that this includes making available the means by which you provide your Payment Data or Donation Data (as applicable) to Payment Services to process payments or donations (as applicable) on our behalf.                     
 
 For more information, see the section titled Payment and Donation Processing (below).
 
@@ -788,15 +794,21 @@ GLOSSARY
 
 The capitalized terms used throughout this Policy have the following meanings:
 
-Apps: All other Common Sense Media applications that link to this Privacy Policy beyond www.commonsensemedia.org.
+Apps: All other Common Sense Media applications that link to this Privacy Policy.
 
 Controller: The physical or legal person determining the purposes and means of collecting and processing Personal Information.
 
-Privacy Policy or Policy: This legal document which discloses how we collect or receive, use, store, and manage Personal Information, and what your choices and rights are over your it. Profile: The account profile you create to use our Services.
+Data Incident Response Plan: A Common Sense Media internal policy that outlines the steps to be followed to respond to incidents that may compromise the security of Personal Information.
+
+Privacy Policy or Policy: This legal document which discloses how we collect or receive, use, store, and manage Personal Information, and what your choices and rights are over your it.
+
+Profile: The account profile you create to use our Services.
 
 Single Sign-On Service: A third-party account of yours (e.g., your Google account) that you select for open authentication into our Services instead of you creating and using a password to log into the Services.
 
-Services: The Common Sense Media website, www.commonsensemedia.org, and all other applications, services, and websites that link to this Privacy Policy. Terms of Use: Our disclaimer and agreement for users of our Services.
+Services: The Common Sense Media website, www.commonsensemedia.org, and all other applications, services, and websites that link to this Privacy Policy.
+
+Terms of Use: Our disclaimer and agreement for users of our Services.
 
 Members: Visitors who complete the membership registration process through our Services. Members join an active and vibrant community of families and educators interested in the impact of media on their children and students and can engage in activities not available to Non-Members, such as creating user reviews on media products, participating in surveys and polls, and saving favorites to a personal page. If you are not currently a Member, you may click here to register, or here if you are an educator, and become eligible for our Services' features. You can also subscribe to Common Sense Media, which gives you one year of unlimited access to all our media ratings and reviews.
 
@@ -806,7 +818,9 @@ Personal Information: Information about an identified or identifiable natural pe
 
 Site: Common Sense Media website, www.commonsensemedia.org
 
-Payment Services: Third-party service providers used by us to handle donations made by credit card and other payment transactions submitted to our Services. Child or Children: Younger kids for whom collecting parental consent is required under applicable laws. For example under COPPA in the United States, children for these purposes are considered to be individuals under the age of 13. This age range may vary in other countries and regions. Where consent is required or recommended for a particular purpose or practice, we aim to get parental consent for youth in accordance with the age designated by the country they are in.
+Payment Services: Third-party service providers used by us to handle donations made by credit card and other payment transactions submitted to our Services.
+
+Child or Children: Younger kids for whom collecting parental consent is required under applicable laws. For example under COPPA in the United States, children for these purposes are considered to be individuals under the age of 13. This age range may vary in other countries and regions. Where consent is required or recommended for a particular purpose or practice, we aim to get parental consent for youth in accordance with the age designated by the country they are in.
 
 Teen: Older kids for whom collecting parental consent is not required under applicable laws. In the U.S. a Teen would be a kid that is 13 or older yet under 18. This age range may vary in other countries and regions, but in all cases, an individual over 18 is not considered a Teen.
 
@@ -850,7 +864,6 @@ Join as a Parent
 Join as an Educator
 Sign Up for Our Newsletters
 Request a Speaker
-Attend an Event
-Events for Educators
+Events
 We're Hiring
 Donate
