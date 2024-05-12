@@ -92,7 +92,7 @@ Based on your explicit consent (Art. 6 para. 1 lit. a GDPR), we will regularly s
 
 Withdrawal of consent:
 
-You can revoke your consent to the storage of your personal data and its use for the newsletter dispatch at any time with effect for the future. You will find a corresponding link in each newsletter. In addition, you can also unsubscribe directly on this website (https://lp.inmoment.com/UnsubscribePage.html) at any time or inform us of your revocation using the contact option provided at the end of this privacy policy.
+You can revoke your consent to the storage of your personal data and its use for the newsletter dispatch at any time with effect for the future. You will find a corresponding link in each newsletter. In addition, you can also unsubscribe directly on this website (https://mkt.inmoment.com/hs/manage-preferences/unsubscribe-simple) at any time or inform us of your revocation using the contact option provided at the end of this privacy policy.
 
 Recipients:
 
@@ -272,6 +272,10 @@ The Sites (including, but not limited to: websites, surveys, reporting applicati
 • Our Worldwide Practices
 
 InMoment conducts business globally, with people, processes, and systems that cross borders. Our privacy practices are designed to provide protection for your Personal Information, all over the world.
+
+• InMoment uses data to train our artificial intelligence tools.
+
+InMoment may process your data using artificial intelligence (“AI”) technologies including generative AI, and InMoment also may use this information for training our own machine learning models, natural language processing, large-language models, and other relevant AI use-cases. InMoment will only process in these above environments the data that you provide to us. Any third-party AI processors will not store your data beyond the brief period needed to process it nor will such data be shared with any other persons, entities, or data models beyond those contracted with InMoment and contractually obligated to process in the above manner.
 
 • Changes to this Privacy Policy
 
