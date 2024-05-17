@@ -67,7 +67,6 @@ Learn More About Your Sweat and Water Resistant Echo Frames and Carrera Smart Gl
 Learn More - Do Not Send Voice Recordings
 About Find My
 Amazon Sidewalk Privacy and Security Whitepaper
-Alexa Guard - Sounds of Activity
 Legal & Compliance
 Children's Privacy Disclosure
 Learn How We Use Alexa Geolocation Data and How to Delete It
