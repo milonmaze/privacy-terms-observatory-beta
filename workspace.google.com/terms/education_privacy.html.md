@@ -63,7 +63,9 @@ As described fully in Google’s Cloud Privacy Notice, we also collect service 
 
 • And for admins, we collect data about payments and transactions.
 
-Service data is primarily used to deliver the services that schools and students use, but it’s also used to maintain and improve the services; make recommendations to optimize the use of the services; provide and improve other services you request; provide support; protect our users, customers, the public, and Google; and comply with legal obligations. See the Google Cloud Privacy Notice for more information.
+Service data is used to deliver and maintain the services that schools and students use, as well as to improve the security and reliability of these services. To make these improvements we use aggregated Service Data to resolve technical issues, keep our security measures robust and up-to-date, and ensure that the services work as intended. If you choose to provide feedback through the services, we may use that feedback for a wider range of improvements to the services; however, any feedback you provide is entirely voluntary and you can use the services without providing any.
+
+We also use service data to make recommendations to optimize the use of the services; provide and improve other services you request; provide support; protect our users, customers, the public, and Google; and comply with legal obligations. See the Google Cloud Privacy Notice for more information.
 
 Additional Services
 
