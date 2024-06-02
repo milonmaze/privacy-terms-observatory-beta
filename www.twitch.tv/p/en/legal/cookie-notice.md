@@ -26,6 +26,7 @@ Modern Day Slavery Statement
 State-Specific Privacy Disclosures
 Recommendations On Twitch
 Gift Card & Gift Card Balance Terms and Conditions
+Service of Process
 Advertising
 Blog
 Brand
