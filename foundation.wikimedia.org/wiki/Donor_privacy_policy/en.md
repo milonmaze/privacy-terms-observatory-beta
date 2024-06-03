@@ -1,4 +1,7 @@
 Jump to content
+
+You are invited to join the LA Wiki-Picnic at Pan-Pacific Park on Saturday, June 8!
+
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
