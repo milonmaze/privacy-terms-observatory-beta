@@ -11,17 +11,21 @@ About this policy
 Contact Us
 Introduction
 
-Google Workspace for Education facilitates learning and collaboration among students (and parents), educators, and school admins. Google Workspace for Education includes two categories of services, both described in this privacy notice. The distinction is important because the scope of the services and how the data is processed in these services differs.
+Google Workspace for Education facilitates learning and collaboration among students (and parents), educators, and school admins. Google Workspace for Education includes different categories of services as described in this privacy notice. The distinction is important because the scope of the services and how the data is processed in these services differs.
 
 • Google Workspace for Education core services are listed in the Services Summary and include Gmail, Calendar, Classroom, Assignments, Contacts, Drive, Docs, Forms, Groups, Sheets, Sites, Slides, Chat, Meet, Vault, and Chrome Sync.
 
        
 
+• Google Workspace for Education other services are listed in the Services summary and include AppSheet and Read Along.
+
+ 
+
 • Google Workspace for Education additional services include services we make generally available for all consumers, such as Google Search, Maps, and YouTube, which Workspace for Education users may have access to with their Workspace accounts.
 
       
 
-This document provides the key information about both types of services. If you want to learn more, you can find additional information and examples in the following documents that also apply to Google Workspace for Education accounts. The Google Cloud Privacy Notice provides more information about data that we process while providing the core services, and the Google Privacy Policy provides more information about data that we process in additional services. Information provided in this notice relating to core services also applies to Other Services listed in the Services Summary, including AppSheet.
+This document provides the key information about both types of services. If you want to learn more, you can find additional information and examples in the following documents that also apply to Google Workspace for Education accounts. The Google Cloud Privacy Notice provides more information about data that we process while providing the core services, and the Google Privacy Policy provides more information about data that we process in additional services. Information provided in this notice relating to core services also applies to other services listed in the Services Summary.
 
 Your information: what we collect & how it’s used
 
@@ -66,6 +70,8 @@ As described fully in Google’s Cloud Privacy Notice, we also collect service 
 Service data is used to deliver and maintain the services that schools and students use, as well as to improve the security and reliability of these services. To make these improvements we use aggregated Service Data to resolve technical issues, keep our security measures robust and up-to-date, and ensure that the services work as intended. If you choose to provide feedback through the services, we may use that feedback for a wider range of improvements to the services; however, any feedback you provide is entirely voluntary and you can use the services without providing any.
 
 We also use service data to make recommendations to optimize the use of the services; provide and improve other services you request; provide support; protect our users, customers, the public, and Google; and comply with legal obligations. See the Google Cloud Privacy Notice for more information.
+
+Read Along also collects voice data. The voice data is processed only on the user’s device and is not shared with Google, to protect users’ privacy. Voice data is not stored at all after processing.
 
 Additional Services
 
