@@ -251,7 +251,7 @@ Generative AI on Vertex AI: Generative AI on Vertex AI is any Service with gener
 
 Vertex AI API enables customers to access generative AI foundation models via an API.
 
-Vertex AI Agents allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
+Vertex AI Conversation (formerly Gen App Builder)  allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
 Vertex AI Model Garden enables customers to access generative AI foundation models, including large language, text-to-image, image-to-text, and multimodal models.
 Vertex AI Search allows customers to leverage foundational models and search and recommendation technologies to create multimodal semantic search and question-answering experiences.
 Vertex AI Studio is a user interface in the Google Cloud console for rapidly prototyping and testing generative AI models.
