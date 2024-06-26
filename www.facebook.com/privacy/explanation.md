@@ -1,6 +1,7 @@
 Privacy Policy
+We updated our Privacy Policy on June 26, 2024. View our previous policy.
 What is the Privacy Policy and what does it cover?
-Effective December 27, 2023 | View printable version | See previous versions
+Effective June 26, 2024 | View printable version | See previous versions
 Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.
 Highlights
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use Meta Products in the way that’s right for you.
@@ -112,7 +113,7 @@ Take a privacy checkup
 Be guided through Facebook privacy settings
 View and manage your information
 Access your information
-Off-Facebook activity
+Off-Meta activity
 Ad preferences
 Manage your data
 Port, download or delete your information
@@ -190,7 +191,9 @@ Information from cookies and similar technologies
 Information from partners, vendors and third parties
 
 
-Providing ads on the Meta Products: Our systems automatically process limited categories of information that we've collected and stored to provide you with ads on the Meta Products in accordance with our terms.
+Providing ads on the Meta Products:
+Our ads system automatically processes information that we’ve collected and stored associated with you. Our ads system uses this information to understand your interests and your preferences and personalize your ads across the Meta Products.
+Our ads system prioritizes what ad to show you based on what audience advertisers want to reach. Then we match the ad to people who might be interested. Learn more about how our ads system works
 	
 Your activity and information you provide:
 Age
@@ -208,8 +211,9 @@ Facilitate the sharing of content and status,
 Provide and curate features,
 Provide messaging services, the ability to make voice and video calls and connect with others,
 Provide advertising products,
-Understand and enable creation of content like text, images and videos, and
-Undertake analytics.
+Understand and enable creation of content like text, audio, images and videos, including through artificial intelligence technology we provide
+Undertake analytics, and
+Facilitate your purchases and payments on Meta Pay or other Meta checkout experiences.
 We also use information to develop, research and test improvements to our Products. We use information we have to:
 See if a product is working correctly,
 Troubleshoot and fix it when it’s not,
@@ -460,7 +464,8 @@ Device identifiers
 Research and innovate for social good:
 We carry out surveys and use information (including from researchers we collaborate with) to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
 For example, we analyze information that we have about migration patterns during crises. This helps relief organizations get aid to the right places.
-We collect, store, combine, analyze and apply automatic processing techniques like aggregation of information as well as manual (human) review, and share information, as necessary to research and innovate for social good in this way. We do this to do things like create COVID-19 forecasting models.
+We collect, store, combine, analyze and apply automatic processing techniques like aggregation of information as well as manual (human) review, and share information, as necessary to research and innovate for social good in this way.
+We support research in areas like artificial intelligence and machine learning.
 Learn more about our research programs.
 	
 Your activity and information you provide:
