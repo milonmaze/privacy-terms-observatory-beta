@@ -496,6 +496,8 @@ If you do not own a Netflix account, we may not be able to respond to certain re
 
 Last Updated: April 17, 2024
 
+SELECT YOUR PREFERRED LANGUAGE:
+Select a language
 English
 Español
 Terms of Use
