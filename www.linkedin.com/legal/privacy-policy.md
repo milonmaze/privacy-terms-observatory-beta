@@ -1,7 +1,7 @@
 Skip to main content
 Privacy Policy
 
-Effective August 11, 2020
+Effective March 6, 2024
 
 Our Privacy Policy has been updated.
 
@@ -20,7 +20,7 @@ Your Choices and Obligations
 Other Important Information
 Introduction
 
-We are a social network and online platform for professionals. People use our Services to find and be found for business opportunities, to connect with others and find information. Our Privacy Policy applies to any Member or
+We are a social network and online platform for professionals. People use our Services to find and be found for business opportunities, to connect with others and find information. Our Privacy Policy applies to any Member or Visitor to our Services.
 
 Our registered users (“Members”) share their professional identities, engage with their network, exchange knowledge and professional insights, post and view relevant content, learn and develop skills, and find business and career opportunities. Content and data on some of our Services is viewable to non-members (“Visitors”).
 
@@ -55,7 +55,7 @@ You provide data to create an account with us.
 
 Registration
 
-To create an account you need to provide data including your name, email address and/or mobile number, and a password. If you register for a premium Service, you will need to provide payment (e.g., credit card) and billing information.
+To create an account you need to provide data including your name, email address and/or mobile number, general location (e.g., city), and a password. If you register for a premium Service, you will need to provide payment (e.g., credit card) and billing information.
 
 You create your LinkedIn profile (a complete profile helps you get the most from our Services).
 
@@ -176,7 +176,7 @@ Our Services allow you to collaborate with colleagues, search for potential clie
 
 2.2 Premium Services
 
-Our premium Services help paying users to search for and contact Members through our Services, such as searching for and contacting job candidates, sales leads and co-workers, manage talent and promote content through social
+Our premium Services help paying users to search for and contact Members through our Services, such as searching for and contacting job candidates, sales leads and co-workers, manage talent and promote content through social media.
 
 We sell premium Services that provide our customers and subscribers with customized-search functionality and tools (including messaging and activity alerts) as part of our talent, marketing and sales solutions. Customers can export limited information from your profile, such as name, headline, current company, current title, and general location (e.g., Dublin), such as to manage sales leads or talent, unless you opt-out. We do not provide contact information to customers as part of these premium Services without your consent. Premium Services customers can store information they have about you in our premium Services, such as a resume or contact information or sales history. The data stored about you by these customers is subject to the policies of those customers. Other enterprise Services and features that use your data include TeamLink and Elevate (social promotion of content).
 
