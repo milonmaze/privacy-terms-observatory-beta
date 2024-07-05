@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: April 2024 What's new?
+Last Updated: June 2024 What's new?
 Expand All
 Print
 
@@ -24,9 +24,10 @@ Microsoft account
 Collection of data from children
 Other important privacy information
 Product-specific details:
+Artificial Intelligence and Microsoft Copilot capabilities
 Enterprise and developer products
 Productivity and communications products
-Search, Microsoft Edge, and artificial intelligence
+Search and browse
 Windows
 Entertainment and related services
 Cookies
@@ -64,7 +65,7 @@ We also use the data to operate our business, which includes analyzing our perfo
 
 In carrying out these purposes, we combine data we collect from different contexts (for example, from your use of two Microsoft products) or obtain from third parties to give you a more seamless, consistent, and personalized experience, to make informed business decisions, and for other legitimate purposes.
 
-Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the predictions and inferences produced by the automated methods against the underlying data from which the predictions and inferences were made. For instance, with your permission and for the purpose of improving our speech recognition technologies, we manually review short snippets of voice data that we have taken steps to de-identify. This manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf.
+Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the output produced by the automated methods against the underlying data.
 
 Learn more
 Top of page
@@ -143,7 +144,7 @@ Collection of data from children
 
 For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
 
-Once parental consent or authorization is granted, the child's account is treated much like any other account. Learn more about personal and school accounts in the Microsoft account section of the Privacy Statement and Microsoft Family Safety in the product-specific section. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Parents or guardians can change or revoke the consent choices previously made. Learn more about parental consent and Microsoft child accounts. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data and information about children and Xbox profiles.
+Once parental consent or authorization is granted, the child's account is treated much like any other account. Learn more about personal and school accounts in the Microsoft account section of the Privacy Statement and Microsoft Family Safety in the product-specific section. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Parents or guardians can change or revoke the consent choices previously made. Learn more about parental consent and Microsoft child accounts. As the organizer of a Microsoft family group, the parent or guardian can manage their child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation. For child accounts that do not require parental consent to be created, (e.g., for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created. Select Learn more below for more information about how to access and delete child data and information about children and Xbox profiles.
 
 Learn more
 Top of page
@@ -152,6 +153,23 @@ Other important privacy information
 Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Microsoft and our commitment to protecting your privacy at Microsoft Privacy.
 
 Learn more
+Top of page
+Artificial Intelligence and Microsoft Copilot capabilities
+
+Microsoft leverages the power of artificial intelligence (AI) in many of our products and services, including by incorporating generative AI features such as Microsoft Copilot capabilities. Microsoft’s deployment and use of AI is subject to Microsoft’s AI Principles and Microsoft’s Responsible AI Standard, and Microsoft’s collection and use of personal data in developing and deploying AI features is consistent with commitments outlined in this privacy statement. Product-specific details provide additional relevant information. You can find out more about how Microsoft uses AI here.
+
+Microsoft Copilot capabilities. Microsoft Copilot is Microsoft’s everyday AI companion, and is designed to help you achieve more through a single experience that runs across devices, understanding relevant context on the web, on your PC, and across apps to bring you the right skills at the right time. With the help of Copilot, users can start a draft of a new Word document, generate a PowerPoint presentation, quickly find the answers to complex search queries online, find relevant documents or other personal content, or be inspired to create new songs, stories, images, or other content, among other tasks. Copilot is a family of services, and Microsoft’s collection and use of data may differ depending on the service and the intended functionality in a given scenario.
+
+The Copilot website and app (available on iOS and Android) is the core of the consumer Copilot experience. Within this core experience, users can search the web, create text, images, songs, or other outputs, or engage with other features, such as plugins. On the website and in the app, users enter “prompts” that provide instructions to Copilot (e.g., “Give me recommendations for a restaurant that accommodates parties of 10 near me”). In order to provide a relevant response, Copilot will use this prompt, along with the user’s location, language, and similar settings, to formulate a helpful response. In some markets, authenticated users can choose to allow Copilot to have access to prior prompt history to better personalize the product. The consumer Copilot product uses the data collected to provide and improve the Copilot services, including to provide relevant advertising. Users who are signed-in to their account can manage their prompt history in product and on the Microsoft Privacy Dashboard, and can adjust their location, language, and other settings in the product.
+
+Copilot also appears as an assistant within other Microsoft consumer products, such as Bing and Microsoft Edge. In those situations, data processing activities generally align with those products’ primary uses. For example, Copilot in Bing’s use and collection of personal data is consistent with Bing’s core web search offering as described in the Search and Browse section of this privacy statement. More information about Copilot in Bing is available at Copilot in Bing: Our approach to Responsible AI. In Microsoft Edge, Copilot appears in the sidebar experience and can help the user complete tasks related to the webpages they visit (e.g., “summarize this page”). This data is used consistent with the Microsoft Edge section of this privacy statement.
+
+Copilot Pro is another consumer Copilot offering, and offers subscribers priority access to the very latest models, improved image creation abilities, and access to Copilot in Microsoft Word, PowerPoint, OneNote, Excel, and Outlook. The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above. When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement.
+
+There are also Copilot offerings designed for enterprise users. When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users. More information on Copilot with Commercial Data Protection is available here.
+
+Microsoft Copilot for Microsoft 365 enterprise offers enterprise-grade data protection along with access to the corporate graph, Copilot within Microsoft 365 and Teams, and additional customization features. Data collection and use in Copilot for Microsoft 365 enterprise is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement.
+
 Top of page
 Enterprise and developer products
 
@@ -187,9 +205,9 @@ Productivity and communications products are applications, software, and service
 
 Learn more
 Top of page
-Search, Microsoft Edge, and artificial intelligence
+Search and browse
 
-Search and artificial intelligence products connect you with information and intelligently sense, process, and act on information—learning and adapting over time.
+Search and browse products connect you with information and intelligently sense, process, and act on information—learning and adapting over time. For more information on artificial intelligence and Copilot capabilities in Microsoft’s search products, please see Artificial Intelligence and Microsoft Copilot capabilities section above.
 
 Learn more
 Top of page
