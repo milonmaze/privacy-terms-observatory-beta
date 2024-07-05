@@ -1,4 +1,4 @@
-English — Ver página en español
+English - Ver página en español
 California Privacy Disclosures
 
 To help California consumers make informed privacy decisions and compare practices across businesses, the State has created a common framework for businesses to talk about privacy. Apple is using that framework here to describe, for each category of personal information and sensitive personal information under California law, whether Apple collects that personal information or sensitive personal information, or discloses it for a business purpose. Apple does not sell or share your personal information, as those terms are defined under California law. Apple also does not use or disclose sensitive personal information for any purposes that would require a user to exercise a right to limit according to California law.
