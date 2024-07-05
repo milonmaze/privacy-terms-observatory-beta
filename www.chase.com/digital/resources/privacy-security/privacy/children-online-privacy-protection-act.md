@@ -5,10 +5,12 @@ Privacy
 selected
 Security
 Have questions?
-LAST UPDATED: AUGUST 1, 2020
+LAST UPDATED: JUNE 2024
 Children’s Privacy Policy
 
-Your child’s privacy is important to us. This Children’s Privacy Policy covers the Chase First Banking℠ program. It explains how we collect, use, and disclose personal information collected online from children under the age of 13 in compliance with the Children’s Online Privacy Protection Act (“COPPA”). For more information on Chase’s privacy and security practices for Chase online services, please go to our  Online Privacy Policy.
+Printer Friendly version (PDF)
+
+Your child’s privacy is important to us. This Children’s Privacy Policy covers the Chase First Banking℠ program. It explains how we collect, use, and disclose personal information collected online from children under the age of 13 in compliance with the Children’s Online Privacy Protection Act (“COPPA”). All information below and references to “Your Child” pertain exclusively to children under the age of 13. For more information on Chase’s privacy and security practices for Chase online services, please go to our Online Privacy Policy.
 
 Personal Information We Collect About Your Child
 
