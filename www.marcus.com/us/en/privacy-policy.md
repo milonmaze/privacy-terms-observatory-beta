@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last updated on August 8, 2023
+Last updated on June 28, 2024
 
 Download
 
@@ -10,7 +10,7 @@ Download
 
 Download/Print
 
-Privacy Policy for Goldman Sachs Bank USA’s Consumer & Small Business Platforms and Goldman Sachs & Co. LLC's Marcus Invest
+Privacy Policy for Goldman Sachs Bank USA’s Consumer & Small Business Platforms 
 1. Introduction; What This Privacy Policy Covers; and Notice at Collection
 
 Your privacy is important to us. The purpose of this Privacy Policy (as updated from time-to-time, this “Privacy Policy”) is to explain how we collect, use, disclose and protect personal information. This Privacy Policy applies to (i) the Marcus by Goldman Sachs website, currently located at https://www.marcus.com, the Marcus by Goldman Sachs mobile app, and any other website, mobile app, or email associated with the above that is owned or operated by us, and on which this Privacy Policy appears or is linked, (ii) the Products, and (iii) any other Goldman Sachs consumer, small business, and digital advisory solutions businesses that link to this Privacy Policy, collectively, the “Services.” This Privacy Policy also covers the personal information we collect from social media sites or pages associated with our Services and your interactions with our digital advertising campaigns. 
@@ -43,7 +43,7 @@ Other Important Information
 Updates to this Privacy Policy
 Other Privacy Disclosures
 
-If you have signed up for, applied for, have or previously had one of our consumer Products, the Marcus Consumer Privacy Notice will apply to you. This provides more information about how we collect and share your personal information and outlines certain choices you may have. If there is a conflict between this Online Privacy Policy and any privacy notice, disclosure, policies or terms relating to any Product, the privacy notice, disclosure, policies or terms relating to the Product will govern.
+If you have signed up for, applied for, have or previously had one of our consumer Products with a Marcus brand, the Marcus Consumer Privacy Notice will apply to you. This provides more information about how we collect and share your personal information and outlines certain choices you may have. If there is a conflict between this Privacy Policy and any privacy notice, disclosure, policies or terms relating to any Product, the privacy notice, disclosure, policies or terms relating to the Product will govern.
 
 Other Goldman Sachs Relationships
 
@@ -52,12 +52,12 @@ If you have other relationships with Goldman Sachs that are not covered by this 
 
 Important Terms
 
-We want you to understand the following defined terms that we use throughout this Online Privacy Policy, when we use:
+We want you to understand the following defined terms that we use throughout this Privacy Policy, when we use:
 
-“Goldman Sachs,” “we,” “us” or “our”, we mean Goldman Sachs Bank USA and Goldman Sachs & Co. LLC. 
+“Goldman Sachs,” “we,” “us” or “our”, we mean Goldman Sachs Bank USA. 
 “including” or “includes,” we mean “including but not limited to” or “includes but is not limited to.”
-“Marcus”, means the businesses of Goldman Sachs Bank USA and Goldman Sachs & Co. LLC that have Marcus by Goldman Sachs branding.
-"Products,” we mean the Online Savings Accounts, Certificate of Deposit accounts and any other deposit products, Marcus loans, credit cards, and other credit products, Marcus Insights, brokerage and investment advisory products and services through Marcus Invest, and any associated user account, and financial education information and materials that link to this Privacy Policy.
+“Marcus”, means the businesses of Goldman Sachs Bank USA that have Marcus by Goldman Sachs branding.
+"Products,” we mean the Online Savings Accounts, Certificate of Deposit accounts and any other deposit products, Marcus loans, credit cards and any other credit products, any associated user account, financial aggregation education information, and materials that link to this Privacy Policy.
 2. What Personal Information We Collect and Generate
 
 We may collect or generate personal information about you, or a third party acting upon your instruction, in a number of ways and from a number of sources depending on the Services and the relationship we have with you. For example:
@@ -73,7 +73,7 @@ The following is a list of the categories of personal information, along with so
 Personal Identifiers:  This includes first and last name, previous name, address, email address, account user name, social media profile, telephone number, unique personal identifier and related information, publicly available photographic images, and signature;
 Device and Online Identifiers and Related Information:  This includes online identifiers, Internet Protocol (IP) address, mobile/wireless carrier, device identifier (such as the Google Advertising ID or Apple ID for Advertising), and other device information;
 Background Information:  This includes date of birth, family information, information about your personal and professional associates and associations, and any other information we are required to collect by law and regulation;
-Financial Information:  This includes credit report information, credit scores, bank account number, transaction and financial account information, account login credentials, household income data, tax documents, your authority over financial accounts, including trusted contact/beneficial interest in and other information about entities you are associated with, public company affiliations, available account balance information, source of wealth information, investment goals and experience, net worth and liquidity needs, income and other similar financial information;
+Financial Information:  This includes credit report information, credit scores, bank account number, transaction and financial account information, account login credentials, household income data, tax documents, your authority over financial accounts, including trusted contact/beneficial interest in and other information about entities you are associated with, public company affiliations, available account balance information, income and other similar financial information;
 Government Identifiers:  This includes Social Security number, Tax Identification Number, national identification number, other government-issued identification number, driver’s or operator’s license number, passport number, Alien Registration Number and copies of government IDs;
 Protected Classification Characteristics:  This includes age, race, national origin, citizenship, nationality, marital status, sex, and veteran or military status. Please note that we do not collect information regarding gender identity, gender expression, or sexual orientation unless you provide it to us in connection with servicing your account. Please also note that under certain circumstances, when applying for a small business loan we may ask whether the business is minority- or women- owned, and for the principal owners' ethnicity and race.
 Purchase History: This includes customer purchase history or tendencies;
@@ -96,16 +96,18 @@ Personal information does not include information that has been anonymized or ag
 We collect and use personal information for the following business purposes:
 
 Administering, operating and managing your relationship with us;
-Understanding your needs and offering services to you; Complying with contractual obligations, relevant industry standards, and our policies; 
+Understanding your needs and offering services to you;
+Complying with contractual obligations, relevant industry standards, and our policies; 
 Authenticating identity;
 Mitigating fraud and enhancing the security of our services
 Contacting and communicating with you, including through push notifications and text messages;
 Conducting marketing activity, such as developing marketing and acquisitions models, identifying marketing recipients, developing marketing collateral and delivering advertisements and marketing communications;
-Responding to and reviewing social media messages or postings about us our services;
+Responding to and reviewing social media messages or postings about us or our services;
 Presenting third-party products and services we think may be of interest;
 Performing analytics concerning the use of the Services, including responses to our emails and the pages and advertisements that are viewed; and
 
-Operating, evaluating and improving our business and our services (including assessing and managing risk, fulfilling our legal and regulatory requirements, developing new services, improving and personalizing existing services, and performing accounting, auditing and other internal functions).
+Operating, evaluating, and improving our business and our services (including assessing and managing risk, fulfilling our legal and regulatory requirements, developing new services, improving and personalizing existing services, and performing accounting, auditing and other internal functions).
+ 
 
 We may also use your personal information for any other purpose that we disclose at the time you provide, or when we collect, your information, and other purposes permitted by applicable law. 
 
@@ -121,8 +123,9 @@ Goldman Sachs Affiliates: We may disclose personal information to members of th
 
 Vendors: We may disclose personal information to non-affiliated companies and partners that perform support services for us, such as data analytics, fraud analysis, identity verification, risk management, security services, advertising and marketing, customer support, mail services, email delivery, information technology, and payment processing.
 Cobrand Partners: We may disclose personal information to our cobrand partners in order to service accounts, improve services or for other purposes permissible under applicable laws and regulations.
-Legal Process and Emergency Situations: We may disclose to third parties as permitted by, or to comply with, applicable laws and regulations. Examples include responding to a subpoena or similar legal process, protecting against fraud and cooperating with law enforcement or regulatory authorities. We may also disclose information if we believe it is necessary or appropriate to protect our rights, property or safety, or the rights, property or safety of our employees, customers or others, or to enforce our contractual rights.
+Legal Process and Emergency Situations: We may disclose to third parties as permitted by, or to comply with, applicable laws and regulations. Examples include responding to a subpoena or similar legal process, protecting against fraud, and cooperating with law enforcement or regulatory authorities. We may also disclose information if we believe it is necessary or appropriate to protect our rights, property or safety, or the rights, property, or safety of our employees, customers or others, or to enforce our contractual rights.
 Corporate Transactions: In the event of a corporate transaction, such as a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of any or all of our assets or liabilities, some of the personal information that we hold may be among the assets or liabilities transferred to a buyer or other successor. We may also transfer personal information to another entity or its affiliates or service providers in connection with, or during negotiations of, any merger, acquisition, sale of assets or liabilities or any line of business, change in ownership control or financing transaction.
+
 
 The Marcus Consumer Privacy Notice provides additional information about how we share personal information and choices that you may have.
 
@@ -132,7 +135,7 @@ We also may disclose personal information to others where permissible under appl
 
 "Cookies” are small text files that may be placed on your browser when you visit websites. When you quit your browser, some Cookies are stored in your computer’s memory, while some expire or disappear.
 
-“Web Beacons,” also known as an Internet tags, pixel tags or clear GIFs, are a type of technology placed on a webpage or in an email.
+“Web Beacons,” also known as Internet tags, pixel tags or clear GIFs, are a type of technology placed on a webpage or in an email.
 
 We and our Vendors use Cookies, Web Beacons, session replay, device advertising IDs and similar technologies on the Services for a number of business purposes, such as to monitor our advertising, remember your preferences, personalize your experience, understand how you use and interact with the Services, suggest products tailored to you, for security purposes, to improve the Services and for marketing campaign performance. These technologies collect information about your browser/device and your use of the Services, such as the time/date of access and time spent on the Services, pages visited, language preferences, whether you open our emails, and other traffic data.
 
@@ -161,7 +164,7 @@ We use Google Analytics, a web analytics service provided by Google, Inc. (“Go
 
 7. How We Protect Information
 
-We take the security of personal information, including U.S. Social Security numbers, seriously and work to limit access to personal information to authorized employees, agents, contractors or vendors. We also maintain physical, electronic and procedural safeguards designed to protect the information against loss, misuse, damage or modification and unauthorized access or disclosure while in our possession.
+We take the security of personal information, including U.S. Social Security numbers, seriously and work to limit access to personal information to authorized employees, agents, contractors, or vendors. We also maintain physical, electronic and procedural safeguards designed to protect the information against loss, misuse, damage or modification and unauthorized access or disclosure while in our possession.
 
 8. Reporting Security Vulnerabilities
 
@@ -169,7 +172,7 @@ We encourage security professionals to practice responsible disclosure and let u
 
 9. Retention of Personal Information
 
-We retain personal information for varying time periods depending on our relationship with you and the status of that relationship. When determining how long to keep personal information, we take into account our legal and regulatory obligations and our legitimate business interests (such as, managing the Services, preventing fraud, responding to regulatory or supervisory inquiries, and establishing, exercising or defending legal claims, disputes or complaints).
+We retain personal information for varying time periods depending on our relationship with you and the status of that relationship. When determining how long to keep personal information, we take into account our legal and regulatory obligations and our legitimate business interests (such as, managing the Services, preventing fraud, responding to regulatory or supervisory inquiries, and establishing, exercising, or defending legal claims, disputes or complaints).
 
 10. California Residents
 
@@ -193,7 +196,7 @@ Information about the personal information that we collect about you and the man
 Obtain the specific pieces of personal information that we have collected about you;
 
 
-Effective January 1, 2023, correct inaccurate personal information that we maintain about you;
+Correct inaccurate personal information that we maintain about you;
 
 
 Delete certain personal information that we have collected from you;
@@ -212,11 +215,11 @@ The CCPA requires that we describe disclosures of personal information where:
 
 
 We receive monetary or other valuable consideration (i.e., selling, as defined under the CCPA); or
-Effective January 1, 2023, we disclose personal information about you through our website to a third party for cross-context behavioral advertising (i.e., sharing, as defined under the CCPA).
+We disclose personal information about you through our website to a third party for cross-context behavioral advertising (i.e., sharing, as defined under the CCPA).
 
-We do not sell,  and have not sold in the preceding 12 months, personal information to third parties.
+We do not sell, and have not sold in the preceding 12 months, personal information to third parties.
 
-Effective January 1, 2023, Marcus may share, and may have shared in the preceding 12 months, personal information from the “Personal Identifiers,”  “Device and Online Identifiers and Related Information,” and “Internet, Application, and Network Activity” categories of personal information with advertising and marketing partners to facilitate the delivery and measurement of cross-context behavioral advertising.  To opt-out of sharing, please click the “Your Privacy Choices” link on the footer of the website you are visiting. Please see the “Do Not Track” section above to learn how you can use opt-out preference signals and how they are processed.
+Marcus may share, and may have shared in the preceding 12 months, personal information from the “Personal Identifiers,”  “Device and Online Identifiers and Related Information,” and “Internet, Application, and Network Activity” categories of personal information with advertising and marketing partners to facilitate the delivery and measurement of cross-context behavioral advertising.  To opt-out of sharing, please click the “Your Privacy Choices” link on the footer of the website you are visiting. Please see the “Do Not Track” section above to learn how you can use opt-out preference signals and how they are processed.
 
 If you choose to opt out via the web-based tools, a cookie will be placed on your browser indicating your decision. This cookie is specific to a particular device and browser, so if you use different browsers or devices, you will need to opt out on each. In addition, because the opt-out is facilitated via cookies, if you clear your cookies you will need to opt out again.
 
@@ -245,15 +248,13 @@ We do not place telemarketing calls to numbers appearing on a state or federal d
 
 12. Links and Third-Party Products and Services
 
-The Services may contain links, QR Codes, and other functionality that connect with certain websites and applications not provided by us, including social media websites (“Third-Party Websites”). We are providing these links and functionality solely as a convenience to you. We are not responsible for and have no liability for the content, features, products, services, privacy policies or terms of service of any Third-Party Websites. The fact that we have provided a link to a Third-Party Website is not an endorsement of that Third-Party Website (including any information or content made available throughout such website) or its owners, sponsors or operators. We have not tested any information, software or products found on any Third-Party Website and therefore do not make any representations about those websites or any associated products or services.
+The Services may contain links, QR Codes, and other functionality that connect with certain websites and applications not provided by us, including social media websites (“Third-Party Websites”). We are providing these links and functionality solely as a convenience to you. We are not responsible for and have no liability for the content, features, products, services, privacy policies or terms of service of any Third-Party Websites. The fact that we have provided a link to a Third-Party Website is not an endorsement of that Third-Party Website (including any information or content made available throughout such website) or its owners, sponsors, or operators. We have not tested any information, software or products found on any Third-Party Website and therefore do not make any representations about those websites or any associated products or services.
 
 13. Contact Us
 
 In most cases, you can communicate with us through the Product. If you need to contact us for more information about this Privacy Policy or a privacy notice for a particular Product, or because you have other questions or concerns, you may do so using the information listed below:
 
-For Marcus deposits, Insights and related products, call us toll-free at 1-855-730-7283 or write us at Goldman Sachs Bank USA, PO Box 70379, Philadelphia, PA 19176-0379.
-For Marcus Invest, email us at invest-support@marcus.com or call us toll-free at 1-833-720-MINV (1-833-720-6468).
-For Marcus lending products, please call us toll-free at 1-844-MARCUS2 (1-844-627-2872) for personal loans and MarcusPay, or 1-833-906-2224 for small business loans, or write us at Goldman Sachs Bank USA, PO Box 45400, Salt Lake City, UT 84145-0400.
+For Marcus deposits and related products, call us toll-free at 1-855-730-7283 or write us at Goldman Sachs Bank USA, PO Box 70379, Philadelphia, PA 19176-0379.
 For GM Rewards Cards, call toll-free at 1-833-773-0988, or write us at Goldman Sachs Bank USA, PO Box 70321, Philadelphia, PA 19176-0321.
 14. Other Important Information
 
@@ -261,17 +262,4 @@ Any natural person using the Services must be at least 18 years of age. The Serv
 
 15. Updates to this Privacy Policy
 
-We may change this Online Privacy Policy from time-to-time. If we make changes to this Privacy Policy, we will update the “Last updated on” date at the top of this page. Any changes to this Privacy Policy will become effective when posted unless indicated otherwise. Your continued use of the Services following the posting of any changes will mean that you accept those changes.
-
-Marcus by Goldman Sachs® is a brand of Goldman Sachs Bank USA and Goldman Sachs & Co. LLC (“GS&Co.”), which are subsidiaries of The Goldman Sachs Group, Inc. 
-
-
-All loans, deposit products, and credit cards are provided or issued by Goldman Sachs Bank USA, Salt Lake City Branch. Member FDIC.
-
-Brokerage and investment advisory services offered by Marcus Invest are provided by GS&Co., which is an SEC registered broker-dealer and investment adviser, and member FINRA/SIPC. Research our firm at FINRA's BrokerCheck. Custody and clearing services are provided by Apex Clearing Corporation, a registered broker-dealer and member FINRA/SIPC. Please consider your objectives before investing. A diversified portfolio does not ensure a profit or protect against a loss.  Past performance does not guarantee future results. Investment outcomes and projections are forward-looking statements and hypothetical in nature. Neither this website nor any of its contents shall constitute an offer, solicitation, or advice to buy or sell securities in any jurisdictions where GS&Co. is not registered. Any information provided prior to opening a Marcus Invest account is on the basis that it will not constitute investment advice and that GS&Co. is not a fiduciary to any person by reason of providing such information. For more information about Marcus Invest offerings, visit our Full Disclosures.
-
-© 2022 The Goldman Sachs Group, Inc. All rights reserved.
-
-NMLS ID: 208156. NMLS Consumer Access Website: www.nmlsconsumeraccess.org
-
-Investment products are: NOT FDIC INSURED ∙ NOT A DEPOSIT OR OTHER OBLIGATION OF, OR GUARANTEED BY, GOLDMAN SACHS BANK USA ∙ SUBJECT TO INVESTMENT RISKS, INCLUDING POSSIBLE LOSS OF THE PRINCIPAL AMOUNT INVESTED
+We may change this Privacy Policy from time-to-time. If we make changes to this Privacy Policy, we will update the “Last updated on” date at the top of this page. Any changes to this Privacy Policy will become effective when posted unless indicated otherwise. Your continued use of the Services following the posting of any changes will mean that you accept those changes.
