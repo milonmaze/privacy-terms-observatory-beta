@@ -5,10 +5,10 @@ Transparency Report
 
 At AT&T, we take our responsibility to protect your information and privacy very seriously. You can learn more by reading our Customer Privacy Issue Brief.
 
-Download August 2023 Report
+Download February 2024 Report
 Overview
 
-Like all companies, we are required by law to provide information to government and law enforcement entities, as well as parties to civil lawsuits, by complying with court orders, subpoenas, lawful discovery requests and other legal requirements. This AT&T Transparency Report provides (1) specific data regarding the number and types of legal demands to which we responded for the first half of 2023 that compelled AT&T to provide information about (a) communications or (b) our customers, as well as (2) information permitted by law to be disclosed about Foreign Intelligence Surveillance Act demands for the second half of 2022. The Transparency Report also provides information about legal demands that were partially or completely rejected, demands for location information, emergency requests and international legal demands.
+Like all companies, we are required by law to provide information to government and law enforcement entities, as well as parties to civil lawsuits, by complying with court orders, subpoenas, lawful discovery requests and other legal requirements. This AT&T Transparency Report provides (1) specific data regarding the number and types of legal demands to which we responded for the second half of 2023 that compelled AT&T to provide information about (a) communications or (b) our customers, as well as (2) information permitted by law to be disclosed about Foreign Intelligence Surveillance Act demands for the first half of 2023. The Transparency Report also provides information about legal demands that were partially or completely rejected, demands for location information, emergency requests and international legal demands.
 
 In this report, “AT&T” includes all of AT&T’s operating units as of this reporting period:
 
@@ -26,13 +26,13 @@ National Security Letters (NSLs) are administrative subpoenas issued by the U.S.
 Our reporting on NSLs and FISA orders (collectively referred to as “National Security Demands”) is governed by U.S. law.2 By statute, we are permitted to report data of demands served on us and the “customer selectors targeted” by those respective demands in specifically defined numeric ranges and for only certain time periods.
 
 National Security Letters
-January - June 2023
+July - December 2023
 Total Received
 000 - 499
 Customer Selectors Targeted
-1,500 - 1,999
+2,000 - 2,499
 Foreign Intelligence Surveillance Act
-July - December 2022
+January - June 2023
 Total Content
 000 - 499
 Customer Selectors Targeted
@@ -69,44 +69,42 @@ Foreign-Originated Demands for Information about a U.S. Consumer or Business
 If we receive an international demand for information about a U.S. customer, whether an individual or business, we refer the requester to that country’s Mutual Legal Assistance Treaty (MLAT) process. We did not receive any international demands for information about a U.S. customer from a country that does not have an MLAT process. The FBI ensures that we receive the proper form of U.S. process (e.g., subpoena, court order or search warrant), subject to the limitations placed on discovery in the U.S., and that cross-border data flows are handled appropriately. All international originated demands that follow an MLAT procedure are reported in our Total Demands category.
 
 Total Demands
-January - June 2023
+July - December 2023
 Federal, State and Local; Criminal and Civil
-138,310
+129,329
 Total Subpoenas
-January - June 2023
+July - December 2023
 Criminal Subpoenas
-94,983
+85,730
 Civil Subpoenas
-7,974
+8,864
 Total
-102,957
+94,594
 Court Orders (General)
-January - June 2023
+July - December 2023
 Historic
-4,405
+3,102
 Real-Time (Pen Registers)
-3,944
+4,563
 Total
-8,349
+7,665
 Historic Search Warrants/Probable Cause Court Orders
-January - June 2023
+July - December 2023
 Stored Content
-8,100
+8,343
 Other
-9,235
+9,902
 Total
-17,335
+18,245
 Real-Time Search Warrants/Probable Cause Court Orders
-January - June 2023
+July - December 2023
 Wiretaps
-918
+750
 Mobile Locate Demands
-8,751
+8,075
 Total
-9,669
+8,825
 Demands Rejected/Partial or No Data Provided
-
-(Breakout detail of data included in Total U.S. Criminal & Civil Demands)
 
 In this category, we include the number of times we rejected a demand or provided only partial information or no information in response to a demand. Here are a few reasons why certain demands fall into this category:
 
@@ -116,45 +114,43 @@ The demand was not correctly addressed to AT&T.
 The demand did not contain all the elements necessary for a response.
 We had no information that matched the customer, equipment or other information provided in the demand.
 Type
-January - June 2023
+July - December 2023
 Rejected/Challenged
-4,037
+3,700
 Partial or No Information
-40,523
+38,158
 Total
-44,560
+41,858
 Location Demands
 
-(Breakout detail of data included in Total U.S. Criminal & Civil Demands)
+Our “Location Demands” category breaks out the number of civil and criminal legal demands we received by the type of location information (historic or real-time) demanded. Demands for location information seek precise GPS coordinates of the device or call detail records that reflect the location of any cell site processing a call. We also get demands for cell tower searches, which ask us to provide all telephone numbers that, for a certain period of time, were registered on a particular cell tower or were in the vicinity of a specific area. We do not keep track of the number of telephone numbers provided to law enforcement in connection with cell tower searches.
 
-Our “Location Demands” category breaks out the number of civil and criminal legal demands we received by the type of location information (historic or real-time) demanded. Demands for location information seek precise GPS coordinates of the device or call detail records that reflect the location of any cell site processing a call. We also get demands for cell tower searches, which ask us to provide all telephone numbers registered on a particular cell tower for a certain period of time. We do not keep track of the number of telephone numbers provided to law enforcement in connection with cell tower searches.
-
-A single cell tower demand may cover multiple towers. We disclose both the total number of demands and the total number of cell tower searches. For instance, if we received one court order that included two cell towers, we count that as one demand for two searches. For the 2,513 cell tower demands during this reporting period, we performed 6,319 searches. The average time period that law enforcement demanded for a cell tower search was 2 hours and 33 minutes for this reporting period.
+A single cell tower demand may cover multiple towers. We disclose both the total number of demands and the total number of cell tower searches. For instance, if we received one court order that included two cell towers, we count that as one demand for two searches. For the 3,504 cell tower demands during this reporting period, we performed 10,632 searches. The average time period that law enforcement demanded for a cell tower search was 1 hour and 28 minutes for this reporting period.
 
 Like all companies, we are required by law to provide information to law enforcement and other government entities by complying with court orders, subpoenas and lawful discovery requests. In all cases, we review requests to determine whether they are valid. We require a search warrant based on the probable cause standard for all demands for real-time or historical location information, except in emergency situations.
 
 Type
-January - June 2023
+July - December 2023
 Historic
-46,165
+52,710
 Real-Time
-12,091
+11,900
 Cell Tower
-2,513
+3,504
 Total
-60,769
+68,114
 Emergency Requests
 
 The numbers provided in this category are the total of 911-originated inquiries and exigent requests that we processed during this reporting period. 911-originated inquiries are those that help locate or identify a person in need of emergency assistance. “Exigent requests” are emergency requests from law enforcement working on kidnappings, missing person cases, attempted suicides and other emergencies. In order to protect your privacy, we require a certification from a law enforcement agency confirming they are dealing with a case involving risk of death or serious injury before we will share information sought by an exigent request.
 
 Type
-January - June 2023
+July - December 2023
 911
-33,428
+31,939
 Exigent
-17,047
+16,918
 Total
-50,475
+48,857
 International Demands34
 
 The “International Demands” category represents the number of civil and criminal legal demands originating outside the U.S. and related to AT&T’s operations in foreign countries. These demands are for (i) historic subscriber information about consumers who reside in other countries and businesses that operate in other countries; and (ii) URL/IP (website/internet address) blocking demands from foreign governments. Legal demands related to our operations in Mexico are addressed in a separate section later in the Report.
@@ -172,134 +168,50 @@ While we may provide internet access in some foreign countries, we do not have t
 
 Finally, the laws governing the international demands that we receive differ by country. We respond to these demands based on each country’s laws.5
 
-Austria
-January - June 2023
-IP/URL Blocking
-1
-Belgium
-January - June 2023
-IP/URL Blocking
-1
 Brazil
-January - June 2023
-IP/URL Blocking
-9
-Bulgaria
-January - June 2023
-IP/URL Blocking
-1
-Canada
-January - June 2023
+July - December 2023
 Historic: Subscriber Information
-4
-Colombia
-January - June 2023
-IP/URL Blocking
+
 3
-Croatia
-January - June 2023
+
 IP/URL Blocking
-1
-Cyprus
-January - June 2023
+
+12
+
+Colombia
+July - December 2023
 IP/URL Blocking
-1
-Czech Republic
-January - June 2023
-IP/URL Blocking
-1
+2
 Denmark
-January - June 2023
-IP/URL Blocking
-1
-Estonia
-January - June 2023
-IP/URL Blocking
-1
-Finland
-January - June 2023
-IP/URL Blocking
+July - December 2023
+Historic: Subscriber Information
 1
 France
-January - June 2023
+July - December 2023
 Historic: Subscriber Information
-18
-IP/URL Blocking
-1
+3
 Germany
-January - June 2023
+July - December 2023
 Historic: Subscriber Information
-1
-IP/URL Blocking
-1
-Greece
-January - June 2023
-IP/URL Blocking
-1
-Hungary
-January - June 2023
-IP/URL Blocking
-1
-Ireland
-January - June 2023
-IP/URL Blocking
 1
 Israel
-January - June 2023
+July - December 2023
 IP/URL Blocking
-4
+3
 Italy
-January - June 2023
-IP/URL Blocking
-1
-Latvia
-January - June 2023
-IP/URL Blocking
-1
-Lithuania
-January - June 2023
-IP/URL Blocking
-1
-Luxembourg
-January - June 2023
-IP/URL Blocking
-1
-Netherlands
-January - June 2023
+July - December 2023
 Historic: Subscriber Information
-2
-IP/URL Blocking
-1
+3
 Poland
-January - June 2023
-IP/URL Blocking
-1
-Portugal
-January - June 2023
-IP/URL Blocking
-1
-Romania
-January - June 2023
-IP/URL Blocking
-1
-Slovakia
-January - June 2023
-IP/URL Blocking
-2
-Slovenia
-January - June 2023
-IP/URL Blocking
+July - December 2023
+Historic: Subscriber Information
 1
 Spain
-January - June 2023
-IP/URL Blocking
-1
-Sweden
-January - June 2023
-IP/URL Blocking
+July - December 2023
+Historic: Subscriber Information
 1
 UK
-January - June 2023
+July - December 2023
 Historic: Subscriber Information
 1
 Mexico
@@ -317,7 +229,9 @@ National Criminal Procedure Code, articles 291 and 292
 Federal Law against Organized Crime, article 16
 Types of Legal Demands
 
-In Mexico, there is no distinction between Subpoenas and General Court Orders as in the U.S., because the law provides that all demands for customer data must be reviewed and authorized by a judge. The legal demands are classified as follows:
+In Mexico, there is no distinction between Subpoenas and General Court Orders as in the U.S., because the law provides that all demands for customer data must be reviewed and authorized by a judge.
+
+The legal demands are classified as follows:
 
 Historic Information: In a criminal case, court orders are used to demand subscriber information, call detail records, cell site location information, and identification data of mobile devices. In a civil case, court orders may only be used to demand subscriber information.
 Location Information in Real-Time: Legal demands for this information must be reviewed and authorized by a judge, whose ruling must be premised on certain criminal investigations defined by Mexican law and national security matters. Demands for location information seek precise GPS coordinates of the device or call detail records that reflect the location of any device processing communications. We also get demands for cell tower searches, which ask us to provide all telephone numbers registered on a particular cell tower for a certain period.
@@ -325,32 +239,32 @@ Location Information in Real-Time: Legal demands for this information must be r
 We do not keep track of the number of telephone numbers provided to law enforcement in connection with cell tower searches.
 Court Order for Wiretaps: In Mexico, there is a special procedure for these types of legal demands, and a judge may authorize the wiretap order, if certain legal standards are met, and the matter is related to certain criminal investigations defined by Mexican law or national security matters.
 Historic Information: Subscriber Information/Call Detail Records
-January - June 2023
+July - December 2023
 Location Information (Cell Site)
-14,568
+13,481
 Total (Includes judicial authorities and national security)
-17,744
+16,349
 Real-Time
-January - June 2023
+July - December 2023
 Wiretaps
-1,039
+965
 Location Information (Precise)
-2,062
+2,107
 Total
-3,101
+3,072
 Demands Rejected/Partial Or No Data Provided
-January - June 2023
+July - December 2023
 Rejected/Challenged
-513
+948
 Partial or No Information
-522
+362
 Total (Breakout detail of data included in Total Mexico Demands)
-1,035
+1,310
 ADDITIONAL RESOURCES
 Privacy Center
-Privacy Policy
 Privacy Issue Brief
 Human Rights Issue Brief
+Network & Data Security Issue Brief
 Download Transparency Report
 Download the Data Set
 Baja la version completa del Informe de Transparencia en español
