@@ -1,6 +1,6 @@
 English  Choose your preferred language
 Apple Privacy Policy
-Updated December 22, 2022
+Updated March 31, 2024
 
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
@@ -14,8 +14,8 @@ Download a copy of this Privacy Policy
  
 Your California Privacy Disclosures 
 Information Regarding Commercial Electronic Messages in Canada 
+Consumer Health Personal Data Privacy Policy
 Apple Health Study Apps Privacy Policy
-
 
 What Is Personal Data at Apple?
 Your Privacy Rights at Apple
