@@ -8,9 +8,9 @@ Community is the heart of Twitch. From individual communities, built by streamer
 
 Safety is the foundation beneath streamers, moderators, and everyone in chat. We want to foster a community that supports and sustains streamers’ ability to express themselves, and provides a welcoming and entertaining environment for viewers, free of illegal, harmful, and negative interactions. As a result, we take a layered approach to safety — one that combines the efforts of both Twitch and members of the community, working together globally to promote safety in real time. It starts with our Community Guidelines, which seek to balance user expression with community safety, and set expectations for the behavior that everyone on Twitch is expected to demonstrate. When we talk about harm, we mean actions that lead to physical, emotional, social or financial damage or loss to our users or to society. 
 
-These guidelines set the guardrails for what behavior is and is not allowed on our service, and apply to all content on our service, including video, chat, whispers, and accounts. When we find someone has violated our Community Guidelines we take actions that can include removal of content, a warning, and/or suspension of their account. We consider our Community Guidelines to be a living document, and we work with streamers, mods, and external safety and policy experts to review and update them regularly.
+These guidelines set the guardrails for what behavior is and is not allowed on our service, and apply to all content on our service, including video, chat, whispers, and accounts. When we find someone has violated our Community Guidelines we take actions that can include removal of content, removal of monetization tools, a warning, and/or suspension of their account. If someone who receives an account enforcement believes it was issued by mistake or in error, they may file an appeal using our Appeals procedures.
 
-In addition to these guidelines, streamers and moderators can also use customizable Twitch safety tools to tailor their channel standards to meet their needs. Viewers, moderators, and streamers play a crucial role by reporting content or behavior that breaks our Community Guidelines. Reports are reviewed by our global Safety Operations team who work 24/7/365 to ensure a swift response. In this way, we all work together to promote a safe and welcoming live environment.
+We consider our Community Guidelines to be a living document, and we work with streamers, mods, and external safety and policy experts to review and update them regularly. In addition to these guidelines, streamers and moderators can also use customizable Twitch safety tools to tailor their channel standards to meet their needs. Viewers, moderators, and streamers play a crucial role by reporting content or behavior that breaks our Community Guidelines. Reports are reviewed by our global Safety Operations team who work 24/7/365 to ensure a swift response. In this way, we all work together to promote a safe and welcoming live environment.
 
 (Expand All)
 
@@ -386,7 +386,7 @@ Browse 4chan, the dark web, or porn on Twitch
 Use randomized video chat services
 Sexual Content
 
-To ensure content on Twitch is appropriate for diverse audiences, certain sexual content is prohibited, regardless of the medium used to create it (digital or non-digital). Users are prohibited from broadcasting, uploading, soliciting, offering, and linking to pornographic content.
+To ensure content on Twitch is appropriate for diverse audiences, certain sexual content is prohibited, regardless of the medium used to create it (digital or non-digital). Users are prohibited from broadcasting, uploading, soliciting, promoting, offering, and linking to pornographic content.
 
   For example, you may not show, offer, or promote [content warning]:
 
@@ -394,12 +394,15 @@ Explicit, simulated, fictional, or implied sex or masturbation. This includes or
 Adult nudity without implied or real sex acts is subject to our Adult Nudity policies 
 Display of sexual bodily fluids
 Advertisement or solicitation of sexual services, including prostitution, escort services, sexual massages, and filmed sexual activity
+
+Content that focuses on clothed intimate body parts such as the buttocks, groin, or breasts for extended periods of time.
+
 Consensual sexual violence such as flogging or whipping another person
 Non-consensual sexual violence is subject to our Adult Sexual Violence and Exploitation policies 
 Graphic descriptions of sex acts such as phone sex or erotica
 Display of sex toys in a non-educational context, such as bragging about the size of a dildo
 
-Soliciting money, services, or items of value (including subs and Bits) for posting content that requires the Sexual Themes label - for example, listing a price to point the camera at fully clothed crotch
+The foregoing list is not exhaustive, and Twitch reserves the right to remove content that it deems to be inappropriate.
 
 Users may not directly link, promote, or advertise pornographic content in their broadcasts, profile, or chat. While users may not directly link to pornographic or sexually explicit content in their broadcasts, profile, or chat, users will not be penalized for linking to their personal websites or social media pages that may incidentally contain these links.
 
@@ -455,9 +458,9 @@ The list of contextual exceptions, outlined below, is not exhaustive. If you fin
 
   Standard guidelines 
 
-We don’t permit streamers to be fully or partially nude, including exposing genitals or buttocks. Nor do we permit streamers to imply or suggest that they are fully or partially nude, including, but not limited to, covering breasts or genitals with objects or censor bars. We do not permit the visible outline of genitals, even when covered. Broadcasting nude or partially nude minors is always prohibited, regardless of context.
+We don’t permit streamers, their co-hosts, or their invited guests to be fully or partially nude, including exposing genitals or buttocks. Nor do we permit streamers to imply or suggest that they are fully or partially nude, including, but not limited to, covering breasts or genitals with objects or censor bars. We do not permit the visible outline of genitals, even when covered. Broadcasting nude or partially nude minors is always prohibited, regardless of context.
 
-For those who present as women, we ask that you cover your nipples and do not expose underbust. Cleavage is unrestricted as long as these coverage requirements are met and it is clear that the streamer is wearing clothing. 
+For those who present as women, we ask that you cover your nipples and areolas and do not expose underbust. Cleavage is unrestricted as long as these coverage requirements are met and it is clear that the streamer is wearing clothing. 
 
 For all streamers, you must cover the area extending from your hips to the bottom of your pelvis and buttocks. 
 
@@ -467,11 +470,11 @@ For those areas of the body where coverage is required, the coverage must be ful
 
 IRL streaming
 
-Broadcasters, their co-hosts, and invited guests engaging in general IRL streaming outside the home must follow standard body-coverage expectations. Those passing through the background of your stream are not held to the same dress code requirement, but broadcasting nudity is not permitted regardless of context. If accidental nudity appears on your stream, we expect you to take immediate action, remove the content, and take precautionary steps so it won’t happen again. You should not focus your stream on anyone violating our clothing or sexual content standards; you will be held accountable for doing so to the same extent as if you were violating the standards yourself. 
+Streamers, their co-hosts, and invited guests engaging in general IRL streaming outside the home must follow standard body-coverage expectations. Those passing through the background of your stream are not held to the standard dress code requirement and the content does not have to be placed in the Pools, Hot Tubs, and Beaches category, but broadcasting nudity is not permitted regardless of context. If accidental nudity appears on your stream, we expect you to take immediate action, remove the content, and take precautionary steps so it won’t happen again. You should not focus your stream on anyone violating our clothing or sexual content standards; you will be held accountable for doing so to the same extent as if you were violating the standards yourself. 
 
 Swim and beaches, concerts and festivals
 
-Swimwear is permitted as long as it completely covers the genitals, and those who present as women must also cover their nipples. Full coverage of buttocks is not required, but camera focus around them is still subject to our Sexual Themes Content Classification Guidelines. Coverage must be fully opaque, even when wet. Sheer or partially see-through swimwear or other clothing does not constitute coverage.
+Swimwear, short shorts, and bodysuits are permitted as long as they completely cover the genitals, and those who present as women must also cover their nipples and areolas. Full coverage of buttocks is not required, but camera focus around them is still subject to our Sexual Content policy. Coverage must be fully opaque, even when wet. Sheer or partially see-through swimwear or other clothing does not constitute coverage.
 
 Content subject to this contextual exception must be placed within the Pools, Hot Tubs, and Beaches category. Content that violates standard attire guidelines and is not subject to this contextual exception (e.g. wearing a bikini outside of pool or beach setting) is still violative even if placed into the Pools, Hot Tubs, and Beaches category.
 
@@ -499,7 +502,11 @@ We recommend streamers wear attire that would be publicly appropriate for the co
 
 Why aren’t there specific rules about what clothing is and isn’t allowed on Twitch?
 
-As Twitch continues to expand the variety of content we feature, so comes the need for updating the range of attire that is acceptable. For example, something that is acceptable for a broadcast at the beach or the gym may not be acceptable for a cooking or gameplay broadcast. In an effort to help streamers abide by our Community Guidelines in the same way they would expectations of behavior in the real world, we’ve updated our policies to reflect that we will consider not just the attire itself, but also the contextual setting in which it is worn and the intent of the person wearing it, when moderating content. Please remember that content focusing on covered genitals, buttocks, or breasts are required to be labeled as Sexual Themes.
+As Twitch continues to expand the variety of content we feature, so comes the need for updating the range of attire that is acceptable. For example, something that is acceptable for a broadcast at the beach or the gym may not be acceptable for a cooking or gameplay broadcast. In an effort to help streamers abide by our Community Guidelines in the same way they would expectations of behavior in the real world, we’ve updated our policies to reflect that we will consider not just the attire itself, but also the contextual setting in which it is worn and the intent of the person wearing it, when moderating content. Please remember that content focusing on covered genitals, buttocks, or breasts for extended periods of time are prohibited under our Sexual Content policy. 
+
+Does the attire policy apply to VTubers?
+
+The attire policy applies to VTubers, in the same way it applies to other streamers. 
 
 Account Usernames and Display Names
 
@@ -661,14 +668,21 @@ We understand that sometimes streamers are victims of account takeover, fraud, o
 
 Suspension Evasion
 
-Circumventing our enforcement actions undermines the integrity of our service. Any attempt to circumvent an account suspension or chat ban by using other accounts, identities, or by appearing on another user’s account will also result in an additional enforcement against your accounts, up to an indefinite suspension. Similarly, you may not use your channel to knowingly feature or advertise a suspended user. 
+Circumventing our enforcement actions undermines the integrity of our service. For suspended users, any attempt to circumvent an account suspension or chat ban by using other accounts or identities will also result in an additional enforcement against your accounts, up to an indefinite suspension. For non-suspended Twitch streamers, you may react to a VOD or a livestream from another service of a suspended user, but you may not feature them on your stream as a guest (for example, streaming in the same room or using collaboration software to feature a suspended user as a guest, even in an ensemble).
 
-  For example, you may not:
+For purposes of this violation, “feature” is defined as 1) streaming with a suspended user, 2) streams of a group that include the suspended user.
+
+  Suspended streamers may not:
 
 Create a new account in order to evade a suspension issued to your primary account
-Facilitate a suspended user on your own channel, either by restreaming their content or hosting them directly
 
-We understand that there may be instances where suspended users appear on your stream due to circumstances beyond your control, such as through third-party gaming tournaments. However, we expect that you make a good faith effort to remove them from your broadcast, mute them, or otherwise limit their interactions with your stream.
+Streamers allowed on Twitch may not:
+
+Create a channel that functions to rebroadcast a suspended user’s content (e.g. channel panels and name similar to suspended user and rebroadcasts are presented without commentary)
+Have a one-on-one interview with a suspended user or participate in a stream with a suspended user in a group setting where the suspended user actively participates in your stream
+Attend and stream on Twitch an event hosted by or to celebrate a suspended user
+
+We understand that there may be instances where suspended users appear on your stream due to circumstances beyond your control, such as through third-party gaming tournaments or limited engagement while IRL streaming. However, we expect that you make an effort to not actively promote them in a manner intended to bypass their Twitch suspension. Please remember, that you are responsible for all content in your streams, including policy violations by third parties.
 
 Harmful Misinformation Actors
 
