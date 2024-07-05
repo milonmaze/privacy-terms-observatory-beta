@@ -1,3 +1,4 @@
+English  Choose your preferred language
 Privacy Governance
 
 Apple is committed to respecting human rights, including the right to privacy and freedom of information and expression. Our Human Rights Policy governs how we treat everyone — from our customers and teams to our business partners and people at every level of our supply chain.
@@ -56,3 +57,5 @@ Accountability requires organizations to take responsibility for data handling a
 View our APEC CBPR certification
 
 View our APEC PRP certification
+
+View Apple’s overview of personal data use for personalized user experiences carried out in the context of Article 15 of the Digital Markets Act
