@@ -57,7 +57,7 @@ Learn more
 California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we don't respond to them at this time. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take.
 
 Previous User Cookie Notice (effective until February 22, 2022)
-Was this article helpful for you?
+Was this article helpful?
 
 You might also be interested in:
 
@@ -69,6 +69,6 @@ User Privacy Notice
 In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights.
  
 
-This User Privacy Notice is effective from March 24, 2023. View the previous User Privacy Notice.
+This User Privacy Notice is effective from April 8, 2024. View the previous User Privacy Notice.
 
 15 min article
