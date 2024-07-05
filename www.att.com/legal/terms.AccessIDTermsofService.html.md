@@ -1,5 +1,4 @@
 AT&T Access ID and Account Management Terms and Conditions ("Terms")
-Documents
 Print
 
 These Terms are between AT&T Services, Inc., and its affiliates (individually and collectively, "AT&T") and you, an individual. AT&T may modify or amend these Terms at any time, with or without notice to you, by posting a copy of the modified or amended Terms at https://www.att.com/legal/general-policies.html. You agree to the modified or amended Terms if you continue using an AT&T Access ID following the date they are posted.
@@ -7,7 +6,7 @@ These Terms are between AT&T Services, Inc., and its affiliates (individually an
 1. AT&T Access ID and Account Management – General
 1.1 
 
-AT&T Access ID is a type of user ID that allows you to establish your online identity, and use that identity to manage multiple AT&T accounts online and/or to use other AT&T and third party services and applications. Account Management includes AT&T's online account management sites known as myAT&T, and any other account management site or functionality that AT&T offers. By creating or using an AT&T Access ID or Account Management, you are agreeing to these Terms, the AT&T Online Terms of Use at https://www.att.com/legal/terms.attWebsiteTermsOfUse.html and the AT&T Privacy Policy at www.att.com/privacy, each as amended from time to time, incorporated by reference, for any and all use of AT&T Access ID or Account Management.
+AT&T Access ID is a type of user ID that allows you to establish your online identity, and use that identity to manage multiple AT&T accounts online and/or to use other AT&T and third party services and applications. Account Management includes AT&T's online account management sites known as myAT&T, and any other account management site or functionality that AT&T offers. By creating or using an AT&T Access ID or Account Management, you are agreeing to these Terms, the AT&T Online Terms of Use at https://www.att.com/legal/terms.attWebsiteTermsOfUse.html and the AT&T Privacy Notice at www.att.com/privacy, each as amended from time to time, incorporated by reference, for any and all use of AT&T Access ID or Account Management.
 
 1.2. CONTRACTUAL AGE LIMITATION. 
 
@@ -41,7 +40,7 @@ You are responsible for your Profile Information and you agree that your Profile
 
 3.3 
 
-You, or anyone who can access your Profile Information, can review and revise your Profile Information at any time. Under no circumstances will AT&T or its collaborators, suppliers, or licensors be liable in any way for any Profile Information, including, but not limited to, any errors or omissions in any Profile Information, or any loss or damage of any kind incurred as a result of the use or transmission of any such Profile Information. AT&T's use and disclosure of any such Profile Information, including use of such Profile Information for targeted advertising, is governed by the AT&T Privacy Policy at att.com/privacy.
+You, or anyone who can access your Profile Information, can review and revise your Profile Information at any time. Under no circumstances will AT&T or its collaborators, suppliers, or licensors be liable in any way for any Profile Information, including, but not limited to, any errors or omissions in any Profile Information, or any loss or damage of any kind incurred as a result of the use or transmission of any such Profile Information. AT&T's use and disclosure of any such Profile Information, including use of such Profile Information for targeted advertising, is governed by the AT&T Privacy Notice at att.com/privacy.
 
 3.4 
 
