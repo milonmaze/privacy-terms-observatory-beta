@@ -1,4 +1,5 @@
 AT&T Acceptable Use Policy
+Print
 
 To be notified of changes to the Acceptable Use Policy, please complete the form available at http://www.corp.att.com/aup/subscribe.html.
 
