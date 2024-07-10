@@ -1,5 +1,5 @@
 www.researchgate.net
-Checking if the site connection is secure
-www.researchgate.net needs to review the security of your connection before proceeding.
-Ray ID: 823f29a31ed696ed
+Verifying you are human. This may take a few seconds.
+Verification is taking longer than expected. Check your Internet connection and refresh the page if the issue persists.
+Ray ID: 8a113f99681f1688
 Performance & security by Cloudflare
