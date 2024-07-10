@@ -1,5 +1,5 @@
 Use of cookies and similar technologies
-Updated Jun 26, 2024
+Updated Jul 09, 2024
 
 The information in this article applies to all Dropbox , Dropbox Sign, DocSend, and FormSwift websites.
 
@@ -123,7 +123,7 @@ These cookies are set to expire after times ranging from session (~20 minutes) t
 
 	
 
-Third-party providers used include Adobe, Marketo, Yahoo, and Google.
+Third-party providers used include Adobe, Marketo, and Google.
 
 
 
@@ -184,7 +184,7 @@ When you use our services, you can select which cookies you consent to by clicki
 California Consumer Privacy Act (CCPA)
 
 
-In accordance with the California Consumer Privacy Act, you can opt out of the selling or sharing of personal information and update your preferences by clicking the Cookies & CCPA Preferences link mentioned above. As described in the Dropbox Privacy Policy, the Dropbox Sign Privacy Policy, and the DocSend Privacy Policy, we don’t sell personal information.
+In accordance with the California Consumer Privacy Act, you can opt out of the selling or sharing of personal information and update your preferences by clicking the Cookies & CCPA Preferences link mentioned above. As described in the Dropbox Privacy Policy, the Dropbox Sign Privacy Policy, the DocSend Privacy Policy, and the FormSwift Privacy Policy, we don’t sell personal information.
 
 
 For more information on how to control and access your personal data, please see the privacy policies linked above. If you’d like more information regarding the use of data collected from cookies, contact our Data Protection Officer at privacy@dropbox.com.
