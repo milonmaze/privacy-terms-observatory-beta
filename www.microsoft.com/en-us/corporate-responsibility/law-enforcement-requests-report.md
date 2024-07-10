@@ -66,10 +66,4 @@ Does Microsoft disclose additional data as a result of the CLOUD Act?
 How many disclosures involved Dynamics 365 enterprise customers?
 How many disclosures involved Azure enterprise customers?
 Does Microsoft notify its enterprise customers when law enforcement or another governmental entity requests their data?
-Expand all | Collapse all
-Does Microsoft ever remove online content at the request of a government or other parties?
-What is Microsoft doing to combat revenge porn content on its services?
-Does Microsoft monitor for images of online child exploitation?
-How is Microsoft countering terrorist content? Does Microsoft monitor for or remove terrorist content across its services?
-Who makes the decision to remove terrorist content?
 Follow Microsoft
