@@ -1,5 +1,5 @@
 usa.visa.com
-Checking if the site connection is secure
+Verifying you are human. This may take a few seconds.
 usa.visa.com needs to review the security of your connection before proceeding.
-Ray ID: 8325fe4a9f18230e
+Ray ID: 8a21d90a1f75cea4
 Performance & security by Cloudflare
