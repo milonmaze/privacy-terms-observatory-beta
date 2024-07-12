@@ -1,5 +1,3 @@
-Important Update: We have updated our privacy statement effective Jan 1, 2023.  Learn More
-
 PRIVACY
 
 Keeping your data safe
