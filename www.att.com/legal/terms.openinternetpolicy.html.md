@@ -1,5 +1,4 @@
 AT&T Open Internet Policy Statement
-Documents
 Print
 
 AT&T has long been committed to maintaining an open Internet that provides consumers with competitive choices, and access to lawful websites and information when, where and how they want it.1 We recognize that the Internet is an essential medium for free expression and communication, for education and creative endeavors, as well as for business activities and opportunities, and are committed to maintaining that medium for all Internet users.2 We further recognize that the nation continues to confront significant economic challenges and other critical social policy issues, such as improving economic growth, health care, energy efficiency, protecting the environment and improving educational opportunities for all.3 Broadband development and deployment has a critical role to play in addressing these issues by ensuring that all Americans (and particularly economically and historically disadvantaged communities) have access to the myriad benefits of the Internet and that the Internet continues to be an engine of economic growth, jobs, and productivity.4
