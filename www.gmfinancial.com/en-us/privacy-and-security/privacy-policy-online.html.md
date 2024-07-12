@@ -5,19 +5,17 @@ SEARCH
 LOG IN
 LEASE OR BUY
 Lease or Buy
-Lease End
 Auto Financing
 Buy a GM Vehicle
 Lease a GM Vehicle
+Lease End
 Current Offers
 Car Shopping Resources
 Extended Protection
 Dealer Locator
 General Motors Insurance
-
-
-Current Offers
 Lease End
+Current Offers
 COMMERCIAL FINANCING
 Commercial MyAccount
 Financing
