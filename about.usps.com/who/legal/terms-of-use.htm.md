@@ -1,4 +1,3 @@
-Severe weather conditions across the U.S. may delay final delivery of your mail and packages. Learn more
 Terms of use
 
 Any person accessing this site agrees to the following:
