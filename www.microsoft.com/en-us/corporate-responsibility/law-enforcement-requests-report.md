@@ -1,9 +1,7 @@
-Skip to main content
 Law Enforcement Requests Report
 
 Explore law enforcement requests by country dating back to 2013.
-
-Download the current report 
+Download the current report
 Law enforcement requests
 
 Twice a year we publish the number of legal demands for customer data that we receive from law enforcement agencies around the world. While this report only covers law enforcement requests, Microsoft follows the same principles for responding to government requests for all customer data.
@@ -14,18 +12,15 @@ Government requests for customer data must comply with applicable laws. A subpoe
 
 Download previous Law Enforcement Requests Reports
 Select year
-
-  
-
 FAQ
 
 The below are frequently asked questions concerning requests we receive from law enforcement agencies around the world. Responses that include statistics derived from the Law Enforcement Requests Report are updated biannually to reflect the most recent report. Additional information and FAQs related to Microsoft policies and procedures for responding to government requests for data can be found in the Data Law blog.
 
- 
-
 Questions about Microsoft’s law enforcement requests principles
 
-Expand all | Collapse all
+Expand all
+|
+Collapse all
 What should Microsoft customers take away from this report?
 Why do you screen government requests for customer data?
 What services are subject to law enforcement requests?
@@ -44,7 +39,10 @@ Why don’t you use encryption universally?
 What do you do with encryption keys?
 Do you give governments access to platform encryption keys?
 Are legal demands subject to secrecy orders included in your reporting?
-Expand all | Collapse all
+Questions about Microsoft’s law enforcement requests practices
+Expand all
+|
+Collapse all
 What is the process for disclosing customer information in response to government legal demands?
 Does Microsoft provide any data to governments absent a formal legal request?
 Does Microsoft reject US subpoenas from government entities seeking content data?
@@ -59,11 +57,14 @@ Does Microsoft notify users if their accounts have been compromised by third par
 Does Microsoft provide customer data in response to demands from civil litigation parties?
 Does Microsoft notify customers when civil proceeding litigants request their data and does Microsoft ever challenge nondisclosure obligations?
 Does the data include any legal demands that may have been issued pursuant to US national security orders (e.g., FISA Orders and FISA Directives)?
-Expand all | Collapse all
+Questions about enterprise data
+Expand all
+|
+Collapse all
 How many enterprise cloud customers are impacted by law enforcement requests?
 What is the difference between a consumer and an enterprise customer?
 Does Microsoft disclose additional data as a result of the CLOUD Act?
 How many disclosures involved Dynamics 365 enterprise customers?
 How many disclosures involved Azure enterprise customers?
 Does Microsoft notify its enterprise customers when law enforcement or another governmental entity requests their data?
-Follow Microsoft
+Follow Microsoft   
