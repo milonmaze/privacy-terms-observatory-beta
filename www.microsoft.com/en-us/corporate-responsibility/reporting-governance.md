@@ -1,16 +1,9 @@
-Skip to main content
 Reporting governance and approach
-
 Empowering every person and every organization to achieve more requires careful attention to the impact of our business practices, policies, and community investments.
-
 Our policies and practices
-
 We work to apply the power of technology to earn and sustain the trust of the customers and partners we empower and the communities in which we live and work. This focus extends to our work to build an inclusive and sustainable future where everyone has access to the benefits and opportunities that technology can bring. It’s central to our mission to empower every person and organization to achieve more, and it's why many of our employees come to work every day.
-
 Working together with stakeholders
-
 We know that the decisions we make affect our employees, customers, partners, shareholders, suppliers, and communities, and we take their voices into account. Microsoft receives input from millions of people each year—from individual customers to policymakers and global human rights specialists. We bring outside perspectives into the company and inform our business decisions through a variety of feedback channels. We go beyond formal channels, proactively engaging with key stakeholders, advocacy groups, industry experts, corporate responsibility rating agencies, impact-focused investors, and many others. We also share our learnings and practices to help generate industry dialogue, inform public debate, and advance greater progress.
-
 Identifying material issues
 
 Our reporting describes those topics which we consider to be the most important to stakeholders when evaluating environmental, social, and governance (ESG) issues at Microsoft. Therefore, ESG materiality in our reporting does not directly correspond to the concept of materiality used in securities law.
@@ -38,7 +31,6 @@ Responsible Sourcing (including product lifecycle management)
 We see the big picture
 
 Microsoft works with our leaders across business and operations to drive companywide approaches to corporate responsibility issues.
-
 CEO and senior leadership
 
 The leaders of our commitments report directly to Microsoft President and Vice Chair, Brad Smith, who sits on our Senior Leadership Team and reports directly to Chairman and CEO, Satya Nadella. We work together to earn the trust and confidence of the public, our customers, partners, employees, and shareholders.
@@ -58,10 +50,10 @@ Compliance and ethics
 Our compliance and ethics policies and programs include our Standards of Business Conduct, which applies to employees, executive officers, Board of Directors, and Microsoft subsidiaries and controlled affiliates (where Microsoft directly or indirectly owns more than 50 percent of the voting control).
 
 Read more about our compliance and ethics policies
+
 Reporting our progress
 
 We want to help customers make informed choices about our products and services and ensure stakeholders can evaluate how we are meeting our commitments and responsibilities. Our reporting materials include both a fiscal year-end report on our progress, as well as an array of related supplemental reports and resources.
-
 Explore our reporting resources
 Aligning our values
 Global standards
@@ -84,4 +76,4 @@ Sustainable Development Goals
 We're actively engaged in supporting the UN Sustainable Development Goals and publicly report how Microsoft contributes to the global effort to achieve the SDGs.
 
 Learn more about UN Sustainable Development Goals Read our SDG report
-Follow Microsoft
+Follow Microsoft   
