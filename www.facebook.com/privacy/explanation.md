@@ -1,5 +1,4 @@
 Privacy Policy
-We updated our Privacy Policy on June 26, 2024. View our previous policy.
 What is the Privacy Policy and what does it cover?
 Effective June 26, 2024 | View printable version | See previous versions
 Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.
