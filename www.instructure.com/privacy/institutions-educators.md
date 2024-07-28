@@ -12,3 +12,4 @@ By continuing to browse or by clicking "I Accept", you agree to the storing of f
 
 I Accept
 Cookies Settings
+Instructure to be Acquired by KKRLearn More
