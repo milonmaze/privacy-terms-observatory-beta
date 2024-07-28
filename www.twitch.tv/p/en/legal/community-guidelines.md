@@ -47,7 +47,7 @@ In situations where a user has lost control of their broadcast due to severe inj
 
 In exceptional circumstances, we may preemptively suspend accounts when we believe an individual’s use of Twitch poses a high likelihood of inciting violence. In weighing the risk of harm, we consider an individual’s influence, the level of recklessness in their past behaviors (on Twitch or elsewhere), whether or not there continues to be a risk of harm, and the scale of ongoing threats.
 
-Content or activities that threaten or promote sexual violence or exploitation are strictly prohibited and may be reported to law enforcement. See Adult Sexual Violence and Exploitation for more detail.
+Content or activities that threaten or promote sexual violence are strictly prohibited and may be reported to law enforcement. See Adult Sexual Violence for more detail.
 
 Terrorism and Violent Extremism
 
@@ -56,19 +56,15 @@ Terrorism and violent extremism promote unlawful violence and spread messages of
   For example, you may not [content warning]: 
 
 Display or link terrorist or extremist propaganda, including graphic pictures or footage of terrorist or extremist violence, even for the purposes of denouncing such content
-Adult Sexual Violence and Exploitation
+Adult Sexual Violence
 
-Acts of sexual violence and exploitation are serious offenses. Content or activities that promote or threaten sexual violence or exploitation may be reported to law enforcement. Sexual violence and exploitation are not tolerated on Twitch and will result in immediate suspension of your account. 
+Acts of sexual violence are a serious offense. Content or activities that promote or threaten sexual violence may be reported to law enforcement. Sexual violence is not tolerated on Twitch and will result in immediate suspension of your account. 
 
   For example, you may not show, promote, or engage in [content warning]:
 
 Non-consensual sex acts
 Coercing a guest into committing a sex act by threatening them
 Touching another person in an intimate manner without their consent
-Sharing or threatening to share private sexually explicit content without permission of the person depicted
-Offering revenge porn of another person
-Sharing leaked nude images of another person without their consent
-Creating or sharing doctored or ‘deepfake’ intimate images of an identifiable person
 Youth Safety
 
 Twitch prohibits any content or activity that endangers youth. This includes content that features or promotes child sexual abuse material (CSAM), and the sexual exploitation, sexual misconduct or grooming of youth (which is defined by this policy as minors under 18). We report all illegal content or activity to the National Center for Missing and Exploited Children, which works with global law enforcement agencies around the world, and the consequence for engaging in such activity or with such content is immediate and indefinite suspension.
@@ -255,47 +251,49 @@ Although harassment is never allowed on Twitch, we want users to express themsel
 
 Sexual Harassment
 
-Sexual harassment is never acceptable, regardless of whether these comments are directed towards others on or off our services. Sexual harassment makes users feel uncomfortable, unsafe, and deters them from participating. We do not allow unwelcome sexual advances and solicitations, sexual objectification, or degrading attacks relating to a person’s perceived sexual practices, regardless of their gender.
+Twitch firmly opposes sexual harassment. Sexual harassment is never acceptable, whether these comments are directed towards others on or off Twitch. We define sexual harassment to encompass non-physical behaviors of a sexual nature that cause users to feel uncomfortable, degraded, unsafe, or discouraged from participation. We prohibit unwanted comments–including comments made using emojis/emotes–regarding someone's appearance or body, sexual requests or advances, sexual objectification, and negative statements or attacks related to a person's perceived sexual behaviors or activities, regardless of their gender. We also do not tolerate the recording or sharing of non-consensual intimate images or videos under any circumstances, and may report such content to law enforcement.
 
-  For example, on Twitch you may not engage in [content warning]:
+  For example, the following categories of behaviors are considered to be sexual harassment, and are prohibited on Twitch [content warning]:
 
-Making unsolicited sexual advances towards another person
-Requesting sexual favors from another user
-Whispering another user and asking them for sexual favors
-Asking for a broadcaster to expose themselves or send nude images
-Making unsolicited objectifying statements relating to the sexual body parts or practices of another person
-Making sexually-focused statements about another person’s breasts, buttocks, or genitals
-Sending hit-and-run style Whispers to other users (i.e., one-off statements without a pre-established mutual history) and making graphic comments about their sexual body parts
-Commenting on another person’s perceived sexual prowess or lack thereof
-Making repeated comments related to another person’s perceived attractiveness after the target makes it clear to you that the behavior is unwanted
-Whispering another user with compliments about their appearance after being asked to stop
+Making unwanted sexual advances towards another person
+Whispering another user with compliments about their appearance after being asked to stop  
 Sending chat messages to another user and calling them “sexy” after previously being timed-out for similar behavior
-Making unsolicited statements in reference to performing graphic sexual acts on another person
+Asking another user to expose their non-sexual body parts, such as their feet, after receiving a chat warning
+Persisting in asking about someone’s sexual experiences or history after being informed it’s unwanted
+Sending nude pictures or videos to another person
+Directing others to sexually explicit content
+Making unsolicited objectifying statements relating to the sexual body parts or practices of another person
+Making sexually-focused comments about another person’s breasts, buttocks, or genitals
+Commenting on another person’s perceived sexual abilities or lack thereof
+Commenting on how sexually aroused they are based on another person’s features
+Making requests for sexual favors or making unsolicited statements in reference to performing graphic sexual acts on another person
+Asking a streamer to expose themselves or send nude images
 Whispering other users and asking them to perform graphic sex acts
 Discussing a desire to perform graphic sex acts on a public figure
-Making derogatory statements about another person’s perceived sexual practices or sexual morality
+Making derogatory statements about another person’s perceived sexual practices, sexual morality, or sexual health
 Alleging that a person is sexually immoral due to their attire or physical appearance
 Stating that a person’s attire reflects negatively on their sexual practices
-Suggesting that a person’s channel is only popular or has not been banned due to sexual favors
+Suggesting that a person’s channel is only popular or has not been suspended due to sexual favors
 Repeatedly negatively targeting another person with sexually-focused terms, such as ‘whore’ or ‘virgin’
-Making degrading statements about a person’s sexual health
-Degrading another person by accusing them of having contracted a sexually transmitted infection
 Making claims that another person likely has a sexually transmitted infection due to their sexual practices
 Attempting to coerce others into providing sexual content or favors through threats, bribes or other inducements
 Offering to promote a user’s channel in exchange for sexual acts
 Threatening retribution against another person if they do not share sexual images or videos
-Sharing unwanted and unsolicited links to nude or sexually provocative images or videos
-Sending unsolicited nude pictures or videos to another person
-Directing others to sexually explicit content
-Sharing or threatening to share private sexually suggestive or explicit content without permission of the person depicted
-Offering revenge porn of another person
+Advocating for or expressing a desire to commit sexual violence against another person
+Expressing a wish for another person to experience sexual assault
+Directing another person to carry out non-consensual sexual acts
+Discussing a desire to commit rape against another person 
+Sharing or threatening to share non-consensual intimate images or videos
+Deliberately recording sexual body parts or intimate activities of another person without their awareness or consent
+Offering a private video of another person having sex, without permission of the person depicted
 Sharing leaked nude images of another person without their consent
+Creating or sharing doctored or ‘deepfake’ intimate images of an identifiable person
 
-When applicable, we will take indications (i.e., timeouts, channel bans, user reports, etc.) from the individual(s) targeted by this behavior into account to help us understand when advances and other statements are unwanted, even if they are not clearly derogatory.
+When applicable, we will take indications (i.e., timeouts, channel bans, user reports, etc.) from the individual(s) targeted by this behavior into account to help us understand when advances and other statements are unwanted, even if they are not clearly derogatory. If you encounter sexual harassment, we encourage you to submit a report to us and use the moderation tools available to indicate that the behavior is unwanted as this helps us understand that you feel harassed.
 
-Streamers are leaders of the communities they create or foster around them. Streamers should always consider the consequences of their statements and actions of their audiences; sometimes unwanted focus or attention can encourage others to escalate their behavior into abuse. For example, broadcasting other Twitch streams while insulting these users often encourages others to also direct abuse to the target. Participating in this activity can, therefore, lead to suspension of your account.  
+Streamers are leaders of the communities they create or foster around them. Streamers should always consider the consequences of their statements and actions of their audiences; sometimes unwanted focus or attention can encourage others to escalate their behavior into abuse. For example, broadcasting other Twitch streams while insulting these users often encourages others to also direct abuse to the target. Participating in this activity can, therefore, lead to suspension of your account. 
 
-We expect streamers to take the necessary steps to mitigate harassing content that appears on their stream. We will not suspend broadcasters that we find to be acting in good-faith (including by using tools such as AutoMod, timeouts, and channel bans) to remove abuse appearing from third parties and external sources.
+We expect streamers to take the necessary steps to mitigate harassing content that appears on their stream. We will not suspend streamers that we find to be acting in good-faith (including by using tools such as AutoMod, timeouts, and channel bans) to remove abuse appearing from third parties and external sources.
 
   Civility and Respect FAQ
 
@@ -317,7 +315,7 @@ Be cognizant of others—some people only recognize or enjoy banter when they ha
 
 Can I be suspended for sexually suggestive conversations even if I do not intend to harass anyone?
 
-Our guidelines on sexual harassment do not apply in conversations where there is clear, mutual consent. However, even if both parties clearly have an established relationship, we will issue an enforcement if we obtain any indication from the target that sexually harassing statements made on Twitch are unwanted, or if mutual consent is not explicitly clear. A person’s physical appearance or attire is not an indication of solicitation or consent. Additionally, please note that sexual commentary that is graphic or extended, even if not in violation of our sexual harassment policy, is still subject to our sexually suggestive content policy.
+Our guidelines on sexual harassment do not apply in conversations where there is clear, mutual consent. However, even if both parties clearly have an established relationship, we will issue an enforcement if we obtain any indication from the target that sexually harassing statements made on Twitch are unwanted, or if mutual consent is not explicitly clear. A person’s physical appearance or attire is not an indication of solicitation or consent. Additionally, please note that sexual commentary that is graphic or extended, even if not in violation of our sexual harassment policy, is still subject to our sexual content policy.
 
 Can I be suspended for hateful or harassing content that viewers put on my stream?
 
@@ -712,7 +710,7 @@ Safety ()
 Self-Destructive Behavior
 Violence and Threats
 Terrorism and Violent Extremism
-Adult Sexual Violence and Exploitation
+Adult Sexual Violence
 Youth Safety
 Off-Service Conduct
 Unauthorized Sharing of Private Information
