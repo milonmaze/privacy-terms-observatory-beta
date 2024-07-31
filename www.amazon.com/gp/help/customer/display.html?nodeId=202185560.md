@@ -3,6 +3,7 @@ Help & Customer Service
 
 Find more solutions
 
+Digital Services and Device Support  ›  Amazon Device and Digital Services Terms, Warranties, and Notices  ›  Alexa & Alexa Device Terms  › 
 Children's Privacy Disclosure
 Last updated: July 8, 2020
 
@@ -52,39 +53,56 @@ Yes
  
 No
 ‹ All Help Topics
+Alexa & Alexa Device Terms
+Device Warranty for Alexa Devices and Accessories
+Device Warranty for Smart Home
+Echo Buds Battery Life Testing Information
+Alexa Emergency Assist - Emergency Contacts FAQs
+Alexa Emergency Assist - Sound Detection FAQs
+Alexa Emergency Assist - Urgent Response FAQs
+Alexa Emergency Assist – Testing Urgent Response and Sound Detection
+Learn More About Your Sweat Resistant Echo Buds
+Learn More About Your Sweat and Water Resistant Echo Frames and Carrera Smart Glasses
+Learn More - Do Not Send Voice Recordings
+About Find My
+Amazon Sidewalk Privacy and Security Whitepaper
+Legal & Compliance
+Children's Privacy Disclosure
+Learn How We Use Alexa Geolocation Data and How to Delete It
+Fire Phone Terms
+Ring Terms of Service
+Alexa Shopping List Savings Program
+Declarations of Conformity for Alexa Devices and Accessories
+Declarations of Conformity for Smart Home Devices
 Quick solutions
 	
 
-Your Orders
+Devices & Content
 
-Track or cancel orders
-
-	
-
-Returns & Refunds
-
-Exchange or return items
+Deliver books, apps to your device
 
 	
 
-Manage Prime
+Digital Purchases
 
-Cancel or view benefits
-
-	
-
-Payment Settings
-
-Add or edit payment methods
+View purchased books & apps
 
 	
 
-Carrier Info
+Your Subscriptions
 
-Shipping carrier information
+Edit payment info
 
 	
 
-Account Settings
+1-Click Settings
 
-Change email or password
+Change your address
+
+	
+
+Digital & Device Forum
+
+Ask the community
+
+Contact Us
