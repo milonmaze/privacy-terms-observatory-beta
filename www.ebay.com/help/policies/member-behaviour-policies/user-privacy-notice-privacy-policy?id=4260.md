@@ -37,7 +37,7 @@ USA: eBay Inc., 2025 Hamilton Avenue, San Jose, CA 95125, USA
 Canada: eBay Canada Limited, 240 Richmond Street West, 2nd Floor Suite 02-100 Toronto, Ontario, M5V 1V6, Canada
 EU: eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany
 United Kingdom: eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom
-India: eBay Singapore Services Private Limited, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315
+India: eBay Singapore Services Private Limited, 1 Raffles Quay, #18- 00, Singapore 048583
 For all other countries: eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland
 2.2 Use of the payment services for sellers
 
@@ -148,3 +148,10 @@ Threats and offensive language policy
 Threats, offensive language and hate speech are not allowed on eBay.
 
 2 min article
+Need more help?
+Contact us
+Get the help you need from our automated assistant, or contact an agent
+Other options for you
+Ask the Community
+- opens in new window or tab
+Get the help you need from our automated assistant, or contact an agent.
