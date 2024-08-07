@@ -26,3 +26,4 @@ Enter your email address
 Try Shopify free for 3 days, no credit card required. By entering your email, you agree to receive marketing emails from Shopify.
 
 Start free trial
+,
