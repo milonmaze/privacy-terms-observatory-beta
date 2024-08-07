@@ -45,3 +45,5 @@ in connection with an asset sale or purchase, a share sale, purchase or merger, 
 Your rights over your information
 
 Please submit a data subject request through our online portal if you would like to access or request that we delete your personal information. Please keep in mind that after we anonymize your information, we will continue to use non-identifiable information to improve our services. Please note that some data subject rights only apply in certain circumstances, and all of these rights may be limited by law.
+
+,
