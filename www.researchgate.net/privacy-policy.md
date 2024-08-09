@@ -1,5 +1,5 @@
 www.researchgate.net
 Verifying you are human. This may take a few seconds.
-Verification is taking longer than expected. Check your Internet connection and refresh the page if the issue persists.
-Ray ID: 8aa5b198dde896bf
+www.researchgate.net needs to review the security of your connection before proceeding.
+Ray ID: 8b08c57c89e7cf51
 Performance & security by Cloudflare
