@@ -1,5 +1,5 @@
 usa.visa.com
 Verifying you are human. This may take a few seconds.
-usa.visa.com needs to review the security of your connection before proceeding.
-Ray ID: 8a21d90a1f75cea4
+Verification is taking longer than expected. Check your Internet connection and refresh the page if the issue persists.
+Ray ID: 8b1934096f242368
 Performance & security by Cloudflare
