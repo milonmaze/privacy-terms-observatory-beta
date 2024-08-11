@@ -1,4 +1,5 @@
 Skip to main content
+ 
 1. Information regarding the technologies we use
 2. Which service providers do we cooperate with?
 3. Your Choices
@@ -72,3 +73,10 @@ In our User Privacy Notice we have compiled all essential information about our 
 This User Privacy Notice is effective from April 8, 2024. View the previous User Privacy Notice.
 
 15 min article
+Need more help?
+Contact us
+Get the help you need from our automated assistant, or contact an agent
+Other options for you
+Ask the Community
+- opens in new window or tab
+Get the help you need from our automated assistant, or contact an agent.
