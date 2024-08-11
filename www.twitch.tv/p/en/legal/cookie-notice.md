@@ -16,7 +16,6 @@ Bits Acceptable Use Policy
 Channel Points Acceptable Use Policy
 Cookie Notice
 Ad Choices
-Photosensitive Seizure Warning
 Predictions Terms and Conditions
 Events Code Of Conduct
 Transparency Report
