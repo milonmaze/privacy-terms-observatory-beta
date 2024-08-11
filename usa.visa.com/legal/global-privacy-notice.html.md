@@ -1,5 +1,5 @@
 usa.visa.com
-usa.visa.com needs to review the security of your connection before proceeding.
-Your device clock is set to a wrong time or this challenge page was accidentally cached by an intermediary and is no longer available.
-Ray ID: 823f47d6098b67dc
+Verifying you are human. This may take a few seconds.
+Verification is taking longer than expected. Check your Internet connection and refresh the page if the issue persists.
+Ray ID: 8b1934096f252368
 Performance & security by Cloudflare
