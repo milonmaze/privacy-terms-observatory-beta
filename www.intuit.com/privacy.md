@@ -1,3 +1,5 @@
+Important Update: We are updating our privacy statement effective September 8, 2024.  Learn More
+
 PRIVACY
 
 Keeping your data safe
