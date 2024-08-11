@@ -101,7 +101,6 @@ Websites
 www.gmfinancial.com
 www.cadillacfinancial.com
 www.getmode.com
-globalcareers-gmfinancial.icims.com
 careers.gmfinancial.com
 www.rightnotes.com
 Mobile Applications
@@ -203,4 +202,4 @@ We may modify this Privacy Policy at any time. If we do, we will post the revise
 
 Effective Date
 
-This Privacy Policy is effective as of March 12, 2024.
+This Privacy Policy is effective as of July 30, 2024.
