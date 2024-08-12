@@ -1,6 +1,6 @@
 Jump to content
 
-You are invited to join the Bay Area Wiki-Picnic at Mission Dolores Park on Saturday, August 17!
+Improve wiki coverage of LA marine life at Manhattan Beach Library on Saturday, August 24!
 
 (Redirected from Privacy policy)
 Translate this page
