@@ -1,6 +1,6 @@
 Jump to content
 
-You are invited to join the Bay Area Wiki-Picnic at Mission Dolores Park on Saturday, August 17!
+You are invited to join the SD Wiki-Picnic at Mission Bay Park on Saturday, August 17!
 
 (Redirected from Donor privacy policy/en)
 Translate this page
