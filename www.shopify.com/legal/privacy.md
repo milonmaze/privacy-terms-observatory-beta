@@ -214,5 +214,3 @@ We will not discriminate against you for exercising any of these rights.
 How you can reach us
 
 If you would like to ask about or have concerns about how we process your personal information, please contact Shopify Support. If you want to make a request relating to your personal information, please contact us using the methods set out in the section immediately above.
-
-,
