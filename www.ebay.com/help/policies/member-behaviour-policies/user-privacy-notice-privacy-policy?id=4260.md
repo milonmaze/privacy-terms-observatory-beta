@@ -1,3 +1,4 @@
+Skip to main content
  
 1. Scope and updates of this User Privacy Notice
 2. Controller
@@ -50,14 +51,24 @@ Canada: eBay Commerce Canada Limited, 44 Chipman Hill, Suite 1000, Saint John NB
 Australia: eBay Commerce Australia Pty. Ltd., Level 18, 1 York Street, Sydney NSW 2000, Australia
 For all other countries: eBay Commerce Inc., 2065 Hamilton Ave., San Jose, CA 95125, USA
 
-As described in our Payments Terms of Use - opens in new window or tab, your personal data may be processed by one or more of these entities depending on your location and the eBay website on which a user completes a transaction with you.
+As described in our Payments Terms of Use
+- opens in new window or tab
+, your personal data may be processed by one or more of these entities depending on your location and the eBay website on which a user completes a transaction with you.
 
  
 3. Data protection officer and contact
 
-We have appointed data protection officers in several countries to oversee the protection of your personal data. You will find the contact details of your data protection officer in the list of our data protection officers - opens in new window or tab in our eBay Privacy Center - opens in new window or tab.
+We have appointed data protection officers in several countries to oversee the protection of your personal data. You will find the contact details of your data protection officer in the list of our data protection officers
+- opens in new window or tab
+ in our eBay Privacy Center
+- opens in new window or tab
+.
 
-Furthermore, if you have any questions or complaints regarding this User Privacy Notice, our global data protection principles (see section 6.1 Data transfers to eBay Affiliates under section 6. Cross-border data transfers below) or our handling of personal data, you can contact the eBay Privacy Team or the controller who is responsible for the processing of your personal data at any time (for further information, see section 2. Controller above). This applies regardless of whether we have appointed a data protection officer in your country. You can find all necessary information and contact details - opens in new window or tab in our eBay Privacy Center - opens in new window or tab.
+Furthermore, if you have any questions or complaints regarding this User Privacy Notice, our global data protection principles (see section 6.1 Data transfers to eBay Affiliates under section 6. Cross-border data transfers below) or our handling of personal data, you can contact the eBay Privacy Team or the controller who is responsible for the processing of your personal data at any time (for further information, see section 2. Controller above). This applies regardless of whether we have appointed a data protection officer in your country. You can find all necessary information and contact details
+- opens in new window or tab
+ in our eBay Privacy Center
+- opens in new window or tab
+.
 
  
 4. What personal data we collect and process  
@@ -68,7 +79,9 @@ Learn more about section 4
  
 5. Purposes and legal basis for data processing and categories of recipients
 
-We process your personal data for various purposes and based on several different legal bases that allow this processing. For example, we process your personal data to provide and improve our Services, to provide you with a personalized user experience on this website, to contact you about your eBay account and our Services, to provide customer service, to provide you with personalized advertising and marketing communications, and to detect, prevent, mitigate and investigate fraudulent or illegal activity. We also share your information with third parties, including service providers acting on our behalf, for these purposes. In addition, we may share your personal data among eBay Affiliates in order to fulfill our contract with you under the User Agreement and, if applicable, the Payments Terms of Use - opens in new window or tab.
+We process your personal data for various purposes and based on several different legal bases that allow this processing. For example, we process your personal data to provide and improve our Services, to provide you with a personalized user experience on this website, to contact you about your eBay account and our Services, to provide customer service, to provide you with personalized advertising and marketing communications, and to detect, prevent, mitigate and investigate fraudulent or illegal activity. We also share your information with third parties, including service providers acting on our behalf, for these purposes. In addition, we may share your personal data among eBay Affiliates in order to fulfill our contract with you under the User Agreement and, if applicable, the Payments Terms of Use
+- opens in new window or tab
+.
 
 Learn more about section 5
  
@@ -100,7 +113,9 @@ Your choices regarding cookies and similar technologies
  
 10. Data security  
 
-We protect your personal data through technical and organizational security measures to minimize risks associated with data loss, misuse, unauthorized access and unauthorized disclosure and alteration. To this end we use network security services and data encryption, for example, as well as physical access restrictions for our data centers and logical access controls for data and systems access. You can find further information on our data security in our Security Center - opens in new window or tab.
+We protect your personal data through technical and organizational security measures to minimize risks associated with data loss, misuse, unauthorized access and unauthorized disclosure and alteration. To this end we use network security services and data encryption, for example, as well as physical access restrictions for our data centers and logical access controls for data and systems access. You can find further information on our data security in our Security Center
+- opens in new window or tab
+.
 
  
 11. Other important information regarding data protection
@@ -111,7 +126,13 @@ Learn more about section 11
  
 12. Regional and State Privacy Disclosures
 
-For additional regional disclosures for residents of certain U.S. states, including California, please review our State Privacy Disclosures - opens in new window or tab page. For U.S. sellers (including those in California, Nevada, North Dakota, and Vermont), please follow the link to eBay Commerce Inc.'s U.S. Consumer Privacy Notice - opens in new window or tab. For additional disclosures for specific regions or countries, including Brazil, mainland of People's Republic of China, and the United Kingdom, please review our Regional Privacy Disclosures - opens in new window or tab page.
+For additional regional disclosures for residents of certain U.S. states, including California, please review our State Privacy Disclosures
+- opens in new window or tab
+ page. For U.S. sellers (including those in California, Nevada, North Dakota, and Vermont), please follow the link to eBay Commerce Inc.'s U.S. Consumer Privacy Notice
+- opens in new window or tab
+. For additional disclosures for specific regions or countries, including Brazil, mainland of People's Republic of China, and the United Kingdom, please review our Regional Privacy Disclosures
+- opens in new window or tab
+ page.
 
 Previous User Privacy Notice
 Was this article helpful?
