@@ -14,12 +14,15 @@ Get answers to your privacy questions and manage your privacy in a way that’s 
 Information
 Review and manage your information across your accounts
 Generative AI
-Generative AI at Meta
+AI at Meta
 Safety
 Manage what you share to feel safer using our products
 Location
 Learn how to manage your location
 View all topics
+Learn about Meta’s commitment to privacy
+Find more resources you can use to learn about how Meta builds privacy into its products.
+More privacy resources
 Learn more in the Privacy Policy
 What is the Privacy Policy and what does it cover?
 Privacy Policy
