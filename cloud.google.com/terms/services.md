@@ -85,6 +85,8 @@ Network Intelligence Center: Network Intelligence Center is Google Cloud's compr
 
 Network Service Tiers: Network Service Tiers enable you to select different quality networks (tiers) for outbound traffic to the internet: the Standard Tier primarily utilizes third party transit providers while the Premium Tier leverages Google's private backbone and peering surface for outbound data transfer.
 
+Private Service Connect: Private Service Connect allows consumers to access managed services privately from inside their VPC network. It allows managed service producers to host services in their own separate VPC networks and offer a private connection to their consumers.
+
 Secure Web Proxy (SWP): SWP provides a simple and scalable cloud-first web proxy for cloud workload protection, enabling monitoring, content inspection and granular policy control of web traffic, between Google Cloud hosted workloads and external destinations.
 
 Service Directory: Service Directory is a managed service that offers customers a single place to publish, discover and connect their services in a consistent way, regardless of their environment. Service Directory supports services in Google Cloud, multi-cloud, and on-prem environments and can scale up to thousands of services and endpoints for a single project.
@@ -289,7 +291,7 @@ Connect: Connect is a service that enables both users and Google-hosted componen
 GKE Hub: GKE Hub is centralized control-plane that enables a user to register clusters running in a variety of environments, including Google's cloud, on premises in customer datacenters, or other third party clouds. GKE Hub provides a way for customers to centrally manage features and services on customer-registered clusters.
 Google-Managed Multi-Cloud Services
 
-*BigQuery Omni: BigQuery Omni is a Google-managed multi-cloud analytics solution that enables analysts to access and analyze data stored on other supported public clouds from a singular BigQuery control-plane on GCP.
+*BigQuery Omni: BigQuery Omni is a Google-managed multi-cloud analytics solution that enables analysts to access and analyze data stored on other supported public clouds from a singular BigQuery control-plane on Google Cloud.
 
 Bare Metal
 
@@ -386,7 +388,7 @@ Resource Manager API: Resource Manager API allows you to programmatically manag
 
 Google Distributed Cloud
 
-Google Distributed Cloud connected (formerly Google Distributed Cloud Edge): Google Distributed Cloud connected allows you to run private Google Kubernetes Engine clusters on dedicated hardware on Customer premises. This solution also provides you with a VPN connection to Google Cloud Platform, allowing you to interact with other GCP Services or other applications running in your Virtual Private Cloud.
+Google Distributed Cloud connected (formerly Google Distributed Cloud Edge): Google Distributed Cloud connected allows you to run private Google Kubernetes Engine clusters on dedicated hardware on Customer premises. This solution also provides you with a VPN connection to Google Cloud Platform, allowing you to interact with other Google Cloud Services or other applications running in your Virtual Private Cloud.
 
 Sovereign Controls by Partners
 
