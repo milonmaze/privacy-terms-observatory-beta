@@ -1,6 +1,6 @@
 Jump to content
 
-Improve wiki coverage of LA marine life at Manhattan Beach Library on Saturday, August 24!
+You are invited to join the SD Wiki-Picnic at Mission Bay Park on Saturday, August 17!
 
 (Redirected from Donor privacy policy/en)
 Translate this page
