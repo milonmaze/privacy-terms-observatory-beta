@@ -1,6 +1,6 @@
 Skip to main content
 Microsoft Privacy Statement
-Last Updated: June 2024 What's new?
+Last Updated: August 2024 What's new?
 Expand All
 Print
 
@@ -12,7 +12,7 @@ Please read the product-specific details in this privacy statement, which provid
 
 Young people may prefer starting with the Privacy for young people page. That page highlights information that may be helpful for young people.
 
-For individuals in the United States, please refer to our U.S. State Data Privacy Notice and the Washington State Consumer Health Data Privacy Policy for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws.
+For individuals in the United States, please refer to our U.S. State Data Privacy Notice and the Consumer Health Data Privacy Policy for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws.
 
 Personal data we collect
 How we use personal data
@@ -66,6 +66,8 @@ We also use the data to operate our business, which includes analyzing our perfo
 In carrying out these purposes, we combine data we collect from different contexts (for example, from your use of two Microsoft products) or obtain from third parties to give you a more seamless, consistent, and personalized experience, to make informed business decisions, and for other legitimate purposes.
 
 Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the output produced by the automated methods against the underlying data.
+
+As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models. Learn more here.
 
 Learn more
 Top of page
