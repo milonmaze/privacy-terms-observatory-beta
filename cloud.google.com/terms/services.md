@@ -1,6 +1,5 @@
-Sign in
-Contact Us
-Start free
+Back to Google Cloud Terms Directory
+Current
 Google Cloud Platform Services Summary
 
 The complete list of services that form Google Cloud Platform is shown below. While Google offers many other services and APIs, only the services below are covered by the Google Cloud Platform terms of service, service level agreements (if applicable), and support offerings. Offerings identified below as Software or Premium Software are not Services under the Google Cloud Platform Terms of Service and the Cloud Data Processing Addendum.
@@ -11,7 +10,7 @@ Compute
 
 App Engine: App Engine enables you to build and host applications on the same systems that power Google applications. App Engine offers fast development and deployment; simple administration, with no need to worry about hardware, patches or backups; and effortless scalability.
 
-Batch: Batch is a fully-managed service that allows you to create batch jobs at scale. The service dynamically provisions certain Google Cloud resources, schedules your batch job on the resources, manages the queue for the job, and executes the job. Batch is natively integrated with Google Cloud services for storage, logging, monitoring, and more. 
+Batch: Batch is a fully-managed service that allows you to create batch jobs at scale. The service dynamically provisions certain Google Cloud resources, schedules your batch job on the resources, manages the queue for the job, and executes the job. Batch is natively integrated with Google Cloud services for storage, logging, monitoring, and more.
 
 Compute Engine: Compute Engine offers scalable and flexible virtual machine computing capabilities in the cloud, with options to utilize certain CPUs, GPUs, or Cloud TPUs. You can use Compute Engine to solve large-scale processing and analytic problems on Google's computing, storage, and networking infrastructure.
 
@@ -77,11 +76,11 @@ Google Cloud Armor: Google Cloud Armor offers a policy framework and rules langu
 
 Google Cloud Armor Enterprise: Google Cloud Armor Enterprise is a managed application protection service that bundles Google Cloud Armor WAF and DDoS Protection with additional services and capabilities including DDoS response support, DDoS bill protection, and Google Cloud Armor Adaptive Protection, which is Google's machine-learning based solution to protect internet-facing endpoints from network and application-based attacks.
 
-Media CDN: Media CDN is a content delivery network that leverages Google's global edge cache nodes to deliver exceptional caching efficiency and end user experiences.
+Media CDN: Media CDN is a content delivery network that leverages Google’s global edge cache nodes to deliver exceptional caching efficiency and end user experiences.
 
 Network Connectivity Center: Network Connectivity Center is a hub-and-spoke model for network connectivity management in Google Cloud that facilitates connecting a customer's resources to its cloud network.
 
-Network Intelligence Center: Network Intelligence Center is Google Cloud's comprehensive network monitoring, verification, and optimization platform across the Google Cloud, multi-cloud, and on-prem environments.
+Network Intelligence Center: Network Intelligence Center is Google Cloud’s comprehensive network monitoring, verification, and optimization platform across the Google Cloud, multi-cloud, and on-prem environments.
 
 Network Service Tiers: Network Service Tiers enable you to select different quality networks (tiers) for outbound traffic to the internet: the Standard Tier primarily utilizes third party transit providers while the Premium Tier leverages Google's private backbone and peering surface for outbound data transfer.
 
@@ -93,7 +92,7 @@ Service Directory: Service Directory is a managed service that offers customers
 
 Spectrum Access System: Spectrum Access System enables you to access the Citizens Broadband Radio Service (CBRS) in the United States, the 3.5 GHz band that is available for shared commercial use. You can use Spectrum Access System to register your CBRS devices, manage your CBRS deployments, and access a non-production test environment (if offered).
 
-Telecom Network Automation: Telecom Network Automation is Google Cloud's implementation of open source Nephio that delivers simple, carrier grade, cloud-native automation to support the creation of intent driven networks.
+Telecom Network Automation: Telecom Network Automation is Google Cloud's implementation of open source Nephio that delivers simple, carrier grade, cloud-native automation to support the creation of intent driven networks.
 
 Traffic Director: Traffic Director is Google Cloud Platform's traffic management service for open service meshes.
 
@@ -165,7 +164,7 @@ Looker (Google Cloud core): Looker (Google Cloud core) is a business intelligenc
 
 *Looker Studio: Looker Studio is a data visualization and business intelligence product. It enables customers to connect to their data stored in other systems, create reports and dashboards using that data, and share them throughout their organization. It is available only where Customer has selected Cloud terms for Looker Studio in the Admin Console.
 
-Looker Studio Pro: Looker Studio Pro is a paid edition of Looker Studio that adds enterprise governance, team management features, and other features listed at https://cloud.google.com/looker-studio/ or a successor URL. Unlike Looker Studio, Looker Studio Pro is eligible for partner resale.
+Looker Studio Pro: Looker Studio Pro is a paid edition of Looker Studio that adds enterprise governance, team management features, and other features listed at https://cloud.google.com/looker-studio/ or a successor URL. Unlike Looker Studio, Looker Studio Pro is eligible for partner resale.
 
 Pub/Sub: Pub/Sub is designed to provide reliable, many-to-many, asynchronous messaging between applications. Publisher applications can send messages to a "topic" and other applications can subscribe to that topic to receive the messages. By decoupling senders and receivers, Pub/Sub allows developers to communicate between independently written applications.
 
@@ -179,11 +178,11 @@ Anti Money Laundering AI (AML AI): AML AI enhances financial institutions' legac
 
 Contact Center AI (CCAI): CCAI uses AI to improve the customer experience in contact centers. It includes Agent Assist, Dialogflow Essentials, Dialogflow Customer Experience Edition (CX), Insights, Speech-to-Text, Text-to-Speech, and Speaker ID.
 
-Contact Center AI Insights: Contact Center AI Insights helps customers extract value from their contact center data by identifying sentiment and topics and highlighting key insights in the data.
+Contact Center AI Insights: Contact Center AI Insights helps customers extract value from their contact center data by identifying sentiment and topics and highlighting key insights in the data.
 
-Contact Center AI (CCAI) Platform: CCAI Platform is a contact-center-as-a-service (CCaaS) platform leveraging CCAI. It integrates directly with CRMs and queues and routes customer interactions across voice and digital channels to resource pools, including human agents.
+Contact Center AI (CCAI) Platform: CCAI Platform is a contact-center-as-a-service (CCaaS) platform leveraging CCAI. It integrates directly with CRMs and queues and routes customer interactions across voice and digital channels to resource pools, including human agents.
 
-Dialogflow Essentials(ES): Dialogflow ES is a development suite for voice and text conversational apps that can connect to customer applications and telephony and digital platforms.
+Dialogflow Essentials(ES): Dialogflow ES is a development suite for voice and text conversational apps that can connect to customer applications and telephony and digital platforms.
 
 Dialogflow Customer Experience Edition (CX): Dialogflow CX is a development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, and advanced IVR feature support.
 
@@ -245,13 +244,13 @@ Vertex AI Vision: Vertex AI Vision is a service that allows you to easily build,
 
 Generative AI Services
 
-Gemini for Google Cloud (formerly known as Duet AI for Google Cloud): Gemini for Google Cloud provides AI-powered end user assistance with a wide range of Google Cloud products. Gemini for Google Cloud is a generative AI-powered collaboration Service that provides assistance to Google Cloud end users. Gemini for Google Cloud is embedded in many Google Cloud products to provide developers, data scientists, and operators an integrated assistance experience. More details about the AI-assistance available through Gemini for Google Cloud can be found at https://cloud.google.com/gemini/docs/overview.
+Gemini for Google Cloud (formerly known as Duet AI for Google Cloud): Gemini for Google Cloud provides AI-powered end user assistance with a wide range of Google Cloud products. Gemini for Google Cloud is a generative AI-powered collaboration Service that provides assistance to Google Cloud end users. Gemini for Google Cloud is embedded in many Google Cloud products to provide developers, data scientists, and operators an integrated assistance experience. More details about the AI-assistance available through Gemini for Google Cloud can be found at https://cloud.google.com/gemini/docs/overview.
 
-Gemini Code Assist (formerly known as Duet AI for Developers) provides AI-powered assistance to help your development team build, deploy, and operate applications throughout the software development lifecycle.
+Gemini Code Assist (formerly known as Duet AI for Developers) provides AI-powered assistance to help your development team build, deploy, and operate applications throughout the software development lifecycle.
 
 Generative AI on Vertex AI: Generative AI on Vertex AI is any Service with generative AI functionality in Vertex AI, including:
 
-Vertex AI API enables customers to access generative AI foundation models via an API.
+Vertex AI API enables customers to access generative AI foundation models via an API.
 
 Vertex AI Conversation (formerly Gen App Builder)  allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
 Vertex AI Model Garden enables customers to access generative AI foundation models, including large language, text-to-image, image-to-text, and multimodal models.
@@ -291,7 +290,7 @@ Connect: Connect is a service that enables both users and Google-hosted componen
 GKE Hub: GKE Hub is centralized control-plane that enables a user to register clusters running in a variety of environments, including Google's cloud, on premises in customer datacenters, or other third party clouds. GKE Hub provides a way for customers to centrally manage features and services on customer-registered clusters.
 Google-Managed Multi-Cloud Services
 
-*BigQuery Omni: BigQuery Omni is a Google-managed multi-cloud analytics solution that enables analysts to access and analyze data stored on other supported public clouds from a singular BigQuery control-plane on Google Cloud.
+*BigQuery Omni: BigQuery Omni is a Google-managed multi-cloud analytics solution that enables analysts to access and analyze data stored on other supported public clouds from a singular BigQuery control-plane on Google Cloud.
 
 Bare Metal
 
@@ -305,7 +304,7 @@ BigQuery Migration Service: BigQuery Migration Service is a solution for migrati
 
 Database Migration Service: Database Migration Service is a fully-managed migration service that makes it simple to perform high fidelity, minimal-downtime migrations at scale. You can use Database Migration Service to migrate from your on-premises environments, Compute Engine, and other clouds to certain Google Cloud-managed databases with minimal downtime.
 
-Google Distributed Cloud connected Appliance Service (formerly Google Distributed Cloud Edge Appliance service): Google Distributed Cloud connected Appliance Service allows you to run private Google Kubernetes Engine clusters on ruggedized hardware deployed on customer premises. You can use Google Distributed Cloud connected Appliance Service to offload sensor data for storage, low latency processing, and ML/AI inference in bandwidth-limited locations.
+Google Distributed Cloud connected Appliance Service (formerly Google Distributed Cloud Edge Appliance service): Google Distributed Cloud connected Appliance Service allows you to run private Google Kubernetes Engine clusters on ruggedized hardware deployed on customer premises. You can use Google Distributed Cloud connected Appliance Service to offload sensor data for storage, low latency processing, and ML/AI inference in bandwidth-limited locations.
 
 Migration Center: Migration Center provides tools, best practices and data-driven prescriptive guidance designed to accelerate the end-to-end cloud migration journey through business case development, environment discovery, workload mapping, migration planning, financial analysis, foundation setup and migration execution.
 
@@ -325,31 +324,31 @@ Assured Workloads: Assured Workloads provides functionality to create security 
 
 Binary Authorization: Binary Authorization helps customers ensure that only signed and explicitly-authorized workload artifacts are deployed to their production environments. It offers tools for customers to formalize and codify secure supply chain policies for their organizations.
 
-Certificate Authority Service: Certificate Authority Service is a cloud-hosted certificate issuance service that lets customers issue and manage certificates for their cloud or on-premises workloads. Certificate Authority Service can be used to create certificate authorities using Cloud KMS keys to issue, revoke, and renew subordinate and end-entity certificates.
+Certificate Authority Service: Certificate Authority Service is a cloud-hosted certificate issuance service that lets customers issue and manage certificates for their cloud or on-premises workloads. Certificate Authority Service can be used to create certificate authorities using Cloud KMS keys to issue, revoke, and renew subordinate and end-entity certificates.
 
 Certificate Manager: Certificate Manager provides a central place for customers to control where certificates are used and how to obtain certificates, and to see the state of the certificates.
 
 Cloud Asset Inventory: Cloud Asset Inventory is an inventory of cloud assets with history. It enables users to export cloud resource metadata at a given timestamp or cloud resource metadata history within a time window.
 
-Cloud External Key Manager (Cloud EKM): Cloud EKM lets you encrypt data in Google Cloud Platform with encryption keys that are stored and managed in a third-party key management system deployed outside Google's infrastructure.
+Cloud External Key Manager (Cloud EKM): Cloud EKM lets you encrypt data in Google Cloud Platform with encryption keys that are stored and managed in a third-party key management system deployed outside Google's infrastructure.
 
-Cloud HSM: Cloud HSM (Hardware Security Module) is a cloud-hosted key management service that lets you protect encryption keys and perform cryptographic operations within a managed HSM service. You can generate, use, rotate, and destroy various symmetric and asymmetric keys.
+Cloud HSM: Cloud HSM (Hardware Security Module) is a cloud-hosted key management service that lets you protect encryption keys and perform cryptographic operations within a managed HSM service. You can generate, use, rotate, and destroy various symmetric and asymmetric keys.
 
-Cloud Key Management Service: Cloud Key Management Service is a cloud-hosted key management service that lets you manage cryptographic keys for your cloud services the same way you do on premises. You can generate, use, rotate, and destroy AES256, RSA 2048, RSA 3072, RSA 4096, EC P256, and EC P384 cryptographic keys.
+Cloud Key Management Service: Cloud Key Management Service is a cloud-hosted key management service that lets you manage cryptographic keys for your cloud services the same way you do on premises. You can generate, use, rotate, and destroy AES256, RSA 2048, RSA 3072, RSA 4096, EC P256, and EC P384 cryptographic keys.
 
 Event Threat Detection: Event Threat Detection helps detect threats in log data. Threat findings are written to Security Command Center and optionally to Cloud Logging.
 
-Key Access Justifications (KAJ): KAJ provides a justification for every request sent through Cloud EKM for an encryption key that permits data to change state from at-rest to in-use.
+Key Access Justifications (KAJ): KAJ provides a justification for every request sent through Cloud EKM for an encryption key that permits data to change state from at-rest to in-use.
 
 Risk Manager: Risk Manager allows customers to scan their cloud environments and generate reports around their compliance with industry-standard security best practices, including CIS benchmarks. Customers then have the ability to share these reports with insurance providers and brokers.
 
-Security Command Center: Security Command Center is Google Cloud's centralized vulnerability and threat reporting service. Security Command Center provides asset inventory and discovery and allows you to identify misconfigurations, vulnerabilities and threats, helping you to mitigate and remediate risks.
+Security Command Center: Security Command Center is Google Cloud's centralized vulnerability and threat reporting service. Security Command Center provides asset inventory and discovery and allows you to identify misconfigurations, vulnerabilities and threats, helping you to mitigate and remediate risks.
 
-Sensitive Data Protection (including Cloud Data Loss Prevention or DLP): Sensitive Data Protection is a fully-managed service enabling customers to discover, classify, de-identify, and protect sensitive data, such as personally identifiable information.
+Sensitive Data Protection (including Cloud Data Loss Prevention or DLP): Sensitive Data Protection is a fully-managed service enabling customers to discover, classify, de-identify, and protect sensitive data, such as personally identifiable information.
 
-VPC Service Controls: VPC Service Controls provide administrators the ability to configure security perimeters around resources of API based cloud services (such as Cloud Storage, BigQuery, Bigtable) and limit access to authorized VPC networks, thereby mitigating data exfiltration risks.
+VPC Service Controls: VPC Service Controls provide administrators the ability to configure security perimeters around resources of API based cloud services (such as Cloud Storage, BigQuery, Bigtable) and limit access to authorized VPC networks, thereby mitigating data exfiltration risks.
 
-Secret Manager: Secret Manager provides a secure and convenient method for storing API keys, passwords, certificates, and other sensitive data.
+Secret Manager: Secret Manager provides a secure and convenient method for storing API keys, passwords, certificates, and other sensitive data.
 
 Web Security Scanner: Web Security Scanner is a web application security scanner that enables developers to easily check for a subset of common web application vulnerabilities in websites built on App Engine and Compute Engine.
 
@@ -366,9 +365,9 @@ App Connector, which provides secure access to private applications in non-Googl
 Endpoint Verification, which allows administrators to build an inventory of devices and set the security posture of the devices.
 Threat and Data Protection Services, which are a set of security services that work by aggregating threat intelligence and are designed to protect enterprise users from malware transfers, phishing, malicious site visits, and sensitive data leakage.
 Chrome Enterprise Premium Integration with Chrome Browser Cloud Management, which enables malware, phishing, and data leakage protection for managed Chrome browsers.
-Other features listed at; https://chromeenterprise.google/products/chrome-enterprise-premium/ or a successor URL.
+Other features listed at; https://chromeenterprise.google/products/chrome-enterprise-premium/ or a successor URL.
 
-Cloud Identity Services: Cloud Identity Services are the services and editions as described at:; https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
+Cloud Identity Services: Cloud Identity Services are the services and editions as described at:; https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
 
 Firebase App Check: Firebase App Check provides a service that can help protect access to your APIs with platform specific attestation that helps verify app identity and device integrity.
 
@@ -418,7 +417,7 @@ Workflows: Workflows is a fully-managed service for reliably executing sequence
 
 Management Tools
 
-Google Cloud App: Google Cloud app is a native mobile app that enables customers to manage key Google Cloud services. It provides monitoring, alerting, and the ability to take actions on resources.
+Google Cloud App: Google Cloud app is a native mobile app that enables customers to manage key Google Cloud services. It provides monitoring, alerting, and the ability to take actions on resources.
 
 Cloud Deployment Manager: Cloud Deployment Manager is a hosted configuration tool which allows developers and administrators to provision and manage their infrastructure on Google Cloud Platform. It uses a declarative model which allows users to define or change the resources necessary to run their applications and will then provision and manage those resources.
 
@@ -450,7 +449,7 @@ Google Cloud Platform Premium Software
 
 Below is a list of available software components subject to the Google Cloud Platform Service Specific Terms as Premium Software.
 
-AlloyDB Omni is a downloadable version of AlloyDB that customers can run in their own datacenters, in any cloud, and on developer laptops. It is a PostgreSQL-compatible database with many of the performance and manageability enhancements implemented in AlloyDB in Google Cloud. The Developer Edition of AlloyDB Omni is Google Cloud Platform Software but is not Google Cloud Platform Premium Software.
+AlloyDB Omni is a downloadable version of AlloyDB that customers can run in their own datacenters, in any cloud, and on developer laptops. It is a PostgreSQL-compatible database with many of the performance and manageability enhancements implemented in AlloyDB in Google Cloud. The Developer Edition of AlloyDB Omni is Google Cloud Platform Software but is not Google Cloud Platform Premium Software.
 
 *Apigee hybrid runtime: Apigee hybrid runtime enables you to run the Apigee runtime plane in containers on Kubernetes within your data center.
 
@@ -474,14 +473,237 @@ Google Cloud Platform Software
 
 Below is a non-exclusive list of available software components subject to the Google Cloud Platform Service Specific Terms as Software.
 
-ABAP SDK for Google Cloud enables native, bi-directional integration between SAP applications and Google Cloud.
-BigQuery Connector for SAP replicates, in connection with SAP Landscape Transformation Replication Server, SAP NetWeaver-based application data changes in near real-time and directly into BigQuery.
+ABAP SDK for Google Cloud enables native, bi-directional integration between SAP applications and Google Cloud.
+BigQuery Connector for SAP replicates, in connection with SAP Landscape Transformation Replication Server, SAP NetWeaver-based application data changes in near real-time and directly into BigQuery.
 CCAI Connector: CCAI Connector enables enterprise contact centers with on-premise legacy telephony platforms to connect with Dialogflow Essentials, Dialogflow CX, Agent Assist, and Insights.
 Config Connector is a Kubernetes add-on that allows you to manage your Google Cloud resources through Kubernetes configuration files.
 Deep Learning VM and Container: Deep Learning VM and Container provides virtual machine and Docker images with AI frameworks that can be customized and used with Google Kubernetes Engine (GKE), Vertex AI, Cloud Run, Compute Engine, Kubernetes, and Docker Swarm.
-Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and applications hosted on Google Cloud Platform. It includes the Google Cloud Command Line Interface (CLI), Cloud Client Libraries for programmatic access to Google Cloud Platform services, the gsutil, kubectl, and bq command line tools, and various service and data emulators for local platform development. The Google Cloud SDK provides the primary programmatic interfaces to Google Cloud Platform.
+Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and applications hosted on Google Cloud Platform. It includes the Google Cloud Command Line Interface (CLI), Cloud Client Libraries for programmatic access to Google Cloud Platform services, the gsutil, kubectl, and bq command line tools, and various service and data emulators for local platform development. The Google Cloud SDK provides the primary programmatic interfaces to Google Cloud Platform.
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
-Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
+Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified June 27, 2024)
-May 6, 2024 April 9, 2024 March 27, 2024 March 18, 2024 March 12, 2024 March 7, 2024 February 26, 2024 February 15, 2024 February 12, 2024 January 15, 2024 December 20, 2023 December 12, 2023 November 15, 2023 November 01, 2023 October 26, 2023 October 12, 2023 October 11, 2023 September 25, 2023 August 28, 2023 August 24, 2023 August 14, 2023 July 27, 2023 July 12, 2023 June 29, 2023 June 22, 2023 June 13, 2023 June 7, 2023 June 5, 2023 June 1, 2023 May 16, 2023 May 10, 2023 May 8, 2023 May 2, 2023 April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
+PREVIOUS VERSIONS (LAST MODIFIED JUNE 27, 2024)
+May 6, 2024
+April 9, 2024
+March 27, 2024
+March 18, 2024
+March 12, 2024
+March 7, 2024
+February 26, 2024
+February 15, 2024
+February 12, 2024
+January 15, 2024
+December 20, 2023
+December 12, 2023
+November 15, 2023
+November 1, 2023
+October 26, 2023
+October 12, 2023
+October 11, 2023
+September 25, 2023
+August 28, 2023
+August 24, 2023
+August 14, 2023
+July 27, 2023
+July 12, 2023
+June 29, 2023
+June 22, 2023
+June 13, 2023
+June 7, 2023
+June 5, 2023
+June 1, 2023
+May 16, 2023
+May 10, 2023
+May 8, 2023
+May 2, 2023
+April 27, 2023
+April 11, 2023
+April 11, 2023
+March 30, 2023
+February 16, 2023
+December 13, 2022
+November 3, 2022
+October 11, 2022
+October 3, 2022
+September 29, 2022
+August 31, 2022
+August 22, 2022
+August 16, 2022
+August 1, 2022
+July 13, 2022
+June 28, 2022
+June 16, 2022
+May 19, 2022
+April 25, 2022
+April 12, 2022
+April 4, 2022
+March 31, 2022
+February 28, 2022
+February 2, 2022
+January 19, 2022
+December 13, 2021
+November 30, 2021
+October 18, 2021
+September 30, 2021
+September 13, 2021
+August 24, 2021
+July 20, 2021
+June 22, 2021
+May 18, 2021
+April 30, 2021
+April 14, 2021
+April 8, 2021
+March 31, 2021
+March 2, 2021
+February 4, 2021
+January 26, 2021
+January 6, 2021
+November 2, 2020
+September 15, 2020
+September 1, 2020
+August 19, 2020
+August 7, 2020
+July 27, 2020
+July 24, 2020
+July 13, 2020
+June 30, 2020
+June 9, 2020
+April 27, 2020
+April 22, 2020
+April 15, 2020
+April 9, 2020
+March 31, 2020
+March 26, 2020
+March 16, 2020
+March 11, 2020
+February 25, 2020
+February 3, 2020
+December 12, 2019
+December 3, 2019
+November 14, 2019
+November 4, 2019
+October 7, 2019
+October 1, 2019
+August 21, 2019
+June 25, 2019
+June 17, 2019
+May 31, 2019
+May 16, 2019
+April 10, 2019
+April 9, 2019
+March 11, 2019
+February 1, 2019
+January 2, 2019
+December 13, 2018
+December 3, 2018
+October 7, 2018
+September 18, 2018
+August 29, 2018
+August 16, 2018
+August 2, 2018
+July 31, 2018
+July 24, 2018
+July 10, 2018
+June 28, 2018
+May 18, 2018
+May 9, 2018
+May 8, 2018
+April 13, 2018
+March 27, 2018
+March 23, 2018
+March 21, 2018
+February 6, 2018
+January 17, 2018
+November 16, 2017
+November 13, 2017
+November 9, 2017
+October 3, 2017
+September 25, 2017
+September 13, 2017
+August 30, 2017
+menu
+
+search_spark
+send_spark
+language
+‪English‬
+Sign in
+Start free
+Contact Us
+close
+Overview
+arrow_forward
+Solutions
+arrow_forward
+Products
+arrow_forward
+Pricing
+arrow_forward
+Resources
+arrow_forward
+Docs
+Support
+Why Google
+Choosing Google Cloud
+Trust and security
+Open cloud
+Multicloud
+Global infrastructure
+Customers and case studies
+Analyst reports
+Whitepapers
+Blog
+Products and pricing
+Google Cloud pricing
+Google Workspace pricing
+See all products
+Solutions
+Infrastructure modernization
+Databases
+Application modernization
+Smart analytics
+Artificial Intelligence
+Security
+Productivity & work transformation
+Industry solutions
+DevOps solutions
+Small business solutions
+See all solutions
+Resources
+Google Cloud Affiliate Program
+Google Cloud documentation
+Google Cloud quickstarts
+Google Cloud Marketplace
+Learn about cloud computing
+Support
+Code samples
+Cloud Architecture Center
+Training
+Certifications
+Google for Developers
+Google Cloud for Startups
+System status
+Release Notes
+Engage
+Contact sales
+Find a Partner
+Become a Partner
+Events
+Podcasts
+Developer Center
+Press Corner
+Google Cloud on YouTube
+Google Cloud Tech on YouTube
+Follow on X
+Join User Research
+We're hiring. Join Google Cloud!
+Google Cloud Community
+About Google
+Privacy
+Site terms
+Google Cloud terms
+Our third decade of climate action: join us
+Sign up for the Google Cloud newsletter
+Subscribe
+language
+‪English‬
