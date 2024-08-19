@@ -10,7 +10,7 @@ Privacy Policy
 
 Community guidelines | Privacy FAQ | Privacy Policy | Cookie Policy | Children's Privacy Policy | General Terms of Use | Teen Terms of Use | UK Digital Citizenship Terms of Service| Survey Privacy Policy
 
-Effective Date of Policy (Last Update): September 12, 2023
+Effective Date of Policy (Last Update): August 15, 2024
 
 Former version
 
@@ -27,13 +27,16 @@ This Policy describes how we collect, use, and share information that can reason
 Human resources data: This Policy does not describe how we handle Personal Information collected in the context of employment.
 Business-to-business communications: Except as outlined in our EEA+ Privacy Policy below, this Policy does not describe how we collect and use the Personal Information of individuals that act as personnel of organizations with which we transact business or otherwise collaborate. For example, our collection and use of information of personnel of educational institutions we provide services to is not covered by this Policy.
 Properties subject to separate privacy notices and surveys: Please be aware that Common Sense Media also maintains certain websites and apps, which are governed by their own privacy notices. In addition, surveys are governed by the privacy notices displayed in the survey, which may differ from this Privacy Policy. If you are using another Common Sense Media website or app or responding to a survey, please be sure to consult the applicable notice.
-Information Controlled by third parties: This Policy does not apply to information Controlled by third parties (including Payment Services, and affiliates such as Common Sense Media UK.) For information about how independently Controlling third parties handle your Personal Information please refer to their policies.
+Information Controlled by third parties: This Policy does not apply to information Controlled by third parties (including Payment Services, and affiliates such as Common Sense Media UK and Bandio PBC). For information about how independently Controlling third parties handle your Personal Information please refer to their policies. The privacy notice for Bandio PBC is available here.
 
-The Services are operated by Common Sense Media, a nonprofit organization in the United States. Please see our separate Terms of Use, which governs the use of the Services. Subject to our obligations (if any) under our Terms of Use, we may limit the availability of the Services, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time in our sole discretion. Please note that:
+The Services are operated by Common Sense Media, a nonprofit organization in the United States. Please see our separate Terms of Use, which governs the use of the Services. Subject to our obligations (if any) under our Terms of Use, we may limit the availability of the Services, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time in our sole discretion. NOTE: 
+ 
 
 For Children for whom parental consent is required, aspects of the Children’s Privacy Policy apply. Please read our Children's Privacy Policy for information on how we collect, use, and disclose Children's Personal Information in compliance with the Children's Online Privacy Protection Act (“COPPA”) and other applicable laws.
 For individuals who reside in the European Economic Area or United Kingdom (EEA+) the terms of this Policy specific to individuals in the EEA+ are set out in Section VIII (Common Sense Media: EEA+ Privacy Policy).
 Our Services may link to a limited number of third-party websites or applications. We are not responsible for the practices of these third-party websites and applications.
+
+ 
 
 We encourage you to read this Policy before using the Services and not to use the Services if you disagree with any part of this Policy. By using the Services or by clicking a box that states that you accept or agree to this Policy, you signify your agreement to this Policy. However, acceptance of this Policy does not limit any rights or remedies available to you by law.
 
@@ -113,7 +116,7 @@ Payment Data
 
 Subscribers: information necessary to process payments for your Common Sense Media subscription (including affecting renewals, if and as applicable), such as name, email address, phone number, payment card information (including name as shown on your card, billing address (street address, city, state, country, ZIP code), expiration date, security code and payment card number, and associated details of subscriptions purchased from us (including any relevant payments taken).                     
 
-Please note, although our Payment Services providers require all this information to process payments on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
+Note: although our Payment Services providers require all this information to process payments on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
 
 
 
@@ -124,7 +127,7 @@ Donation Data
 
 Name (unless you want your donation to be anonymous), email address, phone number, payment card information (including name as shown on your card, billing address, expiration date, security code and payment card number) and the amount of your donation(s).                     
 
-Please note, although our Payment Services providers require all this information to process donations on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
+Note: although our Payment Services providers require all this information to process donations on our behalf, we do not receive your full security code and payment card number – we only receive the final four digits of your payment card number.
 
 
 
@@ -193,11 +196,11 @@ If you are an attendee and you choose to otherwise participate or interact in an
 
 We collect different types of Personal Information depending on whether you are a Visitor or a Member, and what type of Member you are.
 
-All Visitors: Visitors to the Services may opt-in to receive Common Sense Media email newsletters by providing their name, email address, and zip code. Please note that our newsletters are not intended for individuals under the age of 18. If you are a Member or Visitor under 18 you should not attempt to sign-up for our newsletters. We also may collect Personal Information that you choose to provide through surveys or questionnaires, such as demographic information, family information, professional information, feedback on your experience using the Services, and opinions on certain issues. Your participation in surveys and questionnaires is entirely voluntary. Surveys are governed by the privacy policies displayed in the survey, which may differ from this Policy.
+All Visitors: Visitors to the Services may opt-in to receive Common Sense Media email newsletters by providing their name, email address, and zip code. Note: that our newsletters are not intended for individuals under the age of 18. If you are a Member or Visitor under 18 you should not attempt to sign-up for our newsletters. We also may collect Personal Information that you choose to provide through surveys or questionnaires, such as demographic information, family information, professional information, feedback on your experience using the Services, and opinions on certain issues. Your participation in surveys and questionnaires is entirely voluntary. Surveys are governed by the privacy policies displayed in the survey, which may differ from this Policy.
 Participating in or using our other Services may involve the collection of Visitor Personal Information such as name, email address, phone number, mailing address, professional information, and social media handles/URLs.
 Adult Members: If you wish to become a Member, you must provide us with certain Personal Information as part of the registration process, including, for example, name, email address, and password. You may also choose to add a profile photo and username to your Member Profile. To personalize your experience on the Services and within our email newsletters, you may also optionally choose to provide us with information about your children, such as their ages, first names or nicknames, and the streaming services they use, as well as your preferences for what kind of content is suitable for your children.
 Subscribers may need to provide payment information, including name, email address, card brand, number, expiration, and code, and billing address to process donations and subscriptions. Common Sense receives address information; all other payment information is processed by a third party payment provider and not by us. See “B. Collection of Information by Our Service Providers” and DONOR SECTION for more information. Adult Members may choose to publish reviews on the Services regarding the age appropriateness and quality of books, television shows, books, games, and other forms of media.
-Educator Members: Educator Members are required to provide their name, email address, zip code or country (if outside of the United States), name and location of your worksite (e.g., school), and password. We provide you with the alternative option to register or login and link your Member account on the Services with a single-sign on service such as Google. These services will authenticate your identity and will share certain Personal Information that you allow us to collect, as discussed below. You can optionally provide additional information to your Profile such as a biographical details, profile picture, and links to social media accounts.
+Educator Members: Educator Members are required to provide their name, email address, zip code or country (if outside of the United States), name and location of your worksite, e.g., school, and password. We provide you with the alternative option to register or login and link your Member account on the Services with a single-sign on service such as Google. These services will authenticate your identity and will share certain Personal Information that you allow us to collect, as discussed below. You can optionally provide additional information to your Profile such as a biographical details, profile picture, and links to social media accounts.
 Education Members may choose to publish reviews on the Services regarding the quality of education technologies and websites.
 Teen Members: If the Member is a Teen, we do not ask for name, but we do ask for birth month and year, country, username, password, and email address.
 Teen Members may choose to publish reviews on the Services regarding the age appropriateness and quality of books, television shows, books, games, and other forms of media.
@@ -206,24 +209,28 @@ Notifying parents about our information practices with regard to Children;
 Limiting our collection of Children's Personal Information to no more than is reasonably necessary to participate in an online activity; and
 Providing parents with access to, and the ability to request changes to or deletion of, Children's Personal Information that we have collected.
 
-Please note that:
+Note:
 
-For Adult Members and Educator Members, your first name and the first initial of your last name will be displayed next to any reviews that you post on our Services by default. Adult Members have the option to create a username in their Profile to display instead of their real name. Teen Members are identified by their username.Your username identifies you on the Services. For instance, YOUR USERNAME IS INCLUDED IN YOUR PROFILE THAT IS VIEWABLE BY OTHER MEMBERS, AND IS DISPLAYED WITH REVIEWS THAT YOU WRITE. SINCE THE USERNAME IS VIEWABLE BY OTHERS, WE SUGGEST THAT YOU NOT USE YOUR REAL NAME FOR YOUR USERNAME OR PASSWORD, TO PROTECT YOUR PRIVACY.
+For Adult Members and Educator Members, your first name and the first initial of your last name will be displayed next to any reviews that you post on our Services by default. Adult Members have the option to create a username in their Profile to display instead of their real name. Teen Members are identified by their username. Your username identifies you on the Services. For instance, YOUR USERNAME IS INCLUDED IN YOUR PROFILE THAT IS VIEWABLE BY OTHER MEMBERS, AND IS DISPLAYED WITH REVIEWS THAT YOU WRITE. SINCE THE USERNAME IS VIEWABLE BY OTHERS, WE SUGGEST THAT YOU NOT USE YOUR REAL NAME FOR YOUR USERNAME OR PASSWORD, TO PROTECT YOUR PRIVACY.
 For Adult Members, when you publish reviews on the Services, the ages of your children are displayed on the reviews by default. You can choose to make the ages of your children private in your Profile settings.
 For Educator Members, when you publish reviews on the Services, the name and location of your worksite are displayed the reviews by default. You can choose to make your worksite information private in your Profile settings.
 If you decide that you no longer want to be a Member, you can delete your account at any time. To delete your account, login to your account, visit your Account Settings page, and then click the "Close my Account" link located towards the bottom of the page. Once you delete your account, all of your Personal Information stored in your account and Profile on our Services will be removed and any reviews you posted will remain on the Services but the author name will switch to "anonymous" so your name will no longer be connected with your content (unless you have chosen to include your Personal Information in that content itself – in which we recommend you request that we remove all content associated with your account). If you wish to delete your reviews you may do so before you delete your account. Or, you can contact us at Contact Support and request that we delete your content (including reviews) and account for you.
-If you decide that you would like your posted reviews deleted from our Services, you can do this at any time by logging into your account, viewing the review or comment, and clicking the "delete" button. You can also send us an email at Contact Support with your username, date of submitted review or comment, and title of media type that was reviewed. Please note that your request or deletion does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user. PLEASE NOTE THAT WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR PROFILE OR ON PUBLIC-FACING AREAS OF THE SERVICES.
+If you decide that you would like your posted reviews deleted from our Services, you can do this at any time by logging into your account, viewing the review or comment, and clicking the "delete" button. You can also send us an email at Contact Support with your username, date of submitted review or comment, and title of media type that was reviewed. Note: that your request or deletion does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user. 
+
+NOTE: THAT WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR PROFILE OR ON PUBLIC-FACING AREAS OF THE SERVICES.
 In addition to the Personal Information you provide to us while using our Services, we may receive Personal Information from other sources, such as Common Sense events, Common Sense education partners, activity on Common Sense social media platforms, and publicly and commercially available databases.
 
 B. Collection of Information by Payment Services
 
-Payment Data and Donation Data is processed directly by our Payment Services via payment service pages that we direct you to, or we incorporate into our Site or Apps. When processing payments and donations on our behalf, Payment Services typically act as our ‘processor’ in respect Users’ Payment Data and Donation Data – essentially, this means that they only process your Payment Data and Donation Data for this limited purpose. However, Payment Services may also have their own legal and regulatory obligations that might require them to use your Payment Data and Donation Data for their own compliance-related purposes (e.g., security and fraud prevention) – THIS POLICY DOES NOT ADDRESS PAYMENT SERVICES’ PROCESSING OF PAYMENT DATA AND DONATION DATA FOR SUCH INDEPENDENTLY-DETERMINED PURPOSES, WHICH WILL BE SUBJECT TO THAT PAYMENT SERVICE'S PRIVACY POLICY RATHER THAN THIS POLICY.
+Payment Data and Donation Data is processed directly by our Payment Services via payment service pages that we direct you to, or we incorporate into our Site or Apps.
+
+When processing payments and donations on our behalf, Payment Services typically act as our ‘processor’ in respect Users’ Payment Data and Donation Data – essentially, this means that they only process your Payment Data and Donation Data for this limited purpose. However, Payment Services may also have their own legal and regulatory obligations that might require them to use your Payment Data and Donation Data for their own compliance-related purposes, e.g., security and fraud prevention. – THIS POLICY DOES NOT ADDRESS PAYMENT SERVICES’ PROCESSING OF PAYMENT DATA AND DONATION DATA FOR SUCH INDEPENDENTLY-DETERMINED PURPOSES, WHICH WILL BE SUBJECT TO THAT PAYMENT SERVICE'S PRIVACY POLICY RATHER THAN THIS POLICY.
 
 C. Automatic data collection
 
 We may automatically log information about you, your computer or mobile device, and your activity over time on our Services, such as:
 
-Device data, such as your computer’s or mobile device’s operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers, language settings, mobile device carrier, radio/network information (e.g., WiFi, LTE, 3G), and general location information such as city, state or geographic area.
+Device data, such as your computer’s or mobile device’s operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type, e.g., phone, tablet, IP address, unique identifiers, language settings, mobile device carrier, radio/network information, e.g., WiFi, LTE, 3G, and general location information such as city, state or geographic area.
 Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, the website you visited before browsing to the Services, navigation paths between pages or screens, information about your activity on a page or screen, access times, and duration of access.
 
 Some of our automatic data collection is facilitated by cookies and similar technologies. For information about our cookies and similar other technologies, what they do, and how to disable the non-necessary ones, please refer to our full Cookie Policy.
@@ -236,7 +243,7 @@ A. How We Use Personal Information
 
 We use Personal Information for the following purposes:
 
-Fulfillment of Requests. We may use Personal Information about you to fulfill the purpose for which such information was provided (e.g., to send newsletters to you or respond to your requests or inquiries and provide related customer service).
+Fulfillment of Requests. We may use Personal Information about you to fulfill the purpose for which such information was provided, e.g., to send newsletters to you or respond to your requests or inquiries and provide related customer service.
 Additional Communications. If you register to become a Member of our community or sign up to receive one of our e-newsletters, we may use the Personal Information submitted in connection with your application to contact you with surveys or important communications regarding Common Sense Media. We may additionally use Personal Information to contact you about Common Sense content, features, opportunities, and products that may be of interest to you.
 Membership. If you become a Member, we may use your Personal Information to maintain and update your Profile and postings in our online reviews, surveys and polls. All content that you submit to the Services is governed by our Terms of Use. We may also use Personal Information to send updates and communications to our Members, such as our e-newsletters, surveys and other important Common Sense Media communications such as information regarding the Services or changes to our terms, conditions and policies.
 Internal Operations and Analysis. We may also use Personal Information about you for our internal business purposes, such as data analysis, audits, enhancing or modifying our products and services, and so forth.
@@ -249,7 +256,7 @@ We will not sell or use your Personal Information for targeted advertising or fo
 
 B. How We Use Information Collected Through Digital Citizenship Quizzes
 
-Quizzes provided by Common Sense Education are available at the end of each lesson in the Digital Citizenship Curriculum. Each quiz includes 4-6 questions that have varied formats: multiple choice, drag and drop to complete a sentence, and drag and drop sorting. The quiz is autograded and students can see their results immediately. The quizzes are intended to assess student understanding after the teacher has completed the corresponding lesson.
+Quizzes provided by Common Sense Education are available at the end of each lesson in the Digital Citizenship Curriculum. Each quiz includes 4-6 questions that have varied formats: multiple choice, drag and drop to complete a sentence, and drag and drop sorting. The quiz is auto graded and students can see their results immediately. The quizzes are intended to assess student understanding after the teacher has completed the corresponding lesson.
 
 Common Sense quiz reports (for the entire class and individual student) are only accessible to a teacher who is authenticated with Google Classroom and who requests specific quiz reports on specified students authenticated with Google Classroom. Common Sense uses the data collected through Digital Citizenship Quizzes exclusively for the purpose of providing the CS Digital Curriculum services to the school districts using Common Sense's free online educational services. Common Sense works with the following third party service providers to provide Google Classroom integrated quizzes through the Digital Citizenship curriculum:
 
@@ -262,7 +269,7 @@ The Google Classroom service provides Common Sense with a Google Classroom authe
 
 C. How We Use Information Collected Via Cookies and Other Technologies
 
-We use information collected via cookies, web beacons and other technologies as described in our Cookie Policy
+We use information collected via cookies, web beacons and other technologies as described in our Cookie Policy.
 
 III. HOW WE DISCLOSE INFORMATION COLLECTED ON THE SERVICES
 
@@ -276,7 +283,7 @@ Digital Literacy and Citizenship Curriculum Training. For Educator Members who 
 
 Third-Party Service Providers. We work with third-parties who provide services such as data analysis, payment or donation processing, order fulfillment, infrastructure provision, information technology services, content personalization, email delivery services, and market research or third-parties who provide other services to help improve or operate our Services. We may share Personal Information about you with third-parties solely for the purpose of enabling them to provide these services to us. These service providers are given access to Personal Information needed to perform their functions, but are restricted from using the Personal Information for purposes other than providing services for us. When we engage a third-party who will need to access and process your Personal Information as part of their services, we ascertain that the third-party is capable and obligated to provide at least the same level of data privacy and protection as we hold ourselves to. Our third-parties are required to notify us if they determine they can no longer meet the expected level of data privacy and protection, and we monitor for compliance to our data protection terms based on the nature of the services being provided.
 
-Single Login:If Educator Members register or login to the Services through a Single Sign-On Service, we will ask you for your permission to access your data on the Single Sign-On Service to create an account and profile. In addition, we may use this data for several purposes, including:
+Single Login: If Educator Members register or login to the Services through a Single Sign-On Service, we will ask you for your permission to access your data on the Single Sign-On Service to create an account and profile. In addition, we may use this data for several purposes, including:
 
 Populating Account and Profile Fields: When you are connected via a Single Sign-On Service, we will pre-populate and update your account and Profile fields with data from the Single Sign-On Service that you allow us to access. You can update this information at any time on your Account and Profile pages.
 Personalizing the Services: When you are connected via a Single Sign-On Service, we may personalize our Services experience by displaying your name (first name, and first initial of last name) and profile picture or avatar (which you can choose to not display and instead show your anonymous username and no image) on your public profile page, next to your posted reviews, or on other areas of the site where your posted content is displayed. We might also display lists of content for you that similar users also like.
@@ -292,7 +299,7 @@ You share your information with it and its privacy policy applies to the Single 
 In addition, the Single Sign-On Service may be able to collect information about you, including your activity on the Services, and it may notify your connections on the Single Sign-On Service about your use of the Services.
 Such services may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering targeted advertising to you.
 
-Please note that the privacy policies and terms of use of linked Single Sign-On Services may be different from our own and we encourage you to read them. We also encourage you to familiarize yourself with the privacy controls and account settings on linked Single Sign-On Services for information on how to customize your privacy settings with respect to content or information submitted to the Services.
+Note: that the privacy policies and terms of use of linked Single Sign-On Services may be different from our own and we encourage you to read them. We also encourage you to familiarize yourself with the privacy controls and account settings on linked Single Sign-On Services for information on how to customize your privacy settings with respect to content or information submitted to the Services.
 
 Law Enforcement; Emergencies; Compliance. Notwithstanding any other provision of this Policy to the contrary, we reserve the right to use your Personal Information, and to disclose it to others, as we believe to be necessary or appropriate: (a) under a requirement of applicable law, (b) to comply with legal process, (c) to respond to governmental requests, (d) to enforce our Terms of Service, (e) to protect our operations, (f) for assistance in fraud detection and prevention; (g) to protect the rights, privacy, safety or property of Common Sense Media, you or others, (h) to permit us to pursue available remedies or limit the damages that we may sustain, and (i) in connection with a disposition of all or a substantial portion of our business, assets or stock, such as the sale of the Site or Services, a merger, consolidation, reorganization, joint venture, assignment, or bankruptcy or similar proceedings.
 
@@ -308,7 +315,7 @@ We may use third-party service providers to provide certain services on our beha
 
 This policy applies to all donor Personal Information received by Common Sense, both online and offline, on any Services, as well as through any electronic, written, or oral communications.
 
-Please note: if you choose to make your donation ‘anonymously’, we will not use information relating to your donations for the purposes described, whether or not you would have been eligible based on the amount of the relevant donation.
+Note: if you choose to make your donation ‘anonymously’, we will not use information relating to your donations for the purposes described, whether or not you would have been eligible based on the amount of the relevant donation.
 
 V. HOW LONG WE KEEP YOUR PERSONAL INFORMATION
 
@@ -318,11 +325,11 @@ VI. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION
 
 Links. For your convenience and information, we may provide links to websites and other third-party services and content that is not owned or operated by us. The third-party websites, services and content to which we link may have separate privacy notices or policies. We are not responsible for the privacy practices of any entity that we do not own or control. The inclusion of a link or such third-party services/content on the Services does not imply our endorsement of the linked site, or that content or service.  
 
-Security. We seek to use reasonable administrative, organizational, technical, and physical measures to help protect the Personal Information you provide to us from loss, misuse, and unauthorized disclosure, alteration, or destruction. Only authorized personnel have access to Personal Information you provide to us and each employee with access to Personal Information is obligated to maintain its integrity and confidentiality. Unfortunately, no data transmission can be guaranteed to be 100% secure or error free. If you have reason to believe that your interaction with us is no longer secure, you should immediately notify us in accordance with the section below entitled "Contacting Us." Please note that if you notify us by physical mail, this will delay the time it takes for us to respond to the problem. Common Sense Media follows its Data Breach Incident Response Plan to respond to incidents that could compromise Personal Information.
+Security. We seek to use reasonable administrative, organizational, technical, and physical measures to help protect the Personal Information you provide to us from loss, misuse, and unauthorized disclosure, alteration, or destruction. Only authorized personnel have access to Personal Information you provide to us and each employee with access to Personal Information is obligated to maintain its integrity and confidentiality. Unfortunately, no data transmission can be guaranteed to be 100% secure or error free. If you have reason to believe that your interaction with us is no longer secure, you should immediately notify us in accordance with the section below entitled "Contacting Us." Note: that if you notify us by physical mail, this will delay the time it takes for us to respond to the problem. Common Sense Media follows its Data Breach Incident Response Plan to respond to incidents that could compromise Personal Information.
 
 Updating Your Personal Information. If you are a Member, you can update your Personal Information at any time by accessing your account. To do this, just click on the "My Account", "My Profile" or "My Desk" link.
 
-Changes to the Privacy Policy. We reserve the right to change this Policy, and any changes to our Policy will become effective upon our posting of the revised Policy on the Services. Use of the Services following such changes constitutes your acceptance of the revised Policy then in effect. If we make changes to this Policy we will take reasonable steps to alert users of the Services that the Policy has been updated.
+Changes to the Privacy Policy. We reserve the right to change this Policy, and any changes to our Policy will become effective upon our posting of the revised Policy on the Services. Use of the Services following such changes constitutes your acceptance of the revised Policy then in effect. If we make changes to this Policy, we will take reasonable steps to alert users of the Services that the Policy has been updated.
 
 VII. YOUR PERSONAL DATA RIGHTS AND HOW TO CONTACT US
 
@@ -335,9 +342,9 @@ Reviewing and transferring the information we have about you: You may review the
 Request a report. You have the choice to request access to information on what categories of Personal Information we have collected and processed about you.
 Request your data. You have the choice to request access to your Personal Information in a structured, commonly used, and machine-readable format (access), and you may have the right to transmit that data to another entity (portability).
 Request to correct. You have the choice to request that we rectify inaccurate or incomplete Personal Information concerning you.
-Deleting what we have: You have the choice to request that we delete the Personal Information we have about you. Please note that we may need to retain certain information because we are legally required to do so or in order to protect our legitimate interests. Once we process a deletion request, we may be unable to provide access or support to our Services. If you choose to delete your Personal information from our systems, this will also unsubscribe you from all Common Sense Media Communications and delete other information such as your membership information, and reviews. You may re-subscribe to our communications at any time, but this will not restore your history if it has been permanently erased from our systems.
+Deleting what we have: You have the choice to request that we delete the Personal Information we have about you. Note: that we may need to retain certain information because we are legally required to do so or in order to protect our legitimate interests. Once we process a deletion request, we may be unable to provide access or support to our Services. If you choose to delete your Personal information from our systems, this will also unsubscribe you from all Common Sense Media Communications and delete other information such as your membership information, and reviews. You may re-subscribe to our communications at any time, but this will not restore your history if it has been permanently erased from our systems.
 
-Note, that these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+Note: that these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 
 You are entitled to exercise the options described above free from discrimination, as prohibited by applicable privacy laws. We typically do not charge any fees for exercising the choices described above, However, we may charge a reasonable fee for requests that are clearly unfounded, repetitive, or excessive. If we determine your request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
 
@@ -374,7 +381,7 @@ VeraSafe Ireland Ltd., North Point Business Park, New Mallow Road, Cork T23AT2P,
 Our UK representative appointed under the UK GDPR is Common Sense Media, a registered charity and company in England and Wales ("Common Sense Media UK”). Common Sense Media UK can be contacted by mail at:
 1 Paternoster Square, London, EC4M 7DX, UK, with mail sent "FAO Common Sense Media: UK Representative"
 
-What do we mean by "Personal Information"? Under the GDPR, “Personal Data” refers to information about an identified or identifiable natural person. Throughout this Policy we use the term "Personal Information" to mean "Personal Data."
+What do we mean by "Personal Information"? Under the GDPR, “Personal Data” refers to information about an identified or identifiable natural person. Throughout this Policy we use the term "Personal Information" to mean "Personal Data".
 
 What are your rights in relation to your Personal Information? Under certain circumstances, by law you have the right to:
 
@@ -618,7 +625,7 @@ Donation Data (where applicable)
 
 To process: (a) the payments from our subscribers (including renewals, if and as applicable); and (b) donations people make via our Services.                     
 
-Please note that this includes making available the means by which you provide your Payment Data or Donation Data (as applicable) to Payment Services to process payments or donations (as applicable) on our behalf.                     
+Note: that this includes making available the means by which you provide your Payment Data or Donation Data (as applicable) to Payment Services to process payments or donations (as applicable) on our behalf.                     
 
 For more information, see the section titled Payment and Donation Processing (below).
 
@@ -643,7 +650,7 @@ to assess your eligibility for any such ‘perks’;
 where applicable, to provide or make available any such ‘perks’ to you (e.g., by way of an ‘access code’); and/or
 where relevant, to send you a communication to notify you of your eligibility and to provide instructions on how to claim any such ‘perks’ for which you may be eligible as a result of your donation.
 
-Please note: if you choose to make your donation ‘anonymously’, we will not use information relating to your donations for the purposes described above, whether or not you would have been eligible based on the amount of the relevant donation.
+Note: if you choose to make your donation ‘anonymously’, we will not use information relating to your donations for the purposes described above, whether or not you would have been eligible based on the amount of the relevant donation.
 
  
 
@@ -762,11 +769,11 @@ It is in our event partner organizations’ legitimate interests to receive a li
 
  
 
-Purpose limitation. We will only use your Personal Information for the purposes for which we collected it as listed above, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your Personal Information for an unrelated purpose, we will update this Privacy Policy and we will explain the legal basis which allows us to do so. Please note that we may process your Personal Information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law (including the GDPR).
+Purpose limitation. We will only use your Personal Information for the purposes for which we collected it as listed above, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your Personal Information for an unrelated purpose, we will update this Privacy Policy and we will explain the legal basis which allows us to do so. Note: that we may process your Personal Information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law (including the GDPR).
 
 What happens when you do not provide necessary Personal Data or you withdraw consent? Where we need to process your Personal Information either to comply with law, or to perform the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you. Similarly, if we rely on your consent to process your Personal Information, you are entitled to withdraw your consent, but if you do, we may not be able to provide certain services or features to you. We will keep you informed of when your access to service or features depends on your consent.
 
-Our newsletters. EEA+ Users who are Adult Members, and other EEA+ Users over the age of 18, can opt-in to receiving our newsletters. Please note, however, that you may continue to receive ‘service-related’ and other non-marketing emails from us, including notices of any updates to our Terms of Use or this Policy.
+Our newsletters. EEA+ Users who are Adult Members, and other EEA+ Users over the age of 18, can opt-in to receiving our newsletters. Note: that you may continue to receive ‘service-related’ and other non-marketing emails from us, including notices of any updates to our Terms of Use or this Policy.
 
 How do you get consent from parents of Children when we are required to do so? We use the term "Children" to refer to younger kids for whom collecting parental consent is required under applicable laws. For example, under Article 8 of GDPR, when Personal Information is collected under the lawful base of consent (as provided by Article 6(1)(a) of GDPR) in relation to the offer of information society services directly to a Child parental consent is required. The age range that requires parental consent varies per Member State but in no event can be higher than 16 years of age. If parental consent is required in respect of any processing of a Children’s Personal Information, that Child must provide their parent’s email address. We use that email address to contact the Child’s parent to ask for their consent to the relevant processing – we also explain to the parent:
 
@@ -804,7 +811,7 @@ Privacy Policy or Policy: This legal document which discloses how we collect or 
 
 Profile: The account profile you create to use our Services.
 
-Single Sign-On Service: A third-party account of yours (e.g., your Google account) that you select for open authentication into our Services instead of you creating and using a password to log into the Services.
+Single Sign-On Service: A third-party account of yours, e.g., your Google account that you select for open authentication into our Services instead of you creating and using a password to log into the Services.
 
 Services: The Common Sense Media website, www.commonsensemedia.org, and all other applications, services, and websites that link to this Privacy Policy.
 
@@ -827,6 +834,7 @@ Teen: Older kids for whom collecting parental consent is not required under appl
 GDPR: The EU General Data Protection Regulation and the so-called ‘UK GDPR’
 
 Common Sense Media
+Sign in
 Language:
 English
 Our Work and Impact
