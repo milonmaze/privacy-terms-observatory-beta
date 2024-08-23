@@ -1,7 +1,4 @@
 Jump to content
-
-Improve wiki coverage of LA marine life at Manhattan Beach Library on Saturday, August 24!
-
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
