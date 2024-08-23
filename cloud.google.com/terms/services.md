@@ -12,6 +12,8 @@ App Engine: App Engine enables you to build and host applications on the same sy
 
 Batch: Batch is a fully-managed service that allows you to create batch jobs at scale. The service dynamically provisions certain Google Cloud resources, schedules your batch job on the resources, manages the queue for the job, and executes the job. Batch is natively integrated with Google Cloud services for storage, logging, monitoring, and more.
 
+Blockchain Node Engine: Blockchain Node Engine is a fully-managed node-hosting service for Web3 development.
+
 Compute Engine: Compute Engine offers scalable and flexible virtual machine computing capabilities in the cloud, with options to utilize certain CPUs, GPUs, or Cloud TPUs. You can use Compute Engine to solve large-scale processing and analytic problems on Google's computing, storage, and networking infrastructure.
 
 Google Cloud VMware Engine (GCVE): GCVE is a managed VMware-as-a-Service that is specifically designed for running VMware workloads on Google Cloud Platform. GCVE enables customers to run VMware virtual machines natively in a dedicated, private, software-defined data center.
@@ -252,7 +254,7 @@ Generative AI on Vertex AI: Generative AI on Vertex AI is any Service with gener
 
 Vertex AI API enables customers to access generative AI foundation models via an API.
 
-Vertex AI Conversation (formerly Gen App Builder)  allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
+Vertex AI Conversation (formerly Gen App Builder) allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
 Vertex AI Model Garden enables customers to access generative AI foundation models, including large language, text-to-image, image-to-text, and multimodal models.
 Vertex AI Search allows customers to leverage foundational models and search and recommendation technologies to create multimodal semantic search and question-answering experiences.
 Vertex AI Studio is a user interface in the Google Cloud console for rapidly prototyping and testing generative AI models.
@@ -336,8 +338,6 @@ Cloud HSM: Cloud HSM (Hardware Security Module) is a cloud-hosted key managemen
 
 Cloud Key Management Service: Cloud Key Management Service is a cloud-hosted key management service that lets you manage cryptographic keys for your cloud services the same way you do on premises. You can generate, use, rotate, and destroy AES256, RSA 2048, RSA 3072, RSA 4096, EC P256, and EC P384 cryptographic keys.
 
-Event Threat Detection: Event Threat Detection helps detect threats in log data. Threat findings are written to Security Command Center and optionally to Cloud Logging.
-
 Key Access Justifications (KAJ): KAJ provides a justification for every request sent through Cloud EKM for an encryption key that permits data to change state from at-rest to in-use.
 
 Risk Manager: Risk Manager allows customers to scan their cloud environments and generate reports around their compliance with industry-standard security best practices, including CIS benchmarks. Customers then have the ability to share these reports with insurance providers and brokers.
@@ -403,7 +403,7 @@ Serverless Computing
 
 Cloud Run: Cloud Run (fully-managed) lets you run stateless containers on a fully-managed environment.
 
-Cloud Functions: Cloud Functions is a lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
+Cloud Run functions (formerly known as Cloud Functions): Cloud Run functions is a lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
 
 *Cloud Functions for Firebase: Cloud Functions for Firebase lets you write code that responds to events and invokes functionality exposed by other Firebase features, once you deploy JavaScript code in a hosted, private, and scalable Node.js environment that requires no maintenance.
 
@@ -411,7 +411,7 @@ Cloud Scheduler: Cloud Scheduler is a fully-managed enterprise-grade cron job sc
 
 Cloud Tasks: Cloud Tasks is a fully-managed service that allows you to manage the execution, dispatch, and delivery of a large number of distributed tasks. Using Cloud Tasks, you can perform work asynchronously outside of a user or service-to-service request. Cloud Tasks provides all the benefits of a distributed task queue such as task offloading wherein heavyweight, background and long running processes can be dispatched to a task queue, loose coupling between microservices allowing them to scale independently, and enhanced system reliability as tasks are persisted in storage and retried automatically, making your infrastructure resilient to intermittent failures.
 
-Eventarc: Eventarc is a fully-managed service for eventing on Google Cloud Platform. Eventarc connects various Google Cloud services together, allowing source services (e.g., Cloud Storage) to emit events that are delivered to target services (e.g., Cloud Run or Cloud Functions).
+Eventarc: Eventarc is a fully-managed service for eventing on Google Cloud Platform. Eventarc connects various Google Cloud services together, allowing source services (e.g., Cloud Storage) to emit events that are delivered to target services (e.g., Cloud Run or Cloud Run functions).
 
 Workflows: Workflows is a fully-managed service for reliably executing sequences of operations across microservices, Google Cloud services, and HTTP-based APIs.
 
@@ -482,7 +482,8 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (LAST MODIFIED JUNE 27, 2024)
+PREVIOUS VERSIONS (Last modified August 21, 2024)
+June 27, 2024
 May 6, 2024
 April 9, 2024
 March 27, 2024
