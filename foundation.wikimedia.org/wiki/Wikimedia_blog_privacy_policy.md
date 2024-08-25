@@ -1,7 +1,4 @@
 Jump to content
-
-Improve wiki coverage of LA marine life at Manhattan Beach Library on Saturday, August 24!
-
 (Redirected from Wikimedia blog privacy policy)
 	
 Please note: This page is kept for historical reasons. It is no longer being maintained and may be out-of-date or inaccurate.
