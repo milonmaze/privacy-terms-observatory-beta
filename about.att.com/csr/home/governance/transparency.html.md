@@ -1,5 +1,5 @@
 Skip to main content
-Reports
+Corporate Responsibility Reporting
 Transparency Report
 Transparency Report
 
@@ -25,22 +25,14 @@ National Security Letters (NSLs) are administrative subpoenas issued by the U.S.
 
 Our reporting on NSLs and FISA orders (collectively referred to as “National Security Demands”) is governed by U.S. law.2 By statute, we are permitted to report data of demands served on us and the “customer selectors targeted” by those respective demands in specifically defined numeric ranges and for only certain time periods.
 
-National Security Letters
-July - December 2023
-Total Received
-000 - 499
-Customer Selectors Targeted
-2,000 - 2,499
-Foreign Intelligence Surveillance Act
-January - June 2023
-Total Content
-000 - 499
-Customer Selectors Targeted
-12,500 - 12,999
-Total Non-Content
-000 - 499
-Customer Selectors Targeted
-000 - 499
+National Security Letters	July - December 2023
+Total Received	000 - 499
+Customer Selectors Targeted	2,000 - 2,499
+Foreign Intelligence Surveillance Act	January - June 2023
+Total Content	000 - 499
+Customer Selectors Targeted	12,500 - 12,999
+Total Non-Content	000 - 499
+Customer Selectors Targeted	000 - 499
 Total U.S. Criminal and Civil Demands
 
 This number includes demands to which we responded in connection with criminal and civil litigation matters. This category doesn’t include demands reported in our National Security Demands table.
@@ -68,42 +60,24 @@ Foreign-Originated Demands for Information about a U.S. Consumer or Business
 
 If we receive an international demand for information about a U.S. customer, whether an individual or business, we refer the requester to that country’s Mutual Legal Assistance Treaty (MLAT) process. We did not receive any international demands for information about a U.S. customer from a country that does not have an MLAT process. The FBI ensures that we receive the proper form of U.S. process (e.g., subpoena, court order or search warrant), subject to the limitations placed on discovery in the U.S., and that cross-border data flows are handled appropriately. All international originated demands that follow an MLAT procedure are reported in our Total Demands category.
 
-Total Demands
-July - December 2023
-Federal, State and Local; Criminal and Civil
-129,329
-Total Subpoenas
-July - December 2023
-Criminal Subpoenas
-85,730
-Civil Subpoenas
-8,864
-Total
-94,594
-Court Orders (General)
-July - December 2023
-Historic
-3,102
-Real-Time (Pen Registers)
-4,563
-Total
-7,665
-Historic Search Warrants/Probable Cause Court Orders
-July - December 2023
-Stored Content
-8,343
-Other
-9,902
-Total
-18,245
-Real-Time Search Warrants/Probable Cause Court Orders
-July - December 2023
-Wiretaps
-750
-Mobile Locate Demands
-8,075
-Total
-8,825
+Total Demands	July - December 2023
+Federal, State and Local; Criminal and Civil	129,329
+Total Subpoenas	July - December 2023
+Criminal Subpoenas	85,730
+Civil Subpoenas	8,864
+Total	94,594
+Court Orders (General)	July - December 2023
+Historic	3,102
+Real-Time (Pen Registers)	4,563
+Total	7,665
+Historic Search Warrants/Probable Cause Court Orders	July - December 2023
+Stored Content	8,343
+Other	9,902
+Total	18,245
+Real-Time Search Warrants/Probable Cause Court Orders	July - December 2023
+Wiretaps	750
+Mobile Locate Demands	8,075
+Total	8,825
 Demands Rejected/Partial or No Data Provided
 
 In this category, we include the number of times we rejected a demand or provided only partial information or no information in response to a demand. Here are a few reasons why certain demands fall into this category:
@@ -113,14 +87,10 @@ The demand has errors, such as missing pages or signatures.
 The demand was not correctly addressed to AT&T.
 The demand did not contain all the elements necessary for a response.
 We had no information that matched the customer, equipment or other information provided in the demand.
-Type
-July - December 2023
-Rejected/Challenged
-3,700
-Partial or No Information
-38,158
-Total
-41,858
+Type	July - December 2023
+Rejected/Challenged	3,700
+Partial or No Information	38,158
+Total	41,858
 Location Demands
 
 Our “Location Demands” category breaks out the number of civil and criminal legal demands we received by the type of location information (historic or real-time) demanded. Demands for location information seek precise GPS coordinates of the device or call detail records that reflect the location of any cell site processing a call. We also get demands for cell tower searches, which ask us to provide all telephone numbers that, for a certain period of time, were registered on a particular cell tower or were in the vicinity of a specific area. We do not keep track of the number of telephone numbers provided to law enforcement in connection with cell tower searches.
@@ -129,28 +99,19 @@ A single cell tower demand may cover multiple towers. We disclose both the total
 
 Like all companies, we are required by law to provide information to law enforcement and other government entities by complying with court orders, subpoenas and lawful discovery requests. In all cases, we review requests to determine whether they are valid. We require a search warrant based on the probable cause standard for all demands for real-time or historical location information, except in emergency situations.
 
-Type
-July - December 2023
-Historic
-52,710
-Real-Time
-11,900
-Cell Tower
-3,504
-Total
-68,114
+Type	July - December 2023
+Historic	52,710
+Real-Time	11,900
+Cell Tower	3,504
+Total	68,114
 Emergency Requests
 
 The numbers provided in this category are the total of 911-originated inquiries and exigent requests that we processed during this reporting period. 911-originated inquiries are those that help locate or identify a person in need of emergency assistance. “Exigent requests” are emergency requests from law enforcement working on kidnappings, missing person cases, attempted suicides and other emergencies. In order to protect your privacy, we require a certification from a law enforcement agency confirming they are dealing with a case involving risk of death or serious injury before we will share information sought by an exigent request.
 
-Type
-July - December 2023
-911
-31,939
-Exigent
-16,918
-Total
-48,857
+Type	July - December 2023
+911	31,939
+Exigent	16,918
+Total	48,857
 International Demands34
 
 The “International Demands” category represents the number of civil and criminal legal demands originating outside the U.S. and related to AT&T’s operations in foreign countries. These demands are for (i) historic subscriber information about consumers who reside in other countries and businesses that operate in other countries; and (ii) URL/IP (website/internet address) blocking demands from foreign governments. Legal demands related to our operations in Mexico are addressed in a separate section later in the Report.
@@ -168,52 +129,34 @@ While we may provide internet access in some foreign countries, we do not have t
 
 Finally, the laws governing the international demands that we receive differ by country. We respond to these demands based on each country’s laws.5
 
-Brazil
-July - December 2023
-Historic: Subscriber Information
+Brazil	July - December 2023
+Historic: Subscriber Information	
 
 3
 
-IP/URL Blocking
+
+IP/URL Blocking	
 
 12
 
-Colombia
-July - December 2023
-IP/URL Blocking
-2
-Denmark
-July - December 2023
-Historic: Subscriber Information
-1
-France
-July - December 2023
-Historic: Subscriber Information
-3
-Germany
-July - December 2023
-Historic: Subscriber Information
-1
-Israel
-July - December 2023
-IP/URL Blocking
-3
-Italy
-July - December 2023
-Historic: Subscriber Information
-3
-Poland
-July - December 2023
-Historic: Subscriber Information
-1
-Spain
-July - December 2023
-Historic: Subscriber Information
-1
-UK
-July - December 2023
-Historic: Subscriber Information
-1
+Colombia	July - December 2023
+IP/URL Blocking	2
+Denmark	July - December 2023
+Historic: Subscriber Information	1
+France	July - December 2023
+Historic: Subscriber Information	3
+Germany	July - December 2023
+Historic: Subscriber Information	1
+Israel	July - December 2023
+IP/URL Blocking	3
+Italy	July - December 2023
+Historic: Subscriber Information	3
+Poland	July - December 2023
+Historic: Subscriber Information	1
+Spain	July - December 2023
+Historic: Subscriber Information	1
+UK	July - December 2023
+Historic: Subscriber Information	1
 Mexico
 
 The laws applicable to demands received in Mexico are listed below.
@@ -238,28 +181,17 @@ Location Information in Real-Time: Legal demands for this information must be r
 
 We do not keep track of the number of telephone numbers provided to law enforcement in connection with cell tower searches.
 Court Order for Wiretaps: In Mexico, there is a special procedure for these types of legal demands, and a judge may authorize the wiretap order, if certain legal standards are met, and the matter is related to certain criminal investigations defined by Mexican law or national security matters.
-Historic Information: Subscriber Information/Call Detail Records
-July - December 2023
-Location Information (Cell Site)
-13,481
-Total (Includes judicial authorities and national security)
-16,349
-Real-Time
-July - December 2023
-Wiretaps
-965
-Location Information (Precise)
-2,107
-Total
-3,072
-Demands Rejected/Partial Or No Data Provided
-July - December 2023
-Rejected/Challenged
-948
-Partial or No Information
-362
-Total (Breakout detail of data included in Total Mexico Demands)
-1,310
+Historic Information: Subscriber Information/Call Detail Records	July - December 2023
+Location Information (Cell Site)	13,481
+Total (Includes judicial authorities and national security)	16,349
+Real-Time	July - December 2023
+Wiretaps	965
+Location Information (Precise)	2,107
+Total	3,072
+Demands Rejected/Partial Or No Data Provided	July - December 2023
+Rejected/Challenged	948
+Partial or No Information	362
+Total (Breakout detail of data included in Total Mexico Demands)	1,310
 ADDITIONAL RESOURCES
 Privacy Center
 Privacy Issue Brief
