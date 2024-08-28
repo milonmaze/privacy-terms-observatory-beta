@@ -226,6 +226,8 @@ svenska
  
 မြန်မာဘာသာ
  
+ၽႃႇသႃႇတႆး
+ 
 მარგალური
  
 ქართული
@@ -695,6 +697,7 @@ Cookie statement
 Access to nonpublic personal data
 Confidentiality agreement
 How to sign
+Exceptions
 Underage exemptions
 Noticeboard
 Donor privacy policy
