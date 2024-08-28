@@ -249,6 +249,7 @@ Generative AI Services
 Gemini for Google Cloud (formerly known as Duet AI for Google Cloud): Gemini for Google Cloud provides AI-powered end user assistance with a wide range of Google Cloud products. Gemini for Google Cloud is a generative AI-powered collaboration Service that provides assistance to Google Cloud end users. Gemini for Google Cloud is embedded in many Google Cloud products to provide developers, data scientists, and operators an integrated assistance experience. More details about the AI-assistance available through Gemini for Google Cloud can be found at https://cloud.google.com/gemini/docs/overview.
 
 Gemini Code Assist (formerly known as Duet AI for Developers) provides AI-powered assistance to help your development team build, deploy, and operate applications throughout the software development lifecycle.
+Gemini in BigQuery provides AI-powered assistance to help you understand, query, and work with your data across the entire data lifecycle.
 
 Generative AI on Vertex AI: Generative AI on Vertex AI is any Service with generative AI functionality in Vertex AI, including:
 
@@ -367,7 +368,7 @@ Threat and Data Protection Services, which are a set of security services that w
 Chrome Enterprise Premium Integration with Chrome Browser Cloud Management, which enables malware, phishing, and data leakage protection for managed Chrome browsers.
 Other features listed at; https://chromeenterprise.google/products/chrome-enterprise-premium/ or a successor URL.
 
-Cloud Identity Services: Cloud Identity Services are the services and editions as described at:; https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
+Cloud Identity Services: Cloud Identity Services are the services and editions as described at: https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
 
 Firebase App Check: Firebase App Check provides a service that can help protect access to your APIs with platform specific attestation that helps verify app identity and device integrity.
 
@@ -482,7 +483,8 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified August 21, 2024)
+PREVIOUS VERSIONS (Last modified August 28, 2024)
+August 21, 2024
 June 27, 2024
 May 6, 2024
 April 9, 2024
