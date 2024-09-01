@@ -106,12 +106,6 @@ Purpose: Provide services in relation with the processing of payment data (secti
 Data processing location: United States
 Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement
 
-Akenes SA (Exoscale)
-
-Purpose: host Proton Scribe functionality
-Data processing location: Switzerland, Austria
-Guarantees for international transfer: Adequacy decision
-
 Atlassian Pty Ltd
 
 Purpose: store data in relation with customer support
