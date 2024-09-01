@@ -32,7 +32,7 @@ You’re responsible for any activity that occurs on or through your AT&T Accoun
 
 You agree that all users of your AT&T Services (including minors), are subject to the limitations and obligations of this Agreement, including its arbitration provision and Privacy Notice. It’s your duty to inform them of their limitations and obligations and to provide this Agreement to them.
 
-You may designate individuals (such as family members) to act on your behalf (“Authorized Users”). Authorized Users can manage your AT&T Accounts, including changing or adding Services. You’re responsible for all actions and changes made by any Authorized Users, including purchases of products and additional AT&T Services.
+You may designate individuals (such as family members) to act on your behalf (“Authorized Users”). Authorized Users can manage your AT&T Accounts, including changing or adding Services. You’re responsible for all actions, changes, and additions made by any Authorized Users, and any other persons accessing or using your Account or device(s). This includes, but is not limited to, purchases of apps and other add-on products and additional AT&T Services.
 
 If you are not present or do not identify yourself when an AT&T Service is installed, you authorize any adult (the minimum age may differ by state or territory) present to act on your behalf, regardless of whether you designated that adult as an Authorized User. You also authorize this adult to accept any related terms and conditions, agreements, and charges,. Further, you authorize us to provide information about and make changes to your AT&T Accounts (as well as to perform any credit checks on you that we deem appropriate to implement the changes or respond to questions) at the direction of this adult. AT&T reserves the right to refuse to allow an adult to authorize installation, take any action regarding your AT&T Accounts, or receive any information if we decide in our sole discretion that the adult has failed to provide sufficient identifying information or cannot answer questions about you or your AT&T Accounts to our satisfaction.
 
@@ -236,7 +236,7 @@ To the greatest extent permitted by law, our total liability to you (under any l
 
 To the greatest extent permitted by law, you must commence any legal action, whether by filing a lawsuit in small claims court or by filing a demand for arbitration, within two years of the date of the event or facts giving rise to the dispute or you waive the right to pursue that claim (this contractual limitations period is tolled by the submission of a valid Notice of Dispute under subsection 1.3 of this Agreement).
 
-Each of the limitations of liability in this Agreement will apply to claims you bring against third parties to the extent that we would be required to indemnify that third-partyIf applicable law prohibits a limitation in this Agreement, all other limitations will apply to the greatest extent permitted by law. References in Section 1.7 to “AT&T” and “we” include our past, present, and future parents, subsidiaries, affiliates, and related entities, as well as AT&T’s and all of those entities’ officers, agents, employees, licensors, predecessors in interest, successors, and assigns.
+Each of the limitations of liability in this Agreement will apply to claims you bring against third parties to the extent that we would be required to indemnify that third-party. If applicable law prohibits a limitation in this Agreement, all other limitations will apply to the greatest extent permitted by law. References in Section 1.7 to “AT&T” and “we” include our past, present, and future parents, subsidiaries, affiliates, and related entities, as well as AT&T’s and all of those entities’ officers, agents, employees, licensors, predecessors in interest, successors, and assigns.
 
 1.8 Indemnification
 
@@ -480,7 +480,7 @@ If you have agreed to a Service Commitment, you are required to maintain Wireles
 
 2.4.3 Device Activation:
 
-If you purchased a Device that was shipped to you, you agree to activate the Device within seven (7) days of the shipment date. If your Device is not activated by you, for post-paid Wireless Service, we may activate the Device for you within a month of shipping and your monthly recurring charges, and any applicable Service Commitment, will begin.
+You agree to activate Wireless Service on the Device within seven (7) days of the purchase or shipment date, whichever is later. If your Device is not activated by you, for post-paid Wireless Service, we may activate the Device for you within a month of shipping and your monthly recurring charges, and any applicable Service Commitment, will begin.
 
 2.4.4 Early Termination Fee (“ETF”):
 
@@ -503,7 +503,8 @@ excessively and disproportionately contributes to network congestion;
 adversely impacts network service levels or legitimate data flows;
 degrades network performance;
 causes harm to other customers;
-tethers a wireless Device to a computing device if you have not subscribed to a rate plan with a tethering feature;
+tethers a wireless Device to a computing or internet of things (“IOT”) device if you have not subscribed to a rate plan with a tethering feature;
+tethers a wireless Device to a home gateway or router as an Internet backup unless the home gateway or router allows AT&T to actively manage wireless traffic volumes originating at the gateway or router to prevent network congestion;
 uses any Device for Wireless Service with an ineligible rate plan;
 constitutes the reselling of any Wireless Service; or
 is excessive or unreasonable.
@@ -517,9 +518,9 @@ Our Messaging Services are provided solely for communication between, and/or ini
 
 2.5.3 Examples of Prohibited Network Uses of Data Service:
 
-Data Service may not be used in any manner that: defeats, obstructs, penetrates, or attempts to defeat, obstruct, or penetrate, the security measures of AT&T’s wireless network or systems, or another entity’s network or systems; accesses, or attempts to access without authority, the accounts of others; or adversely affects the ability of other people or systems to use either AT&T’s Wireless Services or other parties’ internet-based resources. For example, this prohibition includes, but is not limited to: malicious software or “malware” that is designed, intentionally or unintentionally, to infiltrate a network or computer system such as spyware, worms, Trojan horses, rootkits, and/or crimeware; “denial of service” attacks against a network host or individual user; and “spam” or unsolicited commercial or bulk email (or activities that have the effect of facilitating unsolicited commercial or bulk email).
+Unless otherwise permitted by AT&T in this Agreement, Data Service may not be used in any manner that: defeats, obstructs, penetrates, or attempts to defeat, obstruct, or penetrate, the security measures of AT&T’s wireless network or systems, or another entity’s network or systems; accesses, or attempts to access without authority, the accounts of others; or adversely affects the ability of other people or systems to use either AT&T’s Wireless Services or other parties’ internet-based resources. For example, this prohibition includes, but is not limited to: malicious software or “malware” that is designed, intentionally or unintentionally, to infiltrate a network or computer system such as spyware, worms, Trojan horses, rootkits, and/or crimeware; “denial of service” attacks against a network host or individual user; and “spam” or unsolicited commercial or bulk email (or activities that have the effect of facilitating unsolicited commercial or bulk email).
 
-Data Service may not be used in any manner that has the effect of excessively contributing to network congestion, hindering other customers’ access to the network, or degrading network performance. For example, this includes, but is not limited to: server devices or host computer applications such as continuous Web camera posts or broadcasts, automatic data feeds, or automated machine-to-machine connections; “auto-responders,” “cancel bots,” or similar automated or manual routines that generate excessive amounts of traffic or that disrupt user groups or email use by others; use of the Wireless Service as a substitute or backup for private lines or full-time or dedicated data connections; peer-to-peer (P2P) file sharing services; and software or other devices that maintain continuous active internet connections when a connection would otherwise be idle or any “keep alive” functions.
+Unless otherwise permitted by AT&T in this Agreement, Data Service may not be used in any manner that has the effect of excessively contributing to network congestion, hindering other customers’ access to the network, or degrading network performance. For example, this includes, but is not limited to: server devices or host computer applications such as continuous Web camera posts or broadcasts, automatic data feeds, or automated machine-to-machine connections; “auto-responders,” “cancel bots,” or similar automated or manual routines that generate excessive amounts of traffic or that disrupt user groups or email use by others; use of the Wireless Service as a substitute or backup for private lines or full-time or dedicated data connections; peer-to-peer (P2P) file sharing services; and software or other devices that maintain continuous active internet connections when a connection would otherwise be idle or any “keep alive” functions.
 
 Data Service also may not be used with high bandwidth applications, services and content that are not optimized to work with Data Service and, therefore disproportionately and excessively contribute to network congestion. This includes, but is not limited to, redirecting television signals for viewing on computing devices; web broadcasting; and/or the operation of servers, telemetry devices, or supervisory control and data acquisition devices.
 
@@ -773,7 +774,7 @@ This Section 3 pertains only to AT&T PREPAID customers, including AT&T PREPAID M
 
 3.2 Charges
 
-AT&T will not provide you with monthly bills. You may access your Account on our website, via the myAT&T app, by calling customer service, or by visiting an AT&T store. You are responsible for paying all charges for Services provided under this Agreement (such as subsection 1.9), including charges made by any person you permit to have direct or indirect access to your Device even if you did not authorize its use. These include but are not limited to (a) access charges; (b) usage charges; (c) charges for features and/or add-ons; (d) taxes, fees and other assessments imposed by the government that we are required to collect and remit to the government; (e) other fees and charges as set forth at att.com/mobilityfees; and (f) surcharges that we collect and retain from our customers that include, but are not limited to, Federal or State Universal Service fees, regulatory charges, and government taxes or fees imposed on gross receipts, sales and/or property that we incur in providing services to our customers. In some jurisdictions, certain recurring fees or taxes are included in the rate plan charge each month pursuant to applicable state or local law. For more info, see att.com/shop/en/wireless/prepaidE911.html.
+AT&T will not provide you with monthly bills. You may access your Account on our website, via the myAT&T app, by calling customer service, or by visiting an AT&T store. You are responsible for paying all charges for Services provided under this Agreement (such as subsection 1.9), including charges made by any person you permit to have direct or indirect access to your Device even if you did not authorize its use. These include but are not limited to (a) access charges; (b) usage charges; (c) charges for features and/or add-ons; (d) taxes, fees and other assessments imposed by the government that we are required to collect and remit to the government; (e) other fees and charges as set forth at att.com/mobilityfees; and (f) surcharges that we collect and retain from our customers that include, but are not limited to, Federal or State Universal Service fees, regulatory charges, and government taxes or fees imposed on gross receipts, sales and/or property that we incur in providing services to our customers. In some jurisdictions, certain recurring fees or taxes are included in the rate plan charge each month pursuant to applicable state or local law. For more info, see att.com/prepaidE911.
 
 3.3 Payment and Cancellation
 
@@ -847,10 +848,6 @@ International data roaming is not available on AT&T PREPAID plans (except plans 
 
 Data only plans are available for use on eligible smartphones, tablets, and stand-alone mobile hotspot devices only.
 
-3.9.2 Video Streaming:
-
-Eligible content recognized as video will stream in SD (about 480p, max 1.5 Mbps). Ability to stream, video resolution and speed are not guaranteed and are aﬀected by other factors. If two or more tethered devices are watching video from the same source at the same time, we may identify it as a single video and slow the speeds collectively to a max of 1.5 Mbps, which may impair your ability to watch video on these tethered devices. You can pause video on all but one of the tethered devices,or watch video from different sources to resolve this issue. See att.com/streamsaver for details. For plans that include Stream Saver: You can turn it off any time at att.com/myatt for access to HD video, if available.
-
 3.10 Conference Calling and Call Forwarding
 
 If your use of conference calling, including any variation thereof, or call forwarding exceeds 750 minutes per month, AT&T may, at its option, impose a per minute usage charge for all calling over 750 minutes using one or more of these features, terminate your service or change your plan to one with no unlimited usage components. AT&T will provide notice that it intends to take any of the above actions
@@ -865,7 +862,7 @@ AT&T Wireless Home Internet (“AWHI”) for AT&T PREPAID customers requires an 
 
 3.13 AT&T PREPAID Multi-Line
 
-Activation, acceptance of an invitation to join, and/or use of a AT&T PREPAID Multi-Line Account constitutes acceptance of these Service Terms. In the event of a conflict between the terms and conditions in this subsection [3.13.1 through 3.13.5] and other terms, these terms in this subsection will control.
+Activation, acceptance of an invitation to join, and/or use of an AT&T PREPAID Multi-Line Account constitutes acceptance of these Service Terms. In the event of a conflict between the terms and conditions in this subsection [3.13.1 through 3.13.5] and other terms, these terms in this subsection will control.
 
 3.13.1 AT&T PREPAID Multi-Line Account:
 
@@ -875,7 +872,7 @@ For details on eligible phone plans, go to att.com/multiline. AT&T reserves the 
 
 When a line (“Member”) is added to the Multi-Line Account during the plan term, the high-speed data allowance for the Member’s plan is pro-rated based on the number of days remaining in the Multi-Line Account term. The high-speed data allowance is also pro-rated any time the Account Owner changes the monthly plan for any line, including the Account Owner’s line, after establishing the Multi-Line Account.
 
-3.13.3 Consent To Disclose Customer Proprietary Network Information (Cpni), Including Plan And Other Account Information To Account Owner:
+3.13.3 Consent To Disclose Customer Proprietary Network Information (CPNI), Including Plan And Other Account Information To Account Owner:
 
 BY ACCEPTING AN INVITATION TO JOIN AN ACCOUNT OWNER’S MULTI-LINE ACCOUNT OR BY USING AT&T PREPAID SERVICES WHILE PART OF A MULTI-LINE ACCOUNT, THE MEMBER CONSENTS TO DISCLOSURE OF CPNI AS DISCUSSED IN THIS SUBSECTION.
 
@@ -883,15 +880,11 @@ CPNI is information that relates to the type of telecommunications services you 
 
 3.13.4 Payment and Balance:
 
-Account Owner is responsible for paying monthly plan charges for all lines on Multi-Line Account. Members continue to select and pay for optional Add-Ons or pay-per-use services out of their own AT&T PREPAID Account balance. Upon adding a Member line to the Multi-Line Account, full monthly payment will be due to activate Member’s service but a pro-rated credit will be issued to the Account Owner’s account for the Member’s unused plan term, if applicable. A prorated credit may also be issued to the Account Owner for unused days of the Member’s prior monthly plan (prior to joining the Multi-Line Account), if applicable (one credit per 30 days). Applicable plan charge for each line on the Multi-Line Account for each renewal period will be automatically deducted from the Account Owner’s Account balance at the end of the day (11:59pm Central Time) on the plan renewal date. The total payment due for all lines must be paid in order to renew service. Applicable plan charge for any AT&T PREPAID plan is not refundable and not exchangeable, and any unused services of the plan are forfeited if the Account Owner changes to another plan during the plan term. If Account Owner’s Account balance is insufficient to pay the applicable plan charges for all lines on the Multi-Line Account, plan services, data services, or any pay-per-use services will be unavailable until Account Owner renews all lines. Unused Account balance is forfeited upon expiration.
+Account Owner is responsible for paying monthly plan charges for all lines on Multi-Line Account. Members continue to select and pay for optional Add-Ons or pay-per-use services out of their own AT&T PREPAID Account balance. Upon adding a Member line to the Multi-Line Account, full monthly payment will be due to activate Member’s service but a pro-rated credit will be issued to the Account Owner’s account for the Member’s unused plan term, if applicable. A prorated credit may also be issued to the Account Owner for unused days of the Member’s prior monthly plan (prior to joining the Multi-Line Account), if applicable. Applicable plan charge for each line on the Multi-Line Account for each renewal period will be automatically deducted from the Account Owner’s Account balance at the end of the day (11:59pm Central Time) on the plan renewal date. The total payment due for all lines must be paid in order to renew service. Applicable plan charge for any AT&T PREPAID plan is not refundable and not exchangeable, and any unused services of the plan are forfeited if the Account Owner changes to another plan during the plan term. If Account Owner’s Account balance is insufficient to pay the applicable plan charges for all lines on the Multi-Line Account, plan services, data services, or any pay-per-use services will be unavailable until Account Owner renews all lines. Unused Account balance is forfeited upon expiration.
 
 3.13.5 Account Access:
 
 You authorize us to provide CPNI and other account information to the Account Owner, and to allow the Account Owner to make changes to the Multi-Line Account, including new or extended service commitments and the purchase of products and/or services, upon the direction of any person able to provide information we deem sufficient to identify the person as the Account Owner. Such access will include, but is not limited to, the ability to view Multi-Line Account information, make changes to the plans under the Multi-Line Account, perform upgrades, and view payment information.
-
-3.14 AT&T Personal Cloud
-
-Requires eligible rate plan and AT&T Personal Cloud app to utilize cloud storage. If rate plan that includes feature or AT&T Personal Cloud Add-On is not renewed, you will be unable to upload to your Personal Cloud and all stored content will be permanently deleted within 30 days. If you port out your number, you will immediately lose access to stored content; make sure to move your Personal Cloud stored content before porting out a line that has this feature.
 
 4.0
 Terms that Apply Only to DataConnect Pass Plan / Session-Based Wireless Data Services
@@ -931,7 +924,7 @@ You agree to pay in advance for your Plan and there is no proration of charges i
 AT&T Phone and AT&T Phone – Advanced Service Terms
 5.1 AT&T Phone Service Terms
 
-AT&T Phone Service is provided by one of the following AT&T affiliates, depending upon your service address: Southwestern Bell Telephone Company; Pacific Bell Telephone Company; Illinois Bell Telephone Company; Indiana Bell Telephone Company, Incorporated; Michigan Bell Telephone Company; Nevada Bell Telephone Company; The Ohio Bell Telephone Company; Wisconsin Bell, Inc.; or BellSouth Telecommunications, LLC (each individually and collectively referred to in the AT&T Phone Service Terms as “AT&T”). Your AT&T Phone Services are governed by this Agreement, including these AT&T Phone Service Terms and the U-verse Fee Schedule available at att.com/VoiceUverseTVFees (“U-verse Fee Schedule”).
+AT&T Phone Service is provided by one of the following AT&T affiliates, depending upon your service address: Southwestern Bell Telephone Company, LLC; Pacific Bell Telephone Company; Illinois Bell Telephone Company, LLC; Indiana Bell Telephone Company, LLC; Michigan Bell Telephone Company, LLC; Nevada Bell Telephone Company, LLC; The Ohio Bell Telephone Company, LLC; Wisconsin Bell, LLC; or BellSouth Telecommunications, LLC (each individually and collectively referred to in the AT&T Phone Service Terms as “AT&T”). Your AT&T Phone Services are governed by this Agreement, including these AT&T Phone Service Terms and the AT&T Phone Fee Schedule available at https://www.att.com/legal/terms.attPhoneFeeSchedule.html (“AT&T Phone Fee Schedule”).
 
 You might be receiving AT&T Phone Service through an arrangement with your property owner or manager. If so, you are still subject to this Agreement, except that AT&T may not directly charge you for AT&T Phone Service (including equipment) provided to you as part of that arrangement, and the equipment-return provisions in Section 5.4.3 may not apply to you even though equipment remains AT&T-owned. You will be responsible for fees and charges associated with additional AT&T Phone Service orders. You may have an additional contract with your property owner or manager, but AT&T is neither responsible for nor bound by the terms of that contract between you and your property owner or manager. If the arrangement with your property owner or manager terminates, you will continue receiving AT&T Phone Services under standard billing terms and this Agreement unless you notify AT&T.
 
@@ -956,11 +949,11 @@ To install or repair your AT&T Phone Service, you acknowledge that AT&T may use 
 
 You will provide AT&T and its agents with reasonable access to your premises in order to install, maintain, and repair AT&T Phone Service and equipment. If you are not at the premises at the time of installation or repair, you authorize any other adult resident or guest at your residence to grant access to your premises for these purposes. You understand and agree that by authorizing an adult resident or guest to grant access to your premises, you authorize that adult to act on your behalf, including accepting this Agreement and any related agreements required in connection with the completion of the installation, activation, or repair of AT&T Phone Service and approving any changes to them.
 
-You will be responsible for payment of service charges for visits by AT&T or its agents to your premises when a service request results from causes not attributable to AT&T or its agents, including, but not limited to, when you are unwilling to complete troubleshooting steps requested by AT&T. In addition to any applicable Dispatch Fee (as described in the U-Verse Fee Schedule), you are responsible for damage to and the entire cost of any necessary service, repair, or replacement of any equipment that is attributable to your improper installation, abuse, negligence, or misuse of the equipment, as determined by AT&T. We also reserve the right to charge reasonable shipping and handling fees in connection with replacement of any equipment. You understand that repair or replacement of AT&T Phone Service or equipment may (i) cause stored content to be deleted, (ii) reset personal settings, or (iii) otherwise alter the equipment.
+You will be responsible for payment of service charges for visits by AT&T or its agents to your premises when a service request results from causes not attributable to AT&T or its agents, including, but not limited to, when you are unwilling to complete troubleshooting steps requested by AT&T. In addition to any applicable Dispatch Fee (as described in the AT&T Phone Fee Schedule), you are responsible for damage to and the entire cost of any necessary service, repair, or replacement of any equipment that is attributable to your improper installation, abuse, negligence, or misuse of the equipment, as determined by AT&T. We also reserve the right to charge reasonable shipping and handling fees in connection with replacement of any equipment. You understand that repair or replacement of AT&T Phone Service or equipment may (i) cause stored content to be deleted, (ii) reset personal settings, or (iii) otherwise alter the equipment.
 
 5.1.3 Fees and Charges
 
-In return for receiving our AT&T Phone Service, you promise to pay—and agree that we may charge your credit or debit card on file with us—the charges described in subsection 1.9, the U-Verse Fee Schedule, and the following charges:
+In return for receiving our AT&T Phone Service, you promise to pay—and agree that we may charge your credit or debit card on file with us—the charges described in subsection 1.9, the AT&T Phone Fee Schedule, and the following charges:
 
 5.1.3.1 Monthly Service Charges:
 
@@ -968,7 +961,7 @@ Billing for the AT&T Phone Service commences when AT&T has provisioned the AT&T 
 
 5.1.3.2 Usage Charges:
 
-Non-recurring and usage-based charges for AT&T Phone Service generally will be billed in the billing cycle following the transaction. For a list of additional charges and fees that could apply to the AT&T Phone Service, please see the U-Verse Fee Schedule (at att.com/VoiceUverseTVFees). The Fee Schedule is incorporated into this AT&T Phone Service Terms by this reference.
+Non-recurring and usage-based charges for AT&T Phone Service generally will be billed in the billing cycle following the transaction. For a list of additional charges and fees that could apply to the AT&T Phone Service, please see the AT&T Phone Fee Schedule (at https://www.att.com/legal/terms.attPhoneFeeSchedule.html). The Fee Schedule is incorporated into this AT&T Phone Service Terms by this reference.
 
 5.1.4 Equipment
 
@@ -1069,7 +1062,7 @@ If you are an AT&T Phone for Business customer, all disputes between us will be 
 
 5.2 AT&T Phone – Advanced
 
-AT&T Phone – Advanced Service is provided by one of the following AT&T affiliates, depending upon your service address: Southwestern Bell Telephone Company; Pacific Bell Telephone Company; Illinois Bell Telephone Company; Indiana Bell Telephone Company, Incorporated; Michigan Bell Telephone Company; Nevada Bell Telephone Company; The Ohio Bell Telephone Company; Wisconsin Bell, Inc.; or BellSouth Telecommunications, LLC (each individually and collectively referred to in the AT&T Phone – Advanced Service Terms as “AT&T”). Your use of AT&T Phone – Advanced Services are governed by this Agreement, including these AT&T Phone – Advanced Service Terms. In the event of a conflict between these terms and other terms contained elsewhere in this Agreement, these Service Terms will apply with respect to use of AT&T Phone – Advanced Service.
+AT&T Phone – Advanced Service is provided by one of the following AT&T affiliates, depending upon your service address: Southwestern Bell Telephone Company, LLC; Pacific Bell Telephone Company; Illinois Bell Telephone Company, LLC; Indiana Bell Telephone Company, LLC; Michigan Bell Telephone Company, LLC; Nevada Bell Telephone Company, LLC; The Ohio Bell Telephone Company, LLC; Wisconsin Bell, LLC; or BellSouth Telecommunications, LLC (each individually and collectively referred to in the AT&T Phone – Advanced Service Terms as “AT&T”). Your use of AT&T Phone – Advanced Services are governed by this Agreement, including these AT&T Phone – Advanced Service Terms and the AT&T Phone – Advanced Fee Schedule available at www.att.com/legal/terms.attPhoneFeeSchedule.html (“AT&T Phone – Advanced Fee Schedule”). In the event of a conflict between these terms and other terms contained elsewhere in this Agreement, these Service Terms will apply with respect to use of AT&T Phone – Advanced Service.
 
 5.2.1 Service Description:
 
@@ -1082,7 +1075,7 @@ When you purchase AT&T Phone – Advanced, you become the Account holder for eac
 
 5.2.2.2 Billing:
 
-Billing begins when AT&T Phone – Advanced Service is activated on the network or 21 days following the shipment of equipment, whichever is sooner. Recurring charges for each month’s AT&T Phone – Advanced Service will be billed one month in advance. Billing is based on a 30-day cycle. Non-recurring and usage-based charges for the AT&T Phone – Advanced Service generally will be billed in the billing cycle following the transaction. Your first bill for AT&T Phone – Advanced Service may include pro-rated charges for a partial monthly period prior to the beginning of your first monthly billing cycle. Upon termination, subject to applicable law, your effective date of cancellation will be the last day of your current billing cycle and you will receive AT&T Phone – Advanced Service until the end of your billing cycle (exceptions may apply to certain promotional periods and must be in writing). You will not receive a prorated credit or refund for any remaining days of AT&T Phone – Advanced Service in your billing cycle after termination. Your AT&T Phone – Advanced Service will continue until the end of the billing cycle. A fee may apply if you make changes to your AT&T Phone – Advanced Service within thirty (30) days of activation or through other change orders.
+Billing begins when AT&T Phone – Advanced Service is activated on the network or 21 days following the shipment of equipment, whichever is sooner. Recurring charges for each month’s AT&T Phone – Advanced Service will be billed one month in advance. Billing is based on a 30-day cycle. Non-recurring and usage-based charges for the AT&T Phone – Advanced Service generally will be billed in the billing cycle following the transaction. Your first bill for AT&T Phone – Advanced Service may include pro-rated charges for a partial monthly period prior to the beginning of your first monthly billing cycle. Upon termination, subject to applicable law, your effective date of cancellation will be the last day of your current billing cycle and you will receive AT&T Phone – Advanced Service until the end of your billing cycle (exceptions may apply to certain promotional periods and must be in writing). You will not receive a prorated credit or refund for any remaining days of AT&T Phone – Advanced Service in your billing cycle after termination. Your AT&T Phone – Advanced Service will continue until the end of the billing cycle. A fee may apply if you make changes to your AT&T Phone – Advanced Service within thirty (30) days of activation or through other change orders. For a list of additional charges and fees that could apply to the AT&T Phone – Advanced Service, please see the AT&T Phone – Advanced Fee Schedule. The Fee Schedule is incorporated into these Service Terms by this reference.
 
 5.2.2.3 Termination Right:
 
@@ -1187,14 +1180,14 @@ AT&T Internet Service is marketed under various trade names. In these Service Te
 Except as specified otherwise in writing, your AT&T Wired Internet Services are provided by your local AT&T telephone company as set forth below:
 
 BellSouth Telecommunications, LLC in AL, GA, FL, KY, LA, MS, NC, SC, and TN;
-Southwestern Bell Telephone Company in AR, KS, MO, OK, and TX;
+Southwestern Bell Telephone Company. LLC in AR, KS, MO, OK, and TX;
 Pacific Bell Telephone Company in CA;
-Illinois Bell Telephone Company in IL;
-Indiana Bell Telephone Company, Incorporated in IN;
-Michigan Bell Telephone Company in MI;
-Nevada Bell Telephone company in NV;
-The Ohio Bell Telephone Company in OH; and
-Wisconsin Bell, Inc. in WI.
+Illinois Bell Telephone Company. LLC in IL;
+Indiana Bell Telephone Company. LLC in IN;
+Michigan Bell Telephone Company. LLC in MI;
+Nevada Bell Telephone Company. LLC in NV;
+The Ohio Bell Telephone Company. LLC in OH; and
+Wisconsin Bell. LLC in WI.
 
 Outside of the local AT&T telephone company franchise areas in these states, as well as in all states not listed above, AT&T Internet Services are generally provided by Teleport Communications America, LLC and/or one or more of its subsidiaries. In New York, AT&T Internet Services are generally provided by TC Systems, Inc. Wireless Home Internet Services are provided in all states by AT&T Mobility LLC, acting on behalf of its FCC-licensed affiliates doing business as AT&T.
 
@@ -1515,7 +1508,7 @@ As set forth on the Speed Tier Page, Fixed Wireless Internet customers should ex
 
 6.14.2.3 IP Addresses:
 
-Static IP addresses are not used or available as part of the Fixed Wireless Internet Service. Services such as Web hosting, or hosted services such as camera, gaming server, etc. that require static IP address are not supported by Fixed Wireless Internet. See Section 7.14.8 for more information on service limitations.
+Static IP addresses are not used or available as part of the Fixed Wireless Internet Service. Services such as Web hosting, or hosted services such as camera, gaming server, etc. that require static IP address are not supported by Fixed Wireless Internet. See Section 6.14.8 for more information on service limitations.
 
 6.14.2.4 Service Requirements:
 
@@ -1628,7 +1621,7 @@ DSL Internet Services are particularly subject to limits upon availability due t
 
 6.15.4 Conversion from DSL Service to AT&T Wired Internet Service:
 
-When AT&T is able to provision AT&T Wired Internet Service at your location, we may, in our discretion, discontinue your DSL Service and make available to you AT&T Wired Internet Service at the then applicable rates, terms, and conditions, which may differ from your previous DSL Service rates, terms, and conditions (including Bundle Discounts). See Section 7.2 for additional terms governing conversion of your Internet Service. In the event that you elect to receive AT&T Wired Internet Service, your new Internet Service may require different AT&T Equipment. When you are selected for conversion, we will provide at least thirty days’ notice of the discontinuation or suspension of your Service via email, direct mail, bill page message, or bill insert. Thirty days after such notice, we may at our sole discretion, either disconnect your service or temporarily suspend your service for up to fifteen days.
+When AT&T is able to provision AT&T Wired Internet Service at your location, we may, in our discretion, discontinue your DSL Service and make available to you AT&T Wired Internet Service at the then applicable rates, terms, and conditions, which may differ from your previous DSL Service rates, terms, and conditions (including Bundle Discounts). See Section 6.2 for additional terms governing conversion of your Internet Service. In the event that you elect to receive AT&T Wired Internet Service, your new Internet Service may require different AT&T Equipment. When you are selected for conversion, we will provide at least thirty days’ notice of the discontinuation or suspension of your Service via email, direct mail, bill page message, or bill insert. Thirty days after such notice, we may at our sole discretion, either disconnect your service or temporarily suspend your service for up to fifteen days.
 
 6.15.5 Billing:
 
@@ -1648,7 +1641,7 @@ As of December 2020. AT&T has discontinued the provision of Dial Up Internet ser
 Access from AT&T is available only to Qualifying Households. A Qualifying Household refers to any individual or household with:
 
 at least one resident who participates in a “Qualifying Program,” as that term is defined below;
-with an address in AT&T’s 21-state wired home internet service area, at which AT&T offers “Qualifying Home Internet Service,” as that term is defined below; and
+with an eligible address in AT&T’s wired home internet service area, at which AT&T offers “Qualifying Home Internet Service,” as that term is defined below; and
 no outstanding debt for AT&T Internet Service of any kind within the last six (6) months and no outstanding debt incurred under the Access from AT&T program.
 
 AT&T reserves the right, in its sole and absolute discretion, to make changes to the required qualifications for participation in the Access from AT&T program. Changes to program qualification requirements will not impact existing program participants unless we send you specific prior to any change taking effect with respect to your Account.
@@ -1672,13 +1665,13 @@ Visit att.com/internet/access/ for more details on additional Qualifying Program
 
 6.17.5 Qualifying Home Internet Services:
 
-Depending upon the facilities at a particular location within AT&T’s 21-state wired home internet service area, Access from AT&T can be provided via either DSL Service or AT&T Wired Internet Service. Either DSL Service or AT&T Wired Internet Service will be “Qualifying Home Internet Service” to the extent that it is available for purchase at a particular address. (To check for service availability, visit att.com/shop/internet/access/index.html.) Qualifying Households will be provisioned, at AT&T’s sole discretion, with the highest Qualifying Speed Tier available based on the facilities at the applicable residence. If Qualifying Home Internet Service is not available for purchase at your address, you will not be able to participate in the Access from AT&T program.
+Depending upon the facilities at a particular location within AT&T’s wired home internet service area, Access from AT&T can be provided via either DSL Service or AT&T Wired Internet Service. Either DSL Service or AT&T Wired Internet Service will be “Qualifying Home Internet Service” to the extent that it is available for purchase at a particular address. (To check for service availability, visit att.com/internet/access/.) Qualifying Households will be provisioned, at AT&T’s sole discretion, with the highest Qualifying Speed Tier available based on the facilities at the applicable residence. If Qualifying Home Internet Service is not available for purchase at your address, you will not be able to participate in the Access from AT&T program.
 
 6.17.6 Qualifying Speed Tier:
 
-“Qualifying Speed Tiers” and prices for the Access from AT&T program are subject to change. Customers should call 855.220.5211 or visit att.com/shop/internet/access/ for current Qualifying Speed Tiers and associated prices.
+“Qualifying Speed Tiers” and prices for the Access from AT&T program are subject to change. Customers should call 855.220.5211 or visit att.com/internet/access/ for current Qualifying Speed Tiers and associated prices.
 
-Service availability and speed may vary by address. Unless otherwise specified on your CSS, AT&T will assign you the fastest speed tier available where you live, up to 10 Mbps download speed, which shall be at AT&T’s sole discretion.
+Service availability and speed may vary by address. Unless otherwise specified on your CSS, AT&T will assign you the fastest speed tier available where you live, up to 100 Mbps download speed, which shall be at AT&T’s sole discretion.
 
 6.17.7 Qualifying Home Internet Service Terms:
 
