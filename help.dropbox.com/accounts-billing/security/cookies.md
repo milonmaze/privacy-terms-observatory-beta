@@ -191,14 +191,14 @@ For more information on how to control and access your personal data, please see
 
 Was this article helpful?
 
-Yes, thanks!
+Yes, thanks
 
 Not really
 
 Community answers
 When I try to upload content using the website, nothing happens.
-Posted by: rbkeep 10 days ago
-2541
+Posted by: rbkeep 50 days ago
+15494
 8
 0
 Related Articles
