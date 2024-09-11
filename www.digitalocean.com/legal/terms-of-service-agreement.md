@@ -1,11 +1,5 @@
-Legal & Security
 Terms of Service Agreement
-Terms of Service Agreement
-
-Last Updated on February 5, 2022
-
-Effective on October 22, 2020 Prior TOS available here.
-
+Last Updated on May 11, 2023
 Introduction
 
 Welcome to DigitalOcean’s Terms of Service! The first portion of our Terms of Service is an introduction, which is structured like an FAQ and lays out some high-level concepts before diving into other terms.
@@ -20,11 +14,12 @@ Data Processing Agreement, which outlines the terms of data processing on your b
 Acceptable Use Policy (the “AUP”), which outlines prohibited uses of our Services
 Privacy Policy, which outlines how we collect, use, and share data in our Websites and Services
 Marketplace Terms of Service, which outlines the terms for vendors in the DigitalOcean Marketplace
+Promotional Credit Terms, which outline the terms of any credits we may offer or provide
 Whom does this TOS apply to?
 
 When we refer to “DigitalOcean” or we use pronouns like “we”, “us” or “our”, we are referring to DigitalOcean, LLC as well as its parents, affiliates and subsidiaries.
 
-When we refer to the “User”, we are talking about you, and we will also use words like “you” and “your” to refer to you. Who “you” are can get more complicated if you are using our services on behalf of a company, organization, or other entity. In that case, you are representing to us that you have the authority to bind your company, organization, other entity to this TOS and that you agree to be legally bound by this TOS on behalf of such entity (and “User”, “you”, and “your” then refer to such entity). If you aren’t sure what this means or whether you are authorized to bind your company, organization, or entity to this contract, you should ask others in your organization to get clarification about authority.
+When we refer to the “User”, we are talking about you, and we will also use words like “you” and “your” to refer to you. Who “you” are can get more complicated if you are using our services on behalf of a company, organization, or other entity. In that case, you are representing to us that you have the authority to bind your company, organization, other entity to this TOS and that you agree to be legally bound by this TOS on behalf of such entity (and “User”, “you”, and “your” then refer to such entity). If you aren’t sure what this means or whether you are authorized to bind your company, organization, or entity to this contract, you should ask others in your organization to get clarification about authority.**
 
 What is the TOS?
 
@@ -106,9 +101,9 @@ You are solely responsible for the development, moderation, operation, maintenan
 Your Services Content, and your or your End Users’ use of your Services Content, does not and will not: (i) infringe, violate, or misappropriate any third party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) slander, defame, libel, or invade a right of privacy, publicity or other property rights of any other person; or (iii) cause us to violate any law, regulation, rule, or rights of third parties; and
 Except for the specific Services provided to you under this TOS or other express contract, you are solely responsible for the technical operation of your Services Content, including on behalf of your End Users.
 
-4.5 You are responsible for properly configuring and using the Services and taking your own steps to maintain appropriate security, protection and backup of your Services Content, which may include the use of encryption technology to protect your Services Content from unauthorized access and routine archiving your Services Content. DigitalOcean does not promise to retain any preservations or backups of your Services Content. You are solely responsible for the integrity, preservation and backup of your Services Content, regardless of whether your use of Services includes a DigitalOcean backup feature or functionality, and to the fullest extent permitted by law, DigitalOcean shall have no liability for any data loss, unavailability, or other consequences related to the foregoing.
+4.6 You are responsible for properly configuring and using the Services and taking your own steps to maintain appropriate security, protection and backup of your Services Content, which may include the use of encryption technology to protect your Services Content from unauthorized access and routine archiving your Services Content. DigitalOcean does not promise to retain any preservations or backups of your Services Content. You are solely responsible for the integrity, preservation and backup of your Services Content, regardless of whether your use of Services includes a DigitalOcean backup feature or functionality, and to the fullest extent permitted by law, DigitalOcean shall have no liability for any data loss, unavailability, or other consequences related to the foregoing.
 
-4.6 When purchasing Services, you may specify the geographic region and jurisdiction in which your Services Content will be stored. You consent to the storage of your Services Content in, and transfer of your Services Content into, the geographic region and jurisdiction you select. Unless otherwise agreed in writing between you and DigitalOcean, you agree that DigitalOcean may transfer and store your Services Content in other geographic regions or jurisdictions at its sole discretion. You represent and warrant that such storage and transfer are adequately consented to by you and permissible pursuant to applicable laws, regulations, rules, and third party rights.
+4.7 When purchasing Services, you may specify the geographic region and jurisdiction in which your Services Content will be stored. You consent to the storage of your Services Content in, and transfer of your Services Content into, the geographic region and jurisdiction you select. Unless otherwise agreed in writing between you and DigitalOcean, you agree that DigitalOcean may transfer and store your Services Content in other geographic regions or jurisdictions at its sole discretion. You represent and warrant that such storage and transfer are adequately consented to by you and permissible pursuant to applicable laws, regulations, rules, and third party rights.
 
 5. Rules of Conduct
 
@@ -154,7 +149,13 @@ The Websites and Services may include links to third party websites, services or
 
 8.2 You may not use Confidential Information except in connection with your use of the Service as permitted under this TOS or as separately authorized in a signed writing by us. You agree to not disclose Confidential Information during the term of this TOS, after you cease using the Services and after this TOS otherwise no longer applies. You will take all reasonable measures to avoid disclosure or unauthorized use of Confidential Information, including at least the measures you take to protect your own confidential information of a similar nature.
 
-8.3 We may offer “beta” versions or features of the Services (each, a “Beta Service”). Any production candidate or non-production version of Services or other version of the Services designated as a beta or testing version is considered a Beta Service under this TOS. We will determine, at our sole discretion, the availability, duration, features, and components of each Beta Service. If we permit you to use a Beta Service, you agree that information we provide relating to the Beta Service is Confidential Information, and you specifically agree, in addition to the other requirements set forth in this TOS, to not: (i) use the Beta Service for benchmarking or performance testing or to publicly disseminate performance information or analysis from any source relating to the Service; (ii) modify or create derivative works of the Beta Service or remove any product identification, proprietary, copyright or other notices contained in the Beta Service; or (iii) allow any other individual to access or use the Beta Service. We, at our sole discretion, shall determine whether or not to continue to offer any Beta Service, and may cease offering any Beta Service at any time.
+8.3 We may offer access to or use of certain features, technologies, data centers regions, and services that are not yet generally available, including, but not limited to, any products, services, or features labeled “beta”, “preview”, “pre-release”, or “experimental” (each, a “Beta Service”). You must comply with all terms related to any Beta Service as posted on the Website or otherwise made available to you. We may add or modify terms, including lowering or raising any usage limits, related to access to or use of any Beta Services at any time. Service Level Agreements do not apply to Beta Services.
+
+8.4. You may provide us with information relating to your access, use, testing, or evaluation of Beta Services, including observations or information regarding the performance, features, and functionality of Beta Services (“Test Observations”). We will own and may use and evaluate all Test Observations for its own purposes. You will not use any Test Observations except for your internal evaluation purposes of any Beta Service. Suggestions concerning a Beta Service, and any other information about or involving (including the existence of) any Beta Service are considered Confidential Information.
+
+8.5. We may suspend or terminate your access to or use of any Beta Service at any time. Your access to and use of each Beta Service will automatically terminate upon the release of a generally available version of the applicable Beta Service or upon notice of termination by us. Notwithstanding anything to the contrary in the TOS, after suspension or termination of your access to or use of any Beta Service for any reason, (a) you will not have any further right to access or use the applicable Beta Service, and (b) Your Services Content used in the applicable Beta Service may be deleted or inaccessible.
+
+8.6. WITHOUT LIMITING ANY DISCLAIMERS IN THIS TOS, BETA SERVICES ARE NOT READY FOR GENERAL COMMERCIAL RELEASE AND MAY CONTAIN BUGS, ERRORS, DEFECTS, OR HARMFUL COMPONENTS. ACCORDINGLY, AND NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS TOS, WE ARE PROVIDING BETA SERVICES AND BETA REGIONS TO YOU “AS IS.” DIGITALOCEAN AND ITS AFFILIATES AND LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE REGARDING BETA SERVICES, INCLUDING ANY WARRANTY THAT THE BETA SERVICES WILL BECOME GENERALLY AVAILABLE, BE UNINTERRUPTED, ERROR FREE, OR FREE OF HARMFUL COMPONENTS, OR THAT ANY CONTENT, INCLUDING YOUR SERVICES CONTENT, WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED. EXCEPT TO THE EXTENT PROHIBITED BY LAW, DIGITALOCEAN AND ITS AFFILIATES AND LICENSORS DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE. DIGITALOCEAN’S AND ITS AFFILIATES’ AND LICENSORS’ AGGREGATE LIABILITY FOR ANY BETA SERVICES WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAY US UNDER THIS TOS FOR THE SERVICES THAT GAVE RISE TO THE CLAIM DURING THE MONTH PRECEDING THE CLAIM.
 
 9. No Warranty
 
@@ -202,7 +203,7 @@ While we prefer to give advance notice of termination, we reserve the right, in 
 
 14.1 Updates and Modifications. DigitalOcean reserves the right to update, change or otherwise modify this TOS on a going-forward basis at any time and in DigitalOcean’s sole discretion. If DigitalOcean updates this TOS, DigitalOcean may provide notice of such updates, such as by sending an email notification to the email address listed in your Account and/or updating the “Last Updated” date at the beginning of this TOS. Updates will be effective on the date specified in the notice. By continuing to access or use the Websites or Services after the date specified in the notice or updated TOS, you are agreeing to accept and be bound by the updated TOS and all of the terms incorporated therein. If you do not agree to the updated TOS, then you may not continue to use the Websites or Services and your sole and exclusive remedy is to deactivate your Account and otherwise discontinue use of the Websites and/or Services.
 
-14.2 General. This TOS, including all documents expressly incorporated by reference herein, constitutes the entire agreement between the parties and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter. Use of section headers in this TOS is for convenience only and will not have any impact on the interpretation of any provision. Any use of the singular shall be reasonably construed as if it also includes the plural, and vice versa. If not already specified, any use of “including” or “such as” shall be construed to mean “including but not limited to.” If any part of this TOS is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible, and the remaining parts will remain in full force and effect. The failure to require performance of any provision will not affect our right to require performance at any other time after that, nor will a waiver by us of any breach or default of this TOS, or any provision of this TOS, be a waiver of any subsequent breach or default or a waiver of the provision itself.
+14.2 General. This TOS, including all documents expressly incorporated by reference herein, constitutes the entire agreement between the parties and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter. No provision of any purchase order, agreement, or business form employed by a User, including any electronic invoicing portals and vendor registration processes, will supersede the terms and conditions of this TOS, and any such document relating to this TOS shall be for administrative purposes only and shall have no legal effect. Use of section headers in this TOS is for convenience only and will not have any impact on the interpretation of any provision. Any use of the singular shall be reasonably construed as if it also includes the plural, and vice versa. If not already specified, any use of “including” or “such as” shall be construed to mean “including but not limited to.” If any part of this TOS is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible, and the remaining parts will remain in full force and effect. The failure to require performance of any provision will not affect our right to require performance at any other time after that, nor will a waiver by us of any breach or default of this TOS, or any provision of this TOS, be a waiver of any subsequent breach or default or a waiver of the provision itself.
 
 14.3 Assignment. You may not assign, transfer or delegate this TOS or any of your rights and obligations under the TOS, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign, transfer or delegate this TOS or our rights and obligations under this TOS without notice or consent. Subject to this section, this TOS will be binding upon and inure to the benefit of the parties and their respective permitted successors and assigns, and any assignment or transfer in violation of this section will be void.
 
@@ -222,71 +223,13 @@ While we prefer to give advance notice of termination, we reserve the right, in 
 
 14.11 Government Use. DigitalOcean provides the Websites and Services, including related software and technology, for ultimate federal government end use solely in accordance with the following: Government technical data and software rights related to the Websites and Services include only those rights customarily provided to the public as defined in this TOS. This customary commercial license is provided in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Software) and, for Department of Defense transactions, DFAR 252.227-7015 (Technical Data – Commercial Items) and DFAR 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation). If a government agency has a need for rights not conveyed under this TOS, then it must negotiate with DigitalOcean to determine if there are acceptable terms for transferring such rights, and a mutually acceptable written addendum specifically conveying such rights must be included in any applicable contract or agreement.
 
-Copyright 2020 DigitalOcean, LLC. All rights reserved. No part of DigitalOcean’s Website may be reproduced, modified, or distributed in any form or manner without the prior written permission of DigitalOcean.
+Copyright 2023 DigitalOcean, LLC. All rights reserved. No part of DigitalOcean’s Website may be reproduced, modified, or distributed in any form or manner without the prior written permission of DigitalOcean.
 
-Company
-About
-Leadership
-Blog
-Careers
-Customers
-Partners
-Referral Program
-Press
-Legal
-Trust Platform
-Investor Relations
-DO Impact
-Products
-Products Overview
-Droplets
-Kubernetes
-Managed Databases
-Spaces
-Marketplace
-Load Balancers
-Block Storage
-Tools & Integrations
-API
-Pricing
-Documentation
-Release Notes
-Community
-Tutorials
-Meetups
-Q&A
-CSS-Tricks
-Write for DOnations
-Droplets for Demos
-Hatch Startup Program
-Shop Swag
-Research Program
-Currents Research
-Open Source
-Code of Conduct
-Newsletter Signup
-Solutions
-Web & Mobile Apps
-Website Hosting
-Game Development
-Streaming
-VPN
-Startups
-SaaS Solutions
-Agency & Web Dev Shops
-Managed Cloud Hosting Providers
-Big Data
-Business Solutions
-Cloud Hosting for Blockchain
-Contact
-Support
-Sales
-Report Abuse
-System Status
-Share your ideas
-
-© 2022 DigitalOcean, LLC. All rights reserved.
-
-We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy. By continuing to browse our website, you agree to our use of cookies.
-
-OK
+Prior Versions of our Terms of Service
+Effective on February 5, 2022 Prior TOS available here.
+Effective on October 22, 2020 Prior TOS available here.
+© 2024 DigitalOcean, LLC.
+Sitemap.
+Cookie Preferences
+This site uses cookies and related technologies, as described in our privacy policy, for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may choose to consent to our use of these technologies, or manage your own preferences.
+Manage Choices Agree & Proceed
