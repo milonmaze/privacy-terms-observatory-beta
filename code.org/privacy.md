@@ -2,7 +2,18 @@ Privacy Policy
 
 Date of Last Revision: April 4, 2024
 
-You can review the previous Privacy Policy here.
+Previous Privacy Policies:
+
+December 2014
+April 2016
+April 2018
+May 2018
+September 2020
+March 2021
+July 2021
+November 2021
+October 2022
+December 2022
 
 About Code.org
 
