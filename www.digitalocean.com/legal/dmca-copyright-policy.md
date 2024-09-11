@@ -1,10 +1,7 @@
-Legal & Security
 DMCA Copyright Policy
-DMCA Copyright Policy
+Last Updated on March 8, 2023
 
-Last Updated on September 13, 2021
-
-DigitalOcean, LLC (“Company”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act (http://lcweb.loc.gov/copyright/legislation/dmca.pdf) (“DMCA”). The address of the Designated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed below.
+DigitalOcean, LLC (“Company”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act (http://lcweb.loc.gov/copyright/legislation/dmca.pdf) (“DMCA”). The abuse form to Receive Notification of Claimed Infringement (“Designated Agent”) is listed below.
 
 Procedure for Reporting Copyright Infringement
 
@@ -18,9 +15,7 @@ Contact information about the notifier including address, telephone number and, 
 A statement that the notifier has a good faith belief that the material is not authorized by the copyright owner, its agent, or the law; include this statement in the body of the notice: I hereby state that I have a good faith belief that the disputed use of the copyrighted material or reference or link to such material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).
 A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner; include this statement in the body of the notice: I hereby state that the information in this notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.
 
-Please contact the Designated Agent at dmca@digitalocean.com or at:
-
-DigitalOcean, LLC  Attn: Legal 101 Avenue of the Americas, 10th Floor  New York, NY 10013
+Please contact us at https://www.digitalocean.com/company/contact/abuse#dmca
 
 Consequences of Sending A DMCA Notice
 
@@ -32,71 +27,8 @@ Repeat Infringer Policy
 
 Consistent with the requirements of the DMCA, the Company will terminate, in appropriate circumstances, the accounts of subscribers who repeatedly infringe the copyrights of others.
 
-Company
-About
-Leadership
-Blog
-Careers
-Customers
-Partners
-Referral Program
-Press
-Legal
-Trust Platform
-Investor Relations
-DO Impact
-Products
-Products Overview
-Droplets
-Kubernetes
-App Platform
-Functions
-Managed Databases
-Spaces
-Marketplace
-Load Balancers
-Block Storage
-Tools & Integrations
-API
-Pricing
-Documentation
-Release Notes
-Community
-Tutorials
-Meetups
-Q&A
-CSS-Tricks
-Write for DOnations
-Droplets for Demos
-Hatch Startup Program
-Shop Swag
-Research Program
-Currents Research
-Open Source
-Code of Conduct
-Newsletter Signup
-Solutions
-Web & Mobile Apps
-Website Hosting
-Game Development
-Streaming
-VPN
-Startups
-SaaS Solutions
-Agency & Web Dev Shops
-Managed Cloud Hosting Providers
-Big Data
-Business Solutions
-Cloud Hosting for Blockchain
-Contact
-Support
-Sales
-Report Abuse
-System Status
-Share your ideas
-
-© 2022 DigitalOcean, LLC. All rights reserved.
-
-We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy. By continuing to browse our website, you agree to our use of cookies.
-
-OK
+© 2024 DigitalOcean, LLC.
+Sitemap.
+Cookie Preferences
+This site uses cookies and related technologies, as described in our privacy policy, for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may choose to consent to our use of these technologies, or manage your own preferences.
+Manage Choices Agree & Proceed
