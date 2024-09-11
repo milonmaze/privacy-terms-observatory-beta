@@ -1,7 +1,4 @@
-Legal & Security
 Acceptable Use Policy
-Acceptable Use Policy
-
 Last Updated on October 14, 2020
 
 This Acceptable Use Policy (this “AUP”) describes material and activities that are not allowed in connection with the Services offered by DigitalOcean. This AUP is not exhaustive, and DigitalOcean reserves the right to take remedial action in connection with content or uses that are not specifically described below.
@@ -81,71 +78,8 @@ Reporting of Violations of this AUP
 
 If you become aware of any suspected violation of this AUP, please notify us by providing a full explanation of the bases for the violation. We may request your assistance to help stop or remedy the violation. To report any violation of this AUP or make related inquiries, please contact us here.
 
-Company
-About
-Leadership
-Blog
-Careers
-Customers
-Partners
-Referral Program
-Press
-Legal
-Trust Platform
-Investor Relations
-DO Impact
-Products
-Products Overview
-Droplets
-Kubernetes
-App Platform
-Functions
-Managed Databases
-Spaces
-Marketplace
-Load Balancers
-Block Storage
-Tools & Integrations
-API
-Pricing
-Documentation
-Release Notes
-Community
-Tutorials
-Meetups
-Q&A
-CSS-Tricks
-Write for DOnations
-Droplets for Demos
-Hatch Startup Program
-Shop Swag
-Research Program
-Currents Research
-Open Source
-Code of Conduct
-Newsletter Signup
-Solutions
-Web & Mobile Apps
-Website Hosting
-Game Development
-Streaming
-VPN
-Startups
-SaaS Solutions
-Agency & Web Dev Shops
-Managed Cloud Hosting Providers
-Big Data
-Business Solutions
-Cloud Hosting for Blockchain
-Contact
-Support
-Sales
-Report Abuse
-System Status
-Share your ideas
-
-© 2022 DigitalOcean, LLC. All rights reserved.
-
-We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy. By continuing to browse our website, you agree to our use of cookies.
-
-OK
+© 2024 DigitalOcean, LLC.
+Sitemap.
+Cookie Preferences
+This site uses cookies and related technologies, as described in our privacy policy, for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may choose to consent to our use of these technologies, or manage your own preferences.
+Manage Choices Agree & Proceed
