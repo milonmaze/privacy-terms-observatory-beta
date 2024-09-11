@@ -16,27 +16,29 @@ Current and past customers of Intuit products can download or delete personal da
 
 
 
-Your data
+Your data rights
 
-You can request to download a copy of all your data we have stored right from your Intuit Account. We’ll send you a link to download it and include a guide that helps explain what it all is. You are also able to request that we delete your data from one or many offerings. We walk you through selecting the data you want to remove and let you know how it will impact your Intuit experiences.
+You can request to download a copy of all your data. We’ll send you a link to download your data with an explanatory guide. You can also request us to delete data from Intuit offerings.
 
 Manage your data
 
-Your preferences
+You can also manage your data for: Credit Karma and Mailchimp
 
-Hear from us all the time or only when something major happens in your account. You’re in control of how and when we reach out to you.
+Your communication preferences
+
+You’re in control of how and when we reach out to you.
 
 Update your preferences
+
 Mailchimp customers
 
-Learn more about cookies
+Cookie preferences
 
 Cookies are small pieces of data we use to streamline your web experience. Cookies also assist us with our marketing and advertising activities. You can manage these preferences here:
 
 Learn more about cookies
-Mailchimp cookie statement
 
-You can also manage your data for: Credit Karma and Mailchimp
+Mailchimp cookie statement
 
 
 
