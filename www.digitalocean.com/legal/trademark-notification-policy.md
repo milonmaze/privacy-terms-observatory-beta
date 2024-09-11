@@ -1,10 +1,7 @@
-Free credit active: Get started on DigitalOcean with a $100, 60-day credit for new users.
-
 Trademark Notification Policy
+Last Updated on March 8, 2023
 
-Last Updated on March 13, 2020
-
-If you are a trademark owner who believes that material being hosted by a DigitalOcean customer violates your trademark rights, you can send a notification of alleged infringement. To do so, please send a notice to the Designated Agent listed below that includes all of the following information:
+If you are a trademark owner who believes that material being hosted by a DigitalOcean customer violates your trademark rights, you can send a notification of alleged infringement. To do so, please fill out the abuse form listed below that includes all of the following information:
 
 A physical or electronic signature of a person authorized to act on behalf of the owner of the trademark that has been allegedly infringed.
 Identification of the trademark that is being infringed. If this is a registered trademark, you should include the registration information; if it is not a registered trademark, please provide a description or a copy of the trademark at issue.
@@ -15,77 +12,10 @@ A statement made under penalty of perjury that the information provided is accur
 
 DigitalOcean will review your notice for accuracy, validity, and completeness. If we find that it satisfies these requirements, we will forward the notice to the customer or user associated with the allegedly infringing material.
 
-Please contact the Designated Agent at dmca@digitalocean.com or at:
+Please contact us at https://www.digitalocean.com/company/contact/abuse#trademark
 
-DigitalOcean, LLC  Attn: Legal 101 Avenue of the Americas, 10th Floor  New York, NY 10013
-
-Company
-About
-Leadership
-Blog
-Careers
-Customers
-Partners
-Referral Program
-Press
-Legal
-Trust Platform
-Investor Relations
-DO Impact
-Products
-Products Overview
-Droplets
-Kubernetes
-App Platform
-Functions
-Managed Databases
-Spaces
-Marketplace
-Load Balancers
-Block Storage
-Tools & Integrations
-API
-Pricing
-Documentation
-Release Notes
-Uptime
-Community
-Tutorials
-Meetups
-Q&A
-CSS-Tricks
-Write for DOnations
-Droplets for Demos
-Hatch Startup Program
-deploy by DigitalOcean
-Shop Swag
-Research Program
-Currents Research
-Open Source
-Code of Conduct
-Newsletter Signup
-Solutions
-Web & Mobile Apps
-Website Hosting
-Game Development
-Streaming
-VPN
-Startups
-SaaS Solutions
-Agency & Web Dev Shops
-Managed Cloud Hosting Providers
-Big Data
-Business Solutions
-Cloud Hosting for Blockchain
-Contact
-Support
-Sales
-Report Abuse
-System Status
-Share your ideas
-
-© 2022 DigitalOcean, LLC. All rights reserved.
-
-We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy. By continuing to browse our website, you agree to our use of cookies.
-
-OK
+© 2024 DigitalOcean, LLC.
+Sitemap.
+Cookie Preferences
+This site uses cookies and related technologies, as described in our privacy policy, for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may choose to consent to our use of these technologies, or manage your own preferences.
+Manage Choices Agree & Proceed
