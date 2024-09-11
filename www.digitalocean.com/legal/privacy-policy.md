@@ -1,12 +1,9 @@
-Legal & Security
 Privacy Policy
-Privacy Policy
-
-Last Updated on June 14, 2022
+Last Updated on May 14, 2024
 
 This Privacy Policy describes how DigitalOcean, LLC and its affiliates (“DigitalOcean,” “we,” “our” or “us”) collect, use, and share information in connection with your use of our websites (including www.digitalocean.com), services, and applications (collectively, the “Services”). This Privacy Policy (the “Privacy Policy”) does not apply to information our customers may process when using our Services.
 
-If you are looking for CCPA-specific information, check out our CCPA Privacy Notice as well, which is incorporated into this Privacy Policy.
+If you are looking for California-specific information, check out our CCPA Privacy Notice as well, which is incorporated into this Privacy Policy.
 
 We may collect and receive information about users of our Services (“users,” “you,” or “your”) from various sources, including: (i) information you provide through your user account on the Services (your “Account”) if you register for the Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners.
 
@@ -16,21 +13,21 @@ We recommend that you read this Privacy Policy in full, including the Additional
 
 Information You Provide
 
-I. Account Registration. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. If you choose to refer a friend to our Services, we may also collect your friend’s email address so that we may send them a referral or promotional code to sign up for our Services.\
+I. Account Registration. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. If you choose to refer a friend to our Services, we may also collect your friend’s email address so that we may send them a referral or promotional code to sign up for our Services.
 
 II. Payment Information. When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.
 
-III. Personal Data. This means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a Data Subject in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. “Personal Data” includes equivalent terms in other Data Protection Law, such as the CCPA-defined term “Personal Information,” as context requires.
+III. Personal Data. This means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a user in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. “Personal Data” includes equivalent terms in other Data Protection Law, such as the CCPA-defined term “Personal Information,” as context requires.
 
 IV. User Content. Our “Community” feature allows you to publicly post content on our Services. By registering for our Community, you agree that your profile information and the content you post may be viewed and used by other users and third parties we do not control.
 
-VI. Communications. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
+V. Communications. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
 Information We Collect When You Use Our Services.
 
-I. Cookies and Other Tracking Technologies. As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area (“EEA”), the information referenced above in this paragraph may be considered personal data under applicable data protection laws.
+I. Cookies and Other Tracking Technologies. As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device. This information may include internet protocol (“IP”) addresses, browser type, internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area (“EEA”), the information referenced above in this paragraph may be considered personal data under applicable data protection laws.
 
 II. Usage of our Services. When you use our Services, we may collect information about your engagement with and utilization of our Services, such as processor and memory usage, storage capacity, navigation of our Services, and system-level metrics. We use this data to operate the Services, maintain and improve the performance and utilization of the Services, develop new features, protect the security and safety of our Services and our customers, and provide customer support. We also use this data to develop aggregate analysis and business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of our business.
 
@@ -62,7 +59,7 @@ Third-Party Partners. We also share information about users with third-party pa
 Information We Share When You Sign Up Through a Referral. If you sign up for our Services through a referral from a friend, we may share information with your referrer to let them know that you used their referral to sign up for our Services.
 Analytics. We use analytics providers such as Google Analytics. Google Analytics uses cookies to collect non-identifying information. Google provides some additional privacy options regarding its Analytics cookies at http://www.google.com/policies/privacy/partners/.
 Business Transfers. Information may be disclosed and otherwise transferred to any potential acquirer, successor, or assignee as part of any proposed merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.
-As Required By Law and Similar Disclosures. We may also share information to (i) satisfy any applicable law, regulation, legal process, or governmental request; (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to your requests; or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+As Required By Law and Similar Disclosures. We may also share information to (i) satisfy any applicable law, regulation, legal process, or governmental request including requests made by public authorities to meet national security or law enforcement requirements; (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to your requests; or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
 With Your Consent. We may share information with your consent.
 4. Legal Basis for Processing Personal Information
 
@@ -102,10 +99,10 @@ To protect your privacy and security, we may also take reasonable steps to verif
 
 9. Your Data Protection Rights Under the General Data Protection Regulation (GDPR)
 
-If you are a resident of the EEA, you have the following data protection rights:
+If you are a resident of the EEA, Switzerland, or the United Kingdom (“UK”), you have the following data protection rights:
 
 If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by emailing privacy@digitalocean.com.
-To exercise your rights to deletion of your personal data under the GDPR, you can deactivate and purge your account in your control panel settings (https://cloud.digitalocean.com/settings). All account data will be deleted within 90 days of purging.
+To exercise your rights to deletion of your personal data under the GDPR or other data protection laws, you can deactivate and purge your account in your control panel settings (https://cloud.digitalocean.com/settings). All account data will be deleted within 90 days of purging.
 In addition, you can object to the processing of your personal data, ask us to restrict the processing of your personal data, or request portability of your personal data. Again, you can exercise these rights by emailing privacy@digitalocean.com.
 You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing privacy@digitalocean.com.
 Similarly, if we have collected and process your personal data with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal data conducted in reliance on lawful processing grounds other than consent.
@@ -133,9 +130,17 @@ This Privacy Policy may be modified from time to time, so please review it frequ
 
 With respect to Personal Data of Data Subjects located in the EEA, Switzerland, or the United Kingdom that Customer transfers to DigitalOcean or permits DigitalOcean to access, the parties agree that by executing the DPA they also execute the Standard Contractual Clauses, which will be incorporated by reference and form an integral part of the DPA. The parties agree that, with respect to the elements of the Standard Contractual Clauses that require the parties’ input, Schedules 1-3 contain all the relevant information.
 
-EU-U.S. and Swiss-U.S. Privacy Shield. For personal data we receive from the EEA and Switzerland, DigitalOcean has certified its compliance to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from such countries. To access the Privacy Shield List and to find details of our certification, please visit: https://www.privacyshield.gov/.
+DigitalOcean, LLC complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF (“UK Extension”), and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. DigitalOcean has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension. DigitalOcean has also certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (together with the EU-U.S. Data Privacy Framework Principles, the “DPF Principles”) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles will govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit https://www.dataprivacyframework.gov/. DigitalOcean’s compliance with the EU-U.S. DPF, UK Extension, and Swiss-U.S. DPF is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
-DigitalOcean currently utilizes Standard Contractual Clauses in connection with transfers of data from the EEA to the US insofar as the EU-US Privacy Shield is deemed invalidated and other means are not yet in place. Please also refer to our GDPR FAQ and Data Processing Agreement for more information about data transfers.
+Please also refer to our GDPR FAQ and Data Processing Agreement for more information about data transfers.
+
+DigitalOcean complies with the DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions.
+
+DigitalOcean commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension, and the Swiss-U.S. DPF should first contact DigitalOcean using the details provided below.
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, DigitalOcean LLC commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to the American Arbitration Association (“AAA”), an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://go.adr.org/dpf_irm.html for more information or to file a complaint. The services of AAA are provided at no cost to you.
+
+For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found in Annex 1 of the DPF Principles.
 
 Contact Us
 
@@ -154,72 +159,12 @@ Additional Disclosures
 CCPA Privacy Notice
 
 Prior Versions of our Privacy Policy
+October 6, 2023
+July 5, 2023
+June 14, 2022
 July 30, 2020
-Company
-About
-Leadership
-Blog
-Careers
-Customers
-Partners
-Referral Program
-Press
-Legal
-Trust Platform
-Investor Relations
-DO Impact
-Products
-Products Overview
-Droplets
-Kubernetes
-App Platform
-Functions
-Managed Databases
-Spaces
-Marketplace
-Load Balancers
-Block Storage
-Tools & Integrations
-API
-Pricing
-Documentation
-Release Notes
-Community
-Tutorials
-Meetups
-Q&A
-CSS-Tricks
-Write for DOnations
-Droplets for Demos
-Hatch Startup Program
-Shop Swag
-Research Program
-Currents Research
-Open Source
-Code of Conduct
-Newsletter Signup
-Solutions
-Web & Mobile Apps
-Website Hosting
-Game Development
-Streaming
-VPN
-Startups
-SaaS Solutions
-Agency & Web Dev Shops
-Managed Cloud Hosting Providers
-Big Data
-Business Solutions
-Cloud Hosting for Blockchain
-Contact
-Support
-Sales
-Report Abuse
-System Status
-Share your ideas
-
-© 2022 DigitalOcean, LLC. All rights reserved.
-
-We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our Privacy Policy. By continuing to browse our website, you agree to our use of cookies.
-
-OK
+© 2024 DigitalOcean, LLC.
+Sitemap.
+Cookie Preferences
+This site uses cookies and related technologies, as described in our privacy policy, for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may choose to consent to our use of these technologies, or manage your own preferences.
+Manage Choices Agree & Proceed
