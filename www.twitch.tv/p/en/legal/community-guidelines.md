@@ -647,6 +647,9 @@ Impersonation is a malicious practice that compromises trust in our service and 
 
 Impersonate a Twitch partner’s account
 Pose as a celebrity in a streamer’s chat
+
+Create a “waiting room” i.e. a stream with the title, tag, or description of being a “waiting room” for someone else's stream or channel content that contains no reaction or original content created by the channel owner
+
 Spam, Scams, and Other Malicious Conduct
 
 Spam and other deceptive practices create a negative user experience, decrease trust in our service, and mislead viewers, creators, and advertisers. Any content or activity that disrupts, interrupts, harms, or otherwise violates the integrity of Twitch services or another user’s experience or devices is prohibited. 
