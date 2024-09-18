@@ -2,7 +2,7 @@ Privacy & Terms
 Sign in
 LEGAL FRAMEWORKS FOR DATA TRANSFERS
 
-Effective September 1, 2023
+Effective September 16, 2024 | Archived versions
 
 We maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in the Privacy Policy. We also comply with certain legal frameworks relating to the transfer of data, such as the frameworks described below.
 
@@ -18,8 +18,6 @@ EU-U.S. and Swiss-U.S. Data Privacy Frameworks
 As described in our Data Privacy Framework certification, we comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks (DPF) and the UK Extension to the EU-U.S. DPF as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from the EEA, Switzerland and the UK, respectively. Google LLC (and its wholly-owned US subsidiaries unless explicitly excluded) has certified that it adheres to the DPF Principles. Google remains responsible for any of your personal information that is shared under the Onward Transfer Principle with third parties for external processing on our behalf, as described in the “Sharing your information” section of our Privacy Policy. To learn more about the DPF, and to view Google’s certification, please visit the DPF website.
 
 If you have an inquiry regarding our privacy practices in relation to our DPF certification, we encourage you to contact us. Google is subject to the investigatory and enforcement powers of the US Federal Trade Commission. You may also refer a complaint to your local data protection authority and we will work with them to resolve your concern. In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the DPF Principles.
-
-We currently do not rely on the Swiss-U.S. DPF and the UK Extension to the EU-U.S. DPF to transfer personal information to the U.S.
 
 Standard contractual clauses
 
