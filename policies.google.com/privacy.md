@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective March 28, 2024 | Archived versions | Download PDF
+Effective September 16, 2024 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -429,6 +429,7 @@ The following privacy notices provide additional information about some Google s
 
 Payments
 Fiber
+Gemini Apps
 Google Fi
 Google Workspace for Education
 Read Along
