@@ -8,7 +8,7 @@ This Privacy Policy explains when we collect information about you, including Pe
 
 Scope of this Policy
 
-Sony Interactive Entertainment LLC, Naughty Dog LLC, Sucker Punch Productions LLC, Insomniac Games Inc., Bluepoint Games Inc., Valkyrie Entertainment LLC, and all Americas subsidiaries using the brand name PlayStation ("SIE", “we,” “our,” and “us”) controls the information collected when you interact with PlayStation through our Services.
+Sony Interactive Entertainment LLC, Naughty Dog LLC, Sucker Punch Productions LLC, Insomniac Games Inc., Bluepoint Games Inc., Valkyrie Entertainment LLC, Haven Interactive Studios ULC, Repeat Technologies Inc., Firewalk Studios, LLC, PlayStation Publishing LLC, and all Americas subsidiaries using the brand name PlayStation ("SIE", “we,” “our,” and “us”) controls the information collected when you interact with PlayStation through our Services.
 
 Contact Us
 
@@ -22,7 +22,10 @@ Information You Provide to Us
 
 We collect the information that you directly provide to us, such as when you enter it on our website, or include it in an email that you send to us. This type of collection often occurs through our business support processes, such as:
 
-Registration or PlayStation Network Account (“Account”) Creation Processes, where we ask you to provide information such as: Contact info (e.g. name, email or physical address, country, or phone number); Account Administration Info (e.g. user name, password, or security questions); Billing Information (e.g. credit card or other payment number, billing address); Date of Birth; and Profile Info (e.g. profile photo, languages, likes). Purchase Processes, where we may ask you to provide additional billing info to process payment. Technical and Customer Support Processes, where we may ask you to provide contact info and information related to the issue you are contacting us about. We may also record calls you make to PlayStation Support. Other business processes, where we may ask you to provide information such as name, email address, and Account ID if you participate in market research surveys, beta and other user testing research, competitions, promotions or events or agree to receive marketing information from us.
+Registration or PlayStation Network Account (“Account”) Creation Processes, where we ask you to provide information such as: Contact info (e.g. name, email or physical address, country, or phone number); Account Administration Info (e.g. user name, password, or security questions); Billing Information (e.g. credit card or other payment number, billing address); Date of Birth; and Profile Info (e.g. profile photo, languages, likes).
+Purchase Processes, where we may ask you to provide additional billing info to process payment.
+Technical and Customer Support Processes, where we may ask you to provide contact info and information related to the issue you are contacting us about. We may also record calls you make to PlayStation Support.
+Other business processes, where we may ask you to provide information such as name, email address, and Account ID if you participate in market research surveys, beta and other user testing research, competitions, promotions or events or agree to receive marketing information from us.
 
 In addition, we collect the information that you provide by entering it into certain Service features. For example, when you want to post in a forum, you provide us the content for the post (which could contain PI which we collect and then display for you on the forum). Likewise, when you use other features such as voice or text messaging, blogs, surveys, user-generated content, activity streams, or social media, we may first collect the information you enter into the feature.
 
@@ -38,7 +41,16 @@ Each time you use a PlayStation console or a PlayStation app on a PlayStation co
 
 The information that we collect from devices may include:
 
-Device identifiers such as your PlayStation console ID, mobile device IDs, cookie IDs, or serial numbers Network identifiers such as your IP address and MAC address Account authentication tokens that avoid you having to log in repeatedly Content and ads downloaded to your device for the online services that you access Your current and recent locations (e.g. on PS Vita) Trophies, scores and rankings achieved online and offline Information about the device you are using, any connected peripherals (such as controllers and VR headsets) and how you have configured them Information about how you use the software installed on your device (which may include information about the use of the software offline), such as date and time of use, what games or music you play, what content you browse, share or download, what services you access and for how long, including how often you use chat and other communication applications The actions you take within games or apps published by SIE (e.g. what obstacle you jump over and what levels you reach) Software errors and load times details, and if you have the "Report System Software Errors Automatically" setting turned on, detailed information about the crash, including screenshots and video captured before the crash
+Device identifiers such as your PlayStation console ID, mobile device IDs, cookie IDs, or serial numbers
+Network identifiers such as your IP address and MAC address
+Account authentication tokens that avoid you having to log in repeatedly
+Content and ads downloaded to your device for the online services that you access
+Your current and recent locations (e.g. on PS Vita)
+Trophies, scores and rankings achieved online and offline
+Information about the device you are using, any connected peripherals (such as controllers and VR headsets) and how you have configured them
+Information about how you use the software installed on your device (which may include information about the use of the software offline), such as date and time of use, what games or music you play, what content you browse, share or download, what services you access and for how long, including how often you use chat and other communication applications
+The actions you take within games or apps published by SIE (e.g. what obstacle you jump over and what levels you reach)
+Software errors and load times details, and if you have the "Report System Software Errors Automatically" setting turned on, detailed information about the crash, including screenshots and video captured before the crash
 
 On a device or app basis, depending on your region, and for games released after March 2018, you may be provided with choices that control our collection of information. For further information on these options, refer to the Choices section of this Privacy Policy below.
 
@@ -46,13 +58,15 @@ PlayStation Network and Store
 
 Each time you sign into PlayStation Network and access our Services, we may automatically:
 
-Collect information about your use of PlayStation Network Services on your device. Log your activity on our PlayStation Network servers. For example, we may receive device and Account identifiers, such as your PlayStation Network Online ID and Account ID. We may also receive details of: the content, advertisements, and other information your devices request and receive from our servers (such as store content, trophies, and friends lists) and when you receive and interact with them; what content and apps you add to your 'basket' in our Store; and what you purchase.
+Collect information about your use of PlayStation Network Services on your device.
+Log your activity on our PlayStation Network servers. For example, we may receive device and Account identifiers, such as your PlayStation Network Online ID and Account ID. We may also receive details of: the content, advertisements, and other information your devices request and receive from our servers (such as store content, trophies, and friends lists) and when you receive and interact with them; what content and apps you add to your 'basket' in our Store; and what you purchase.
 
 Games
 
 Each time you play a game developed and/or published by us or another Sony Interactive Entertainment company we may automatically:
 
-Collect information about your use of that game on your device (including for offline games, which may include information about the use of the game offline). Log your activity on our game servers. For example, we may receive device and Account identifiers, such as PlayStation Network Online ID, information about how you use our online games, and which players you play against.
+Collect information about your use of that game on your device (including for offline games, which may include information about the use of the game offline).
+Log your activity on our game servers. For example, we may receive device and Account identifiers, such as PlayStation Network Online ID, information about how you use our online games, and which players you play against.
 
 Websites, Marketing, and Advertising
 
@@ -62,7 +76,10 @@ Information We Receive from Third Parties
 
 We may receive information, including the following, from third party sources and combine it with information we already directly collect from you. We will handle the information in accordance with this Privacy Policy.
 
-Game, social media, or other information, from those third parties or services you link your Account with, or who provide information to power PlayStation Network features. Information from other users, for example if those users have given us access to their profiles and if you are one of their connections, or information about you is otherwise made accessible to us by them. Information from third-parties as appropriate given our relationship, for example from anti-fraud service providers we might obtain fraud risk scores; from law enforcement or partners, we might obtain IP addresses and details of suspected unlawful or malicious activity. Card account update information provided by your bank to help keep your payment cards up to date on your Account. Following any update, we will continue to charge the applicable payment methods to any purchases you make unless you notify us otherwise.
+Game, social media, or other information, from those third parties or services you link your Account with, or who provide information to power PlayStation Network features.
+Information from other users, for example if those users have given us access to their profiles and if you are one of their connections, or information about you is otherwise made accessible to us by them.
+Information from third-parties as appropriate given our relationship, for example from anti-fraud service providers we might obtain fraud risk scores; from law enforcement or partners, we might obtain IP addresses and details of suspected unlawful or malicious activity.
+Card account update information provided by your bank to help keep your payment cards up to date on your Account. Following any update, we will continue to charge the applicable payment methods to any purchases you make unless you notify us otherwise.
 
 Information Use
 
@@ -82,7 +99,6 @@ We cannot monitor the whole of PlayStation Network and make no commitment to do 
 
 Marketing and Advertising
 
-
 We may target and personalize our marketing communications, purchase recommendations and advertisements that we display on our and third-party websites and services based on the information we have collected about you. You may notice this personalization on the PlayStation Store (whether via console, website or in-game), in marketing communications, or when you visit our and third-party websites (such as social network sites) that show purchase recommendations or advertisements from us.  You have options to control our use of information we have collected about you to personalize marketing to you, and can learn more about them in the Choices section of this Privacy Policy.
 
 Legal and Compliance
@@ -93,7 +109,9 @@ Security
 
 In order to help protect you and others, we may use the information we collect and receive in order to:
 
-Identify fraudulent activities and transactions. Prevent abuse of and investigate and/or prosecute any potential threat to or misuse of our Services. Protect your account from unauthorized access (for example by preventing access if an attempt is made to log-in from a new location).
+Identify fraudulent activities and transactions.
+Prevent abuse of and investigate and/or prosecute any potential threat to or misuse of our Services.
+Protect your account from unauthorized access (for example by preventing access if an attempt is made to log-in from a new location).
 
 Information Sharing and Transfers
 
@@ -107,13 +125,21 @@ Partners
 
 We may share information with the following partners:
 
-Financial organizations, such as payment details in order to complete your purchase, obtain payment and carry out credit and anti-fraud checks. Game publishers, such as the content you have purchased from PlayStation Store so that they can deliver that content to you in-game, and ensure your entitlement to access that content is reflected across different gaming platforms. Other service, application or website providers, for operational purposes, or for additional purposes, with your permission (such as when you link your Account to your account with them). Security and fraud partners, as appropriate to support the security of our Services, fraud prevention, or protect PI. Advertising and promotional partners, with whom we are jointly delivering services or features, such as sweepstakes, contests, promotions, or advertising. Sony Group, for purposes related to providing you with content, products, or services, including games, videos, music, software and software applications; community administration or development; to support various business and security processes; research and development; and so that other Sony group companies may contact you about products, services or other offerings that may be of interest to you. Business transfer partners, in connection with the negotiation and sale of the applicable business, a portion of the business, or certain stock and/or assets, or a corporate merger, consolidation, restructuring, or other corporate change including, without limitation, during the course of any due diligence process.
+Financial organizations, such as payment details in order to complete your purchase, obtain payment and carry out credit and anti-fraud checks.
+Game publishers, such as the content you have purchased from PlayStation Store so that they can deliver that content to you in-game, and ensure your entitlement to access that content is reflected across different gaming platforms.
+Other service, application or website providers, for operational purposes, or for additional purposes, with your permission (such as when you link your Account to your account with them).
+Security and fraud partners, as appropriate to support the security of our Services, fraud prevention, or protect PI.
+Advertising and promotional partners, with whom we are jointly delivering services or features, such as sweepstakes, contests, promotions, or advertising.
+Sony Group, for purposes related to providing you with content, products, or services, including games, videos, music, software and software applications; community administration or development; to support various business and security processes; research and development; and so that other Sony group companies may contact you about products, services or other offerings that may be of interest to you.
+Business transfer partners, in connection with the negotiation and sale of the applicable business, a portion of the business, or certain stock and/or assets, or a corporate merger, consolidation, restructuring, or other corporate change including, without limitation, during the course of any due diligence process.
 
 Other Users
 
 When you create an Account, certain information will form part of your public profile and we will make it accessible to all accounts on PlayStation Network, on the Internet via playstation.com, and some third-party websites, apps or services. This information includes:
 
-Your PlayStation Network Online ID "About Me" statement, avatar, language, country and gaming scores and statistics Content you have shared
+Your PlayStation Network Online ID
+"About Me" statement, avatar, language, country and gaming scores and statistics
+Content you have shared
 
 You are responsible for any content you share on forums, communities, chat and messaging features. This content will be accessible to other users who can then share that information further. We recommend you consider carefully what you share and with whom you share your information. We may also index and use content which you have shared publicly, as part of our platform’s features like Game Help, PlayStation profiles, or future PlayStation Network services.
 
@@ -125,17 +151,21 @@ Information Handling and Your Choices
 
 Children’s Information
 
-We are committed to respecting children's privacy. We will not collect PI from anyone we have actual knowledge is under the age of 13, without a parent's consent. If you are creating an account for your child, we recommend that you and your child read our Privacy Information for Young Players to help them understand how we handle their PI and their rights over their PI.
+We are committed to respecting children's privacy. We will not collect PI from anyone we have actual knowledge is under the age of 13, without a parent's consent. We do not share the PI of children who we have actual knowledge are under the age of 16 for delivery of advertising purposes. If you are creating an account for your child, we recommend that you and your child read our Privacy Information for Young Players to help them understand how we handle their PI and their rights over their PI.
 
 With parental consent, we will collect, use and share information collected from or about children in accordance with the practices described in this document, with the following exceptions.
 
 Information You Provide to Us
 
-A parent only needs to provide limited information about their child (an email address and date-of-birth) to create an Account for their child. Providing gender is optional. Only with the parent's approval to create an Account for the child, can a child add their address. The spending limit of the Account for your child is set by the associated parent's Account.
+A parent only needs to provide limited information about their child (an email address and date-of-birth) to create an Account for their child. Providing gender is optional.
+Only with the parent's approval to create an Account for the child, can a child add their address.
+The spending limit of the Account for your child is set by the associated parent's Account.
 
 Information You May Choose to Share
 
-A parent can control, through the “Free Communication” setting on their child's Account, their child's ability to use (and share PI through) text chat, voice chat, video chat, and other messaging features from communicating directly with other users in games, apps or via system software features. Please note that a child's Account can still (1) Send and receive predetermined text messages created by a game or app, (2) Create and see other users' in-game character names, designs, and clan titles, (3) Use communication services via an Internet browser unless specifically disabled, and (4) Communicate via system messaging on PS3 and PS Vita. A parent can control their child's ability to post or view user-generated content, including photos, videos, drawings, and content imported from outside sources (any of which might contain PI) through the user-generated content control. This will not prevent video capture of a child Account user's online gameplay. A parent can agree to our collection and use of their child's PI without consenting to our disclosure to third parties, except when the disclosure is inherent to the Services we are providing.
+A parent can control, through the “Free Communication” setting on their child's Account, their child's ability to use (and share PI through) text chat, voice chat, video chat, and other messaging features from communicating directly with other users in games, apps or via system software features. Please note that a child's Account can still (1) Send and receive predetermined text messages created by a game or app, (2) Create and see other users' in-game character names, designs, and clan titles, (3) Use communication services via an Internet browser unless specifically disabled, and (4) Communicate via system messaging on PS3 and PS Vita.
+A parent can control their child's ability to post or view user-generated content, including photos, videos, drawings, and content imported from outside sources (any of which might contain PI) through the user-generated content control. This will not prevent video capture of a child Account user's online gameplay.
+A parent can agree to our collection and use of their child's PI without consenting to our disclosure to third parties, except when the disclosure is inherent to the Services we are providing.
 
 When a parent allows their child's Account to participate in games, chat or user-generated content features, they also consent to SIE sharing information with the publishers of the games, applications, or services that incorporate those features and the collection of information entered into such features by the child's Account (e.g. typing text into the chat feature).
 
@@ -161,7 +191,12 @@ Your Choices
 
 You may have certain choices about how your information is collected, used, stored, and shared.  These options can be accessed through your Account or device settings.  Please ensure that your information is up-to-date. Among others, you have the following choices:
 
-Personalized content and marketing: Whether we may use the information we have collected about you to personalize advertising and purchase recommendations. Note that we will always slightly customize what you see (e.g. to avoid displaying content you've already purchased from the PlayStation Store), and some older devices (e.g. PS3/Vita), apps and games may still show some commercial personalization. Personalized communications: Whether we may use the information we have collected, to personalize emails and notifications. Limited Data/Service Data and Full Data/Advanced Data collection: Whether we may collect only the Limited Data necessary to provide our Services, or Full Data to enable a richer experience. E-Mail Messages: Whether we send you marketing emails. Sharing social PI: Whether to share other information, such as your real, name, PlayStation Network friends, or activities. Shared content: Whether to share content such as gameplay videos with other users.
+Personalized content and marketing: Whether we may use the information we have collected about you to personalize advertising and purchase recommendations. Note that we will always slightly customize what you see (e.g. to avoid displaying content you've already purchased from the PlayStation Store), and some older devices (e.g. PS3/Vita), apps and games may still show some commercial personalization.
+Personalized communications: Whether we may use the information we have collected, to personalize emails and notifications.
+Limited Data/Service Data and Full Data/Advanced Data collection: Whether we may collect only the Limited Data necessary to provide our Services, or Full Data to enable a richer experience.
+E-Mail Messages: Whether we send you marketing emails.
+Sharing social PI: Whether to share other information, such as your real, name, PlayStation Network friends, or activities.
+Shared content: Whether to share content such as gameplay videos with other users.
 
 Do Not Track (DNT)
 
@@ -171,11 +206,19 @@ Your Rights
 
 In addition to the rights described below, you can also access, amend or delete some information through your Account Settings page.
 
-Request to Access and Correct: You have the right to request that we inform you of the PI we hold about you, as well as to request the correction of any inaccurate information about you. Right of Access: You have the right to request that we inform you of the PI we have collected, used and shared about you, and to obtain a copy of it. Right of Deletion: You have the right to request that we delete the PI we have collected or retained about you in some circumstances as defined by law. To request removal of certain of your PI from a blog, forum, or message board, please contact us as described in the Contact Us section above. Following your request for deletion, please be aware that the information that we collect about you may still be retained for legal, accounting, business continuity (backup), anti-fraud and community reasons.
+Request to Access and Correct: You have the right to request that we inform you of the PI we hold about you, as well as to request the correction of any inaccurate information about you.
+Right of Access: You have the right to request that we inform you of the PI we have collected, used and shared about you, and to obtain a copy of it.
+Right of Deletion: You have the right to request that we delete the PI we have collected or retained about you in some circumstances as defined by law. To request removal of certain of your PI from a blog, forum, or message board, please contact us as described in the Contact Us section above. Following your request for deletion, please be aware that the information that we collect about you may still be retained for legal, accounting, business continuity (backup), anti-fraud and community reasons.
 
 In some cases, your choices to provide, change or delete information may affect our ability to deliver our Services, or your user experience. We may decline to process requests which are not otherwise required by applicable law. You have the right not to be unlawfully discriminated against because you have exercised these rights.
 
-To make a Request to Access or Deletion, please visit http://support.playstation.com/ccpa , or contact Consumer Services toll-free at 1-800-345-7669. After you submit a request, we will require you to confirm your request, and verify your identity by requesting details of your account, devices, payment instruments or past transactions. We reserve the right to deny your requests if we cannot verify your identity.
+To make a Request to Access or Deletion, please visit www.playstation.com/ccpa , or contact Consumer Services toll-free at 1-800-345-7669. After you submit a request, we will require you to confirm your request, and verify your identity by requesting details of your account, devices, payment instruments or past transactions. We reserve the right to deny your requests if we cannot verify your identity.
+
+Right to Opt-Out of Share
+
+We may share data about your activities related to PlayStation services, websites, and apps with third parties to provide ads that are more personalized to you on third-party platforms. You may opt-out of our sharing of your personal information by visiting the link below and completing the web form: https://www.playstation.com/en-us/legal/third-party-ads/. 
+
+Alternatively, you may also opt-out by sending an email to sie-privacy@sony.com and providing the email address associated with your PSN account.    
 
 This Privacy Policy is made available in an accessible format that is compatible with ADA compliant web browsers.  For an alternative accessible PDF of the Privacy Policy please contact 1-800-345-7669.
 
@@ -183,28 +226,32 @@ Complaints
 
 ESRB Privacy Certified
 
-This Privacy Statement and the confirmation page at www.esrb.org/confirm/siea-confirmation.aspx or accessed by clicking the seal in the footer of any page of playstation.com) confirms that SIE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Certified Program. We have undertaken this privacy initiative and our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB.
+This Privacy Statement and the confirmation page at www.esrb.org/confirm/siea-confirmation.aspx or accessed by clicking the seal in the footer of any page of playstation.com) confirms that SIE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Certified Program. We have undertaken this privacy initiative and our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB.
 
- 
 
 How to Contact Us About this Privacy Policy
 
+
 For further information on our Privacy Policy, or how users can review or change their information, please contact us at:
 
-- By Phone at: 
+- By Phone at:
+
 1-800-345-7669
 
 - By Mail at:
+
 SONY INTERACTIVE ENTERTAINMENT CONSUMER SERVICES DEPARTMENT
+
 2207 BRIDGEPOINTE PARKWAY
+
 SAN MATEO, CALIFORNIA, 94404
 
 Online: www.playstation.com/support
 
-SIE is a licensee of ESRB's Privacy Certified Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at www.esrb.org/privacy/contact.aspx.
+SIE is a licensee of ESRB's Privacy Certified Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at www.esrb.org/privacy/contact.aspx.
 
 Changes to this Policy
 
 We may revise this Privacy Policy at any time and we will update this Policy with any revisions. By continuing to access or use the Services after those changes become effective, you acknowledge and accept that PI will be handled in accordance with the revised Privacy Policy.
 
-Last Revised: 2022-07
+Last Revised: 2023-06
