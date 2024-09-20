@@ -1,6 +1,6 @@
 English  Choose your preferred language
 Apple Privacy Policy
-Updated March 31, 2024
+Updated September 18, 2024
 
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
@@ -27,9 +27,9 @@ Protection of Personal Data at Apple
 Children and Personal Data
 Cookies and Other Technologies
 Transfer of Personal Data Between Countries
-Our Companywide Commitment to Your Privacy
+Our Companywide Commitment to Your Privacy
 Privacy Questions
 
-View our APEC CBPR certification >
+View our CBPR certification
 
-View our APEC PRP certification >
+View our PRP certification
