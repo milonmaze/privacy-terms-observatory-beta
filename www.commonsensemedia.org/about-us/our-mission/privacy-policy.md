@@ -8,7 +8,7 @@ Use app
 For Parents For Educators Our Work and Impact
 Privacy Policy
 
-Community guidelines | Privacy FAQ | Privacy Policy | Cookie Policy | Children's Privacy Policy | General Terms of Use | Teen Terms of Use | UK Digital Citizenship Terms of Service| Survey Privacy Policy
+Community guidelines | Privacy FAQ | Privacy Policy | Cookie Policy | Children's Privacy Policy | General Terms of Use | Teen Terms of Use | UK Digital Citizenship Terms of Service | Survey Privacy Policy | Subprocessor List
 
 Effective Date of Policy (Last Update): August 15, 2024
 
