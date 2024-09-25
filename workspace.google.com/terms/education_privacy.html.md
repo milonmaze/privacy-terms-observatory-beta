@@ -13,11 +13,11 @@ Introduction
 
 Google Workspace for Education facilitates learning and collaboration among students (and parents), educators, and school admins. Google Workspace for Education includes different categories of services as described in this privacy notice. The distinction is important because the scope of the services and how the data is processed in these services differs.
 
-• Google Workspace for Education core services are listed in the Services Summary and include Gmail, Calendar, Classroom, Assignments, Contacts, Drive, Docs, Forms, Groups, Sheets, Sites, Slides, Chat, Meet, Vault, and Chrome Sync.
+• Google Workspace for Education core services are listed in the  and include Gmail, Calendar, Classroom, Assignments, Contacts, Drive, Docs, Forms, Groups, Sheets, Sites, Slides, Chat, Meet, Vault, and Chrome Sync.
 
        
 
-• Google Workspace for Education other services are listed in the Services summary and include AppSheet and Read Along.
+• Google Workspace for Education other services are listed in the and include AppSheet and Read Along.
 
  
 
@@ -25,11 +25,11 @@ Google Workspace for Education facilitates learning and collaboration among stud
 
       
 
-This document provides the key information about both types of services. If you want to learn more, you can find additional information and examples in the following documents that also apply to Google Workspace for Education accounts. The Google Cloud Privacy Notice provides more information about data that we process while providing the core services, and the Google Privacy Policy provides more information about data that we process in additional services. Information provided in this notice relating to core services also applies to other services listed in the Services Summary.
+This document provides the key information about both types of services. If you want to learn more, you can find additional information and examples in the following documents that also apply to Google Workspace for Education accounts. The  provides more information about data that we process while providing the core services, and the  provides more information about data that we process in additional services. Information provided in this notice relating to core services also applies to other services listed in the Services Summary.
 
 Your information: what we collect & how it’s used
 
-A Google Workspace for Education account is a Google Account created and managed by a school for use by students and educators. The account can be used for both core and additional services, and the information that we collect and store in your account is treated as personal information. Admins manage how students use core and additional services with their Google Workspace for Education accounts, including obtaining parental consent for the additional services that they choose to enable for students. Learn more about core and additional services for Google Workspace for Education users.
+A Google Workspace for Education account is a Google Account created and managed by a school for use by students and educators. The account can be used for both core and additional services, and the information that we collect and store in your account is treated as personal information. Admins manage how students use core and additional services with their Google Workspace for Education accounts, including obtaining parental consent for the additional services that they choose to enable for students.  for Google Workspace for Education users.
 
 Core Services
 
@@ -53,7 +53,7 @@ Customer data is used to provide the core services, for example, Google processe
 
 Information we collect as you use core services
 
-As described fully in Google’s Cloud Privacy Notice, we also collect service data through the core services, including:
+As described fully in Google’s , we also collect service data through the core services, including:
 
 • Your account information, which includes things like name and email address.
 
@@ -83,13 +83,13 @@ As students, educators, and admins use additional services, we collect two types
 
 Things that you provide or create through additional services
 
-As described more fully in Google’s Privacy Policy, we collect information when students and educators use the additional services, including things that you provide to us, content that’s created or uploaded, and content that’s received from others. For example, if you sign in to an additional service with a Workspace account, we’ll use your Workspace name and profile information to identify your account. You can also choose to save your content with Google, things like photos and videos.
+As described more fully in , we collect information when students and educators use the additional services, including things that you provide to us, content that’s created or uploaded, and content that’s received from others. For example, if you sign in to an additional service with a Workspace account, we’ll use your Workspace name and profile information to identify your account. You can also choose to save your content with Google, things like photos and videos.
 
 Information we collect as you use additional services
 
 Google’s Privacy Policy also describes the information we collect as you use our additional services, which includes:
 
-• Your activity while using additional services, which includes things like terms you search for, videos you watch, content and ads you view and interact with, voice and audio information when you use audio features, purchase activity, and activity on third-party sites and apps that use our services.
+• Your activity while using additional services, which includes things like terms you search for, videos you watch, content and ads you view and interact with, voice and audio information when you use audio features, purchase activity, and activity on third-party sites and apps that use our services
 
 • Your apps, browsers & devices. We collect the info about your apps, browser, and devices described above in the core services section.
 
@@ -125,13 +125,13 @@ As described fully in the Google Privacy Policy and the Google Cloud Privacy Not
 
 • With your consent: We’ll share personal information outside of Google where we have you or your parent’s consent.
 
-• For external processing: We share personal information with our affiliates and other trusted third party providers to process it for us as we instruct them and in compliance with our Privacy Policy, the Google Cloud Privacy Notice, and any other appropriate confidentiality and security measures.
+• For external processing: We share personal information with our affiliates and other trusted third party providers to process it for us as we instruct them and in compliance with our , the , and any other appropriate confidentiality and security measures.
 
 • For legal reasons: We share personal information outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary for legal reasons, including complying with enforceable governmental requests and protecting you and Google.
 
 Your privacy controls
 
-We provide a variety of controls that enable students and parents to make meaningful choices about how information is used in Google services. Depending on the settings enabled by your school’s admin, students  can use settings like Google activity controls, to manage their privacy and information. We provide additional information for parents, students, and admins in the Google Workspace for Education Privacy Center.
+We provide a variety of controls that enable students and parents to make meaningful choices about how information is used in Google services. Depending on the settings enabled by your school’s admin, students  can use settings like , to manage their privacy and information. We provide additional information for parents, students, and admins in the .
 
 School admins also have service controls that can allow you to manage personal information, including limiting its further collection or use. If you or your child has a Google Workspace for Education account, contact your admin to:
 
@@ -147,15 +147,15 @@ This Notice is intended to provide the key information about our collection and 
 
 Contact Us
 
-Please visit the Google Workspace for Education Privacy Center for answers to most questions. Also see our Privacy Help Center for questions about privacy and Google’s services.
+Please visit the  for answers to most questions. Also see our  for questions about privacy and Google’s services.
 
 If you’re a parent:
 
 • Contact your school admin if you have questions regarding the management of Google Workspace for Education accounts or the use of information by your child’s school
 
-• Or contact Google about the information in this notice
+• Or  about the information in this notice
 
-If you’re an admin, contact Google about the information in this Notice by submitting the contact form while signed in to your admin account.
+If you’re an admin, contact Google about the information in this Notice by submitting the  while signed in to your admin account.
 
 Google
 
