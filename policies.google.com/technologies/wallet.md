@@ -22,6 +22,7 @@ Euskara
 Filipino
 Français
 Français (Canada)
+Gaeilge
 Galego
 Hrvatski
 Isizulu
@@ -31,6 +32,7 @@ Kiswahili
 Latviešu
 Lietuvių
 Magyar
+Malti
 Nederlands
 Norsk
 Polski
