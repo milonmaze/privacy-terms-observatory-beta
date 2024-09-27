@@ -25,7 +25,7 @@ Tracking URLs: Search results may contain tracking URLs provided by Yahoo Search
 
 European Residents
 
-URL Blocking: Users who are European residents can request that certain URLs be blocked from search results in certain circumstances.
+URL Dereferencing: Users who are European residents can request that certain URLs be dereferenced against a Yahoo Search for their name in certain circumstances in Yahoo Search domains across EEA/UK.
 Yahoo Chat
 
 Yahoo Chat provides an AI-powered chat service offering more conversational and detailed responses to general queries than traditional search services. Due to the nature of AI technology, unforeseen responses or errors may occur.
