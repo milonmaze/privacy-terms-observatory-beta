@@ -290,5 +290,3 @@ You have the right to opt out of profiling in furtherance of decisions that prod
 Nevada
 
 We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com.
-
-Press alt+up to activate
