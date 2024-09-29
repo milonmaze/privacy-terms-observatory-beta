@@ -18,6 +18,8 @@ Third parties and cookies
 
 Do not sell my Personal information
 
+UK and EEA Event Privacy Notice
+
 Powered by
 
 © 2024 TIME USA, LLC. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Service, Privacy Policy​ (Your Privacy Rights) and Do Not Sell My Personal Information.
