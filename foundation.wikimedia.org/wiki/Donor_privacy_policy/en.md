@@ -64,10 +64,6 @@ svenska
  
 中文
  
-中文（简体）
- 
-中文（繁體）
- 
 日本語
  
 한국어
@@ -82,6 +78,7 @@ Wikimedia projects
 
 Access to nonpublic personal data
 Access to temporary account IP addresses
+API usage guidelines
 Code of conduct for Wikimedia technical spaces, including events
 Cookie statement
 Data collection guidelines
