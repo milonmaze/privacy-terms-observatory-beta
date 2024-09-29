@@ -197,14 +197,19 @@ Not really
 
 Community answers
 When I try to upload content using the website, nothing happens.
-Posted by: rbkeep 74 days ago
-22548
+Posted by: rbkeep 78 days ago
+23170
 8
 0
 Related Articles
 Data storage
 
 All files stored in Dropbox are encrypted and secured in online servers. Learn where these servers are and how to change where your data is stored.
+
+View article
+Digital Services Act (DSA) Information
+
+Learn about how Dropbox complies with the Digital Services Act (DSA) implemented by the European Parliament.
 
 View article
 Dropbox incident response policies and procedures
@@ -215,11 +220,6 @@ View article
 Dropbox Terms of Service and Privacy Policy updates
 
 We've updated our Business Agreement, Terms of Service, and Privacy Policy to improve the Dropbox experience. Find key details on these updates.
-
-View article
-How Dropbox responds to legal requests for information
-
-Dropbox sometimes receives requests from governments for information about users. Learn how Dropbox responds to legal requests for information.
 
 View article
 Other ways to get help
