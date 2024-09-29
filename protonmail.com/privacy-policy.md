@@ -1,6 +1,6 @@
 Proton - Privacy policy
 
-Last modified: July 24, 2024
+Last modified: September 25, 2024
 
 At Proton, we strongly believe in an internet where privacy is the default.
 
@@ -13,7 +13,7 @@ Proton VPN Privacy Policy
 Proton Pass Privacy Policy
 Proton Wallet Privacy Policy
 
-By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you understand that your data in relation with your use of our Services is processed according to the following privacy policy and its product-specific privacy policies (together, the "Privacy Policy"). The Privacy Policy states (i) what data we collect through your access and uses of the Services; (ii) the use we make of such data; and (iii) the safeguards put in place to protect your data. The Privacy Policy is to be read and understood as being a complement to our terms and conditions.
+By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you understand that your data in relation with your use of our Services is processed according to the following privacy policy and its product-specific privacy policies (together, the "Privacy Policy"). The Privacy Policy states (i) what data we collect through your access and uses of the Services; (ii) the use we make of such data; and (iii) the safeguards put in place to protect your data. The Privacy Policy is to be read and understood as being a complement to our terms and conditions.
 
 1. Legal framework
 
@@ -39,9 +39,9 @@ In order to pursue our legitimate interest of preventing the creation of account
 
 2.3 Referral program: Proton has a referral program that is open to Proton users, publications, non-profit organizations, etc. If you are coming to Proton via such a referral program, your subscription may be attributed to the referrer. Some referrals are managed internally by Proton while others may rely upon third-party platforms used by the referrers, and if you are coming to Proton via a referrer, our site may communicate with such referrer platforms for the purposes of crediting referrers.
 
-2.4 Account activity: The processing activities carried out by Proton for the operation of our different Services may vary depending on the Service. These activities are described in the specific Services' Privacy Policies.
+2.4 Account activity: The processing activities carried out by Proton for the operation of our different Services may vary depending on the Service. These activities are described in the specific Services' Privacy Policies. We may use the data mentioned above and below to detect abusive and fraudulent use of our services, and take appropriate measures. The legal basis of this processing is our legitimate interest to protect our service against non-compliant or fraudulent activities.
 
-2.5 IP logging: By default, we do not keep permanent IP logs in relation with your Account. However, IP logs may be kept temporarily to combat abuse and fraud, and your IP address may be retained permanently if you are engaged in activities that breach our terms and conditions (e.g. spamming, DDoS attacks against our infrastructure, brute force attacks). The legal basis of this processing is our legitimate interest to protect our service against nefarious activities. If you enable authentication logging for your Account or voluntarily participate in Proton's advanced security program, the record of your login IP addresses is kept for as long as the feature is enabled. This feature is off by default, and all the records are deleted upon deactivation of the feature. The legal basis of this processing is consent, and you are free to opt in or opt out of that processing at any time in the security panel of your Account. The authentication logs feature records login attempts to your Account and does not track product-specific activity, such as VPN activity.
+2.5 IP logging: By default, we do not keep permanent IP logs in relation with your Account. However, IP logs may be kept temporarily to combat abuse and fraud, and your IP address may be retained permanently if you are engaged in activities that breach our terms and conditions (e.g. spamming, DDoS attacks against our infrastructure, brute force attacks). The legal basis of this processing is our legitimate interest to protect our service against non-compliant or fraudulent activities. If you enable authentication logging for your Account or voluntarily participate in Proton's advanced security program, the record of your login IP addresses is kept for as long as the feature is enabled. This feature is off by default, and all the records are deleted upon deactivation of the feature. The legal basis of this processing is consent, and you are free to opt in or opt out of that processing at any time in the security panel of your Account. The authentication logs feature records login attempts to your Account and does not track product-specific activity, such as VPN activity.
 
 2.6 Communicating with Proton: Your communications with us, such as support requests, bug reports, or feature requests may be saved by our staff. We may also rely on third parties, such as Zendesk or Calendly (see below). If you use Proton's live chat support, you consent to having the data contained within your live chat interaction processed by Zendesk Inc, the provider of Proton's live chat support platform. The legal basis for processing is our legitimate interest to troubleshoot more efficiently and improve the quality of our Services. The information you provide when you contact our support team is processed for analytics purposes (such as to obtain aggregate statistics), but we do not do any targeted advertising or any profiling. 
 
@@ -57,19 +57,21 @@ Our applications do not access or track any location-based information from your
 
 2.11 Proton Scribe: Proton Scribe is a feature that allows you to use our self-developed writing assistant to help you compose your messages or documents. By default, this feature operates locally on your device. You also have the possibility to have it operate server side, in which case only the minimal data necessary to make our service function will be shared with the servers. No log, account data or content data will be stored on our servers. Proton Scribe does not use content data or any of your data to train its models. 
 
-2.12 Social Media: We are active on Facebook, Instagram, Linkedin, Twitter, Reddit, and Mastodon. Any information, communication, or material you submit to us via social media platforms is done at your own risk without any guarantee of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
+2.12 Dark Web Monitor: Dark Web Monitor is an opt-in feature that scans hidden parts of the internet for breached or stolen personal data in relation with your Account. When you activate this feature, our systems will scan data associated with your Account (such as email addresses, usernames, phone numbers) against our own threat intelligence datasets and inform you of any detection. No user data is ever shared with third parties in that process.
 
-2.13 Links to other websites and embedded content: Our website may contain links to other websites of interest. However, we are not responsible for the content of any website that we link to, and external sites are governed by their own terms and conditions and privacy policies. We may use third parties to provide embedded content (e.g. pictures) on our website which may collect information about you. The legal basis for this processing is our legitimate interest to operate our website economically.
+2.13 Social Media: We are active on Facebook, Instagram, Linkedin, Twitter, Reddit, and Mastodon. Any information, communication, or material you submit to us via social media platforms is done at your own risk without any guarantee of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
+
+2.14 Links to other websites and embedded content: Our website may contain links to other websites of interest. However, we are not responsible for the content of any website that we link to, and external sites are governed by their own terms and conditions and privacy policies. We may use third parties to provide embedded content (e.g. pictures) on our website which may collect information about you. The legal basis for this processing is our legitimate interest to operate our website economically.
 
 3. Network traffic that may go through third-parties
 
 Proton's alternative routing technology allows Proton Services to bypass many censorship blocks, but in doing so your network traffic may go through third-party networks, which we do not control. This could enable a third party to record your IP address or see that you are using Proton apps (the same information that your internet service provider is able to see). These third parties cannot see your actual data, which remain encrypted. By default, alternative routing is not used for Proton apps unless they detect that censorship measures are active on your network. Alternative routing can also be disabled in the settings panel of our mobile and desktop applications. However, doing so may cause you to be unable to access your Account from a network that is censoring Proton. Learn more
 
-4. Data subprocessors
+4. Data processors
 
-To provide the Services, we rely on different data subprocessors, which process different categories of data. Processors never store data outside of the scope of their specific purpose. Notably, they do not store data in relation with the general day-to-day use of your Account and Services, which is exclusively processed by the Company. Subprocessors are as follow:
+To provide the Services, we rely on different data processors, which process different categories of data. Processors never store data outside of the scope of their specific purpose. Notably, they do not store data in relation with the general day-to-day use of your Account and Services, which is exclusively processed by the Company. Processors are as follow:
 
-4.1 Proton Group subprocessors
+4.1 Proton Group processors
 
 ProtonLabs DOOEL Skopje
 
@@ -80,7 +82,7 @@ ProtonLabs Taiwan Co., Ltd
 
 Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)
 Data processing location: Taiwan (R.O.C)
-4.2 Third-party subprocessors
+4.2 Third-party processors
 
 Zendesk, Inc.
 
