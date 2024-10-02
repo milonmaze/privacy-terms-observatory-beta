@@ -387,37 +387,27 @@ s. “Third-Party Auditors” has the meaning given in Section 7.b (“Regular M
 t. “User” means the end user of an App (whether a person or an entity).
 
 u. “Your Content” has the meaning given in Section 2.b (“Your License to Us”).
-Products
-Artificial Intelligence
-AR/VR
-Business Tools
-Gaming
-Open Source
-Publishing
-Social Integrations
-Social Presence
-Programs
-ThreatExchange
-Support
-Developer Support
-Bugs
-Platform Status
-Report a Platform Data Incident
-Facebook for Developers Community Group
-Sitemap
+Build with Meta
+AI
+Meta Horizon OS
+Social technologies
 News
+Meta for Developers
 Blog
-Success Stories
-Videos
-Meta for Developers Page
-Terms and Policies
-Responsible Platform Initiatives
-Platform Terms
-Developer Policies
+Success stories
+Support
+Developer support
+Bug tool
+Platform status
+Developer community forum
+Report an incident
+Terms and policies
+Responsible platform initiatives
+Platform terms
+Developer policies
 Follow Us
 © 2024 Meta
 About
-Create Ad
 Careers
 Privacy Policy
 Cookies
