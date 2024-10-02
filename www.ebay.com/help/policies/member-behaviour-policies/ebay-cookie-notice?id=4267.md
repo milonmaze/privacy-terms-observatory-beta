@@ -1,3 +1,4 @@
+Skip to main content
  
 Please verify yourself to continue
 To keep eBay a safe place to buy and sell, we will occasionally ask you to verify yourself. This helps us to block unauthorized users from entering our site.
