@@ -83,6 +83,7 @@ Access to nonpublic personal data
 Access to temporary account IP addresses
 API usage guidelines
 Code of conduct for Wikimedia technical spaces, including events
+Combating online child exploitation
 Cookie statement
 Data collection guidelines
 Data publication guidelines
