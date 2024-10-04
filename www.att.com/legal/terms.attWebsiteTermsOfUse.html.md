@@ -1,4 +1,5 @@
 AT&T Web Services Terms of Use
+Print
 
 Effective: January 2020
 
