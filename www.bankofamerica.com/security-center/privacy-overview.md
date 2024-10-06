@@ -19,6 +19,8 @@ contractors and applicants
 
 Switzerland Resident Privacy Notice
 
+Indonesia Resident Privacy Notice
+
 Manage your privacy options
 
 Control how we can share your data and
