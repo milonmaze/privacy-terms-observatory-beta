@@ -1,6 +1,5 @@
-Sign in
-Contact Us
-Start free
+Back to Google Cloud Terms Directory
+Current
 Google Cloud Platform Services Summary
 
 The complete list of services that form Google Cloud Platform is shown below. While Google offers many other services and APIs, only the services below are covered by the Google Cloud Platform terms of service, service level agreements (if applicable), and support offerings. Offerings identified below as Software or Premium Software are not Services under the Google Cloud Platform Terms of Service and the Cloud Data Processing Addendum.
@@ -202,7 +201,7 @@ Document Workbench: Document Workbench allows you to build a custom classificati
 *Human-in-the-Loop AI: Human-in-the-Loop AI uses Document AI to provide workflow tools for human verification of data extracted from documents.
 Document AI Warehouse: Document AI Warehouse is a highly-scalable, fully managed data management and governance platform that integrates with enterprise document workflows to store, search, and organize documents and their metadata.
 
-*Food Ordering AI Agent: Food Ordering AI Agent is a pre-built conversational AI agent designed to enhance food ordering operations. It utilizes LLMs, Speech-to-Text, Text-to-Speech, and Dialogflow to automate the food ordering process (including at a drive-thru window), and additionally connects to BigQuery and Looker to give restaurant operators data-driven insights into their operations.
+*Food Ordering AI Agent: Food Ordering AI Agent is a pre-built conversational AI agent designed to enhance food ordering operations. It utilizes LLMs, Speech-to-Text, Text-to-Speech, and Dialogflow to automate the food ordering process (including at a drive-thru window), and additionally connects to BigQuery and Looker to give restaurant operators data-driven insights into their operations.
 
 *Talent Solution: Talent Solution offers access to Google's machine learning, enabling company career sites, job boards, ATS, staffing agencies, and other recruitment technology platforms to improve the talent acquisition experience.
 
@@ -211,7 +210,6 @@ Translation Hub: Translation Hub is a fully-managed document translation solutio
 Vertex AI Search for Industry: Vertex AI Search for Industry enables customers in retail, media, and other verticals to deliver Google-quality search results and recommendations.
 
 Vertex AI Search for Retail
-
 *Recommendations AI: Recommendations AI enables customers to build a personalized recommendation system using ML models.
 *Recommendation Engine API: Recommendation engine API is the Version 1 API of Recommendations AI.
 *Retail Search: Retail Search, powered by Google's Retail API, allows retailers to leverage Google's search capabilities on their retail websites and applications.
@@ -259,21 +257,18 @@ Generative AI Services
 Gemini for Google Cloud (formerly known as Duet AI for Google Cloud): Gemini for Google Cloud provides AI-powered end user assistance with a wide range of Google Cloud products. Gemini for Google Cloud is a generative AI-powered collaboration Service that provides assistance to Google Cloud end users. Gemini for Google Cloud is embedded in many Google Cloud products to provide developers, data scientists, and operators an integrated assistance experience. More details about the AI-assistance available through Gemini for Google Cloud can be found at https://cloud.google.com/gemini/docs/overview.
 
 Gemini Code Assist (formerly known as Duet AI for Developers) provides AI-powered assistance to help your development team build, deploy, and operate applications throughout the software development lifecycle.
-Gemini in BigQuery provides AI-powered assistance to help you understand, query, and work with your data across the entire data lifecycle.
-Gemini in Firebase provides AI-powered assistance to help you build, launch, and scale your Firebase apps more rapidly.
+Gemini in BigQuery provides AI-powered assistance to help you understand, query, and work with your data across the entire data lifecycle.
+Gemini in Firebase provides AI-powered assistance to help you build, launch, and scale your Firebase apps more rapidly.
 
 Generative AI on Vertex AI: Generative AI on Vertex AI is any Service with generative AI functionality in Vertex AI, including:
 
 Vertex AI API enables customers to access generative AI foundation models via an API.
-
-Vertex AI Conversation (formerly Gen App Builder) allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
+Vertex AI Conversation (formerly Gen App Builder) allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
 Vertex AI Model Garden enables customers to access generative AI foundation models, including large language, text-to-image, image-to-text, and multimodal models.
 Vertex AI Search allows customers to leverage foundational models and search and recommendation technologies to create multimodal semantic search and question-answering experiences.
 Vertex AI Studio is a user interface in the Google Cloud console for rapidly prototyping and testing generative AI models.
 
 Generative AI Services also includes any generative AI features of a Service.
-
-Vertex AI in Firebase: Vertex AI in Firebase allows you to add generative AI features to applications using the Vertex AI Gemini API, providing a service API layer and SDKs that are integrated into Firebase systems and products. It works with App Check while supporting idiomatic language for Swift, Kotlin, Dart, and JavaScript.
 
 API Management
 
@@ -381,7 +376,7 @@ Threat and Data Protection Services, which are a set of security services that w
 Chrome Enterprise Premium Integration with Chrome Browser Cloud Management, which enables malware, phishing, and data leakage protection for managed Chrome browsers.
 Other features listed at; https://chromeenterprise.google/products/chrome-enterprise-premium/ or a successor URL.
 
-Cloud Identity Services: Cloud Identity Services are the services and editions as described at: https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
+Cloud Identity Services: Cloud Identity Services are the services and editions as described at:; https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
 
 Firebase App Check: Firebase App Check provides a service that can help protect access to your APIs with platform specific attestation that helps verify app identity and device integrity.
 
@@ -469,7 +464,7 @@ AlloyDB Omni is a downloadable version of AlloyDB that customers can run in the
 
 *Apigee Private Cloud: Apigee Private Cloud enables you to host and run Apigee entirely within your data center.
 
-*Automotive AI Agent Premium Software: Automotive AI Agent includes the following Premium Software components to enable the deployment and serving of speech and natural language models (including pre-trained voice agents) on-asset:
+*Automotive AI Agent Premium Software: Automotive AI Agent includes the following Premium Software components to enable the deployment and serving of speech and natural language models (including pre-trained voice agents) on-asset:
 
 AAA SDK
 Speech-to-Text On-Device Models
@@ -503,5 +498,233 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified October 7, 2024)
-September 30, 2024 September 24, 2024 September 5, 2024 August 28, 2024 August 21, 2024 June 27, 2024 May 6, 2024 April 9, 2024 March 27, 2024 March 18, 2024 March 12, 2024 March 7, 2024 February 26, 2024 February 15, 2024 February 12, 2024 January 15, 2024 December 20, 2023 December 12, 2023 November 15, 2023 November 1, 2023 October 26, 2023 October 12, 2023 October 11, 2023 September 25, 2023 August 28, 2023 August 24, 2023 August 14, 2023 July 27, 2023 July 12, 2023 June 29, 2023 June 22, 2023 June 13, 2023 June 7, 2023 June 5, 2023 June 1, 2023 May 16, 2023 May 10, 2023 May 8, 2023 May 2, 2023 April 27, 2023 April 11, 2023 April 11, 2023 March 30, 2023 February 16, 2023 December 13, 2022 November 3, 2022 October 11, 2022 October 3, 2022 September 29, 2022 August 31, 2022 August 22, 2022 August 16, 2022 August 1, 2022 July 13, 2022 June 28, 2022 June 16, 2022 May 19, 2022 April 25, 2022 April 12, 2022 April 4, 2022 March 31, 2022 February 28, 2022 February 2, 2022 January 19, 2022 December 13, 2021 November 30, 2021 October 18, 2021 September 30, 2021 September 13, 2021 August 24, 2021 July 20, 2021 June 22, 2021 May 18, 2021 April 30, 2021 April 14, 2021 April 8, 2021 March 31, 2021 March 2, 2021 February 4, 2021 January 26, 2021 January 6, 2021 November 2, 2020 September 15, 2020 September 1, 2020 August 19, 2020 August 7, 2020 July 27, 2020 July 24, 2020 July 13, 2020 June 30, 2020 June 9, 2020 April 27, 2020 April 22, 2020 April 15, 2020 April 9, 2020 March 31, 2020 March 26, 2020 March 16, 2020 March 11, 2020 February 25, 2020 February 3, 2020 December 12, 2019 December 3, 2019 November 14, 2019 November 4, 2019 October 7, 2019 October 1, 2019 August 21, 2019 June 25, 2019 June 17, 2019 May 31, 2019 May 16, 2019 April 10, 2019 April 9, 2019 March 11, 2019 February 1, 2019 January 2, 2019 December 13, 2018 December 3, 2018 October 7, 2018 September 18, 2018 August 29, 2018 August 16, 2018 August 2, 2018 July 31, 2018 July 24, 2018 July 10, 2018 June 28, 2018 May 18, 2018 May 9, 2018 May 8, 2018 April 13, 2018 March 27, 2018 March 23, 2018 March 21, 2018 February 6, 2018 January 17, 2018 November 16, 2017 November 13, 2017 November 9, 2017 October 3, 2017 September 25, 2017 September 13, 2017 August 30, 2017
+PREVIOUS VERSIONS (Last modified September 30, 2024)
+September 24, 2024
+September 5, 2024
+August 28, 2024
+August 21, 2024
+June 27, 2024
+May 6, 2024
+April 9, 2024
+March 27, 2024
+March 18, 2024
+March 12, 2024
+March 7, 2024
+February 26, 2024
+February 15, 2024
+February 12, 2024
+January 15, 2024
+December 20, 2023
+December 12, 2023
+November 15, 2023
+November 1, 2023
+October 26, 2023
+October 12, 2023
+October 11, 2023
+September 25, 2023
+August 28, 2023
+August 24, 2023
+August 14, 2023
+July 27, 2023
+July 12, 2023
+June 29, 2023
+June 22, 2023
+June 13, 2023
+June 7, 2023
+June 5, 2023
+June 1, 2023
+May 16, 2023
+May 10, 2023
+May 8, 2023
+May 2, 2023
+April 27, 2023
+April 11, 2023
+April 11, 2023
+March 30, 2023
+February 16, 2023
+December 13, 2022
+November 3, 2022
+October 11, 2022
+October 3, 2022
+September 29, 2022
+August 31, 2022
+August 22, 2022
+August 16, 2022
+August 1, 2022
+July 13, 2022
+June 28, 2022
+June 16, 2022
+May 19, 2022
+April 25, 2022
+April 12, 2022
+April 4, 2022
+March 31, 2022
+February 28, 2022
+February 2, 2022
+January 19, 2022
+December 13, 2021
+November 30, 2021
+October 18, 2021
+September 30, 2021
+September 13, 2021
+August 24, 2021
+July 20, 2021
+June 22, 2021
+May 18, 2021
+April 30, 2021
+April 14, 2021
+April 8, 2021
+March 31, 2021
+March 2, 2021
+February 4, 2021
+January 26, 2021
+January 6, 2021
+November 2, 2020
+September 15, 2020
+September 1, 2020
+August 19, 2020
+August 7, 2020
+July 27, 2020
+July 24, 2020
+July 13, 2020
+June 30, 2020
+June 9, 2020
+April 27, 2020
+April 22, 2020
+April 15, 2020
+April 9, 2020
+March 31, 2020
+March 26, 2020
+March 16, 2020
+March 11, 2020
+February 25, 2020
+February 3, 2020
+December 12, 2019
+December 3, 2019
+November 14, 2019
+November 4, 2019
+October 7, 2019
+October 1, 2019
+August 21, 2019
+June 25, 2019
+June 17, 2019
+May 31, 2019
+May 16, 2019
+April 10, 2019
+April 9, 2019
+March 11, 2019
+February 1, 2019
+January 2, 2019
+December 13, 2018
+December 3, 2018
+October 7, 2018
+September 18, 2018
+August 29, 2018
+August 16, 2018
+August 2, 2018
+July 31, 2018
+July 24, 2018
+July 10, 2018
+June 28, 2018
+May 18, 2018
+May 9, 2018
+May 8, 2018
+April 13, 2018
+March 27, 2018
+March 23, 2018
+March 21, 2018
+February 6, 2018
+January 17, 2018
+November 16, 2017
+November 13, 2017
+November 9, 2017
+October 3, 2017
+September 25, 2017
+September 13, 2017
+August 30, 2017
+menu
+
+search_spark
+send_spark
+language
+‪English‬
+Sign in
+Start free
+Contact Us
+close
+Overview
+arrow_forward
+Solutions
+arrow_forward
+Products
+arrow_forward
+Pricing
+arrow_forward
+Resources
+arrow_forward
+Docs
+Support
+Why Google
+Choosing Google Cloud
+Trust and security
+Open cloud
+Multicloud
+Global infrastructure
+Customers and case studies
+Analyst reports
+Whitepapers
+Blog
+Products and pricing
+Google Cloud pricing
+Google Workspace pricing
+See all products
+Solutions
+Infrastructure modernization
+Databases
+Application modernization
+Smart analytics
+Artificial Intelligence
+Security
+Productivity & work transformation
+Industry solutions
+DevOps solutions
+Small business solutions
+See all solutions
+Resources
+Google Cloud Affiliate Program
+Google Cloud documentation
+Google Cloud quickstarts
+Google Cloud Marketplace
+Learn about cloud computing
+Support
+Code samples
+Cloud Architecture Center
+Training
+Certifications
+Google for Developers
+Google Cloud for Startups
+System status
+Release Notes
+Engage
+Contact sales
+Find a Partner
+Become a Partner
+Events
+Podcasts
+Developer Center
+Press Corner
+Google Cloud on YouTube
+Google Cloud Tech on YouTube
+Follow on X
+Join User Research
+We're hiring. Join Google Cloud!
+Google Cloud Community
+About Google
+Privacy
+Site terms
+Google Cloud terms
+Our third decade of climate action: join us
+Sign up for the Google Cloud newsletter
+Subscribe
+language
+‪English‬
