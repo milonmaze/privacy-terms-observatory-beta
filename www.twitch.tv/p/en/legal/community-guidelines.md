@@ -6,7 +6,7 @@ Introduction to Safety on Twitch
 
 Community is the heart of Twitch. From individual communities, built by streamers and their viewers, to the Twitch Community at large, the magic of Twitch comes from enjoying the things we love together. But before you can do what you do best, a very important prerequisite must be met: safety. 
 
-Safety is the foundation beneath streamers, moderators, and everyone in chat. We want to foster a community that supports and sustains streamers’ ability to express themselves, and provides a welcoming and entertaining environment for viewers, free of illegal, harmful, and negative interactions. As a result, we take a layered approach to safety — one that combines the efforts of both Twitch and members of the community, working together globally to promote safety in real time. It starts with our Community Guidelines, which seek to balance user expression with community safety, and set expectations for the behavior that everyone on Twitch is expected to demonstrate. When we talk about harm, we mean actions that lead to physical, emotional, social or financial damage or loss to our users or to society. 
+Safety is the foundation beneath streamers, moderators, and everyone in chat. We want to foster a community that supports and sustains streamers’ ability to express themselves, and provides a welcoming and entertaining environment for viewers, free of illegal, harmful, and negative interactions. As a result, we take an approach to safety that combines the efforts of both Twitch and members of the community, working together globally to promote safety in real time. It starts with our Community Guidelines, which seek to balance user expression with community safety, and set expectations for the behavior that everyone on Twitch is expected to demonstrate. When we talk about harm, we mean actions that lead to physical, emotional, social or financial damage or loss to our users or to society. 
 
 These guidelines set the guardrails for what behavior is and is not allowed on our service, and apply to all content on our service, including video, chat, whispers, and accounts. When we find someone has violated our Community Guidelines we take actions that can include removal of content, removal of monetization tools, a warning, and/or suspension of their account. If someone who receives an account enforcement believes it was issued by mistake or in error, they may file an appeal using our Appeals procedures.
 
@@ -30,8 +30,17 @@ Cutting or other forms of self-injury
 Consumption of alcohol or other substances that lead to being incapacitated
 Dangerous or distracted driving, including using a phone while driving and driving under the influence
 
-If you feel like you’re struggling, or you know someone who you believe might hurt themselves or others, or if someone is at immediate risk of suicide, please contact someone you trust, a healthcare provider, mental health hotline, or local law enforcement for immediate help and support. We also have resources and help lines available for you here. 
 
+If you feel like you’re struggling, or you know someone who you believe might hurt themselves or others, or if someone is at immediate risk of suicide, please contact someone you trust, a healthcare provider, mental health hotline, or local law enforcement for immediate help and support. We also have resources and help lines available for you here. 
+ 
+
+  Enforcement Notes and Clarifications:
+
+Selling activities which may cause harm for monetary gain (such as subscriptions, Bits, tips, etc.) is not allowed. 
+Prohibited examples: Taking shots of alcohol for subs or doing the “Cinnamon challenge” for a set amount of Bits.
+Drinking goal streams are allowed provided the drinking that takes place is not excessive and would not reasonably be expected to cause harm.
+Allowed Examples:  “I will open this bottle of prosecco at 100 subscribers” or “Drinking stream when we hit 50 new subs tonight” 
+Prohibited Examples: “I will down this bottle of vodka at 300 subscribers” or “I will take a shot for every 100 Bits”
 Violence and Threats
 
 Acts and threats of violence are counterproductive to promoting a safe, inclusive, and friendly community. Violence on Twitch is taken seriously and is considered a zero-tolerance violation, and all accounts associated with such activities on Twitch will be indefinitely suspended.
@@ -78,6 +87,13 @@ Content that constitutes or facilitates inappropriate interactions with youth, i
 Content that attempts to exploit youth by coercing money, favors or intimate imagery with threats to expose intimate imagery or information
 Content depicting nudity of youth
 Identifying alleged victims of CSAM by name or image
+
+  Enforcement Notes and Clarifications [content warning]:
+
+Depicting fictional anime characters of a child-like appearance (“lolis”/”shotas”) with any kind of sexual framing is not allowed. This applies to VTubers and within games where avatars are uploaded, such as VRChat, with child-like avatars even if the broadcaster and operator of the avatar is above the age of 18. 
+Any humor regarding anything sexual in relation to minors will result in immediate action on your account.
+Stating you are below the age of 13 anywhere on Twitch, even if intended to be humorous, will result in your account being permanently deactivated in accordance with applicable laws.
+Prohibited examples: Typing in chat “haHAA I’m 12 by the way” or “I’m using my dad’s account because I am 11”.
 Off-Service Conduct
 
 For streamers and their viewers to build vibrant and dynamic communities, everyone must feel secure and protected. We believe that some off-service offenses committed by Twitch users can create a substantial safety risk to the Twitch community. As a result, Twitch enforces against certain severe offenses that occur off Twitch when committed by members of the Twitch community.
@@ -213,6 +229,14 @@ Statements suggesting that a protected characteristic makes an individual more l
 Encourage the use of or generally endorsing sexual orientation conversion therapy.
 Support, promote, or be a member of a hate group, including sharing hate group propaganda materials.
 Create accounts dedicated to hate, such as through abusive usernames.
+
+  Enforcement Notes and Clarifications [content warning]:
+
+We take into consideration if the reported user belongs to the targeted protected group to help determine if an offense occurred.
+We consider context when enforcing. Self-deprecating terminology in a positive or joking way may be treated differently than terminology targeted at someone else.
+The “N-word” with a “hard R”, a racial slur, is never allowed under any circumstances.
+Denouncing slurs in context is allowed.
+Allowed examples: Speaking of an experience where a slur was used against yourself or which you overheard - “I was at the supermarket and heard someone yell [slur]” or “I was once called a [slur] at work by a colleague”.
 Harassment
 
 Harassment deters the growth of vibrant and diverse communities, prevents people from feeling safe on Twitch, and creates a gateway for more severe forms of harm and abuse. People experience harassment in different ways, including personal attacks, promotion of physical harm, and malicious brigading. Engaging in harassment will result in enforcement action taken against the relevant accounts.
@@ -382,6 +406,11 @@ Although we allow a variety of content to be shown on Twitch, content that featu
 Show content with death or extreme injury
 Browse 4chan, the dark web, or porn on Twitch
 Use randomized video chat services
+
+  Enforcement Notes and Clarifications:
+
+Randomized video content that you can not control is never allowed under any circumstances due to the risks it poses to viewers of the stream.
+Prohibited example: streaming Ome.tv interactions.
 Sexual Content
 
 To ensure content on Twitch is appropriate for diverse audiences, certain sexual content is prohibited, regardless of the medium used to create it (digital or non-digital). Users are prohibited from broadcasting, uploading, soliciting, promoting, offering, and linking to pornographic content.
@@ -406,36 +435,25 @@ Users may not directly link, promote, or advertise pornographic content in their
 
 For information about content relating to sexuality and sexual themes that is allowed with a label, see the Sexual Themes policy.
 
-  Sexual Content FAQ
+  Enforcement Notes and Clarifications [content warning]:
 
-I accidentally showed content that was sexually explicit. Will my account be suspended?
-
-As owner of your account, it’s entirely your responsibility to ensure that anything shared on your account abides by Twitch’s Terms of Service (ToS) and Community Guidelines (CG). If you are unsure if a link, photo, video, or other content in your broadcast breaks these, we suggest that you review it privately before airing it on your broadcast. Content that breaks ToS or CG, whether shown accidentally or on purpose, can be reported and moderation may take appropriate action on that content, including removing the content and issuing a suspension on your account. Given the nature of live content, we expect you to take proper precautions; even one incident may warrant action.
-
-If viewers mass report my channel for sexual content, can I be suspended even if I did nothing wrong?
-
-No, frivolous report brigading will never result in a channel being suspended. All of our sexual content enforcements are manually reviewed and issued. If you feel that a suspension has been issued in error, you may file an appeal, the instructions for which can be found on our Account Enforcements help article. All Community Guidelines suspension notifications also contain a link to this article.
-
-Are there restrictions against nudity and sexual content in emotes, badges, and cheermotes?
-
-In addition to Twitch’s Terms of Service and Community Guidelines, all subscriber emotes are subject to the policies detailed in the Subscriber Emoticon Guide. Because subscriber emoticons are available for use globally across Twitch and highly visible outside of their original channels, our emoticon guidelines may be more restrictive than our general Community Guidelines in some instances. Please refer to the Emote Guidelines section to review emote-specific standards for sexual content. 
-
-How does Twitch handle nudity in gaming? 
-
-We handle nudity in games in two ways. First, games featuring nudity, pornography, sex, or sexual violence as a core focus or feature are entirely prohibited. Custom gameplay or visual modifications that include nudity or sex content, including uncensored patches, in otherwise allowed games are prohibited. Learn more about prohibited games.
-
-Second, for games where nudity is not the core focus or feature, the Mature-rated Games Content Classification Label is sufficient for incidental nudity. However, the Sexual Themes label must be applied to gameplay that focuses on nudity. Learn more about the Mature-rated Games Content Classification Label. 
-
+Direct links to websites that primarily provide sexual content are not allowed in your content (overlay, bio, sent in chat, etc).
+If any links to this kind of content through methods such as link aggregators are found, Twitch may apply the Sexual Themes Content Classification Label for a set amount of time.
+We allow certain content that includes sexual themes, providing it is educational in nature, has relevant Content Classification Labels applied to the stream, and doesn’t break our other guidelines such as Nudity. 
+Allowed example: You may have content which showcases how to apply a condom on a banana providing the intent is to educate.
+Positioning your camera to highlight intimate body areas is not allowed.
+Prohibited example: Stretching your legs apart in view of the camera for extended periods of time.
+Artistic depictions of nudity are only allowed in the context of public art. 
+Allowed examples: Showing a nude statue in a city square, or streaming from a museum or an art history lecture.
+If prohibited sexual content is shared accidentally, your account will still be suspended. If you are unsure if a link, photo, video, or other content in your broadcast abides by the Community Guidelines, we suggest that you review it privately before airing it on your broadcast.
+If your channel is reported multiple times in a short period of time for sexual content (or for any other policy violation), this will not result in your channel being suspended if you did nothing wrong. All of our sexual content enforcements are manually reviewed and issued.
+Emotes, badges, and cheermotes are also subject to our policies. Because subscriber emotes are available for use globally across Twitch and highly visible outside of their original channels, our emote guidelines may be more restrictive than our general Community Guidelines in some instances. Please refer to the Emote Guidelines to review emote-specific standards for sexual content. 
+Games featuring nudity, pornography, sex, or sexual violence as a core focus or feature are entirely prohibited. Custom gameplay or visual modifications that include nudity or sex content, including uncensored patches, in otherwise allowed games are prohibited.
+For games where nudity is not the core focus or feature, the Mature-rated Games Content Classification Label is sufficient for incidental nudity. However, the Sexual Themes Content Classification Label must be applied to gameplay that includes nudity but is not the main focus of the game.
+Allowed Example: Streaming Grand Theft Auto V with the Mature-rated Games Content Classification Label.
 Users may not engage in simulated sexual activity or erotic roleplay with other players in online games. Games that primarily consist of user-generated content, in-game roleplay, or interactions in virtual reality are not exempt from this policy.
-
-Are artistic depictions of nudity allowed?
-
-Artistic depictions of nudity are only allowed in the context of public art (for example, a nude statue in a city square) or art history education (streaming from a museum or an art history lecture).
-
-Is body painting on the breasts and buttocks allowed on Twitch?
-
-As long as attire requirements are met, body painting on the breasts and buttocks is allowed with a Sexual Themes Label. 
-
+Prohibited example: Simulating sexual activity on VRChat.
+As long as attire requirements are met, body painting on the breasts and buttocks is allowed with a Sexual Themes Content Classification Label. 
 Adult Nudity
 
 Users are prohibited from broadcasting or uploading content that contains depictions of real or fictional nudity, regardless of the medium used to create it. Incomplete censoring, such as pixelization, mosaics, blurring effects, sheer or partially see-through clothing do not constitute an exemption to this policy. 
@@ -490,27 +508,23 @@ Additional exceptions
 
 The standard chest coverage requirements outlined above do not apply to individuals actively breastfeeding a child on stream. 
 
-  Attire FAQ
+  Enforcement Notes and Clarifications [content warning]:
 
-What clothing is appropriate for my stream?
-
-Given the variety of content and activities creators engage in, an explicit dress code would be unreasonably restrictive. Streaming is a public activity that reaches a global audience of many ages and cultures, and as such we prohibit nudity and sexual conduct. When evaluating reports for sexual conduct, attire is just one factor we will use in making a determination on whether conduct is acceptable.
-
+When evaluating reports for sexual conduct, attire is just one factor we will use in making a determination on whether conduct is acceptable.
 We recommend streamers wear attire that would be publicly appropriate for the context, location, and activity they are broadcasting. For example, workout clothes would be appropriate for a fitness stream and a swimsuit would be appropriate for a stream from a public beach.
-
-Why aren’t there specific rules about what clothing is and isn’t allowed on Twitch?
-
-As Twitch continues to expand the variety of content we feature, so comes the need for updating the range of attire that is acceptable. For example, something that is acceptable for a broadcast at the beach or the gym may not be acceptable for a cooking or gameplay broadcast. In an effort to help streamers abide by our Community Guidelines in the same way they would expectations of behavior in the real world, we’ve updated our policies to reflect that we will consider not just the attire itself, but also the contextual setting in which it is worn and the intent of the person wearing it, when moderating content. Please remember that content focusing on covered genitals, buttocks, or breasts for extended periods of time are prohibited under our Sexual Content policy. 
-
-Does the attire policy apply to VTubers?
-
-The attire policy applies to VTubers, in the same way it applies to other streamers. 
-
+The attire policy applies to VTubers, in the same way it applies to other streamers.
+Genitalia, buttocks, hips, female-presented nipples, and underbust must be covered at all times on general streams. These guidelines apply to Vtuber models but not video game characters including those uploaded into games such as VRChat.
+Hip coverage is often forgotten in this rule, please be sure that your Vtuber model covers this area.
+Festival and beach wear allows slightly more revealing clothing when within the relevant category - allowing the showing of hips and underbust, but genitalia and female-presenting nipples must still be covered.
+Static or slightly animated artwork for scenes such as “Stream Starting”, “Be Right Back” and “Stream Ending” artwork must follow all of our guidelines.
+If you are in a “setting” such as a Pool, Hot Tub, or Beach (that may not be real) props do not require water within them for us to still consider you in the correct context.
+Your content is still required to be in the correct category and apply any applicable Content Classification Labels.
+If we cannot functionally tell whether or not you are clothed, or you are implying you are not clothed, through methods such as tight skin-toned clothing, black bars, blurring, hiding behind props or being off-screen, you will be at risk of enforcement for our Attire and possibly our Sexual Content Policies. 
 Account Usernames and Display Names
 
 In order to ensure that our community is safe and inclusive, inappropriate account names that violate our Community Guidelines are prohibited. We also recognize that an account’s username has more impact across our services than many other forms of content because they are persistent, cross-functional, and, in most cases, much more visible. Because of this, we have additional, higher standards for usernames based on reducing harm across our services.
 
-   For example, usernames and display names created on Twitch may not include:
+   For example, usernames and display names created on Twitch may not include [content warning]:
 
 Breaking the law, including terrorism and child exploitation
 Violence and threats
@@ -559,7 +573,7 @@ Glorifying references to specific natural disasters that are responsible for dea
 Glorifying people directly responsible for the murder or death of others, such as serial killers
 Celebrating deaths of individuals due to violence, including suicides and lethal government or police actions (see Hateful Conduct for more on our guidelines regarding glorifying violence on the basis of a protected class)
 
-  In instances where we believe users may be acting in good-faith, we will mandate a username or display name reset instead of indefinitely suspending the accounts. For example, your username may be reset if it includes:
+  In instances where we believe users may be acting in good-faith, we will mandate a username or display name reset instead of indefinitely suspending the accounts. For example, your username may be reset if it includes [content warning]:
 
 References to hard drugs, recreational drugs, and drug abuse (with the exceptions of alcohol, tobacco, and marijuana)
 Explicitly referencing recreational drugs or psychoactive substances, such as peyote
@@ -571,7 +585,7 @@ Creating usernames that indicate overt sexual arousal
 Creating usernames that include references to genitalia or sexual bodily fluids
 References to sexually transmitted infections and other types of sexual-related trauma
 Overt references to sexual fetishes
-Using terms related sexual orientation or disability in an insulting context or as a negative descriptor   (reminder that using terms related to protected groups in an openly hateful or derogatory way will result in an indefinite suspension, see Hateful Conduct above)
+Using terms related to sexual orientation or disability in an insulting context or as a negative descriptor   (reminder that using terms related to protected groups in an openly hateful or derogatory way will result in an indefinite suspension, see Hateful Conduct above)
 Creating a name that uses terms related to Autism or intellectual disability in a negative or insulting context
 Creating a name that uses terms related to sexual orientation, such as ‘gay,’ in a negative or insulting context
 
@@ -595,12 +609,88 @@ If usernames can be such a large issue, what is Twitch doing to proactively moni
 
 We do have systems in place to proactively monitor usernames at account sign-up and automatically deny names that appear to violate our policies. However, malicious individuals often leverage a number of tactics to try and confuse these systems. While our automated detection catches a significant amount of this abuse, we also leverage account suspensions and resets to deal with names that do manage to evade or pre-date our filtering system.
 
+Tags
+
+You should only create tags that adhere to the rest of Twitch’s Terms of Service and Community Guidelines.
+
+ 
+
+  Examples of content prohibited from use in tags by our Community Guidelines includes, but is not limited to, the following (content warning):
+
+Hateful conduct, such as offensive slurs, symbols, and stereotypes
+Harassment, such as targeted insults, bullying, and threatening or inciting abuse
+Threats of violence, such as threats against others and threats of suicide
+Glorification or promotion of self harm, such as content promoting eating disorders
+Sexual content, such as descriptions of sexual acts (sex, masturbation), arousal, and gestures
+Nudity, such as descriptions of buttocks, genitals, and anuses
+Illegal drugs, such as references to illegal drug use, drugs, and drug paraphernalia
+
+In addition to content prohibited by our Community Guidelines, we also prohibit the following given the high visibility and prominence of tags across Twitch:
+
+Vulgarity, such as obscene or explicit words and phrases
+Commonly abused terms, such as ‘white’, ‘straight’, ‘cis’, ‘able’ and derivations of these terms. Promotion of these terms have a potential for misuse or connection to hateful ideologies, which are not permitted on Twitch. 
+
+Severe abuse of tags submissions, including severe policy violations and repeated submissions of content previously rejected or taken down, may result in a suspension of your account.
+
 Prohibited Games
 
 In order to ensure that the content broadcast on Twitch abides by our Community Guidelines and is appropriate for a diverse audience, we prohibit games that contain developer-generated content that is clearly violative, as well as social platform games frequently used for unmitigated abuse. Broadcasting or showcasing content from these games will lead to enforcement action against your account. 
 
-Using the mature content flag, setting the broadcast or VOD to a different title, setting the stream to subscribers only, or categorizing the stream under ‘Not Playing’ does not constitute an exemption from this policy. Games are prohibited from being streamed if they have an Adults Only (AO) rating from the ESRB, or if they contain content that violates our community guidelines. Please see our Prohibited Games article for more information. 
+Using the Mature-rated Games Content Classification Label, setting the broadcast or VOD to a different title, setting the stream to subscribers only, or categorizing the stream under ‘Not Playing’ does not constitute an exemption from this policy. 
 
+Games are restricted from broadcast if:
+
+The game violates our Community Guidelines as it applies to hate speech, sex, nudity, gratuitous gore, or extreme violence
+The official ESRB rating is Adults Only
+
+Alternate versions of Adults Only titles with an ESRB rating of Mature or lower are permitted, including Mature versions of Grand Theft Auto: San Andreas and Fahrenheit: Indigo Prophecy.
+
+Game reviews are conducted following reports from the community. If the game is unrated by the ESRB and a wholly-comparable rated title cannot be found, the moderation team determines whether the game violates our Community Guidelines. Titles may be restricted if they are sufficiently extreme by a single element of the game (e.g. sexual content, violence, intent) or several elements in aggregate violate our policies.
+
+User accounts broadcasting or uploading content that feature gameplay from these titles can be reported via the user report tool under the option "Prohibited Game." Reported users may receive a temporary account suspension. In order to discourage sharing this content, all titles on the list are removed from the game selector found on the Creator Dashboard. 
+
+  Example Prohibited Games [content warning]
+
+This list is not exhaustive. We regularly update this list and games may be added or removed if the game's official ESRB rating changes or if the content of an unrated game changes. 
+
+3DXChat
+All Randomized Video Chat Platforms
+Artificial Girl 1, 2, & 3
+Artificial Academy 1 & 2
+Battle Rape
+BMX XXX
+Cobra Club
+Criminal Girls
+Dramatical Murder
+Ethnic Cleansing
+Genital Jousting
+Grezzo 1 & 2
+Harem Party
+House Party
+HunieCam Studio
+HuniePop 1 & 2
+Kamidori Alchemy Meister
+Negligee
+Porno Studio Tycoon
+Purin to Ohuro
+Purino Party
+Radiator 2
+RapeLay
+Rinse and Repeat
+Sakura Angels
+Sakura Beach 1 & 2
+Sakura Dungeon
+Sakura Fantasy
+Sakura Santa
+Sakura Spirit
+Sakura Swim Club
+Second Life
+Suck My Dick or Die!
+The Guy Game
+The Maiden Rape Assault: Violent Semen Inferno
+What's under your blanket !?
+Witch Trainer
+Yandere Simulator
 Prohibited Gambling Content
 
 We do not allow users to share links or affiliate codes to sites that contain slots, roulette, or dice games.
@@ -647,9 +737,13 @@ Impersonation is a malicious practice that compromises trust in our service and 
 
 Impersonate a Twitch partner’s account
 Pose as a celebrity in a streamer’s chat
-
 Create a “waiting room” i.e. a stream with the title, tag, or description of being a “waiting room” for someone else's stream or channel content that contains no reaction or original content created by the channel owner
+ 
 
+  Enforcement Notes and Clarifications:
+
+If you are being impersonated as a streamer on Twitch and the content does not qualify for action under the DMCA process (such as a branded trademark), please report the stream under “Impersonation”. Please provide full information in the report.
+We take into account a number of factors such as usernames and bios, as well as if the person being impersonated submits the report when determining whether to enforce.
 Spam, Scams, and Other Malicious Conduct
 
 Spam and other deceptive practices create a negative user experience, decrease trust in our service, and mislead viewers, creators, and advertisers. Any content or activity that disrupts, interrupts, harms, or otherwise violates the integrity of Twitch services or another user’s experience or devices is prohibited. 
@@ -666,7 +760,15 @@ Cheat the Twitch rewards system (such as the Drops or channel points systems)
 Engage in any cheating, hacking, botting, or tampering, that gives the account owner an unfair advantage in an online multiplayer game
 
 We understand that sometimes streamers are victims of account takeover, fraud, or viewbotting directed by a malicious third party. We have methods to detect the responsible party and do not penalize good-faith streamers under these circumstances.
+ 
 
+  Enforcement Notes and Clarifications:
+
+Redirecting users to a livestream on another service via links on your Twitch page, QR codes, broadcast titles, and go-live notifications, is prohibited.
+Links to social media profiles, not directly tied to a livestream and links present in your Bio (About Me) or Panels are still permitted.
+Drops are meant to be earned during live gameplay with your community - not through streaming unrelated content like static images, rebroadcasts of past VODs/footage, or other scenarios where you are not interacting with your community.
+Prohibited example:  Using VODs or static images to stream with the core purpose of “Drop Farming”.
+Allowed example: Streaming a game with drops but taking a small break with a temporary “Be right back” static image.
 Suspension Evasion
 
 Circumventing our enforcement actions undermines the integrity of our service. For suspended users, any attempt to circumvent an account suspension or chat ban by using other accounts or identities will also result in an additional enforcement against your accounts, up to an indefinite suspension. For non-suspended Twitch streamers, you may react to a VOD or a livestream from another service of a suspended user, but you may not feature them on your stream as a guest (for example, streaming in the same room or using collaboration software to feature a suspended user as a guest, even in an ensemble).
@@ -731,6 +833,7 @@ Sexual Content
 Adult Nudity
 Attire
 Account Usernames and Display Names
+Tags
 Prohibited Games
 Prohibited Gambling Content
 Authenticity ()
