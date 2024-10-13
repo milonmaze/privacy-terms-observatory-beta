@@ -9,7 +9,6 @@ By continuing to visit or use our Services, you are agreeing to the use of cooki
 
 What technologies are used?
 ENTER A SUMMARY
-ENTER A SUMMARY
 Type of technology	Description
 Cookies	
 
@@ -33,7 +32,6 @@ What are these technologies used for?
 
 Below we describe the purposes for which we use these technologies.
 
-ENTER SUMMARY
 ENTER SUMMARY
 Purpose	Description
 Authentication	
