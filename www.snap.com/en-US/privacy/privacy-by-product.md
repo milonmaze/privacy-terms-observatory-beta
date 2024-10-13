@@ -158,15 +158,23 @@ If you haven’t opened a connected app or website in 90 days, we’ll remove it
 
 Spectacles
 
-Spectacles are sunglasses that capture your world, the way you see it. Just press the button to save the moment, in the moment — without having a phone get in the way. We specifically made Spectacles sunglasses because they’re meant to be used when you’re out in the world — whether you’re on an adventure or just going about your day.
+Spectacles are see-through AR glasses powered by Snap OS, that open up a new world, and let you experience immersive Lenses with friends and family, use Gen AI, extend your Snapchat and other phone experiences into three dimensions, and more. With Lens Studio 5.0 you can easily build and iterate on Lenses, including Gen AI Suite.
 
-Whenever you take a photo or video with Spectacles, LEDs will light up to let your friends know that you’re taking a Snap or recording a video.
+When you’re out and about in the world wearing your Spectacles- whether you’re on an adventure or just going about your day, you can capture images and recordings with your Spectacles and LEDs will light up to let your friends know. Images or videos captured with Spectacles are stored locally on the device; there is no cloud storage. You can easily import a captured image or recording to the photo library on your device using the Spectacles App. 
 
-Our Community Guidelines have always asked Snapchatters to be thoughtful and respect people’s privacy — and that same philosophy applies to Spectacles, down to their design!
+Access to the camera and microphone on your Spectacles device is needed for it to operate. The camera uses information about face, hands, and your surroundings so you can interact with AR content, while the microphone uses information about your voice to make features like recorded videos or voice commands work. You can remove the Spectacles App’s access to the camera and microphone on your Spectacles device by stopping use of your Spectacles device or deleting your account. 
 
-We are constantly innovating Spectacles — different generations have their own unique and exciting features. The new Spectacles overlay immersive Lenses on the world around you and incorporate some of the Scan features described below.
+Spectacles are equipped with built-in GPS and GNSS to capture location-based information. When you first set up and pair your new Spectacles to the Spectacles App, you’ll be asked whether you’d like to enable location data. You can disable location data at any time by following the steps described here.
 
-Learn About Spectacles
+My AI in Spectacles and other Lenses use generative AI, which you can read more about here.
+
+Learn About Spectacles 
+
+AI on Spectacles 
+
+Spectacles Supplemental Privacy Policy 
+
+Privacy and Security – Spectacles Support.
 
 Your Snapchat Account
 
