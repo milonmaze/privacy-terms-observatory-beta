@@ -33,6 +33,8 @@ Frysk
  
 Hausa
  
+Ido
+ 
 Kiswahili
  
 Kreyòl ayisyen
