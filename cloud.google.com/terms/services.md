@@ -667,7 +667,7 @@ Support
 Why Google
 Choosing Google Cloud
 Trust and security
-Open cloud
+Modern Infrastructure Cloud
 Multicloud
 Global infrastructure
 Customers and case studies
