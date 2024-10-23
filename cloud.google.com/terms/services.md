@@ -180,11 +180,6 @@ Agent Assist: Agent Assist is an LLM-powered AI solution that increases human ag
 
 Anti Money Laundering AI (AML AI): AML AI enhances financial institutions' legacy transaction monitoring systems with an AI-powered risk score to improve financial crime risk detection.
 
-*Automotive AI Agent: Automotive AI Agent is a hybrid, on-asset and online voice agent framework for customers to build and deploy voice agent experiences for a wide range of automotive-related devices and applications.
-
-Automotive AI Agent API: The Automotive AI Agent API is used for creating, managing, and deploying voice agent experiences. This includes access to certain pre-trained voice agents for automotive contexts.
-Automotive AI Agent Premium Software: The Automotive AI Agent solution includes Premium Software components identified below.
-
 Contact Center AI (CCAI): CCAI uses AI to improve the customer experience in contact centers. It includes Agent Assist, Dialogflow Essentials, Dialogflow Customer Experience Edition (CX), Insights, Speech-to-Text, Text-to-Speech, and Speaker ID.
 
 Contact Center AI Insights: Contact Center AI Insights helps customers extract value from their contact center data by identifying sentiment and topics and highlighting key insights in the data.
@@ -193,7 +188,7 @@ Contact Center AI (CCAI) Platform: CCAI Platform is a contact-center-as-a-servi
 
 Dialogflow Essentials(ES): Dialogflow ES is a development suite for voice and text conversational apps that can connect to customer applications and telephony and digital platforms.
 
-Dialogflow Customer Experience Edition (CX): Dialogflow CX is a development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, and advanced IVR feature support.
+Dialogflow Customer Experience Edition (CX)xperience Edition (CX)): Dialogflow CX is a development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, and advanced IVR feature support.
 
 Document AI: Document AI is a unified console for document processing that lets you quickly access all document processing models and tools. Customers can use Document AI's pre-trained models for document extraction, including OCR, Form Parser and specialized models.
 
@@ -258,7 +253,6 @@ Gemini for Google Cloud (formerly known as Duet AI for Google Cloud): Gemini for
 
 Gemini Code Assist (formerly known as Duet AI for Developers) provides AI-powered assistance to help your development team build, deploy, and operate applications throughout the software development lifecycle.
 Gemini in BigQuery provides AI-powered assistance to help you understand, query, and work with your data across the entire data lifecycle.
-Gemini in Firebase provides AI-powered assistance to help you build, launch, and scale your Firebase apps more rapidly.
 
 Generative AI on Vertex AI: Generative AI on Vertex AI is any Service with generative AI functionality in Vertex AI, including:
 
@@ -269,6 +263,8 @@ Vertex AI Search allows customers to leverage foundational models and search an
 Vertex AI Studio is a user interface in the Google Cloud console for rapidly prototyping and testing generative AI models.
 
 Generative AI Services also includes any generative AI features of a Service.
+
+Vertex AI in Firebase: Vertex AI in Firebase allows you to add generative AI features to applications using the Vertex AI Gemini API, providing a service API layer and SDKs that are integrated into Firebase systems and products. It works with App Check while supporting idiomatic language for Swift, Kotlin, Dart, and JavaScript.
 
 API Management
 
@@ -332,6 +328,8 @@ Security
 Access Transparency: Access Transparency captures near real-time logs of manual, targeted accesses by Google administrators, and serves them to customers via their Cloud Logging account.
 
 Assured Workloads: Assured Workloads provides functionality to create security controls that are enforced on your cloud environment. These security controls can assist with your compliance requirements (for example, FedRAMP Moderate).
+
+Audit Manager: Audit Manager provides customers with a shared responsibility matrix for selective compliance standards which Audit Manager supports through Google Cloud Platform.  It enables customers to perform compliance assessments against their workloads and generate evidence to support compliance audits.
 
 Binary Authorization: Binary Authorization helps customers ensure that only signed and explicitly-authorized workload artifacts are deployed to their production environments. It offers tools for customers to formalize and codify secure supply chain policies for their organizations.
 
@@ -498,7 +496,9 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified September 30, 2024)
+PREVIOUS VERSIONS (Last modified October 22, 2024)
+October 7, 2024
+September 30, 2024
 September 24, 2024
 September 5, 2024
 August 28, 2024
