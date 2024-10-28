@@ -111,8 +111,3 @@ We may revise this Privacy Policy from time to time, and will post the most curr
 Contact
 
 Have questions or concerns about Dropbox, our Services, and privacy? Contact our Data Protection Officer at privacy@dropbox.com. If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
-
-We use cookies to provide, improve, protect and promote our services. Visit our Privacy Policy and Privacy Policy FAQs to learn more. You can manage your personal preferences, including your ‘Do not sell or share my personal data to third parties’ setting using the “Customize cookies” button below.
-Customize cookies
-Decline
-Accept All
