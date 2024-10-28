@@ -131,3 +131,14 @@ Slovenščina
 Svenska
 
  
+
+Asia Pacific
+Privacy Policy
+
+English
+
+ 
+
+Legal Bases Chart
+
+English
