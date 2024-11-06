@@ -90,6 +90,7 @@ Donor privacy
 SMS supplementary terms
 General disclaimer
 Human rights
+IP Information Tool
 Licensing
 Office actions
 Privacy
