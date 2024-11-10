@@ -194,6 +194,113 @@ InMoment complies with the Australian Privacy Act 1988 (Privacy Act) and the Off
 
 If you have any complaints, send them to us at the contact information contained in “How to Contact Us” section below.
 
+1. Disclosures for residents of the USA
+
+If you are a resident of California, Colorado, Connecticut, Delaware, Iowa, Maryland, Utah, or Virginia, you have certain rights and we aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Information. This supplemental section, together with other relevant sections of the Policy, provides information about your rights and how to exercise them under the California Consumer Privacy Act and the California Privacy Rights Act (collectively, “CCPA”), the Colorado Privacy Act (“CPA”), the Connecticut Data Privacy Act (“CDPA”), the Delaware Online Privacy and Protection Act (“DOPPA”), the Iowa Consumer Data Protection Act (“ICDPA”), the Maryland Personal Information Protection Act (“PIPA”), the Utah Consumer Privacy Act (“UCPA”), the Virginia Consumer Data Protection Act (“VCDPA”), and any and all regulations arising therefrom. Unless otherwise expressly stated, all terms in this section have the same meaning as defined in the related state laws.
+
+In addition to the rights as explained in this Policy, if you provide Personal Information as defined in the statute to obtain Services for personal, family, or household use, you have the right to submit requests related to your Personal Information once a calendar year. Note that there are circumstances when we may not be able to comply with your request such as when we are not able to verify your request or find that providing a full response conflicts with other legal obligations or regulatory requirements. You will be notified if it’s the case.
+
+(a) Right to know and right to access: You have the right to request certain information we have collected about you. Once we receive and confirm a verifiable request from you, we will disclose to you, to the extent permitted by law: the specific pieces of Personal Information we hold about you, the categories of sources from which Information about you is collected, the purposes for collecting, selling, or sharing your Personal Information.
+
+You have the right to request that the Personal Information is delivered in a format that is both portable and easily usable, as long as it is technically possible to do so.
+
+(b) Right to correct: You have the right to request that we correct your inaccurate Personal Information taking into account the nature of the Personal Information and the purposes of the processing of the Personal Information.
+
+(c) Right to delete: You have the right to request deletion of your Personal Information.
+
+(d) Right to opt-out of the sale and sharing: You have the right to opt-out of the sale of your Personal Information which may include selling, disclosing, or transferring Personal Information to another business or a third party for monetary or other valuable consideration.
+
+(e) Right to consent to or limit the use of your sensitive personal information: You have the right to consent to the use of your Sensitive Personal information and to direct us to restrict its use and disclosure solely to what is essential for carrying out or delivering the Services in a manner reasonably anticipated by an average user, or for certain business objectives as specified by law. However, we do not use Sensitive Personal Information for any purposes other than those legally permitted or beyond the scope of your consent.
+
+(f) Right to non-discrimination: You have the right to not be discriminated against in the Services or quality of Services you receive from us for exercising your rights. We may not, and will not, treat you differently because of your data subject request activity, and we may not and will not deny goods or Services to you, charge different rates for goods or Services, provide a different level quality of goods or Services, or suggest that we would treat you differently because of your data subject request activity.
+
+(g) Shine the Light: California residents that have an established business relationship with us have the right to know how their personal information is disclosed to third parties for their direct marketing purposes under California’s “Shine the Light” law, or the right to opt out of such practices.
+
+To exercise any of your rights, simply contact us using the details below. After we receive and verify your request, we will process it to the extent possible within our capabilities.
+
+How to exercise your rights
+
+Any requests to exercise your rights can be directed to us through the contact details provided in this document. Please note that we may ask you to verify your identity before responding to such requests. Your request must provide sufficient information that allows us to verify that you are the person you are claiming to be or that you are the authorized representative of such a person. If we receive your request from an authorized representative, we may request evidence that you have provided such an authorized representative with power of attorney or that the authorized representative otherwise has valid written authority to submit requests on your behalf.
+
+You must include sufficient details to allow us to properly understand the request and respond to it. We cannot respond to your request or provide you with Personal Information unless we first verify your identity or authority to make such a request and confirm that the Personal Information relates to you.
+
+2. InMoment and CCPA
+2.1 California Consumer Privacy Act (CCPA) Activities
+
+In this section, “business,” “business purpose,” “consumer,” “commercial purpose,” “personal information,” “sale” or “selling,” and “service provider” refer to the definitions in the CCPA.
+
+InMoment has two areas of activity that are related to the CCPA:
+
+First, InMoment collects data from consumers in the course of its marketing and recruiting efforts. This includes information we collect voluntarily from forms on our website and event registrations, information we collect automatically when you visit our website, apply for a position, and information we obtain from third party sources. In this activity, InMoment acts as a “business” under the CCPA.
+Second, InMoment collects data from consumers in the course of providing InMoment products and services to its clients. In this activity, InMoment acts strictly as a “service provider” to our clients under the CCPA, and our clients are “businesses”.  In the InMoment products and services, InMoment collects customer data based on our clients’ instructions. For example, our clients specify what consumers we should contact to provide feedback, when we should contact them (e.g., after completing a purchase at a client’s retail store), how we should contact them (e.g., email or SMS), how often we should send them reminders to provide a response, and what questions are asked. InMoment’s clients also decide how to use or respond to feedback that is collected.
+2.2 Handling Personal Information Under CCPA
+
+Regardless of which area of activity applies to you, InMoment does not sell your personal information.
+
+To be clear, in the previous 12 months we have not sold, rented, released, disclosed, disseminated, made available, transferred, or otherwise communicated a consumer’s personal information to another business or third party for monetary or other valuable consideration. If that changes, we will update this Privacy Policy.
+
+Further, when we provide the InMoment products and services to our clients, we do not:
+
+process personal information for any commercial purpose other than providing our clients the products and services they have purchased; or
+retain, use or disclose personal information outside of the scope of the agreements we have with our clients.
+2.3 Personal Information Collected and Disclosures for Business Purposes
+
+The CCPA requires that we disclose the categories of personal information we collect about consumers, and the categories of personal information we disclose for a business purpose.
+
+The chart below details where you find information about the categories of personal information that InMoment has collected in the previous 12 months for each activity related to the CCPA.
+
+ACTIVITY	WHERE YOU CAN FIND INFORMATION
+
+Providing the InMoment products and services to InMoment clients as a “service provider”
+The categories of personal information InMoment collects about consumers vary depending on our clients’ implementation and use of our software. For a generalized description of these categories, please see the InMoment Customer DPA located here.
+
+For more information on the types of data collected by a particular InMoment client, refer to the privacy policy or communications of the InMoment client.
+
+Our clients’ privacy policies are commonly located in the InMoment survey invitation email (for web-based surveys) or on the client’s web site or mobile application (for in-the-moment surveys).
+
+
+Carrying out InMoment’s marketing and recruiting efforts as a “business”
+See section 2 (Types of Information Collected) of this Privacy Policy.
+
+The chart below details where you can find information about the categories of information we disclose for a business purpose in the previous 12 months.
+
+ACTIVITY	WHERE YOU CAN FIND INFORMATION
+
+Providing the InMoment products and services to InMoment clients as a “service provider”
+The categories of personal information InMoment discloses for a business purpose vary depending on the features of our software our clients use, and the servicing and support they have purchased. For a generalized description of these disclosures, please see the InMoment Customer DPA located here.
+
+For more information on the disclosures made to a particular InMoment client, refer to the privacy policy or communications from the InMoment client.
+
+Our clients’ privacy policies are commonly located in the InMoment survey invitation email (for web-based surveys) or on the client’s web site or mobile application (for in-the-moment surveys).
+
+
+Carrying out InMoment’s marketing and recruiting efforts as a “business”
+See section 5 (Disclosure of Information) of this Privacy Policy.
+2.4 Consumer Rights Under the CCPA
+
+Your rights under the CCPA include the right to request a copy of the specific personal information collected about you in the 12 months prior to the request, and a business’s data collection practices (including categories of information collected, how information is used, and who it is disclosed to). We will generally refer to these as “access requests”.
+
+In addition, with some exceptions, you can request deletion of the personal information that is collected about you. We will generally refer to these as “deletion requests”.
+
+You have a right not to receive discriminatory treatment for exercising their CCPA rights.
+
+With respect to personal data of consumers collected in InMoment products and services, InMoment’s clients are responsible for fulfilling access and deletion requests. InMoment supports these requests by offering our clients product features, processes and assistance in exporting personal information about individuals. These product features and processes complete the data deletion within 30 days of receiving the request from our client.
+
+With respect to the personal data of consumers collected in InMoment’s marketing and recruiting efforts, we are responsible for fulfilling access and deletion requests.
+
+The chart below details how you can exercise your rights under the CCPA.
+
+ACTIVITY	HOW TO EXERCISE YOUR ACCESS AND DELETION RIGHTS
+
+Providing the InMoment products and services to InMoment clients as a “service provider”
+Please contact the InMoment client identified in the communication you received.
+Contact information is commonly located within the communication or in a privacy policy linked from the communication.
+
+
+Carrying out InMoment’s marketing and recruiting efforts as a “business”
+Please submit a request to our Marketing team here.  
+In the request, please be as specific as possible in relation to the personal information you wish to access or delete. Once we receive the request, we will review it, and process the request accordingly. If we need additional information to verify your identity, we will let you know.
+Any identifying information in such requests will be used solely for verification, and to communicate with you. We will respond to the request within 45 days of receipt, or notify you if we require additional time.
 Cookies and IP Addresses
 
 Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. This information is used to track visitor use of the website and to compile statistical reports on website activity.
@@ -290,3 +397,5 @@ Please contact us if you have any complaints, questions about the Privacy Policy
 • Or write us at:  InMoment, Inc., Attn: Privacy Team/Legal, 10355 South Jordan Gateway, Suite 600, South Jordan, UT 84095 USA.
 
 Version: This Privacy Policy has been updated on 7 July 2021
+
+`
