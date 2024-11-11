@@ -199,7 +199,7 @@ Document Workbench: Document Workbench allows you to build a custom classificati
 *Human-in-the-Loop AI: Human-in-the-Loop AI uses Document AI to provide workflow tools for human verification of data extracted from documents.
 Document AI Warehouse: Document AI Warehouse is a highly-scalable, fully managed data management and governance platform that integrates with enterprise document workflows to store, search, and organize documents and their metadata.
 
-Food Ordering AI Agent: Food Ordering AI Agent is a pre-built conversational AI agent designed to enhance food ordering operations. It utilizes LLMs, Speech-to-Text, Text-to-Speech, and Dialogflow to automate the food ordering process (including at a drive-thru window), and additionally connects to BigQuery and Looker to give restaurant operators data-driven insights into their operations.
+*Food Ordering AI Agent: Food Ordering AI Agent is a pre-built conversational AI agent designed to enhance food ordering operations. It utilizes LLMs, Speech-to-Text, Text-to-Speech, and Dialogflow to automate the food ordering process (including at a drive-thru window), and additionally connects to BigQuery and Looker to give restaurant operators data-driven insights into their operations.
 
 Google Cloud Contact Center as a Service (CCaaS) (formerly Contact Center AI (CCAI) Platform): Google Cloud CCaaS is a contact-center-as-a-service (CCaaS) platform leveraging Conversational AI. It integrates directly with CRMs and queues and routes customer interactions across voice and digital channels to resource pools, including human agents.
 
