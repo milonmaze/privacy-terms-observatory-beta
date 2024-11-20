@@ -36,7 +36,6 @@ You can use our services in a variety of ways to manage your privacy. For exampl
 To help explain things as clearly as possible, we’ve added examples, explanatory videos, and definitions for key terms. And if you have any questions about this Privacy Policy, you can contact us.
 
 INFORMATION GOOGLE COLLECTS
-
 We want you to understand the types of information we collect as you use our services
 
 We collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful, the people who matter most to you online, or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
@@ -97,7 +96,6 @@ In some circumstances, Google also collects information about you from publicly 
 We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs.
 
 WHY GOOGLE COLLECTS DATA
-
 We use data to build better services
 
 We use the information we collect from all our services for the following purposes:
@@ -147,7 +145,6 @@ If other users already have your email address or other information that identif
 We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.
 
 YOUR PRIVACY CONTROLS
-
 You have choices regarding the information we collect and how it's used
 
 This section describes key controls for managing your privacy across our services. You can also visit the Privacy Checkup, which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our Product Privacy Guide.
@@ -281,7 +278,6 @@ We may share non-personally identifiable information publicly and with our partn
 If Google is involved in a merger, acquisition, or sale of assets, we’ll continue to ensure the confidentiality of your personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
 KEEPING YOUR INFORMATION SECURE
-
 We build security into our services to protect your information
 
 All Google products are built with strong security features that continuously protect your information. The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you. And if we do detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected.
