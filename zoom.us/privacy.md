@@ -3,5 +3,5 @@ www.zoom.com
 Verifying you are human. This may take a few seconds.
 
 www.zoom.com needs to review the security of your connection before proceeding.
-Ray ID: 8e697552898a236e
+Ray ID: 8e79f075bba4fb50
 Performance & security by Cloudflare
