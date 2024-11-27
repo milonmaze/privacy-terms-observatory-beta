@@ -14,7 +14,7 @@ Overview
 
 Released: July 25, 2024
 
-We are pleased to offer our transparency report for January 1, 2024, through June 30, 2024. This report provides insight into how Zoom Video Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. At Zoom, transparency is critical to building trust and fostering the free and open exchange of ideas.
+We are pleased to offer our transparency report for January 1, 2024, through June 30, 2024. This report provides insight into how Zoom Communications, Inc. (Zoom) responds to requests for user data from law enforcement agencies and government authorities globally. At Zoom, transparency is critical to building trust and fostering the free and open exchange of ideas.
 
 As detailed in Zoom’s Privacy Statement and in line with our commitment to user privacy, user data is only provided to governments in response to valid and lawful requests that adhere to our Government Requests Guide.
 
