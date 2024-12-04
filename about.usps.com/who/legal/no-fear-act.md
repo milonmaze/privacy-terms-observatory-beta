@@ -1,3 +1,4 @@
+Effective Nov. 29, international mail service to Canada is temporarily suspended, due to the strike of the Canadian Union of Postal Workers. Read more.
 No FEAR Act Information & Data
 
 The “Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002,” Public Law 107-174, known as the No FEAR Act, became effective Oct. 1, 2003. This law seeks to decrease violations of antidiscrimination laws by increasing the accountability of federal agencies for violations of those laws. Among other things, it requires federal agencies to post EEO statistics on their websites and to educate employees about the rights and remedies under the antidiscrimination and whistleblower laws that apply to them.
