@@ -8,7 +8,7 @@ Saving Snaps was designed with privacy in mind. You control whether your Snaps c
 
 Voice and Video Chat allows you to check in with your Friends. If you just want to leave a voice message, we’ve got you covered, just press and hold the microphone to record a Voice Note. Snapchatters can also use our Voice Note Transcription feature that allows us to create and make available transcripts of Voice Chats so they can be read.
 
-Snaps and Chats are private and delete by default, including Voice and Video Chats between you and your friends — meaning we don’t scan their content to personalize your experience, make recommendations, or show you ads. This means we don’t know what you’re Chatting or Snapping except in limited, safety-related circumstances (for example, if we receive a report of content that is flagged for violating our Community Guidelines, or to help keep spammers from sending you malware or other harmful content) or unless you ask us to (for example, if you use our Voice Chat Transcription feature).
+Snaps and Chats are private and delete by default, including Voice and Video Chats between you and your friends — meaning we don’t scan their content to personalize your experience, make recommendations, or show you ads. This means we don’t know what you’re Chatting or Snapping except in limited, safety-related circumstances (for example, if we receive a report of content that is flagged for violating our Community Guidelines, or to help keep spammers from sending you malware or other harmful content) or unless you ask us to (for example, if you use our Voice Chat Transcription feature). To understand how Sponsored Snaps work, see Snap & Ads.
 
 How to Create and Send Snaps
 
@@ -152,7 +152,7 @@ How to Use Lenses
 
 Snap Kit
 
-Snap Kit is a set of developer tools that let you easily share Snaps, Stories, and Bitmojis with your favorite apps or from apps and websites to your Snapchat account! When you choose to connect to an app or website, you can review the information that is shared through Snap Kit. You can also remove an app or website’s access at any time right in Snapchat settings.
+Snap Kit is a set of developer tools that let you easily share Snaps and Stories with your favorite apps or from apps and websites to your Snapchat account! When you choose to connect to an app or website, you can review the information that is shared through Snap Kit. You can also remove an app or website’s access at any time right in Snapchat settings.
 
 If you haven’t opened a connected app or website in 90 days, we’ll remove its access, but you may need to contact the developer if you have questions about any data that has already been shared.
 
