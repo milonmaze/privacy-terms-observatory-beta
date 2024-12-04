@@ -237,6 +237,11 @@ We consider context when enforcing. Self-deprecating terminology in a positive o
 The “N-word” with a “hard R”, a racial slur, is never allowed under any circumstances.
 Denouncing slurs in context is allowed.
 Allowed examples: Speaking of an experience where a slur was used against yourself or which you overheard - “I was at the supermarket and heard someone yell [slur]” or “I was once called a [slur] at work by a colleague”.
+
+We prohibit the use of terms that may not be harmful or abusive in isolation, but can be used as a slur or to denigrate others in certain contexts. Similar to other terms that may be used as a proxy for a protected group, we treat “Zionists” as a proxy for Jews or Israelis if the word is used in a context to promote harm or violence, or when used to make dehumanizing comparisons or perpetuate antisemitic stereotypes. Comments regarding Zionism that are about the political movement, including criticisms, do not violate our Hateful Conduct Policy. Comments that call for violence against Zionism as a political movement, or comments that would otherwise violate our policies, are not allowed.
+
+Prohibited example: Zionist [name of animal].
+Allowed example: Zionist settlers keep encroaching Palestinian borders.
 Harassment
 
 Harassment deters the growth of vibrant and diverse communities, prevents people from feeling safe on Twitch, and creates a gateway for more severe forms of harm and abuse. People experience harassment in different ways, including personal attacks, promotion of physical harm, and malicious brigading. Engaging in harassment will result in enforcement action taken against the relevant accounts.
