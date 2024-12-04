@@ -1,3 +1,4 @@
+We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our Privacy Policy.
 Skip to main content
 Online Privacy Policy
 Overview
