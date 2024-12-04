@@ -10,6 +10,7 @@ Proton Mail Privacy Policy
 Proton Drive Privacy Policy
 Proton Calendar Privacy Policy
 Proton VPN Privacy Policy
+(new window)
 Proton Pass Privacy Policy
 Proton Wallet Privacy Policy
 
@@ -47,11 +48,15 @@ In order to pursue our legitimate interest of preventing the creation of account
 
 2.7 Communicating with Proton's Sales team: if you are a Business customer or a business prospect and are contacting our Sales team via the dedicated forms, the data you provide is used solely for the purpose of processing your request and contacting you to assess whether our products will suit your needs. The legal basis for this processing activity is your consent.
 
-2.8 Communications from Proton: We mainly use your email address for account-related questions, communication, and recovery. By signing up to our Service, you agree to receive communications from us, which may include promotional emails. You can stop receiving emails from us by following the unsubscribe instructions included in every email we send. Alternatively, you can login to the Proton dashboard and adjust your email preferences under the ‘Account’ tab.
+2.8 Communications from Proton: We mainly use your email address for account-related questions, communication, and recovery. By signing up to our Service, you agree to receive communications from us, which may include promotional emails. You can stop receiving emails from us by following the unsubscribe instructions included in every email we send. Alternatively, you can login
+(new window)
+ to the Proton dashboard and adjust your email preferences under the ‘Account’ tab.
 
 2.9 Payment information: We rely on Chargebee to process payments. Strictly necessary information is shared with Chargebee for credit card, PayPal, Stripe and Bitcoin transactions in order for the payment to be successful and associated with your account. Chargebee does not have access to your email or your Proton account information. We rely on third parties to process credit card, PayPal, and Bitcoin transactions and must therefore share payment information with them. We do not retain full credit card details, we only save your name and the last 4 digits of the credit card number. Anonymous cash or Bitcoin payments and donations are accepted. We may use your account data for payment-related matters, including but not limited to sending you emails, invoices, receipts, notices of delinquency, and alerts to update payment information. The legal basis of these processing activities is the necessity to the execution of the contract to provide the Services. In order to respect the principle of data minimisation, we reserve our right to remove payment information from our systems that is no longer valid, without notice.
 
-2.10 Native applications: When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software (e.g. fabric.io) app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google’s Play Store or Apple’s App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and Terms of Service. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.
+2.10 Native applications: When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software (e.g. fabric.io
+(new window)
+) app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google’s Play Store or Apple’s App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and Terms of Service. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.
 
 Our applications do not access or track any location-based information from your device.
 
