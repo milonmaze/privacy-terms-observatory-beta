@@ -9,7 +9,7 @@ We respect the laws that apply to us in the countries where we operate. In the U
 
 We never provide information to a government to fulfill a member data request without first trying to notify the individual member, except when applicable law prohibits us from doing so. We may make exceptions in certain emergencies.
 
-This report covers the six-month period between July 1 and December 31, 2023.
+This report covers the six-month period between January 1 and June 30, 2024.
 
 
 This report covers:
@@ -25,6 +25,7 @@ Global content removal requests
 2019 - 2017
 2016 - 2014
 2013 - 2011
+2024
 2023
 2022
 2021
@@ -34,95 +35,47 @@ Global content removal requests
 2017
 2016
 2015
-2014
  	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
 	Accounts for which LinkedIn provided some data [2]
-Argentina	3	3	33%	1
-Australia	6	7	0%	0
-Austria	1	1	0%	0
-Bangladesh
-	1	1	0%	0
-Belgium	5	7	100%	7
-Brazil	32	301	53%	17
+Argentina	9	10	0%	0
+Australia	6	22	0%	0
+Austria	5	8	20%	1
+Belgium	8	19	100%	11
+Brazil	25	29	40%	10
 Canada
-	10	11	70%	7
-Chile	2	3	0%	0
-Croatia	2	2	100%	2
-Czech Republic	1	1	100%	1
-Finland	2	4	50%	1
-France
-	289	298	40%	117
-Germany
-	81	122	75%	81
-Greece	4	6	25%	1
-Hungary	2	3	100%	2
-India
-	84	132	26%	24
-Italy
-	7	12	43%	3
-Kyrgyzstan
-	1	11	0%	0
-Mexico	2	2	50%	1
-Netherlands
-	10	28	80%	22
-Pakistan	1	1	0%	0
-Poland	9	11	67%	6
-Portugal	3	4	67%	3
-Qatar	1	1	0%	0
-Romania	1	2	0%	0
-Singapore	3	3	0%	0
-Spain	16	21	56%	10
-Sweden	1	1	0%	0
-Switzerland	6	6	33%	2
-Taiwan	5	12	0%	0
-Turkey	1	1	0%	0
-United Kingdom	26	31	77%	20
-United States	416	2000	81%	1114
-Total	1034	3049	60%	1442
- 	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
-	Accounts for which LinkedIn provided some data [2]
-Argentina	2	2	0%	0
-Australia	2	3	50%	1
-Austria	6	7	0%	0
-Bangladesh
-	1	1	0%	0
-Belgium	4	5	100%	4
-Bolivia	1	2	0%	0
-Brazil	18	20	44%	8
-Canada
-	8	10	75%	8
-Chile	1	1	0%	0
-China	3	0	0%	0
+	8	9	50%	4
+China	1	1	0%	0
 Columbia	2	2	0%	0
-Czech Republic	1	1	100%	1
-Estonia	2	2	0%	0
-Finland	1	2	0%	0
+Costa Rica	1	2	0%	0
 France
-	63	68	57%	39
+	520	530	30%	158
+Georgia	1	1	0%	0%
 Germany
-	65	102	82%	64
-Greece	3	3	33%	1
-Hungary	1	1	100%	1
+	126	227	67%	130
+Greece	1	1	0%	0
+Guatemala	1	1	0%	0
+Hong Kong	1	1	0%	0
 India
-	81	116	21%	19
-Ireland	12	12	58%	7
+	96	119	26%	28
+Ireland	8	10	25%	2
 Italy
-	103	250	43%	88
+	11	12	73%	8
+Jordan	2	2	0%	0
+Lithuania	2	2	100%	2
 Malta	1	1	0%	0
-Mexico	7	8	0%	0
+Mexico	6	9	0%	0
 Netherlands
-	21	54	95%	52
-Poland	8	21	38%	3
-Portugal	2	2	50%	1
-Romania	1	4	0%	0
-Singapore	2	2	0%	0
-Spain	16	17	44%	7
-Switzerland	2	2	0%	0
-Taiwan	1	1	0%	0
-United Kingdom	17	22	53%	10
-United States	386	2053	83%	1306
-Venezuela	1	1	0%	0
-Total	845	2798	64%	1620
+	12	72	100%	70
+Poland	15	34	47%	18
+Portugal	3	3	100%	3
+Singapore	1	2	0%	0
+Spain	21	31	71%	16
+Sweden	1	1	100%	1
+Switzerland	11	13	18%	2
+Turkey	2	2	50%	1
+United Kingdom	28	33	61%	17
+United States	474	2523	83%	992
+Total	1409	3732	53%	1474
 
 [1] This column was previously labeled "Accounts Impacted", but we changed the name to clarify that it reflects the number of accounts subject to the data requests, and not the number of accounts for which some responsive data was in fact provided.
 
@@ -131,8 +84,8 @@ Total	845	2798	64%	1620
 
 
 Breakdown of U.S. government requests for data
+2024
 2023
-2022
 2021
 2020
 2019
@@ -141,22 +94,11 @@ Breakdown of U.S. government requests for data
 2016
 2015
 2014
-Requests [1]	416
-Accounts subject to requests	2,000
-Requests for which LinkedIn provided some data	81%
-Subpoenas [2]	75%
-Search warrants [3]	7%
-Court orders [4]	15%
-Other [5]	2%
-National security letters received [6]	0-499
-National security letters (accounts subject to request)
-	0-499
-FISA requests [6]	0-499
-Requests [1]	386
-Accounts subject to requests	2,053
+Requests [1]	474
+Accounts subject to requests	2,523
 Requests for which LinkedIn provided some data	83%
-Subpoenas [2]	76%
-Search warrants [3]	6%
+Subpoenas [2]	72%
+Search warrants [3]	10%
 Court orders [4]	17%
 Other [5]	1%
 National security letters received [6]	0-499
@@ -187,6 +129,7 @@ FISA requests [6]	0-499
 [6] In our Government Requests Reports prior to July 2019, we reported on National Security Requests, which could include National Security Letters and FISA requests. In the effort to provide more transparency to our members, we now report NLSs and FISA requests separately. Because we are required by law to delay the release of FISA data by 6 months, reported FISA request metrics correspond to the previous reporting period (for example, data for the July-December 2019 period is reported in our January-June 2020 report).
 
 Government requests for content removal
+2024
 2023
 2022
 2021
@@ -194,36 +137,20 @@ Government requests for content removal
 2019
 2018
  	Requests	Action taken	Percentage action taken
-Australia	8	3	38%
-Brazil	19	13	68%
-Germany	1	0	0%
-Hong Kong	2	2	100%
-India	6	4	67%
-Indonesia	4	4	100%
+Australia	1	1	100%
+Brazil	21	11	52%
+Canada	1	0	0%
+Germany	1	1	100%
+India	16	9	56%
+Indonesia	5	5	100%
 Ireland	1	1	100%
-Pakistan	1	0	0%
-Qatar	1	0	0%
-Singapore	2	0	0%
-Turkey	9	8	89%
-United States	97	94	97%
-Total including the US	151	129	85%
-Total minus the US	54	35	65%
- 	Requests	Action taken	Percentage action taken
-Australia	2	1	50%
-Bahrain	1	0	0%
-Bangladesh	1	1	100%
-Bolivia	1	1	100%
-Brazil	4	4	100%
-China	5	4	80%
-Ghana	1	1	100%
-India	13	12	92%
-Indonesia	8	8	100%
-Qatar	1	0	0%
-Singapore	1	1	100%
-Turkey	5	5	100%
+Pakistan	2	2	100%
+Switzerland	1	1	100%
+Turkey	25	21	84%
 United Kingdom	1	1	100%
-United States	5	5	100%
-Totals	49	44	90%
+United States	12	9	75%
+Total including the US	75	53	71%
+Total minus the US	87	62	71%
 
 • We started reporting on content-related requests in our January 1-June 30, 2018 Transparency Report.
 
