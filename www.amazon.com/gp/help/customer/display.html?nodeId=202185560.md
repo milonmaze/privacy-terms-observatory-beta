@@ -5,7 +5,7 @@ Find more solutions
 
 Digital Services and Device Support  ›  Amazon Device and Digital Services Terms, Warranties, and Notices  ›  Alexa & Alexa Device Terms  › 
 Children's Privacy Disclosure
-Last updated: July 8, 2020
+Last updated: December 4th, 2024
 
 
 
