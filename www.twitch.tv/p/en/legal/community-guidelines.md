@@ -774,6 +774,11 @@ Links to social media profiles, not directly tied to a livestream and links pres
 Drops are meant to be earned during live gameplay with your community - not through streaming unrelated content like static images, rebroadcasts of past VODs/footage, or other scenarios where you are not interacting with your community.
 Prohibited example:  Using VODs or static images to stream with the core purpose of “Drop Farming”.
 Allowed example: Streaming a game with drops but taking a small break with a temporary “Be right back” static image.
+Shared Viewership, through utilizing Shared Chat as a tool, is designed to highlight the total number of community members present when two or more streamers are both live and collaborating together. Abusing these tools to artificially promote or inflate viewership without appropriate collaboration is not allowed, with some exceptions as noted below.
+Prohibited example: Two streamers are live utilizing Shared Viewership, but no active collaboration (not sharing audio or video) is taking place. Instead, they are simply “hosting” each other with Shared Chat to inflate their Shared Viewcount.
+Prohibited example: Utilizing viewership to highlight an alt account owned by the streamer.
+Allowed example: Two streamers are playing a game and are in the same game interacting with each other over audio (e.g. Stream Together audio or in-game comms).
+Allowed example: A streamer is working with a brand to appear on their official Twitch account at the same time as the streamer’s own channel for the release of their new game or product utilizing Shared Viewership.
 Suspension Evasion
 
 Circumventing our enforcement actions undermines the integrity of our service. For suspended users, any attempt to circumvent an account suspension or chat ban by using other accounts or identities will also result in an additional enforcement against your accounts, up to an indefinite suspension. For non-suspended Twitch streamers, you may react to a VOD or a livestream from another service of a suspended user, but you may not feature them on your stream as a guest (for example, streaming in the same room or using collaboration software to feature a suspended user as a guest, even in an ensemble).
