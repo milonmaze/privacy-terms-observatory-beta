@@ -1,4 +1,3 @@
-Effective Nov. 29, international mail service to Canada is temporarily suspended, due to the strike of the Canadian Union of Postal Workers. Read more.
 Full privacy policy
 Scope
 
