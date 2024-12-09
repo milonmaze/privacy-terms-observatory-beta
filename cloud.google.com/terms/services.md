@@ -376,7 +376,7 @@ On-premises Connector, which forwards Identity-Aware Proxy traffic from Google C
 App Connector, which provides secure access to private applications in non-Google cloud environments using a remote agent installed on a customer-owned virtual machine.
 Endpoint Verification, which allows administrators to build an inventory of devices and set the security posture of the devices.
 Threat and Data Protection Services, which are a set of security services that work by aggregating threat intelligence and are designed to protect enterprise users from malware transfers, phishing, malicious site visits, and sensitive data leakage.
-Chrome Enterprise Premium Integration with Chrome Browser Cloud Management, which enables malware, phishing, and data leakage protection for managed Chrome browsers.
+Chrome Enterprise Core, which enables malware, phishing, and data leakage protection for managed Chrome browsers.
 Other features listed at; https://chromeenterprise.google/products/chrome-enterprise-premium/ or a successor URL.
 
 Cloud Identity Services: Cloud Identity Services are the services and editions as described at:; https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
