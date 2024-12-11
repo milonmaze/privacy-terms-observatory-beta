@@ -1,9 +1,9 @@
 Sign in
-Extensions
+Chrome Extensions
 Chrome Web Store - Program Policies
 Home
 Docs
-Extensions
+Chrome Extensions
 Chrome Web Store - Program Policies
 Was this helpful?
 Google Chrome Web Store Developer Agreement 
