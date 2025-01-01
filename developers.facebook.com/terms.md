@@ -408,7 +408,7 @@ Responsible platform initiatives
 Platform terms
 Developer policies
 Follow Us
-© 2024 Meta
+© 2025 Meta
 About
 Careers
 Privacy Policy
