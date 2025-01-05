@@ -1,3 +1,5 @@
+Skip to main content
+ 
 1. Information regarding the technologies we use
 2. Which service providers do we cooperate with?
 3. Your Choices
@@ -10,10 +12,14 @@ This Cookie Notice was updated on February 23, 2022.
 Your options at a glance:
 
 Users in the European Economic Area ("EEA"), Switzerland and the UK
-You can visit our dedicated settings page - opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
+You can visit our dedicated settings page
+- opens in new window or tab
+ to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
 
 All other users
-You can visit our advertising preferences page - opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
+You can visit our advertising preferences page
+- opens in new window or tab
+ (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
 
 Learn more about your choices.
 
@@ -46,10 +52,14 @@ Your choice options for the use of cookies relating to our Services will depend 
 With regard to the use of advertising-related or personalization-related technologies, you have the following options:
 
 Users in the European Economic Area ("EEA"), Switzerland and the UK
-You can visit our dedicated settings page - opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
+You can visit our dedicated settings page
+- opens in new window or tab
+ to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
 
 All other users
-You can visit our advertising preferences page - opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
+You can visit our advertising preferences page
+- opens in new window or tab
+ (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
 
 Learn more
 4. Do Not Track
