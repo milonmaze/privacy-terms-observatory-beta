@@ -4,11 +4,9 @@ You deserve transparency into our data use
 Select your preferred language
 Intuit Global Privacy Statement
 
-Last Updated: March 22, 2024
+Last Updated: September 8, 2024
 
 See previous Privacy Statements
-
-
 
 
 
@@ -31,8 +29,6 @@ Additional terms may apply to you based upon the country you reside in or the pr
 Expand AllCollapse All
 United States
 Australia
-Brazil
 Canada
 India
-Mexico
 United Kingdom (and Gibraltar)(UK), European Economic Area (EEA), and Switzerland
