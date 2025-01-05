@@ -1,4 +1,3 @@
-Skip to main content
 Help & Customer Service
 
 Find more solutions
