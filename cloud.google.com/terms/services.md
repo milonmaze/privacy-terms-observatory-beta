@@ -652,8 +652,6 @@ menu
 
 search_spark
 send_spark
-language
-‪English‬
 Sign in
 Start free
 Contact Us
