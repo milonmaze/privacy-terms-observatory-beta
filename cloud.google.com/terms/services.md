@@ -209,7 +209,7 @@ Translation Hub: Translation Hub is a fully-managed document translation solutio
 
 Vertex AI Search for Industry: Vertex AI Search for Industry enables customers in retail, media, and other verticals to deliver Google-quality search results and recommendations.
 
-Vertex AI Search for Retail
+Vertex AI Search for commerce
 *Recommendations AI: Recommendations AI enables customers to build a personalized recommendation system using ML models.
 *Recommendation Engine API: Recommendation engine API is the Version 1 API of Recommendations AI.
 *Retail Search: Retail Search, powered by Google's Retail API, allows retailers to leverage Google's search capabilities on their retail websites and applications.
