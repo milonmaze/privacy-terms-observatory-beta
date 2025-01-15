@@ -224,7 +224,7 @@ In addition, if you are signed out, Google may still use your current location f
 
 For additional information on how to turn on and off personalized ads when you are signed out, see here.
 
-Change language:
+A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
 Bahasa Melayu
