@@ -47,7 +47,7 @@ Our services also use encrypted backup storage as another layer of protection to
 
 As with any deletion process, things like routine maintenance, unexpected outages, bugs, or failures in our protocols may cause delays in the processes and timeframes defined in this article. We maintain systems designed to detect and remediate such issues.
 
-Change language:
+A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
 Bahasa Melayu
