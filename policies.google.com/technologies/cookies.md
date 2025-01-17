@@ -76,7 +76,7 @@ MANAGING SIMILAR TECHNOLOGIES IN YOUR APPS AND DEVICES
 
 Most mobile devices and applications allow you to manage how similar technologies, such as unique identifiers used to identify an app or device, are set and used. For example, the Advertising ID on Android devices or Apple’s Advertising Identifier can be managed in your device’s settings, while app-specific identifiers may typically be managed in the app’s settings.
 
-Change language:
+A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
 Bahasa Melayu
