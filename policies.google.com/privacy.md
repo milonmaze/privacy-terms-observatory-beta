@@ -449,7 +449,7 @@ Technologies includes more information about:
 How Google uses cookies
 Technologies used for Advertising
 How Google uses information from sites or apps that use our services
-Change language:
+A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
 Bahasa Melayu
