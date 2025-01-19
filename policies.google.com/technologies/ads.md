@@ -151,7 +151,7 @@ We do have restrictions on this type of ad. For example, we prohibit advertisers
 
 Learn more about Google ads.
 
-Change language:
+A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
 Bahasa Melayu
