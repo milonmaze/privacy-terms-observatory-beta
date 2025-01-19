@@ -10,7 +10,7 @@ We don’t share information that personally identifies you with our advertising
 
 You can read more about the information Google collects, including from partners, in the Privacy Policy.
 
-Change language:
+A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
 Bahasa Melayu
