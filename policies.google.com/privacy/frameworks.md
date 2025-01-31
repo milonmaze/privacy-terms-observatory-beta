@@ -25,6 +25,7 @@ Standard contractual clauses (SCCs) are written commitments between parties that
 
 Google may also incorporate SCCs into contracts with customers of its business services, including Google Workspace, Google Cloud Platform, Google Ads, and other ads and measurement products. Learn more at privacy.google.com/businesses.
 
+GoogleAbout GooglePrivacyTermsTransparency Center
 A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
@@ -93,4 +94,3 @@ Türkçe
 中文（简体中文）
 中文（繁體中文）
 日本語
-GoogleAbout GooglePrivacyTermsTransparency Center
