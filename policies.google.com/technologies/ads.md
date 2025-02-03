@@ -151,6 +151,7 @@ We do have restrictions on this type of ad. For example, we prohibit advertisers
 
 Learn more about Google ads.
 
+GoogleAbout GooglePrivacyTermsTransparency Center
 A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
@@ -219,4 +220,3 @@ Türkçe
 中文（简体中文）
 中文（繁體中文）
 日本語
-GoogleAbout GooglePrivacyTermsTransparency Center
