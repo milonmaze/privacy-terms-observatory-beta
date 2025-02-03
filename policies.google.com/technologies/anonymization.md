@@ -21,6 +21,7 @@ Differential privacy (also an industry-standard term) describes a technique for 
 
 Anonymization is just one process we use to maintain our commitment to user privacy. Other processes include strict controls on user data access, policies to control and limit joining of data sets that may identify users, and the centralized review of anonymization and data governance strategies to ensure a consistent level of protection across all of Google.
 
+GoogleAbout GooglePrivacyTermsTransparency Center
 A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
 Afrikaans
 Bahasa Indonesia
@@ -89,4 +90,3 @@ Türkçe
 中文（简体中文）
 中文（繁體中文）
 日本語
-GoogleAbout GooglePrivacyTermsTransparency Center
