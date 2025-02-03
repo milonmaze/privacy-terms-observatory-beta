@@ -96,8 +96,6 @@ Spectrum Access System: Spectrum Access System enables you to access the Citizen
 
 Telecom Network Automation: Telecom Network Automation is Google Cloud's implementation of open source Nephio that delivers simple, carrier grade, cloud-native automation to support the creation of intent driven networks.
 
-Traffic Director: Traffic Director is Google Cloud Platform's traffic management service for open service meshes.
-
 Virtual Private Cloud: Virtual Private Cloud provides a private network topology with IP allocation, routing, and network firewall policies to create a secure environment for your deployments.
 
 Operations
@@ -266,6 +264,7 @@ Vertex AI Conversation (formerly Gen App Builder) allows customers to leverage 
 Vertex AI Model Garden enables customers to access generative AI foundation models, including large language, text-to-image, image-to-text, and multimodal models.
 Vertex AI Search allows customers to leverage foundational models and search and recommendation technologies to create multimodal semantic search and question-answering experiences.
 Vertex AI Studio is a user interface in the Google Cloud console for rapidly prototyping and testing generative AI models.
+NotebookLM for enterprise enables customers to use generative AI to summarize and extract information from their data.
 
 Generative AI Services also includes any generative AI features of a Service.
 
@@ -294,9 +293,9 @@ GKE Enterprise: GKE Enterprise is a solution designed for building and managing 
 Config Sync: Config Sync, available as part of GKE Enterprise, is a solution for enabling consistent configuration across multiple Kubernetes clusters, with your configuration stored as a single source of truth under version control and automatically applied to your clusters.
 Policy Controller: Policy Controller is a policy management solution that enables the application and enforcement of programmable policies for your Kubernetes clusters. These policies act as "guardrails" and can help with best practices, security, and compliance management of your clusters and fleet.
 Identity Service: Identity Service is an authentication service that lets customers bring existing identity solutions for authentication to multiple environments. Users can log in to and access their clusters from the command line or from the Google Cloud console, all using their existing identity providers.
-GKE Enterprise Integration with Google Cloud Platform Services: Google Cloud Platform services and components may be used in connection with GKE Enterprise deployments, including Google Kubernetes Engine (GKE), Cloud Logging, Cloud Monitoring, Traffic Director, and Google Cloud Platform Marketplace.
+GKE Enterprise Integration with Google Cloud Platform Services: Google Cloud Platform services and components may be used in connection with GKE Enterprise deployments, including Google Kubernetes Engine (GKE), Cloud Logging, Cloud Monitoring, and Google Cloud Platform Marketplace.
 GKE Enterprise Premium Software: GKE Enterprise includes the software components listed below as Premium Software.
-Service Mesh: Service Mesh is a managed service mesh service that includes (i) a managed certificate authority that issues cryptographic certificates that identify customer workloads within the Service Mesh for mutual authentication, and (ii) telemetry for customers to manage and monitor their services. Customers receive details showing an inventory of services, can understand their service dependencies, and receive metrics for monitoring their services. For clarity this service does not include Service Mesh -- Software (see below regarding Premium Software).
+Cloud Service Mesh: Cloud Service Mesh is a managed service that includes (i) a managed certificate authority that issues cryptographic certificates that identify customer workloads within the Service Mesh for mutual authentication, and (ii) telemetry for customers to manage and monitor their services. Customers receive details showing an inventory of services, can understand their service dependencies, and receive metrics for monitoring their services, and (iii) traffic management for user services in the mesh. For clarity this service does not include Cloud Service Mesh -- Software (see below regarding Premium Software).
 GKE Autopilot: GKE Autopilot is a mode of operation in GKE in which Google manages cluster configuration, including nodes, scaling, security, and other preconfigured settings. Autopilot clusters are optimized to run most production workloads, and provision compute resources based on Kubernetes manifests. The streamlined configuration follows GKE best practices and recommendations for cluster and workload setup, scalability, and security.
 Connect: Connect is a service that enables both users and Google-hosted components to interact with clusters through a connection to the in-cluster Connect software agent.
 GKE Hub: GKE Hub is centralized control-plane that enables a user to register clusters running in a variety of environments, including Google's cloud, on premises in customer datacenters, or other third party clouds. GKE Hub provides a way for customers to centrally manage features and services on customer-registered clusters.
@@ -479,7 +478,7 @@ Cloud Vision OCR On-Prem: Cloud Vision OCR On-Prem enables you to run Cloud Visi
 GKE Enterprise: GKE Enterprise includes the following Premium Software components:
 
 GKE Enterprise core software: GKE Enterprise core software enables you to run containers on Kubernetes and can be deployed on premises in your own data center (Google Distributed Cloud Virtual), as well as in both private and public clouds.
-Service Mesh - Software: Service Mesh - Software is a suite of tools to run a reliable service mesh on GKE Enterprise, to help you monitor, manage and secure traffic between the services deployed on GKE Enterprise.
+Cloud Service Mesh - Software: Cloud Service Mesh - Software is a suite of tools to run a reliable service mesh on GKE Enterprise, to help you monitor, manage and secure traffic between the services deployed on GKE Enterprise.
 Identity Service - Software: Identity Service - Software may be downloaded and installed in supported cluster types and environments to let administrators set up authentication with their preferred Identity providers for one or more GKE Enterprise clusters.
 Connect Software: Connect Software may be downloaded and installed in clusters to enable connectivity between the customer-registered cluster and Google Cloud.
 Cloud Logging and Cloud Monitoring for GKE Enterprise: Cloud Logging and Cloud Monitoring can be deployed in a range of hybrid cloud environments to enable centralized log storage, log analysis, metrics capture, metrics trending, customized alerting, and application debug tracing.
@@ -501,7 +500,8 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified October 24, 2024)
+PREVIOUS VERSIONS (Last modified January 30, 2025)
+October 24, 2024
 October 22, 2024
 October 7, 2024
 September 30, 2024
@@ -641,6 +641,7 @@ March 23, 2018
 March 21, 2018
 February 6, 2018
 January 17, 2018
+October 24, 2024
 November 16, 2017
 November 13, 2017
 November 9, 2017
