@@ -114,6 +114,7 @@ Foreign corrupt practices act policy
 Gifts
 Non-discrimination
 Policy and political association guideline
+Staff Userrights
 Travel and expense
 Travel approval
 Whistleblower
