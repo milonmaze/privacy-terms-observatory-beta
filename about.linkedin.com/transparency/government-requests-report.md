@@ -149,8 +149,8 @@ Switzerland	1	1	100%
 Turkey	25	21	84%
 United Kingdom	1	1	100%
 United States	12	9	75%
-Total including the US	75	53	71%
-Total minus the US	87	62	71%
+Total including the US	87	62	71%
+Total minus the US	75	53	71%
 
 • We started reporting on content-related requests in our January 1-June 30, 2018 Transparency Report.
 
