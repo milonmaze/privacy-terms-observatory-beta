@@ -1,7 +1,5 @@
 www.zoom.com
-
-Verifying you are human. This may take a few seconds.
-
-www.zoom.com needs to review the security of your connection before proceeding.
-Ray ID: 910d256aaaa7f96f
+Your browser is out of date. Update your browser to view this site properly.
+Click here for more information
+Ray ID: 911d9880484567ee
 Performance & security by Cloudflare
