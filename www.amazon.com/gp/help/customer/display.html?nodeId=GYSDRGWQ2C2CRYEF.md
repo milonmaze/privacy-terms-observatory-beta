@@ -63,7 +63,7 @@ How Amazon Collects Your Personal Information
 How Amazon Protects Your Personal Information
 Manage Your Personal Information
 Interest-Based Ads
-EU-US and Swiss-US Data Privacy Framework
+EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework
 About Cookies
 California Supply Chain Transparency Act Statement
 Human Rights and Environmental Grievances
