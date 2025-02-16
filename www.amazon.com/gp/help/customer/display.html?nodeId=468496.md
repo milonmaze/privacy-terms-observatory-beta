@@ -5,7 +5,7 @@ Find more solutions
 Security and Privacy  ›  Legal Policies  › 
 Amazon.com Privacy Notice
 
-Last updated: March 31, 2024. To see prior version, click here.
+Last updated: February 14, 2025. To see prior version, click here.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.
 
@@ -20,7 +20,7 @@ What About Advertising?
 What Information Can I Access?
 What Choices Do I Have?
 Are Children Allowed to Use Amazon Services?
-EU-US and Swiss-US Data Privacy Framework
+EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework
 Conditions of Use, Notices, and Revisions
 Related Practices and Information
 Examples of Information Collected
@@ -99,11 +99,9 @@ Are Children Allowed to Use Amazon Services?
 
 Amazon does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon Services only with the involvement of a parent or guardian. We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian. For more information, please see our Children's Privacy Disclosure.
 
-EU-US and Swiss-US Data Privacy Framework
+EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework
 
-Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework*. Click here to learn more.
-
-*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so.
+Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Click here to learn more.
 
 Conditions of Use, Notices, and Revisions
 
