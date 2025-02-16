@@ -1,7 +1,5 @@
 Skip to Content
-
 UPDATED MARCH 2, 2023
-
 Privacy Policy
 
 How Shopify handles your data
