@@ -1,4 +1,5 @@
  
+On this page
 1. Information regarding the technologies we use
 2. Which service providers do we cooperate with?
 3. Your Choices
@@ -11,10 +12,10 @@ This Cookie Notice was updated on February 23, 2022.
 Your options at a glance:
 
 Users in the European Economic Area ("EEA"), Switzerland and the UK
-You can visit our dedicated settings page - opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
+You can visit our dedicated settings page- opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
 
 All other users
-You can visit our advertising preferences page - opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
+You can visit our advertising preferences page- opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
 
 Learn more about your choices.
 
@@ -47,17 +48,17 @@ Your choice options for the use of cookies relating to our Services will depend 
 With regard to the use of advertising-related or personalization-related technologies, you have the following options:
 
 Users in the European Economic Area ("EEA"), Switzerland and the UK
-You can visit our dedicated settings page - opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
+You can visit our dedicated settings page- opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
 
 All other users
-You can visit our advertising preferences page - opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
+You can visit our advertising preferences page- opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
 
 Learn more
 4. Do Not Track
 
 California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we don't respond to them at this time. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take.
 
-Was this article helpful?
+Was this article helpful for you?
 
 You might also be interested in:
 
@@ -67,8 +68,29 @@ From time to time, you may experience some technical issues with our site. If th
 User Privacy Notice
 
 In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights.
+
  
+
+
+
+
 
 This User Privacy Notice is effective from April 8, 2024. View the previous User Privacy Notice.
 
+
+
 15 min article
+User Agreement
+
+This User Agreement is effective upon acceptance for new users, and from July 26, 2024 for existing users. The previous amendment to this User Agreement was effective for all users on October 28, 2023.
+
+
+
+10 min article
+Community content policy
+
+Sharing content with other eBay members - either via discussion boards, product reviews, collections or groups - is a great way to help build the eBay community, and is something we encourage all our users to do.
+
+
+
+4 min article
