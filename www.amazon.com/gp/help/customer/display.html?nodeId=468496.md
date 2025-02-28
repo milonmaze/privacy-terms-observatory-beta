@@ -2,7 +2,8 @@ Help & Customer Service
 
 Find more solutions
 
-Security and Privacy  ›  Legal Policies  › 
+Security and Privacy  › 
+Legal Policies  › 
 Amazon.com Privacy Notice
 
 Last updated: February 14, 2025. To see prior version, click here.
