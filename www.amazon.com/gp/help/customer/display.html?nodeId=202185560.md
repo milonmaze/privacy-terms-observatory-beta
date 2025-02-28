@@ -2,7 +2,9 @@ Help & Customer Service
 
 Find more solutions
 
-Digital Services and Device Support  ›  Amazon Device and Digital Services Terms, Warranties, and Notices  ›  Alexa & Alexa Device Terms  › 
+Digital Services and Device Support  › 
+Amazon Device and Digital Services Terms, Warranties, and Notices  › 
+Alexa & Alexa Device Terms  › 
 Children's Privacy Disclosure
 Last updated: December 4th, 2024
 
