@@ -1,4 +1,10 @@
 Jump to content
+
+Wikimania 2025 Program Proposals are now open!
+Click here to Apply Now
+This application is open until Monday 31st March, 2025 end of day
+
+[ Help with translations! ]
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	 
