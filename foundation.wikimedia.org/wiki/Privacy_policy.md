@@ -1,10 +1,5 @@
 Jump to content
-
-Wikimania 2025 Program Proposals are now open!
-Click here to Apply Now
-This application is open until Monday 31st March, 2025 end of day
-
-[ Help with translations! ]
+Photograph your local culture, help Wikipedia and win!
 (Redirected from Privacy policy)
 Translate this page
 Other languages:	 
