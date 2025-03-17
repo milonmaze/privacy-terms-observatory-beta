@@ -75,7 +75,7 @@ In our User Privacy Notice we have compiled all essential information about our 
 
 
 
-This User Privacy Notice is effective from April 8, 2024. View the previous User Privacy Notice.
+This User Privacy Notice is effective from April 21, 2025. View the previous User Privacy Notice.
 
 
 
@@ -94,3 +94,13 @@ Sharing content with other eBay members - either via discussion boards, product 
 
 
 4 min article
+
+eBay is monitoring potential changes to tariffs and will update the eBay community as additional information becomes available.
+
+Need more help?
+Get the help you need from our automated assistant, or contact an agent
+Contact us
+Other options for you
+Ask the Community
+- opens in new window or tab
+Get the help you need from our automated assistant, or contact an agent.
