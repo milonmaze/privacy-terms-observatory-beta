@@ -1,5 +1,4 @@
 Jump to content
-Photograph your local culture, help Wikipedia and win!
 (Redirected from Privacy policy)
 Translate this page
 Other languages:	 
