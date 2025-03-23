@@ -7,7 +7,7 @@ Docs
 Chrome Extensions
 Chrome Web Store - Program Policies
 Was this helpful?
-Google Chrome Web Store Developer Agreement 
+Google Chrome Web Store Developer Agreement
 bookmark_border
 On this page
 Definitions
