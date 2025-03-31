@@ -103,6 +103,8 @@ lietuvių
  
 magyar
  
+norsk
+ 
 norsk bokmål
  
 occitan
