@@ -1,5 +1,4 @@
 Jump to content
-Photograph your local culture, help Wikipedia and win!
 (Redirected from Privacy policy)
 Translate this page
 Other languages:	 
@@ -10,10 +9,6 @@ Bahasa Indonesia
 Bahasa Melayu
  
 Basa Banyumasan
- 
-British English
- 
-Canadian English
  
 Cebuano
  
@@ -102,8 +97,6 @@ latviešu
 lietuvių
  
 magyar
- 
-norsk
  
 norsk bokmål
  
@@ -246,8 +239,6 @@ svenska
 日本語
  
 粵語
- 
-閩南語 / Bân-lâm-gú
  
 ꠍꠤꠟꠐꠤ
  
