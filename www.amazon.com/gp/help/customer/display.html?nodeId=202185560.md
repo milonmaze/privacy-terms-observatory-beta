@@ -64,7 +64,6 @@ Alexa Emergency Assist - Urgent Response FAQs
 Alexa Emergency Assist – Testing Urgent Response and Sound Detection
 Learn More About Your Sweat Resistant Echo Buds
 Learn More About Your Sweat and Water Resistant Echo Frames and Carrera Smart Glasses
-Learn More - Do Not Send Voice Recordings
 About Find My
 Amazon Sidewalk Privacy and Security Whitepaper
 Legal & Compliance
