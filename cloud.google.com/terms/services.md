@@ -74,6 +74,8 @@ Cloud Router: Cloud Router enables dynamic Border Gateway Protocol (BGP) route u
 
 Cloud VPN: Cloud VPN allows you to connect to your Virtual Private Cloud (VPC) network from your existing network, such as your on-premises network, another VPC network, or another cloud provider's network, through an IPsec connection using (i) Classic VPN, which supports dynamic (BGP) routing or static routing (route-based or policy-based), or (ii) HA (high-availability) VPN, which supports dynamic routing with a simplified redundancy setup, separate failure domains for the gateway interfaces, and a higher service level objective.
 
+*Firebase App Hosting: Firebase App Hosting is a serverless web hosting product for modern, full-stack web apps. It integrates with GitHub and manages the entire stack: from the build, to the CDN, to server-side rendering. Firebase App Hosting has built-in, no-config-needed adapters for popular web frameworks like Next.js and Angular, with support for static site generation, server-side rendering, and client-side rendering.
+
 Google Cloud Armor: Google Cloud Armor offers a policy framework and rules language for customizing access to internet-facing applications and deploying defenses against denial of service attacks as well as targeted application attacks. Components of Google Cloud Armor include: L3/L4 volumetric DDos Protection, preconfigured web-application firewall (WAF) rules, and custom rules language.
 
 Google Cloud Armor Enterprise: Google Cloud Armor Enterprise is a managed application protection service that bundles Google Cloud Armor WAF and DDoS Protection with additional services and capabilities including DDoS response support, DDoS bill protection, and Google Cloud Armor Adaptive Protection, which is Google's machine-learning based solution to protect internet-facing endpoints from network and application-based attacks.
@@ -265,8 +267,15 @@ Vertex AI Model Garden enables customers to access generative AI foundation mod
 Vertex AI Search allows customers to leverage foundational models and search and recommendation technologies to create multimodal semantic search and question-answering experiences.
 Vertex AI Studio is a user interface in the Google Cloud console for rapidly prototyping and testing generative AI models.
 NotebookLM for enterprise enables customers to use generative AI to summarize and extract information from their data.
+Agentspace combines AI Agents, Gemini models, and Google search technologies to enable automation and enhance employee productivity by connecting to enterprise data sources and applications, offering workflow automation, search functionality, and generative AI features.
 
 Generative AI Services also includes any generative AI features of a Service.
+
+Agentic AI Services
+
+Agentspace
+
+﻿Agentic AI Services also includes any agentic AI features of a Service.
 
 Vertex AI in Firebase: Vertex AI in Firebase allows you to add generative AI features to applications using the Vertex AI Gemini API, providing a service API layer and SDKs that are integrated into Firebase systems and products. It works with App Check while supporting idiomatic language for Swift, Kotlin, Dart, and JavaScript.
 
@@ -500,7 +509,8 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified January 30, 2025)
+PREVIOUS VERSIONS (Last modified April 8, 2025)
+January 30, 2025
 October 24, 2024
 October 22, 2024
 October 7, 2024
