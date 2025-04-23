@@ -191,7 +191,7 @@ Conversational Insights (formerly Contact Center AI Insights): Conversational I
 
 Dialogflow Essentials (ES): Dialogflow ES is a development suite for voice and text conversational apps that can connect to customer applications and telephony and digital platforms.
 
-Dialogflow Customer Experience Edition (CX)xperience Edition (CX)): Dialogflow CX is a development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, and advanced IVR feature support.
+Dialogflow Customer Experience Edition (CX)xperience Edition (CX): Dialogflow CX is a development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, and advanced IVR feature support.
 
 Document AI: Document AI is a unified console for document processing that lets you quickly access all document processing models and tools. Customers can use Document AI's pre-trained models for document extraction, including OCR, Form Parser and specialized models.
 
@@ -199,7 +199,7 @@ Document Workbench: Document Workbench allows you to build a custom classificati
 *Human-in-the-Loop AI: Human-in-the-Loop AI uses Document AI to provide workflow tools for human verification of data extracted from documents.
 Document AI Warehouse: Document AI Warehouse is a highly-scalable, fully managed data management and governance platform that integrates with enterprise document workflows to store, search, and organize documents and their metadata.
 
-*Food Ordering AI Agent: Food Ordering AI Agent is a pre-built conversational AI agent designed to enhance food ordering operations. It utilizes LLMs, Speech-to-Text, Text-to-Speech, and Dialogflow to automate the food ordering process (including at a drive-thru window), and additionally connects to BigQuery and Looker to give restaurant operators data-driven insights into their operations.
+*Food Ordering AI Agent: Food Ordering AI Agent is a pre-built conversational AI agent designed to enhance food ordering operations. It utilizes Gemini, Speech-to-Text, Text-to-Speech, and other proprietary Google models to automate the food ordering process (including at a drive-thru window), and additionally connects to BigQuery and Looker to give restaurant operators data-driven insights into their operations.
 
 Google Cloud Contact Center as a Service (CCaaS) (formerly Contact Center AI (CCAI) Platform): Google Cloud CCaaS is a contact-center-as-a-service (CCaaS) platform leveraging Conversational AI. It integrates directly with CRMs and queues and routes customer interactions across voice and digital channels to resource pools, including human agents.
 
@@ -387,7 +387,7 @@ Threat and Data Protection Services, which are a set of security services that w
 Chrome Enterprise Core, which enables malware, phishing, and data leakage protection for managed Chrome browsers.
 Other features listed at; https://chromeenterprise.google/products/chrome-enterprise-premium/ or a successor URL.
 
-Cloud Identity Services: Cloud Identity Services are the services and editions as described at:; https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
+Cloud Identity Services: Cloud Identity Services are the services and editions as described at: https://cloud.google.com/terms/identity/user-features.html or such other URL as Google may provide.
 
 Firebase App Check: Firebase App Check provides a service that can help protect access to your APIs with platform specific attestation that helps verify app identity and device integrity.
 
@@ -411,7 +411,7 @@ Google Distributed Cloud connected (formerly Google Distributed Cloud Edge): Goo
 
 Sovereign Controls by Partners
 
-Sovereign Controls by Partners: Sovereign Controls by Partners are solutions comprising a suite of Services offered by Google that are complemented by a set of services, offered by, and under separate terms of service with, third party partners (“Sovereign Controls Partners”), which together create additional security controls for certain Services, while also allowing the relevant Sovereign Controls Partner to provide additional security measures for those Services, as further described at: https://cloud.google.com/terms/in-scope-sovereign-cloud. 
+Sovereign Controls by Partners: Sovereign Controls by Partners are solutions comprising a suite of Services offered by Google that are complemented by a set of services, offered by, and under separate terms of service with, third party partners ("Sovereign Controls Partners"), which together create additional security controls for certain Services, while also allowing the relevant Sovereign Controls Partner to provide additional security measures for those Services, as further described at: https://cloud.google.com/terms/in-scope-sovereign-cloud. 
 
 User Protection Services
 
@@ -455,7 +455,7 @@ Healthcare and Life Sciences
 
 Cloud Healthcare: Cloud Healthcare is a fully-managed service to send, receive, store, query, transform, and analyze healthcare and life sciences data and enable advanced insights and operational workflows using highly scalable and compliance-focused infrastructure.
 
-*Healthcare Data Engine (HDE): HDE is a solution that enables (1) harmonization of healthcare data to the Fast Healthcare Interoperability Resources (“FHIR”) standard and (2) streaming of healthcare data to an analytic environment.
+*Healthcare Data Engine (HDE): HDE is a solution that enables (1) harmonization of healthcare data to the Fast Healthcare Interoperability Resources ("FHIR") standard and (2) streaming of healthcare data to an analytic environment.
 
 Media and Gaming
 
@@ -509,7 +509,8 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified April 8, 2025)
+PREVIOUS VERSIONS (Last modified April 16, 2025)
+April 8, 2025
 January 30, 2025
 October 24, 2024
 October 22, 2024
@@ -651,7 +652,6 @@ March 23, 2018
 March 21, 2018
 February 6, 2018
 January 17, 2018
-October 24, 2024
 November 16, 2017
 November 13, 2017
 November 9, 2017
