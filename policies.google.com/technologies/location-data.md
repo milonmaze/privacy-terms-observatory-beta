@@ -1,4 +1,5 @@
 Privacy & Terms
+Skip to main content
 Sign in
 Intro
 
