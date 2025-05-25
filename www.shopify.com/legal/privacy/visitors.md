@@ -1,8 +1,6 @@
 Skip to Content
 Privacy for Shopify Visitors
-
 For people who visit Shopify’s websites or contact Shopify support
-
 Introduction
 
 If you visit one of Shopify’s websites or contact Shopify support, we generally use your personal information to provide you with the specific service you are using. Additionally, please review our overall privacy policy that applies to everyone whose information we process.
