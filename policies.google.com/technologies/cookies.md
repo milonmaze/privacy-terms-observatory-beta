@@ -1,4 +1,5 @@
 Privacy & Terms
+Skip to main content
 Sign in
 Purposes of cookies and similar technologies used by Google
 Managing cookies in your browser
