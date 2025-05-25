@@ -116,6 +116,8 @@ Google Cloud Backup and DR: Google Cloud Backup and DR is a managed backup and d
 
 Developer Tools
 
+Android Device Streaming: Android Device Streaming, powered by Firebase, lets you securely connect to remote physical Android devices hosted in Google's data centers directly within Android Studio. It enables developers to test apps on a variety of physical devices and API levels to identify issues that might not be apparent in emulators.
+
 Artifact Registry: Artifact Registry is a service for managing container images and packages. It is integrated with Google Cloud tooling and runtimes and comes with support for native artifact protocols. This makes it simple to integrate it with your CI/CD tooling to set up automated pipelines.
 
 Assured Open Source Software (AOSS): AOSS is a service that enables enterprise and public sector users of open source software to easily incorporate into their own developer workflows the same scanned, analyzed and fuzz-tested open source software packages that Google uses.
@@ -191,7 +193,7 @@ Conversational Insights (formerly Contact Center AI Insights): Conversational I
 
 Dialogflow Essentials (ES): Dialogflow ES is a development suite for voice and text conversational apps that can connect to customer applications and telephony and digital platforms.
 
-Dialogflow Customer Experience Edition (CX)xperience Edition (CX): Dialogflow CX is a development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, and advanced IVR feature support.
+Dialogflow Customer Experience (Dialogflow CX) Edition: Dialogflow CX is a development suite for creating conversational AI applications including chatbots and voicebots. It includes a visual bot building platform, collaboration and versioning tools, bot modularization tools, and advanced IVR feature support.
 
 Document AI: Document AI is a unified console for document processing that lets you quickly access all document processing models and tools. Customers can use Document AI's pre-trained models for document extraction, including OCR, Form Parser and specialized models.
 
@@ -275,9 +277,9 @@ Agentic AI Services
 
 Agentspace
 
-﻿Agentic AI Services also includes any agentic AI features of a Service.
+Agentic AI Services also includes any agentic AI features of a Service.
 
-Vertex AI in Firebase: Vertex AI in Firebase allows you to add generative AI features to applications using the Vertex AI Gemini API, providing a service API layer and SDKs that are integrated into Firebase systems and products. It works with App Check while supporting idiomatic language for Swift, Kotlin, Dart, and JavaScript.
+Firebase AI Logic: Firebase AI Logic allows you to add generative AI features to applications. It provides a proxy service, client SDKs, and other features which allow customers to access generative AI models to build AI features in mobile and web applications. Customers can choose the API provider and models that they want to use with Firebase AI Logic.
 
 API Management
 
@@ -359,6 +361,8 @@ Cloud HSM: Cloud HSM (Hardware Security Module) is a cloud-hosted key managemen
 Cloud Key Management Service: Cloud Key Management Service is a cloud-hosted key management service that lets you manage cryptographic keys for your cloud services the same way you do on premises. You can generate, use, rotate, and destroy AES256, RSA 2048, RSA 3072, RSA 4096, EC P256, and EC P384 cryptographic keys.
 
 Key Access Justifications (KAJ): KAJ provides a justification for every request sent through Cloud EKM for an encryption key that permits data to change state from at-rest to in-use.
+
+Model Armor: Model Armor is a fully-managed service that provides runtime protection to generative AI applications from various security and safety risks by screening LLM prompts and responses. It provides protection against multiple threats including prompt rejection and jailbreak, malicious URL, sensitive data leakage, and offensive content.
 
 Risk Manager: Risk Manager allows customers to scan their cloud environments and generate reports around their compliance with industry-standard security best practices, including CIS benchmarks. Customers then have the ability to share these reports with insurance providers and brokers.
 
@@ -455,7 +459,7 @@ Healthcare and Life Sciences
 
 Cloud Healthcare: Cloud Healthcare is a fully-managed service to send, receive, store, query, transform, and analyze healthcare and life sciences data and enable advanced insights and operational workflows using highly scalable and compliance-focused infrastructure.
 
-*Healthcare Data Engine (HDE): HDE is a solution that enables (1) harmonization of healthcare data to the Fast Healthcare Interoperability Resources ("FHIR") standard and (2) streaming of healthcare data to an analytic environment.
+*Healthcare Data Engine (HDE): HDE is a solution that enables (i) harmonization of healthcare data to the Fast Healthcare Interoperability Resources ("FHIR") standard and (ii) streaming of healthcare data to an analytic environment.
 
 Media and Gaming
 
@@ -509,7 +513,8 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified April 16, 2025)
+PREVIOUS VERSIONS (Last modified May 20, 2025)
+April 16, 2025
 April 8, 2025
 January 30, 2025
 October 24, 2024
