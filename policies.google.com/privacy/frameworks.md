@@ -1,4 +1,5 @@
 Privacy & Terms
+Skip to main content
 Sign in
 LEGAL FRAMEWORKS FOR DATA TRANSFERS
 
