@@ -387,6 +387,6 @@ We currently do not share personal data with third parties for their direct mark
 
 You can contact us or use other options to resolve any complaints.
 
-If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here or at DPO@linkedin.com. If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws.
+If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here. If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws.
 
 Key Terms 
