@@ -1,4 +1,3 @@
- 
 On this page
 1. Information regarding the technologies we use
 2. Which service providers do we cooperate with?
@@ -82,7 +81,7 @@ This User Privacy Notice is effective from April 21, 2025. View the previous Use
 15 min article
 User Agreement
 
-This User Agreement is effective upon acceptance for new users, and from July 26, 2024 for existing users. The previous amendment to this User Agreement was effective for all users on October 28, 2023.
+For users who agreed to a prior version of our User Agreement, this agreement is effective as of May 16, 2025. For users who had not previously agreed to the User Agreement, this agreement is effective upon acceptance. The previous amendment to this User Agreement was effective for all users on July 26, 2024.
 
 
 
@@ -94,13 +93,3 @@ Sharing content with other eBay members - either via discussion boards, product 
 
 
 4 min article
-
-eBay is monitoring potential changes to tariffs and will update the eBay community as additional information becomes available.
-
-Need more help?
-Get the help you need from our automated assistant, or contact an agent
-Contact us
-Other options for you
-Ask the Community
-- opens in new window or tab
-Get the help you need from our automated assistant, or contact an agent.
