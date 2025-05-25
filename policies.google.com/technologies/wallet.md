@@ -1,4 +1,5 @@
 Privacy & Terms
+Skip to main content
 Sign in
 HOW GOOGLE USES CREDIT CARD NUMBERS FOR PAYMENTS
 
