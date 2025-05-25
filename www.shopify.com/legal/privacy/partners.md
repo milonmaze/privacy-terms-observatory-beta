@@ -1,8 +1,6 @@
 Skip to Content
 Privacy for Shopify Partners
-
 For Shopify Partners who develop apps, build stores, refer merchants, or help merchants operate their stores
-
 Introduction
 
 If you participate in Shopify’s partner program (for example, by developing apps or themes for use by Shopify merchants, by serving as an affiliate that refers potential merchants to us, or by helping merchants build or manage their stores), we collect and use your personal information to provide you with the use of our platform and its services, and generally to help you work with our merchants. Additionally, please review our overall privacy policy that applies to everyone whose information we process.
