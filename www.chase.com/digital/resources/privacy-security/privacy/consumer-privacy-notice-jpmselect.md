@@ -6,7 +6,7 @@ Privacy
 selected
 Security
 Have questions?
-LAST UPDATED: APRIL 2022
+LAST UPDATED: APRIL 2025
 U.S. Consumer Privacy Notice for JPMorgan Reserve Customers
 Printer Friendly version (PDF)
 Facts:
@@ -98,7 +98,7 @@ NV: We are providing you this notice pursuant to Nevada law. If you prefer not t
 
 
 
-For more information, contact us at the address above, or email Privacy.Info@JPMChase.com, with "Nevada Annual Notice" in the subject line. You may also contact the Nevada Attorney General's office: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1–702–486–3132; email BCPINFO@ag.state.nv.us.
+For more information, contact us at the address above, or email Privacy.Info@JPMChase.com, with "Nevada Annual Notice" in the subject line. You may also contact the Nevada Attorney General's office: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1–702–486–3132; email aginfo@ag.nv.gov.
 
 
 
