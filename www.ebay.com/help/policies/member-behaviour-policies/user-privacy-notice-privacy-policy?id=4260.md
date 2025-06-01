@@ -155,14 +155,3 @@ Threats, offensive language and hate speech are not allowed on eBay.
 eBay's intellectual property policy
 Our name and logo are registered trademarks so their use is restricted and protected by intellectual property law.
 4 min article
-
-eBay is monitoring potential changes to US tariffs and Customs policy and will update the eBay community as additional information becomes available. See Tariff updates for US buyers and sellers- opens in new window or tab for more information.
-
-Need more help?
-Get the help you need from our automated assistant, or contact an agent
-Contact us
-Other options for you
-Ask the Community
-- opens in new window or tab
-Get the help you need from our automated assistant, or contact an agent.
- 
