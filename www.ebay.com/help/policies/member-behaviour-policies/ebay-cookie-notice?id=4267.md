@@ -93,14 +93,3 @@ Sharing content with other eBay members - either via discussion boards, product 
 
 
 4 min article
-
-eBay is monitoring potential changes to US tariffs and Customs policy and will update the eBay community as additional information becomes available. See Tariff updates for US buyers and sellers- opens in new window or tab for more information.
-
-Need more help?
-Get the help you need from our automated assistant, or contact an agent
-Contact us
-Other options for you
-Ask the Community
-- opens in new window or tab
-Get the help you need from our automated assistant, or contact an agent.
- 
