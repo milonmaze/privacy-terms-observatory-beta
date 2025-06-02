@@ -1,6 +1,6 @@
 English  Choose your preferred language
 Apple Privacy Policy
-Updated September 18, 2024
+Updated January 31, 2025
 
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
