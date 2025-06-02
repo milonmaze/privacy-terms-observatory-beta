@@ -8,13 +8,16 @@ The perks of our platform
 
 We use the information you choose to share with us across our platform to help you reach your financial goals.
 
-Here’s what we mean by “platform” – when you choose to share data with us, or bring over information from third parties (like a bank or loan provider), we use that data together, not just within the individual offering(s) you’re using. This means your bookkeeping details from QuickBooks, and recommendations from Credit Karma all live together.
+
+
+
+Here’s what we mean by “platform” – when you choose to share data with us, or bring over information from third parties (like a bank or loan provider), we use that data together, not just within the individual offering(s) you’re using. This means your bookkeeping details from QuickBooks, your customer lists from Mailchimp, and recommendations and offers from Credit Karma all live together.
 
 This goes for everything except your tax preparation data – that stays in TurboTax and never goes anywhere except to the IRS without you telling us it’s okay first.
 
-Keeping your data in one place like this enables us to save you time by putting the information you choose to share with us to use. For example, if you ask us to, we can fill out a loan or credit card application for you based on what we already know about you.
+Keeping your data in one place like this enables us to save you time by putting the information you choose to share with us to use. For example, if you ask us to, we can fill out a loan or credit card application for you based on what we already know about you, recommend the best credit products to you based on what we already know about you, or use Mailchimp to send a marketing email to a customer you have invoiced through Quickbooks.
 
-Your centralized data provides a holistic understanding of your financial situation that enables us to help you find more money, save time, and have more confidence navigating your finances. We’re constantly striving to create personalized experiences that power your prosperity in a way that’s most important to you.
+Your centralized data provides a holistic understanding of your financial situation that enables us to help you find more money, intelligently market to your customers, save time, and have more confidence navigating your finances. We’re constantly striving to create personalized experiences that power your prosperity in a way that’s most important to you.
 
 You can learn more about our platform and how we store and use your data in our Privacy Statement.
 
@@ -26,14 +29,11 @@ Go to Privacy Statement
 How we put your data to good use
 We personalize our services – just for you
 
-We help you spend more time managing your finances and less time entering information by automatically using your Intuit Account data in each of our offerings. For example, your employees’ timesheet information from TSheets can appear in your QuickBooks Payroll, ready for you to use.
+We help you spend more time managing your finances and less time entering information by automatically using your Intuit Account data in each of our offerings. For example, you can email your Quickbooks customers from Mailchimp, and your employees’ timesheet information from TSheets can appear in your QuickBooks Payroll, ready for you to use.
 
 The right info at the right time
 
-Our offerings show you up-to-date recommendations and insights based on your data so you can make the financial decisions that are right for you. For example, cash flow insights in QuickBooks let you know the likelihood that an invoice will be paid late, so you can better prepare.
-
-
-
+Our offerings show you up-to-date recommendations and insights based on your data so you can make the financial decisions that are right for you. For example, cash flow insights in QuickBooks can tell you when your customers are due for another service or let you know the likelihood that an invoice will be paid late, so you can better prepare.
 
 We use artificial intelligence to show you these insights. This technology helps our services perceive, learn, reason, and predict patterns, empowering you to make decisions about your finances that are backed by data.
 
