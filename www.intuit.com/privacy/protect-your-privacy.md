@@ -18,7 +18,13 @@ Current and past customers of Intuit products can download or delete personal da
 
 Your data rights
 
-You can request to download a copy of all your data. We’ll send you a link to download your data with an explanatory guide. You can also request us to delete data from Intuit offerings.
+You can request to download a copy of your personal data. We’ll send you a link to download your data with an explanatory guide. You can also request us to delete your personal data.
+
+
+
+
+
+
 
 Manage your data
 
@@ -39,9 +45,6 @@ Cookies are small pieces of data we use to streamline your web experience. Cooki
 Learn more about cookies
 
 Mailchimp cookie statement
-
-
-
 
 Intuit ex-employees and applicants
 
