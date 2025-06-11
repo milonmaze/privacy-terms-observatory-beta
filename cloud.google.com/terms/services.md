@@ -488,13 +488,13 @@ AAA Natural Language Models
 
 Cloud Vision OCR On-Prem: Cloud Vision OCR On-Prem enables you to run Cloud Vision OCR models within your data center and across multiple cloud environments.
 
-GKE Enterprise: GKE Enterprise includes the following Premium Software components:
+Google Distributed Cloud (GDC) Software-Only: GDC Software-Only includes the following Premium Software components:
 
-GKE Enterprise core software: GKE Enterprise core software enables you to run containers on Kubernetes and can be deployed on premises in your own data center (Google Distributed Cloud Virtual), as well as in both private and public clouds.
-Cloud Service Mesh - Software: Cloud Service Mesh - Software is a suite of tools to run a reliable service mesh on GKE Enterprise, to help you monitor, manage and secure traffic between the services deployed on GKE Enterprise.
-Identity Service - Software: Identity Service - Software may be downloaded and installed in supported cluster types and environments to let administrators set up authentication with their preferred Identity providers for one or more GKE Enterprise clusters.
+GDC Software-Only core software: GDC Software-Only core software enables you to run containers on Kubernetes and can be deployed on premises in your own data center (Google Distributed Cloud Virtual), as well as in both private and public clouds.
+Cloud Service Mesh - Software: Cloud Service Mesh - Software is a suite of tools to run a reliable service mesh on GDC Software-Only, to help you monitor, manage and secure traffic between the services deployed on GDC Software-Only.
+Identity Service - Software: Identity Service - Software may be downloaded and installed in supported cluster types and environments to let administrators set up authentication with their preferred Identity providers for one or more GDC Software-Only clusters.
 Connect Software: Connect Software may be downloaded and installed in clusters to enable connectivity between the customer-registered cluster and Google Cloud.
-Cloud Logging and Cloud Monitoring for GKE Enterprise: Cloud Logging and Cloud Monitoring can be deployed in a range of hybrid cloud environments to enable centralized log storage, log analysis, metrics capture, metrics trending, customized alerting, and application debug tracing.
+Cloud Logging and Cloud Monitoring for GDC Software-Only: Cloud Logging and Cloud Monitoring can be deployed in a range of hybrid cloud environments to enable centralized log storage, log analysis, metrics capture, metrics trending, customized alerting, and application debug tracing.
 
 Speech-to-Text On-Prem: Speech-to-Text On-Prem enables you to run Cloud Speech-to-Text models within your data center and across multiple cloud environments.
 
@@ -513,7 +513,8 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified May 20, 2025)
+PREVIOUS VERSIONS (Last modified June 10, 2025)
+May 20, 2025
 April 16, 2025
 April 8, 2025
 January 30, 2025
