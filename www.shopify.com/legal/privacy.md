@@ -1,7 +1,8 @@
 Skip to Content
 UPDATED MARCH 2, 2023
-Privacy Policy
+Shopify Privacy Policy
 How Shopify handles your data
+We're updating our Privacy Policy, effective July 25, 2025. Click here to review the changes
 Introduction
 
 In our mission to make commerce better for everyone at Shopify, we collect and use information about you, our
