@@ -1,6 +1,7 @@
 Skip to Content
 Privacy for Merchants
 For merchants using Shopify to power their stores
+We're updating our Privacy Policy for Merchants, effective July 25, 2025. Click here to review the changes
 Introduction
 
 If you are a merchant using Shopify to power your business, or a Supplier or Retailer participating in Handshake, we collect and use your personal information to provide you with the use of our platform and its services, and generally to help you better manage your business and your relationship with your customers. Additionally, please review our overall privacy policy that applies to everyone whose information we process.
