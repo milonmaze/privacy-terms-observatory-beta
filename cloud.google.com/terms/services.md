@@ -488,7 +488,7 @@ AAA Natural Language Models
 
 Cloud Vision OCR On-Prem: Cloud Vision OCR On-Prem enables you to run Cloud Vision OCR models within your data center and across multiple cloud environments.
 
-Google Distributed Cloud (GDC) Software-Only: GDC Software-Only includes the following Premium Software components:
+Google Distributed Cloud (GDC) Software-Only (formerly Google Kubernetes Engine Enterprise): GDC Software-Only includes the following Premium Software components:
 
 GDC Software-Only core software: GDC Software-Only core software enables you to run containers on Kubernetes and can be deployed on premises in your own data center (Google Distributed Cloud Virtual), as well as in both private and public clouds.
 Cloud Service Mesh - Software: Cloud Service Mesh - Software is a suite of tools to run a reliable service mesh on GDC Software-Only, to help you monitor, manage and secure traffic between the services deployed on GDC Software-Only.
