@@ -265,6 +265,7 @@ Generative AI on Vertex AI: Generative AI on Vertex AI is any Service with gener
 
 Vertex AI API enables customers to access generative AI foundation models via an API.
 Vertex AI Conversation (formerly Gen App Builder) allows customers to leverage foundational models and conversational AI to create multimodal chat or voice agents.
+Vertex AI Live API enables low-latency, bidirectional voice and video conversations with Gemini delivering a natural, human-like user experience.
 Vertex AI Model Garden enables customers to access generative AI foundation models, including large language, text-to-image, image-to-text, and multimodal models.
 Vertex AI Search allows customers to leverage foundational models and search and recommendation technologies to create multimodal semantic search and question-answering experiences.
 Vertex AI Studio is a user interface in the Google Cloud console for rapidly prototyping and testing generative AI models.
@@ -513,7 +514,8 @@ Google Cloud SDK: Google Cloud SDK is a set of tools to manage resources and ap
 Kf enables you to migrate and run applications from the open-source Cloud Foundry platform into containers in Google Kubernetes Engine.
 Migrate to Containers enables you to migrate and run applications from virtual machines on-premise or other clouds into containers in Google Kubernetes Engine and Cloud Run, while producing container and data artifacts for integration with modern CI/CD and Google Cloud services. Migrated container images and artifacts are portable for use across a variety of Google Kubernetes Engine and Cloud Run hybrid configurations as listed in the applicable software documentation. With Migrate to Containers, the need for application rewrite is minimized.
 Migrate for Compute Engine v4.X enables you to validate, run, and migrate applications from on-premise or other clouds into Compute Engine while minimizing downtime and application rewrite.
-PREVIOUS VERSIONS (Last modified June 10, 2025)
+PREVIOUS VERSIONS (Last modified June 19, 2025)
+June 10, 2025
 May 20, 2025
 April 16, 2025
 April 8, 2025
