@@ -1,3 +1,4 @@
+Shortcuts menu
 Help & Customer Service
 
 Find more solutions
@@ -219,7 +220,6 @@ Consumer Health Data Privacy Disclosure
 AMAZON INFLUENCER TERMS & CONDITIONS FOR SPONSORED CONTENT
 Conditions of Use
 Communications with Amazon Employees
-Report Suspicious Activity
 Amazon.com Privacy Notice
 Amazon Group Companies
 Amazon Trademark Usage Guidelines
