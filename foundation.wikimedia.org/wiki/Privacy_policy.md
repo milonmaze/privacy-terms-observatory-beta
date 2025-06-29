@@ -1,7 +1,7 @@
 Jump to content
 (Redirected from Privacy policy)
 Translate this page
-Other languages:	 
+Other languages:	
 Avañe'ẽ
  
 Bahasa Indonesia
@@ -649,7 +649,6 @@ Bird & Bird GDPR Representative Ireland
 Dublin 2
 D02 AY28
 Ireland
-Main point of contact: Vincent Rezzouk-Hammachi
 
 If you are an individual located in the United Kingdom, and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at UKrepresentative.Wikimedia@twobirds.com, or via mail at:
 
@@ -658,7 +657,6 @@ Bird & Bird GDPR Representative Services UK
 London
 EC4A 1JP
 United Kingdom
-Main point of contact: Vincent Rezzouk-Hammachi
 
 Our European Economic Area and United Kingdom Representative can only be contacted for queries in relation to data protection.
 
