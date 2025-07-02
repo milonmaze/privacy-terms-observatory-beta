@@ -13,7 +13,7 @@ Introduction
 
 Google Workspace for Education facilitates learning and collaboration among students (and parents), educators, and school admins. Google Workspace for Education includes different categories of services as described in this privacy notice. The distinction is important because the scope of the services and how the data is processed in these services differs.
 
-• Google Workspace for Education core services are listed in the Services Summary and include Gmail, Calendar, Classroom, Assignments, Contacts, Drive, Docs, Forms, Groups, Sheets, Sites, Slides, Chat, Meet, Vault, and Chrome Sync.
+• Google Workspace for Education core services are listed in the Services Summary and include Gmail, Calendar, Classroom, Assignments, Contacts, Drive, Docs, Forms, Groups, Sheets, Sites, Slides, Chat, Meet, Vault, Chrome Sync, Gemini for Education, and NotebookLM.
 
        
 
