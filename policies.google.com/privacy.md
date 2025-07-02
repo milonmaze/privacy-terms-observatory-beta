@@ -12,7 +12,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective September 16, 2024 | Archived versions | Download PDF
+Effective July 1, 2025 | Archived versions | Download PDF
 Contents
 Introduction
 Information Google collects
@@ -90,7 +90,7 @@ IP address
 Activity on Google services, such as from your searches or places you label like home or work
 Information about things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
 
-The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Location History if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about how we use location information.
+The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Timeline if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about how we use location information.
 
 In some circumstances, Google also collects information about you from publicly accessible sources. For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse. We also receive information from partners to provide advertising and research services on their behalf.
 
