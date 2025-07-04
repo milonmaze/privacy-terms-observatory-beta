@@ -1,4 +1,8 @@
 Jump to content
+
+Join the Bay Area Wikipedians for a potluck Wiknic in the Mission District of San Francisco on Sat July 12!
+Sign up here.
+
 (Redirected from Wikimedia blog privacy policy)
 	
 Please note: This page is kept for historical reasons. It is no longer being maintained and may be out-of-date or inaccurate.
