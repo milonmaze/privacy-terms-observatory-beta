@@ -12,7 +12,7 @@ Your options at a glance:
 
 Users in the European Economic Area ("EEA"), Switzerland and the UK
 You can visit our dedicated settings page- opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
-
+Withdraw your consent
 All other users
 You can visit our advertising preferences page- opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
 
@@ -32,14 +32,16 @@ They may be (technically) necessary for the provision of our Services
 They help us to technically enhance our Services (e.g. monitoring of error messages and loading times)
 They help us to recognize you so we can improve your user experience (e.g. by saving the font size and data entered into webforms)
 They enable us to show you more relevant ads
-Learn more
+1.1 What are cookies, web beacons and similar technologies?
+1.2 Why do we use these technologies?
 2. Which service providers do we cooperate with?
 
 Some of our partners use cookies, web beacons or other similar technologies to deliver content tailored to your interests, including ads, on and off our properties. This includes using technologies to determine how relevant the ads are for you, which ads have already been shown to you, how often they have been shown, when and where they have been shown and if you have reacted by carrying out an activity – such as clicking on an ad or purchasing an item. For this purpose, data may be combined with data already collected regarding your interests.
 
 Service providers that we cooperate with include Meta and Google.
 
-Learn more
+2.1 Meta
+2.2 Google
 3. Your Choices
 
 Your choice options for the use of cookies relating to our Services will depend on the purposes for which we use these technologies.
@@ -48,11 +50,12 @@ With regard to the use of advertising-related or personalization-related technol
 
 Users in the European Economic Area ("EEA"), Switzerland and the UK
 You can visit our dedicated settings page- opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
-
+Withdraw your consent
 All other users
 You can visit our advertising preferences page- opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
 
-Learn more
+3.1 Technologies which are necessary for the provision of our Services or performance-related
+3.2 Technologies which are used for advertising and content personalization, measurement and analytics purposes
 4. Do Not Track
 
 California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we don't respond to them at this time. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take.
