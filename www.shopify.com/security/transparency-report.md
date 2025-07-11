@@ -15,7 +15,7 @@ More information about data protection at Shopify can be found in our Privacy Po
 
 Contact us
 
-Shopify is committed to protecting the privacy of our merchants, customers, partners, and everyone who entrusts us with their personal information. For more information about our privacy practices, please see our Privacy Policy or contact Shopify’s Data Protection Officer at privacy@shopify.com.
+Shopify is committed to protecting the privacy of our merchants, customers, partners, and everyone who entrusts us with their personal information. For more information about our privacy practices, please see our Privacy Policy or contact Shopify’s Data Protection Officer at dpo@shopify.com.
 
 View the 2024 Report
 Start your 3-day free trial today!
