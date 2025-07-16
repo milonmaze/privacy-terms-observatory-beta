@@ -3,7 +3,7 @@ Skip to main content
 Sign in
 LEGAL FRAMEWORKS FOR DATA TRANSFERS
 
-Effective September 16, 2024 | Archived versions
+Effective September 16, 2024 Archived versions
 
 We maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in the Privacy Policy. We also comply with certain legal frameworks relating to the transfer of data, such as the frameworks described below.
 
