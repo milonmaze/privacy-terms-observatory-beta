@@ -1,8 +1,4 @@
 Jump to content
-
-Join the Bay Area Wikipedians for a potluck Wiknic in the Mission District of San Francisco on Sat July 12!
-Sign up here.
-
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
@@ -83,6 +79,7 @@ Access to temporary account IP addresses
 API usage guidelines
 Code of conduct for Wikimedia technical spaces, including events
 Combating online child exploitation
+Commercial sales and contracts
 Cookie statement
 Data collection guidelines
 Data publication guidelines
