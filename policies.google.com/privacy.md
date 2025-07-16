@@ -12,7 +12,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective July 1, 2025 | Archived versions | Download PDF
+Effective July 1, 2025 Archived versions Download PDF
 Contents
 Introduction
 Information Google collects
