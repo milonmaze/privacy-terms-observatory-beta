@@ -55,7 +55,6 @@ How our content abuse defense systems work
 Layers of protection help us detect and remove inappropriate content.
 
 
-
 Read blog post →
 
 Member Data Portability
@@ -64,7 +63,6 @@ Member Data Portability
 
 
 Learn about how members can access their LinkedIn data.
-
 
 
 Go to Help Center →
@@ -100,7 +98,6 @@ Improving the quality of jobs
 
 
 
-
 How we’re keeping the job-search experience easy, safe, and effective.
 
 
@@ -111,7 +108,17 @@ Safety Series: What is scraping?
 
 We define what it is (and isn’t), what we’re doing about it, and what members can do.
 
+
 Read blog post →
+
+LinkedIn’s Media Literacy Plan
+
+
+LinkedIn’s Media Literacy Plan under Ireland’s Online Safety Code
+
+
+
+Go to Help Center →
 
 How to report inappropriate content
 
