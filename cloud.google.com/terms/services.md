@@ -11,7 +11,8 @@ Services marked in *asterisks* are not available for resale under the Google Clo
 Expand all
 Google Cloud Platform Services Summary
 SecOps Services Summary
-PREVIOUS VERSIONS (Last modified July 1, 2025)
+PREVIOUS VERSIONS (Last modified July 21, 2025)
+July 1, 2025
 June 19, 2025
 June 10, 2025
 May 20, 2025
