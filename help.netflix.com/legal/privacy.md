@@ -504,7 +504,7 @@ Last Updated: April 17, 2025
 SELECT YOUR PREFERRED LANGUAGE:
 Select a language
 English
-Español
+Spanish (Latin America)
 Terms of Use
 Privacy
 Do Not Sell or Share My Personal Information
