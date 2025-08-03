@@ -340,7 +340,7 @@ Change or Correct Data: You can edit some of your personal data through your acc
 Object to, or Limit or Restrict, Use of Data: You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
 Right to Access and/or Take Your Data: You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
 
-Visitors can learn more about how to make these requests here. You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
+Visitors can learn more about how to make these requests here. You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
 
 Residents in the Designated Countries and the UK, and other regions, may have additional rights under their laws.
 
