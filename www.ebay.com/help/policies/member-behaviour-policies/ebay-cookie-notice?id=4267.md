@@ -9,16 +9,14 @@ Our Cookie Notice details all relevant information regarding the use of cookies,
 This Cookie Notice was updated on February 23, 2022.
 
 Your options at a glance:
-
 Users in the European Economic Area ("EEA"), Switzerland and the UK
+
 You can visit our dedicated settings page- opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
 Withdraw your consent
+
 All other users
-You can visit our advertising preferences page- opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
 
-Learn more about your choices.
-
- 
+You can visit our advertising preferences page- opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes. Learn more about your choices.
 
 This Cookie Notice shall be read in conjunction with our User Privacy Notice, and is applicable regardless of how you access and make use of our Services, including access via mobile devices and apps.
 
@@ -49,9 +47,12 @@ Your choice options for the use of cookies relating to our Services will depend 
 With regard to the use of advertising-related or personalization-related technologies, you have the following options:
 
 Users in the European Economic Area ("EEA"), Switzerland and the UK
+
 You can visit our dedicated settings page- opens in new window or tab to determine whether you consent to the use of cookies and similar technologies by our third-party partners for advertising and content personalization, measurement and analytics purposes. Withdrawing consent: You can also withdraw your consent at any time with effect for the future.
 Withdraw your consent
+
 All other users
+
 You can visit our advertising preferences page- opens in new window or tab (AdChoice) to adjust the settings for the usage of your eBay activity for customized advertising purposes.
 
 3.1 Technologies which are necessary for the provision of our Services or performance-related
@@ -84,7 +85,7 @@ This User Privacy Notice is effective from April 21, 2025. View the previous Use
 15 min article
 User Agreement
 
-For users who agreed to a prior version of our User Agreement, this agreement is effective as of May 16, 2025. For users who had not previously agreed to the User Agreement, this agreement is effective upon acceptance. The previous amendment to this User Agreement was effective for all users on July 26, 2024.
+For users who agreed to a prior version of our User Agreement, this agreement is effective as of August 28, 2025. For users who had not previously agreed to the User Agreement, this agreement is effective upon acceptance. The previous amendment to this User Agreement was effective for all users on May 16, 2025.
 
 
 
@@ -96,14 +97,3 @@ Sharing content with other eBay members - either via discussion boards, product 
 
 
 4 min article
-
-eBay is monitoring potential changes to US tariffs and Customs policy and will update the eBay community as additional information becomes available. See Tariff updates for US buyers and sellers- opens in new window or tab for more information.
-
-Need more help?
-Get the help you need from our automated assistant, or contact an agent
-Contact us
-Other options for you
-Ask the Community
-- opens in new window or tab
-Get the help you need from our automated assistant, or contact an agent.
- 
