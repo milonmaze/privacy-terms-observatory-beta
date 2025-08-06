@@ -1,3 +1,5 @@
+We’re updating the Platform Terms. The updates go into effect on August 22, 2025. Read the new terms
+
 Meta Platform Terms
 1. Introduction
 
