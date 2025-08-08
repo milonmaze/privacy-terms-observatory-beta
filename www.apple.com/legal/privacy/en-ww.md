@@ -1,6 +1,6 @@
 English  Choose your preferred language
 Apple Privacy Policy
-Updated January 31, 2025
+Updated July 30, 2025
 
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
@@ -30,6 +30,8 @@ Transfer of Personal Data Between Countries
 Our Companywide Commitment to Your Privacy
 Privacy Questions
 
-View our CBPR certification
+ 
 
-View our PRP certification
+The Global CBPR System Certification Mark and Global PRP System Certification Mark™ are trademarks of the International Trade Administration/Office of Global Data Policy and Privacy, used with permission.
+
+ 
