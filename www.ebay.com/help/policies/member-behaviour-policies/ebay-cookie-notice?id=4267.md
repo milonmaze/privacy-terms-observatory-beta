@@ -97,11 +97,3 @@ Sharing content with other eBay members - either via discussion boards, product 
 
 
 4 min article
-Need more help?
-Get the help you need from our automated assistant, or contact an agent
-Contact us
-Other options for you
-Ask the Community
-- opens in new window or tab
-Get the help you need from our automated assistant, or contact an agent.
- 
