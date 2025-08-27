@@ -1,5 +1,5 @@
 Skip to Content
-LAST UPDATED: JUNE 10, 2025
+Last Updated: June 10, 2025
 Shopify Consumer Privacy Policy
 1. Introduction
 
