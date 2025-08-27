@@ -1,5 +1,5 @@
 Skip to Content
-UPDATED JULY 25, 2025
+Updated July 25, 2025
 Privacy Policy
 How Shopify handles your data
 Introduction
