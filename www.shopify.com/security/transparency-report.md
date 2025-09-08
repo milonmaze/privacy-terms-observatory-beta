@@ -20,6 +20,7 @@ Shopify is committed to protecting the privacy of our merchants, customers, part
 View the 2024 Report
 Start your 3-day free trial today!
 Enter your email address
+Start free trial
 
 Try Shopify free for 3 days, no credit card required. By entering your email, you agree to receive marketing emails from Shopify.
 
