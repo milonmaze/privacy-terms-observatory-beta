@@ -242,7 +242,7 @@ Google Cloud Tech on YouTube
 Follow on X
 Join User Research
 We're hiring. Join Google Cloud!
-Google Cloud Community
+Community forums
 About Google
 Privacy
 Site terms
