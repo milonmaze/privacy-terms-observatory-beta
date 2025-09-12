@@ -150,6 +150,7 @@ Meta Platforms, Inc.
 ATTN: Privacy Operations
 1601 Willow Road
 Menlo Park, CA 94025
+Contact the Data Protection Officer for Meta Platforms, Inc.
 Why and how we process your information
 The categories of information we use, and why and how information is processed, are set out below:
 Why and how we process your information
