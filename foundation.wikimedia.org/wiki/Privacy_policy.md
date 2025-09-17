@@ -124,6 +124,8 @@ suomi
  
 svenska
  
+toki pona
+ 
 čeština
  
 Ελληνικά
