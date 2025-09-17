@@ -25,7 +25,7 @@ Advertising Preferences
 
 Amazon offers you choices about receiving interest-based ads from us. You can choose not to receive interest-based ads from Amazon. You will still see ads but they will not be based on your interests. Please visit your Advertising Preferences page to learn how to set your preferences.
 
-You can also generally opt out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt out pages on the NAI website and DAA website.
+In addition to the options listed above, you can generally opt out of receiving personalized ads from applicable third-party advertisers and ad networks by visiting the opt out pages on the Digital Advertising Alliance’s website. You can also learn more about various advertising technologies at aboutidentifiers.org.
 
 Some mobile operating systems may additionally limit these settings; your choices here do not override those more limited settings on such mobile operating systems.
 
