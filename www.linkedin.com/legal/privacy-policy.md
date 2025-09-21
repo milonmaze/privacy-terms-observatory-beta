@@ -1,6 +1,10 @@
 Skip to main content
 Privacy Policy
 
+Update to our terms
+We're updating our terms on November 3, 2025. See here for what's coming in our updated Privacy Policy. Learn more
+
+
 Effective September 18, 2024
 
 Your Privacy Matters
