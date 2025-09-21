@@ -400,6 +400,7 @@ Build with Meta
 AI
 Meta Horizon OS
 Social technologies
+Wearables
 News
 Meta for Developers
 Blog
