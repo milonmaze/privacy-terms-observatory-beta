@@ -133,7 +133,6 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 17. CHANGES TO THIS PRIVACY POLICY. Instructure may change this Privacy Policy from time to time. If we make any changes to this Policy, we will change the “Last Updated” date above. We encourage you to visit this page from time to time for the latest on our privacy practices.
 
-By continuing to browse or by clicking "I Accept", you agree to the storing of first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.Privacy Policy
-
-I Accept
+We and third parties use cookies and other technologies to operate our site, enhance and personalize your browsing experience, perform analytics, and improve marketing. For more information, visit our Privacy Policy
+Accept
 Cookies Settings
