@@ -191,31 +191,21 @@ For more information on how to control and access your personal data, please see
 
 Was this article helpful?
 
-Yes, thanks
+Yes, thanks!
 
 Not really
 
 Related Articles
 Data storage
-
-All files stored in Dropbox are encrypted and secured in online servers. Learn where these servers are and how to change where your data is stored.
-
-View article
 Digital Services Act (DSA) Information
-
-Learn about how Dropbox complies with the Digital Services Act (DSA) implemented by the European Parliament.
-
-View article
 Dropbox incident response policies and procedures
-
-Learn about Dropbox incident response policies, and the procedures in place to address service availability, integrity, security, privacy, confidentiality, and more.
-
-View article
 Dropbox Terms of Service and Privacy Policy updates
-
-We've updated our Business Agreement, Terms of Service, and Privacy Policy to improve the Dropbox experience. Find key details on these updates.
-
-View article
+Community answers
+When I try to upload content using the website, nothing happens.
+Posted by: rbkeep 319 days ago
+ 60472
+ 9
+ 0
 Other ways to get help
 Community
 X
