@@ -20,7 +20,6 @@ Manage what you share to feel safer using our products
 Location
 Learn how to manage your location
 View all topics
-Explore Guides
 Safety
 Manage what you share to feel safer using our products
 Limit who can see what you share
