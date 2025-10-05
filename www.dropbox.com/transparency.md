@@ -1,8 +1,9 @@
- 
-Transparency Overview
+Transparency at Dropbox
+Reports
+
 We’re committed to protecting the rights of our users and being transparent about how we handle government requests for user data.
-View the reports
-Our guiding principles
+
+Our Guiding Principles
 
 Stewardship of your data is a responsibility we embrace. These principles describe our commitment to your privacy and how we'll handle requests from government and law enforcement agencies seeking information about our users.
 
@@ -21,7 +22,7 @@ We believe in providing notice to our users when a government requests their inf
 Show more 
 Fight overly broad requests
 
-Government data requests should be limited in the information they seek and narrowly tailored to specific people and legitimate investigations. We’ll resist blanket and overly broad requests.
+Government data requests should be limited in the information they seek and narrowly tailored to specific people and legitimate investigations. We’ll resist blanket and overly broad requests.
 
 In the past, governments sought from telecommunications companies the phone records of large groups of people without suspicion that those people had been involved in illegal activity. We don’t think this is legal, and will resist requests that seek information related to large groups of people or that don’t relate to specific investigations. We’ll also resist requests stemming from government investigations that are improper, illegitimate, or have been brought in bad faith — for example, government attempts to suppress or censor political speech.
 
@@ -33,23 +34,14 @@ Governments should never install backdoors into online services or compromise in
 We’ve seen reports that governments have been tapping into data center traffic of certain service providers. We’ve also seen reports that service providers have tools designed to give law enforcement access to user data directly or via third parties. Dropbox opposes these activities and would fight any attempt to require us to participate in them. Governments should always request user data by contacting online services directly and presenting legal process. This allows services like Dropbox to scrutinize the data requests and resist where appropriate.
 
 Show more 
-Protect all users
+Protect all Users
 
 Laws that give people different protections based on where they live or their citizenship are antiquated and don’t reflect the global nature of online services.
 
 We’re committed to providing the same level of protection to all of our users. That means using these principles to scrutinize all the requests we receive, regardless of the origin of the request or user. It also means extending fundamental privacy protections to all users: government data requests shouldn’t be in bulk, they should relate to specific individuals and investigations, and a judicial body should evaluate and sign off on requests for content before they’re issued.
 
 Show more 
-Where do requests originate?
 
-The requests we receive originate from all over the globe. At this time, we typically require non-US governments to work with US government agencies so that a US court may issue the appropriate legal process to Dropbox.
+Transparency Matters
 
-How requests happen
-1. We get a request
-Law enforcement sends us a request for user information, such as a subpoena or search warrant.
-2. We scrutinize
-We analyze requests to determine whether they are legally and procedurally valid. We narrow or resist requests when appropriate.
-3. We respond
-Once we’ve determined that a request is valid, we typically notify the user (unless we’re legally prohibited from doing so) and respond with an encrypted copy of the information specified in the legal process.
-Transparency matters
-View the reports
+Download The Latest Report 
