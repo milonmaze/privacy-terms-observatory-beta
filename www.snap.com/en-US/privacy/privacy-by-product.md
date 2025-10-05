@@ -78,8 +78,6 @@ There are a number of different Story types on Snapchat to allow you to share yo
 
 Private Story. If you just want to share a Story with a select number of Friends, you can select the Private Story option.
 
-BFF Story. If you just want to share your Story with your Best Friends, you can select the BFF Story format.
-
 My Story - Friends. My Story Friends allows you to share a Story with all your Friends. Note, if you set your My Story Friends to be viewable by ‘Everyone’ in Settings, your My Story is considered public and may be visible to anyone.
 
 Shared Stories. Shared Stories are stories between you and a group of other Snapchatters.
@@ -208,8 +206,6 @@ About Snap Map
 
 Finding Friends on Snap Map 
 
-How Do I Share My Live Location With Friends?
-
 How Do I Turn On Ghost Mode?
 
 Location
@@ -232,6 +228,4 @@ Cameos
 
 Cameos lets you be the star in your own short, looping videos. To enable Cameos, we ask you to take a selfie to put you into fun scenes. We don’t use facial recognition software. Instead, Cameos segments the shape of your face and hair to place you into the scenes and ensure the Cameos are optimized.
 
-You control your selfie and can change and delete it and restrict others from using your selfie in two-person Cameos in your Snapchat settings. 
-
-Learn About Cameos
+You control your selfie and can change and delete it and restrict others from using your selfie in two-person Cameos in your Snapchat settings.
