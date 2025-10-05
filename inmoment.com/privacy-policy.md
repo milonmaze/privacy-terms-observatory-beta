@@ -1,7 +1,7 @@
 Skip to content
 PRIVACY POLICY
 
-Your privacy is important to you and to us, and we are committed to protecting your privacy.  This Privacy Policy discloses the information practices of InMoment, Inc. and its wholly owned affiliates, MaritzCX Holdings LLC, MaritzCX Limited, InMoment GmbH, MaritzCX Australia PTY LTD, Empathica Inc., Empathica UK LTD and InMoment PTY LTD (collectively “InMoment”, “we”, or “us”) relating to our web sites (collectively the “Sites”).
+Your privacy is important to you and to us, and we are committed to protecting your privacy. This Privacy Policy discloses the information practices of InMoment, Inc. and its wholly owned affiliates, InMoment Holdings, LLC, InMoment Limited, InMoment GmbH, MaritzCX Australia PTY LTD, Empathica Inc., Empathica UK LTD and InMoment PTY LTD (collectively “InMoment”, “we”, or “us”) relating to our web sites (collectively the “Sites”).
 
 Table of Contents
 Compliance with European Union Regulations (GDPR) 
@@ -13,7 +13,7 @@ We Adhere to European data protection requirements 
 
 InMoment complies with European data protection requirements and we value these regulations as an important date privacy rights framework.  While the below terms are required to be offered to data subjects under EU laws and regulations, we offer these terms to data subjects globally. The controller within the meaning of data protection laws, in particular the EU General Data Protection Regulation (GDPR) is InMoment, Inc.:
 
-InMoment, Inc., 10355 South Jordan Gateway, Suite 600, South Jordan, UT 84095 USA.
+InMoment, Inc., 1240B E Stringham Ave #1008, Salt Lake City, UT 84106 USA.
 
 Email: privacy@inmoment.com
 
@@ -62,7 +62,7 @@ Transfer to a third country:
 
 The collected data may be transferred to the following third countries: United States of America.
 
-The following data protection guarantees are in place: Please find further information in section EU-U.S. Privacy Shield  and Swiss-U.S. Privacy Shield Frameworks
+The following data protection guarantees are in place: Please find further information in section EU-U.S. DPF Principles and Swiss-U.S. DPF Principles
 
 Storage Duration:
 
@@ -102,7 +102,7 @@ Transfer to a third country:
 
 The collected data may be transferred to the following third countries: United States of America.
 
-The following data protection guarantees are in place: Please find further information in section EU-U.S. Privacy Shield  and Swiss-U.S. Privacy Shield Frameworks.
+The following data protection guarantees are in place: Please find further information in section EU-U.S. DPF Principles and Swiss-U.S. DPF Principles.
 
 Storage Duration:
 
@@ -134,7 +134,7 @@ Transfer to a third country:
 
 The collected data may be transferred to the following third countries: United States of America.
 
-The following data protection guarantees are in place: Please find further information in section EU-U.S. Privacy Shield  and Swiss-U.S. Privacy Shield Frameworks.
+The following data protection guarantees are in place: Please find further information in section EU-U.S. DPF Principles and Swiss-U.S. DPF Principles.
 
 Storage Duration:
 
@@ -160,33 +160,35 @@ Recipient of an objection:
 
 • By Email: privacy@inmoment.com
 
-• By postal mail:  InMoment, Attn: Privacy Team/Legal, 10355 South Jordan Gateway, Suite 600, South Jordan, UT 84095 USA.  
+• By postal mail:  InMoment, Attn: Privacy Team/Legal, 1240B E Stringham Ave #1008, Salt Lake City, UT 84106 USA.  
 
 Access to your Information: Correction, Deletion, Portability and other Actions.
 
 We want to make sure that your questions are answered and that your personal information is accurate and up to date. You may ask questions, request a copy of the information that we hold about you, request correction or deletion of the same or pursue any of the other above listed rights by submitting a request at https://inmoment.com/pii-request/.
 
-EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks 
+If you would prefer to fully opt-out of the processing of your data, you have the option to not take the survey. Also, your election to opt-out may be asserted when an opt-out pop up banner is presented at the beginning portion of a survey. Due to our Saas platform architecture, InMoment is not able to offer more granular options to data processing elections, beyond those offered at https://inmoment.com/pii-request/, which allows certain options consistent with GDPR and CCPA regulations, for data that has already been processed. 
 
-InMoment is aware that the European Court of Justice declared the EU-U.S. Privacy Shield as invalid in its ruling from 16 July 2020. Consequently, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism for the transfer of personal data from European Economic Area (EEA) to the Unites States of America. InMoment is also aware that the Swiss Federal Data Protection and Information Commissioner on 08 September 2020 declared that the Swiss-U-S- Privacy Shield does not provide an adequate level of protection for the transfer of personal data from Switzerland to the US. 
+EU-U.S. DPF Principles and Swiss-U.S. DPF Principles 
 
-However, in accordance with the relevant advice and request by the US Federal Trade Commission (FTC), InMoment continues to      comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the      EEA and Switzerland to the United States.  InMoment has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
+InMoment is aware that the European Court of Justice declared the EU-U.S. DPF Principles as invalid in its ruling from 16 July 2020. Consequently, the EU-U.S. DPF Principles is no longer a valid mechanism for the transfer of personal data from European Economic Area (EEA) to the United States of America. InMoment is also aware that the Swiss Federal Data Protection and Information Commissioner on 08 September 2020 declared that the Swiss-U.S. DPF Principles does not provide an adequate level of protection for the transfer of personal data from Switzerland to the US. 
+
+However, in accordance with the relevant advice and request by the US Federal Trade Commission (FTC), InMoment continues to      comply with the EU-U.S. DPF Principles and Swiss-U.S. DPF Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the      EEA and Switzerland to the United States. InMoment, Inc., and its subsidiaries, InMoment Research, LLC., InMoment Holdings, LLC., Wootric, Inc., ReviewTrackers, Inc., and Lexalytics, Inc., (collectively “InMoment”) complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. InMoment has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. InMoment has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
 
 InMoment would oppose and aggressively defend against government law enforcement requests to disclose any personal data collected on this website. To the extent possible, InMoment will without undue delay inform the affected data subject about such government law enforcement requests and support the data subject in defending its rights under the GDPR.  InMoment concludes Standard Data Protection Clauses (also known as Standard Contractual Clauses) with all data processors outside the EU/EEA. To ensure that the level of data protection is maintained, InMoment maintains safeguards in its systems and processes to ensure an adequate level of data protection.
 
-Your rights under the Privacy Shield Framework:
+Your rights under the EU-U.S. DPF Principles:
 
 • InMoment is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) in regards to your data privacy.
 
 • InMoment may have liability in cases of onward transfers of you data to third parties.
 
-• Under certain conditions there is the possibility for you to invoke binding arbitration (see Privacy Policy FAQs).
+• Under certain conditions there is the possibility for you to invoke binding arbitration (see https://www.dataprivacyframework.gov/framework-article/G%E2%80%93Arbitration-Procedures AND https://www.dataprivacyframework.gov/framework-article/C%E2%80%93Pre-Arbitration-Requirements).
 
-For additional details about the Privacy Shield program, our certification therein and the suitable safeguards we use to protect your data visit: https://inmoment.com/wp-content/uploads/2021/07/Privacy-Shield-Statement-180925.pdf.
+For additional details about the Privacy Shield program, our certification therein and the suitable safeguards we use to protect your data visit: https://www.dataprivacyframework.gov/program-articles/FAQs%E2%80%93UK-Extension-to-the-EU%E2%80%93U.S.-Data-Privacy-Framework-(UK-Extension-to-the-EU%E2%80%93U.S.-DPF)
 
 3rd Party Dispute Resolution
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, InMoment commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to TRUSTe’s IRM, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://feedback-form.truste.com/watchdog/request for more information or to file a complaint. The services of TRUSTe’s IRM are provided at no cost to you.
 
 Australian Privacy Act
 
@@ -394,8 +396,11 @@ Please contact us if you have any complaints, questions about the Privacy Policy
 
 • By Email: privacy@inmoment.com
 
-• Or write us at:  InMoment, Inc., Attn: Privacy Team/Legal, 10355 South Jordan Gateway, Suite 600, South Jordan, UT 84095 USA.
+• Or write us at:  InMoment, Inc., Attn: Privacy Team/Legal, 1240B E Stringham Ave #1008, Salt Lake City, UT 84106 USA.
 
-Version: This Privacy Policy has been updated on 7 July 2021
+Version: last updated on December 31, 2024
 
-`
+Cookie notice
+We use cookies to personalize and enhance your experience on our site as well as the communications we send you. By clicking “Accept all”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Manage cookies
+Accept all
