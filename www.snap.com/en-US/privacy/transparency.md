@@ -1,213 +1,770 @@
 Transparency Report
-January 1, 2024 – June 30, 2024
+July 1, 2024 – December 31, 2024
 
 Released:
 
-December 05, 2024
+June 20, 2025
 
 Updated:
 
-December 05, 2024
+July 1, 2025
 
-We publish this transparency report twice a year to provide insight into Snap’s safety efforts. We are committed to these efforts and continually strive to make these reports more comprehensive and informative for the many stakeholders who care deeply about our content moderation, law enforcement practices, and the safety and wellbeing of the Snapchat community. 
+We publish this transparency report twice a year to provide insights into Snap’s safety efforts. As part of our commitment to safety and transparency, we continually strive to make these reports more comprehensive and informative for the many stakeholders who care deeply about our content moderation, law enforcement practices, and the safety and well-being of the Snapchat community. 
 
-This Transparency Report covers the first half of 2024 (January 1 - June 30). As with our previous reports, we share data about the global volume of in-app content and account-level reports our Trust & Safety teams received and enforced across specific categories of Community Guidelines violations; how we responded to requests from law enforcement and governments; and how we responded to notices of copyright and trademark infringement. We also provide country-specific insights in the files linked at the bottom of this page.
+This Transparency Report covers the second half of 2024 (July 1 - December 31). We share global data about reports by users and proactive detection by Snap; enforcements by our Safety teams across specific categories of Community Guidelines violations; how we responded to requests from law enforcement and governments; and how we responded to notices of copyright and trademark infringement. We also provide country-specific insights in a series of linked pages.
 
-As part of our ongoing commitment to continually improve our transparency reports, we are also introducing new data highlighting our proactive efforts to detect and enforce against a wider range of violations of our Community Guidelines. We have included this data at both the global and country levels within this report and will continue to do so going forward. We have also corrected a labeling error in our previous reports: where we previously referred to “Total Content Enforced”, we now refer to “Total Enforcements” to reflect the fact that the data provided in the relevant columns includes both content-level and account-level enforcements.
+To find additional safety and privacy resources on Snapchat, see our About Transparency Reporting tab at the bottom of the page.
 
-For more information about our policies for combating potential online harms, and plans to continue evolving our reporting practices, please read our recent Safety & Impact blog about this Transparency Report. To find additional safety and privacy resources on Snapchat, see our About Transparency Reporting tab at the bottom of the page.
-
-Please note that the most up-to-date version of this Transparency Report can be found in the EN-US locale.
+Please note that the most up-to-date version of this Transparency Report is the English version.
 
 Overview of Our Trust & Safety Teams' Actions to Enforce Our Community Guidelines
 
-Our Trust & Safety teams enforce our Community Guidelines both proactively (through the use of automated tools) and reactively (in response to reports), as further detailed in the following sections of this report. In this reporting cycle (H1 2024), our Trust & Safety teams took the following enforcement actions: 
+Our Safety teams enforce our Community Guidelines both proactively (through the use of automated detection tools) and reactively (in response to reports), as further detailed in the following sections of this report. In this reporting cycle (H2 2024), our Safety teams took the following numbers of enforcements:
 
-Total Enforcements	Total Unique Accounts Enforced
-9,698,368	5,417,597
+Total Enforcements
 
-Below is a breakdown per type of Community Guidelines violations concerned, including the median turnaround time between the time we detected the violation (either proactively or upon receipt of a report) and the time we took final action on the relevant content or account:
+Total Unique Accounts Enforced
 
-Policy Reason	Total Enforcements	Total Unique Accounts Enforced	Median Turnaround Time (minutes) From Detection To Final Action
-Sexual Content	3,521,944	1,829,615	8
-Child Sexual Exploitation	1,173,726	701,505	66
-Harassment and Bullying	2,286,301	1,712,570	244
-Threats & Violence	174,630	133,215	57
-Self-Harm & Suicide	6,509	5,954	55
-False Information	7,026	6,535	25
-Impersonation	9,616	9,164	11
-Spam	469,080	327,352	8
-Drugs	1,368,157	894,982	9
-Weapons	234,512	149,202	3
-Other Regulated Goods	175,434	121,061	20
-Hate Speech	261,218	221,145	135
-Terrorism & Violent Extremism	10,215	6,098	36
+10,032,110
+
+5,698,212
+
+Below is a breakdown per type of Community Guidelines violations concerned, including the median "turnaround time" between the time we detected the violation (either proactively or upon receipt of a report) and the time we took final action on the relevant content or account:
+
+Policy Reason
+
+Total Enforcements
+
+Total Unique Accounts Enforced
+
+Median Turnaround Time (minutes) From Detection To Final Action
+
+Sexual Content
+
+3,860,331
+
+2,099,512
+
+2
+
+Child Sexual Exploitation
+
+961,359
+
+577,682
+
+23
+
+Harassment and Bullying
+
+2,716,966
+
+2,019,439
+
+7
+
+Threats & Violence
+
+199,920
+
+156,578
+
+8
+
+Self-Harm & Suicide
+
+15,910
+
+14,445
+
+10
+
+False Information
+
+6,539
+
+6,176
+
+1
+
+Impersonation
+
+8,798
+
+8,575
+
+2
+
+Spam
+
+357,999
+
+248,090
+
+1
+
+Drugs
+
+1,113,629
+
+718,952
+
+6
+
+Weapons
+
+211,860
+
+136,953
+
+1
+
+Other Regulated Goods
+
+247,535
+
+177,643
+
+8
+
+Hate Speech
+
+324,478
+
+272,025
+
+27
+
+Terrorism & Violent Extremism
+
+6,786
+
+4,010
+
+5
 
 During the reporting period, we saw a Violative View Rate (VVR) of 0.01 percent, which means that out of every 10,000 Snap and Story views on Snapchat, 1 contained content found to violate our Community Guidelines.
 
 Community Guidelines Violations Reported to Our Trust & Safety Teams
 
-From January 1 - June 30, 2024, in response to in-app reports of violations of our Community Guidelines, Snap’s Trust & Safety teams took a total of 6,223,618 enforcement actions globally, including enforcements against 3,842,507 unique accounts. The median turnaround time for our Trust & Safety teams to take enforcement action in response to those reports was ~24 minutes. A breakdown per reporting category is provided below. 
+From July 1 - December 31, 2024, in response to in-app reports of violations of our Community Guidelines, Snap’s Safety teams took a total of 6,346,508 enforcement actions globally, including enforcements against 4,075,838 unique accounts. The median turnaround time for our Safety teams to take enforcement action in response to those reports was ~6 minutes. A breakdown per reporting category is provided below.
 
-Total Content & Account Reports	Total Enforcements	Total Unique Accounts Enforced
-19,426,294	6,233,618	3,842,507
-Policy Reason	Total Content & Account Reports	Total Enforcements	% of the Total Reports Enforced by Snap	Total Unique Accounts Enforced	Median Turnaround Time (minutes) From Detection To Final Action
-Sexual Content	5,383,707	2,230,786	35.80%	1,342,682	31
-Child Sexual Exploitation	1,388,230	508,907	8.20%	431,285	9,505
-Harassment and Bullying	6,568,543	2,277,046	36.50%	1,705,741	252
-Threats & Violence	1,007,773	159,678	2.60%	123,741	62
-Self-Harm & Suicide	288,956	6,220	0.10%	5,708	60
-False Information	424,940	7,000	0.10%	6,512	25
-Impersonation	582,315	9,612	0.20%	9,160	11
-Spam	1,720,453	358,613	5.80%	260,529	11
-Drugs	452,682	257,453	4.10%	167,522	94
-Weapons	195,089	10,241	0.20%	7,611	33
-Other Regulated Goods	530,259	147,023	2.40%	100,794	23
-Hate Speech	693,019	258,912	4.20%	219,484	136
-Terrorism & Violent Extremism	190,328	2,127	<0.1%	1,898	43
+Total Content & Account Reports
 
-Analysis
+Total Enforcements
 
-Our overall reporting volumes remained fairly stable in H1 2024, as compared to the previous six months. This cycle, we saw an increase in total enforcements and total unique accounts enforced by approximately 16%.
+Total Unique Accounts Enforced
 
+19,379,848
 
-Over the last 12 months, Snap introduced new reporting mechanisms for users, which account for changes to our reported and enforced volumes and for increases in turnaround times in this reporting period (H1 2024). Specifically:
+6,346,508
 
+4,075,838
 
-Group Chat Reporting: We introduced Group Chat Reporting on October 13, 2023, which enables users to report abuse occurring in a multi-person chat. This change impacted the makeup of our metrics across reporting categories (because some potential harms are more likely to occur in a chat context) and increased report actionability. 
+Policy Reason
 
-Account Reporting Enhancements: We also evolved our Account Reporting feature to give reporting users an option to submit chat evidence when reporting an account suspected of being operated by a bad actor. This change, which provides us with greater evidence and context to assess account reports, launched on February 29, 2024. 
+Content & Account Reports
 
+Total Enforcements
 
-Chat Reports, and especially Group Chat Reports, are among the most complex and time-consuming to review, which drove up turnaround times across the board. 
+% of the Total Reports Enforced by Snap
 
-Reporting for suspected Child Sexual Exploitation & Abuse (CSEA), Harassment & Bullying, and Hate Speech were particularly impacted by the two changes described above, and by shifts in the broader ecosystem. Specifically:
+Total Unique Accounts Enforced
 
+Median Turnaround Time (minutes) From Detection To Final Action
 
-CSEA: We observed an increase in CSEA-related reports and enforcements in H1 2024. Specifically, we saw a 64% increase in total in-app reports by users, an 82% increase in total enforcements, and a 108% increase in total unique accounts enforced. These increases are largely driven by the introduction of Group Chat and Account Reporting functionalities. Given the sensitive nature of this moderation queue, a select team of highly trained agents is assigned to review reports of potential CSEA-related violations. The influx of additional reports combined with our teams adapting to new trainings has resulted in an increase in turnaround times. Moving forward, we have increased the size of our global vendor teams significantly to reduce turnaround times and accurately enforce on reports of potential CSEA. We expect that our H2 2024 Transparency Report will reflect the fruits of this effort with a materially improved turnaround time. 
+Sexual Content
 
+5,251,375
 
-Harassment & Bullying: Based on reports, we have observed that Harassment & Bullying disproportionately occurs in chats, and particularly group chats. The improvements we introduced to Group Chat Reporting and Account Reporting help us take more comprehensive action when assessing reports in this reporting category. Additionally, as of this period, we require users to input a comment when submitting a harassment and bullying report. We review this comment to contextualize each report. Together, these changes led to material increases in total enforcements (+91%), total unique accounts enforced (+82%), and turnaround time (+245 mins) for corresponding reports. 
+2,042,044
 
+32.20%
 
-Hate Speech: In H1 2024, we observed increases in reported content, total enforcements, and turnaround time for Hate Speech. Specifically, we saw a 61% increase in in-app reports, a 127% increase in total enforcements, and a 125% increase in total unique accounts enforced. This was due, in part, to improvements in our chat reporting mechanisms (as previously discussed), and was further exacerbated by the geopolitical environment, particularly the continuation of the Israel-Hamas conflict. 
+1,387,749
 
-This reporting period, we saw a ~65% decrease in total enforcements and a ~60% decrease in total unique accounts enforced in response to reports of suspected Spam & Abuse, reflecting improvements in our proactive detection and enforcement tools. We saw similar declines in total enforcements in response to reports of content relating to Self Harm and Suicide (~80% decreases), reflecting our updated victim-centric approach, according to which our Trust & Safety teams will, in appropriate cases, send relevant users self-help resources, rather than take an enforcement action against those users. This approach was informed by members of our Safety Advisory Board, including a pediatric professor and medical doctor who specializes in interactive media and internet disorders.
+4
+
+Child Sexual Exploitation
+
+1,224,502
+
+469,389
+
+7.40%
+
+393,384
+
+133
+
+Harassment and Bullying
+
+6,377,555
+
+2,702,024
+
+42.60%
+
+2,009,573
+
+7
+
+Threats & Violence
+
+1,000,713
+
+156,295
+
+2.50%
+
+129,077
+
+8
+
+Self-Harm & Suicide
+
+307,660
+
+15,149
+
+0.20%
+
+13,885
+
+10
+
+False Information
+
+536,886
+
+6,454
+
+0.10%
+
+6,095
+
+1
+
+Impersonation
+
+678,717
+
+8,790
+
+0.10%
+
+8,569
+
+2
+
+Spam
+
+1,770,216
+
+180,849
+
+2.80%
+
+140,267
+
+1
+
+Drugs
+
+418,431
+
+244,451
+
+3.90%
+
+159,452
+
+23
+
+Weapons
+
+240,767
+
+6,473
+
+0.10%
+
+5,252
+
+1
+
+Other Regulated Goods
+
+606,882
+
+199,255
+
+3.10%
+
+143,560
+
+8
+
+Hate Speech
+
+768,705
+
+314,134
+
+4.90%
+
+263,923
+
+27
+
+Terrorism & Violent Extremism
+
+197,439
+
+1,201
+
+<0.1%
+
+1,093
+
+4
+
+Compared to the prior reporting period, we reduced median turnaround times across all policy categories by an average of 90%. This reduction was due in large part to a concerted effort to expand our review capacity as well as to improve our prioritization of reports based on severity of harm. We also made several targeted changes to our safety efforts in the reporting period, which had an impact on the data reported here, including the expansion of our efforts to enforce accounts for usernames and display names that violate our Community Guidelines, the introduction of increased reporting and protections for Communities on Snapchat, and the introduction of reporting options for additional types of media, such as voicenotes, directly to us in app. 
+
+These changes, as well as other safety efforts and external forces, particularly affected certain policy areas when compared to the prior reporting period. These policy categories include: Content related to suspected Child Sexual Exploitation & Abuse (CSEA), Harmful False Information, and Spam. Specifically:
+
+CSEA: In the second half of 2024, we observed a 12% decrease in CSEA-related reports, and reduced our median turnaround time for responding to reported CSEA by 99%. These trends are driven largely by continued advancements in our proactive detection efforts, which enabled us to remove CSEA content before it could be reported to us and improvements we’ve made in our processes to review and take action on reports of CSEA more efficiently. Even with these improvements, our CSEA turnaround time is higher than in other policy areas because content is subject to a specialized process that includes double-review with a select team of specially trained agents.
+
+Harmful False Information: We observed a 26% increase in the reported volume of reports related to Harmful False Information, driven primarily by political events, including the November 2024 US Election.
+
+Spam: This reporting period, we saw a ~50% decrease in total enforcements and a ~46% decrease in total unique accounts enforced in response to reports of suspected Spam, reflecting improvements in our proactive detection and enforcement tools. This is a continuation of our efforts to target spam through account signals, and remove spam actors sooner in their activity on the platform. This effort was already underway during the last reporting period, during which total enforcements and total unique accounts enforced for Spam decreased by ~65% and ~60% respectively.
 
 Our Efforts to Proactively Detect and Enforce Against Violations of Our Community Guidelines
 
 Proactive Detection & Enforcement of our Community Guidelines
 
 
-We deploy automated tools to proactively detect and, in some cases, enforce against violations of our Community Guidelines. These tools include hash-matching tools (including PhotoDNA and Google Child Sexual Abuse Imagery (CSAI) Match), abusive language detection tools (which detect and enforce based on an identified and regularly updated list of abusive keywords and emojis), and multi-modal artificial intelligence / machine learning technology. 
+We use automated tools to proactively detect and, in some cases, enforce against violations of our Community Guidelines. These tools include hash-matching technology (including PhotoDNA and Google’s Child Sexual Abuse Imagery (CSAI) Match), Google’s Content Safety API, and other custom technology designed to detect abusive text and media,  sometimes leveraging artificial intelligence and machine learning. 
 
-In H1 2024, we took the following enforcement actions after proactively detecting, through the use of automated tools, violations of our Community Guidelines:
+In the second half of 2024, we took the following enforcement actions after proactively detecting violations of our Community Guidelines using automated detection tools:
 
-Total Enforcements	Total Unique Accounts Enforced
-3,464,750	1,822,215
-Policy Reason	Total Enforcements	Total Unique Accounts Enforced	Median Turnaround Time (minutes) From Detection To Final Action
-Sexual Content	1,291,158	596,352	<1
-Child Sexual Exploitation	664,819	276,081	<1
-Harassment and Bullying	9,255	7,424	8
-Threats & Violence	14,952	10,340	11
-Self-Harm & Suicide	289	252	12
-False Information	26	23	11
-Impersonation	4	4	26
-Spam	110,467	69,309	<1
-Drugs	1,110,704	763,626	5
-Weapons	224,271	143,540	<1
-Other Regulated Goods	28,411	22,190	10
-Hate Speech	2,306	1,963	23
-Terrorism & Violent Extremism	8,088	4,238	11
+Total Enforcements
 
-Combating Child Sexual Exploitation & Abuse 
+Total Unique Accounts Enforced
 
-Sexual exploitation of any member of our community, especially minors, is illegal, abhorrent, and prohibited by our Community Guidelines. Preventing, detecting, and eradicating Child Sexual Exploitation and Abuse (CSEA) on our platform is a top priority for Snap, and we continually evolve our capabilities to combat these and other crimes.
+3,685,602
 
-We use active technology detection tools, such as PhotoDNA robust hash-matching and Google’s Child Sexual Abuse Imagery (CSAI) Match to identify known illegal images and videos of CSEA, respectively. In addition, in some cases, we use behavioral signals to enforce against other potentially illegal CSEA activity. We report CSEA-related content to the U.S. National Center for Missing and Exploited Children (NCMEC), as required by law. NCMEC then, in turn, coordinates with domestic or international law enforcement, as required.
+1,845,125
 
-In the first half of 2024, we took the following actions upon detecting CSEA on Snapchat (either proactively or upon receiving a report):
+Policy Reason
 
-Policy Reason	Total Content Enforced	Total Accounts Disabled	Total Submissions to NCMEC
-CSEA	1,737,563	385,864	632,436
+Total Enforcements
+
+Total Unique Accounts Enforced
+
+Median Turnaround Time (minutes) From Detection To Final Action
+
+Sexual Content
+
+1,818,287
+
+828,590
+
+<1
+
+Child Sexual Exploitation
+
+491,970
+
+188,877
+
+1
+
+Harassment and Bullying
+
+14,942
+
+11,234
+
+8
+
+Threats & Violence
+
+43,625
+
+29,599
+
+9
+
+Self-Harm & Suicide
+
+761
+
+624
+
+9
+
+False Information
+
+85
+
+81
+
+10
+
+Impersonation
+
+8
+
+6
+
+19
+
+Spam
+
+177,150
+
+110,551
+
+<1
+
+Drugs
+
+869,178
+
+590,658
+
+5
+
+Weapons
+
+205,387
+
+133,079
+
+<1
+
+Other Regulated Goods
+
+48,280
+
+37,028
+
+9
+
+Hate Speech
+
+10,344
+
+8,683
+
+10
+
+Terrorism & Violent Extremism
+
+5,585
+
+2,951
+
+21
+
+Combatting Child Sexual Exploitation & Abuse
+
+Sexual exploitation of any member of our community, especially minors, is illegal, abhorrent, and prohibited by our Community Guidelines. Preventing, detecting, and eradicating CSEA on our platform is a top priority for Snap, and we continually evolve our capabilities to combat these and other crimes.
+
+We use active technology detection tools to help identify CSEA-related content. These tools include hash-matching tools (including PhotoDNA and Google’s CSAI Match, to identify known illegal images and videos of CSEA, respectively) and Google Content Safety API (to identify novel, "never-before-hashed" illegal imagery). In addition, in some cases, we use behavioral signals to enforce against other suspected CSEA activity. We report CSEA-related content to the U.S. National Center for Missing and Exploited Children (NCMEC), as required by law. NCMEC then coordinates with domestic or international law enforcement, as necessary.
+
+In the second half of 2024, we took the following actions upon identifying CSEA on Snapchat (either proactively or upon receiving a report):
+
+
+
+
+Total Content Enforced
+
+Total Accounts Disabled
+
+Total Submissions to NCMEC*
+
+1,228,929
+
+242,306
+
+417,842
 
 *Note that each submission to NCMEC can contain multiple pieces of content. The total individual pieces of media submitted to NCMEC is equal to our total content enforced.
 
 Our Efforts to Provide Resources and Support to Snapchatters in Need
 
-We care deeply about the mental health and well-being of Snapchatters, which continues to inform our decisions to build Snapchat differently. As a platform designed for communications between and among real friends, we believe Snapchat can play a unique role in empowering friends to help each other in difficult times. This is why we have developed resources and support for Snapchatters in need. 
+Snapchat empowers friends to help each other in difficult times by providing resources and support for Snapchatters in need. 
 
-Our Here For You search tool shows resources from expert local partners when users search for certain topics related to mental health, anxiety, depression, stress, suicidal thoughts, grief and bullying. We have also developed a page dedicated to financial sextortion and other sexual risks and harms, in an effort to support those in distress. Our global list of safety resources is publicly available to all Snapchatters, in our Privacy, Safety & Policy Hub. 
-
-
-When our Trust & Safety teams become aware of a Snapchatter in distress, they can forward self-harm prevention and support resources, and notify emergency response personnel when appropriate. The resources that we share are available on our global list of safety resources, and are publicly available to all Snapchatters.
+Our Here For You search tool provides  resources from experts when users search for certain topics related to mental health, anxiety, depression, stress, suicidal thoughts, grief and bullying. We have also developed a page dedicated to financial sextortion and other sexual risks and harms, in an effort to support those in distress. Our global list of safety resources is publicly available to all Snapchatters, in our Privacy, Safety & Policy Hub. 
+When our Safety teams become aware of a Snapchatter in distress, they are equipped to provide  self-harm prevention and support resources, and to notify emergency services, as needed. The resources we share are available on our global list of safety resources, which is available to all Snapchatters.
 
 Total Times Suicide Resources Shared
-44,067
+
+64,094
 
 Appeals
 
-Below we provide information about appeals we received from users requesting a review of our decision to lock their account:
+Below we provide information about appeals we received from users requesting a review of our decision to lock their account in the second half of 2024:
 
-Policy Reason	Total Appeals	Total Reinstatements	Total Decisions Upheld	Median Turnaround Time (days) to Process Appeals
-TOTAL	481,231	37,020	444,210	13
-Sexual Content	111,540	2,527	109,013	4
-Child Sexual Exploitation	153,820	19,169	134,650	15
-Harassment and Bullying	24,433	680	23,753	2
-Threats & Violence	2,015	69	1,946	4
-Self-Harm & Suicide	19	3	16	4
-False Information	7	0	7	3
-Impersonation	833	46	787	6
-Spam	8,899	508	8,391	4
-Drugs	171,105	13,682	157,423	8
-Weapons	1,489	114	1,375	3
-Other Regulated Goods	6,080	107	5,973	1
-Hate Speech	931	112	819	5
-Terrorism & Violent Extremism	60	3	57	3
+Policy Reason
 
-* As discussed in the “Analysis” section above, stopping the spread of content or activity related to child sexual exploitation is a top priority. Snap devotes significant resources toward this goal and has zero tolerance for such conduct. We have expanded our global vendor teams to adapt to new policies and reporting features for Snapchat. In doing so, between H2 2023 and H1 2024, we reduced the turnaround time for CSEA appeals from 152 days to 15 days. We continually strive to improve our processes, including in relation to appeal turnaround times.
+Total Appeals
+
+Total Reinstatements
+
+Total Decisions Upheld
+
+Median Turnaround Time (days) to Process Appeals
+
+TOTAL
+
+493,782
+
+35,243
+
+458,539
+
+5
+
+Sexual Content
+
+162,363
+
+6,257
+
+156,106
+
+4
+
+Child Sexual Exploitation
+
+102,585
+
+15,318
+
+87,267
+
+6
+
+Harassment and Bullying
+
+53,200
+
+442
+
+52,758
+
+7
+
+Threats & Violence
+
+4,238
+
+83
+
+4,155
+
+5
+
+Self-Harm & Suicide
+
+31
+
+1
+
+30
+
+5
+
+False Information
+
+3
+
+0
+
+3
+
+<1
+
+Impersonation
+
+847
+
+33
+
+814
+
+7
+
+Spam
+
+19,533
+
+5,090
+
+14,443
+
+9
+
+Drugs
+
+133,478
+
+7,598
+
+125,880
+
+4
+
+Weapons
+
+4,678
+
+136
+
+4,542
+
+6
+
+Other Regulated Goods
+
+9,153
+
+168
+
+8,985
+
+6
+
+Hate Speech
+
+3,541
+
+114
+
+3,427
+
+7
+
+Terrorism & Violent Extremism
+
+132
+
+3
+
+129
+
+9
 
 Regional & Country Overview
 
-This section provides an overview of our Trust & Safety teams’ actions to enforce our Community Guidelines, both proactively and in response to in-app reports of violations, in a sampling of geographic regions. Our Community Guidelines apply to all content on Snapchat—and all Snapchatters—across the globe, regardless of location.
+This section provides an overview of our Safety teams’ actions to enforce our Community Guidelines, both proactively and in response to in-app reports of violations, in a sampling of geographic regions. Our Community Guidelines apply to all content on Snapchat—and to all Snapchatters—across the globe, regardless of location.
 
 Information for individual countries, including all EU Member States, is available for download via the attached CSV file.
 
+
+
+
 Download CSV
 
-Overview of our Trust & Safety Teams’ Actions to Enforce our Community Guidelines 
+Overview of our Safety Teams’ Actions to Enforce our Community Guidelines 
 
-Region	Total Enforcements	Total Unique Accounts Enforced
-North America	4,192,429	2,263,148
-Europe	2,679,608	1,614,534
-Rest of World	2,826,331	1,556,151
-Total	9,698,368	5,417,597
+Region
 
-Community Guidelines Violations Reported to our Trust & Safety Teams
+Total Enforcements
 
-Region	Total Enforcements	Content & Account Reports	Total Unique Accounts Enforced
-North America	2,359,974	6,353,766	1,425,907
-Europe	2,017,537	5,733,021	1,275,507
-Rest of World	1,856,107	7,339,507	1,152,330
-Total	6,233,618	19,426,294	3,842,507
+Total Unique Accounts Enforced
+
+North America
+
+3,828,389
+
+2,117,048
+
+Europe
+
+2,807,070
+
+1,735,054
+
+Rest of World
+
+3,396,651
+
+1,846,110
+
+Total
+
+10,032,110
+
+5,698,212
+
+Community Guidelines Violations Reported to our Safety Teams
+
+Region
+
+Content & Account Reports
+
+Total Enforcements
+
+Total Unique Accounts Enforced
+
+North America
+
+5,916,815
+
+2,229,465
+
+1,391,304
+
+Europe
+
+5,781,317
+
+2,085,109
+
+1,378,883
+
+Rest of World
+
+7,681,716
+
+2,031,934
+
+1,319,934
+
+Total
+
+19,379,848
+
+6,346,508
+
+4,090,121
 
 Proactive Detection and Enforcement of our Community Guidelines
 
-Region	Total Enforcements	Total Unique Accounts Enforced
-North America	1,832,455	956,644
-Europe	662,071	394,432
-Rest of World	970,224	474,541
-Total	3,464,750	1,822,215
+Total Enforcements
 
-Ads Moderation
+Total Unique Accounts Enforced
 
-Snap is committed to ensuring that all ads are fully compliant with our advertising policies. We believe in a responsible and respectful approach to advertising, creating a safe and enjoyable experience for all of our users. All ads are subject to our review and approval. In addition, we reserve the right to remove ads, including in response to user feedback, which we take seriously. 
+1,598,924
 
+837,012
 
-Below we have included insight into our moderation for paid advertisements that are reported to us following their publication on Snapchat. Note that ads on Snapchat can be removed for a variety of reasons as outlined in Snap’s Advertising Policies, including deceptive content, adult content, violent or disturbing content, hate speech, and intellectual property infringement. Additionally, you can now find Snapchat’s Ads Gallery in the navigation bar of this transparency report.
+721,961
 
-Total Ads Reported	Total Ads Removed
-26,375	10,711
+417,218
+
+1,364,717
+
+613,969
+
+3,685,602
+
+1,868,199
+
 Australia
 Austria
 Belgium
@@ -233,6 +790,22 @@ Turkey
 United Arab Emirates
 United Kingdom
 United States
+
+Ads Moderation
+
+Snap is committed to ensuring that all ads are fully compliant with our advertising policies. We believe in a responsible approach to advertising, creating a safe experience for all Snapchatters. All ads are subject to our review and approval. In addition, we reserve the right to remove ads, including in response to user feedback, which we take seriously. 
+
+
+Below we have included insight into our moderation for paid advertisements that are reported to us following their publication on Snapchat. Note that ads on Snapchat can be removed for a variety of reasons as outlined in Snap’s Advertising Policies, including deceptive content, adult content, violent or disturbing content, hate speech, and intellectual property infringement. Additionally, you can now find Snapchat’s Ads Gallery in Snap’s transparency hub, accessible directly via the navigation bar.
+
+Total Ads Reported
+
+Total Ads Removed
+
+43,098
+
+17,833
+
 Government & Intellectual Property Removal Requests
 
 Learn More
