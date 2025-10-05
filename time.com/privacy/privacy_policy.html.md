@@ -1,7 +1,16 @@
+Your Privacy
+
+This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.
+
+
+
+Accept All
+Manage Peferences
+Reject All
 Home
 
 US PRIVACY POLICY
-This Privacy Policy was last updated on January 29, 2024.
+This Privacy Policy was last updated on September , 2025.
 
  
 
@@ -75,7 +84,7 @@ Commercial Information: When you engage in transactions with us, we create recor
 
 Internet or Other Electronic Network Activity Information: We collect information about the websites you came from and to which you are going, ad clicks, search history, and other information regarding your interaction with our websites and applications, such as the duration you stay on a webpage.
 
-Audio, electronic, visual, thermal, olfactory, or similar information: If you contact us via phone, we may record the call. We will notify you if a call is being recorded at the beginning of the call. We may collect your photographic or video image in limited circumstances, such as when you attend an event hosted by Time.
+Audio, electronic, visual, thermal, olfactory, or similar information: If you contact us via phone, we may record the call. If you choose to interact with a chat feature on our site using your voice, we will capture and transcribe what you say. We will notify you if a call is being recorded at the beginning of the call. We may collect your photographic or video image in limited circumstances, such as when you attend an event hosted by Time.
 
 Professional or employment-related information: We collect professional or employment-related information you voluntarily provide.
 
@@ -105,8 +114,8 @@ Respond to your inquiries.
 Personalize communications.
 Send you service-related announcements, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
 Make Improvements to Our Products and Services:
-Identify and develop new products and services.
-Improve the design of our Services.
+Identify and develop new features, products and services (including AI-based features).
+Troubleshoot and iImprove the design and performance of our Services, including through machine learning and similar automated means.
 Understand how our Services are used, including by creating measurement and analytics reports.
 Provide Recommendations and Deliver Relevant Advertising:
 Offer products, programs or services that may be of interest to you, and keep you informed of new happenings at Time.
@@ -141,6 +150,7 @@ Professional services consultants, such as firms that assist with providing lega
 Advertising, marketing, and analytics services, including entities that analyze the information we collect from or about you to communicate with and advertise to you.
 Security vendors, such as entities that assist with security incident verification and response, service notifications, and fraud prevention.
 IT vendors, such as entities that assist with website design, hosting, and maintenance, data and software storage, and network operation.
+AI/LLM third-party service providers.
 Production vendors, such a pre-press printing service providers.
 There are limited circumstances in which the service provider collects data directly from you when their privacy policies may also apply.
 
@@ -282,4 +292,4 @@ Toll-free: 800-843-8463
 
 Powered by
 
-© 2024 TIME USA, LLC. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Service, Privacy Policy​ (Your Privacy Rights) and Do Not Sell My Personal Information.
+© 2025 TIME USA, LLC. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Service, Privacy Policy​ (Your Privacy Rights) and Do Not Sell My Personal Information.
