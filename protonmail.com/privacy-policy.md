@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last modified: September 25, 2024
+Last modified: June 4th, 2025
 
 At Proton, we strongly believe in an internet where privacy is the default.
 
@@ -13,6 +13,9 @@ Proton VPN Privacy Policy
 (new window)
 Proton Pass Privacy Policy
 Proton Wallet Privacy Policy
+Lumo Privacy Policy
+(new window)
+Proton Business Privacy Policy
 
 By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you understand that your data in relation with your use of our Services is processed according to the following Privacy Policy and its product-specific privacy policies (together, the "Privacy Policy"). The Privacy Policy states (i) what data we collect through your access and uses of the Services; (ii) the use we make of such data; and (iii) the safeguards put in place to protect your data. The Privacy Policy is to be read and understood as being a complement to our Terms of Service.
 
@@ -44,9 +47,9 @@ In order to pursue our legitimate interest of preventing the creation of account
 
 2.5 IP logging: By default, we do not keep permanent IP logs in relation with your Account. However, IP logs may be kept temporarily to combat abuse and fraud, and your IP address may be retained permanently if you are engaged in activities that breach our Terms of Service (e.g. spamming, DDoS attacks against our infrastructure, brute force attacks). The legal basis of this processing is our legitimate interest to protect our service against non-compliant or fraudulent activities. If you enable authentication logging for your Account or voluntarily participate in Proton's advanced security program, the record of your login IP addresses is kept for as long as the feature is enabled. This feature is off by default, and all the records are deleted upon deactivation of the feature. The legal basis of this processing is consent, and you are free to opt in or opt out of that processing at any time in the security panel of your Account. The authentication logs feature records login attempts to your Account and does not track product-specific activity, such as VPN activity.
 
-2.6 Communicating with Proton: Your communications with us, such as support requests, bug reports, or feature requests may be saved by our staff. We may also rely on third parties, such as Zendesk or Calendly (see below). If you use Proton's live chat support, you consent to having the data contained within your live chat interaction processed by Zendesk Inc, the provider of Proton's live chat support platform. The legal basis for processing is our legitimate interest to troubleshoot more efficiently and improve the quality of our Services. The information you provide when you contact our support team is processed for analytics purposes (such as to obtain aggregate statistics), but we do not do any targeted advertising or any profiling. 
+2.6 Communicating with Proton: Your communications with us, such as support requests, bug reports, or feature requests may be saved by our staff. We may also rely on third parties, such as Zendesk or Calendly (see below). If you use Proton's live chat support, you consent to having the data contained within your live chat interaction processed by Zendesk Inc, the provider of Proton's live chat support platform. The legal basis for processing is our legitimate interest to troubleshoot more efficiently and improve the quality of our Services. The information you provide when you contact our support team is processed for analytics purposes (such as to obtain aggregate statistics), but we do not do any targeted advertising or any profiling.
 
-2.7 Communicating with Proton's Sales team: if you are a Business customer or a business prospect and are contacting our Sales team via the dedicated forms, the data you provide is used solely for the purpose of processing your request and contacting you to assess whether our products will suit your needs. The legal basis for this processing activity is your consent.
+2.7 Communicating with Proton's Sales team: if you are a Business customer or a business prospect and are contacting our Sales team via the dedicated forms to inform us of your interest in our products or other resources, the data you provide is used solely for the purpose of processing your request and contacting you for that specific purpose. The legal basis for this processing activity is your consent, which can be withdrawn at any times. To process this data, Proton may rely on its processor Hubspot, Inc.
 
 2.8 Communications from Proton: We mainly use your email address for account-related questions, communication, and recovery. By signing up to our Service, you agree to receive communications from us, which may include promotional emails. You can stop receiving emails from us by following the unsubscribe instructions included in every email we send. Alternatively, you can login
 (new window)
@@ -54,10 +57,7 @@ In order to pursue our legitimate interest of preventing the creation of account
 
 2.9 Payment information: We rely on Chargebee to process payments. Strictly necessary information is shared with Chargebee for credit card, PayPal, Stripe and Bitcoin transactions in order for the payment to be successful and associated with your account. Chargebee does not have access to your email or your Proton account information. We rely on third parties to process credit card, PayPal, and Bitcoin transactions and must therefore share payment information with them. We do not retain full credit card details, we only save your name and the last 4 digits of the credit card number. Anonymous cash or Bitcoin payments and donations are accepted. We may use your account data for payment-related matters, including but not limited to sending you emails, invoices, receipts, notices of delinquency, and alerts to update payment information. The legal basis of these processing activities is the necessity to the execution of the contract to provide the Services. In order to respect the principle of data minimisation, we reserve our right to remove payment information from our systems that is no longer valid, without notice.
 
-2.10 Native applications: When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software (e.g. fabric.io
-(new window)
-) app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google’s Play Store or Apple’s App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and Terms of Service. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.
-
+2.10 Native applications: When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software, app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google's Play Store or Apple's App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and Terms of Service. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.
 Our applications do not access or track any location-based information from your device.
 
 2.11 Proton Scribe: Proton Scribe is a feature that allows you to use our self-developed writing assistant to help you compose your messages or documents. By default, this feature operates locally on your device. You also have the possibility to have it operate server side, in which case only the minimal data necessary to make our service function will be shared with the servers. No log, account data or content data will be stored on our servers. Proton Scribe does not use content data or any of your data to train its models. 
@@ -133,3 +133,8 @@ In case of violation of your rights, you have the right to lodge a complaint to 
 7. Modifications to Privacy Policy
 
 Within the limits of applicable law, the Company reserves the right to review and change this Privacy Policy at any time. As long as you are using the Services, you are responsible for regularly reviewing this Privacy Policy. Continued use of the Services after such changes are performed shall constitute your consent to it.
+
+
+
+
+In case of discrepancy between the English version of these Terms and any translated version, the English version shall prevail.
