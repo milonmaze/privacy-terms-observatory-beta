@@ -6,6 +6,7 @@ LOG IN
 LEASE OR BUY
 Lease or Buy
 Auto Financing
+EV Financing
 Buy a GM Vehicle
 Lease a GM Vehicle
 Lease End
@@ -78,9 +79,8 @@ GM Financial is committed to respecting and protecting customer privacy. The Onl
 
 The Sites are controlled, operated, and administered by GM Financial or its service providers from offices within the United States. If you are accessing the Sites from a location outside the United States, you acknowledge and consent to the collection, storage, processing, and transfer of your personal information to our facilities in the United States and to those third-parties with whom we share it as described in this Privacy Policy.
 
- 
-
 Table of Contents
+
 Websites and Mobile Applications
 Collecting Personal Information
 Using Personal Information
@@ -88,26 +88,23 @@ Third-Party Collection of Personal Information
 Disclosing Personal Information to Third-Parties
 Making Changes to Your Information
 Do Not Track
-Mobile Applications
 Security
+Mobile Applications
 Children’s Privacy
 Changes to the Privacy Policy
 Effective Date
-
- 
-
 Websites & Mobile Applications
 Websites
-www.gmfinancial.com
-www.cadillacfinancial.com
-www.getmode.com
-careers.gmfinancial.com
-www.rightnotes.com
+• www.gmfinancial.com
+• www.cadillacfinancial.com
+• www.getmode.com
+• careers.gmfinancial.com  
+• www.rightnotes.com
 Mobile Applications
-GM Financial iOS
-GM Financial Android
-Cadillac Financial iOS
-Cadillac Financial Android
+• GM Financial iOS
+• GM Financial Android
+• Cadillac Financial iOS
+• Cadillac Financial Android
 Collecting Personal Information
 
 GM Financial may collect, store, and use the following kinds of personal information:
@@ -122,9 +119,7 @@ Information about the device or computer you use to access the Sites, including 
 
 Information that you send directly to GM Financial or post to any of GM Financial’s social media websites for publication on the internet, such as your first and last names, user name, profile picture, user preferences such as “Like” button clicks, and the content of your posts.
 
-If you apply for a job, you will create an account and provide us with your name, email address, telephone number, address, city, state, zip code, and country. You will create a username and password for future logins. Additionally, you will be asked to provide other information such as a resume/CV. We use iCIMS, Inc. (“iCIMS”) to provide us with talent search services. iCIMS will collect and process this information. Please review iCIMS Privacy Policy here.
-
- 
+If you apply for a job, you will create an account and provide us with your name, email address, telephone number, address, city, state, zip code, and country. You will create a username and password for future logins. Additionally, you will be asked to provide other information such as a resume and curriculum vitae (CV). We use service providers to provide us with talent search services.
 
 Using Personal Information
 
@@ -138,8 +133,7 @@ For specific purposes for which you provide consent;
 To provide you support or other services you request, for example technical support or to answer questions about the Sites;
 To maintain and improve the Sites and Services and improve user experience; and
 For any other legitimate business purpose.
-We use the information we gather on our Sites and with iCIMs to process your job application.
-
+We use the information we gather on our Sites to process your job application.
 Third-Party Collection of Personal Information
 
 GM Financial may allow third-party service providers to place persistent identifiers such as cookies, pixel tags, and web beacons on the Sites.
@@ -148,9 +142,9 @@ Cookies, pixel tags, and web beacons are used for the following purposes:
 
 Analytical Purposes: We use cookies and web beacons to analyze user activity in order to improve the Sites. For example, we use this information to determine the number of visitors to the Sites, the pages viewed per visit, and the time spent on particular pages. Collecting this information helps us provide you with a better online experience.
 User Preferences: We may use cookies, pixel tags, and web beacons to store preferences you demonstrate on the Sites. For instance, we may use a cookie to store your email address so that you do not need to re-enter it every time you visit MyAccount or Mode.
-Marketing: We may use cookies and web beacons from third-party service providers for marketing purposes to place GM Financial advertisements on nonaffiliated websites. We may also use service providers who use tracking devices such as cookies, pixel tags, and web beacons to collect anonymized information about consumers’ activities on nonaffiliated websites. The information they collect typically includes things like browser type, IP address, pages visited, and time visited. GM Financial may use this information to provide relevant marketing content to you. You may opt out of receiving such advertisements on the advertisement itself. You may be able to opt out of some third-party service providers’ use of cookies by visiting the Network Advertising Initiative opt-out page or the Digital Advertising Alliance’s Opt-Out page.
+Marketing: We may use cookies and web beacons from third-party service providers for marketing purposes to place GM Financial advertisements on nonaffiliated websites. We may also use service providers who use tracking devices such as cookies, pixel tags, and web beacons to collect anonymized information about consumers’ activities on nonaffiliated websites. The information they collect typically includes things like browser type, IP address, pages visited, and time visited. GM Financial may use this information to provide relevant marketing content to you. You may opt out of receiving such advertisements on the advertisement itself. You may be able to opt out of some third-party service providers’ use of cookies by visiting the Network Advertising Initiative opt-out page or the Digital Advertising Alliance’s Opt-Out page.
 
-One of the third-party services that we use is Google Analytics, which is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of the Site and may share this data with other Google services. We also use the Google AdWords remarketing service to advertise on third-party websites. Google may show GM Financial advertisements on websites across the internet and may use cookies to serve advertisements based on your past visits to the Site. You can find information about how to opt out of Google's use of cookies by visiting Google's Ads Settings.
+One of the third-party services that we use is Google Analytics, which is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of the Site and may share this data with other Google services. We also use the Google AdWords remarketing service to advertise on third-party websites. Google may show GM Financial advertisements on websites across the internet and may use cookies to serve advertisements based on your past visits to the Site. You can find information about how to opt out of Google's use of cookies by visiting Google's Ads Settings.
 
 Our Sites and Mobile Applications use third-party tools (such as Visual Studio App Center, Adobe, and Google Analytics and other Google services), to support the operation and performance of our Services and to analyze your interactions and experience.
 
@@ -160,7 +154,7 @@ Disclosing Personal Information to Third-Parties
 
 We may disclose personal information we collect from you to the following third parties, for the purposes specified:
 
-Service Providers. We may use third parties to provide you with products and services you request. If you are a customer, we may disclose the information we collect about you as described herein and in accordance with GM Financial customer privacy notices (for Lease and Retail) and applicable law. If you are a job applicant, we share your information with iCIMS who helps us process your job application.
+Service Providers. We may use third parties to provide you with products and services you request. If you are a customer, we may disclose the information we collect about you as described herein and in accordance with GM Financial customer privacy notices (for Lease and Retail) and applicable law. If you are a job applicant, we share your information with service providers who helps us process your job application.
 Affiliates. For customers, we may share personal information within the General Motors family of companies for analytical purposes, user preferences, and marketing in accordance with GM Financial’s customer privacy notices and applicable law.
 Dealers. We may share your credit application information with the dealer you select during the credit application process, in accordance with the terms and conditions of that process and applicable law.
 Change in Corporate Structure: We may share information in connection with a merger, acquisition, consolidation, change of control, or sale of all or a portion of our assets or if we undergo bankruptcy or liquidation.
@@ -169,12 +163,11 @@ Other Disclosures. We may also disclose your personal information when we are re
 
 Data obtained solely through the short code program, to the extent there is any, will not be shared with any third parties for their marketing reasons/purposes.
 
-
 Making Changes to Your Information
 
 You may make changes to the information that you provide to us on the MyAccount Site by logging in to MyAccount and selecting “My Profile.” You may also select the “Contact Us” tab on the Sites to ask us any questions.
 
-You may make changes to the information that you provide to us on the iCIMS Site by logging into your Profile Dashboard and selecting “Update Profile”.
+You may make changes to the information that you provide to us on the career site by logging into your My Profile and selecting “Edit Personal Information” under “Info and Alerts.”
 
 Do Not Track
 
@@ -202,4 +195,4 @@ We may modify this Privacy Policy at any time. If we do, we will post the revise
 
 Effective Date
 
-This Privacy Policy is effective as of July 30, 2024.
+This Privacy Policy is effective as of August 7, 2025.
