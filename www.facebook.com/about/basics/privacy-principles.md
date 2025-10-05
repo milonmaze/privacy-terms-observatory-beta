@@ -14,7 +14,7 @@ Get answers to your privacy questions and manage your privacy in a way that’s 
 Information
 Review and manage your information across your accounts
 Generative AI
-AI at Meta
+Generative AI at Meta
 Safety
 Manage what you share to feel safer using our products
 Location
@@ -27,9 +27,10 @@ Protect your messages and other private information
 Get support if you feel you're being bullied or harassed
 Get started
 Generative AI
-AI at Meta
+Generative AI at Meta
 Learn what generative AI is and how it works
-Learn how your information is used for AI at Meta and what controls you have
+See or download the information about you from AI chats
+Change or delete your information from chats with our AIs
 Get started
 Audience
 Make sure you’re sharing only with the people you want to
