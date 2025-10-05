@@ -1,5 +1,5 @@
 About Transparency Reporting
-January 1, 2024 - June 30, 2024
+July 1, 2024 - December 31, 2024
 
 In our Transparency Report, we disclose data regarding our safety efforts across our platform. Here we provide additional context and insight into our safety principles, policies, and practices, as well as links to various safety and privacy resources.
 
