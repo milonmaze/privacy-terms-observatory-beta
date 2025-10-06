@@ -6,12 +6,16 @@ The complete list of services that form Google Cloud Platform and SecOps Service
 
 For the avoidance of doubt, Services listed under "Google Cloud Platform Services Summary" are not SecOps Services and vice versa.
 
+
+
+
 Services marked in *asterisks* are not available for resale under the Google Cloud Partner Advantage program, unless specifically authorized in writing by Google.
 
 Expand all
 Google Cloud Platform Services Summary
 SecOps Services Summary
-PREVIOUS VERSIONS (Last modified September 2, 2025)
+PREVIOUS VERSIONS (Last modified October 6, 2025)
+September 2, 2025
 August 28, 2025
 August 18, 2025
 July 21, 2025
