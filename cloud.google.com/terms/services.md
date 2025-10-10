@@ -2,6 +2,8 @@ Back to Google Cloud Terms Directory
 Current
 Google Cloud Services Summary
 
+For translations of this Google Cloud Services Summary into other languages, please click on the appropriate link: Bahasa Indonesia, Deutsch, Español (Latinoamérica), Français, Italiano, Nederlands, Português, 한국어, 日本語
+
 The complete list of services that form Google Cloud Platform and SecOps Services is shown below. While Google offers many other services and APIs, only the services below are covered under the agreement pursuant to which Google has agreed to provide Google Cloud Platform or SecOps Services, service level agreements (if applicable), and support offerings (the "Agreement"). Offerings identified below as Software or Premium Software are not Services under the Agreement or the Cloud Data Processing Addendum.
 
 For the avoidance of doubt, Services listed under "Google Cloud Platform Services Summary" are not SecOps Services and vice versa.
@@ -14,7 +16,8 @@ Services marked in *asterisks* are not available for resale under the Google Clo
 Expand all
 Google Cloud Platform Services Summary
 SecOps Services Summary
-PREVIOUS VERSIONS (Last modified October 6, 2025)
+PREVIOUS VERSIONS (Last modified October 9, 2025)
+October 6, 2025
 September 2, 2025
 August 28, 2025
 August 18, 2025
