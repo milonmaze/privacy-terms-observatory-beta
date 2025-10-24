@@ -9,6 +9,7 @@ Chrome Web Store - Program Policies
 Was this helpful?
 Google Chrome Web Store Developer Agreement
 bookmark_border
+content_copy
 On this page
 Definitions
 1. Introduction
