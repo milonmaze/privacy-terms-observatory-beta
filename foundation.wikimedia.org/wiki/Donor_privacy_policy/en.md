@@ -78,6 +78,7 @@ Wikimedia policies
 Wikimedia projects
 
 Access to nonpublic personal data
+Underage exemptions
 Access to temporary account IP addresses
 API usage guidelines
 Code of conduct for Wikimedia technical spaces, including events
@@ -96,8 +97,10 @@ IP Information Tool
 Licensing
 Office actions
 Privacy
+Non-wiki
 Terms of Use
 Wikimedia Maps
+Wikimedia Phabricator
 Terrorist and violent extremist content procedures and guidelines
 Trademarks
 Universal code of conduct
@@ -107,19 +110,19 @@ Enforcement guidelines
 Foundation Board and staff
 
 Code of Conduct
-Code of conduct of the Board of Trustees
+Board of Trustees
 Conflict of interest
 Confidentiality agreement of the Board of Trustees
 Credit card usage
 Delegation of authority
 Duty entertainment
-Foreign corrupt practices act policy
+Foreign Corrupt Practices Act (FCPA) policy
 Gifts
 Non-discrimination
 Policy and political association guideline
-Staff Userrights
+Staff test account
+Staff userrights
 Travel and expense
-Travel approval
 Whistleblower
 
 
@@ -130,10 +133,8 @@ Feedback privacy statement
 Friendly space policy
 Investment policy
 Legal policies
-Non-wiki privacy policy
 Open access policy
 Peering policy
-Phabricator Terms of Use
 Purchasing and disbursements procedures
 Requests for user information
 Scholarship travel policy
