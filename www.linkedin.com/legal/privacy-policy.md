@@ -1,11 +1,7 @@
 Skip to main content
 Privacy Policy
 
-Update to our terms
-We're updating our terms on November 3, 2025. See here for what's coming in our updated Privacy Policy. Learn more
-
-
-Effective September 18, 2024
+Effective November 3, 2025
 
 Your Privacy Matters
 
@@ -97,7 +93,7 @@ We receive personal data (e.g., your job title and work email address) about you
 
 Related Companies and Other Services
 
-We receive data about you when you use some of the other services provided by us or our Affiliates, including Microsoft. For example, you may choose to send us information about your contacts in Microsoft apps and services, such as Outlook, for improved professional networking activities on our Services
+We receive data about you when you use some of the other services provided by us or our Affiliates, including Microsoft. For example, you may choose to send us information about your contacts in Microsoft apps and services, such as Outlook, for improved professional networking activities on our Services or we may receive information from Microsoft about your engagement with their sites and services.
 
 1.3 Service Use
 
@@ -109,7 +105,7 @@ We log usage data when you visit or otherwise use our Services, including our si
 
 We collect data through cookies and similar technologies.
 
-As further described in our Cookie Policy, we use cookies and similar technologies (e.g., pixels and ad tags) to collect data (e.g., device IDs) to recognize you and your device(s) on, off and across different services and devices where you have engaged with our Services. We also allow some others to use cookies as described in our Cookie Policy. If you are outside the Designated Countries, we also collect (or rely on others who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness. Learn more. You can opt out from our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes. For Visitors, the controls are here.
+As further described in our Cookie Policy, we use cookies and similar technologies (e.g., pixels and ad tags) to collect data (e.g., device IDs) to recognize you and your device(s) on, off and across different services and devices where you have engaged with our Services. We also allow some others to use cookies as described in our Cookie Policy. If you are outside the Designated Countries, we also collect (or rely on others, including Microsoft, who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness. Learn more. You can opt out from our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes. For Visitors, the controls are here.
 
 1.5 Your Device and Location
 
@@ -212,7 +208,7 @@ You have choices regarding our uses of certain categories of data to show you mo
 
 Info to Ad Providers
 
-We do not share your personal data with any third-party advertisers or ad networks except for: (i) hashed IDs or device identifiers (to the extent they are personal data in some countries); (ii) with your separate permission (e.g., in a lead generation form) or (iii) data already visible to any users of the Services (e.g., profile). However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you. Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us. We seek to contractually require such advertising partners to obtain your explicit, opt-in consent before doing so where legally required, and in such instances, we take steps to ensure that consent has been provided before processing data from them.
+We do not share your personal data with any non-Affiliated third-party advertisers or ad networks except for: (i) hashed IDs or device identifiers (to the extent they are personal data in some countries); (ii) with your separate permission (e.g., in a lead generation form) or (iii) data already visible to any users of the Services (e.g., profile). However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you. Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us. We seek to contractually require such advertising partners to obtain your explicit, opt-in consent before doing so where legally required, and in such instances, we take steps to ensure that consent has been provided before processing data from them.
 
 2.5 Marketing
 
@@ -304,7 +300,7 @@ The information you make available to others in our Services (e.g., information 
 
 We share your data across our different Services and LinkedIn affiliated entities.
 
-We will share your personal data with our Affiliates to provide and develop our Services. For example, we may refer a query to Bing in some instances, such as where you'd benefit from a more up to date response in a chat experience. In regions outside the Designated Countries, we may also share your publicly-shared content (such as your public LinkedIn posts) with our Affiliates, including Microsoft, to provide or develop their services. Where allowed, we may combine information internally across the different Services covered by this Privacy Policy to help our Services be more relevant and useful to you and others. For example, we may personalize your feed or job recommendations based on your learning history.
+We will share your personal data with our Affiliates to provide and develop our Services. For example, we may refer a query to Bing in some instances, such as where you'd benefit from a more up to date response in a chat experience. Subject to our European Regional Privacy Notice, we may also share with our Affiliates, including Microsoft, your (1) publicly-shared content (such as your public LinkedIn posts) to provide or develop their services and (2) personal data to improve, provide or develop their advertising services. Where allowed, we may combine information internally across the different Services covered by this Privacy Policy to help our Services be more relevant and useful to you and others. For example, we may personalize your feed or job recommendations based on your learning history.
 
 3.5 Service Providers
 
