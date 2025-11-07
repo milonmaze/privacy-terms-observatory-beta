@@ -35,12 +35,12 @@ See the rules of our community that we need everyone to follow.
 Visit webpage →
 
 
-Updates to our Professional Community Policies
+News on our Professional Community Policies
 
 
-Learn about recent updates we’ve made to our policies. 
+Learn about news and updates related to LinkedIn’s reports and policies.
 
-Read blog post →
+Read more
 
 Report copyright and trademark infringement
 
