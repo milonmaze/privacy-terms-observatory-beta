@@ -103,7 +103,7 @@ Instructure (which includes Parchment) complies with the EU-U.S. Data Privacy Fr
 
 Instructure (which includes Parchment) commits to subject to the DPF Principles all personal data received from the EU, UK, and Switzerland in reliance on the relevant DPF.
 
-Instructure is accountable for the processing of personal data it receives under the EU-U.S. DPF Principles and the Swiss-U.S. DPF Principles (collectively, “DPF Principles”) and subsequently transfers to a third party. Instructure complies with the DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions. The Federal Trade Commission has jurisdiction over Instructure’s compliance with the EU-U.S. DPF, UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+Instructure is accountable for the processing of personal data it receives under the EU-U.S. DPF Principles, the UK extension to the EU-US DPF Principles, and the Swiss-U.S. DPF Principles (collectively, “DPF Principles”) and subsequently transfers to a third party. Instructure complies with the DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions. The Federal Trade Commission has jurisdiction over Instructure’s compliance with the EU-U.S. DPF, UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
 
 Instructure may be required to disclose personal data in response to law requests by public authorities, including to meet national security and law enforcement requirements.
 
