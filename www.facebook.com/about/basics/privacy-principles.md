@@ -1,8 +1,6 @@
 Privacy Center
 Make the privacy choices that are right for you. Learn how to manage and control your privacy on Facebook, Instagram, Messenger, and other Meta Products.
 We build privacy into our products
-Privacy Checkup
-Tools like Privacy Checkup make it easy for you to take control of your privacy.
 Private messaging
 Our messaging products offer end-to-end encryption so your conversations stay safe and secure.
 Teen privacy
