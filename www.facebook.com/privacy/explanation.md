@@ -1,6 +1,5 @@
 Privacy Policy
 Updating on Dec 16, 2025
-
 We’ll start using interactions with AIs to personalize experiences and ads. This update goes into effect on December 16, 2025.
 Read the new policy.
 What is the Privacy Policy and what does it cover?
