@@ -43,7 +43,11 @@ TARGETING AND ADVERTISING COOKIES: These cookies are used to deliver advertisem
 
 5. ANALYTICS. We use third-party analytics services to collect and analyze data about how users use the Site. These services use cookies, scripts, and other technologies to collect and store information such as how users interact with our Site, how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site.
 
-Instructure uses Google Analytics and other third-party services to improve the performance of the Site and for analytics and marketing purposes.  For more information about how Google Analytics collects and uses data when you use our Site, visit https://www.google.com/policies/privacy/partners/, and to opt out of Google Analytics, visit https://tools.google.com/dlpage/gaoptout/.
+Instructure uses Google Analytics and other third-party services to improve the performance of the Site and for analytics and marketing purposes.  For more information about how Google Analytics collects and uses data when you use our Site, visit https://www.google.com/policies/privacy/partners/
+(opens in a new tab)
+, and to opt out of Google Analytics, visit https://tools.google.com/dlpage/gaoptout/
+(opens in a new tab)
+.
 
 If you want to limit the use of cookies, your browser may offer tools to do so. By disabling cookies, you may be prevented from accessing some features of our Site or certain content or functionality may not be available.
 
@@ -99,7 +103,9 @@ We may partner with ad networks and other ad serving providers (“Advertising P
 
 15. DATA PRIVACY FRAMEWORK POLICY.
 
-Instructure (which includes Parchment) complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. Instructure and Parchment have certified to the U.S. Department of Commerce that they adhere to the EU-U.S. Data Privacy Framework Principles (“EU-U.S. DPF Principles”) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Instructure has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (“Swiss-U.S. DPF Principles”) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
+Instructure (which includes Parchment) complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. Instructure and Parchment have certified to the U.S. Department of Commerce that they adhere to the EU-U.S. Data Privacy Framework Principles (“EU-U.S. DPF Principles”) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Instructure has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (“Swiss-U.S. DPF Principles”) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit https://www.dataprivacyframework.gov/
+(opens in a new tab)
+.
 
 Instructure (which includes Parchment) commits to subject to the DPF Principles all personal data received from the EU, UK, and Switzerland in reliance on the relevant DPF.
 
@@ -129,7 +135,9 @@ New Penderel House, 4th Floor
 London WC1V 7HP
 Phone: 0800 358 4330
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may also contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may also contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request
+(opens in a new tab)
+. 
 
 17. CHANGES TO THIS PRIVACY POLICY. Instructure may change this Privacy Policy from time to time. If we make any changes to this Policy, we will change the “Last Updated” date above. We encourage you to visit this page from time to time for the latest on our privacy practices
 
