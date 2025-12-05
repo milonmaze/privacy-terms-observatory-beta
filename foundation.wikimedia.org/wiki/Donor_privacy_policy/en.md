@@ -2,8 +2,6 @@ Jump to content
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
-British English
- 
 Deutsch
  
 English
@@ -109,6 +107,7 @@ Enforcement guidelines
 
 Foundation Board and staff
 
+Board of Trustees candidate review process
 Code of Conduct
 Board of Trustees
 Conflict of interest
