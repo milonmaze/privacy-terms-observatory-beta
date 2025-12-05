@@ -6,7 +6,7 @@ Privacy
 selected
 Security
 Have questions?
-LAST UPDATED: SEPTEMBER 2025
+LAST UPDATED: DECEMBER 2025
 U.S. Consumer Privacy Notice
 
 Printer Friendly version (PDF)
@@ -47,7 +47,7 @@ Questions
 Call 1-888-868-8618 – our menu will prompt you through your choice(s). We accept operator relay calls.
 Who we are
 
-Who is providing this notice?	The U.S. consumer financial companies within the JPMorganChase family, including JPMorgan Chase Bank, N.A., Chase Insurance Agency, Inc., J.P. Morgan Securities LLC, and the Frosch family of companies, except where a JPMorganChase company issues a separate notice.
+Who is providing this notice?	The U.S. consumer financial companies within the JPMorganChase family, including JPMorgan Chase Bank, N.A., Chase Insurance Agency, Inc., J.P. Morgan Securities LLC, The Infatuation Inc. and the Frosch family of companies, except where a JPMorganChase company issues a separate notice.
 What we do
 
 How does Chase protect my personal information?	To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We authorize our employees to get your information only when they need it to do their work, and we require companies that work for us to protect your information.
@@ -77,7 +77,7 @@ What happens when I limit sharing for an account I hold jointly with someone els
 Definitions
 
 Affiliates	Companies related by common ownership or control. They can be financial and nonfinancial companies.
-Our affiliates include companies with a Chase or J.P. Morgan name and financial companies such as J.P. Morgan Securities LLC and the Frosch family of companies
+Our affiliates include companies with a Chase or J.P. Morgan name and financial companies such as J.P. Morgan Securities LLC, The Infatuation Inc. and the Frosch family of companies
 
 Nonaffiliates	Companies not related by common ownership or control. They can be financial and non-financial companies.
 Nonaffiliates we share with can include companies such as retailers, auto dealers, auto makers and membership clubs
