@@ -227,6 +227,7 @@ Amazon Group Companies
 Amazon Trademark Usage Guidelines
 Non-Exhaustive List of Amazon Trademarks
 Amazon.com Gift Card and Electronic Message Customization Service Terms
+Amazon Settlement
 Quick solutions
 	
 
