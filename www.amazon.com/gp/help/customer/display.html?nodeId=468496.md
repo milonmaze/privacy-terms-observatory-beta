@@ -6,7 +6,7 @@ Security and Privacy  › 
 Legal Policies  › 
 Amazon.com Privacy Notice
 
-Last updated: June 30, 2025. View the prior version of this Privacy Notice.
+Last updated: December 31, 2025. View the prior version of this Privacy Notice.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon products, services, stores, website and physical locations, devices and applications that reference this Privacy Notice (together "Amazon Services"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.
 
@@ -118,6 +118,7 @@ Seller Program Policies
 Help pages
 Most Recent Purchases
 Community Guidelines
+Generative AI Development Disclosure
 
 Examples of Information Collected
 
