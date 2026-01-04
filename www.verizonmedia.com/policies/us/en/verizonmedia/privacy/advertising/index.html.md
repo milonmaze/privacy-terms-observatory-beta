@@ -4,9 +4,9 @@ Advertising is a fundamental part of the services we provide. Our advertising bu
 
 Here’s a brief summary of our advertising business, and some of the areas that we’re going to cover in this page.
 
-When you visit our Products, you’ll almost always see ads. These ads come in many formats, including video, image-based (often called ‘display’ or ‘banner’ ads), and sponsored listings. 
-The ads that you see on our Products are sometimes provided by us, but also by our advertising technology partners. 
-You decide whether you want the ads that you see to be personalised for you. Some of our users prefer to see ads that are matched to their interests, devices and location.  Others don’t - and that’s okay too! We give you the control to decide what works best for you. 
+When you visit our Products, you’ll almost always see ads. These ads come in many formats, including video, image-based (often called ‘display’ or ‘banner’ ads), and sponsored listings.
+The ads that you see on our Products are sometimes provided by us, but also by our advertising technology partners.
+You decide whether you want the ads that you see to be personalised for you. Some of our users prefer to see ads that are matched to their interests, devices and location.  Others don’t - and that’s okay too! We give you the control to decide what works best for you.
 We also provide ads to you on our partners’ websites, apps and connected TVs through our Services.
 You can manage how we and our partners use your data to personalize ads on our Products and
 Most advertisers want to show users personalised ads because advertisers believe ads that related to their users’ interests or behaviours are most effective. As a result, most of our advertising business focuses on showing personalised ads. However, we do show ads that aren’t based on users’ interests, devices and location as well (often called ‘contextual’ ads).
@@ -183,5 +183,5 @@ Yahoo also participates several non-US self-regulatory bodies:
 
 European Interactive Digital Advertising Alliance (EDAA).  Learn more about its principles or opt out from any of its participating companies.
 Canada: Digital Advertising Alliance of Canada (DAAC) – Learn more about its principles or opt out from any of its participating companies.
-Japan:  For users of ONE by AOL and Boundless Inc., see the Data Driven Advertising Initiative (DDAI) – Learn more about its principles or opt out from any of its participating companies. 
+Japan: For users of Boundless Inc., see the Data Driven Advertising Initiative (DDAI) – Learn more about its principles or opt out from any of its participating companies.
 New Zealand: Interactive Advertising Bureau of New Zealand (IAB) – Learn more about its principles.
