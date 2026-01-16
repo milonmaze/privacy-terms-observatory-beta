@@ -1,4 +1,8 @@
 Jump to content
+
+You are invited to celebrate Wikipedia Day in San Francisco on Saturday, January 24!
+Sign up here.
+
 (Redirected from Privacy policy)
 Translate this page
 Other languages:	
