@@ -8,9 +8,9 @@ Yahoo may process personal information related to individuals in the EU/EEA/UK/S
 
 The EU-U.S. and Swiss-US Data Privacy Frameworks and UK DPF Extension
 
-Yahoo Inc and our entities/subsidiaries AOL Membership Services LLC, AOL Holdings (HR) Inc, Yahoo Finance LLC, AOL Media LLC, Yahoo Ad Tech LLC, and Yahoo Holdings Inc. comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce regarding our processing of personal data received from the EEA, UK and Switzerland as described in our Privacy Policy.
+Yahoo Inc and our entities/subsidiaries Yahoo Finance LLC, Yahoo Ad Tech LLC, and Yahoo Holdings Inc. comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce regarding our processing of personal data received from the EEA, UK and Switzerland as described in our Privacy Policy.
 
-We have certified to the U.S. Department of Commerce that we adhere to the Data Privacy Framework Principles (DPF Principles). We will not rely on the Swiss-U.S DPF for the transfer of personal data from Switzerland to the US until the date of entry into force of Switzerland’s recognition of adequacy.
+We have certified to the U.S. Department of Commerce that we adhere to the Data Privacy Framework Principles (DPF Principles).
 
 Yahoo is also liable for onward transfers to third parties that process personal information in a manner that is inconsistent with the DPF Principles unless we can prove that we were not responsible for the event giving rise to any alleged damage.
 
