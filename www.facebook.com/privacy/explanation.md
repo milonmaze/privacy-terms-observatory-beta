@@ -1,5 +1,4 @@
 Privacy Policy
-We updated our Privacy Policy on December 16, 2025. View our previous policy.
 What is the Privacy Policy and what does it cover?
 Effective December 16, 2025 | View printable version | See previous versions
 Highlights
