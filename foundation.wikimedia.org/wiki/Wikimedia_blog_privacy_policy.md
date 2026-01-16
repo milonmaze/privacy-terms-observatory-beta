@@ -1,4 +1,8 @@
 Jump to content
+
+You are invited to celebrate Wikipedia Day in San Francisco on Saturday, January 24!
+Sign up here.
+
 (Redirected from Wikimedia blog privacy policy)
 	
 Please note: This page is kept for historical reasons. It is no longer being maintained and may be out-of-date or inaccurate.
