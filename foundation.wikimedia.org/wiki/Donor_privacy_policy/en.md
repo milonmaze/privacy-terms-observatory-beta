@@ -2,6 +2,8 @@ Jump to content
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
+Bahasa Indonesia
+ 
 Deutsch
  
 English
