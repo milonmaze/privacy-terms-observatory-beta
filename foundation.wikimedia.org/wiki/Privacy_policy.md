@@ -1,8 +1,4 @@
 Jump to content
-
-You are invited to celebrate Wikipedia Day in Los Angeles on Saturday, January 24!
-Sign up here.
-
 (Redirected from Privacy policy)
 Translate this page
 Other languages:	
