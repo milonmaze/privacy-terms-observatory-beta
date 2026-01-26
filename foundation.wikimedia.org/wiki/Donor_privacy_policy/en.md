@@ -1,8 +1,4 @@
 Jump to content
-
-You are invited to celebrate Wikipedia Day in San Francisco on Saturday, January 24!
-Sign up here.
-
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
