@@ -155,3 +155,5 @@ Threats, offensive language and hate speech are not allowed on eBay.
 eBay's intellectual property policy
 Our name and logo are registered trademarks so their use is restricted and protected by intellectual property law.
 4 min article
+
+Severe winter weather may impact delivery times in parts of North America. Check tracking for the latest carrier updates.
