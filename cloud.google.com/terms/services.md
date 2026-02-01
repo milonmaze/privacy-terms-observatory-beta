@@ -180,8 +180,8 @@ September 25, 2017
 September 13, 2017
 menu
 
-search_spark
-send_spark
+search
+send
 Sign in
 Start free
 Contact us
