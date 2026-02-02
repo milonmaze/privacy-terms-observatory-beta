@@ -35,7 +35,7 @@ Depending on the region in which you reside, one of the following eBay Affiliate
 
 USA: eBay Inc., 2025 Hamilton Avenue, San Jose, CA 95125, USA
 Canada: eBay Canada Limited, 240 Richmond Street West, 2nd Floor Suite 02-100 Toronto, Ontario, M5V 1V6, Canada
-EU: eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany
+EU: eBay GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, Germany
 United Kingdom: eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom
 India: eBay Singapore Services Private Limited, 1 Raffles Quay, #18- 00, Singapore 048583
 For all other countries: eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland
