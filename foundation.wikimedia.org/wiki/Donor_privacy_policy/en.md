@@ -107,6 +107,7 @@ Terrorist and violent extremist content procedures and guidelines
 Trademarks
 Universal code of conduct
 Enforcement guidelines
+Use of Wikimedia sites for advocacy purposes
 
 
 Foundation Board and staff
