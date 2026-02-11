@@ -85,7 +85,7 @@ This User Privacy Notice is effective from April 21, 2025. View the previous Use
 15 min article
 User Agreement
 
-For users who agreed to a prior version of our User Agreement, this agreement is effective as of August 28, 2025. For users who had not previously agreed to the User Agreement, this agreement is effective upon acceptance. The previous amendment to this User Agreement was effective for all users on May 16, 2025.
+For users who agreed to a prior version of our User Agreement, this agreement is effective as of February 20, 2026. For users who had not previously agreed to the User Agreement, this agreement is effective upon acceptance. The previous amendment to this User Agreement was effective for all users on August 28, 2025.
 
 
 
