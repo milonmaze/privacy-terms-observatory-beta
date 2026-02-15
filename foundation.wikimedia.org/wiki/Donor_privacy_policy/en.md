@@ -120,7 +120,7 @@ Confidentiality agreement of the Board of Trustees
 Credit card usage
 Delegation of authority
 Duty entertainment
-Foreign Corrupt Practices Act (FCPA) policy
+Foreign Corrupt Practices Act (FCPA)
 Gifts
 Non-discrimination
 Policy and political association guideline
