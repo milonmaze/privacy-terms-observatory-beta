@@ -1,6 +1,4 @@
 Jump to content
-Wiki Loves Folklore Photograph your local culture, help Wikipedia and win! Participate Now
-[Help with translations!]
 (Redirected from Donor privacy policy/en)
 Translate this page
 Other languages:	
