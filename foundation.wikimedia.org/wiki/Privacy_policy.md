@@ -1,6 +1,4 @@
 Jump to content
-Wiki Loves Folklore Photograph your local culture, help Wikipedia and win! Participate Now
-[Help with translations!]
 (Redirected from Privacy policy)
 Translate this page
 Other languages:	
