@@ -164,3 +164,6 @@ Google
 Mountain View, CA 94043, USA
 
 (650) 253-0000
+
+Hi there 👋 What brings you to Google Workspace today?
+Welcome to Google Cloud Guide
