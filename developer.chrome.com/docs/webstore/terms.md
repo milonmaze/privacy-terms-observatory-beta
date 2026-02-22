@@ -1,5 +1,6 @@
 Skip to main content
 Sign in
+Docs
 Chrome Extensions
 Chrome Web Store - Program Policies
 Home
