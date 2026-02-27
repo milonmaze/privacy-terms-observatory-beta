@@ -1,7 +1,7 @@
 Skip to main content
 Microsoft Privacy Statement
 
-Last Updated: December 2025
+Last Updated: February 2026
 
 What's new?
 
@@ -724,7 +724,7 @@ Advertising allows us to provide, support, and improve some of our products. Mic
 
 Microsoft may use data we collect to select and deliver some of the ads you see on Microsoft web properties, such as  Microsoft.com, Microsoft Start, and Bing. We may also use such data to select and deliver ads on third party digital properties.
 When the advertising ID is enabled in Windows as part of your privacy settings, third parties can access and use the advertising ID (much the same way that websites can access and use a unique identifier stored in a cookie) to select and deliver ads in such apps.
-We may share data we collect with internal and external partners, such as Xandr and other subsidiaries and affiliates, Yahoo, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you.
+We may share data we collect with internal and external partners, such as Xandr and other subsidiaries and affiliates, Yahoo, Facebook or The Trade Desk (see below), so that the ads you see in our products, their products, or on other sites are more relevant and valuable to you.
 Advertisers may choose to place our web beacons on their sites, or use similar technologies, in order to allow Microsoft to collect information on their sites such as activities, purchases, and visits; we use this data on behalf of our advertising customers to provide ads.
 
 The ads that you see may be selected based on data we process about you, such as your interests and favorites, your location, your transactions, how you use our products, your search queries, or the content you view. For example, if you view content on Microsoft Start about automobiles, we may show advertisements about cars; if you search “pizza places in Seattle” on Bing, you may see advertisements in your search results for restaurants in Seattle.
@@ -745,7 +745,7 @@ Data retention. For personalized advertising, we retain data for no more than 13
 Sensitive Data. Microsoft Advertising does not collect, process, or disclose personal data that qualifies as “sensitive data” under applicable U.S. state data privacy laws for the purposes of providing personalized advertising.
 Data sharing. In some cases, we share with advertisers reports about the data we have collected on their sites or ads.
 
-Data collected by other advertising companies. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with  Xandr, a Microsoft company, and third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to:  Facebook,  Media.net,  Outbrain,  Taboola and  Yahoo. Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies participate in the DAA (U.S.), EDAA (Europe) or DAAC (Canada), which provide industry-wide choice tools.
+Data collected by or shared with other advertising companies. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with  Xandr, a Microsoft company, and third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to:  Facebook,  Media.net,  Outbrain,  Taboola and  Yahoo. Select any of the preceding links to find more information on each company's practices, including the choices it offers. We also share data we collect with other companies like The Trade Desk for advertising purposes. Individuals in the United Kingdom can learn more about The Trade Desk’s advertising practices in the U.K. and opt out of The Trade Desk’s processing of their data here. Many of these companies participate in the DAA (U.S.), EDAA (Europe) or DAAC (Canada), which provide industry-wide choice tools.
 
 To opt out of receiving personalized advertising from Microsoft, visit our  opt-out page. When you opt out, your preference is stored in a cookie that is specific to the web browser you are using. The opt-out cookie has an expiration date of five years. If you delete the cookies on your device, you need to opt out again.
 
