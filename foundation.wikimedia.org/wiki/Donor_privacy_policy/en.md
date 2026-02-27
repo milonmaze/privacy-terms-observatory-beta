@@ -332,7 +332,6 @@ Donor Privacy Policy (July 2011)
 Donor Privacy Policy (2009)
 
 Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
-
 +/-
 translate
 Privacy-related pages
