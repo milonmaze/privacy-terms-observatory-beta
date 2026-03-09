@@ -230,6 +230,7 @@ Non-Exhaustive List of Amazon Trademarks
 Amazon.com Gift Card and Electronic Message Customization Service Terms
 Generative AI Development Disclosure
 Amazon Settlement
+California Device Protection Request
 Quick solutions
 	
 
