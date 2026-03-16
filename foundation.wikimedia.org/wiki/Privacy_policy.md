@@ -92,6 +92,8 @@ interlingua
  
 italiano
  
+kabuverdianu
+ 
 latviešu
  
 lietuvių
