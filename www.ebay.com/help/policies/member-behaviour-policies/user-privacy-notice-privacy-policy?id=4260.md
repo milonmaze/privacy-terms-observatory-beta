@@ -147,7 +147,7 @@ At eBay, we appreciate comments from our members on our products and services. B
 3 min article
 Threats and offensive language policy
 
-Threats, offensive language and hate speech are not allowed on eBay.
+Threats, offensive language, and hate speech are not allowed on eBay.
 
 
 
