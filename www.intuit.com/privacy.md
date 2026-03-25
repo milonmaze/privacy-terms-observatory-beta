@@ -23,3 +23,7 @@ Putting your data to good use
 We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert.
 
 Learn more about how we use your data
+
+We use cookies and similar technologies as described in our Cookies Policy, including to maintain and operate our websites and services, measure traffic, and deliver marketing content to you on and off our sites. You can decline our use of third party advertising cookies by going to "Customize Settings".
+Customize Settings
+I Understand
