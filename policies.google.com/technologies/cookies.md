@@ -55,7 +55,7 @@ Some cookies and similar technologies used for advertising are for users who sig
 
 Through Google’s advertising platform, businesses can advertise in Google services as well as on non-Google sites. Some cookies support Google showing ads on third-party sites and are set in the domain of the website you visit. For example, the ‘_gads’ cookie enables sites to show Google ads. Cookies that start with ‘_gac_’ come from Google Analytics and are used by advertisers to measure user activity and the performance of their ad campaigns. The ‘_gads’ cookies last for 13 months and the ‘_gac_’ cookies last for 90 days.
 
-Some cookies and similar technologies are used to measure ad and campaign performance and conversion rates for Google ads on a site you visit. For example, cookies that start with ‘_gcl_’ are primarily used to help advertisers determine how many times users who click on their ads end up taking an action on their site, such as making a purchase. Cookies used for measuring conversion rates are not used to personalize ads. ‘_gcl_’ cookies last for 90 days. Similar technologies such as the Advertising ID on Android devices can also be used to measure ad and campaign performance. You can manage your Ad ID settings on your Android device.
+Some cookies and similar technologies are used to measure ad and campaign performance and conversion rates for Google ads on a site you visit. For example, cookies that start with ‘_gcl_’ are primarily used to help advertisers determine how many times users who click on their ads end up taking an action on their site, such as making a purchase. Depending on your choices and settings, information collected by these cookies and similar technologies may also be used to personalize ads. ‘_gcl_’ cookies last for 90 days. Similar technologies such as the Advertising ID on Android devices can also be used to measure ad and campaign performance. You can manage your Ad ID settings on your Android device.
 
 See more information about cookies used for advertising here.
 
@@ -71,7 +71,7 @@ Even if you reject cookies and similar technologies used for personalization, th
 
 MANAGING COOKIES IN YOUR BROWSER
 
-Most browsers allow you to manage how cookies are set and used as you’re browsing, and to clear cookies and browsing data. Also, your browser may have settings letting you manage cookies on a site-by-site basis. For example, Google Chrome’s settings at chrome://settings/cookies allow you to delete existing cookies, allow or block all cookies, and set cookie preferences for websites. Google Chrome also offers Incognito mode, which deletes your browsing history and clears cookies from the Incognito windows on your device after you close all of your Incognito windows.
+Most browsers allow you to manage how cookies are set and used as you’re browsing, and to clear cookies and browsing data. Also, your browser may have settings letting you manage cookies on a site-by-site basis. For example, Google Chrome’s settings at chrome://settings/cookies allow you to delete existing cookies, allow or block all cookies, and set cookie preferences for websites. Google Chrome also offers Incognito mode, which deletes cookies, site data, and your browsing history from your device when you exit your Incognito session.
 
 MANAGING SIMILAR TECHNOLOGIES IN YOUR APPS AND DEVICES
 
