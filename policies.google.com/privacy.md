@@ -12,7 +12,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective December 11, 2025 Archived versions Download PDF
+Effective April 2, 2026 Archived versions Download PDF
 Contents
 Introduction
 Information Google collects
@@ -75,7 +75,7 @@ Chrome browsing history you’ve synced with your Google Account
 
 If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.
 
-You can visit your Google Account to find and manage activity information that’s saved in your account.
+You can visit your Google Account to find and manage activity information that’s saved by your activity controls.
 
 Go to Google Account
 
@@ -127,7 +127,7 @@ Go to My Ad Center
 
 Measure performance
 
-We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to link information about your activity from that site or app with activity from other sites or apps that use our ad services.
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including ad and analytics services. When you visit sites or use apps that use Google’s ad or analytics services, those services may link information about your activity from that site or app with activity from other sites or apps that use our services.
 
 Communicate with you
 
@@ -161,7 +161,7 @@ We also built a place for you to review and control information saved in your Go
 Privacy controls
 Activity Controls
 
-Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos you watch and the things you search for are saved in your account so you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so you can get more personalized experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether information about your activity on other sites, apps, and devices that use Google services, such as apps you install and use on Android, is saved in your Google Account and used to improve Google services.
+Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos you watch and the things you search for are saved in your account so you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so you can get more personalized experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether some information about your activity on other sites, apps, and devices that use Google services, such as apps you install and use on Android, is saved in your Google Account and used to improve Google services.
 
 Go to Activity Controls
 
@@ -342,7 +342,7 @@ We explain how Google retains information in Retaining your information. You can
 
 U.S. state privacy laws also provide the right to request information about how Google collects, uses, and discloses your information. And they give you the right to access your information, sometimes in a portable format; correct your information; and to request that Google delete that information. Many of these laws also provide the right to opt out of certain forms of profiling and targeted advertising. They also provide the right to not be discriminated against for exercising these privacy rights. Additionally, the CCPA treats certain kinds of information, like health data, as sensitive; when users provide this information, Google only uses it for purposes permitted by the CCPA, like to provide services that are requested and expected by our users.
 
-The Washington My Health My Data Act and Nevada Senate Bill 370 provide specific rights in addition to those rights above, that apply to health information. When you provide this information, Google only processes it with your consent and allows you to withdraw your consent.
+The Washington My Health My Data Act and Nevada Senate Bill 370 provide specific rights in addition to those rights above, that apply to health information. When you provide health information subject to these laws, Google processes it with your consent, which you may withdraw, or as otherwise permitted by these laws.
 
 We describe the choices you have to manage your privacy and data across Google’s services in Your privacy controls. These tools allow you to access, review, update and delete your information, as well as export and download a copy of it. You can also control what information we use to show you ads, or turn off personalized ads, by visiting My Ad Center.
 
