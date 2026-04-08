@@ -4,7 +4,7 @@ Contact Us
 Start free
 Google Cloud Privacy Notice
 
-Effective Date: December 18, 2025
+Effective Date: April 08, 2026
 
 For translations of this Google Cloud Privacy Notice into other languages, please click on the appropriate link: Bahasa Indonesia, Deutsch, Español (Latinoamérica), Français, Italiano, Nederlands, Português, 한국어, 日本語
 
@@ -16,5 +16,5 @@ If European Union (EU), UK or Swiss data protection law applies to the processin
 
 If your organization has entered into a Service Data Addendum for any Cloud Services, please review the Supplemental Google Cloud Privacy Notice together with this notice.
 
-PREVIOUS VERSIONS (Last modified December 18, 2025)
-October 13, 2025 February 6, 2025 July 10, 2024 January 18, 2024 January 18, 2024 August 21, 2023 June 30, 2023 January 25, 2023 December 14, 2022 November 15, 2022 April 20, 2022 December 7, 2021 May 30, 2021 December 7, 2020 November 12, 2020
+PREVIOUS VERSIONS (Last modified April 08, 2026)
+December 18, 2025 October 13, 2025 February 6, 2025 July 10, 2024 January 18, 2024 August 21, 2023 June 30, 2023 January 25, 2023 December 14, 2022 November 15, 2022 April 20, 2022 December 7, 2021 May 30, 2021 December 7, 2020 November 12, 2020
