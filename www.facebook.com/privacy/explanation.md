@@ -153,6 +153,7 @@ Meta Platforms, Inc.
 ATTN: Privacy Operations
 1 Meta Way
 Menlo Park, CA 94025
+Contact the Data Protection Officer for Meta Platforms, Inc.
 Why and how we process your information
 The categories of information we use, and why and how information is processed, are set out below:
 Personalizing Meta Products
