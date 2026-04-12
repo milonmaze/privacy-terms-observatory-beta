@@ -4,7 +4,7 @@ We build privacy into our products
 Private messaging
 Our messaging products offer end-to-end encryption so your conversations stay safe and secure.
 Teen privacy
-Our default settings on Facebook and Instagram help keep teens’ accounts private.
+Our default settings on Facebook and Instagram help create safe, age-appropriate experiences.
 Ads education
 We show different factors that contribute to why you saw an ad and give you options to see more ads you like.
 Privacy topics
