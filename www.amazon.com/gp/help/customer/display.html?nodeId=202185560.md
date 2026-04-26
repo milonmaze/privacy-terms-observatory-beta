@@ -6,7 +6,7 @@ Digital Services and Device Support  › 
 Amazon Device and Digital Services Terms, Warranties, and Notices  › 
 Alexa & Alexa Device Terms  › 
 Children's Privacy Disclosure
-Last updated: December 4th, 2024
+Last updated: April 22, 2026
 
 
 
@@ -14,19 +14,23 @@ Children's privacy is important to Amazon. This disclosure and the Amazon Privac
 
 What Personal Information Does Amazon Collect From Children?
 
-We offer some services intended for children, and in some cases we may know a child is using our services (for example, when using a child profile). In these situations, children may share and we may collect personal information that requires verifiable parental consent under the Children's Online Privacy Protection Act (collectively, "Child Personal Information"). Child Personal Information could include, for example, name, birthdate, contact information (including phone numbers and e-mail addresses), voice, photos, videos, location, and certain activity and device information and identifiers (such as cookies, device serial numbers, and IP addresses). Our Privacy Notice describes other information we collect that is not Child Personal Information.
+We offer some services intended for children, and in some cases we may know a child is using our services (for example, when using a child profile). In these situations, children may share and we may collect personal information that requires verifiable parental consent under the Children's Online Privacy Protection Act (collectively, "Child Personal Information"). Child Personal Information could include, for example, name, birthdate, contact information (including phone numbers and e-mail addresses), voice, photos, videos, location, and certain activity and device information and identifiers (such as cookies, device serial numbers, and IP addresses). Our Privacy Notice describes the information we may collect, including Child Personal Information and other types of personal and non-personal information.
 
 How Does Amazon Use Child Personal Information?
 
-We use Child Personal Information to provide and improve our products and services, including personalizing offerings and recommendations for children, communicating information, enforcing parental controls, and giving parents visibility into how their children use our products and services. We will not serve interest-based ads to your child when they are using an Amazon child profile.
+We use Child Personal Information to provide and improve our products and services, including personalizing offerings and recommendations, communicating information, authenticating accounts, enforcing parental controls, giving parents visibility into how their children use our products and services, fulfilling children’s requests, and ensuring legal compliance. We use technical, contractual, and other measures to ensure the Child Personal Information is not used for purposes other than those listed above. We will not serve interest-based ads to your child when they are using an Amazon child profile.
 
 Does Amazon Share Child Personal Information?
 
-We share Child Personal Information only as described in our Privacy Notice. Your child may be able to share information publicly and with others depending on the products and services used.
+We may share Child Personal Information only as described in the “Does Amazon Share Your Personal Information?” section of our Privacy Notice. Your child may be able to share information publicly and with others depending on the products and services used.
+
+How Long Does Amazon Retain Child Personal Information?
+
+To enable children to use Amazon Services, we keep Child Personal Information for as long as it is required in order to fulfill the relevant purposes described in this disclosure and our Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you.
 
 What Choices Do I Have?
 
-You choose whether to give us permission to collect Child Personal Information from your child. If you have not given us permission to collect Child Personal Information, we may make available certain voice services intended for children (e.g., certain Alexa features), and we may process your child’s voice recordings to provide these services, but we will not store those voice recordings. We do not knowingly collect, use, or disclose Child Personal Information without this permission.
+You choose whether to give us permission to collect Child Personal Information from your child. If you have not given us permission to collect Child Personal Information, we may make available certain voice services intended for children (for example, certain Alexa features), and we may process your child’s voice recordings to provide these services, but we will not store those voice recordings. We do not knowingly collect, use, or disclose Child Personal Information without this permission.
 
 We make available controls so that you can remain involved in your child's use of Amazon services. To learn more about revoking permission for a child or how to review or delete Child Personal Information, please visit the Manage Parental Consent page or contact Customer Service using the information provided below.
 
@@ -106,3 +110,16 @@ Digital & Device Forum
 Ask the community
 
 Contact Us
+Test: amzn-nv-flyout-healthy-choice
+Test: nav-rufus-disc-txt
+Test: a-truncate-cut
+Test: sp-cc-wrapper
+Test: .mo-wp
+Test: .a-image-container
+Test: sp-cc
+Test: .amzn-box-inner
+Test: .js-order-card
+Test: pldn-deep-link
+Test: add-to-cart-btn
+Test: amzn-nav-app-banner-container
+Test: .sparkle-container
