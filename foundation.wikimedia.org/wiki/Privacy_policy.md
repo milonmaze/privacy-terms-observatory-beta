@@ -36,6 +36,8 @@ Ligure
  
 Lëtzebuergesch
  
+Madhurâ
+ 
 Malagasy
  
 Mara
