@@ -12,7 +12,7 @@ Get answers to your privacy questions and manage your privacy in a way that’s 
 Information
 Review and manage your information across your accounts
 Generative AI
-Generative AI at Meta
+AI at Meta
 Safety
 Manage what you share to feel safer using our products
 Location
