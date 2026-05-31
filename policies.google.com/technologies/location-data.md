@@ -19,11 +19,11 @@ Google may use or save location information to provide people with useful servic
 
 To help people remember places they’ve been
 
-People can choose to go back in time and remember places they go with their devices with Timeline. Timeline is a Google Account setting that creates a map of the places you’ve been and the routes you’ve taken on each of your devices. If you choose to use Timeline, your devices’ precise locations are regularly saved to a personal map and your devices, including when you don’t have Google apps open. This information can be viewed and deleted anytime in Timeline.
+People can choose to go back in time and remember places they go with their signed-in devices with Timeline. Timeline is a Google Account setting that creates a map of the places you’ve been and the routes you’ve taken on each of your devices. If you choose to use Timeline, your devices’ precise locations are regularly saved to a personal map and your devices, including when you don’t have Google apps open. This information can be viewed and deleted anytime in Timeline.
 
 To help people find things faster and get more helpful results
 
-Web & App Activity, for example, is a Google account setting that lets people save their activity data and associated information like location, so they can make their experience more personalized when they are signed in across Google services. For example, Search might show results that are relevant to a general area you’ve searched from in the past.
+Search Services History, for example, is a Google account setting that lets signed-in users save activity and associated information like location from services like Search, Maps, and Shopping. When your Personalized Recommendations in Search services setting is on, these services may provide results, curated feeds, and AI responses that are relevant to a general area you’ve searched from in the past.
 
 To show more relevant ads
 
@@ -73,11 +73,11 @@ Keep in mind: Devices need an IP address in order to send and receive internet t
 
 From your saved activity
 
-If you’re signed in to your Google Account and have Web & App Activity turned on, your activity data on Google sites, apps, and services may be saved in your account’s Web & App Activity. Some activity may include information about the general area you were in when using the Google service. When you search for something using a general area, your search will use an area of at least 3 sq km, or expand until the area represents the locations of at least 1,000 people. This helps protect your privacy.
+If you’re signed in to your Google Account and have certain history controls turned on, such as Search Services History and Web & App Activity, your activity data on Google sites, apps, and services may be saved as history in your Google Account. Some activity may include information about the general area you were in when using the Google service. When you search for something using a general area, your search will use an area of at least 3 sq km, or expand until the area represents the locations of at least 1,000 people. This helps protect your privacy.
 
 In some cases, areas that you have searched from in the past may be used to estimate a relevant location for your search. For example, if you search for coffee shops while in Chelsea, Google might show results for Chelsea in future searches.
 
-You can view and control your Web & App Activity at My Activity.
+You can view and control how activity data is saved in your Google Account at My Activity.
 
 If you’re not signed in to your Google Account, Google may store some location information for previous searches from the device you’re using to help provide more relevant results and recommendations. If you turn off Search customization, Google won’t use previous search activity to estimate your location. Learn more about how to search and browse privately.
 
@@ -98,14 +98,14 @@ Some apps need access to your device location in the background, such as Find My
 
 For more information on how location works on your Android device, see here.
 
-How are Timeline and Web & App Activity saved in my Google Account?
+How are Timeline, Search Services History, and Web & App Activity saved in my Google Account?
 Timeline and Web & App Activity
 
-Timeline and Web & App Activity are Google Account settings that use location. Here’s an overview of each. Keep in mind, other features or products may also collect or store location information.
+Timeline, Web & App Activity, and Search Services History are Google Account settings that allow users to save activity and associated information like location. Here’s an overview of each. Keep in mind, other features or products may also collect or store location information.
 
 Timeline
 
-If you turn on Timeline, it will create a personal map on each of your devices that helps you remember places you’ve been, and routes and trips you’ve taken.
+If you turn on Timeline, it will create a personal map on each of your signed-in devices that helps you remember places you’ve been, and routes and trips you’ve taken.
 
 Timeline is turned off by default. If you turn on Timeline, your precise device location is regularly saved, for every eligible mobile device where you’re signed in. These device locations are used to build your Timeline, including when Google apps aren’t being used.
 
@@ -115,36 +115,55 @@ show community trends, such as popular times and transit crowdedness, based on a
 detect and prevent fraud and abuse
 improve and provide Google services, including ads products
 
-Timeline data can also help nearby businesses estimate how often ads drive visits to their stores, if you have Web & App Activity turned on. Only anonymous estimates, not personal info, are shared with businesses.
+Depending on your settings, activity you save as history in your Account, including ad interactions, may also be connected to Timeline data to help nearby businesses estimate the likelihood that people will visit their stores. No personal information is shared with businesses.
 
 Your Timeline can also help personalize your Google experiences, such as sending you notifications about your commute in Google Maps.
 
-You can review, edit, and delete what’s saved in your Timeline at any time. To see if you’ve turned on Timeline, visit your Activity Controls. There, you’ll be able to control your Timeline settings.
+You can review, edit, and delete what’s saved in your Timeline at any time. To see if you’ve turned on Timeline, visit your My Activity. There, you’ll be able to control your Timeline settings.
 
 How often your precise location is collected as part of the Timeline setting varies. For example, if you’re using navigation in Google Maps, it might be collected multiple times per minute. But if you’re not actively using your phone, it could be once every few hours.
 
-How long Timeline data is saved depends on your settings—you can choose to automatically delete this data once it’s 3, 18, or 36 months old, or keep the data until you delete it. You can change this in Activity controls any time.
+How long Timeline data is saved depends on your settings—you can choose to automatically delete this data once it’s 3, 18, or 36 months old, or keep the data until you delete it. You can change this in My Activity any time.
 
 Keep in mind
 
 If you turn off Timeline
 
 Google will continue to store any past Timeline data you’ve saved until you delete it, or it will be deleted after a period of time that you’ve chosen as part of your auto-delete settings.
-Turning off Timeline doesn’t impact how location information is saved or used by Web & App Activity or other Google products, e.g., based on your IP address. You may still have other settings that save location information.
+Turning off Timeline doesn’t impact how location information is saved or used by other activity controls like Search Services History and Web & App Activity, or by other Google products, e.g., based on your IP address. You may still have other settings that save location information.
 
-To see if you’ve turned on Timeline, visit your Activity Controls. Learn more.
+To see if you’ve turned on Timeline, visit your My Activity. Learn more.
+
+Search Services History
+
+Search Services History saves activity on services like Search, Maps, Shopping, Hotels, Flights, Translate, and News to your Google Account when you’re signed-in. History includes things like your searches, places you view in Google Maps, travel you book with Flights and Hotels, things or products you search for, ads you click on, and information from websites you visit with Search services. It also includes related media (like images, files, and audio) from your interactions.
+
+Your history can also include information about your location from your device’s general area and IP address. For example, if you search for weather information and get results for a location sent from your device, this activity, including the general area your device was in when you searched, is saved to your Search Services History. The precise location that your device sent is not stored, only the location’s general area is stored. The saved location, which can be used to help Google determine a more relevant location in a future search, can come from the IP address or your device. This saved location metadata is automatically deleted from your Search Services History after 30 days.
+
+Search Services History is used to tailor your experiences on Google services. For example, saving your history helps you revisit previous searches, resume a prior conversation with AI Mode or Ask Maps, or get Autocomplete suggestions based on past searches. Depending on your personalization settings, Search Services History data may be used to provide you with personalized recommendations and experiences in Search services or across other Google services. For example, if your Personalized Recommendations setting is on, Search services can provide results, curated feeds, and AI responses that are personalized to you based on information in your Google Account, including your Search Services History and associated information like location. This means you may see results that are relevant to a general location you’ve searched from in the past. Search Services History can also be used to show you more relevant ads, depending on your ads settings. Search Services History will work across your devices wherever you are signed into your account.
+
+You can review and delete location and other information saved with your Search Services History, or turn it off, by visiting My Activity. When this setting is off, new activity from Search services will not be saved to your Search Services History in your Google Account.
+
+Keep in mind
+
+When you turn off Search Services History
+
+You may still have saved activity, which may be used until you delete it. You can delete this anytime. Your saved location information is still automatically deleted after 30 days.
+Turning off Search Services History doesn’t impact how location information is saved or used by other settings, such as Timeline. You may still have other types of location information saved as part of other settings, including IP address.
+
+To see if your Search Services History is turned on, visit My Activity.
 
 Web & App Activity
 
-Web & App Activity data is used to make your experience more personalized in Maps, Search, and other Google services. It can also be used to show you more relevant ads, depending on your ads settings. Web & App Activity will work across your devices wherever you are signed into your account.
+Web & App Activity data is used to make your experience more personalized in some Google services, such as Google Assistant, Google Store, and Google TV. It can also be used to show you more relevant ads, depending on your ads settings. Web & App Activity will work across your devices wherever you are signed into your account.
 
-When Web & App Activity is turned on, Google will save data about the things you do across Google services in your account’s Web & App Activity. This includes associated information, like the general area where you used a Google service.
+When Web & App Activity is on, Google will save data about the things you do across Google services in your account’s Web & App Activity. This includes associated information, like the general area where you used a Google service.
 
-For example, if you search for weather information and get results for a location sent from your device, this activity, including the general area your device was in when you searched, is saved to your Web & App Activity. The precise location that your device sent is not stored, only the location’s general area is stored. The saved location, which can be used to help Google determine a more relevant location in a future search, can come from the IP address or your device. This saved location is automatically deleted from your Web & App Activity after 30 days.
+For example, if you ask Google Assistant for weather information and get results for a location sent from your device, this activity, including the general area your device was in when you requested the information, is saved to your Web & App Activity. The precise location that your device sent is not stored, only the location’s general area is stored. The saved location, which can be used to help Google determine a more relevant location in a future interaction, can come from the IP address or your device. This saved location is automatically deleted from your Web & App Activity after 30 days.
 
-Web & App Activity data helps Google to understand general areas that are relevant for you, and include results for those areas when you do things like search.
+Web & App Activity data helps Google to understand general areas that are relevant for you, and include results for those areas when you do things like interact with Google Assistant.
 
-You can review and delete location and other information saved with your Web & App Activity, or turn it off, by visiting your Activity Controls. Turning off Web & App Activity will stop saving your future activity data.
+You can review and delete location and other information saved with your Web & App Activity, or turn it off, by visiting My Activity. When this setting is off, new activity won’t be saved in your Web & App Activity in your Google Account.
 
 Keep in mind
 
@@ -153,7 +172,7 @@ When you turn off Web & App Activity
 You may still have saved activity, which may be used until you delete it. You can delete this anytime. Your saved location information is still automatically deleted after 30 days.
 Turning off Web & App Activity doesn’t impact how location information is saved or used by other settings, such as Timeline. You may still have other types of location information saved as part of other settings, including IP address.
 
-To see if you’ve turned on Web & App Activity, visit your Activity Controls. Learn more
+To see if your Web & App Activity is turned on, visit My Activity.
 
 How does Google use location information that is pseudonymous or anonymous?
 
@@ -172,7 +191,7 @@ How long is location information retained by Google?
 The Google Privacy Policy describes our retention practices for user data, including location information that Google collects. Location information is collected for different periods of time, depending on what it is, how it’s used, and how people configure their settings.
 
 Some location information is saved with your Google Account until you delete it
-Controlling retention and deletion: Both Timeline and Web & App Activity have auto-delete options, which let you automatically delete data after a set period of time, such as 3, 18, or 36 months. You can also see this data by visiting Timeline and My Activity, and can delete specific activity or bulk-data according to your preference. You can always modify these settings or change your auto-delete option.
+Controlling retention and deletion: Google’s activity controls — including Search Services History, Timeline, and Web & App Activity — have auto-delete options, which let you automatically delete data after a set period of time, such as 3, 18, or 36 months. You can also see this data by visiting My Activity, and can delete specific activity or bulk-data according to your preference. You can always modify these settings or change your auto-delete option.
 Saving location information: Depending on the Google product or service, location information may be saved to your Google Account. For example, you may tag locations in Photos, or add a Home or Work address in Maps. You can delete this location information.
 
 When you delete data, Google follows a policy to safely and completely remove it from your account so that the recovery of the data is no longer possible. First, the activity you delete is removed from view and no longer used to personalize your Google experience. Then, Google begins a process designed to safely and completely delete the data from Google storage systems. Learn more about how Google retains collected data.
@@ -182,7 +201,7 @@ Information that expires after a certain period of time
 For other location information, as described in How Google retains data, there are times when—instead of being deleted manually—Google stores data for a set time before it’s deleted. The amount of time it takes to safely and completely delete it depends on the type of data, for example:
 
 Google anonymizes advertising data in server logs by removing part of the IP address after 9 months and cookie information after 18 months.
-Google deletes IP-based location and device location from your Web & App Activity after 30 days.
+Google deletes IP-based location and device location from your Search Services History and Web & App Activity after 30 days.
 Information retained for extended time periods for limited purposes
 
 As described in the Google Privacy Policy, “some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.” Learn more about our retention practices
@@ -194,7 +213,7 @@ The ads you see can be based on your location information. In general, ads on Go
 
 Using location information helps make the ads that you see more relevant to the area you’re in, or to areas that are relevant to you. For example, if your device’s location setting is turned on and you search on Google for restaurants near you, your current device location may be used to show you ads for restaurants near you. Your location may also be used to show you distances to nearby businesses as part of ads on Google.
 
-Google may also use your past browsing or app activity (such as your searches, website visits, or videos you watched on YouTube) and general areas saved as part of the Web & App Activity setting to show you more useful ads. For example, if you search for where to buy milk nearby on Google, you may see ads for grocery stores in the general area where you frequently browse Google Search while waiting for your bus or train.
+Google may also use your past browsing or app activity (such as your searches, website visits, or videos you watched on YouTube) and general areas saved as part of your history in certain activity settings, like Search Services History and Web & App Activity, to show you more useful ads. For example, if you search for where to buy milk nearby on Google, you may see ads for grocery stores in the general area where you frequently browse Google Search while waiting for your bus or train.
 
 Advertisers can only target ads to general areas, such as countries, cities, or regions around their business.
 
@@ -202,7 +221,7 @@ For additional information on our Display Network, visit the Help Center.
 
 To help advertisers measure performance
 
-Google may also use location information for analytics and measurement to understand how Google services are used. ​For example: Depending on your Timeline settings, Google may use location data from Timeline to help advertisers estimate how often ads drive visits to their stores. Only anonymous estimates, not personal information, are shared with advertisers. To do this, Google connects your Web & App Activity data, such as ad clicks, with Timeline data related to advertisers’ stores. Your Timeline data is not shared with advertisers.
+Google may also use location information for analytics and measurement to understand how Google services are used. ​For example: depending on your settings, Google may use location data from Timeline to help advertisers estimate how often ads drive visits to their stores. To do this, Google connects the activity you save as history in your account, such as ad interactions, with Timeline data related to advertisers’ stores. No personal information is shared with advertisers.
 
 To improve Google’s products and services
 
@@ -214,11 +233,11 @@ You can control how your general areas where you’ve used Google sites and apps
 
 When Areas where you’ve used Google are on
 
-When Ads Personalization and Areas where you’ve used Google are turned on, Google will use the data saved with your Web & App Activity related to the general areas where you’ve used Google sites and apps to personalize your ads.
+When Ads Personalization and Areas where you’ve used Google are turned on, Google will personalize your ads using the data related to the general areas where you’ve used Google sites and apps that is saved with your history in activity settings like Search Services History and Web & App Activity.
 
 When Areas where you’ve used Google are off
 
-When Ads Personalization or Areas where you’ve used Google are turned off, Google doesn’t use the data saved with your Web & App Activity related to the general areas where you’ve used Google sites and apps to personalize your ads. Even when Areas where you’ve used Google is turned off, you may still see ads based on your current location and places you’ve set as your home and work in your Google Account.
+When Ads Personalization or Areas where you’ve used Google are turned off, Google doesn’t personalize your ads based on the data related to the general areas where you’ve used Google sites and apps that is saved with your history in activity settings, like Search Services History and Web & App Activity. Even when Areas where you’ve used Google is turned off, you may still see ads based on your current location and places you’ve set as your home and work in your Google Account.
 
 In addition, if you are signed out, Google may still use your current location from your IP address or from your device to show you ads depending on your device and app settings.
 
