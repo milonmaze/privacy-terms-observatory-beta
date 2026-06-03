@@ -2,8 +2,6 @@ Help & Customer Service
 
 Find more solutions
 
-Digital Services and Device Support  › 
-Amazon Device and Digital Services Terms, Warranties, and Notices  › 
 Alexa & Alexa Device Terms  › 
 Children's Privacy Disclosure
 Last updated: April 22, 2026
@@ -81,35 +79,40 @@ Declarations of Conformity for Smart Home Devices
 Quick solutions
 	
 
-Devices & Content
+Your Orders
 
-Deliver books, apps to your device
-
-	
-
-Digital Purchases
-
-View purchased books & apps
+Track or cancel orders
 
 	
 
-Your Subscriptions
+Returns & Refunds
 
-Edit payment info
-
-	
-
-1-Click Settings
-
-Change your address
+Exchange or return items
 
 	
 
-Digital & Device Forum
+Manage Prime
 
-Ask the community
+Cancel or view benefits
 
-Contact Us
+	
+
+Payment Settings
+
+Add or edit payment methods
+
+	
+
+Carrier Info
+
+Shipping carrier information
+
+	
+
+Account Settings
+
+Change email or password
+
 Test: amzn-nv-flyout-healthy-choice
 Test: nav-rufus-disc-txt
 Test: a-truncate-cut
