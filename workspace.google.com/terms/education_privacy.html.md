@@ -168,6 +168,3 @@ Mountain View, CA 94043, USA
 Sign up for productivity, collaboration, and AI updates
 1
 2
-Continue
-Hi there 👋 What brings you to Google Workspace today?
-Welcome to Google Cloud Guide
