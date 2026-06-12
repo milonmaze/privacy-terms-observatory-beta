@@ -1,5 +1,5 @@
-Privacy & Terms
 Skip to main content
+Privacy & Terms
 Sign in
 LEGAL FRAMEWORKS FOR DATA TRANSFERS
 
