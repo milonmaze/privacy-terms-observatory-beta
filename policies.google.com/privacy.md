@@ -1,5 +1,5 @@
-Privacy Policy
 Skip to main content
+Privacy Policy
 Sign in
 
 When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
