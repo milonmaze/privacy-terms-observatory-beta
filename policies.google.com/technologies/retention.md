@@ -1,5 +1,5 @@
-Privacy & Terms
 Skip to main content
+Privacy & Terms
 Sign in
 HOW GOOGLE RETAINS DATA WE COLLECT
 
