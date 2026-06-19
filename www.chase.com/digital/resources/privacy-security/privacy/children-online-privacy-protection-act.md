@@ -6,7 +6,7 @@ Privacy
 selected
 Security
 Have questions?
-LAST UPDATED: JUNE 2024
+LAST UPDATED: APRIL 2026
 Children’s Privacy Policy
 
 Printer Friendly version (PDF)
@@ -29,10 +29,13 @@ By enrolling your child in Chase First Banking, you consent to our collection of
 
 Usage and Other Information
 
-In addition to the personal information described above, we may collect certain information about your child’s use of our online services. For example, we may capture the IP address of the device they use to connect to the online service, the type of operating system and browser they use, and information about the site they came from, the parts of our online service they access, and the site they go to next. We or our partners may also use cookies, web beacons or other technologies to collect and store other information about their visit to, or use of, our online services.  In addition, we may later associate the usage and other information we collect online with personal information about them.
+In addition to the personal information described above, we may collect certain information about your child’s use of our online services. For example, we may capture the IP address of the device they use to connect to the online service, the type of operating system and browser they use, and information about the site they came from, the parts of our online service they access, and the site they go to next. We or our partners may also use cookies, web beacons or other technologies to collect and store other information about their visit to, or use of, our online services. In addition, we may later associate the usage and other information we collect online with personal information about them.
+
+We (and service providers acting on our behalf) may collect persistent identifiers (such as a device identifier, IP address or cookie identifier) to support our internal operations of our online services, such as maintaining and analyzing service functionality, performing analytics and protecting against fraud, security risks, and errors.
+
+We (and service providers acting on our behalf) do not use or disclose persistent identifiers to contact your child, for behavioral advertising or to build a profile about your child based on activity over time or across different websites or online services.
 
 Chase Mobile
-
 
 When your child interacts with us through Chase Mobile, we may also collect information such as unique device identifiers for their mobile device, screen resolution and other device settings, information about their location, and analytical information about how they use their mobile device.
 
@@ -54,11 +57,28 @@ We may also use data that we collect on an aggregate or anonymous basis (such th
 
 Disclosure of Information
 
-We may share the information we collect from and about your child with our affiliates and others. For example, we may share their information with:
+We may share the information we collect from and about your child with our affiliates and third parties. For example, we may share their information with:
 
-Chase service providers;
-Successors or affiliates in connection with a corporate transaction, such as a sale, consolidation or merger of Chase businesses; and
-Others  to comply with legal requirements such as the demands of applicable subpoenas and court orders; to verify or enforce our terms of use, our other rights, or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect the rights, property or security of our customers or third parties.
+Chase service providers acting on our behalf, whose services include assisting us with app operations, analytics, diagnostics, fraud detection and prevention and mobile security;
+Successors or affiliates in connection with a corporate transaction, such as a sale, consolidation or merger of Chase businesses;
+Governmental, legal, regulatory, or other similar authorities and/or local government agencies, upon request or where required;
+Others to comply with legal requirements such as the demands of applicable subpoenas and court orders; to verify or enforce our terms of use, our other rights, or other applicable policies; to address fraud, security or technical issues; to respond to an emergency or otherwise to protect the rights, property or security of our customers or third parties;
+Other parties, if you direct or consent to us disclosing your child’s personal information to them.
+Retention of Personal Information
+
+We take reasonable steps designed to ensure that your child’s personal information is only processed for the minimum period necessary for the purposes for which it was collected. The criteria for determining the duration for which we will retain your child’s personal information are as follows:
+
+We will retain copies of your child’s personal information in a form that permits identification only for as long as:
+We maintain an ongoing relationship (e.g., while your child is still receiving services from us); or
+Your child’s personal information is necessary in connection with the purposes for which it was collected
+
+plus:
+We will retain copies of your child’s personal information for the duration of any applicable limitation period under applicable law; and where required by applicable law or a retention policy established in accordance with applicable law.
+
+In addition, if any relevant legal claims are anticipated/brought, we may continue to retain your child’s personal information for such additional periods as are necessary in connection with that claim.
+
+Once the periods above have concluded, each to the extent applicable or permitted by applicable law, we will permanently destroy the relevant personal information or delete it (i.e., remove personal information such that it is not maintained in retrievable form and cannot be retrieved in the normal course of business).
+
 Parent or Legal Guardian Rights
 
 As a parent or legal guardian, you have the right to:
@@ -73,4 +93,4 @@ To exercise any of these rights, please go to your Chase First Banking account o
 
 Contact Details
 
-If you have any comments, questions or concerns about any of the information in this Policy, please contact us a 1-800-935-9935 or review our Frequently Asked Questions.
+If you have any comments, questions or concerns about any of the information in this Policy, please contact us a 1-800-935-9935 or review our Frequently Asked Questions.
