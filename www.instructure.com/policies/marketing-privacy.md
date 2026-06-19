@@ -7,7 +7,6 @@ Languages:
 English
 German
 Dutch
-Spanish
 Portuguese
 
 Last Updated: October 14, 2025
