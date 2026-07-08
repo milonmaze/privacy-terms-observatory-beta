@@ -6,7 +6,7 @@ Security and Privacy  › 
 Legal Policies  › 
 Amazon.com Privacy Notice
 
-Last updated: December 31, 2025. View the prior version of this Privacy Notice.
+Last updated: June 30, 2026. View the prior version of this Privacy Notice.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon products, services, stores, website and physical locations, devices and applications that reference this Privacy Notice (together "Amazon Services"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.
 
@@ -26,6 +26,9 @@ Conditions of Use, Notices, and Revisions
 Related Practices and Information
 Examples of Information Collected
 
+
+
+
 What Personal Information About Customers Does Amazon Collect?
 
 We collect your personal information in order to provide and continually improve our products and services.
@@ -34,7 +37,10 @@ Here are the types of personal information we collect:
 
 Information You Give Us: We receive and store any information you provide in relation to Amazon Services. You can choose not to provide certain information, but then you might not be able to take advantage of many of our Amazon Services.
 Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services. Like many websites, we use "cookies" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites. Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with.
-Information from Other Sources: We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily.
+Information from Other Sources: We might receive information about you from other sources. For example, our carriers may provide us with updated delivery and address information, which we use to keep our records current and make delivery of your future purchases easier.
+
+
+
 
 See examples of information we collect or receive.
 
@@ -43,11 +49,11 @@ For What Purposes Does Amazon Use Your Personal Information?
 We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers. These purposes include:
 
 Purchase and delivery of products and services. We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers.
-Provide, troubleshoot, and improve Amazon Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services.
+Provide, troubleshoot, and improve Amazon Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services. In so doing, we use machine learning and artificial intelligence to support and enhance the customer experience across our products and services. This includes using data to develop or deploy our generative AI models and services. See our Generative AI Development Disclosure for more information.
 Recommendations and personalization. We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with Amazon Services.
 Provide voice, image and camera services. When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. You can read more about Alexa, Echo Devices, and Your Privacy.
 Comply with legal obligations. In certain cases, we collect and use your personal information to comply with laws. For instance, we collect from sellers information regarding place of establishment and bank account information for identity verification and other purposes.
-Communicate with you. We use your personal information to communicate with you in relation to Amazon Services via different channels (for example, by phone, email, chat).
+Communicate with you. We use your personal information to communicate with you in relation to Amazon Services via different channels (for example, by phone, email or chat).
 Advertising. We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads. To learn more, please read our Interest-Based Ads notice.
 Fraud Prevention and Credit Risks. We use personal information to prevent and detect fraud and abuse in order to protect the security of our customers, Amazon, and others. We may also use scoring methods to assess and manage credit risks.
 What About Cookies and Other Identifiers?
@@ -120,6 +126,9 @@ Most Recent Purchases
 Community Guidelines
 Generative AI Development Disclosure
 
+
+
+
 Examples of Information Collected
 
 Information You Give Us When You Use Amazon Services
@@ -135,6 +144,7 @@ upload your contacts;
 configure your settings on, provide data access permissions for, or interact with an Amazon device or service;
 provide information in your Seller Account , Kindle Direct Publishing account , Developer account , or any other account we make available that allows you to develop or offer software, goods, or services to Amazon customers;
 offer your products or services on or through Amazon Services;
+use Login with Amazon or otherwise link your Amazon account to a third-party business;
 communicate with us by phone, email, or otherwise;
 complete a questionnaire, a support ticket, or a contest entry form;
 upload or stream images, videos or other files to Prime Photos, Amazon Drive, or other Amazon Services;
@@ -163,6 +173,9 @@ corporate and financial information;
 credit history information; and
 device log files and configurations, including Wi-Fi credentials, if you choose to automatically synchronize them with your other Amazon devices.
 
+
+
+
 Automatic Information
 
 Examples of the information we collect and analyze include:
@@ -188,7 +201,8 @@ Examples of information we receive from other sources include:
 updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily;
 account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services;
 information about your interactions with products and services offered by our subsidiaries;
-search results and links, including paid listings (such as Sponsored Links);
+information about how you interact with ads served by Amazon on third-party websites and apps (learn more in our Interest-Based Ads notice);
+content we receive from third parties to provide, develop, and improve Amazon Services, such as advertising-related information and identifiers (as described in more detail in our Interest-Based Ads notice);
 information about internet-connected devices and services linked with Alexa; and
 credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
 
