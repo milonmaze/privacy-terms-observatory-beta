@@ -1,5 +1,5 @@
 Skip to Content
-Updated March 2, 2026
+Updated July 7, 2026
 Privacy Policy
 How Shopify handles your data
 Introduction
@@ -59,11 +59,13 @@ We are a Canadian company, but we work with and process data about individuals a
 
 Depending on whether you are a merchant, consumer, partner, or visitor, please refer to our supplemental privacy policies, as relevant.
 
-Transfers outside of Europe and Switzerland
+Transfers outside of the EEA, the UK and Switzerland
 
-If you are located in the EEA, the UK, or Switzerland, your Personal Data is received by our Irish affiliate, Shopify International Ltd. Your information is then sent to other Shopify locations and to service providers who may be located in other regions, including Canada (where we are based) and the United States. When we send your Personal Data outside of the EEA, UK or Switzerland, we do so in accordance with applicable law.
+If you are located in the EEA, the UK, or Switzerland, your Personal Data is received by our Irish affiliate, Shopify International Ltd. Your information is then sent to other Shopify locations and to service providers who may be located in other regions, including Canada (where we are headquartered) and the United States. When we send your Personal Data outside of the EEA, the UK and Switzerland, we do so in accordance with applicable law.
 
-If you are in the EEA, the UK, or Switzerland, when we send your Personal Data to Canada it is protected under Canadian law, which the European Commission has found adequately protects your information. If we then send this Personal Data outside of Canada (for example, when we send this information to our Subprocessors), this information is protected by contractual commitments that are comparable to those provided in the Standard Contractual Clauses.
+If you are in the EEA or Switzerland, when we send your Personal Data to any other Shopify entity outside the EEA or Switzerland, it is transferred in accordance with Shopify's Binding Corporate Rules (BCRs). Shopify's BCRs have been approved by European data protection authorities and reflect Shopify's commitment to adequately protect Personal Data regardless of where the information resides. If you are in the UK, when we send your Personal Data to any other Shopify entity outside of the UK, EEA or Switzerland, it is transferred pursuant to Standard Contractual Clauses in place between Shopify entities, and may rely on the European Commission's adequacy decision in relation to Canada to support transfers from Shopify International Limited to its Canadian-registered corporate parent Shopify Inc.
+
+Where Shopify transfers your Personal Data to any third parties (for example, when we send this information to our Subprocessors), such transfers are protected by contractual commitments in the form of Standard Contractual Clauses where appropriate.
 
 Finally, while we do what we can to protect your information, we may at times be legally required to disclose your Personal Data (for example, if we receive a valid court order). For information about how we respond to such orders, please review our Guidelines for Legal Requests.
 
