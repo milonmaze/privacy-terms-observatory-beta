@@ -9,7 +9,7 @@ We respect the laws that apply to us in the countries where we operate. In the U
 
 We never provide information to a government to fulfill a member data request without first trying to notify the individual member, except when applicable law prohibits us from doing so. We may make exceptions in certain emergencies.
 
-This report covers the six-month period between January 1 and June 30, 2025.
+This report covers the six-month period between July 1 and December 31, 2025.
 
 
 This report covers:
@@ -35,6 +35,52 @@ Global government requests for content removal
 2018
 2017
 2016
+ 	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
+	Accounts for which LinkedIn provided some data [2]
+Australia	11	17	18%	2
+Austria	4	360	25%	1
+Belgium	7	15	71%	9
+Bosnia and Herzegovina	1	1	0%	0
+Brazil	63	131	57%	46
+Canada
+	4	5	75%	4
+Chile	2	3	0%	0
+Croatia	2	5	100%	5
+Czech Republic	2	2	50%	1
+Denmark	1	1	100%	1
+Finland	2	2	100%	2
+France
+	874	897	29%	253
+Germany
+	164	222	66%	129
+Greece	4	5	25%	2
+Hungary	2	2	50%	1
+Iceland	2	3	0%	0
+India
+	56	75	46%	36
+Ireland	6	13	0%	0
+Italy
+	34	85	41%	17
+Jordan	1	1	0%	0
+Lithuania	2	2	50%	1
+Malta	1	2	0%	0
+Mexico	2	2	0%	0
+Montenegro	1	2	0%	0
+Netherlands
+	2	4	100%	4
+New Zealand	1	2	100%	1
+Peru	3	3	0%	0
+Poland	18	31	50%	12
+Serbia	1	1	0%	0
+Singapore	6	6	83%	5
+South Korea	1	3	0%	0
+Spain	20	37	55%	16
+Sweden	1	1	0%	0
+Switzerland	5	6	40%	2
+Taiwan	1	1	0%	0
+United Kingdom	28	28	79%	22
+United States	443	2292	80%	985
+Total	1778	4268	49%	1557
  	 	Requests for member data	Accounts subject to request(s) [1]	Percentage of requests for which LinkedIn provided some data
 	Accounts for which LinkedIn provided some data [2]
 Argentina	 	1	2	0%	0
@@ -97,6 +143,17 @@ Breakdown of U.S. government requests for data
 2017
 2016
 2015
+Requests [1]	443
+Accounts subject to requests	2,292
+Requests for which LinkedIn provided some data	80%
+Subpoenas [2]	66%
+Search warrants [3]	11%
+Court orders [4]	21%
+Other [5]	2%
+National security letters received [6]	0-499
+National security letters (accounts subject to request)
+	0-499
+FISA requests [6]	0-499
 Requests [1]	438
 Accounts subject to requests	2,303
 Requests for which LinkedIn provided some data	81%
@@ -140,6 +197,28 @@ Global government requests for content removal
 2020
 2019
 2018
+ 	Requests	Action taken	Percentage action taken
+Australia	4	2	50%
+Brazil	14	8	57%
+Denmark	1	1	100%
+Finland	1	0	0%
+France	2	0	0%
+Germany	1	0	0%
+India	18	15	83%
+Italy	2	2	100%
+Luxembourg	1	1	100%
+Malaysia	1	1	100%
+New Zealand	2	2	100%
+Pakistan	2	1	50%
+Romania	1	0	0%
+Seychelles	1	0	0%
+Singapore	6	5	83%
+Spain	1	0	0%
+Turkey	12	12	100%
+United Kingdom	3	2	67%
+United States	3	3	100%
+Total including the US	76	55	72%
+Total minus the US	73	52	71%
  	Requests	Action taken	Percentage action taken
 Angola	1	1	100%
 Australia	11	2	18%
