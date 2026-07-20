@@ -10,7 +10,7 @@ We show different factors that contribute to why you saw an ad and give you opti
 Privacy topics
 Get answers to your privacy questions and manage your privacy in a way that’s right for you.
 Information
-Review and manage your information across your accounts
+Review and manage your information
 Generative AI
 Generative AI at Meta
 Safety
