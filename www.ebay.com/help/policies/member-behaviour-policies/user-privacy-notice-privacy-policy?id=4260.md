@@ -34,7 +34,7 @@ Which eBay Affiliate is responsible for the collection and processing of your pe
 Depending on the region in which you reside, one of the following eBay Affiliates is responsible for the collection and processing of your personal data in connection with the provision of our Services (except payment services for sellers). Your region of residence is determined based on your account registration address (where available) or your location (in all other cases):
 
 USA: eBay Inc., 2025 Hamilton Avenue, San Jose, CA 95125, USA
-Canada: eBay Canada Limited, 240 Richmond Street West, 2nd Floor Suite 02-100 Toronto, Ontario, M5V 1V6, Canada
+Canada: eBay Canada Limited, 155 Queens Quay East, 6th floor, Toronto ON M5A 0W4, Canada
 EU: eBay GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, Germany
 United Kingdom: eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom
 India: eBay Singapore Services Private Limited, 1 Raffles Quay, #18- 00, Singapore 048583
@@ -46,7 +46,7 @@ Depending on the region in which you reside or where your payments are processed
 USA: eBay Commerce Inc., 2065 Hamilton Ave., San Jose, CA 95125, USA
 EEA/CH: eBay S.à r.l., 22-24 Boulevard Royal, L-2449 Luxembourg
 UK: eBay Commerce UK Ltd., 1 More London Place, London SE1 2AF, United Kingdom
-Canada: eBay Commerce Canada Limited, 240 Richmond Street West, Toronto, ON M5V 1V6, Canada
+Canada: eBay Commerce Canada Limited, 44 Chipman Hill, Suite 1000, Saint John NB E2L 2A9, Canada
 Australia: eBay Commerce Australia Pty. Ltd., Level 18, 1 York Street, Sydney NSW 2000, Australia
 For all other countries: eBay Commerce Inc., 2065 Hamilton Ave., San Jose, CA 95125, USA
 
