@@ -10,10 +10,36 @@ For the avoidance of doubt, Services listed under "Google Cloud Platform Service
 
 Services marked in *asterisks* are not available for resale under the Google Cloud Partner Advantage program, unless specifically authorized in writing by Google.
 
-Expand all
 Google Cloud Platform Services Summary
+Expand all
+Compute
+Storage
+Databases
+Networking
+Operations
+Developer Tools
+Data Analytics
+AI/ML Services
+API Management
+Container Services
+Google-Managed Multi-Cloud Services
+Bare Metal
+Migration
+Security and Identity
+Google Distributed Cloud
+Data Boundary by Partners
+User Protection Services
+Serverless Computing
+Management Tools
+Healthcare and Life Sciences
+Media and Gaming
+Google Cloud Platform Premium Software
+Google Cloud Platform Software
 SecOps Services Summary
-PREVIOUS VERSIONS (Last modified June 25, 2026)
+Expand all
+SecOps Services Summary
+PREVIOUS VERSIONS (Last modified July 16, 2026)
+June 25, 2026
 June 8, 2026
 June 5, 2026
 May 29, 2026
