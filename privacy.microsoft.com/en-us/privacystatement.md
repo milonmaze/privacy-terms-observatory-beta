@@ -1,13 +1,9 @@
 Skip to main content
 Microsoft Privacy Statement
 
-Last Updated: June 2026
+Last Updated: July 2026
 
 What's New?
-
- 
-
-We’ve refreshed our Privacy Statement to make it easier to read, navigate, and understand, with clearer explanations of how we use data and the choices available to you. More detailed information is available in What's New.
 
  Print
 Expand All
@@ -107,7 +103,7 @@ Collection of data from children
 
 Microsoft offers many products and services that children and teens can use, though child and teen users will not always have access to all the features and services that adult users do. Some of these features will be off by default or unavailable to younger users. When a child is under 13-or a higher age if required in their region-the child will need consent from their parent or guardian to create a Microsoft account. Parents can change or revoke consent at any time.
 
-Microsoft offers Family Safety tools that allow parents to connect their children’s accounts to a family group. Microsoft accounts created using parental consent are automatically added to the parent’s family group. As the organizer of a Microsoft family group, the parent or guardian can manage their child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Parents of Xbox users have additional controls through the Xbox Family Settings app.
+Microsoft offers Family Safety tools that allow parents to connect their children’s accounts to a family group. Microsoft accounts created using parental consent are automatically added to the parent’s family group. As the organizer of a Microsoft family group, the parent or guardian can manage their child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Parents of XBOX users have additional controls through the XBOX Family Settings app.
 
 Learn more
 
@@ -187,7 +183,7 @@ Back to top
 
 Entertainment and related services
 
-Entertainment and related services like Xbox, Microsoft Store, and MSN power rich experiences and enable you to access a variety of content, applications and games. We collect and use your information depending on how you use these services to fuel your experience – for example, we collect your unique identifiers, information about how you interact with in these services, who you chat with, what content you upload, and products you search for and buy.  See below for more details about these services, their features, and how they use data.
+Entertainment and related services like XBOX, Microsoft Store, and MSN power rich experiences and enable you to access a variety of content, applications and games. We collect and use your information depending on how you use these services to fuel your experience – for example, we collect your unique identifiers, information about how you interact with in these services, who you chat with, what content you upload, and products you search for and buy.  See below for more details about these services, their features, and how they use data.
 
 Learn more
 
