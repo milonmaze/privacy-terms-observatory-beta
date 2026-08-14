@@ -60,6 +60,8 @@ Scots
  
 Soomaaliga
  
+Tagalog
+ 
 Tiếng Việt
  
 Türkçe
