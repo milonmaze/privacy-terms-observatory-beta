@@ -38,7 +38,8 @@ Google Cloud Platform Software
 SecOps Services Summary
 Expand all
 SecOps Services Summary
-PREVIOUS VERSIONS (Last modified July 16, 2026)
+PREVIOUS VERSIONS (Last modified August 27, 2026)
+July 16, 2026
 June 25, 2026
 June 8, 2026
 June 5, 2026
