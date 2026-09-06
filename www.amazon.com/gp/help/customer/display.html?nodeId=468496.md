@@ -245,6 +245,7 @@ Amazon.com Gift Card and Electronic Message Customization Service Terms
 Generative AI Development Disclosure
 Amazon Settlement
 California Device Protection Request
+PRE-ARBITRATION DISPUTE RESOLUTION PROCEDURE
 Quick solutions
 	
 
