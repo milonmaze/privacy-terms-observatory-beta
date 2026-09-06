@@ -28,6 +28,8 @@ Hausa
  
 Ido
  
+Jawa
+ 
 Kiswahili
  
 Kreyòl ayisyen
