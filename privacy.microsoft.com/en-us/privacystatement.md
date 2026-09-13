@@ -1,7 +1,7 @@
 Skip to main content
 Microsoft Privacy Statement
 
-Last Updated: July 2026
+Last Updated: September 2026
 
 What's New?
 
