@@ -61,17 +61,17 @@ See more information about cookies used for advertising here.
 
 Personalization
 
-Cookies and similar technologies are used for the purpose of showing personalized content.These cookies help enhance your experience by providing personalized content and features, depending on your settings at g.co/privacytools or your app and device settings.
+Cookies (or other identifiers like your IP address or information you previously shared with the website) are used for the purpose of showing personalized content. These cookies help enhance your experience by providing personalized content and features, depending on your settings at g.co/privacytools or your app and device settings.
 
 Personalized content and features include things like more relevant results and recommendations, a customized YouTube homepage, and ads that are tailored to your interests. For example, the ‘VISITOR_INFO1_LIVE’ cookie may enable personalized recommendations on YouTube based on past views and searches. And the ‘NID’ cookie enables personalized autocomplete features in Search as you type search terms. These cookies expire 6 months after a user’s last use.
 
 Another cookie, ‘UULE’, sends precise location information from your browser to Google’s servers so that Google can show you results that are relevant to your location. The use of this cookie depends on your browser settings and whether you have chosen to have location turned on for your browser. The ‘UULE’ cookie lasts up to 6 hours.
 
-Even if you reject cookies and similar technologies used for personalization, the non-personalized content and features you see may still be influenced by contextual factors, like your location, language, device type, or the content you’re currently viewing.
+Even if you reject cookies and similar technologies used for personalization, you may continue to see personalized ads using other identifiers unless you turn off personalized ads. In addition, the non-personalized content and features you see may still be influenced by contextual factors, like your location, language, device type, or the content you’re currently viewing.
 
 MANAGING COOKIES IN YOUR BROWSER
 
-Most browsers allow you to manage how cookies are set and used as you’re browsing, and to clear cookies and browsing data. Also, your browser may have settings letting you manage cookies on a site-by-site basis. For example, Google Chrome’s settings at chrome://settings/cookies allow you to delete existing cookies, allow or block all cookies, and set cookie preferences for websites. Google Chrome also offers Incognito mode, which deletes cookies, site data, and your browsing history from your device when you exit your Incognito session.
+Most browsers allow you to manage how cookies are set and used as you’re browsing, and to clear cookies and browsing data. Also, your browser may have settings letting you manage cookies on a site-by-site basis. For example, Google Chrome’s settings at chrome://settings/cookies allow you to delete existing cookies, allow or block all cookies, and set cookie preferences for websites. Google Chrome also offers Incognito mode, which deletes cookies, site data, and your browsing history from your device when you exit your Incognito session. But note that even if cookies are removed or disabled in your browser, Google may use cookie-based information or other advertising technologies to personalize ads unless you change your ads settings to turn off personalized ads.
 
 MANAGING SIMILAR TECHNOLOGIES IN YOUR APPS AND DEVICES
 
