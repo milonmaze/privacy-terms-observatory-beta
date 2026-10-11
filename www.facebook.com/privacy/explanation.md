@@ -1,8 +1,4 @@
 Privacy Policy
-Updated on Jul 23, 2026
-We've updated our Privacy Policy with details about agentic AI capabilities and how we personalise your AI experiences.
-
-View details
 What is the Privacy Policy and what does it cover?
 Effective July 23, 2026 | View printable version | See previous versions
 Highlights
