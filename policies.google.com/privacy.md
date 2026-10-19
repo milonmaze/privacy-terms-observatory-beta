@@ -12,7 +12,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective October 1, 2026 Archived versions Download PDF
+Effective October 16, 2026 Archived versions Download PDF
 Contents
 Introduction
 Information Google collects
@@ -115,12 +115,12 @@ We use the information we collect in existing services to help us develop new on
 
 Provide personalized services, including content and ads
 
-We use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
+We use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like. You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service. For example, Search may process some of the data that you allow Search to access to personalize content, including ads.
 
-Depending on your settings, we may also show you personalized ads based on your interests and activity across Google services. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.
+Depending on your settings, we may also show you personalized ads based on your interests, activity, or personalized content from Google services. For example, if you search for “mountain bikes,” in Search you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.
 
 We don’t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
-We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
+We don’t show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads.
 We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
 
 Go to My Ad Center
@@ -154,7 +154,7 @@ Go to Privacy Checkup
 
 Managing, reviewing, and updating your information
 
-When you’re signed in, you can always review and update information by visiting the services you use. For example, Photos and Drive are both designed to help you manage specific types of content you’ve saved with Google.
+When you’re signed in, you can always review and update information by visiting the services you use. For example, Google Photos and Drive are both designed to help you manage specific types of content you’ve saved with Google.
 
 We also built a place for you to review and control information saved in your Google Account. Your Google Account includes:
 
