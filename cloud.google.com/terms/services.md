@@ -38,7 +38,9 @@ Google Cloud Platform Software
 SecOps Services Summary
 Expand all
 SecOps Services Summary
-PREVIOUS VERSIONS (Last modified October 12, 2026)
+PREVIOUS VERSIONS (Last modified October 30, 2026)
+October 21, 2026
+October 12, 2026
 September 30, 2026
 August 27, 2026
 July 16, 2026
@@ -145,12 +147,12 @@ June 22, 2021
 May 18, 2021
 April 30, 2021
 April 14, 2021
+January 6, 2021
 April 8, 2021
 March 31, 2021
 March 2, 2021
 February 4, 2021
 January 26, 2021
-January 6, 2021
 November 2, 2020
 September 15, 2020
 September 1, 2020
@@ -270,6 +272,7 @@ Support
 Code samples
 Cloud Architecture Center
 Training
+Builders Hub
 Certifications
 Google for Developers
 Google Cloud for Startups
