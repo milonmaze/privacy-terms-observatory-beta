@@ -2,6 +2,7 @@ Help & Customer Service
 
 Find more solutions
 
+Search our help content
 Security and Privacy  › 
 Law Enforcement Information Requests
 
