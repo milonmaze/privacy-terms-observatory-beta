@@ -2,6 +2,7 @@ Help & Customer Service
 
 Find more solutions
 
+Search our help content
 Alexa & Alexa Device Terms  › 
 Children's Privacy Disclosure
 Last updated: April 22, 2026
