@@ -7,6 +7,7 @@ Government Data
 Removal Data 
 CSAM Report 
 EU Digital Services Act 
+Safeguarding AI Products 
 About
 
 Consumers First 
