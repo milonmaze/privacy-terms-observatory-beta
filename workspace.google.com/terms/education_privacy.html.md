@@ -17,15 +17,9 @@ Google Workspace for Education facilitates learning and collaboration among stud
 
 • Google Workspace for Education Core Services are listed in the Services Summary and include Gmail, Calendar, Classroom, Contacts, Drive, Docs, Forms, Groups, Sheets, Sites, Slides, Chat, Meet, Vault, Chrome Sync, Gemini for Education, Gemini Notebook, and Google Workspace LTI™.
 
-        
-
 • Google Workspace for Education Other Services are listed in the Services summary and include AppSheet and Read Along.
 
- 
-
 • Google Workspace for Education Additional Services include services we make generally available for all consumers, such as Google Search, Maps, and YouTube, which Workspace for Education users may have access to with their Workspace accounts.
-
-      
 
 This document provides the key information about both types of services. If you want to learn more, you can find additional information and examples in the following documents that also apply to Google Workspace for Education accounts. The Google Cloud Privacy Notice and the Google Cloud Data Processing Addendum provide more information about data that we process while providing the Core Services, and the Google Privacy Policy provides more information about data that we process in Additional Services. Information provided in this notice relating to Core Services also applies to Other Services listed in the Services Summary.
 
